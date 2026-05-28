@@ -1,0 +1,6 @@
+# Force LF on every JSON file so the byte-identical index comparison
+# (commons-tool's `verify-mock`) holds across Linux and Windows checkouts.
+# The Python indexer that originally produced these indexes writes LF
+# and we keep the canonical form.
+*.json text eol=lf
+*.md   text eol=lf
