@@ -1,0 +1,72 @@
+{
+  "record_class": "bundle",
+  "slug": "leather-strap-kit",
+  "emitter": "opg://mock-curator",
+  "content_hash": "sha256:000000000000000000000000000000000000000000000000000000000000000e",
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "provenance_state": "unasserted",
+    "outcome": "unknown"
+  },
+  "name": {
+    "en": "Leather Strap Kit",
+    "de": "Lederriemen-Set",
+    "fr": "Kit de lanière en cuir"
+  },
+  "description": {
+    "en": "End-to-end primitive set for constructing a leather strap from raw material to finished piece.",
+    "de": "Vollständiger Primitiv-Satz zur Herstellung eines Lederriemens vom Rohmaterial bis zum fertigen Stück.",
+    "fr": "Ensemble complet de primitives pour fabriquer une lanière en cuir, du matériau brut à la pièce finie."
+  },
+  "items": [
+    {
+      "record_class": "primitive",
+      "kind": "material",
+      "slug": "vegetable-tanned-leather",
+      "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000003",
+      "role": "required"
+    },
+    {
+      "record_class": "primitive",
+      "kind": "tool",
+      "slug": "round-knife",
+      "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000001",
+      "role": "required"
+    },
+    {
+      "record_class": "primitive",
+      "kind": "technique",
+      "slug": "edge-burnishing",
+      "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000006",
+      "role": "required"
+    },
+    {
+      "record_class": "primitive",
+      "kind": "workflow",
+      "slug": "leather-strap-construction",
+      "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000007",
+      "role": "required"
+    },
+    {
+      "record_class": "primitive",
+      "kind": "tool",
+      "slug": "mallet",
+      "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000002",
+      "role": "recommended"
+    },
+    {
+      "record_class": "primitive",
+      "kind": "material",
+      "slug": "waxed-thread",
+      "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000004",
+      "role": "recommended"
+    },
+    {
+      "record_class": "primitive",
+      "kind": "technique",
+      "slug": "saddle-stitch",
+      "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000005",
+      "role": "recommended"
+    }
+  ]
+}

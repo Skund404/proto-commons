@@ -1,0 +1,53 @@
+{
+  "opgl_version": "0.6",
+  "emitter": "opg://mock",
+  "id": "saddle-stitch-mock",
+  "slug": "saddle-stitch",
+  "kind": "technique",
+  "name": "Saddle Stitch",
+  "description": "Two-needle hand stitch where both threads pass through each hole in opposite directions. Stronger and more durable than machine lock-stitch; standard for premium leatherwork.",
+  "visibility": "commons",
+  "created": "2026-05-28",
+  "modified": "2026-05-28",
+  "content_hash": "sha256:0000000000000000000000000000000000000000000000000000000000000005",
+  "tags": ["stitching", "hand-sewn", "intermediate"],
+  "properties": {
+    "skillLevel": "intermediate",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": ["saddle stitch"],
+      "de": ["Sattlerstich"],
+      "fr": ["point sellier"]
+    },
+    "steps": [
+      { "position": 1, "description": "Mark stitch spacing with a wing divider or pricking iron." },
+      { "position": 2, "description": "Punch holes through the leather with a stitching chisel and mallet." },
+      { "position": 3, "description": "Thread one needle on each end of the waxed thread." },
+      { "position": 4, "description": "Pass both needles through the first hole in opposite directions, pulling tight." },
+      { "position": 5, "description": "Repeat for each hole, maintaining consistent tension." },
+      { "position": 6, "description": "Backstitch the final two holes and trim flush." }
+    ]
+  },
+  "relationships": [
+    {
+      "type": "uses_tool",
+      "target": {
+        "id": "mallet-mock",
+        "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000002",
+        "path": "primitives/tools/mallet.json"
+      }
+    },
+    {
+      "type": "uses_material",
+      "target": {
+        "id": "waxed-thread-mock",
+        "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000004",
+        "path": "primitives/materials/waxed-thread.json"
+      }
+    }
+  ],
+  "lineage": {
+    "provenance_state": "unasserted",
+    "outcome": "unknown"
+  }
+}

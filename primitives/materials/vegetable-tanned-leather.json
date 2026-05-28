@@ -1,0 +1,29 @@
+{
+  "opgl_version": "0.6",
+  "emitter": "opg://mock",
+  "id": "vegetable-tanned-leather-mock",
+  "slug": "vegetable-tanned-leather",
+  "kind": "material",
+  "name": "Vegetable-Tanned Leather",
+  "description": "Leather tanned using plant-based tannins. Stiff, durable, and tools well — preferred for tooling and structural work.",
+  "visibility": "commons",
+  "created": "2026-05-28",
+  "modified": "2026-05-28",
+  "content_hash": "sha256:0000000000000000000000000000000000000000000000000000000000000003",
+  "tags": ["leather", "vegetable-tanned"],
+  "properties": {
+    "materialType": "leather",
+    "unit": "sqft",
+    "subtype": "consumable",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": ["vegetable-tanned leather", "veg tan", "veg-tan leather"],
+      "de": ["pflanzlich gegerbtes Leder", "Vachetta"],
+      "fr": ["cuir à tannage végétal", "cuir tanné végétal"]
+    }
+  },
+  "lineage": {
+    "provenance_state": "unasserted",
+    "outcome": "unknown"
+  }
+}

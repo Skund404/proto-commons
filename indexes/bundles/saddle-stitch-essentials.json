@@ -1,0 +1,58 @@
+{
+  "record_class": "bundle",
+  "slug": "saddle-stitch-essentials",
+  "emitter": "opg://mock-curator",
+  "content_hash": "sha256:000000000000000000000000000000000000000000000000000000000000000d",
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "provenance_state": "unasserted",
+    "outcome": "unknown"
+  },
+  "name": {
+    "en": "Saddle Stitch Essentials",
+    "de": "Sattlerstich-Grundausstattung",
+    "fr": "L'essentiel du point sellier"
+  },
+  "description": {
+    "en": "Minimum primitives needed to start saddle stitching by hand.",
+    "de": "Minimale Grundausstattung für den handgenähten Sattlerstich.",
+    "fr": "Primitives minimales pour commencer le point sellier à la main."
+  },
+  "items": [
+    {
+      "record_class": "primitive",
+      "kind": "material",
+      "slug": "waxed-thread",
+      "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000004",
+      "role": "required"
+    },
+    {
+      "record_class": "primitive",
+      "kind": "tool",
+      "slug": "mallet",
+      "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000002",
+      "role": "required"
+    },
+    {
+      "record_class": "primitive",
+      "kind": "tool",
+      "slug": "diamond-awl",
+      "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000b",
+      "role": "required"
+    },
+    {
+      "record_class": "primitive",
+      "kind": "technique",
+      "slug": "saddle-stitch",
+      "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000005",
+      "role": "required"
+    },
+    {
+      "record_class": "primitive",
+      "kind": "material",
+      "slug": "vegetable-tanned-leather",
+      "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000003",
+      "role": "recommended"
+    }
+  ]
+}

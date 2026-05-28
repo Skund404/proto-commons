@@ -1,0 +1,61 @@
+{
+  "opgl_version": "0.6",
+  "emitter": "opg://mock",
+  "id": "leather-strap-construction-mock",
+  "slug": "leather-strap-construction",
+  "kind": "workflow",
+  "name": "Leather Strap Construction",
+  "description": "End-to-end workflow for constructing a leather strap: layout, cutting, edge treatment, and stitching.",
+  "visibility": "commons",
+  "created": "2026-05-28",
+  "modified": "2026-05-28",
+  "content_hash": "sha256:0000000000000000000000000000000000000000000000000000000000000007",
+  "tags": ["leather", "strap", "intermediate"],
+  "properties": {
+    "difficulty": "intermediate",
+    "license": "CC-BY-4.0",
+    "isTemplate": true,
+    "names": {
+      "en": ["leather strap construction", "strap making"],
+      "de": ["Lederriemen herstellen", "Riemenbau"],
+      "fr": ["fabrication de lanière en cuir"]
+    },
+    "steps": [
+      { "position": 1, "description": "Lay out the strap dimensions on vegetable-tanned leather." },
+      { "position": 2, "description": "Cut the strap to width and length with a round knife." },
+      { "position": 3, "description": "Bevel and burnish the edges." },
+      { "position": 4, "description": "If joining to hardware, mark and punch stitch holes." },
+      { "position": 5, "description": "Saddle-stitch any attachment points with waxed thread." }
+    ]
+  },
+  "relationships": [
+    {
+      "type": "applies_technique",
+      "target": {
+        "id": "edge-burnishing-mock",
+        "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000006",
+        "path": "primitives/techniques/edge-burnishing.json"
+      }
+    },
+    {
+      "type": "applies_technique",
+      "target": {
+        "id": "saddle-stitch-mock",
+        "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000005",
+        "path": "primitives/techniques/saddle-stitch.json"
+      }
+    },
+    {
+      "type": "uses_material",
+      "target": {
+        "id": "vegetable-tanned-leather-mock",
+        "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000003",
+        "path": "primitives/materials/vegetable-tanned-leather.json"
+      }
+    }
+  ],
+  "lineage": {
+    "provenance_state": "unasserted",
+    "outcome": "unknown"
+  }
+}

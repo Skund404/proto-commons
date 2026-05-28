@@ -1,0 +1,29 @@
+{
+  "opgl_version": "0.6",
+  "emitter": "opg://mock",
+  "id": "round-knife-mock",
+  "slug": "round-knife",
+  "kind": "tool",
+  "name": "Round Knife",
+  "description": "Half-moon shaped cutting tool used in leatherwork for straight cuts, curves, and skiving.",
+  "visibility": "commons",
+  "created": "2026-05-28",
+  "modified": "2026-05-28",
+  "content_hash": "sha256:0000000000000000000000000000000000000000000000000000000000000001",
+  "tags": ["cutting", "leather", "active"],
+  "properties": {
+    "category": "cutting",
+    "status": "active",
+    "license": "CC-BY-4.0",
+    "persistent": true,
+    "names": {
+      "en": ["round knife", "head knife"],
+      "de": ["Halbmondmesser", "Rundmesser"],
+      "fr": ["couteau demi-lune"]
+    }
+  },
+  "lineage": {
+    "provenance_state": "unasserted",
+    "outcome": "unknown"
+  }
+}

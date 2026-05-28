@@ -1,0 +1,29 @@
+{
+  "opgl_version": "0.6",
+  "emitter": "opg://mock",
+  "id": "waxed-thread-mock",
+  "slug": "waxed-thread",
+  "kind": "material",
+  "name": "Waxed Thread",
+  "description": "Polyester or linen thread coated in wax. Holds stitches under tension; standard for hand-sewn leatherwork.",
+  "visibility": "commons",
+  "created": "2026-05-28",
+  "modified": "2026-05-28",
+  "content_hash": "sha256:0000000000000000000000000000000000000000000000000000000000000004",
+  "tags": ["thread", "stitching"],
+  "properties": {
+    "materialType": "thread",
+    "unit": "m",
+    "subtype": "consumable",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": ["waxed thread"],
+      "de": ["gewachster Faden", "Sattlergarn"],
+      "fr": ["fil ciré"]
+    }
+  },
+  "lineage": {
+    "provenance_state": "unasserted",
+    "outcome": "unknown"
+  }
+}

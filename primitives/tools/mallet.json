@@ -1,0 +1,29 @@
+{
+  "opgl_version": "0.6",
+  "emitter": "opg://mock",
+  "id": "mallet-mock",
+  "slug": "mallet",
+  "kind": "tool",
+  "name": "Mallet",
+  "description": "Striking tool used to drive stamps, punches, and stitching irons through leather.",
+  "visibility": "commons",
+  "created": "2026-05-28",
+  "modified": "2026-05-28",
+  "content_hash": "sha256:0000000000000000000000000000000000000000000000000000000000000002",
+  "tags": ["striking", "leather", "active"],
+  "properties": {
+    "category": "striking",
+    "status": "active",
+    "license": "CC-BY-4.0",
+    "persistent": true,
+    "names": {
+      "en": ["mallet"],
+      "de": ["Schlegel", "Holzhammer"],
+      "fr": ["maillet"]
+    }
+  },
+  "lineage": {
+    "provenance_state": "unasserted",
+    "outcome": "unknown"
+  }
+}

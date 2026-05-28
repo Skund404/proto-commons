@@ -1,0 +1,110 @@
+{
+  "awl": {
+    "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000a",
+    "path": "primitives/tools/awl.json",
+    "kind": "tool",
+    "canonical": true
+  },
+  "c.s. osborne diamond awl": {
+    "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000c",
+    "path": "primitives/tools/osborne-diamond-awl.json",
+    "kind": "tool",
+    "canonical": false
+  },
+  "diamond awl": {
+    "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000b",
+    "path": "primitives/tools/diamond-awl.json",
+    "kind": "tool",
+    "canonical": true
+  },
+  "edge burnishing": {
+    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000006",
+    "path": "primitives/techniques/edge-burnishing.json",
+    "kind": "technique",
+    "canonical": true
+  },
+  "edge slicking": {
+    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000006",
+    "path": "primitives/techniques/edge-burnishing.json",
+    "kind": "technique",
+    "canonical": false
+  },
+  "head knife": {
+    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000001",
+    "path": "primitives/tools/round-knife.json",
+    "kind": "tool",
+    "canonical": false
+  },
+  "leather strap construction": {
+    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000007",
+    "path": "primitives/workflows/leather-strap-construction.json",
+    "kind": "workflow",
+    "canonical": true
+  },
+  "mallet": {
+    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000002",
+    "path": "primitives/tools/mallet.json",
+    "kind": "tool",
+    "canonical": true
+  },
+  "osborne #424": {
+    "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000c",
+    "path": "primitives/tools/osborne-diamond-awl.json",
+    "kind": "tool",
+    "canonical": false
+  },
+  "osborne diamond awl": {
+    "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000c",
+    "path": "primitives/tools/osborne-diamond-awl.json",
+    "kind": "tool",
+    "canonical": true
+  },
+  "round knife": {
+    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000001",
+    "path": "primitives/tools/round-knife.json",
+    "kind": "tool",
+    "canonical": true
+  },
+  "saddle stitch": {
+    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000005",
+    "path": "primitives/techniques/saddle-stitch.json",
+    "kind": "technique",
+    "canonical": true
+  },
+  "stitching awl": {
+    "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000b",
+    "path": "primitives/tools/diamond-awl.json",
+    "kind": "tool",
+    "canonical": false
+  },
+  "strap making": {
+    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000007",
+    "path": "primitives/workflows/leather-strap-construction.json",
+    "kind": "workflow",
+    "canonical": false
+  },
+  "veg tan": {
+    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000003",
+    "path": "primitives/materials/vegetable-tanned-leather.json",
+    "kind": "material",
+    "canonical": false
+  },
+  "veg-tan leather": {
+    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000003",
+    "path": "primitives/materials/vegetable-tanned-leather.json",
+    "kind": "material",
+    "canonical": false
+  },
+  "vegetable-tanned leather": {
+    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000003",
+    "path": "primitives/materials/vegetable-tanned-leather.json",
+    "kind": "material",
+    "canonical": true
+  },
+  "waxed thread": {
+    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000004",
+    "path": "primitives/materials/waxed-thread.json",
+    "kind": "material",
+    "canonical": true
+  }
+}

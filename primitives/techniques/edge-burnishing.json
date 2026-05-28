@@ -1,0 +1,43 @@
+{
+  "opgl_version": "0.6",
+  "emitter": "opg://mock",
+  "id": "edge-burnishing-mock",
+  "slug": "edge-burnishing",
+  "kind": "technique",
+  "name": "Edge Burnishing",
+  "description": "Finishing technique that compresses and smooths the cut edge of leather. Produces a glossy, sealed edge resistant to wear.",
+  "visibility": "commons",
+  "created": "2026-05-28",
+  "modified": "2026-05-28",
+  "content_hash": "sha256:0000000000000000000000000000000000000000000000000000000000000006",
+  "tags": ["finishing", "edge-treatment", "beginner"],
+  "properties": {
+    "skillLevel": "beginner",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": ["edge burnishing", "edge slicking"],
+      "de": ["Kantenglätten", "Kanten polieren"],
+      "fr": ["lustrage des bords", "brunissage"]
+    },
+    "steps": [
+      { "position": 1, "description": "Trim or bevel the edge with a round knife or edge beveler." },
+      { "position": 2, "description": "Dampen the edge slightly with water or gum tragacanth." },
+      { "position": 3, "description": "Run a slicker (wood or canvas) along the edge with firm pressure." },
+      { "position": 4, "description": "Repeat until the edge becomes glossy and compressed." }
+    ]
+  },
+  "relationships": [
+    {
+      "type": "uses_tool",
+      "target": {
+        "id": "round-knife-mock",
+        "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000001",
+        "path": "primitives/tools/round-knife.json"
+      }
+    }
+  ],
+  "lineage": {
+    "provenance_state": "unasserted",
+    "outcome": "unknown"
+  }
+}
