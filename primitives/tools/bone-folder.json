@@ -1,0 +1,29 @@
+{
+  "opgl_version": "0.6",
+  "emitter": "opg://5f3a7b1d-c4ee-aa01-bbf2-3c2a1d8e7f4c",
+  "id": "bone-folder-001",
+  "slug": "bone-folder",
+  "kind": "tool",
+  "name": "Bone Folder",
+  "description": "Polished bone or PTFE tool for creasing and smoothing.",
+  "visibility": "commons",
+  "created": "2026-05-29",
+  "modified": "2026-05-29",
+  "content_hash": "sha256:0000000000000000000000000000000000000000000000000000000000000099",
+  "tags": ["creasing", "finishing"],
+  "properties": {
+    "category": "finishing",
+    "status": "active",
+    "license": "CC-BY-4.0",
+    "persistent": true,
+    "names": {
+      "en": ["bone folder"],
+      "de": ["Falzbein"],
+      "fr": ["plioir"]
+    }
+  },
+  "lineage": {
+    "provenance_state": "unasserted",
+    "outcome": "unknown"
+  }
+}
