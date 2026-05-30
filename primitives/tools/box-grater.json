@@ -1,13 +1,13 @@
 {
-  "content_hash": "sha256:bca805efbff6cf5b4d3c38caa42e166a9eba8ef8d4e2190905d2d336d1ddeb19",
+  "content_hash": "sha256:38e0811b894f18dc2a7f59fe4e0f563bdfe9be5a3dfabc48dd8758e6679187a7",
   "created": "2026-05-30",
   "description": "Four-sided grater; the fine face grates the Pecorino Romano so it melts evenly into the egg base.",
   "emitter": "opg://commons-seed",
   "id": "box-grater-seed",
   "kind": "tool",
   "lineage": {
-    "provenance_state": "unasserted",
-    "outcome": "unknown"
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
   },
   "modified": "2026-05-30",
   "name": "box grater",
@@ -17,21 +17,22 @@
     "category": "utensil",
     "license": "CC-BY-4.0",
     "names": {
-      "en": [
-        "box grater",
-        "grater"
-      ],
-      "it": [
-        "grattugia"
-      ],
       "de": [
         "Reibe",
         "Vierkantreibe"
       ],
+      "en": [
+        "box grater",
+        "grater"
+      ],
       "fr": [
         "râpe"
+      ],
+      "it": [
+        "grattugia"
       ]
-    }
+    },
+    "taxonomy": "grater"
   },
   "slug": "box-grater",
   "tags": [

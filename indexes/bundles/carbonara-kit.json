@@ -1,6 +1,8 @@
 {
+  "format_version": "1.0",
   "record_class": "bundle",
   "slug": "carbonara-kit",
+  "state": "open",
   "emitter": "opg://commons-seed",
   "license": "CC-BY-4.0",
   "lineage": {
@@ -21,72 +23,74 @@
       "record_class": "primitive",
       "kind": "workflow",
       "slug": "spaghetti-carbonara",
-      "hash": "sha256:7f5ca7ea74a7ac61eb2c81738bb6cd69267b8c1f1f529ce861e73c5fd4202444",
+      "hash": "sha256:65746fd3a2c79f0d8e9162b0a21635d121a60c20ca2bca28d2252689bec25159",
       "role": "required"
     },
     {
       "record_class": "primitive",
       "kind": "material",
       "slug": "spaghetti",
-      "hash": "sha256:0c8e0dad9102cbad2ac96edc03209b49877ee7e64e2fbfc7d84ba5f4a9a07950",
+      "hash": "sha256:1668f60fdd4ca6ed5a367d7d2db041fb995c9254a72d1b075cf35d7a8d85e588",
       "role": "required"
     },
     {
       "record_class": "primitive",
       "kind": "material",
       "slug": "guanciale",
-      "hash": "sha256:a0563881502d7b31605120422998d547e9e73a061d2ea66b56ffa5a5f8cc9373",
+      "hash": "sha256:5777e56155291b0495bfa7eea0bc37f4cfa342767321d507ea270482615d81af",
       "role": "required"
     },
     {
       "record_class": "primitive",
       "kind": "material",
       "slug": "pecorino-romano",
-      "hash": "sha256:70941a4907519289ab78cf378e57a07a2f8ea71e2947be19c38dd9959cd844b1",
+      "hash": "sha256:e240a89c4b83123423325e52ef6101ace98e90a8af2b15da976d222fe6229c6c",
       "role": "required"
     },
     {
       "record_class": "primitive",
       "kind": "material",
       "slug": "egg",
-      "hash": "sha256:1dc04b5129ffe114ad5198f3c20f977b8a36cc8f17bcfc8f09dffa36a35a97cf",
+      "hash": "sha256:9f2a8c4feb20fefb751f35e291ce93e544d9c0c00e0d8b153809c4fcbb08e380",
       "role": "required"
     },
     {
       "record_class": "primitive",
       "kind": "material",
       "slug": "black-pepper",
-      "hash": "sha256:a05ada17dbf8d904947a17bfac65dfee54d66abaaa9f92a99c7484f7535dc2cd",
+      "hash": "sha256:5d8c7937082a5efd7e0cd7924fbaba08db123a3ae4cfe4d2f57ff0bf3b798063",
       "role": "required"
     },
     {
       "record_class": "primitive",
       "kind": "tool",
       "slug": "skillet",
-      "hash": "sha256:295658f9e894c442ef138f63324a84dd81096e3319c98217217b280c033817ed",
+      "hash": "sha256:7cb50273c74098f3047d1364ddc3e9e99908769fc77cbd84674c07a5b42a3acf",
       "role": "recommended"
     },
     {
       "record_class": "primitive",
       "kind": "tool",
       "slug": "pasta-pot",
-      "hash": "sha256:8b40cf14ed84b2e2552e92d0e21a1be1edff8315dcb75f0799246d441e5b5e47",
+      "hash": "sha256:4e24800271c963feea2348074ed8b7135f0b1cf0544847e00ad6531478ca77c4",
       "role": "recommended"
     },
     {
       "record_class": "primitive",
       "kind": "tool",
       "slug": "whisk",
-      "hash": "sha256:7d109371e0d200fa854ac539acc56eceb6ea52d72d29e5a67a32c92f73ccbdcf",
+      "hash": "sha256:f6c80437aa8e9ed03ed9b0f7d955d2ab19996ec39f6f48fa08d925a28a3ba92e",
       "role": "optional"
     },
     {
       "record_class": "primitive",
       "kind": "tool",
       "slug": "box-grater",
-      "hash": "sha256:bca805efbff6cf5b4d3c38caa42e166a9eba8ef8d4e2190905d2d336d1ddeb19",
+      "hash": "sha256:38e0811b894f18dc2a7f59fe4e0f563bdfe9be5a3dfabc48dd8758e6679187a7",
       "role": "optional"
     }
   ],
-  "content_hash": "sha256:7474d33f8023e38853cb67de81d8c61988af91fdd6d156dd408b3b460e8f7515"
+  "successors": [],
+  "modified": "2026-05-31",
+  "content_hash": "sha256:3c85f8a9afd95574fd391ed4a30739aa0a1d5c0ea7f7ffdff3c895ea1eae8816"
 }

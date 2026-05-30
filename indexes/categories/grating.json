@@ -1,0 +1,19 @@
+{
+  "format_version": "1.0",
+  "id": "grating",
+  "names": {
+    "de": [
+      "Reiben"
+    ],
+    "en": [
+      "grating"
+    ],
+    "fr": [
+      "râpage"
+    ],
+    "it": [
+      "grattugiatura"
+    ]
+  },
+  "specializes": "cooking-technique"
+}

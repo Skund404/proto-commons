@@ -1,130 +1,242 @@
 {
-  "event/cook-carbonara": {
-    "slug": "cook-carbonara",
-    "kind": "event",
-    "hash": "sha256:a56f25ce7f2204a3946f493742a75a560b3a5edf87e38738dd0907a825232908",
-    "path": "primitives/events/cook-carbonara.json",
-    "name": "cook carbonara",
-    "children": []
-  },
-  "material/black-pepper": {
-    "slug": "black-pepper",
-    "kind": "material",
-    "hash": "sha256:a05ada17dbf8d904947a17bfac65dfee54d66abaaa9f92a99c7484f7535dc2cd",
-    "path": "primitives/materials/black-pepper.json",
-    "name": "black pepper",
-    "children": []
-  },
-  "material/egg": {
-    "slug": "egg",
-    "kind": "material",
-    "hash": "sha256:1dc04b5129ffe114ad5198f3c20f977b8a36cc8f17bcfc8f09dffa36a35a97cf",
-    "path": "primitives/materials/egg.json",
-    "name": "egg",
-    "children": []
-  },
-  "material/guanciale": {
-    "slug": "guanciale",
-    "kind": "material",
-    "hash": "sha256:a0563881502d7b31605120422998d547e9e73a061d2ea66b56ffa5a5f8cc9373",
-    "path": "primitives/materials/guanciale.json",
-    "name": "guanciale",
-    "children": []
-  },
-  "material/pecorino-romano": {
-    "slug": "pecorino-romano",
-    "kind": "material",
-    "hash": "sha256:70941a4907519289ab78cf378e57a07a2f8ea71e2947be19c38dd9959cd844b1",
-    "path": "primitives/materials/pecorino-romano.json",
-    "name": "Pecorino Romano",
-    "children": []
-  },
-  "material/spaghetti": {
-    "slug": "spaghetti",
-    "kind": "material",
-    "hash": "sha256:0c8e0dad9102cbad2ac96edc03209b49877ee7e64e2fbfc7d84ba5f4a9a07950",
-    "path": "primitives/materials/spaghetti.json",
-    "name": "spaghetti",
-    "children": []
-  },
-  "project/carbonara-dish": {
-    "slug": "carbonara-dish",
-    "kind": "project",
-    "hash": "sha256:55060161f687ed450e8bd3e6ffed2066c7f5f381c3b678ffc85ae72e0aa5d13f",
-    "path": "primitives/projects/carbonara-dish.json",
-    "name": "Carbonara (dish)",
-    "children": []
-  },
-  "technique/cook-pasta-al-dente": {
-    "slug": "cook-pasta-al-dente",
-    "kind": "technique",
-    "hash": "sha256:abea126a0e80caecb881163a1692edf1c5ec0460ccc27b77f4b11f1e406c474a",
-    "path": "primitives/techniques/cook-pasta-al-dente.json",
-    "name": "cook pasta al dente",
-    "children": []
-  },
-  "technique/grate-pecorino": {
-    "slug": "grate-pecorino",
-    "kind": "technique",
-    "hash": "sha256:d0de4d09faf9c6ed2de7ea5ef959b4371bf1ea97c9cd2436b85500593906d7df",
-    "path": "primitives/techniques/grate-pecorino.json",
-    "name": "grate pecorino",
-    "children": []
-  },
-  "technique/mantecare-emulsify": {
-    "slug": "mantecare-emulsify",
-    "kind": "technique",
-    "hash": "sha256:a584c8786f5d9cb480e74ffaf27a97cf428da90c0f1c5192bf9ed10d516dcb1a",
-    "path": "primitives/techniques/mantecare-emulsify.json",
-    "name": "emulsify off heat",
-    "children": []
-  },
-  "technique/render-guanciale": {
-    "slug": "render-guanciale",
-    "kind": "technique",
-    "hash": "sha256:8d3ca4114956a3ade5725a7d90edda6b86ef3a6299d76d475c3181a53ca2b5ab",
-    "path": "primitives/techniques/render-guanciale.json",
-    "name": "render guanciale",
-    "children": []
-  },
-  "tool/box-grater": {
-    "slug": "box-grater",
-    "kind": "tool",
-    "hash": "sha256:bca805efbff6cf5b4d3c38caa42e166a9eba8ef8d4e2190905d2d336d1ddeb19",
-    "path": "primitives/tools/box-grater.json",
-    "name": "box grater",
-    "children": []
-  },
-  "tool/pasta-pot": {
-    "slug": "pasta-pot",
-    "kind": "tool",
-    "hash": "sha256:8b40cf14ed84b2e2552e92d0e21a1be1edff8315dcb75f0799246d441e5b5e47",
-    "path": "primitives/tools/pasta-pot.json",
-    "name": "pasta pot",
-    "children": []
-  },
-  "tool/skillet": {
-    "slug": "skillet",
-    "kind": "tool",
-    "hash": "sha256:295658f9e894c442ef138f63324a84dd81096e3319c98217217b280c033817ed",
-    "path": "primitives/tools/skillet.json",
-    "name": "skillet",
-    "children": []
-  },
-  "tool/whisk": {
-    "slug": "whisk",
-    "kind": "tool",
-    "hash": "sha256:7d109371e0d200fa854ac539acc56eceb6ea52d72d29e5a67a32c92f73ccbdcf",
-    "path": "primitives/tools/whisk.json",
-    "name": "whisk",
-    "children": []
-  },
-  "workflow/spaghetti-carbonara": {
-    "slug": "spaghetti-carbonara",
-    "kind": "workflow",
-    "hash": "sha256:7f5ca7ea74a7ac61eb2c81738bb6cd69267b8c1f1f529ce861e73c5fd4202444",
-    "path": "primitives/workflows/spaghetti-carbonara.json",
-    "name": "Spaghetti Carbonara",
-    "children": []
+  "format_version": "1.0",
+  "tree": {
+    "category/cheese": {
+      "id": "cheese",
+      "name": "cheese",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/materials/pecorino-romano.json",
+          "slug": "pecorino-romano",
+          "kind": "material",
+          "name": "Pecorino Romano"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/cooking-technique": {
+      "id": "cooking-technique",
+      "name": "cooking technique",
+      "parent": null,
+      "members": [],
+      "related": [],
+      "children": [
+        {
+          "id": "boiling",
+          "name": "boiling",
+          "parent": "cooking-technique",
+          "members": [
+            {
+              "ref": "primitives/techniques/cook-pasta-al-dente.json",
+              "slug": "cook-pasta-al-dente",
+              "kind": "technique",
+              "name": "cook pasta al dente"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "emulsification",
+          "name": "emulsification",
+          "parent": "cooking-technique",
+          "members": [
+            {
+              "ref": "primitives/techniques/mantecare-emulsify.json",
+              "slug": "mantecare-emulsify",
+              "kind": "technique",
+              "name": "emulsify off heat"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "frying",
+          "name": "frying",
+          "parent": "cooking-technique",
+          "members": [
+            {
+              "ref": "primitives/techniques/render-guanciale.json",
+              "slug": "render-guanciale",
+              "kind": "technique",
+              "name": "render guanciale"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "grating",
+          "name": "grating",
+          "parent": "cooking-technique",
+          "members": [
+            {
+              "ref": "primitives/techniques/grate-pecorino.json",
+              "slug": "grate-pecorino",
+              "kind": "technique",
+              "name": "grate pecorino"
+            }
+          ],
+          "related": [],
+          "children": []
+        }
+      ]
+    },
+    "category/cookware": {
+      "id": "cookware",
+      "name": "cookware",
+      "parent": null,
+      "members": [],
+      "related": [],
+      "children": [
+        {
+          "id": "pan",
+          "name": "pan",
+          "parent": "cookware",
+          "members": [
+            {
+              "ref": "primitives/tools/skillet.json",
+              "slug": "skillet",
+              "kind": "tool",
+              "name": "skillet"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "pot",
+          "name": "pot",
+          "parent": "cookware",
+          "members": [
+            {
+              "ref": "primitives/tools/pasta-pot.json",
+              "slug": "pasta-pot",
+              "kind": "tool",
+              "name": "pasta pot"
+            }
+          ],
+          "related": [],
+          "children": []
+        }
+      ]
+    },
+    "category/cured-meat": {
+      "id": "cured-meat",
+      "name": "cured meat",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/materials/guanciale.json",
+          "slug": "guanciale",
+          "kind": "material",
+          "name": "guanciale"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/egg": {
+      "id": "egg",
+      "name": "egg",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/materials/egg.json",
+          "slug": "egg",
+          "kind": "material",
+          "name": "egg"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/pasta": {
+      "id": "pasta",
+      "name": "pasta",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/materials/spaghetti.json",
+          "slug": "spaghetti",
+          "kind": "material",
+          "name": "spaghetti"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/recipe": {
+      "id": "recipe",
+      "name": "recipe",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/workflows/spaghetti-carbonara.json",
+          "slug": "spaghetti-carbonara",
+          "kind": "workflow",
+          "name": "Spaghetti Carbonara"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/spice": {
+      "id": "spice",
+      "name": "spice",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/materials/black-pepper.json",
+          "slug": "black-pepper",
+          "kind": "material",
+          "name": "black pepper"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/utensil": {
+      "id": "utensil",
+      "name": "kitchen utensil",
+      "parent": null,
+      "members": [],
+      "related": [],
+      "children": [
+        {
+          "id": "grater",
+          "name": "grater",
+          "parent": "utensil",
+          "members": [
+            {
+              "ref": "primitives/tools/box-grater.json",
+              "slug": "box-grater",
+              "kind": "tool",
+              "name": "box grater"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "whisk",
+          "name": "whisk",
+          "parent": "utensil",
+          "members": [
+            {
+              "ref": "primitives/tools/whisk.json",
+              "slug": "whisk",
+              "kind": "tool",
+              "name": "whisk"
+            }
+          ],
+          "related": [],
+          "children": []
+        }
+      ]
+    }
   }
 }

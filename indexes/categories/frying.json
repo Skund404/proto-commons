@@ -1,0 +1,19 @@
+{
+  "format_version": "1.0",
+  "id": "frying",
+  "names": {
+    "de": [
+      "Braten"
+    ],
+    "en": [
+      "frying"
+    ],
+    "fr": [
+      "friture"
+    ],
+    "it": [
+      "frittura"
+    ]
+  },
+  "specializes": "cooking-technique"
+}

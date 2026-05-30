@@ -1,13 +1,13 @@
 {
-  "content_hash": "sha256:1dc04b5129ffe114ad5198f3c20f977b8a36cc8f17bcfc8f09dffa36a35a97cf",
+  "content_hash": "sha256:9f2a8c4feb20fefb751f35e291ce93e544d9c0c00e0d8b153809c4fcbb08e380",
   "created": "2026-05-30",
   "description": "Hen's egg. In carbonara the yolks (with some whole egg) emulsify with grated pecorino and starchy pasta water to make the sauce — cooked gently by residual heat, off the flame, never scrambled.",
   "emitter": "opg://commons-seed",
   "id": "egg-seed",
   "kind": "material",
   "lineage": {
-    "provenance_state": "unasserted",
-    "outcome": "unknown"
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
   },
   "modified": "2026-05-30",
   "name": "egg",
@@ -17,20 +17,21 @@
     "license": "CC-BY-4.0",
     "materialType": "egg",
     "names": {
+      "de": [
+        "Ei"
+      ],
       "en": [
         "egg",
         "hen's egg"
       ],
-      "it": [
-        "uovo"
-      ],
-      "de": [
-        "Ei"
-      ],
       "fr": [
         "œuf"
+      ],
+      "it": [
+        "uovo"
       ]
-    }
+    },
+    "taxonomy": "egg"
   },
   "slug": "egg",
   "tags": [

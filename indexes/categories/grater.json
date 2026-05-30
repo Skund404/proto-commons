@@ -1,0 +1,19 @@
+{
+  "format_version": "1.0",
+  "id": "grater",
+  "names": {
+    "de": [
+      "Reibe"
+    ],
+    "en": [
+      "grater"
+    ],
+    "fr": [
+      "râpe"
+    ],
+    "it": [
+      "grattugia"
+    ]
+  },
+  "specializes": "utensil"
+}

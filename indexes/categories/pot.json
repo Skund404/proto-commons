@@ -1,0 +1,19 @@
+{
+  "format_version": "1.0",
+  "id": "pot",
+  "names": {
+    "de": [
+      "Topf"
+    ],
+    "en": [
+      "pot"
+    ],
+    "fr": [
+      "marmite"
+    ],
+    "it": [
+      "pentola"
+    ]
+  },
+  "specializes": "cookware"
+}

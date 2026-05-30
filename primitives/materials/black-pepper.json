@@ -1,13 +1,13 @@
 {
-  "content_hash": "sha256:a05ada17dbf8d904947a17bfac65dfee54d66abaaa9f92a99c7484f7535dc2cd",
+  "content_hash": "sha256:5d8c7937082a5efd7e0cd7924fbaba08db123a3ae4cfe4d2f57ff0bf3b798063",
   "created": "2026-05-30",
   "description": "Whole black peppercorns, freshly ground. Carbonara is generously peppered — the 'carbon' specks are part of the dish's identity.",
   "emitter": "opg://commons-seed",
   "id": "black-pepper-seed",
   "kind": "material",
   "lineage": {
-    "provenance_state": "unasserted",
-    "outcome": "unknown"
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
   },
   "modified": "2026-05-30",
   "name": "black pepper",
@@ -17,19 +17,20 @@
     "license": "CC-BY-4.0",
     "materialType": "spice",
     "names": {
-      "en": [
-        "black pepper"
-      ],
-      "it": [
-        "pepe nero"
-      ],
       "de": [
         "schwarzer Pfeffer"
       ],
+      "en": [
+        "black pepper"
+      ],
       "fr": [
         "poivre noir"
+      ],
+      "it": [
+        "pepe nero"
       ]
-    }
+    },
+    "taxonomy": "spice"
   },
   "slug": "black-pepper",
   "tags": [

@@ -1,98 +1,327 @@
 {
-  "carbonara (piatto)": {
-    "hash": "sha256:55060161f687ed450e8bd3e6ffed2066c7f5f381c3b678ffc85ae72e0aa5d13f",
-    "path": "primitives/projects/carbonara-dish.json",
-    "kind": "project",
-    "canonical": true
-  },
-  "cucinare la carbonara": {
-    "hash": "sha256:a56f25ce7f2204a3946f493742a75a560b3a5edf87e38738dd0907a825232908",
-    "path": "primitives/events/cook-carbonara.json",
-    "kind": "event",
-    "canonical": true
-  },
-  "cuocere la pasta al dente": {
-    "hash": "sha256:abea126a0e80caecb881163a1692edf1c5ec0460ccc27b77f4b11f1e406c474a",
-    "path": "primitives/techniques/cook-pasta-al-dente.json",
-    "kind": "technique",
-    "canonical": true
-  },
-  "frusta": {
-    "hash": "sha256:7d109371e0d200fa854ac539acc56eceb6ea52d72d29e5a67a32c92f73ccbdcf",
-    "path": "primitives/tools/whisk.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "grattugia": {
-    "hash": "sha256:bca805efbff6cf5b4d3c38caa42e166a9eba8ef8d4e2190905d2d336d1ddeb19",
-    "path": "primitives/tools/box-grater.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "grattugiare il pecorino": {
-    "hash": "sha256:d0de4d09faf9c6ed2de7ea5ef959b4371bf1ea97c9cd2436b85500593906d7df",
-    "path": "primitives/techniques/grate-pecorino.json",
-    "kind": "technique",
-    "canonical": true
-  },
-  "guanciale": {
-    "hash": "sha256:a0563881502d7b31605120422998d547e9e73a061d2ea66b56ffa5a5f8cc9373",
-    "path": "primitives/materials/guanciale.json",
-    "kind": "material",
-    "canonical": true
-  },
-  "mantecare": {
-    "hash": "sha256:a584c8786f5d9cb480e74ffaf27a97cf428da90c0f1c5192bf9ed10d516dcb1a",
-    "path": "primitives/techniques/mantecare-emulsify.json",
-    "kind": "technique",
-    "canonical": true
-  },
-  "padella": {
-    "hash": "sha256:295658f9e894c442ef138f63324a84dd81096e3319c98217217b280c033817ed",
-    "path": "primitives/tools/skillet.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "pecorino romano": {
-    "hash": "sha256:70941a4907519289ab78cf378e57a07a2f8ea71e2947be19c38dd9959cd844b1",
-    "path": "primitives/materials/pecorino-romano.json",
-    "kind": "material",
-    "canonical": true
-  },
-  "pentola": {
-    "hash": "sha256:8b40cf14ed84b2e2552e92d0e21a1be1edff8315dcb75f0799246d441e5b5e47",
-    "path": "primitives/tools/pasta-pot.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "pepe nero": {
-    "hash": "sha256:a05ada17dbf8d904947a17bfac65dfee54d66abaaa9f92a99c7484f7535dc2cd",
-    "path": "primitives/materials/black-pepper.json",
-    "kind": "material",
-    "canonical": true
-  },
-  "rosolare il guanciale": {
-    "hash": "sha256:8d3ca4114956a3ade5725a7d90edda6b86ef3a6299d76d475c3181a53ca2b5ab",
-    "path": "primitives/techniques/render-guanciale.json",
-    "kind": "technique",
-    "canonical": true
-  },
-  "spaghetti": {
-    "hash": "sha256:0c8e0dad9102cbad2ac96edc03209b49877ee7e64e2fbfc7d84ba5f4a9a07950",
-    "path": "primitives/materials/spaghetti.json",
-    "kind": "material",
-    "canonical": true
-  },
-  "spaghetti alla carbonara": {
-    "hash": "sha256:7f5ca7ea74a7ac61eb2c81738bb6cd69267b8c1f1f529ce861e73c5fd4202444",
-    "path": "primitives/workflows/spaghetti-carbonara.json",
-    "kind": "workflow",
-    "canonical": true
-  },
-  "uovo": {
-    "hash": "sha256:1dc04b5129ffe114ad5198f3c20f977b8a36cc8f17bcfc8f09dffa36a35a97cf",
-    "path": "primitives/materials/egg.json",
-    "kind": "material",
-    "canonical": true
+  "format_version": "1.0",
+  "entries": {
+    "bollitura": [
+      {
+        "ref": "categories/boiling",
+        "class": "category",
+        "kind": null,
+        "name": "bollitura",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "carbonara (piatto)": [
+      {
+        "ref": "primitives/projects/carbonara-dish.json",
+        "class": "primitive",
+        "kind": "project",
+        "name": "carbonara (piatto)",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "cucinare la carbonara": [
+      {
+        "ref": "primitives/events/cook-carbonara.json",
+        "class": "primitive",
+        "kind": "event",
+        "name": "cucinare la carbonara",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "cuocere la pasta al dente": [
+      {
+        "ref": "primitives/techniques/cook-pasta-al-dente.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "cuocere la pasta al dente",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "emulsione": [
+      {
+        "ref": "categories/emulsification",
+        "class": "category",
+        "kind": null,
+        "name": "emulsione",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "formaggio": [
+      {
+        "ref": "categories/cheese",
+        "class": "category",
+        "kind": null,
+        "name": "formaggio",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "frittura": [
+      {
+        "ref": "categories/frying",
+        "class": "category",
+        "kind": null,
+        "name": "frittura",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "frusta": [
+      {
+        "ref": "categories/whisk",
+        "class": "category",
+        "kind": null,
+        "name": "frusta",
+        "lang": "it",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/whisk.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "frusta",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "grattugia": [
+      {
+        "ref": "categories/grater",
+        "class": "category",
+        "kind": null,
+        "name": "grattugia",
+        "lang": "it",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/box-grater.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "grattugia",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "grattugiare il pecorino": [
+      {
+        "ref": "primitives/techniques/grate-pecorino.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "grattugiare il pecorino",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "grattugiatura": [
+      {
+        "ref": "categories/grating",
+        "class": "category",
+        "kind": null,
+        "name": "grattugiatura",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "guanciale": [
+      {
+        "ref": "primitives/materials/guanciale.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "guanciale",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "mantecare": [
+      {
+        "ref": "primitives/techniques/mantecare-emulsify.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "mantecare",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "padella": [
+      {
+        "ref": "categories/pan",
+        "class": "category",
+        "kind": null,
+        "name": "padella",
+        "lang": "it",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/skillet.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "padella",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "pasta": [
+      {
+        "ref": "categories/pasta",
+        "class": "category",
+        "kind": null,
+        "name": "pasta",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "pecorino romano": [
+      {
+        "ref": "primitives/materials/pecorino-romano.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "Pecorino Romano",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "pentola": [
+      {
+        "ref": "categories/pot",
+        "class": "category",
+        "kind": null,
+        "name": "pentola",
+        "lang": "it",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/pasta-pot.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "pentola",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "pentole e padelle": [
+      {
+        "ref": "categories/cookware",
+        "class": "category",
+        "kind": null,
+        "name": "pentole e padelle",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "pepe nero": [
+      {
+        "ref": "primitives/materials/black-pepper.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "pepe nero",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "ricetta": [
+      {
+        "ref": "categories/recipe",
+        "class": "category",
+        "kind": null,
+        "name": "ricetta",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "rosolare il guanciale": [
+      {
+        "ref": "primitives/techniques/render-guanciale.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "rosolare il guanciale",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "salumi": [
+      {
+        "ref": "categories/cured-meat",
+        "class": "category",
+        "kind": null,
+        "name": "salumi",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "spaghetti": [
+      {
+        "ref": "primitives/materials/spaghetti.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "spaghetti",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "spaghetti alla carbonara": [
+      {
+        "ref": "primitives/workflows/spaghetti-carbonara.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "spaghetti alla carbonara",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "spezie": [
+      {
+        "ref": "categories/spice",
+        "class": "category",
+        "kind": null,
+        "name": "spezie",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "tecnica di cottura": [
+      {
+        "ref": "categories/cooking-technique",
+        "class": "category",
+        "kind": null,
+        "name": "tecnica di cottura",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "uova": [
+      {
+        "ref": "categories/egg",
+        "class": "category",
+        "kind": null,
+        "name": "uova",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "uovo": [
+      {
+        "ref": "primitives/materials/egg.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "uovo",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
+    "utensile da cucina": [
+      {
+        "ref": "categories/utensil",
+        "class": "category",
+        "kind": null,
+        "name": "utensile da cucina",
+        "lang": "it",
+        "canonical": true
+      }
+    ]
   }
 }

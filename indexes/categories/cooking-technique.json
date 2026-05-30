@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0",
+  "id": "cooking-technique",
+  "names": {
+    "de": [
+      "Gartechnik"
+    ],
+    "en": [
+      "cooking technique"
+    ],
+    "fr": [
+      "technique de cuisson"
+    ],
+    "it": [
+      "tecnica di cottura"
+    ]
+  }
+}

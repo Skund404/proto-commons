@@ -1,152 +1,419 @@
 {
-  "black pepper": {
-    "hash": "sha256:a05ada17dbf8d904947a17bfac65dfee54d66abaaa9f92a99c7484f7535dc2cd",
-    "path": "primitives/materials/black-pepper.json",
-    "kind": "material",
-    "canonical": true
-  },
-  "box grater": {
-    "hash": "sha256:bca805efbff6cf5b4d3c38caa42e166a9eba8ef8d4e2190905d2d336d1ddeb19",
-    "path": "primitives/tools/box-grater.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "carbonara (dish)": {
-    "hash": "sha256:55060161f687ed450e8bd3e6ffed2066c7f5f381c3b678ffc85ae72e0aa5d13f",
-    "path": "primitives/projects/carbonara-dish.json",
-    "kind": "project",
-    "canonical": true
-  },
-  "cook carbonara": {
-    "hash": "sha256:a56f25ce7f2204a3946f493742a75a560b3a5edf87e38738dd0907a825232908",
-    "path": "primitives/events/cook-carbonara.json",
-    "kind": "event",
-    "canonical": true
-  },
-  "cook pasta al dente": {
-    "hash": "sha256:abea126a0e80caecb881163a1692edf1c5ec0460ccc27b77f4b11f1e406c474a",
-    "path": "primitives/techniques/cook-pasta-al-dente.json",
-    "kind": "technique",
-    "canonical": true
-  },
-  "crisp the guanciale": {
-    "hash": "sha256:8d3ca4114956a3ade5725a7d90edda6b86ef3a6299d76d475c3181a53ca2b5ab",
-    "path": "primitives/techniques/render-guanciale.json",
-    "kind": "technique",
-    "canonical": false
-  },
-  "cured pork jowl": {
-    "hash": "sha256:a0563881502d7b31605120422998d547e9e73a061d2ea66b56ffa5a5f8cc9373",
-    "path": "primitives/materials/guanciale.json",
-    "kind": "material",
-    "canonical": false
-  },
-  "egg": {
-    "hash": "sha256:1dc04b5129ffe114ad5198f3c20f977b8a36cc8f17bcfc8f09dffa36a35a97cf",
-    "path": "primitives/materials/egg.json",
-    "kind": "material",
-    "canonical": true
-  },
-  "egg whisk": {
-    "hash": "sha256:7d109371e0d200fa854ac539acc56eceb6ea52d72d29e5a67a32c92f73ccbdcf",
-    "path": "primitives/tools/whisk.json",
-    "kind": "tool",
-    "canonical": false
-  },
-  "emulsify off heat": {
-    "hash": "sha256:a584c8786f5d9cb480e74ffaf27a97cf428da90c0f1c5192bf9ed10d516dcb1a",
-    "path": "primitives/techniques/mantecare-emulsify.json",
-    "kind": "technique",
-    "canonical": true
-  },
-  "frying pan": {
-    "hash": "sha256:295658f9e894c442ef138f63324a84dd81096e3319c98217217b280c033817ed",
-    "path": "primitives/tools/skillet.json",
-    "kind": "tool",
-    "canonical": false
-  },
-  "grate pecorino": {
-    "hash": "sha256:d0de4d09faf9c6ed2de7ea5ef959b4371bf1ea97c9cd2436b85500593906d7df",
-    "path": "primitives/techniques/grate-pecorino.json",
-    "kind": "technique",
-    "canonical": true
-  },
-  "grater": {
-    "hash": "sha256:bca805efbff6cf5b4d3c38caa42e166a9eba8ef8d4e2190905d2d336d1ddeb19",
-    "path": "primitives/tools/box-grater.json",
-    "kind": "tool",
-    "canonical": false
-  },
-  "guanciale": {
-    "hash": "sha256:a0563881502d7b31605120422998d547e9e73a061d2ea66b56ffa5a5f8cc9373",
-    "path": "primitives/materials/guanciale.json",
-    "kind": "material",
-    "canonical": true
-  },
-  "hen's egg": {
-    "hash": "sha256:1dc04b5129ffe114ad5198f3c20f977b8a36cc8f17bcfc8f09dffa36a35a97cf",
-    "path": "primitives/materials/egg.json",
-    "kind": "material",
-    "canonical": false
-  },
-  "mantecare": {
-    "hash": "sha256:a584c8786f5d9cb480e74ffaf27a97cf428da90c0f1c5192bf9ed10d516dcb1a",
-    "path": "primitives/techniques/mantecare-emulsify.json",
-    "kind": "technique",
-    "canonical": false
-  },
-  "pasta pot": {
-    "hash": "sha256:8b40cf14ed84b2e2552e92d0e21a1be1edff8315dcb75f0799246d441e5b5e47",
-    "path": "primitives/tools/pasta-pot.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "pecorino": {
-    "hash": "sha256:70941a4907519289ab78cf378e57a07a2f8ea71e2947be19c38dd9959cd844b1",
-    "path": "primitives/materials/pecorino-romano.json",
-    "kind": "material",
-    "canonical": false
-  },
-  "pecorino romano": {
-    "hash": "sha256:70941a4907519289ab78cf378e57a07a2f8ea71e2947be19c38dd9959cd844b1",
-    "path": "primitives/materials/pecorino-romano.json",
-    "kind": "material",
-    "canonical": true
-  },
-  "render guanciale": {
-    "hash": "sha256:8d3ca4114956a3ade5725a7d90edda6b86ef3a6299d76d475c3181a53ca2b5ab",
-    "path": "primitives/techniques/render-guanciale.json",
-    "kind": "technique",
-    "canonical": true
-  },
-  "skillet": {
-    "hash": "sha256:295658f9e894c442ef138f63324a84dd81096e3319c98217217b280c033817ed",
-    "path": "primitives/tools/skillet.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "spaghetti": {
-    "hash": "sha256:0c8e0dad9102cbad2ac96edc03209b49877ee7e64e2fbfc7d84ba5f4a9a07950",
-    "path": "primitives/materials/spaghetti.json",
-    "kind": "material",
-    "canonical": true
-  },
-  "spaghetti carbonara": {
-    "hash": "sha256:7f5ca7ea74a7ac61eb2c81738bb6cd69267b8c1f1f529ce861e73c5fd4202444",
-    "path": "primitives/workflows/spaghetti-carbonara.json",
-    "kind": "workflow",
-    "canonical": true
-  },
-  "stockpot": {
-    "hash": "sha256:8b40cf14ed84b2e2552e92d0e21a1be1edff8315dcb75f0799246d441e5b5e47",
-    "path": "primitives/tools/pasta-pot.json",
-    "kind": "tool",
-    "canonical": false
-  },
-  "whisk": {
-    "hash": "sha256:7d109371e0d200fa854ac539acc56eceb6ea52d72d29e5a67a32c92f73ccbdcf",
-    "path": "primitives/tools/whisk.json",
-    "kind": "tool",
-    "canonical": true
+  "format_version": "1.0",
+  "entries": {
+    "black pepper": [
+      {
+        "ref": "primitives/materials/black-pepper.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "black pepper",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "boiling": [
+      {
+        "ref": "categories/boiling",
+        "class": "category",
+        "kind": null,
+        "name": "boiling",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "box grater": [
+      {
+        "ref": "primitives/tools/box-grater.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "box grater",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "carbonara (dish)": [
+      {
+        "ref": "primitives/projects/carbonara-dish.json",
+        "class": "primitive",
+        "kind": "project",
+        "name": "Carbonara (dish)",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "cheese": [
+      {
+        "ref": "categories/cheese",
+        "class": "category",
+        "kind": null,
+        "name": "cheese",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "cook carbonara": [
+      {
+        "ref": "primitives/events/cook-carbonara.json",
+        "class": "primitive",
+        "kind": "event",
+        "name": "cook carbonara",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "cook pasta al dente": [
+      {
+        "ref": "primitives/techniques/cook-pasta-al-dente.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "cook pasta al dente",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "cooking technique": [
+      {
+        "ref": "categories/cooking-technique",
+        "class": "category",
+        "kind": null,
+        "name": "cooking technique",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "cookware": [
+      {
+        "ref": "categories/cookware",
+        "class": "category",
+        "kind": null,
+        "name": "cookware",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "crisp the guanciale": [
+      {
+        "ref": "primitives/techniques/render-guanciale.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "crisp the guanciale",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "cured meat": [
+      {
+        "ref": "categories/cured-meat",
+        "class": "category",
+        "kind": null,
+        "name": "cured meat",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "cured pork jowl": [
+      {
+        "ref": "primitives/materials/guanciale.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "cured pork jowl",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "egg": [
+      {
+        "ref": "categories/egg",
+        "class": "category",
+        "kind": null,
+        "name": "egg",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/egg.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "egg",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "egg whisk": [
+      {
+        "ref": "primitives/tools/whisk.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "egg whisk",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "emulsification": [
+      {
+        "ref": "categories/emulsification",
+        "class": "category",
+        "kind": null,
+        "name": "emulsification",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "emulsify off heat": [
+      {
+        "ref": "primitives/techniques/mantecare-emulsify.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "emulsify off heat",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "frying": [
+      {
+        "ref": "categories/frying",
+        "class": "category",
+        "kind": null,
+        "name": "frying",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "frying pan": [
+      {
+        "ref": "primitives/tools/skillet.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "frying pan",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "grate pecorino": [
+      {
+        "ref": "primitives/techniques/grate-pecorino.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "grate pecorino",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "grater": [
+      {
+        "ref": "categories/grater",
+        "class": "category",
+        "kind": null,
+        "name": "grater",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/box-grater.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "grater",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "grating": [
+      {
+        "ref": "categories/grating",
+        "class": "category",
+        "kind": null,
+        "name": "grating",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "guanciale": [
+      {
+        "ref": "primitives/materials/guanciale.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "guanciale",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "hen's egg": [
+      {
+        "ref": "primitives/materials/egg.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "hen's egg",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "kitchen utensil": [
+      {
+        "ref": "categories/utensil",
+        "class": "category",
+        "kind": null,
+        "name": "kitchen utensil",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "mantecare": [
+      {
+        "ref": "primitives/techniques/mantecare-emulsify.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "mantecare",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "pan": [
+      {
+        "ref": "categories/pan",
+        "class": "category",
+        "kind": null,
+        "name": "pan",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "pasta": [
+      {
+        "ref": "categories/pasta",
+        "class": "category",
+        "kind": null,
+        "name": "pasta",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "pasta pot": [
+      {
+        "ref": "primitives/tools/pasta-pot.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "pasta pot",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "pecorino": [
+      {
+        "ref": "primitives/materials/pecorino-romano.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "pecorino",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "pecorino romano": [
+      {
+        "ref": "primitives/materials/pecorino-romano.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "Pecorino Romano",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "pot": [
+      {
+        "ref": "categories/pot",
+        "class": "category",
+        "kind": null,
+        "name": "pot",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "recipe": [
+      {
+        "ref": "categories/recipe",
+        "class": "category",
+        "kind": null,
+        "name": "recipe",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "render guanciale": [
+      {
+        "ref": "primitives/techniques/render-guanciale.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "render guanciale",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "skillet": [
+      {
+        "ref": "primitives/tools/skillet.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "skillet",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "spaghetti": [
+      {
+        "ref": "primitives/materials/spaghetti.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "spaghetti",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "spaghetti carbonara": [
+      {
+        "ref": "primitives/workflows/spaghetti-carbonara.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "Spaghetti Carbonara",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "spice": [
+      {
+        "ref": "categories/spice",
+        "class": "category",
+        "kind": null,
+        "name": "spice",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "stockpot": [
+      {
+        "ref": "primitives/tools/pasta-pot.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "stockpot",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "whisk": [
+      {
+        "ref": "categories/whisk",
+        "class": "category",
+        "kind": null,
+        "name": "whisk",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/whisk.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "whisk",
+        "lang": "en",
+        "canonical": true
+      }
+    ]
   }
 }

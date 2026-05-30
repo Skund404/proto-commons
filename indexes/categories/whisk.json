@@ -1,0 +1,19 @@
+{
+  "format_version": "1.0",
+  "id": "whisk",
+  "names": {
+    "de": [
+      "Schneebesen"
+    ],
+    "en": [
+      "whisk"
+    ],
+    "fr": [
+      "fouet"
+    ],
+    "it": [
+      "frusta"
+    ]
+  },
+  "specializes": "utensil"
+}

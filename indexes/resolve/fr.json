@@ -1,110 +1,347 @@
 {
-  "carbonara (plat)": {
-    "hash": "sha256:55060161f687ed450e8bd3e6ffed2066c7f5f381c3b678ffc85ae72e0aa5d13f",
-    "path": "primitives/projects/carbonara-dish.json",
-    "kind": "project",
-    "canonical": true
-  },
-  "cuire les pâtes al dente": {
-    "hash": "sha256:abea126a0e80caecb881163a1692edf1c5ec0460ccc27b77f4b11f1e406c474a",
-    "path": "primitives/techniques/cook-pasta-al-dente.json",
-    "kind": "technique",
-    "canonical": true
-  },
-  "cuisiner la carbonara": {
-    "hash": "sha256:a56f25ce7f2204a3946f493742a75a560b3a5edf87e38738dd0907a825232908",
-    "path": "primitives/events/cook-carbonara.json",
-    "kind": "event",
-    "canonical": true
-  },
-  "faire rendre le guanciale": {
-    "hash": "sha256:8d3ca4114956a3ade5725a7d90edda6b86ef3a6299d76d475c3181a53ca2b5ab",
-    "path": "primitives/techniques/render-guanciale.json",
-    "kind": "technique",
-    "canonical": true
-  },
-  "fait-tout": {
-    "hash": "sha256:8b40cf14ed84b2e2552e92d0e21a1be1edff8315dcb75f0799246d441e5b5e47",
-    "path": "primitives/tools/pasta-pot.json",
-    "kind": "tool",
-    "canonical": false
-  },
-  "fouet": {
-    "hash": "sha256:7d109371e0d200fa854ac539acc56eceb6ea52d72d29e5a67a32c92f73ccbdcf",
-    "path": "primitives/tools/whisk.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "guanciale": {
-    "hash": "sha256:a0563881502d7b31605120422998d547e9e73a061d2ea66b56ffa5a5f8cc9373",
-    "path": "primitives/materials/guanciale.json",
-    "kind": "material",
-    "canonical": true
-  },
-  "joue de porc séchée": {
-    "hash": "sha256:a0563881502d7b31605120422998d547e9e73a061d2ea66b56ffa5a5f8cc9373",
-    "path": "primitives/materials/guanciale.json",
-    "kind": "material",
-    "canonical": false
-  },
-  "marmite": {
-    "hash": "sha256:8b40cf14ed84b2e2552e92d0e21a1be1edff8315dcb75f0799246d441e5b5e47",
-    "path": "primitives/tools/pasta-pot.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "pecorino romano": {
-    "hash": "sha256:70941a4907519289ab78cf378e57a07a2f8ea71e2947be19c38dd9959cd844b1",
-    "path": "primitives/materials/pecorino-romano.json",
-    "kind": "material",
-    "canonical": true
-  },
-  "poivre noir": {
-    "hash": "sha256:a05ada17dbf8d904947a17bfac65dfee54d66abaaa9f92a99c7484f7535dc2cd",
-    "path": "primitives/materials/black-pepper.json",
-    "kind": "material",
-    "canonical": true
-  },
-  "poêle": {
-    "hash": "sha256:295658f9e894c442ef138f63324a84dd81096e3319c98217217b280c033817ed",
-    "path": "primitives/tools/skillet.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "râpe": {
-    "hash": "sha256:bca805efbff6cf5b4d3c38caa42e166a9eba8ef8d4e2190905d2d336d1ddeb19",
-    "path": "primitives/tools/box-grater.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "râper le pecorino": {
-    "hash": "sha256:d0de4d09faf9c6ed2de7ea5ef959b4371bf1ea97c9cd2436b85500593906d7df",
-    "path": "primitives/techniques/grate-pecorino.json",
-    "kind": "technique",
-    "canonical": true
-  },
-  "spaghettis": {
-    "hash": "sha256:0c8e0dad9102cbad2ac96edc03209b49877ee7e64e2fbfc7d84ba5f4a9a07950",
-    "path": "primitives/materials/spaghetti.json",
-    "kind": "material",
-    "canonical": true
-  },
-  "spaghettis à la carbonara": {
-    "hash": "sha256:7f5ca7ea74a7ac61eb2c81738bb6cd69267b8c1f1f529ce861e73c5fd4202444",
-    "path": "primitives/workflows/spaghetti-carbonara.json",
-    "kind": "workflow",
-    "canonical": true
-  },
-  "émulsionner hors du feu": {
-    "hash": "sha256:a584c8786f5d9cb480e74ffaf27a97cf428da90c0f1c5192bf9ed10d516dcb1a",
-    "path": "primitives/techniques/mantecare-emulsify.json",
-    "kind": "technique",
-    "canonical": true
-  },
-  "œuf": {
-    "hash": "sha256:1dc04b5129ffe114ad5198f3c20f977b8a36cc8f17bcfc8f09dffa36a35a97cf",
-    "path": "primitives/materials/egg.json",
-    "kind": "material",
-    "canonical": true
+  "format_version": "1.0",
+  "entries": {
+    "carbonara (plat)": [
+      {
+        "ref": "primitives/projects/carbonara-dish.json",
+        "class": "primitive",
+        "kind": "project",
+        "name": "carbonara (plat)",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "charcuterie": [
+      {
+        "ref": "categories/cured-meat",
+        "class": "category",
+        "kind": null,
+        "name": "charcuterie",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "cuire les pâtes al dente": [
+      {
+        "ref": "primitives/techniques/cook-pasta-al-dente.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "cuire les pâtes al dente",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "cuisiner la carbonara": [
+      {
+        "ref": "primitives/events/cook-carbonara.json",
+        "class": "primitive",
+        "kind": "event",
+        "name": "cuisiner la carbonara",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "faire rendre le guanciale": [
+      {
+        "ref": "primitives/techniques/render-guanciale.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "faire rendre le guanciale",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "fait-tout": [
+      {
+        "ref": "primitives/tools/pasta-pot.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "fait-tout",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
+    "fouet": [
+      {
+        "ref": "categories/whisk",
+        "class": "category",
+        "kind": null,
+        "name": "fouet",
+        "lang": "fr",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/whisk.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "fouet",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "friture": [
+      {
+        "ref": "categories/frying",
+        "class": "category",
+        "kind": null,
+        "name": "friture",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "fromage": [
+      {
+        "ref": "categories/cheese",
+        "class": "category",
+        "kind": null,
+        "name": "fromage",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "guanciale": [
+      {
+        "ref": "primitives/materials/guanciale.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "guanciale",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "joue de porc séchée": [
+      {
+        "ref": "primitives/materials/guanciale.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "joue de porc séchée",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
+    "marmite": [
+      {
+        "ref": "categories/pot",
+        "class": "category",
+        "kind": null,
+        "name": "marmite",
+        "lang": "fr",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/pasta-pot.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "marmite",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "pecorino romano": [
+      {
+        "ref": "primitives/materials/pecorino-romano.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "pecorino romano",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "poivre noir": [
+      {
+        "ref": "primitives/materials/black-pepper.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "poivre noir",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "poêle": [
+      {
+        "ref": "categories/pan",
+        "class": "category",
+        "kind": null,
+        "name": "poêle",
+        "lang": "fr",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/skillet.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "poêle",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "pâtes": [
+      {
+        "ref": "categories/pasta",
+        "class": "category",
+        "kind": null,
+        "name": "pâtes",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "recette": [
+      {
+        "ref": "categories/recipe",
+        "class": "category",
+        "kind": null,
+        "name": "recette",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "râpage": [
+      {
+        "ref": "categories/grating",
+        "class": "category",
+        "kind": null,
+        "name": "râpage",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "râpe": [
+      {
+        "ref": "categories/grater",
+        "class": "category",
+        "kind": null,
+        "name": "râpe",
+        "lang": "fr",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/box-grater.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "râpe",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "râper le pecorino": [
+      {
+        "ref": "primitives/techniques/grate-pecorino.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "râper le pecorino",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "spaghettis": [
+      {
+        "ref": "primitives/materials/spaghetti.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "spaghettis",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "spaghettis à la carbonara": [
+      {
+        "ref": "primitives/workflows/spaghetti-carbonara.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "spaghettis à la carbonara",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "technique de cuisson": [
+      {
+        "ref": "categories/cooking-technique",
+        "class": "category",
+        "kind": null,
+        "name": "technique de cuisson",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "ustensile de cuisine": [
+      {
+        "ref": "categories/utensil",
+        "class": "category",
+        "kind": null,
+        "name": "ustensile de cuisine",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "ustensiles de cuisson": [
+      {
+        "ref": "categories/cookware",
+        "class": "category",
+        "kind": null,
+        "name": "ustensiles de cuisson",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "ébullition": [
+      {
+        "ref": "categories/boiling",
+        "class": "category",
+        "kind": null,
+        "name": "ébullition",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "émulsification": [
+      {
+        "ref": "categories/emulsification",
+        "class": "category",
+        "kind": null,
+        "name": "émulsification",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "émulsionner hors du feu": [
+      {
+        "ref": "primitives/techniques/mantecare-emulsify.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "émulsionner hors du feu",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "épice": [
+      {
+        "ref": "categories/spice",
+        "class": "category",
+        "kind": null,
+        "name": "épice",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "œuf": [
+      {
+        "ref": "primitives/materials/egg.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "œuf",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "œufs": [
+      {
+        "ref": "categories/egg",
+        "class": "category",
+        "kind": null,
+        "name": "œufs",
+        "lang": "fr",
+        "canonical": true
+      }
+    ]
   }
 }

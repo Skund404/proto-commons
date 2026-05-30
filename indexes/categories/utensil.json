@@ -1,0 +1,18 @@
+{
+  "format_version": "1.0",
+  "id": "utensil",
+  "names": {
+    "de": [
+      "Küchenutensil"
+    ],
+    "en": [
+      "kitchen utensil"
+    ],
+    "fr": [
+      "ustensile de cuisine"
+    ],
+    "it": [
+      "utensile da cucina"
+    ]
+  }
+}

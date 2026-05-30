@@ -1,13 +1,13 @@
 {
-  "content_hash": "sha256:8d3ca4114956a3ade5725a7d90edda6b86ef3a6299d76d475c3181a53ca2b5ab",
+  "content_hash": "sha256:7a4a3bf2bfc973924443eaf4d4f3b0b29752ad1af71f44bad3029a04bfc825aa",
   "created": "2026-05-30",
   "description": "Cook diced guanciale in a dry pan over moderate heat until the fat renders and the pieces crisp. The rendered fat stays in the pan to coat the pasta.",
   "emitter": "opg://commons-seed",
   "id": "render-guanciale-seed",
   "kind": "technique",
   "lineage": {
-    "provenance_state": "unasserted",
-    "outcome": "unknown"
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
   },
   "modified": "2026-05-30",
   "name": "render guanciale",
@@ -16,35 +16,36 @@
   "properties": {
     "license": "CC-BY-4.0",
     "names": {
+      "de": [
+        "Guanciale auslassen"
+      ],
       "en": [
         "render guanciale",
         "crisp the guanciale"
       ],
-      "it": [
-        "rosolare il guanciale"
-      ],
-      "de": [
-        "Guanciale auslassen"
-      ],
       "fr": [
         "faire rendre le guanciale"
+      ],
+      "it": [
+        "rosolare il guanciale"
       ]
     },
-    "skillLevel": "intermediate"
+    "skillLevel": "intermediate",
+    "taxonomy": "frying"
   },
   "relationships": [
     {
       "target": {
-        "id": "skillet-seed",
         "hash": "sha256:295658f9e894c442ef138f63324a84dd81096e3319c98217217b280c033817ed",
+        "id": "skillet-seed",
         "path": "primitives/tools/skillet.json"
       },
       "type": "uses_tool"
     },
     {
       "target": {
-        "id": "guanciale-seed",
         "hash": "sha256:a0563881502d7b31605120422998d547e9e73a061d2ea66b56ffa5a5f8cc9373",
+        "id": "guanciale-seed",
         "path": "primitives/materials/guanciale.json"
       },
       "type": "uses_material"
