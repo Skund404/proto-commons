@@ -1,86 +1,221 @@
 {
-  "alène": {
-    "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000a",
-    "path": "primitives/tools/awl.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "alène diamant": {
-    "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000b",
-    "path": "primitives/tools/diamond-awl.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "alène diamant osborne": {
-    "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000c",
-    "path": "primitives/tools/osborne-diamond-awl.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "alène à sellier": {
-    "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000b",
-    "path": "primitives/tools/diamond-awl.json",
-    "kind": "tool",
-    "canonical": false
-  },
-  "brunissage": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000006",
-    "path": "primitives/techniques/edge-burnishing.json",
-    "kind": "technique",
-    "canonical": false
-  },
-  "couteau demi-lune": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000001",
-    "path": "primitives/tools/round-knife.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "cuir tanné végétal": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000003",
-    "path": "primitives/materials/vegetable-tanned-leather.json",
-    "kind": "material",
-    "canonical": false
-  },
-  "cuir à tannage végétal": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000003",
-    "path": "primitives/materials/vegetable-tanned-leather.json",
-    "kind": "material",
-    "canonical": true
-  },
-  "fabrication de lanière en cuir": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000007",
-    "path": "primitives/workflows/leather-strap-construction.json",
-    "kind": "workflow",
-    "canonical": true
-  },
-  "fil ciré": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000004",
-    "path": "primitives/materials/waxed-thread.json",
-    "kind": "material",
-    "canonical": true
-  },
-  "lustrage des bords": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000006",
-    "path": "primitives/techniques/edge-burnishing.json",
-    "kind": "technique",
-    "canonical": true
-  },
-  "maillet": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000002",
-    "path": "primitives/tools/mallet.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "point sellier": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000005",
-    "path": "primitives/techniques/saddle-stitch.json",
-    "kind": "technique",
-    "canonical": true
-  },
-  "poinçon": {
-    "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000a",
-    "path": "primitives/tools/awl.json",
-    "kind": "tool",
-    "canonical": false
+  "format_version": "1.0",
+  "entries": {
+    "alène": [
+      {
+        "ref": "categories/awl",
+        "class": "category",
+        "kind": null,
+        "name": "alène",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "alène diamant": [
+      {
+        "ref": "categories/diamond-awl",
+        "class": "category",
+        "kind": null,
+        "name": "alène diamant",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "alène diamant osborne": [
+      {
+        "ref": "primitives/tools/osborne-diamond-awl.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "alène diamant Osborne",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "alène à sellier": [
+      {
+        "ref": "categories/diamond-awl",
+        "class": "category",
+        "kind": null,
+        "name": "alène à sellier",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
+    "brunissage": [
+      {
+        "ref": "primitives/techniques/edge-burnishing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "brunissage",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
+    "construction": [
+      {
+        "ref": "categories/construction",
+        "class": "category",
+        "kind": null,
+        "name": "construction",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "couteau demi-lune": [
+      {
+        "ref": "primitives/tools/round-knife.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "couteau demi-lune",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "couteau à cuir": [
+      {
+        "ref": "categories/cutting-knife",
+        "class": "category",
+        "kind": null,
+        "name": "couteau à cuir",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "couture": [
+      {
+        "ref": "categories/stitching",
+        "class": "category",
+        "kind": null,
+        "name": "couture",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "cuir": [
+      {
+        "ref": "categories/leather",
+        "class": "category",
+        "kind": null,
+        "name": "cuir",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "cuir tanné végétal": [
+      {
+        "ref": "categories/vegetable-tanned-leather",
+        "class": "category",
+        "kind": null,
+        "name": "cuir tanné végétal",
+        "lang": "fr",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/vegetable-tanned-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "cuir tanné végétal",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
+    "cuir à tannage végétal": [
+      {
+        "ref": "primitives/materials/vegetable-tanned-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "cuir à tannage végétal",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "fabrication de lanière en cuir": [
+      {
+        "ref": "primitives/workflows/leather-strap-construction.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "fabrication de lanière en cuir",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "fil": [
+      {
+        "ref": "categories/thread",
+        "class": "category",
+        "kind": null,
+        "name": "fil",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "fil ciré": [
+      {
+        "ref": "primitives/materials/waxed-thread.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "fil ciré",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "finition des bords": [
+      {
+        "ref": "categories/edge-finishing",
+        "class": "category",
+        "kind": null,
+        "name": "finition des bords",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "lustrage des bords": [
+      {
+        "ref": "primitives/techniques/edge-burnishing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "lustrage des bords",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "maillet": [
+      {
+        "ref": "categories/mallet",
+        "class": "category",
+        "kind": null,
+        "name": "maillet",
+        "lang": "fr",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/mallet.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "maillet",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "point sellier": [
+      {
+        "ref": "primitives/techniques/saddle-stitch.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "point sellier",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "poinçon": [
+      {
+        "ref": "categories/awl",
+        "class": "category",
+        "kind": null,
+        "name": "poinçon",
+        "lang": "fr",
+        "canonical": false
+      }
+    ]
   }
 }

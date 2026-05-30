@@ -1,0 +1,9 @@
+{
+  "format_version": "1.0",
+  "id": "edge-finishing",
+  "names": {
+    "en": ["edge finishing"],
+    "de": ["Kantenbearbeitung"],
+    "fr": ["finition des bords"]
+  }
+}

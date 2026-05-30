@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "vegetable-tanned-leather",
+  "names": {
+    "en": ["vegetable-tanned leather", "veg-tan leather"],
+    "de": ["pflanzlich gegerbtes Leder", "Vegetabilleder"],
+    "fr": ["cuir tanné végétal"]
+  },
+  "specializes": "leather"
+}

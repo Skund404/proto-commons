@@ -14,6 +14,7 @@
   "properties": {
     "skillLevel": "beginner",
     "license": "CC-BY-4.0",
+    "taxonomy": "edge-finishing",
     "names": {
       "en": ["edge burnishing", "edge slicking"],
       "de": ["Kantenglätten", "Kanten polieren"],

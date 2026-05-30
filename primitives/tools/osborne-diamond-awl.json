@@ -18,22 +18,13 @@
     "persistent": true,
     "manufacturer": "C.S. Osborne",
     "model": "#424",
+    "taxonomy": "diamond-awl",
     "names": {
       "en": ["Osborne diamond awl", "C.S. Osborne diamond awl", "Osborne #424"],
       "de": ["Osborne Diamantahle"],
       "fr": ["alène diamant Osborne"]
     }
   },
-  "relationships": [
-    {
-      "type": "specializes",
-      "target": {
-        "id": "diamond-awl-mock",
-        "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000b",
-        "path": "primitives/tools/diamond-awl.json"
-      }
-    }
-  ],
   "lineage": {
     "provenance_state": "unasserted",
     "outcome": "unknown"

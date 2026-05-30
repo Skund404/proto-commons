@@ -1,84 +1,147 @@
 {
-  "material/vegetable-tanned-leather": {
-    "slug": "vegetable-tanned-leather",
-    "kind": "material",
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000003",
-    "path": "primitives/materials/vegetable-tanned-leather.json",
-    "name": "pflanzlich gegerbtes Leder",
-    "children": []
-  },
-  "material/waxed-thread": {
-    "slug": "waxed-thread",
-    "kind": "material",
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000004",
-    "path": "primitives/materials/waxed-thread.json",
-    "name": "gewachster Faden",
-    "children": []
-  },
-  "technique/edge-burnishing": {
-    "slug": "edge-burnishing",
-    "kind": "technique",
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000006",
-    "path": "primitives/techniques/edge-burnishing.json",
-    "name": "Kantenglätten",
-    "children": []
-  },
-  "technique/saddle-stitch": {
-    "slug": "saddle-stitch",
-    "kind": "technique",
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000005",
-    "path": "primitives/techniques/saddle-stitch.json",
-    "name": "Sattlerstich",
-    "children": []
-  },
-  "tool/awl": {
-    "slug": "awl",
-    "kind": "tool",
-    "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000a",
-    "path": "primitives/tools/awl.json",
-    "name": "Ahle",
-    "children": [
-      {
-        "slug": "diamond-awl",
-        "kind": "tool",
-        "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000b",
-        "path": "primitives/tools/diamond-awl.json",
-        "name": "Diamantahle",
-        "children": [
-          {
-            "slug": "osborne-diamond-awl",
-            "kind": "tool",
-            "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000c",
-            "path": "primitives/tools/osborne-diamond-awl.json",
-            "name": "Osborne Diamantahle",
-            "children": []
-          }
-        ]
-      }
-    ]
-  },
-  "tool/mallet": {
-    "slug": "mallet",
-    "kind": "tool",
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000002",
-    "path": "primitives/tools/mallet.json",
-    "name": "Schlegel",
-    "children": []
-  },
-  "tool/round-knife": {
-    "slug": "round-knife",
-    "kind": "tool",
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000001",
-    "path": "primitives/tools/round-knife.json",
-    "name": "Halbmondmesser",
-    "children": []
-  },
-  "workflow/leather-strap-construction": {
-    "slug": "leather-strap-construction",
-    "kind": "workflow",
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000007",
-    "path": "primitives/workflows/leather-strap-construction.json",
-    "name": "Lederriemen herstellen",
-    "children": []
+  "format_version": "1.0",
+  "tree": {
+    "category/awl": {
+      "id": "awl",
+      "name": "Ahle",
+      "parent": null,
+      "members": [],
+      "related": [],
+      "children": [
+        {
+          "id": "diamond-awl",
+          "name": "Diamantahle",
+          "parent": "awl",
+          "members": [
+            {
+              "ref": "primitives/tools/osborne-diamond-awl.json",
+              "slug": "osborne-diamond-awl",
+              "kind": "tool",
+              "name": "Osborne Diamantahle"
+            }
+          ],
+          "related": [
+            "stitching"
+          ],
+          "children": []
+        }
+      ]
+    },
+    "category/construction": {
+      "id": "construction",
+      "name": "Konstruktion",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/workflows/leather-strap-construction.json",
+          "slug": "leather-strap-construction",
+          "kind": "workflow",
+          "name": "Lederriemen herstellen"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/cutting-knife": {
+      "id": "cutting-knife",
+      "name": "Ledermesser",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/tools/round-knife.json",
+          "slug": "round-knife",
+          "kind": "tool",
+          "name": "Halbmondmesser"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/edge-finishing": {
+      "id": "edge-finishing",
+      "name": "Kantenbearbeitung",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/techniques/edge-burnishing.json",
+          "slug": "edge-burnishing",
+          "kind": "technique",
+          "name": "Kantenglätten"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/leather": {
+      "id": "leather",
+      "name": "Leder",
+      "parent": null,
+      "members": [],
+      "related": [],
+      "children": [
+        {
+          "id": "vegetable-tanned-leather",
+          "name": "pflanzlich gegerbtes Leder",
+          "parent": "leather",
+          "members": [
+            {
+              "ref": "primitives/materials/vegetable-tanned-leather.json",
+              "slug": "vegetable-tanned-leather",
+              "kind": "material",
+              "name": "pflanzlich gegerbtes Leder"
+            }
+          ],
+          "related": [],
+          "children": []
+        }
+      ]
+    },
+    "category/mallet": {
+      "id": "mallet",
+      "name": "Schlägel",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/tools/mallet.json",
+          "slug": "mallet",
+          "kind": "tool",
+          "name": "Schlegel"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/stitching": {
+      "id": "stitching",
+      "name": "Nähen",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/techniques/saddle-stitch.json",
+          "slug": "saddle-stitch",
+          "kind": "technique",
+          "name": "Sattlerstich"
+        }
+      ],
+      "related": [
+        "diamond-awl"
+      ],
+      "children": []
+    },
+    "category/thread": {
+      "id": "thread",
+      "name": "Garn",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/materials/waxed-thread.json",
+          "slug": "waxed-thread",
+          "kind": "material",
+          "name": "gewachster Faden"
+        }
+      ],
+      "related": [],
+      "children": []
+    }
   }
 }

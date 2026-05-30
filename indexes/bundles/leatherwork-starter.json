@@ -1,0 +1,45 @@
+{
+  "format_version": "1.0",
+  "record_class": "bundle",
+  "slug": "leatherwork-starter",
+  "state": "open",
+  "emitter": "opg://mock-curator",
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "provenance_state": "unasserted",
+    "outcome": "unknown"
+  },
+  "name": {
+    "en": "Leatherwork Starter",
+    "de": "Lederarbeit-Einstieg",
+    "fr": "Démarrage maroquinerie"
+  },
+  "description": {
+    "en": "A kit-of-kits: bundles the strap kit and the saddle-stitch essentials into one starting point. The importing software resolves the tree and lets the user pick what to pull in, and in which language.",
+    "de": "Ein Set aus Sets: bündelt das Riemen-Set und die Sattlerstich-Grundausstattung zu einem Einstiegspunkt. Die importierende Software löst den Baum auf und lässt den Nutzer wählen, was übernommen wird und in welcher Sprache.",
+    "fr": "Un kit de kits : regroupe le kit de lanière et l'essentiel du point sellier en un point de départ. Le logiciel d'import résout l'arbre et laisse l'utilisateur choisir ce qu'il importe, et dans quelle langue."
+  },
+  "items": [
+    {
+      "record_class": "bundle",
+      "kind": null,
+      "slug": "saddle-stitch-essentials",
+      "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000d",
+      "role": "required"
+    },
+    {
+      "record_class": "bundle",
+      "kind": null,
+      "slug": "leather-strap-kit",
+      "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000e",
+      "role": "recommended",
+      "note": {
+        "en": "Optional once you have the essentials — adds cutting and edge work for full straps.",
+        "de": "Optional, sobald die Grundausstattung vorhanden ist — ergänzt Schneiden und Kantenarbeit für vollständige Riemen."
+      }
+    }
+  ],
+  "successors": [],
+  "content_hash": "sha256:000000000000000000000000000000000000000000000000000000000000000f",
+  "modified": "2026-05-30"
+}

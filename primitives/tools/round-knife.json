@@ -16,6 +16,7 @@
     "status": "active",
     "license": "CC-BY-4.0",
     "persistent": true,
+    "taxonomy": "cutting-knife",
     "names": {
       "en": ["round knife", "head knife"],
       "de": ["Halbmondmesser", "Rundmesser"],

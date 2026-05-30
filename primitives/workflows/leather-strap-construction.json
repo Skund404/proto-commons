@@ -15,6 +15,7 @@
     "difficulty": "intermediate",
     "license": "CC-BY-4.0",
     "isTemplate": true,
+    "taxonomy": "construction",
     "names": {
       "en": ["leather strap construction", "strap making"],
       "de": ["Lederriemen herstellen", "Riemenbau"],

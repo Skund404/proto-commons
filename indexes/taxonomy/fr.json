@@ -1,84 +1,147 @@
 {
-  "material/vegetable-tanned-leather": {
-    "slug": "vegetable-tanned-leather",
-    "kind": "material",
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000003",
-    "path": "primitives/materials/vegetable-tanned-leather.json",
-    "name": "cuir à tannage végétal",
-    "children": []
-  },
-  "material/waxed-thread": {
-    "slug": "waxed-thread",
-    "kind": "material",
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000004",
-    "path": "primitives/materials/waxed-thread.json",
-    "name": "fil ciré",
-    "children": []
-  },
-  "technique/edge-burnishing": {
-    "slug": "edge-burnishing",
-    "kind": "technique",
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000006",
-    "path": "primitives/techniques/edge-burnishing.json",
-    "name": "lustrage des bords",
-    "children": []
-  },
-  "technique/saddle-stitch": {
-    "slug": "saddle-stitch",
-    "kind": "technique",
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000005",
-    "path": "primitives/techniques/saddle-stitch.json",
-    "name": "point sellier",
-    "children": []
-  },
-  "tool/awl": {
-    "slug": "awl",
-    "kind": "tool",
-    "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000a",
-    "path": "primitives/tools/awl.json",
-    "name": "alène",
-    "children": [
-      {
-        "slug": "diamond-awl",
-        "kind": "tool",
-        "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000b",
-        "path": "primitives/tools/diamond-awl.json",
-        "name": "alène diamant",
-        "children": [
-          {
-            "slug": "osborne-diamond-awl",
-            "kind": "tool",
-            "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000c",
-            "path": "primitives/tools/osborne-diamond-awl.json",
-            "name": "alène diamant Osborne",
-            "children": []
-          }
-        ]
-      }
-    ]
-  },
-  "tool/mallet": {
-    "slug": "mallet",
-    "kind": "tool",
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000002",
-    "path": "primitives/tools/mallet.json",
-    "name": "maillet",
-    "children": []
-  },
-  "tool/round-knife": {
-    "slug": "round-knife",
-    "kind": "tool",
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000001",
-    "path": "primitives/tools/round-knife.json",
-    "name": "couteau demi-lune",
-    "children": []
-  },
-  "workflow/leather-strap-construction": {
-    "slug": "leather-strap-construction",
-    "kind": "workflow",
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000007",
-    "path": "primitives/workflows/leather-strap-construction.json",
-    "name": "fabrication de lanière en cuir",
-    "children": []
+  "format_version": "1.0",
+  "tree": {
+    "category/awl": {
+      "id": "awl",
+      "name": "alène",
+      "parent": null,
+      "members": [],
+      "related": [],
+      "children": [
+        {
+          "id": "diamond-awl",
+          "name": "alène diamant",
+          "parent": "awl",
+          "members": [
+            {
+              "ref": "primitives/tools/osborne-diamond-awl.json",
+              "slug": "osborne-diamond-awl",
+              "kind": "tool",
+              "name": "alène diamant Osborne"
+            }
+          ],
+          "related": [
+            "stitching"
+          ],
+          "children": []
+        }
+      ]
+    },
+    "category/construction": {
+      "id": "construction",
+      "name": "construction",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/workflows/leather-strap-construction.json",
+          "slug": "leather-strap-construction",
+          "kind": "workflow",
+          "name": "fabrication de lanière en cuir"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/cutting-knife": {
+      "id": "cutting-knife",
+      "name": "couteau à cuir",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/tools/round-knife.json",
+          "slug": "round-knife",
+          "kind": "tool",
+          "name": "couteau demi-lune"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/edge-finishing": {
+      "id": "edge-finishing",
+      "name": "finition des bords",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/techniques/edge-burnishing.json",
+          "slug": "edge-burnishing",
+          "kind": "technique",
+          "name": "lustrage des bords"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/leather": {
+      "id": "leather",
+      "name": "cuir",
+      "parent": null,
+      "members": [],
+      "related": [],
+      "children": [
+        {
+          "id": "vegetable-tanned-leather",
+          "name": "cuir tanné végétal",
+          "parent": "leather",
+          "members": [
+            {
+              "ref": "primitives/materials/vegetable-tanned-leather.json",
+              "slug": "vegetable-tanned-leather",
+              "kind": "material",
+              "name": "cuir à tannage végétal"
+            }
+          ],
+          "related": [],
+          "children": []
+        }
+      ]
+    },
+    "category/mallet": {
+      "id": "mallet",
+      "name": "maillet",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/tools/mallet.json",
+          "slug": "mallet",
+          "kind": "tool",
+          "name": "maillet"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/stitching": {
+      "id": "stitching",
+      "name": "couture",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/techniques/saddle-stitch.json",
+          "slug": "saddle-stitch",
+          "kind": "technique",
+          "name": "point sellier"
+        }
+      ],
+      "related": [
+        "diamond-awl"
+      ],
+      "children": []
+    },
+    "category/thread": {
+      "id": "thread",
+      "name": "fil",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/materials/waxed-thread.json",
+          "slug": "waxed-thread",
+          "kind": "material",
+          "name": "fil ciré"
+        }
+      ],
+      "related": [],
+      "children": []
+    }
   }
 }

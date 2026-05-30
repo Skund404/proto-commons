@@ -16,6 +16,7 @@
     "unit": "sqft",
     "subtype": "consumable",
     "license": "CC-BY-4.0",
+    "taxonomy": "vegetable-tanned-leather",
     "names": {
       "en": ["vegetable-tanned leather", "veg tan", "veg-tan leather"],
       "de": ["pflanzlich gegerbtes Leder", "Vachetta"],

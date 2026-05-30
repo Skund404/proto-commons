@@ -16,6 +16,7 @@
     "status": "active",
     "license": "CC-BY-4.0",
     "persistent": true,
+    "taxonomy": "mallet",
     "names": {
       "en": ["mallet"],
       "de": ["Schlegel", "Holzhammer"],

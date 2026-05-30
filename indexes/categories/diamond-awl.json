@@ -1,0 +1,11 @@
+{
+  "format_version": "1.0",
+  "id": "diamond-awl",
+  "names": {
+    "en": ["diamond awl", "stitching awl"],
+    "de": ["Diamantahle", "Sattlerahle"],
+    "fr": ["alène diamant", "alène à sellier"]
+  },
+  "specializes": "awl",
+  "related": ["stitching"]
+}

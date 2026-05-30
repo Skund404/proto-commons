@@ -1,0 +1,14 @@
+{
+  "format_version": "1.0",
+  "languages": [
+    "de",
+    "en",
+    "fr"
+  ],
+  "shards": [
+    {
+      "id": "main",
+      "path": "."
+    }
+  ]
+}

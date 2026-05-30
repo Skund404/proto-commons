@@ -1,8 +1,9 @@
 {
+  "format_version": "1.0",
   "record_class": "bundle",
   "slug": "leather-strap-kit",
+  "state": "open",
   "emitter": "opg://mock-curator",
-  "content_hash": "sha256:000000000000000000000000000000000000000000000000000000000000000e",
   "license": "CC-BY-4.0",
   "lineage": {
     "provenance_state": "unasserted",
@@ -31,7 +32,11 @@
       "kind": "tool",
       "slug": "round-knife",
       "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000001",
-      "role": "required"
+      "role": "required",
+      "note": {
+        "en": "A head/round knife is ideal, but any sharp leather knife works.",
+        "de": "Ein Halbmond- oder Rundmesser ist ideal, aber jedes scharfe Ledermesser funktioniert."
+      }
     },
     {
       "record_class": "primitive",
@@ -68,5 +73,8 @@
       "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000005",
       "role": "recommended"
     }
-  ]
+  ],
+  "successors": [],
+  "content_hash": "sha256:000000000000000000000000000000000000000000000000000000000000000e",
+  "modified": "2026-05-28"
 }

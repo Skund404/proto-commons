@@ -16,6 +16,7 @@
     "unit": "m",
     "subtype": "consumable",
     "license": "CC-BY-4.0",
+    "taxonomy": "thread",
     "names": {
       "en": ["waxed thread"],
       "de": ["gewachster Faden", "Sattlergarn"],

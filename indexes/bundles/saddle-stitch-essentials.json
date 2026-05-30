@@ -1,8 +1,9 @@
 {
+  "format_version": "1.0",
   "record_class": "bundle",
   "slug": "saddle-stitch-essentials",
+  "state": "closed",
   "emitter": "opg://mock-curator",
-  "content_hash": "sha256:000000000000000000000000000000000000000000000000000000000000000d",
   "license": "CC-BY-4.0",
   "lineage": {
     "provenance_state": "unasserted",
@@ -14,9 +15,9 @@
     "fr": "L'essentiel du point sellier"
   },
   "description": {
-    "en": "Minimum primitives needed to start saddle stitching by hand.",
-    "de": "Minimale Grundausstattung für den handgenähten Sattlerstich.",
-    "fr": "Primitives minimales pour commencer le point sellier à la main."
+    "en": "Minimum primitives needed to start saddle stitching by hand. Frozen citation — exactly the set as taught.",
+    "de": "Minimale Grundausstattung für den handgenähten Sattlerstich. Eingefrorenes Zitat — genau das gelehrte Set.",
+    "fr": "Primitives minimales pour commencer le point sellier à la main. Citation figée — exactement l'ensemble enseigné."
   },
   "items": [
     {
@@ -36,8 +37,8 @@
     {
       "record_class": "primitive",
       "kind": "tool",
-      "slug": "diamond-awl",
-      "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000b",
+      "slug": "osborne-diamond-awl",
+      "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000c",
       "role": "required"
     },
     {
@@ -54,5 +55,18 @@
       "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000003",
       "role": "recommended"
     }
-  ]
+  ],
+  "successors": [
+    {
+      "target": "bundles/saddle-stitch-essentials-v2",
+      "note": {
+        "en": "v2 swaps the generic mallet for a poly maul — drop-in, no technique change.",
+        "de": "v2 ersetzt den Holzhammer durch einen Poly-Klüpfel — direkt austauschbar, keine Technikänderung."
+      },
+      "change_impact": "drop-in",
+      "added": "2026-05-30"
+    }
+  ],
+  "content_hash": "sha256:000000000000000000000000000000000000000000000000000000000000000d",
+  "modified": "2026-05-28"
 }

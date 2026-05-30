@@ -1,110 +1,293 @@
 {
-  "ahle": {
-    "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000a",
-    "path": "primitives/tools/awl.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "diamantahle": {
-    "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000b",
-    "path": "primitives/tools/diamond-awl.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "gewachster faden": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000004",
-    "path": "primitives/materials/waxed-thread.json",
-    "kind": "material",
-    "canonical": true
-  },
-  "halbmondmesser": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000001",
-    "path": "primitives/tools/round-knife.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "holzhammer": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000002",
-    "path": "primitives/tools/mallet.json",
-    "kind": "tool",
-    "canonical": false
-  },
-  "kanten polieren": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000006",
-    "path": "primitives/techniques/edge-burnishing.json",
-    "kind": "technique",
-    "canonical": false
-  },
-  "kantenglätten": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000006",
-    "path": "primitives/techniques/edge-burnishing.json",
-    "kind": "technique",
-    "canonical": true
-  },
-  "lederriemen herstellen": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000007",
-    "path": "primitives/workflows/leather-strap-construction.json",
-    "kind": "workflow",
-    "canonical": true
-  },
-  "osborne diamantahle": {
-    "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000c",
-    "path": "primitives/tools/osborne-diamond-awl.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "pflanzlich gegerbtes leder": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000003",
-    "path": "primitives/materials/vegetable-tanned-leather.json",
-    "kind": "material",
-    "canonical": true
-  },
-  "pfriem": {
-    "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000a",
-    "path": "primitives/tools/awl.json",
-    "kind": "tool",
-    "canonical": false
-  },
-  "riemenbau": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000007",
-    "path": "primitives/workflows/leather-strap-construction.json",
-    "kind": "workflow",
-    "canonical": false
-  },
-  "rundmesser": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000001",
-    "path": "primitives/tools/round-knife.json",
-    "kind": "tool",
-    "canonical": false
-  },
-  "sattlerahle": {
-    "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000b",
-    "path": "primitives/tools/diamond-awl.json",
-    "kind": "tool",
-    "canonical": false
-  },
-  "sattlergarn": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000004",
-    "path": "primitives/materials/waxed-thread.json",
-    "kind": "material",
-    "canonical": false
-  },
-  "sattlerstich": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000005",
-    "path": "primitives/techniques/saddle-stitch.json",
-    "kind": "technique",
-    "canonical": true
-  },
-  "schlegel": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000002",
-    "path": "primitives/tools/mallet.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "vachetta": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000003",
-    "path": "primitives/materials/vegetable-tanned-leather.json",
-    "kind": "material",
-    "canonical": false
+  "format_version": "1.0",
+  "entries": {
+    "ahle": [
+      {
+        "ref": "categories/awl",
+        "class": "category",
+        "kind": null,
+        "name": "Ahle",
+        "lang": "de",
+        "canonical": true
+      }
+    ],
+    "diamantahle": [
+      {
+        "ref": "categories/diamond-awl",
+        "class": "category",
+        "kind": null,
+        "name": "Diamantahle",
+        "lang": "de",
+        "canonical": true
+      }
+    ],
+    "faden": [
+      {
+        "ref": "categories/thread",
+        "class": "category",
+        "kind": null,
+        "name": "Faden",
+        "lang": "de",
+        "canonical": false
+      }
+    ],
+    "garn": [
+      {
+        "ref": "categories/thread",
+        "class": "category",
+        "kind": null,
+        "name": "Garn",
+        "lang": "de",
+        "canonical": true
+      }
+    ],
+    "gewachster faden": [
+      {
+        "ref": "primitives/materials/waxed-thread.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "gewachster Faden",
+        "lang": "de",
+        "canonical": true
+      }
+    ],
+    "halbmondmesser": [
+      {
+        "ref": "primitives/tools/round-knife.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Halbmondmesser",
+        "lang": "de",
+        "canonical": true
+      }
+    ],
+    "holzhammer": [
+      {
+        "ref": "primitives/tools/mallet.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Holzhammer",
+        "lang": "de",
+        "canonical": false
+      }
+    ],
+    "kanten polieren": [
+      {
+        "ref": "primitives/techniques/edge-burnishing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "Kanten polieren",
+        "lang": "de",
+        "canonical": false
+      }
+    ],
+    "kantenbearbeitung": [
+      {
+        "ref": "categories/edge-finishing",
+        "class": "category",
+        "kind": null,
+        "name": "Kantenbearbeitung",
+        "lang": "de",
+        "canonical": true
+      }
+    ],
+    "kantenglätten": [
+      {
+        "ref": "primitives/techniques/edge-burnishing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "Kantenglätten",
+        "lang": "de",
+        "canonical": true
+      }
+    ],
+    "klüpfel": [
+      {
+        "ref": "categories/mallet",
+        "class": "category",
+        "kind": null,
+        "name": "Klüpfel",
+        "lang": "de",
+        "canonical": false
+      }
+    ],
+    "konstruktion": [
+      {
+        "ref": "categories/construction",
+        "class": "category",
+        "kind": null,
+        "name": "Konstruktion",
+        "lang": "de",
+        "canonical": true
+      }
+    ],
+    "leder": [
+      {
+        "ref": "categories/leather",
+        "class": "category",
+        "kind": null,
+        "name": "Leder",
+        "lang": "de",
+        "canonical": true
+      }
+    ],
+    "ledermesser": [
+      {
+        "ref": "categories/cutting-knife",
+        "class": "category",
+        "kind": null,
+        "name": "Ledermesser",
+        "lang": "de",
+        "canonical": true
+      }
+    ],
+    "lederriemen herstellen": [
+      {
+        "ref": "primitives/workflows/leather-strap-construction.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "Lederriemen herstellen",
+        "lang": "de",
+        "canonical": true
+      }
+    ],
+    "nähen": [
+      {
+        "ref": "categories/stitching",
+        "class": "category",
+        "kind": null,
+        "name": "Nähen",
+        "lang": "de",
+        "canonical": true
+      }
+    ],
+    "osborne diamantahle": [
+      {
+        "ref": "primitives/tools/osborne-diamond-awl.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Osborne Diamantahle",
+        "lang": "de",
+        "canonical": true
+      }
+    ],
+    "pflanzlich gegerbtes leder": [
+      {
+        "ref": "categories/vegetable-tanned-leather",
+        "class": "category",
+        "kind": null,
+        "name": "pflanzlich gegerbtes Leder",
+        "lang": "de",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/vegetable-tanned-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "pflanzlich gegerbtes Leder",
+        "lang": "de",
+        "canonical": true
+      }
+    ],
+    "pfriem": [
+      {
+        "ref": "categories/awl",
+        "class": "category",
+        "kind": null,
+        "name": "Pfriem",
+        "lang": "de",
+        "canonical": false
+      }
+    ],
+    "riemenbau": [
+      {
+        "ref": "primitives/workflows/leather-strap-construction.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "Riemenbau",
+        "lang": "de",
+        "canonical": false
+      }
+    ],
+    "rundmesser": [
+      {
+        "ref": "primitives/tools/round-knife.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Rundmesser",
+        "lang": "de",
+        "canonical": false
+      }
+    ],
+    "sattlerahle": [
+      {
+        "ref": "categories/diamond-awl",
+        "class": "category",
+        "kind": null,
+        "name": "Sattlerahle",
+        "lang": "de",
+        "canonical": false
+      }
+    ],
+    "sattlergarn": [
+      {
+        "ref": "primitives/materials/waxed-thread.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "Sattlergarn",
+        "lang": "de",
+        "canonical": false
+      }
+    ],
+    "sattlerstich": [
+      {
+        "ref": "primitives/techniques/saddle-stitch.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "Sattlerstich",
+        "lang": "de",
+        "canonical": true
+      }
+    ],
+    "schlegel": [
+      {
+        "ref": "primitives/tools/mallet.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Schlegel",
+        "lang": "de",
+        "canonical": true
+      }
+    ],
+    "schlägel": [
+      {
+        "ref": "categories/mallet",
+        "class": "category",
+        "kind": null,
+        "name": "Schlägel",
+        "lang": "de",
+        "canonical": true
+      }
+    ],
+    "vachetta": [
+      {
+        "ref": "primitives/materials/vegetable-tanned-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "Vachetta",
+        "lang": "de",
+        "canonical": false
+      }
+    ],
+    "vegetabilleder": [
+      {
+        "ref": "categories/vegetable-tanned-leather",
+        "class": "category",
+        "kind": null,
+        "name": "Vegetabilleder",
+        "lang": "de",
+        "canonical": false
+      }
+    ]
   }
 }

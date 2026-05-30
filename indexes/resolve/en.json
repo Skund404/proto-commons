@@ -1,110 +1,279 @@
 {
-  "awl": {
-    "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000a",
-    "path": "primitives/tools/awl.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "c.s. osborne diamond awl": {
-    "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000c",
-    "path": "primitives/tools/osborne-diamond-awl.json",
-    "kind": "tool",
-    "canonical": false
-  },
-  "diamond awl": {
-    "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000b",
-    "path": "primitives/tools/diamond-awl.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "edge burnishing": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000006",
-    "path": "primitives/techniques/edge-burnishing.json",
-    "kind": "technique",
-    "canonical": true
-  },
-  "edge slicking": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000006",
-    "path": "primitives/techniques/edge-burnishing.json",
-    "kind": "technique",
-    "canonical": false
-  },
-  "head knife": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000001",
-    "path": "primitives/tools/round-knife.json",
-    "kind": "tool",
-    "canonical": false
-  },
-  "leather strap construction": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000007",
-    "path": "primitives/workflows/leather-strap-construction.json",
-    "kind": "workflow",
-    "canonical": true
-  },
-  "mallet": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000002",
-    "path": "primitives/tools/mallet.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "osborne #424": {
-    "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000c",
-    "path": "primitives/tools/osborne-diamond-awl.json",
-    "kind": "tool",
-    "canonical": false
-  },
-  "osborne diamond awl": {
-    "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000c",
-    "path": "primitives/tools/osborne-diamond-awl.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "round knife": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000001",
-    "path": "primitives/tools/round-knife.json",
-    "kind": "tool",
-    "canonical": true
-  },
-  "saddle stitch": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000005",
-    "path": "primitives/techniques/saddle-stitch.json",
-    "kind": "technique",
-    "canonical": true
-  },
-  "stitching awl": {
-    "hash": "sha256:000000000000000000000000000000000000000000000000000000000000000b",
-    "path": "primitives/tools/diamond-awl.json",
-    "kind": "tool",
-    "canonical": false
-  },
-  "strap making": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000007",
-    "path": "primitives/workflows/leather-strap-construction.json",
-    "kind": "workflow",
-    "canonical": false
-  },
-  "veg tan": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000003",
-    "path": "primitives/materials/vegetable-tanned-leather.json",
-    "kind": "material",
-    "canonical": false
-  },
-  "veg-tan leather": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000003",
-    "path": "primitives/materials/vegetable-tanned-leather.json",
-    "kind": "material",
-    "canonical": false
-  },
-  "vegetable-tanned leather": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000003",
-    "path": "primitives/materials/vegetable-tanned-leather.json",
-    "kind": "material",
-    "canonical": true
-  },
-  "waxed thread": {
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000004",
-    "path": "primitives/materials/waxed-thread.json",
-    "kind": "material",
-    "canonical": true
+  "format_version": "1.0",
+  "entries": {
+    "awl": [
+      {
+        "ref": "categories/awl",
+        "class": "category",
+        "kind": null,
+        "name": "awl",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "c.s. osborne diamond awl": [
+      {
+        "ref": "primitives/tools/osborne-diamond-awl.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "C.S. Osborne diamond awl",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "construction": [
+      {
+        "ref": "categories/construction",
+        "class": "category",
+        "kind": null,
+        "name": "construction",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "diamond awl": [
+      {
+        "ref": "categories/diamond-awl",
+        "class": "category",
+        "kind": null,
+        "name": "diamond awl",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "edge burnishing": [
+      {
+        "ref": "primitives/techniques/edge-burnishing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "edge burnishing",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "edge finishing": [
+      {
+        "ref": "categories/edge-finishing",
+        "class": "category",
+        "kind": null,
+        "name": "edge finishing",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "edge slicking": [
+      {
+        "ref": "primitives/techniques/edge-burnishing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "edge slicking",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "head knife": [
+      {
+        "ref": "primitives/tools/round-knife.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "head knife",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "leather": [
+      {
+        "ref": "categories/leather",
+        "class": "category",
+        "kind": null,
+        "name": "leather",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "leather knife": [
+      {
+        "ref": "categories/cutting-knife",
+        "class": "category",
+        "kind": null,
+        "name": "leather knife",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "leather strap construction": [
+      {
+        "ref": "primitives/workflows/leather-strap-construction.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "leather strap construction",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "mallet": [
+      {
+        "ref": "categories/mallet",
+        "class": "category",
+        "kind": null,
+        "name": "mallet",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/mallet.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "mallet",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "maul": [
+      {
+        "ref": "categories/mallet",
+        "class": "category",
+        "kind": null,
+        "name": "maul",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "osborne #424": [
+      {
+        "ref": "primitives/tools/osborne-diamond-awl.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Osborne #424",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "osborne diamond awl": [
+      {
+        "ref": "primitives/tools/osborne-diamond-awl.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Osborne diamond awl",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "round knife": [
+      {
+        "ref": "primitives/tools/round-knife.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "round knife",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "saddle stitch": [
+      {
+        "ref": "primitives/techniques/saddle-stitch.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "saddle stitch",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "stitching": [
+      {
+        "ref": "categories/stitching",
+        "class": "category",
+        "kind": null,
+        "name": "stitching",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "stitching awl": [
+      {
+        "ref": "categories/diamond-awl",
+        "class": "category",
+        "kind": null,
+        "name": "stitching awl",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "strap making": [
+      {
+        "ref": "primitives/workflows/leather-strap-construction.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "strap making",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "thread": [
+      {
+        "ref": "categories/thread",
+        "class": "category",
+        "kind": null,
+        "name": "thread",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "veg tan": [
+      {
+        "ref": "primitives/materials/vegetable-tanned-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "veg tan",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "veg-tan leather": [
+      {
+        "ref": "categories/vegetable-tanned-leather",
+        "class": "category",
+        "kind": null,
+        "name": "veg-tan leather",
+        "lang": "en",
+        "canonical": false
+      },
+      {
+        "ref": "primitives/materials/vegetable-tanned-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "veg-tan leather",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "vegetable-tanned leather": [
+      {
+        "ref": "categories/vegetable-tanned-leather",
+        "class": "category",
+        "kind": null,
+        "name": "vegetable-tanned leather",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/vegetable-tanned-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "vegetable-tanned leather",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "waxed thread": [
+      {
+        "ref": "primitives/materials/waxed-thread.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "waxed thread",
+        "lang": "en",
+        "canonical": true
+      }
+    ]
   }
 }
