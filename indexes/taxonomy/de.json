@@ -57,6 +57,14 @@
       }
     ]
   },
+  "tool/bone-folder": {
+    "slug": "bone-folder",
+    "kind": "tool",
+    "hash": "sha256:c6d59ce3f3844c0573137904bdafde665aeeac85690fac273ade58a7d1d8ef5c",
+    "path": "primitives/tools/bone-folder.json",
+    "name": "Falzbein",
+    "children": []
+  },
   "tool/mallet": {
     "slug": "mallet",
     "kind": "tool",
