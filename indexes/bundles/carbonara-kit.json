@@ -1,0 +1,92 @@
+{
+  "record_class": "bundle",
+  "slug": "carbonara-kit",
+  "emitter": "opg://commons-seed",
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "provenance_state": "unasserted",
+    "outcome": "unknown"
+  },
+  "name": {
+    "en": "Carbonara recipe kit",
+    "it": "kit ricetta carbonara",
+    "de": "Carbonara-Rezeptset",
+    "fr": "kit recette carbonara"
+  },
+  "description": {
+    "en": "Everything for an authentic Roman carbonara: the recipe, its techniques, the five ingredients, and the cookware. The cheese, eggs, guanciale, spaghetti and pepper are required; the specific tools are recommended (use what you have)."
+  },
+  "items": [
+    {
+      "record_class": "primitive",
+      "kind": "workflow",
+      "slug": "spaghetti-carbonara",
+      "hash": "sha256:7f5ca7ea74a7ac61eb2c81738bb6cd69267b8c1f1f529ce861e73c5fd4202444",
+      "role": "required"
+    },
+    {
+      "record_class": "primitive",
+      "kind": "material",
+      "slug": "spaghetti",
+      "hash": "sha256:0c8e0dad9102cbad2ac96edc03209b49877ee7e64e2fbfc7d84ba5f4a9a07950",
+      "role": "required"
+    },
+    {
+      "record_class": "primitive",
+      "kind": "material",
+      "slug": "guanciale",
+      "hash": "sha256:a0563881502d7b31605120422998d547e9e73a061d2ea66b56ffa5a5f8cc9373",
+      "role": "required"
+    },
+    {
+      "record_class": "primitive",
+      "kind": "material",
+      "slug": "pecorino-romano",
+      "hash": "sha256:70941a4907519289ab78cf378e57a07a2f8ea71e2947be19c38dd9959cd844b1",
+      "role": "required"
+    },
+    {
+      "record_class": "primitive",
+      "kind": "material",
+      "slug": "egg",
+      "hash": "sha256:1dc04b5129ffe114ad5198f3c20f977b8a36cc8f17bcfc8f09dffa36a35a97cf",
+      "role": "required"
+    },
+    {
+      "record_class": "primitive",
+      "kind": "material",
+      "slug": "black-pepper",
+      "hash": "sha256:a05ada17dbf8d904947a17bfac65dfee54d66abaaa9f92a99c7484f7535dc2cd",
+      "role": "required"
+    },
+    {
+      "record_class": "primitive",
+      "kind": "tool",
+      "slug": "skillet",
+      "hash": "sha256:295658f9e894c442ef138f63324a84dd81096e3319c98217217b280c033817ed",
+      "role": "recommended"
+    },
+    {
+      "record_class": "primitive",
+      "kind": "tool",
+      "slug": "pasta-pot",
+      "hash": "sha256:8b40cf14ed84b2e2552e92d0e21a1be1edff8315dcb75f0799246d441e5b5e47",
+      "role": "recommended"
+    },
+    {
+      "record_class": "primitive",
+      "kind": "tool",
+      "slug": "whisk",
+      "hash": "sha256:7d109371e0d200fa854ac539acc56eceb6ea52d72d29e5a67a32c92f73ccbdcf",
+      "role": "optional"
+    },
+    {
+      "record_class": "primitive",
+      "kind": "tool",
+      "slug": "box-grater",
+      "hash": "sha256:bca805efbff6cf5b4d3c38caa42e166a9eba8ef8d4e2190905d2d336d1ddeb19",
+      "role": "optional"
+    }
+  ],
+  "content_hash": "sha256:7474d33f8023e38853cb67de81d8c61988af91fdd6d156dd408b3b460e8f7515"
+}

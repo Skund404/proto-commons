@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:0c8e0dad9102cbad2ac96edc03209b49877ee7e64e2fbfc7d84ba5f4a9a07950",
+  "created": "2026-05-30",
+  "description": "Long, thin cylindrical durum-wheat pasta. The canonical cut for carbonara.",
+  "emitter": "opg://commons-seed",
+  "id": "spaghetti-seed",
+  "kind": "material",
+  "lineage": {
+    "provenance_state": "unasserted",
+    "outcome": "unknown"
+  },
+  "modified": "2026-05-30",
+  "name": "spaghetti",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "pasta",
+    "names": {
+      "en": [
+        "spaghetti"
+      ],
+      "it": [
+        "spaghetti"
+      ],
+      "de": [
+        "Spaghetti"
+      ],
+      "fr": [
+        "spaghettis"
+      ]
+    }
+  },
+  "slug": "spaghetti",
+  "tags": [
+    "pasta",
+    "durum-wheat",
+    "dry-goods"
+  ],
+  "visibility": "commons"
+}

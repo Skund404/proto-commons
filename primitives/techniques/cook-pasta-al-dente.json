@@ -1,0 +1,59 @@
+{
+  "content_hash": "sha256:abea126a0e80caecb881163a1692edf1c5ec0460ccc27b77f4b11f1e406c474a",
+  "created": "2026-05-30",
+  "description": "Boil pasta in abundant salted water until firm to the bite. Reserve a cup of the starchy cooking water before draining — it is the emulsifier for the sauce.",
+  "emitter": "opg://commons-seed",
+  "id": "cook-pasta-al-dente-seed",
+  "kind": "technique",
+  "lineage": {
+    "provenance_state": "unasserted",
+    "outcome": "unknown"
+  },
+  "modified": "2026-05-30",
+  "name": "cook pasta al dente",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "cook pasta al dente"
+      ],
+      "it": [
+        "cuocere la pasta al dente"
+      ],
+      "de": [
+        "Nudeln al dente kochen"
+      ],
+      "fr": [
+        "cuire les pâtes al dente"
+      ]
+    },
+    "skillLevel": "beginner"
+  },
+  "relationships": [
+    {
+      "target": {
+        "id": "pasta-pot-seed",
+        "hash": "sha256:8b40cf14ed84b2e2552e92d0e21a1be1edff8315dcb75f0799246d441e5b5e47",
+        "path": "primitives/tools/pasta-pot.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "id": "spaghetti-seed",
+        "hash": "sha256:0c8e0dad9102cbad2ac96edc03209b49877ee7e64e2fbfc7d84ba5f4a9a07950",
+        "path": "primitives/materials/spaghetti.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "cook-pasta-al-dente",
+  "tags": [
+    "pasta",
+    "boiling",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:70941a4907519289ab78cf378e57a07a2f8ea71e2947be19c38dd9959cd844b1",
+  "created": "2026-05-30",
+  "description": "Hard, salty sheep's-milk cheese (DOP). The only cheese in authentic carbonara — its saltiness means little or no added salt is needed.",
+  "emitter": "opg://commons-seed",
+  "id": "pecorino-romano-seed",
+  "kind": "material",
+  "lineage": {
+    "provenance_state": "unasserted",
+    "outcome": "unknown"
+  },
+  "modified": "2026-05-30",
+  "name": "Pecorino Romano",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "cheese",
+    "names": {
+      "en": [
+        "Pecorino Romano",
+        "pecorino"
+      ],
+      "it": [
+        "Pecorino Romano"
+      ],
+      "de": [
+        "Pecorino Romano"
+      ],
+      "fr": [
+        "pecorino romano"
+      ]
+    }
+  },
+  "slug": "pecorino-romano",
+  "tags": [
+    "cheese",
+    "sheep-milk",
+    "dop",
+    "hard-cheese"
+  ],
+  "visibility": "commons"
+}
