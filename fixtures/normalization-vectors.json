@@ -1,0 +1,47 @@
+{
+  "_comment": "Canonical normalization vectors for Proto-Commons Record Format Spec 6.3 / 9.9. Every conforming implementation of the key-normalization pipeline (NFC -> Unicode case fold -> NFC -> whitespace-collapse -> trim) MUST map each `input` to the `expected` sequence of Unicode code points (lowercase hex, no prefix). This file is the cross-implementation determinism gate. Inputs are literal UTF-8 (the compose vector is intentionally NFD: U+0045 U+0301). The `expected` arrays carry the unambiguous code points. This file is mirrored byte-for-byte in commons-tool at internal/indexer/testdata/normalization-vectors.json; keep them in sync.",
+  "vectors": [
+    {
+      "name": "latin-capital-i-with-dot-above",
+      "input": "İ",
+      "expected": ["0069", "0307"],
+      "note": "U+0130. Python lower() expands to i+combining-dot; Go ToLower keeps 1:1 'i'. Fold (CaseFolding.txt F-mapping) gives the expanded form on every runtime; the second NFC pass leaves it as two code points (no precomposed form exists)."
+    },
+    {
+      "name": "sharp-s",
+      "input": "ß",
+      "expected": ["0073", "0073"],
+      "note": "U+00DF folds to 'ss'. Deliberate expansion vs lower() (which keeps the sharp-s)."
+    },
+    {
+      "name": "greek-capital-sigma",
+      "input": "Σ",
+      "expected": ["03c3"],
+      "note": "U+03A3 -> small sigma U+03C3."
+    },
+    {
+      "name": "greek-final-sigma",
+      "input": "ς",
+      "expected": ["03c3"],
+      "note": "U+03C2 (final sigma) folds to the same key as U+03A3/U+03C3 -- caseless and position-independent."
+    },
+    {
+      "name": "turkish-dotless-i",
+      "input": "ı",
+      "expected": ["0131"],
+      "note": "U+0131 has no fold mapping and is left unchanged. The pipeline is language-independent: no Turkish dotted/dotless tailoring is applied."
+    },
+    {
+      "name": "nfc-compose-then-fold",
+      "input": "É",
+      "expected": ["00e9"],
+      "note": "'E' + combining acute (U+0301) -> NFC composes to U+00C9 -> fold to U+00E9 -> NFC leaves U+00E9. Exercises step 1 (NFC compose) + step 2 (fold) together."
+    },
+    {
+      "name": "mixed-whitespace-and-sharp-s",
+      "input": "  Schloß\tStraße\n",
+      "expected": ["0073", "0063", "0068", "006c", "006f", "0073", "0073", "0020", "0073", "0074", "0072", "0061", "0073", "0073", "0065"],
+      "note": "Leading/trailing spaces, a tab, and a newline collapse+trim to a single internal space; both sharp-s expand to 'ss'. Result: 'schloss strasse'. Exercises steps 1-5 together."
+    }
+  ]
+}
