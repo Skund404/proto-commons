@@ -20,8 +20,39 @@ The intended on-ramp is HideSync's **Publish to Commons** action, which builds a
 You can also hand-author a primitive directly:
 
 1. Read the Proto-Commons Record Format Specification (link forthcoming).
-2. Write a manifest under `primitives/<kind>/<slug>/manifest.json` per the spec.
-3. Open a PR. CI runs format and content-hash checks. A maintainer reviews.
+2. Write a record at `primitives/<kind>s/<slug>.json` per the spec — a flat file
+   in the plural-kind directory (e.g. `primitives/techniques/saddle-stitch.json`,
+   `primitives/materials/chrome-veg-tan.json`).
+3. Open a PR. An advisory CI check runs structural + content-hash validation
+   (see *Validation* below). A maintainer reviews.
+
+### Closures and bundles → `contributions/incoming/`
+
+A single primitive PRs straight into the canonical tree above. But a **closure**
+(a primitive plus its definitional dependencies) or a **bundle** (a curated set
+plus its members) is one file containing a JSON **array** of records, which
+can't live one-per-file under `primitives/`. HideSync's *Publish to Commons*
+action ships these as a single `contributions/incoming/<slug>.json`.
+
+A maintainer's tool then **explodes** that file into the canonical layout — each
+primitive to `primitives/<kind>s/<slug>.json`, each bundle to
+`indexes/bundles/<slug>.json` — and rebuilds the derived indexes. You don't
+hand-place the canonical files for a closure/bundle; you drop the array in
+`incoming/` and the maintainer's intake does the rest. See
+[`contributions/incoming/`](contributions/incoming/README.md).
+
+### Validation (advisory)
+
+CI runs an **advisory** structural validator
+([`scripts/validate_contributions.py`](scripts/validate_contributions.py)) over
+`contributions/incoming/`, `primitives/`, and `indexes/bundles/`. It checks the
+record shape the canonical tooling expects (kinds, kebab slugs, hash format,
+URL-only media, bundle items) and **reports** — it never rebuilds indexes or
+commits. Pre-Foundation the commons accepts messy content with no central
+authority, so this gate does not block: a maintainer holds canonical write
+authority, adjudicates each contribution, and runs the canonical
+explosion + indexing locally. Clear validation feedback just helps you get a
+contribution right before a maintainer picks it up.
 
 ## What gets published
 
