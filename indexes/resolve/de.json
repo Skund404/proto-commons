@@ -11,12 +11,6 @@
     "kind": "tool",
     "canonical": true
   },
-  "falzbein": {
-    "hash": "sha256:c6d59ce3f3844c0573137904bdafde665aeeac85690fac273ade58a7d1d8ef5c",
-    "path": "primitives/tools/bone-folder.json",
-    "kind": "tool",
-    "canonical": true
-  },
   "gewachster faden": {
     "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000004",
     "path": "primitives/materials/waxed-thread.json",

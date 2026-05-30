@@ -71,12 +71,6 @@
     "kind": "tool",
     "canonical": true
   },
-  "plioir": {
-    "hash": "sha256:c6d59ce3f3844c0573137904bdafde665aeeac85690fac273ade58a7d1d8ef5c",
-    "path": "primitives/tools/bone-folder.json",
-    "kind": "tool",
-    "canonical": true
-  },
   "point sellier": {
     "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000005",
     "path": "primitives/techniques/saddle-stitch.json",
