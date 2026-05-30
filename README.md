@@ -14,15 +14,18 @@ primitives/
   workflows/     projects/     events/
 indexes/
   resolve/       taxonomy/     bundles/
+contributions/
+  incoming/
 schema/          scripts/
 LICENSE          README.md     CONTRIBUTING.md
 ```
 
-- **`primitives/`** — strict OPG-L 0.6 records, six closed kinds, hash-pinned and content-addressed.
+- **`primitives/`** — strict OPG-L 0.6 records, six closed kinds, hash-pinned and content-addressed. One flat file per record: `primitives/<kind>s/<slug>.json`.
 - **`indexes/resolve/`** and **`indexes/taxonomy/`** — derived JSON for navigation, regenerable from primitives.
 - **`indexes/bundles/`** — curatorial groupings (starter kits) carrying `record_class: "bundle"`.
+- **`contributions/incoming/`** — staging for multi-record ships (closures + bundles) before a maintainer explodes them into the canonical tree. See [`CONTRIBUTING.md`](CONTRIBUTING.md).
 - **`schema/`** — JSON Schemas (mirrored from `opg-core`).
-- **`scripts/`** — maintenance helpers.
+- **`scripts/`** — maintenance helpers (incl. the advisory contribution validator).
 
 ## Contributing
 

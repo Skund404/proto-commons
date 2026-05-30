@@ -1,0 +1,33 @@
+name: validate-contributions
+
+# Advisory structural validation for primitive + bundle records. It validates
+# and reports; it never rebuilds indexes or writes back (the maintainer holds
+# canonical write authority — see CONTRIBUTING.md and contributions/incoming/).
+# Pre-Foundation the commons accepts messy content, so this gate is advisory:
+# branch protection does not require it, and a maintainer may merge regardless.
+
+on:
+  pull_request:
+    paths:
+      - 'contributions/**'
+      - 'primitives/**'
+      - 'indexes/bundles/**'
+      - 'scripts/validate_contributions.py'
+      - '.github/workflows/validate-contributions.yml'
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Advisory structural validation
+        run: python scripts/validate_contributions.py
