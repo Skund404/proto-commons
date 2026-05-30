@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:7d109371e0d200fa854ac539acc56eceb6ea52d72d29e5a67a32c92f73ccbdcf",
+  "created": "2026-05-30",
+  "description": "Wire whisk for beating the eggs and blending in the grated pecorino to a smooth, lump-free base before it meets the pasta.",
+  "emitter": "opg://commons-seed",
+  "id": "whisk-seed",
+  "kind": "tool",
+  "lineage": {
+    "provenance_state": "unasserted",
+    "outcome": "unknown"
+  },
+  "modified": "2026-05-30",
+  "name": "whisk",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "category": "utensil",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "whisk",
+        "egg whisk"
+      ],
+      "it": [
+        "frusta"
+      ],
+      "de": [
+        "Schneebesen"
+      ],
+      "fr": [
+        "fouet"
+      ]
+    }
+  },
+  "slug": "whisk",
+  "tags": [
+    "utensil"
+  ],
+  "visibility": "commons"
+}

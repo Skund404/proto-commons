@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:a0563881502d7b31605120422998d547e9e73a061d2ea66b56ffa5a5f8cc9373",
+  "created": "2026-05-30",
+  "description": "Cured pork jowl (cheek). Fattier and more yielding than pancetta; renders into soft, flavourful fat that carries the carbonara sauce. The traditional cut — not bacon, not pancetta.",
+  "emitter": "opg://commons-seed",
+  "id": "guanciale-seed",
+  "kind": "material",
+  "lineage": {
+    "provenance_state": "unasserted",
+    "outcome": "unknown"
+  },
+  "modified": "2026-05-30",
+  "name": "guanciale",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "cured-meat",
+    "names": {
+      "en": [
+        "guanciale",
+        "cured pork jowl"
+      ],
+      "it": [
+        "guanciale"
+      ],
+      "de": [
+        "Guanciale",
+        "Schweinebacke (gepökelt)"
+      ],
+      "fr": [
+        "guanciale",
+        "joue de porc séchée"
+      ]
+    }
+  },
+  "slug": "guanciale",
+  "tags": [
+    "cured-pork",
+    "salumi"
+  ],
+  "visibility": "commons"
+}

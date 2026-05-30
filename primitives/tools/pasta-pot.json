@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:8b40cf14ed84b2e2552e92d0e21a1be1edff8315dcb75f0799246d441e5b5e47",
+  "created": "2026-05-30",
+  "description": "Tall, deep pot for boiling pasta in plenty of salted water. Depth matters — long spaghetti needs room and a generous water volume.",
+  "emitter": "opg://commons-seed",
+  "id": "pasta-pot-seed",
+  "kind": "tool",
+  "lineage": {
+    "provenance_state": "unasserted",
+    "outcome": "unknown"
+  },
+  "modified": "2026-05-30",
+  "name": "pasta pot",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "category": "cookware",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "pasta pot",
+        "stockpot"
+      ],
+      "it": [
+        "pentola"
+      ],
+      "de": [
+        "Topf",
+        "Nudeltopf"
+      ],
+      "fr": [
+        "marmite",
+        "fait-tout"
+      ]
+    }
+  },
+  "slug": "pasta-pot",
+  "tags": [
+    "cookware",
+    "pot"
+  ],
+  "visibility": "commons"
+}

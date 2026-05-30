@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:295658f9e894c442ef138f63324a84dd81096e3319c98217217b280c033817ed",
+  "created": "2026-05-30",
+  "description": "Wide, shallow frying pan for rendering the guanciale and finishing the pasta. Wide enough to toss the spaghetti in the rendered fat.",
+  "emitter": "opg://commons-seed",
+  "id": "skillet-seed",
+  "kind": "tool",
+  "lineage": {
+    "provenance_state": "unasserted",
+    "outcome": "unknown"
+  },
+  "modified": "2026-05-30",
+  "name": "skillet",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "category": "cookware",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "skillet",
+        "frying pan"
+      ],
+      "it": [
+        "padella"
+      ],
+      "de": [
+        "Bratpfanne",
+        "Pfanne"
+      ],
+      "fr": [
+        "poêle"
+      ]
+    }
+  },
+  "slug": "skillet",
+  "tags": [
+    "cookware",
+    "pan"
+  ],
+  "visibility": "commons"
+}

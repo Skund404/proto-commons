@@ -1,0 +1,60 @@
+{
+  "content_hash": "sha256:a584c8786f5d9cb480e74ffaf27a97cf428da90c0f1c5192bf9ed10d516dcb1a",
+  "created": "2026-05-30",
+  "description": "Italian finishing technique: off the heat, toss the hot drained pasta with the egg-and-pecorino base plus splashes of reserved starchy water, stirring vigorously until it emulsifies into a glossy, creamy sauce. Residual heat cooks the egg gently; direct heat would scramble it.",
+  "emitter": "opg://commons-seed",
+  "id": "mantecare-seed",
+  "kind": "technique",
+  "lineage": {
+    "provenance_state": "unasserted",
+    "outcome": "unknown"
+  },
+  "modified": "2026-05-30",
+  "name": "emulsify off heat",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "emulsify off heat",
+        "mantecare"
+      ],
+      "it": [
+        "mantecare"
+      ],
+      "de": [
+        "emulgieren (vom Herd genommen)"
+      ],
+      "fr": [
+        "émulsionner hors du feu"
+      ]
+    },
+    "skillLevel": "advanced"
+  },
+  "relationships": [
+    {
+      "target": {
+        "id": "whisk-seed",
+        "hash": "sha256:7d109371e0d200fa854ac539acc56eceb6ea52d72d29e5a67a32c92f73ccbdcf",
+        "path": "primitives/tools/whisk.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "id": "egg-seed",
+        "hash": "sha256:1dc04b5129ffe114ad5198f3c20f977b8a36cc8f17bcfc8f09dffa36a35a97cf",
+        "path": "primitives/materials/egg.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "mantecare-emulsify",
+  "tags": [
+    "emulsion",
+    "finishing",
+    "advanced"
+  ],
+  "visibility": "commons"
+}
