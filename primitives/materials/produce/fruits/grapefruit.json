@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:08c980b386b10d2e62b80984a246afd86cdd911f1fc797c092eb50f2a633a5e5",
+  "created": "2026-05-31",
+  "description": "Large citrus with bittersweet, slightly sour flesh; eaten fresh or juiced.",
+  "emitter": "opg://commons-seed",
+  "id": "grapefruit-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "grapefruit",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Grapefruit"
+      ],
+      "en": [
+        "grapefruit"
+      ],
+      "fr": [
+        "pamplemousse"
+      ],
+      "it": [
+        "pompelmo"
+      ]
+    },
+    "taxonomy": "citrus"
+  },
+  "slug": "grapefruit",
+  "tags": [
+    "fruit",
+    "citrus"
+  ],
+  "visibility": "commons"
+}

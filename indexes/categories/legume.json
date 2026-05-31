@@ -1,0 +1,20 @@
+{
+  "format_version": "1.0",
+  "id": "legume",
+  "names": {
+    "de": [
+      "Hülsenfrucht"
+    ],
+    "en": [
+      "legume",
+      "pulse"
+    ],
+    "fr": [
+      "légumineuse"
+    ],
+    "it": [
+      "legume"
+    ]
+  },
+  "specializes": "vegetable"
+}

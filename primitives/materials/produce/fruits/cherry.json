@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:485e9bd35f6d9908aab83571998ea0f5f2e942beedfbf9d6ba9f5783e934a0c7",
+  "created": "2026-05-31",
+  "description": "Small round drupe on a long stem, sweet or sour; eaten fresh, baked, or preserved.",
+  "emitter": "opg://commons-seed",
+  "id": "cherry-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "cherry",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Kirsche"
+      ],
+      "en": [
+        "cherry"
+      ],
+      "fr": [
+        "cerise"
+      ],
+      "it": [
+        "ciliegia"
+      ]
+    },
+    "taxonomy": "stone-fruit"
+  },
+  "slug": "cherry",
+  "tags": [
+    "fruit",
+    "stone-fruit"
+  ],
+  "visibility": "commons"
+}

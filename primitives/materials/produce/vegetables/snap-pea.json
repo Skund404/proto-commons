@@ -1,0 +1,45 @@
+{
+  "content_hash": "sha256:7863137714eddfa27fa3726de34f446881878a2b3d1dab6eb93932699d6d245c",
+  "created": "2026-05-31",
+  "description": "Plump pea pod eaten whole, crisp and sweet; raw or quickly cooked.",
+  "emitter": "opg://commons-seed",
+  "id": "snap-pea-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "snap pea",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Zuckererbse",
+        "Zuckerschote"
+      ],
+      "en": [
+        "snap pea",
+        "sugar snap pea"
+      ],
+      "fr": [
+        "pois gourmand",
+        "pois mange-tout"
+      ],
+      "it": [
+        "taccola",
+        "pisello mangiatutto"
+      ]
+    },
+    "taxonomy": "legume"
+  },
+  "slug": "snap-pea",
+  "tags": [
+    "vegetable",
+    "legume"
+  ],
+  "visibility": "commons"
+}

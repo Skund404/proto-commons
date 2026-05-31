@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:f3aad018db6a2d1471b16cb235eda9270d8e98de52f4d45816b1b2a731fddf3f",
+  "created": "2026-05-31",
+  "description": "Brown fuzzy-skinned fruit with bright green, tart-sweet flesh and tiny black seeds.",
+  "emitter": "opg://commons-seed",
+  "id": "kiwi-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "kiwi",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Kiwi"
+      ],
+      "en": [
+        "kiwi",
+        "kiwifruit"
+      ],
+      "fr": [
+        "kiwi"
+      ],
+      "it": [
+        "kiwi"
+      ]
+    },
+    "taxonomy": "tropical-fruit"
+  },
+  "slug": "kiwi",
+  "tags": [
+    "fruit",
+    "tropical-fruit"
+  ],
+  "visibility": "commons"
+}

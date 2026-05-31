@@ -1,0 +1,37 @@
+{
+  "content_hash": "sha256:b919e73552612c5ef7bf89d13fae26bd9617bcd05c637e4b9d4a570ed9fe9332",
+  "description": {
+    "en": "Master catalogue of all common produce in the commons: every fruit and vegetable, reached through the fruits and vegetables sub-catalogues."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:794a2f40f4ed4d94ae47308e9843b65b9e9e837489852853a8ec99161df48a0b",
+      "record_class": "bundle",
+      "role": "optional",
+      "slug": "fruits"
+    },
+    {
+      "hash": "sha256:df3198a187407c1c481e661e483f55fa3c0c90f4a0b96f3f46d00096d5b73637",
+      "record_class": "bundle",
+      "role": "optional",
+      "slug": "vegetables"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "de": "Obst \u0026 Gemüse",
+    "en": "Produce",
+    "fr": "Fruits \u0026 légumes",
+    "it": "Frutta e verdura"
+  },
+  "record_class": "bundle",
+  "slug": "produce",
+  "state": "open",
+  "successors": []
+}

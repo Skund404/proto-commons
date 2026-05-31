@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:4dc01ed9566077edfd1a7c8f35cd2cbdd6236df3465f9464995c20bb326cb012",
+  "created": "2026-05-31",
+  "description": "Fragrant tropical drupe with sweet, juicy orange flesh around a flat stone.",
+  "emitter": "opg://commons-seed",
+  "id": "mango-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "mango",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Mango"
+      ],
+      "en": [
+        "mango"
+      ],
+      "fr": [
+        "mangue"
+      ],
+      "it": [
+        "mango"
+      ]
+    },
+    "taxonomy": "tropical-fruit"
+  },
+  "slug": "mango",
+  "tags": [
+    "fruit",
+    "tropical-fruit"
+  ],
+  "visibility": "commons"
+}

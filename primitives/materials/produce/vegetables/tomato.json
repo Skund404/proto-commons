@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:40547ef85ad414f1fb4768d4c6e3ccb199e1c68f9b2d3dce4f723720e6ef227e",
+  "created": "2026-05-31",
+  "description": "Juicy, savoury-sweet fruit used as a vegetable; raw, cooked, or as sauce.",
+  "emitter": "opg://commons-seed",
+  "id": "tomato-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "tomato",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Tomate"
+      ],
+      "en": [
+        "tomato"
+      ],
+      "fr": [
+        "tomate"
+      ],
+      "it": [
+        "pomodoro"
+      ]
+    },
+    "taxonomy": "nightshade"
+  },
+  "slug": "tomato",
+  "tags": [
+    "vegetable",
+    "nightshade"
+  ],
+  "visibility": "commons"
+}

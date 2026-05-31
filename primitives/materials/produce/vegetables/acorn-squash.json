@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:4c22048905b44dd8b5f0a2fa88cbe4882558a59a9872d4d9eb0452180003b232",
+  "created": "2026-05-31",
+  "description": "Small ribbed winter squash with sweet, mild flesh; usually halved and roasted.",
+  "emitter": "opg://commons-seed",
+  "id": "acorn-squash-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "acorn squash",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Eichelkürbis"
+      ],
+      "en": [
+        "acorn squash"
+      ],
+      "fr": [
+        "courge poivrée",
+        "courge gland"
+      ],
+      "it": [
+        "zucca ghianda"
+      ]
+    },
+    "taxonomy": "squash"
+  },
+  "slug": "acorn-squash",
+  "tags": [
+    "vegetable",
+    "squash"
+  ],
+  "visibility": "commons"
+}

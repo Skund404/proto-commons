@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:6f47270db795bcc06edb2dab6efd919638b0adb5812ec6f5b4d8847d59a1228e",
+  "created": "2026-05-31",
+  "description": "Smooth-skinned melon with sweet, pale green flesh.",
+  "emitter": "opg://commons-seed",
+  "id": "honeydew-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "honeydew",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Honigmelone"
+      ],
+      "en": [
+        "honeydew",
+        "honeydew melon"
+      ],
+      "fr": [
+        "melon miel"
+      ],
+      "it": [
+        "melone verde",
+        "melone d'inverno"
+      ]
+    },
+    "taxonomy": "melon"
+  },
+  "slug": "honeydew",
+  "tags": [
+    "fruit",
+    "melon"
+  ],
+  "visibility": "commons"
+}

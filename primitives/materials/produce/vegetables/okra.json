@@ -1,0 +1,44 @@
+{
+  "content_hash": "sha256:c7c019ca90bf9ff37ff166aeec1142ee96f1ddfeeb199718c07997b67d1074af",
+  "created": "2026-05-31",
+  "description": "Green ridged seed pod, mucilaginous when cooked; stewed, fried, or in gumbo.",
+  "emitter": "opg://commons-seed",
+  "id": "okra-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "okra",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Okra"
+      ],
+      "en": [
+        "okra",
+        "lady's finger"
+      ],
+      "fr": [
+        "gombo",
+        "okra"
+      ],
+      "it": [
+        "okra",
+        "gombo"
+      ]
+    },
+    "taxonomy": "vegetable"
+  },
+  "slug": "okra",
+  "tags": [
+    "vegetable",
+    "vegetable"
+  ],
+  "visibility": "commons"
+}

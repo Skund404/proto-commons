@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:b9af94f36afebc3719d56cf39ca8b108768fda69e8fb044bc5d8ea5830a15e90",
+  "created": "2026-05-31",
+  "description": "Large melon with crisp, watery, sweet red flesh and a hard green rind.",
+  "emitter": "opg://commons-seed",
+  "id": "watermelon-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "watermelon",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Wassermelone"
+      ],
+      "en": [
+        "watermelon"
+      ],
+      "fr": [
+        "pastèque"
+      ],
+      "it": [
+        "anguria",
+        "cocomero"
+      ]
+    },
+    "taxonomy": "melon"
+  },
+  "slug": "watermelon",
+  "tags": [
+    "fruit",
+    "melon"
+  ],
+  "visibility": "commons"
+}

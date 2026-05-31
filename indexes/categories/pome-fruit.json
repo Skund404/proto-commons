@@ -1,0 +1,20 @@
+{
+  "format_version": "1.0",
+  "id": "pome-fruit",
+  "names": {
+    "de": [
+      "Kernobst"
+    ],
+    "en": [
+      "pome fruit"
+    ],
+    "fr": [
+      "fruit à pépins"
+    ],
+    "it": [
+      "pomacea",
+      "frutta con semi"
+    ]
+  },
+  "specializes": "fruit"
+}

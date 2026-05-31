@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:0bae5bf7d4ba980f722db4812ccbad92b6dbcedf1bddb00fe9b2d00cc3bce4b2",
+  "created": "2026-05-31",
+  "description": "Tiny, translucent, very tart red berry borne in strings; used in jellies and garnishes.",
+  "emitter": "opg://commons-seed",
+  "id": "redcurrant-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "redcurrant",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Rote Johannisbeere"
+      ],
+      "en": [
+        "redcurrant",
+        "red currant"
+      ],
+      "fr": [
+        "groseille"
+      ],
+      "it": [
+        "ribes rosso"
+      ]
+    },
+    "taxonomy": "berry"
+  },
+  "slug": "redcurrant",
+  "tags": [
+    "fruit",
+    "berry"
+  ],
+  "visibility": "commons"
+}

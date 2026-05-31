@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:7d3caf82fc77d52334844224020eab5cfb2a82613424c254daf7fc46097d6afd",
+  "created": "2026-05-31",
+  "description": "Small, mild, sweet allium bulb; prized in dressings and delicate sauces.",
+  "emitter": "opg://commons-seed",
+  "id": "shallot-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "shallot",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Schalotte"
+      ],
+      "en": [
+        "shallot"
+      ],
+      "fr": [
+        "échalote"
+      ],
+      "it": [
+        "scalogno"
+      ]
+    },
+    "taxonomy": "allium"
+  },
+  "slug": "shallot",
+  "tags": [
+    "vegetable",
+    "allium"
+  ],
+  "visibility": "commons"
+}

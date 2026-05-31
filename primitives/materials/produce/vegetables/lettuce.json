@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:3a8c3c0ebd9d14e72526b989dad9f8c4059737b033a1ee92d5878173dbf057bd",
+  "created": "2026-05-31",
+  "description": "Crisp salad leaf in many forms; eaten raw as the base of salads.",
+  "emitter": "opg://commons-seed",
+  "id": "lettuce-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "lettuce",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Kopfsalat",
+        "Salat"
+      ],
+      "en": [
+        "lettuce"
+      ],
+      "fr": [
+        "laitue"
+      ],
+      "it": [
+        "lattuga"
+      ]
+    },
+    "taxonomy": "leafy-green"
+  },
+  "slug": "lettuce",
+  "tags": [
+    "vegetable",
+    "leafy-green"
+  ],
+  "visibility": "commons"
+}

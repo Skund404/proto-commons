@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:513705d05ac0695a160d619097eb724874e206269276d48d24b0e9fb47a0c1ed",
+  "created": "2026-05-31",
+  "description": "Soft, sweet, energy-dense tropical fruit in a peelable skin; eaten fresh or baked.",
+  "emitter": "opg://commons-seed",
+  "id": "banana-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "banana",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Banane"
+      ],
+      "en": [
+        "banana"
+      ],
+      "fr": [
+        "banane"
+      ],
+      "it": [
+        "banana"
+      ]
+    },
+    "taxonomy": "tropical-fruit"
+  },
+  "slug": "banana",
+  "tags": [
+    "fruit",
+    "tropical-fruit"
+  ],
+  "visibility": "commons"
+}

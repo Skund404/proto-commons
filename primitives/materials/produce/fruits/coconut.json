@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:6ce73e84f2afbad81d0843e6352e3a0f7591e40d0b11200fbe5017ef5e445c86",
+  "created": "2026-05-31",
+  "description": "Large tropical drupe yielding firm white flesh, water and milk.",
+  "emitter": "opg://commons-seed",
+  "id": "coconut-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "coconut",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Kokosnuss"
+      ],
+      "en": [
+        "coconut"
+      ],
+      "fr": [
+        "noix de coco"
+      ],
+      "it": [
+        "noce di cocco",
+        "cocco"
+      ]
+    },
+    "taxonomy": "tropical-fruit"
+  },
+  "slug": "coconut",
+  "tags": [
+    "fruit",
+    "tropical-fruit"
+  ],
+  "visibility": "commons"
+}

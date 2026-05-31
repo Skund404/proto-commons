@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:b3f29b9c58714d5eefd8c978e83dcbd77a9b3b9caa4f834b41f58d0d864cf25a",
+  "created": "2026-05-31",
+  "description": "Mild, sweet allium with a long white stalk; the base of soups and braises.",
+  "emitter": "opg://commons-seed",
+  "id": "leek-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "leek",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Lauch",
+        "Porree"
+      ],
+      "en": [
+        "leek"
+      ],
+      "fr": [
+        "poireau"
+      ],
+      "it": [
+        "porro"
+      ]
+    },
+    "taxonomy": "allium"
+  },
+  "slug": "leek",
+  "tags": [
+    "vegetable",
+    "allium"
+  ],
+  "visibility": "commons"
+}

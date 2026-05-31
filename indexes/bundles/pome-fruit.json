@@ -1,0 +1,46 @@
+{
+  "content_hash": "sha256:d62301e90fa973af24860d2772399de5c62ff531ff11946e79aa89fde81996b1",
+  "description": {
+    "en": "A catalogue of common pome fruit in the commons."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:4fc2197a472871898ba3fed62c0d871d4378bfbe25e08f6a712ecad455c5a151",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "apple"
+    },
+    {
+      "hash": "sha256:0e90a83a6ff025a74c5a99f4619801a3bf44f385f16218f44baa0aab52b6866d",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "pear"
+    },
+    {
+      "hash": "sha256:ea4b73bc6db3f58221320e8a9ca73a74bc5441510384619d4b841aa365e3530e",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "quince"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "de": "Kernobst",
+    "en": "Pome fruit",
+    "fr": "Fruits à pépins",
+    "it": "Pomacee"
+  },
+  "record_class": "bundle",
+  "slug": "pome-fruit",
+  "state": "open",
+  "successors": []
+}

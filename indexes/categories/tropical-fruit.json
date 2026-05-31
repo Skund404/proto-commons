@@ -1,0 +1,20 @@
+{
+  "format_version": "1.0",
+  "id": "tropical-fruit",
+  "names": {
+    "de": [
+      "tropische Frucht",
+      "Exot"
+    ],
+    "en": [
+      "tropical fruit"
+    ],
+    "fr": [
+      "fruit tropical"
+    ],
+    "it": [
+      "frutta tropicale"
+    ]
+  },
+  "specializes": "fruit"
+}

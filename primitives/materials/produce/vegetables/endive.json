@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:d7c0b0674c20bc60d4b403ac108c8a6ae71dd00df8587890d06749ab590dd4b4",
+  "created": "2026-05-31",
+  "description": "Slightly bitter salad leaf; eaten raw or braised.",
+  "emitter": "opg://commons-seed",
+  "id": "endive-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "endive",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Endivie"
+      ],
+      "en": [
+        "endive",
+        "chicory"
+      ],
+      "fr": [
+        "endive",
+        "chicorée"
+      ],
+      "it": [
+        "indivia"
+      ]
+    },
+    "taxonomy": "leafy-green"
+  },
+  "slug": "endive",
+  "tags": [
+    "vegetable",
+    "leafy-green"
+  ],
+  "visibility": "commons"
+}

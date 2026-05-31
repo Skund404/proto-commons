@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:bf0a0b9ddc6a661670d40cf450e770c692a884c6edddc3b7f1d2351a9cfdc241",
+  "created": "2026-05-31",
+  "description": "Dark, glossy aggregate berry, sweet with a tart edge; grows on brambles.",
+  "emitter": "opg://commons-seed",
+  "id": "blackberry-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "blackberry",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Brombeere"
+      ],
+      "en": [
+        "blackberry"
+      ],
+      "fr": [
+        "mûre"
+      ],
+      "it": [
+        "mora"
+      ]
+    },
+    "taxonomy": "berry"
+  },
+  "slug": "blackberry",
+  "tags": [
+    "fruit",
+    "berry"
+  ],
+  "visibility": "commons"
+}

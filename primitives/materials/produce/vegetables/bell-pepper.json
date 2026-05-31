@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:c09e344bfe7b9ff4b5e05a64968a881a5b43e4a4800d2c830df965897cdf6dc2",
+  "created": "2026-05-31",
+  "description": "Sweet, crisp, hollow capsicum in green/red/yellow; raw, roasted, or stuffed.",
+  "emitter": "opg://commons-seed",
+  "id": "bell-pepper-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "bell pepper",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Paprika"
+      ],
+      "en": [
+        "bell pepper",
+        "sweet pepper",
+        "capsicum"
+      ],
+      "fr": [
+        "poivron"
+      ],
+      "it": [
+        "peperone"
+      ]
+    },
+    "taxonomy": "nightshade"
+  },
+  "slug": "bell-pepper",
+  "tags": [
+    "vegetable",
+    "nightshade"
+  ],
+  "visibility": "commons"
+}

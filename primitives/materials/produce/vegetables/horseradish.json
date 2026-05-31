@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:f079f329ae31e58dc4b99a05f78ceee66f3031a2a06f8c7fbf0968acd379fce3",
+  "created": "2026-05-31",
+  "description": "Fiercely pungent root, grated as a condiment; sharp, sinus-clearing heat.",
+  "emitter": "opg://commons-seed",
+  "id": "horseradish-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "horseradish",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Meerrettich"
+      ],
+      "en": [
+        "horseradish"
+      ],
+      "fr": [
+        "raifort"
+      ],
+      "it": [
+        "rafano",
+        "cren"
+      ]
+    },
+    "taxonomy": "root-vegetable"
+  },
+  "slug": "horseradish",
+  "tags": [
+    "vegetable",
+    "root-vegetable"
+  ],
+  "visibility": "commons"
+}

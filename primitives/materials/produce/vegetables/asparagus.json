@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:94e4c1fc41b948794c51a73c4687c9e46e0acdce79c055889eabd6df9afde81a",
+  "created": "2026-05-31",
+  "description": "Tender young spear, green or white; steamed, roasted, or grilled.",
+  "emitter": "opg://commons-seed",
+  "id": "asparagus-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "asparagus",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Spargel"
+      ],
+      "en": [
+        "asparagus"
+      ],
+      "fr": [
+        "asperge"
+      ],
+      "it": [
+        "asparago"
+      ]
+    },
+    "taxonomy": "stem-vegetable"
+  },
+  "slug": "asparagus",
+  "tags": [
+    "vegetable",
+    "stem-vegetable"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:38641e0ef8a388ae9700ba404761d5f7436fd236df7a35ec40a57e2a41c120b6",
+  "created": "2026-05-31",
+  "description": "Knobbly celery-flavoured root; remoulade, purée, roasted, or in soups.",
+  "emitter": "opg://commons-seed",
+  "id": "celeriac-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "celeriac",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Knollensellerie"
+      ],
+      "en": [
+        "celeriac",
+        "celery root"
+      ],
+      "fr": [
+        "céleri-rave"
+      ],
+      "it": [
+        "sedano rapa"
+      ]
+    },
+    "taxonomy": "root-vegetable"
+  },
+  "slug": "celeriac",
+  "tags": [
+    "vegetable",
+    "root-vegetable"
+  ],
+  "visibility": "commons"
+}

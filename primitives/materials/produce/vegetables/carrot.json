@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:c122849384db9034e99dcf986de223361d9c2b1517c9f20c11795438053741d5",
+  "created": "2026-05-31",
+  "description": "Sweet, crunchy orange taproot; eaten raw, cooked, or juiced.",
+  "emitter": "opg://commons-seed",
+  "id": "carrot-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "carrot",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Karotte",
+        "Möhre"
+      ],
+      "en": [
+        "carrot"
+      ],
+      "fr": [
+        "carotte"
+      ],
+      "it": [
+        "carota"
+      ]
+    },
+    "taxonomy": "root-vegetable"
+  },
+  "slug": "carrot",
+  "tags": [
+    "vegetable",
+    "root-vegetable"
+  ],
+  "visibility": "commons"
+}

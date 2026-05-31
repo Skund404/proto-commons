@@ -1,0 +1,23 @@
+{
+  "format_version": "1.0",
+  "id": "nightshade",
+  "names": {
+    "de": [
+      "Nachtschattengewächs",
+      "Fruchtgemüse"
+    ],
+    "en": [
+      "nightshade",
+      "fruiting vegetable"
+    ],
+    "fr": [
+      "solanacée",
+      "légume-fruit"
+    ],
+    "it": [
+      "solanacea",
+      "ortaggio da frutto"
+    ]
+  },
+  "specializes": "vegetable"
+}

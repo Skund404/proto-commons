@@ -1,0 +1,45 @@
+{
+  "content_hash": "sha256:99e7b51969210e738f6df1c633f3eb9ae9e7afd4179285b4275401abaae68084",
+  "created": "2026-05-31",
+  "description": "Young onion with a small bulb and long green tops; eaten raw or lightly cooked.",
+  "emitter": "opg://commons-seed",
+  "id": "scallion-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "scallion",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Frühlingszwiebel",
+        "Lauchzwiebel"
+      ],
+      "en": [
+        "scallion",
+        "spring onion",
+        "green onion"
+      ],
+      "fr": [
+        "oignon vert",
+        "ciboule"
+      ],
+      "it": [
+        "cipollotto"
+      ]
+    },
+    "taxonomy": "allium"
+  },
+  "slug": "scallion",
+  "tags": [
+    "vegetable",
+    "allium"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:b27dcd446185908360c3f49807baf33a71c40a3cb2cd0582332b7f96310b1f8b",
+  "created": "2026-05-31",
+  "description": "Green flowering brassica eaten as florets and stalk; steamed, roasted, or stir-fried.",
+  "emitter": "opg://commons-seed",
+  "id": "broccoli-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "broccoli",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Brokkoli"
+      ],
+      "en": [
+        "broccoli"
+      ],
+      "fr": [
+        "brocoli"
+      ],
+      "it": [
+        "broccolo",
+        "broccoli"
+      ]
+    },
+    "taxonomy": "brassica"
+  },
+  "slug": "broccoli",
+  "tags": [
+    "vegetable",
+    "brassica"
+  ],
+  "visibility": "commons"
+}

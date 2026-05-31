@@ -1,0 +1,81 @@
+{
+  "content_hash": "sha256:0e3b46ba2cf6269049d9ebf119a28d4b62b398d712d6b0d173aa7cc1db4424d6",
+  "description": {
+    "en": "A catalogue of common berries in the commons."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:bb00a94a671410b52b37fca427b232a4463595309558a9c357d349628bcf3a29",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "strawberry"
+    },
+    {
+      "hash": "sha256:1b9132e86b6338430aeba4a1873c67212a02e34d55e4978b208a79c85a48cc37",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "blueberry"
+    },
+    {
+      "hash": "sha256:7af73abad74c0db916c375f83ac9f8fa7547678526ec7e799326d3e86c55768b",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "raspberry"
+    },
+    {
+      "hash": "sha256:bf0a0b9ddc6a661670d40cf450e770c692a884c6edddc3b7f1d2351a9cfdc241",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "blackberry"
+    },
+    {
+      "hash": "sha256:8e28286a75dc400a936c7c7eff8ca0f5d656f69076adda7c654dc4900bc1310a",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "cranberry"
+    },
+    {
+      "hash": "sha256:c83b47a2eed9b8eed9b8091b6d529012761b3da63a56997805427b4a354a7a79",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "gooseberry"
+    },
+    {
+      "hash": "sha256:0bae5bf7d4ba980f722db4812ccbad92b6dbcedf1bddb00fe9b2d00cc3bce4b2",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "redcurrant"
+    },
+    {
+      "hash": "sha256:5e4b00d3fe94f4eb2c0c6cd014365c4c00d607ee9932e4370ee1a69ecd4abbe2",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "blackcurrant"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "de": "Beeren",
+    "en": "Berries",
+    "fr": "Baies",
+    "it": "Bacche"
+  },
+  "record_class": "bundle",
+  "slug": "berries",
+  "state": "open",
+  "successors": []
+}

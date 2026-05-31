@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:47782d2e7c60a0e78c948fc1a474c917fb6553b755daaf511edd7d1cf255e61a",
+  "created": "2026-05-31",
+  "description": "Hardy, robust brassica leaf; eaten raw massaged, sautéed, or in soups.",
+  "emitter": "opg://commons-seed",
+  "id": "kale-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "kale",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Grünkohl"
+      ],
+      "en": [
+        "kale"
+      ],
+      "fr": [
+        "chou frisé",
+        "kale"
+      ],
+      "it": [
+        "cavolo riccio"
+      ]
+    },
+    "taxonomy": "leafy-green"
+  },
+  "slug": "kale",
+  "tags": [
+    "vegetable",
+    "leafy-green"
+  ],
+  "visibility": "commons"
+}

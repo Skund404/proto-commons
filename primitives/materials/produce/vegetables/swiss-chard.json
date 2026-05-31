@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:ace8d765f22d37d761f42dcb7d5eca153ddac294d04a2a15f2ed06b67acc2c0f",
+  "created": "2026-05-31",
+  "description": "Leafy green with edible colourful stalks; both leaf and stem are cooked.",
+  "emitter": "opg://commons-seed",
+  "id": "swiss-chard-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "swiss chard",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Mangold"
+      ],
+      "en": [
+        "swiss chard",
+        "chard"
+      ],
+      "fr": [
+        "blette",
+        "bette"
+      ],
+      "it": [
+        "bietola"
+      ]
+    },
+    "taxonomy": "leafy-green"
+  },
+  "slug": "swiss-chard",
+  "tags": [
+    "vegetable",
+    "leafy-green"
+  ],
+  "visibility": "commons"
+}

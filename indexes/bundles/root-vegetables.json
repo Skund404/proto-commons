@@ -1,0 +1,102 @@
+{
+  "content_hash": "sha256:8c8223a63625f94a22a25720af250161dcca8d909f45d972e6f4693f25ffb1b6",
+  "description": {
+    "en": "A catalogue of common root vegetables in the commons."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:c122849384db9034e99dcf986de223361d9c2b1517c9f20c11795438053741d5",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "carrot"
+    },
+    {
+      "hash": "sha256:c47601a24c4f6b4f8e66ff541a2dfdc0445f126721ab938bb56dc8cbee08c9e9",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "beetroot"
+    },
+    {
+      "hash": "sha256:eebb338f19076cb9f75dc2fc777a103d32aa1aabf39f5e68b3c87f6ac2ea99d7",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "radish"
+    },
+    {
+      "hash": "sha256:c1f54b1399305b05310b458df119b316a71e22cd5917ed18731b653958f68da8",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "turnip"
+    },
+    {
+      "hash": "sha256:a8042b84d9370737f8f279216a5da58ac5c8cf2ec741a7656591216491a0e4f0",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "parsnip"
+    },
+    {
+      "hash": "sha256:a3cb44c688a2d1cba2ee2f847a2b40bcd6146c1d94b3274d808e950036724455",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "sweet-potato"
+    },
+    {
+      "hash": "sha256:345adcc677820cfb3964498b707a7841becf5468cf6de95008a82693339062b6",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "potato"
+    },
+    {
+      "hash": "sha256:2a7a8fe14d19d66638986f2aff9f75329398ba5110e429512ad617368c02ab6b",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "rutabaga"
+    },
+    {
+      "hash": "sha256:38641e0ef8a388ae9700ba404761d5f7436fd236df7a35ec40a57e2a41c120b6",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "celeriac"
+    },
+    {
+      "hash": "sha256:60154ca186d02dbb28a17e98512e77c8bd1cc09c19d04a4f83f27267f062a65a",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "ginger"
+    },
+    {
+      "hash": "sha256:f079f329ae31e58dc4b99a05f78ceee66f3031a2a06f8c7fbf0968acd379fce3",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "horseradish"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "de": "Wurzelgemüse",
+    "en": "Root vegetables",
+    "fr": "Légumes-racines",
+    "it": "Ortaggi da radice"
+  },
+  "record_class": "bundle",
+  "slug": "root-vegetables",
+  "state": "open",
+  "successors": []
+}

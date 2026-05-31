@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:0e90a83a6ff025a74c5a99f4619801a3bf44f385f16218f44baa0aab52b6866d",
+  "created": "2026-05-31",
+  "description": "Sweet, soft-fleshed pome fruit; eaten fresh, poached, or baked.",
+  "emitter": "opg://commons-seed",
+  "id": "pear-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "pear",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Birne"
+      ],
+      "en": [
+        "pear"
+      ],
+      "fr": [
+        "poire"
+      ],
+      "it": [
+        "pera"
+      ]
+    },
+    "taxonomy": "pome-fruit"
+  },
+  "slug": "pear",
+  "tags": [
+    "fruit",
+    "pome-fruit"
+  ],
+  "visibility": "commons"
+}

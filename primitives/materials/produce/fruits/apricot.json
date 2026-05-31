@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:ff855eddf74b4be51b7f81e703f2904a0a6ac9f367ef5ab33c9c9c7238747c16",
+  "created": "2026-05-31",
+  "description": "Small orange drupe, sweet-tart; eaten fresh, dried, or in jams and bakes.",
+  "emitter": "opg://commons-seed",
+  "id": "apricot-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "apricot",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Aprikose",
+        "Marille"
+      ],
+      "en": [
+        "apricot"
+      ],
+      "fr": [
+        "abricot"
+      ],
+      "it": [
+        "albicocca"
+      ]
+    },
+    "taxonomy": "stone-fruit"
+  },
+  "slug": "apricot",
+  "tags": [
+    "fruit",
+    "stone-fruit"
+  ],
+  "visibility": "commons"
+}

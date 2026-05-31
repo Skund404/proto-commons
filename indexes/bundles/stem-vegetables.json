@@ -1,0 +1,60 @@
+{
+  "content_hash": "sha256:4c129490897a475e17d3e423992c3b89789f366a2ff3db3c99f3a1f2e3401892",
+  "description": {
+    "en": "A catalogue of common stem vegetables in the commons."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:34288327156cfcb892727b09d11d60b3d9075951d385c35bce5928a287527deb",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "celery"
+    },
+    {
+      "hash": "sha256:94e4c1fc41b948794c51a73c4687c9e46e0acdce79c055889eabd6df9afde81a",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "asparagus"
+    },
+    {
+      "hash": "sha256:c4d886271c7e43a6d82bf7e036a917cb3b44fc8519b682e657ce7645bea38fc2",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "fennel"
+    },
+    {
+      "hash": "sha256:ad6c4e9670f3776706b83b2789229332f837e221ad2cfcc2ba998fff6de56661",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "rhubarb"
+    },
+    {
+      "hash": "sha256:15bde283d13a894a89cece7e3c0ec6b5ee1e363957ae7c8a26c0b949d42838b8",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "artichoke"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "de": "Stängelgemüse",
+    "en": "Stem vegetables",
+    "fr": "Légumes-tiges",
+    "it": "Ortaggi da fusto"
+  },
+  "record_class": "bundle",
+  "slug": "stem-vegetables",
+  "state": "open",
+  "successors": []
+}

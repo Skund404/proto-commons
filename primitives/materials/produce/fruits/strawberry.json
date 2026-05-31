@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:bb00a94a671410b52b37fca427b232a4463595309558a9c357d349628bcf3a29",
+  "created": "2026-05-31",
+  "description": "Sweet red berry eaten fresh, in desserts and preserves; technically an accessory fruit.",
+  "emitter": "opg://commons-seed",
+  "id": "strawberry-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "strawberry",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Erdbeere"
+      ],
+      "en": [
+        "strawberry"
+      ],
+      "fr": [
+        "fraise"
+      ],
+      "it": [
+        "fragola"
+      ]
+    },
+    "taxonomy": "berry"
+  },
+  "slug": "strawberry",
+  "tags": [
+    "fruit",
+    "berry"
+  ],
+  "visibility": "commons"
+}

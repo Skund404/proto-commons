@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:5e4b00d3fe94f4eb2c0c6cd014365c4c00d607ee9932e4370ee1a69ecd4abbe2",
+  "created": "2026-05-31",
+  "description": "Intensely aromatic dark berry, tart and musky; base of cordials, jams and liqueurs.",
+  "emitter": "opg://commons-seed",
+  "id": "blackcurrant-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "blackcurrant",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Schwarze Johannisbeere"
+      ],
+      "en": [
+        "blackcurrant",
+        "black currant"
+      ],
+      "fr": [
+        "cassis"
+      ],
+      "it": [
+        "ribes nero"
+      ]
+    },
+    "taxonomy": "berry"
+  },
+  "slug": "blackcurrant",
+  "tags": [
+    "fruit",
+    "berry"
+  ],
+  "visibility": "commons"
+}

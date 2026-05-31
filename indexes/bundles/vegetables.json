@@ -1,0 +1,87 @@
+{
+  "content_hash": "sha256:df3198a187407c1c481e661e483f55fa3c0c90f4a0b96f3f46d00096d5b73637",
+  "description": {
+    "en": "Master catalogue of common vegetables, grouped by family (root, leafy greens, alliums, brassicas, nightshades, squashes, legumes, stem vegetables), plus sweetcorn and okra."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:8c8223a63625f94a22a25720af250161dcca8d909f45d972e6f4693f25ffb1b6",
+      "record_class": "bundle",
+      "role": "optional",
+      "slug": "root-vegetables"
+    },
+    {
+      "hash": "sha256:e3fbd15777e42f3eaa55864195b7c740f2453078d3be0928e7eceaaadb039400",
+      "record_class": "bundle",
+      "role": "optional",
+      "slug": "leafy-greens"
+    },
+    {
+      "hash": "sha256:13acbef54ac593666af0a86a3cdab64989f762d039b6207229b496a191d31be3",
+      "record_class": "bundle",
+      "role": "optional",
+      "slug": "alliums"
+    },
+    {
+      "hash": "sha256:db26fd124edeffbec5de6fc59b1d72c927a37f5686339f36a229dff45b9f076f",
+      "record_class": "bundle",
+      "role": "optional",
+      "slug": "brassicas"
+    },
+    {
+      "hash": "sha256:0d491ef978afb8f2eff1d672fdca33ef97e909536eb971d6c6239f2a48c286d3",
+      "record_class": "bundle",
+      "role": "optional",
+      "slug": "nightshades"
+    },
+    {
+      "hash": "sha256:40c50ff0f784655879bd14a5c9800f6b5a7d7b0b2b5b208b53fa169c9a7a6421",
+      "record_class": "bundle",
+      "role": "optional",
+      "slug": "squashes"
+    },
+    {
+      "hash": "sha256:723932393041629d442efb5cea76df5d64cb52cd17410fdc72aaf5da4d49614b",
+      "record_class": "bundle",
+      "role": "optional",
+      "slug": "legumes"
+    },
+    {
+      "hash": "sha256:4c129490897a475e17d3e423992c3b89789f366a2ff3db3c99f3a1f2e3401892",
+      "record_class": "bundle",
+      "role": "optional",
+      "slug": "stem-vegetables"
+    },
+    {
+      "hash": "sha256:d064d53efb78f56b55533e3dc86e77094b5b0771fba05175191ccbed1a225fdf",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "sweetcorn"
+    },
+    {
+      "hash": "sha256:c7c019ca90bf9ff37ff166aeec1142ee96f1ddfeeb199718c07997b67d1074af",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "okra"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "de": "Gemüse",
+    "en": "Vegetables",
+    "fr": "Légumes",
+    "it": "Verdura"
+  },
+  "record_class": "bundle",
+  "slug": "vegetables",
+  "state": "open",
+  "successors": []
+}

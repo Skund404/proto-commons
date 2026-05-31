@@ -1,0 +1,81 @@
+{
+  "content_hash": "sha256:f1950db2d3bd2123e91702f930e3f73d4a96f9668a851a417d0c2816fe55a21d",
+  "description": {
+    "en": "A catalogue of common citrus fruit in the commons."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:dc428940bce8d6fe209f465196c4298f82715a2e6e7dd1b5ae563e004fc209b3",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "orange"
+    },
+    {
+      "hash": "sha256:c02377728735b69d6c66f8bd978aef16a92819ef68de8386a0c13d0e9df78d36",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "lemon"
+    },
+    {
+      "hash": "sha256:d2fee6d1493eab96db6820dc1491a8325afee5ebd9739041b04ad766e11b1622",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "lime"
+    },
+    {
+      "hash": "sha256:08c980b386b10d2e62b80984a246afd86cdd911f1fc797c092eb50f2a633a5e5",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "grapefruit"
+    },
+    {
+      "hash": "sha256:48128a9ab96656d72fa73e66f32e344e0bf96e0d8558c378decd50a8b70a4383",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "mandarin"
+    },
+    {
+      "hash": "sha256:d6037d9a4892458a129184a4a0b73e6e0887c762ba062c9479cead14f9e52882",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "clementine"
+    },
+    {
+      "hash": "sha256:8097787d5cbb73656658587a1dec2652a5e0a0a5e020d3f71be92fe2f92b9e1a",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "pomelo"
+    },
+    {
+      "hash": "sha256:8b3b19a3b9d8ccf59df2efcf5d42b69d3cce4166fada42214cde416be328a0e9",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "kumquat"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "de": "Zitrusfrüchte",
+    "en": "Citrus fruit",
+    "fr": "Agrumes",
+    "it": "Agrumi"
+  },
+  "record_class": "bundle",
+  "slug": "citrus-fruit",
+  "state": "open",
+  "successors": []
+}

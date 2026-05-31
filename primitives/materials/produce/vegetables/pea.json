@@ -1,0 +1,44 @@
+{
+  "content_hash": "sha256:a50286a1c8153b6e1e373035136240599972b4a9b365e00ca2087c348d8081da",
+  "created": "2026-05-31",
+  "description": "Sweet round green seed from a pod; eaten fresh, frozen, or dried.",
+  "emitter": "opg://commons-seed",
+  "id": "pea-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "pea",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Erbse"
+      ],
+      "en": [
+        "pea",
+        "garden pea",
+        "green pea"
+      ],
+      "fr": [
+        "petit pois",
+        "pois"
+      ],
+      "it": [
+        "pisello"
+      ]
+    },
+    "taxonomy": "legume"
+  },
+  "slug": "pea",
+  "tags": [
+    "vegetable",
+    "legume"
+  ],
+  "visibility": "commons"
+}

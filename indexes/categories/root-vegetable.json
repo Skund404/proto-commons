@@ -1,0 +1,20 @@
+{
+  "format_version": "1.0",
+  "id": "root-vegetable",
+  "names": {
+    "de": [
+      "Wurzelgemüse"
+    ],
+    "en": [
+      "root vegetable"
+    ],
+    "fr": [
+      "légume-racine"
+    ],
+    "it": [
+      "ortaggio da radice",
+      "radice"
+    ]
+  },
+  "specializes": "vegetable"
+}

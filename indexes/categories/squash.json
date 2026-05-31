@@ -1,0 +1,23 @@
+{
+  "format_version": "1.0",
+  "id": "squash",
+  "names": {
+    "de": [
+      "Kürbisgewächs"
+    ],
+    "en": [
+      "squash",
+      "gourd",
+      "cucurbit"
+    ],
+    "fr": [
+      "courge",
+      "cucurbitacée"
+    ],
+    "it": [
+      "zucca",
+      "cucurbitacea"
+    ]
+  },
+  "specializes": "vegetable"
+}

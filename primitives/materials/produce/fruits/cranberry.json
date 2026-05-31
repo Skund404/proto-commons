@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:8e28286a75dc400a936c7c7eff8ca0f5d656f69076adda7c654dc4900bc1310a",
+  "created": "2026-05-31",
+  "description": "Firm, very tart red berry, usually cooked or dried with sugar; classic with poultry.",
+  "emitter": "opg://commons-seed",
+  "id": "cranberry-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "cranberry",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Cranberry",
+        "Moosbeere"
+      ],
+      "en": [
+        "cranberry"
+      ],
+      "fr": [
+        "canneberge"
+      ],
+      "it": [
+        "mirtillo rosso"
+      ]
+    },
+    "taxonomy": "berry"
+  },
+  "slug": "cranberry",
+  "tags": [
+    "fruit",
+    "berry"
+  ],
+  "visibility": "commons"
+}

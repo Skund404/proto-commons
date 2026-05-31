@@ -1,0 +1,20 @@
+{
+  "format_version": "1.0",
+  "id": "grape",
+  "names": {
+    "de": [
+      "Weintraube",
+      "Traube"
+    ],
+    "en": [
+      "grape"
+    ],
+    "fr": [
+      "raisin"
+    ],
+    "it": [
+      "uva"
+    ]
+  },
+  "specializes": "fruit"
+}

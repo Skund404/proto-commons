@@ -1,0 +1,20 @@
+{
+  "format_version": "1.0",
+  "id": "leafy-green",
+  "names": {
+    "de": [
+      "Blattgemüse"
+    ],
+    "en": [
+      "leafy green",
+      "leaf vegetable"
+    ],
+    "fr": [
+      "légume-feuille"
+    ],
+    "it": [
+      "verdura a foglia"
+    ]
+  },
+  "specializes": "vegetable"
+}

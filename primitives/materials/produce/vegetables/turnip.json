@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:c1f54b1399305b05310b458df119b316a71e22cd5917ed18731b653958f68da8",
+  "created": "2026-05-31",
+  "description": "Mild, slightly peppery root; boiled, roasted or mashed.",
+  "emitter": "opg://commons-seed",
+  "id": "turnip-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "turnip",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Speiserübe",
+        "Weiße Rübe"
+      ],
+      "en": [
+        "turnip"
+      ],
+      "fr": [
+        "navet"
+      ],
+      "it": [
+        "rapa"
+      ]
+    },
+    "taxonomy": "root-vegetable"
+  },
+  "slug": "turnip",
+  "tags": [
+    "vegetable",
+    "root-vegetable"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,44 @@
+{
+  "content_hash": "sha256:85405174987e18e984e5465d6cf5932c851769629234d02dd6d1a9c7cbcb8bbc",
+  "created": "2026-05-31",
+  "description": "Hot capsicum used fresh or dried to add pungent heat.",
+  "emitter": "opg://commons-seed",
+  "id": "chili-pepper-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "chili pepper",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Chili",
+        "Chilischote"
+      ],
+      "en": [
+        "chili pepper",
+        "chilli",
+        "hot pepper"
+      ],
+      "fr": [
+        "piment"
+      ],
+      "it": [
+        "peperoncino"
+      ]
+    },
+    "taxonomy": "nightshade"
+  },
+  "slug": "chili-pepper",
+  "tags": [
+    "vegetable",
+    "nightshade"
+  ],
+  "visibility": "commons"
+}

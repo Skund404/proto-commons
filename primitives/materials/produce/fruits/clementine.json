@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:d6037d9a4892458a129184a4a0b73e6e0887c762ba062c9479cead14f9e52882",
+  "created": "2026-05-31",
+  "description": "Seedless mandarin hybrid; sweet, juicy and easy to peel, popular in winter.",
+  "emitter": "opg://commons-seed",
+  "id": "clementine-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "clementine",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Clementine"
+      ],
+      "en": [
+        "clementine"
+      ],
+      "fr": [
+        "clémentine"
+      ],
+      "it": [
+        "clementina"
+      ]
+    },
+    "taxonomy": "citrus"
+  },
+  "slug": "clementine",
+  "tags": [
+    "fruit",
+    "citrus"
+  ],
+  "visibility": "commons"
+}

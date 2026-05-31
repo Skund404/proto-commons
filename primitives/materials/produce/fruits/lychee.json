@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:ac9e67fdf1eb7cf791057f205deb96e8a29f9877c260020ebbcce0b49fb44233",
+  "created": "2026-05-31",
+  "description": "Small tropical fruit with a rough red shell and sweet, floral translucent flesh.",
+  "emitter": "opg://commons-seed",
+  "id": "lychee-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "lychee",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Litschi"
+      ],
+      "en": [
+        "lychee",
+        "litchi"
+      ],
+      "fr": [
+        "litchi"
+      ],
+      "it": [
+        "litchi"
+      ]
+    },
+    "taxonomy": "tropical-fruit"
+  },
+  "slug": "lychee",
+  "tags": [
+    "fruit",
+    "tropical-fruit"
+  ],
+  "visibility": "commons"
+}

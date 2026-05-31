@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:a785cfb2254cd79269e3303333b996183162d3d184c17fefb132bc2975d418f4",
+  "created": "2026-05-31",
+  "description": "Very sweet, chewy fruit of the date palm, usually eaten dried; a natural sweetener.",
+  "emitter": "opg://commons-seed",
+  "id": "date-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "date",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Dattel"
+      ],
+      "en": [
+        "date"
+      ],
+      "fr": [
+        "datte"
+      ],
+      "it": [
+        "dattero"
+      ]
+    },
+    "taxonomy": "tropical-fruit"
+  },
+  "slug": "date",
+  "tags": [
+    "fruit",
+    "tropical-fruit"
+  ],
+  "visibility": "commons"
+}

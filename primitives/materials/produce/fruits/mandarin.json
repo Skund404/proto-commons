@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:48128a9ab96656d72fa73e66f32e344e0bf96e0d8558c378decd50a8b70a4383",
+  "created": "2026-05-31",
+  "description": "Small, sweet, easy-peeling citrus with loose skin and segmented flesh.",
+  "emitter": "opg://commons-seed",
+  "id": "mandarin-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "mandarin",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Mandarine"
+      ],
+      "en": [
+        "mandarin",
+        "mandarin orange"
+      ],
+      "fr": [
+        "mandarine"
+      ],
+      "it": [
+        "mandarino"
+      ]
+    },
+    "taxonomy": "citrus"
+  },
+  "slug": "mandarin",
+  "tags": [
+    "fruit",
+    "citrus"
+  ],
+  "visibility": "commons"
+}

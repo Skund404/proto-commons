@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:dc428940bce8d6fe209f465196c4298f82715a2e6e7dd1b5ae563e004fc209b3",
+  "created": "2026-05-31",
+  "description": "Sweet citrus fruit eaten fresh or juiced; zest and segments flavour both sweet and savoury dishes.",
+  "emitter": "opg://commons-seed",
+  "id": "orange-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "orange",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Orange",
+        "Apfelsine"
+      ],
+      "en": [
+        "orange"
+      ],
+      "fr": [
+        "orange"
+      ],
+      "it": [
+        "arancia"
+      ]
+    },
+    "taxonomy": "citrus"
+  },
+  "slug": "orange",
+  "tags": [
+    "fruit",
+    "citrus"
+  ],
+  "visibility": "commons"
+}

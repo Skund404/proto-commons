@@ -1,0 +1,23 @@
+{
+  "format_version": "1.0",
+  "id": "brassica",
+  "names": {
+    "de": [
+      "Kohlgemüse",
+      "Kreuzblütler"
+    ],
+    "en": [
+      "brassica",
+      "cruciferous vegetable"
+    ],
+    "fr": [
+      "brassica",
+      "crucifère"
+    ],
+    "it": [
+      "brassica",
+      "crucifere"
+    ]
+  },
+  "specializes": "vegetable"
+}

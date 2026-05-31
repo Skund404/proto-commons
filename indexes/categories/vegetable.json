@@ -1,0 +1,19 @@
+{
+  "format_version": "1.0",
+  "id": "vegetable",
+  "names": {
+    "de": [
+      "Gemüse"
+    ],
+    "en": [
+      "vegetable"
+    ],
+    "fr": [
+      "légume"
+    ],
+    "it": [
+      "verdura",
+      "ortaggio"
+    ]
+  }
+}

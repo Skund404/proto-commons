@@ -1,0 +1,67 @@
+{
+  "content_hash": "sha256:db26fd124edeffbec5de6fc59b1d72c927a37f5686339f36a229dff45b9f076f",
+  "description": {
+    "en": "A catalogue of common brassicas in the commons."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:b27dcd446185908360c3f49807baf33a71c40a3cb2cd0582332b7f96310b1f8b",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "broccoli"
+    },
+    {
+      "hash": "sha256:80192f3c88f37822c873db7a3048389ac1b6cd68ddd3214cd045ec535603f8d4",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "cauliflower"
+    },
+    {
+      "hash": "sha256:88ed157964560ea92a38d995d33e9e7c0ccdc90adf88cd17321ff431960e2212",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "cabbage"
+    },
+    {
+      "hash": "sha256:13197254eb012f66ca499d9daa906235b36eb1f0d8c613f067f11fd77d02f102",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "brussels-sprouts"
+    },
+    {
+      "hash": "sha256:6f33dce0ec436f1937f72c843d2d6ce946018ef8e70364c9cfead731cf20ba50",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "kohlrabi"
+    },
+    {
+      "hash": "sha256:6c7c967ba71c5b4805c3f3f490d840816e625e857c2a15a890c5a0c0dd71056f",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "bok-choy"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "de": "Kohlgemüse",
+    "en": "Brassicas",
+    "fr": "Brassicacées",
+    "it": "Brassicacee"
+  },
+  "record_class": "bundle",
+  "slug": "brassicas",
+  "state": "open",
+  "successors": []
+}

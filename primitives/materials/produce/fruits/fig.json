@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:c637ac950d5e731bef44cb2a9542b810f9edd401e55294a09a153fe40cd008e0",
+  "created": "2026-05-31",
+  "description": "Soft, sweet fruit with seedy flesh; eaten fresh or dried, sweet and savoury.",
+  "emitter": "opg://commons-seed",
+  "id": "fig-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "fig",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Feige"
+      ],
+      "en": [
+        "fig"
+      ],
+      "fr": [
+        "figue"
+      ],
+      "it": [
+        "fico"
+      ]
+    },
+    "taxonomy": "tropical-fruit"
+  },
+  "slug": "fig",
+  "tags": [
+    "fruit",
+    "tropical-fruit"
+  ],
+  "visibility": "commons"
+}

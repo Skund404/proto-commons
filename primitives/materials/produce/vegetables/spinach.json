@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:4bff3a5c854b08c5cf55b04a643aacb0a9f7111cf0d08169c079c9601afa29fe",
+  "created": "2026-05-31",
+  "description": "Tender dark-green leaf eaten raw or wilted; mild, slightly mineral.",
+  "emitter": "opg://commons-seed",
+  "id": "spinach-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "spinach",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Spinat"
+      ],
+      "en": [
+        "spinach"
+      ],
+      "fr": [
+        "épinard"
+      ],
+      "it": [
+        "spinaci"
+      ]
+    },
+    "taxonomy": "leafy-green"
+  },
+  "slug": "spinach",
+  "tags": [
+    "vegetable",
+    "leafy-green"
+  ],
+  "visibility": "commons"
+}

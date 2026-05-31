@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:86d00b461c18efa090cb407a7e2cc4e549fc4377f4e9519527827061aaa21993",
+  "created": "2026-05-31",
+  "description": "Large tropical fruit with sweet-tart, fibrous yellow flesh and a spiny rind.",
+  "emitter": "opg://commons-seed",
+  "id": "pineapple-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "pineapple",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Ananas"
+      ],
+      "en": [
+        "pineapple"
+      ],
+      "fr": [
+        "ananas"
+      ],
+      "it": [
+        "ananas"
+      ]
+    },
+    "taxonomy": "tropical-fruit"
+  },
+  "slug": "pineapple",
+  "tags": [
+    "fruit",
+    "tropical-fruit"
+  ],
+  "visibility": "commons"
+}

@@ -1,12 +1,232 @@
 {
   "format_version": "1.0",
   "entries": {
+    "abricot": [
+      {
+        "ref": "primitives/materials/produce/fruits/apricot.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "abricot",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "agrume": [
+      {
+        "ref": "categories/citrus",
+        "class": "category",
+        "kind": null,
+        "name": "agrume",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "ail": [
+      {
+        "ref": "primitives/materials/produce/vegetables/garlic.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "ail",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "alliacée": [
+      {
+        "ref": "categories/allium",
+        "class": "category",
+        "kind": null,
+        "name": "alliacée",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "ananas": [
+      {
+        "ref": "primitives/materials/produce/fruits/pineapple.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "ananas",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "artichaut": [
+      {
+        "ref": "primitives/materials/produce/vegetables/artichoke.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "artichaut",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "asperge": [
+      {
+        "ref": "primitives/materials/produce/vegetables/asparagus.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "asperge",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "aubergine": [
+      {
+        "ref": "primitives/materials/produce/vegetables/eggplant.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "aubergine",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "avocat": [
+      {
+        "ref": "primitives/materials/produce/fruits/avocado.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "avocat",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "baie": [
+      {
+        "ref": "categories/berry",
+        "class": "category",
+        "kind": null,
+        "name": "baie",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "banane": [
+      {
+        "ref": "primitives/materials/produce/fruits/banana.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "banane",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "bette": [
+      {
+        "ref": "primitives/materials/produce/vegetables/swiss-chard.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "bette",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
+    "betterave": [
+      {
+        "ref": "primitives/materials/produce/vegetables/beetroot.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "betterave",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "blette": [
+      {
+        "ref": "primitives/materials/produce/vegetables/swiss-chard.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "blette",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "bok choy": [
+      {
+        "ref": "primitives/materials/produce/vegetables/bok-choy.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "bok choy",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "brassica": [
+      {
+        "ref": "categories/brassica",
+        "class": "category",
+        "kind": null,
+        "name": "brassica",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "brocoli": [
+      {
+        "ref": "primitives/materials/produce/vegetables/broccoli.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "brocoli",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "canneberge": [
+      {
+        "ref": "primitives/materials/produce/fruits/cranberry.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "canneberge",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "cantaloup": [
+      {
+        "ref": "primitives/materials/produce/fruits/cantaloupe.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "cantaloup",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
     "carbonara (plat)": [
       {
         "ref": "primitives/projects/carbonara-dish.json",
         "class": "primitive",
         "kind": "project",
         "name": "carbonara (plat)",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "carotte": [
+      {
+        "ref": "primitives/materials/produce/vegetables/carrot.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "carotte",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "cassis": [
+      {
+        "ref": "primitives/materials/produce/fruits/blackcurrant.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "cassis",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "cerise": [
+      {
+        "ref": "primitives/materials/produce/fruits/cherry.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "cerise",
         "lang": "fr",
         "canonical": true
       }
@@ -19,6 +239,226 @@
         "name": "charcuterie",
         "lang": "fr",
         "canonical": true
+      }
+    ],
+    "chicorée": [
+      {
+        "ref": "primitives/materials/produce/vegetables/endive.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "chicorée",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
+    "chou": [
+      {
+        "ref": "primitives/materials/produce/vegetables/cabbage.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "chou",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "chou de bruxelles": [
+      {
+        "ref": "primitives/materials/produce/vegetables/brussels-sprouts.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "chou de Bruxelles",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "chou frisé": [
+      {
+        "ref": "primitives/materials/produce/vegetables/kale.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "chou frisé",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "chou-fleur": [
+      {
+        "ref": "primitives/materials/produce/vegetables/cauliflower.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "chou-fleur",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "chou-rave": [
+      {
+        "ref": "primitives/materials/produce/vegetables/kohlrabi.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "chou-rave",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "ciboule": [
+      {
+        "ref": "primitives/materials/produce/vegetables/scallion.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "ciboule",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
+    "ciboulette": [
+      {
+        "ref": "primitives/materials/produce/vegetables/chive.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "ciboulette",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "citron": [
+      {
+        "ref": "primitives/materials/produce/fruits/lemon.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "citron",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "citron vert": [
+      {
+        "ref": "primitives/materials/produce/fruits/lime.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "citron vert",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "citrouille": [
+      {
+        "ref": "primitives/materials/produce/vegetables/pumpkin.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "citrouille",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "clémentine": [
+      {
+        "ref": "primitives/materials/produce/fruits/clementine.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "clémentine",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "coing": [
+      {
+        "ref": "primitives/materials/produce/fruits/quince.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "coing",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "concombre": [
+      {
+        "ref": "primitives/materials/produce/vegetables/cucumber.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "concombre",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "courge": [
+      {
+        "ref": "categories/squash",
+        "class": "category",
+        "kind": null,
+        "name": "courge",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "courge butternut": [
+      {
+        "ref": "primitives/materials/produce/vegetables/butternut-squash.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "courge butternut",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "courge gland": [
+      {
+        "ref": "primitives/materials/produce/vegetables/acorn-squash.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "courge gland",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
+    "courge poivrée": [
+      {
+        "ref": "primitives/materials/produce/vegetables/acorn-squash.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "courge poivrée",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "courgette": [
+      {
+        "ref": "primitives/materials/produce/vegetables/zucchini.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "courgette",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "cresson": [
+      {
+        "ref": "primitives/materials/produce/vegetables/watercress.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "cresson",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "crucifère": [
+      {
+        "ref": "categories/brassica",
+        "class": "category",
+        "kind": null,
+        "name": "crucifère",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
+    "cucurbitacée": [
+      {
+        "ref": "categories/squash",
+        "class": "category",
+        "kind": null,
+        "name": "cucurbitacée",
+        "lang": "fr",
+        "canonical": false
       }
     ],
     "cuire les pâtes al dente": [
@@ -37,6 +477,76 @@
         "class": "primitive",
         "kind": "event",
         "name": "cuisiner la carbonara",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "céleri": [
+      {
+        "ref": "primitives/materials/produce/vegetables/celery.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "céleri",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "céleri-branche": [
+      {
+        "ref": "primitives/materials/produce/vegetables/celery.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "céleri-branche",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
+    "céleri-rave": [
+      {
+        "ref": "primitives/materials/produce/vegetables/celeriac.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "céleri-rave",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "datte": [
+      {
+        "ref": "primitives/materials/produce/fruits/date.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "datte",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "doubeurre": [
+      {
+        "ref": "primitives/materials/produce/vegetables/butternut-squash.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "doubeurre",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
+    "edamame": [
+      {
+        "ref": "primitives/materials/produce/vegetables/edamame.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "edamame",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "endive": [
+      {
+        "ref": "primitives/materials/produce/vegetables/endive.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "endive",
         "lang": "fr",
         "canonical": true
       }
@@ -61,6 +571,26 @@
         "canonical": false
       }
     ],
+    "fenouil": [
+      {
+        "ref": "primitives/materials/produce/vegetables/fennel.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "fenouil",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "figue": [
+      {
+        "ref": "primitives/materials/produce/fruits/fig.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "figue",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
     "fouet": [
       {
         "ref": "categories/whisk",
@@ -75,6 +605,26 @@
         "class": "primitive",
         "kind": "tool",
         "name": "fouet",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "fraise": [
+      {
+        "ref": "primitives/materials/produce/fruits/strawberry.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "fraise",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "framboise": [
+      {
+        "ref": "primitives/materials/produce/fruits/raspberry.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "framboise",
         "lang": "fr",
         "canonical": true
       }
@@ -99,12 +649,162 @@
         "canonical": true
       }
     ],
+    "fruit": [
+      {
+        "ref": "categories/fruit",
+        "class": "category",
+        "kind": null,
+        "name": "fruit",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "fruit de la passion": [
+      {
+        "ref": "primitives/materials/produce/fruits/passion-fruit.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "fruit de la passion",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "fruit du dragon": [
+      {
+        "ref": "primitives/materials/produce/fruits/dragon-fruit.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "fruit du dragon",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "fruit tropical": [
+      {
+        "ref": "categories/tropical-fruit",
+        "class": "category",
+        "kind": null,
+        "name": "fruit tropical",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "fruit à noyau": [
+      {
+        "ref": "categories/stone-fruit",
+        "class": "category",
+        "kind": null,
+        "name": "fruit à noyau",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "fruit à pépins": [
+      {
+        "ref": "categories/pome-fruit",
+        "class": "category",
+        "kind": null,
+        "name": "fruit à pépins",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "fève": [
+      {
+        "ref": "primitives/materials/produce/vegetables/fava-bean.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "fève",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "fève de soja": [
+      {
+        "ref": "primitives/materials/produce/vegetables/edamame.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "fève de soja",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
+    "gingembre": [
+      {
+        "ref": "primitives/materials/produce/vegetables/ginger.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "gingembre",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "gombo": [
+      {
+        "ref": "primitives/materials/produce/vegetables/okra.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "gombo",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "goyave": [
+      {
+        "ref": "primitives/materials/produce/fruits/guava.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "goyave",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "grenade": [
+      {
+        "ref": "primitives/materials/produce/fruits/pomegranate.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "grenade",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "groseille": [
+      {
+        "ref": "primitives/materials/produce/fruits/redcurrant.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "groseille",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "groseille à maquereau": [
+      {
+        "ref": "primitives/materials/produce/fruits/gooseberry.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "groseille à maquereau",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
     "guanciale": [
       {
         "ref": "primitives/materials/guanciale.json",
         "class": "primitive",
         "kind": "material",
         "name": "guanciale",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "haricot vert": [
+      {
+        "ref": "primitives/materials/produce/vegetables/green-bean.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "haricot vert",
         "lang": "fr",
         "canonical": true
       }
@@ -117,6 +817,186 @@
         "name": "joue de porc séchée",
         "lang": "fr",
         "canonical": false
+      }
+    ],
+    "kaki": [
+      {
+        "ref": "primitives/materials/produce/fruits/persimmon.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "kaki",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "kale": [
+      {
+        "ref": "primitives/materials/produce/vegetables/kale.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "kale",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
+    "kiwi": [
+      {
+        "ref": "primitives/materials/produce/fruits/kiwi.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "kiwi",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "kumquat": [
+      {
+        "ref": "primitives/materials/produce/fruits/kumquat.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "kumquat",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "laitue": [
+      {
+        "ref": "primitives/materials/produce/vegetables/lettuce.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "laitue",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "laitue romaine": [
+      {
+        "ref": "primitives/materials/produce/vegetables/romaine.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "laitue romaine",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "lentille": [
+      {
+        "ref": "primitives/materials/produce/vegetables/lentil.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "lentille",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "lime": [
+      {
+        "ref": "primitives/materials/produce/fruits/lime.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "lime",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
+    "litchi": [
+      {
+        "ref": "primitives/materials/produce/fruits/lychee.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "litchi",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "légume": [
+      {
+        "ref": "categories/vegetable",
+        "class": "category",
+        "kind": null,
+        "name": "légume",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "légume à bulbe": [
+      {
+        "ref": "categories/allium",
+        "class": "category",
+        "kind": null,
+        "name": "légume à bulbe",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
+    "légume-feuille": [
+      {
+        "ref": "categories/leafy-green",
+        "class": "category",
+        "kind": null,
+        "name": "légume-feuille",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "légume-fruit": [
+      {
+        "ref": "categories/nightshade",
+        "class": "category",
+        "kind": null,
+        "name": "légume-fruit",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
+    "légume-racine": [
+      {
+        "ref": "categories/root-vegetable",
+        "class": "category",
+        "kind": null,
+        "name": "légume-racine",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "légume-tige": [
+      {
+        "ref": "categories/stem-vegetable",
+        "class": "category",
+        "kind": null,
+        "name": "légume-tige",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "légumineuse": [
+      {
+        "ref": "categories/legume",
+        "class": "category",
+        "kind": null,
+        "name": "légumineuse",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "mandarine": [
+      {
+        "ref": "primitives/materials/produce/fruits/mandarin.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "mandarine",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "mangue": [
+      {
+        "ref": "primitives/materials/produce/fruits/mango.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "mangue",
+        "lang": "fr",
+        "canonical": true
       }
     ],
     "marmite": [
@@ -137,6 +1017,214 @@
         "canonical": true
       }
     ],
+    "maïs": [
+      {
+        "ref": "primitives/materials/produce/vegetables/sweetcorn.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "maïs",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "maïs doux": [
+      {
+        "ref": "primitives/materials/produce/vegetables/sweetcorn.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "maïs doux",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
+    "melon": [
+      {
+        "ref": "categories/melon",
+        "class": "category",
+        "kind": null,
+        "name": "melon",
+        "lang": "fr",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/produce/fruits/cantaloupe.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "melon",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
+    "melon miel": [
+      {
+        "ref": "primitives/materials/produce/fruits/honeydew.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "melon miel",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "myrtille": [
+      {
+        "ref": "primitives/materials/produce/fruits/blueberry.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "myrtille",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "mûre": [
+      {
+        "ref": "primitives/materials/produce/fruits/blackberry.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "mûre",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "navet": [
+      {
+        "ref": "primitives/materials/produce/vegetables/turnip.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "navet",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "nectarine": [
+      {
+        "ref": "primitives/materials/produce/fruits/nectarine.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "nectarine",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "noix de coco": [
+      {
+        "ref": "primitives/materials/produce/fruits/coconut.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "noix de coco",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "oignon": [
+      {
+        "ref": "primitives/materials/produce/vegetables/onion.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "oignon",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "oignon vert": [
+      {
+        "ref": "primitives/materials/produce/vegetables/scallion.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "oignon vert",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "okra": [
+      {
+        "ref": "primitives/materials/produce/vegetables/okra.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "okra",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
+    "orange": [
+      {
+        "ref": "primitives/materials/produce/fruits/orange.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "orange",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "pak-choï": [
+      {
+        "ref": "primitives/materials/produce/vegetables/bok-choy.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "pak-choï",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
+    "pamplemousse": [
+      {
+        "ref": "primitives/materials/produce/fruits/grapefruit.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "pamplemousse",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "pamplemousse chinois": [
+      {
+        "ref": "primitives/materials/produce/fruits/pomelo.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "pamplemousse chinois",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
+    "panais": [
+      {
+        "ref": "primitives/materials/produce/vegetables/parsnip.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "panais",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "papaye": [
+      {
+        "ref": "primitives/materials/produce/fruits/papaya.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "papaye",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "pastèque": [
+      {
+        "ref": "primitives/materials/produce/fruits/watermelon.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "pastèque",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "patate douce": [
+      {
+        "ref": "primitives/materials/produce/vegetables/sweet-potato.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "patate douce",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
     "pecorino romano": [
       {
         "ref": "primitives/materials/pecorino-romano.json",
@@ -147,6 +1235,96 @@
         "canonical": true
       }
     ],
+    "petit pois": [
+      {
+        "ref": "primitives/materials/produce/vegetables/pea.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "petit pois",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "piment": [
+      {
+        "ref": "primitives/materials/produce/vegetables/chili-pepper.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "piment",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "pitaya": [
+      {
+        "ref": "primitives/materials/produce/fruits/dragon-fruit.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "pitaya",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
+    "poire": [
+      {
+        "ref": "primitives/materials/produce/fruits/pear.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "poire",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "poireau": [
+      {
+        "ref": "primitives/materials/produce/vegetables/leek.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "poireau",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "pois": [
+      {
+        "ref": "primitives/materials/produce/vegetables/pea.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "pois",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
+    "pois chiche": [
+      {
+        "ref": "primitives/materials/produce/vegetables/chickpea.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "pois chiche",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "pois gourmand": [
+      {
+        "ref": "primitives/materials/produce/vegetables/snap-pea.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "pois gourmand",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "pois mange-tout": [
+      {
+        "ref": "primitives/materials/produce/vegetables/snap-pea.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "pois mange-tout",
+        "lang": "fr",
+        "canonical": false
+      }
+    ],
     "poivre noir": [
       {
         "ref": "primitives/materials/black-pepper.json",
@@ -155,6 +1333,56 @@
         "name": "poivre noir",
         "lang": "fr",
         "canonical": true
+      }
+    ],
+    "poivron": [
+      {
+        "ref": "primitives/materials/produce/vegetables/bell-pepper.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "poivron",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "pomme": [
+      {
+        "ref": "primitives/materials/produce/fruits/apple.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "pomme",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "pomme de terre": [
+      {
+        "ref": "primitives/materials/produce/vegetables/potato.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "pomme de terre",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "pomélo": [
+      {
+        "ref": "primitives/materials/produce/fruits/pomelo.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "pomélo",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "potiron": [
+      {
+        "ref": "primitives/materials/produce/vegetables/pumpkin.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "potiron",
+        "lang": "fr",
+        "canonical": false
       }
     ],
     "poêle": [
@@ -175,6 +1403,16 @@
         "canonical": true
       }
     ],
+    "prune": [
+      {
+        "ref": "primitives/materials/produce/fruits/plum.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "prune",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
     "pâtes": [
       {
         "ref": "categories/pasta",
@@ -185,12 +1423,90 @@
         "canonical": true
       }
     ],
+    "pêche": [
+      {
+        "ref": "primitives/materials/produce/fruits/peach.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "pêche",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "radis": [
+      {
+        "ref": "primitives/materials/produce/vegetables/radish.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "radis",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "raifort": [
+      {
+        "ref": "primitives/materials/produce/vegetables/horseradish.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "raifort",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "raisin": [
+      {
+        "ref": "categories/grape",
+        "class": "category",
+        "kind": null,
+        "name": "raisin",
+        "lang": "fr",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/produce/fruits/grape.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "raisin",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
     "recette": [
       {
         "ref": "categories/recipe",
         "class": "category",
         "kind": null,
         "name": "recette",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "rhubarbe": [
+      {
+        "ref": "primitives/materials/produce/vegetables/rhubarb.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "rhubarbe",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "roquette": [
+      {
+        "ref": "primitives/materials/produce/vegetables/arugula.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "roquette",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "rutabaga": [
+      {
+        "ref": "primitives/materials/produce/vegetables/rutabaga.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "rutabaga",
         "lang": "fr",
         "canonical": true
       }
@@ -233,6 +1549,16 @@
         "canonical": true
       }
     ],
+    "solanacée": [
+      {
+        "ref": "categories/nightshade",
+        "class": "category",
+        "kind": null,
+        "name": "solanacée",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
     "spaghettis": [
       {
         "ref": "primitives/materials/spaghetti.json",
@@ -259,6 +1585,16 @@
         "class": "category",
         "kind": null,
         "name": "technique de cuisson",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "tomate": [
+      {
+        "ref": "primitives/materials/produce/vegetables/tomato.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "tomate",
         "lang": "fr",
         "canonical": true
       }
@@ -293,6 +1629,16 @@
         "canonical": true
       }
     ],
+    "échalote": [
+      {
+        "ref": "primitives/materials/produce/vegetables/shallot.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "échalote",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
     "émulsification": [
       {
         "ref": "categories/emulsification",
@@ -319,6 +1665,16 @@
         "class": "category",
         "kind": null,
         "name": "épice",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
+    "épinard": [
+      {
+        "ref": "primitives/materials/produce/vegetables/spinach.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "épinard",
         "lang": "fr",
         "canonical": true
       }

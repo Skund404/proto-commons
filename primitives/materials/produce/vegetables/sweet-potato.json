@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:a3cb44c688a2d1cba2ee2f847a2b40bcd6146c1d94b3274d808e950036724455",
+  "created": "2026-05-31",
+  "description": "Sweet, starchy tuber with orange or purple flesh; roasted, mashed, or fried.",
+  "emitter": "opg://commons-seed",
+  "id": "sweet-potato-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "sweet potato",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Süßkartoffel",
+        "Batate"
+      ],
+      "en": [
+        "sweet potato"
+      ],
+      "fr": [
+        "patate douce"
+      ],
+      "it": [
+        "patata dolce",
+        "batata"
+      ]
+    },
+    "taxonomy": "root-vegetable"
+  },
+  "slug": "sweet-potato",
+  "tags": [
+    "vegetable",
+    "root-vegetable"
+  ],
+  "visibility": "commons"
+}

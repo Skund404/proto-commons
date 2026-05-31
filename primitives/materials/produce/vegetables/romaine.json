@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:f1f86d3dfb75492d07a05788ebc8df52db3a331ed223fd6fae818050263fe392",
+  "created": "2026-05-31",
+  "description": "Crisp, sturdy lettuce with long upright leaves; the classic Caesar salad green.",
+  "emitter": "opg://commons-seed",
+  "id": "romaine-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "romaine",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Römersalat",
+        "Romanasalat"
+      ],
+      "en": [
+        "romaine",
+        "cos lettuce"
+      ],
+      "fr": [
+        "laitue romaine"
+      ],
+      "it": [
+        "lattuga romana"
+      ]
+    },
+    "taxonomy": "leafy-green"
+  },
+  "slug": "romaine",
+  "tags": [
+    "vegetable",
+    "leafy-green"
+  ],
+  "visibility": "commons"
+}

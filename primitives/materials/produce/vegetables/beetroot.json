@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:c47601a24c4f6b4f8e66ff541a2dfdc0445f126721ab938bb56dc8cbee08c9e9",
+  "created": "2026-05-31",
+  "description": "Earthy, sweet deep-red taproot; roasted, boiled, pickled, or grated raw.",
+  "emitter": "opg://commons-seed",
+  "id": "beetroot-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "beetroot",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Rote Bete",
+        "Rote Rübe"
+      ],
+      "en": [
+        "beetroot",
+        "beet"
+      ],
+      "fr": [
+        "betterave"
+      ],
+      "it": [
+        "barbabietola"
+      ]
+    },
+    "taxonomy": "root-vegetable"
+  },
+  "slug": "beetroot",
+  "tags": [
+    "vegetable",
+    "root-vegetable"
+  ],
+  "visibility": "commons"
+}

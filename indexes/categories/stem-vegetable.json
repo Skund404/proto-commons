@@ -1,0 +1,20 @@
+{
+  "format_version": "1.0",
+  "id": "stem-vegetable",
+  "names": {
+    "de": [
+      "Stängelgemüse",
+      "Sprossgemüse"
+    ],
+    "en": [
+      "stem vegetable"
+    ],
+    "fr": [
+      "légume-tige"
+    ],
+    "it": [
+      "ortaggio da fusto"
+    ]
+  },
+  "specializes": "vegetable"
+}

@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:13197254eb012f66ca499d9daa906235b36eb1f0d8c613f067f11fd77d02f102",
+  "created": "2026-05-31",
+  "description": "Small cabbage-like buds on a stalk; roasted, sautéed, or shredded raw.",
+  "emitter": "opg://commons-seed",
+  "id": "brussels-sprouts-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "brussels sprouts",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Rosenkohl"
+      ],
+      "en": [
+        "brussels sprouts"
+      ],
+      "fr": [
+        "chou de Bruxelles"
+      ],
+      "it": [
+        "cavolini di Bruxelles"
+      ]
+    },
+    "taxonomy": "brassica"
+  },
+  "slug": "brussels-sprouts",
+  "tags": [
+    "vegetable",
+    "brassica"
+  ],
+  "visibility": "commons"
+}

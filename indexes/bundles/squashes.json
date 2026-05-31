@@ -1,0 +1,60 @@
+{
+  "content_hash": "sha256:40c50ff0f784655879bd14a5c9800f6b5a7d7b0b2b5b208b53fa169c9a7a6421",
+  "description": {
+    "en": "A catalogue of common squashes \u0026 gourds in the commons."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:e5f6e6fc47b2571b40f415861452195b90d1447b24cdb599f01ab2f7db80436e",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "zucchini"
+    },
+    {
+      "hash": "sha256:8cd8aff51614289e52e475a42dea2a3a85bb00ac2a869b158987b18152b5aec1",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "cucumber"
+    },
+    {
+      "hash": "sha256:652341eafa27c4e55136f2e45a20a614cd43b40d861812c8801e7f96c84cb826",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "pumpkin"
+    },
+    {
+      "hash": "sha256:b66f65a635065289bf899d063b0b8944e3213f59a0220a8d0d10661f89a5e813",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "butternut-squash"
+    },
+    {
+      "hash": "sha256:4c22048905b44dd8b5f0a2fa88cbe4882558a59a9872d4d9eb0452180003b232",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "acorn-squash"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "de": "Kürbisgewächse",
+    "en": "Squashes \u0026 gourds",
+    "fr": "Courges",
+    "it": "Zucche e cucurbitacee"
+  },
+  "record_class": "bundle",
+  "slug": "squashes",
+  "state": "open",
+  "successors": []
+}

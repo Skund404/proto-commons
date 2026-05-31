@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:77db20f84aa9aa9700b04b962c211e4e39986ca6f5553bb3e38afdd8dd4d099c",
+  "created": "2026-05-31",
+  "description": "Peppery salad leaf; eaten raw or wilted onto warm dishes.",
+  "emitter": "opg://commons-seed",
+  "id": "arugula-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "arugula",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Rucola",
+        "Rauke"
+      ],
+      "en": [
+        "arugula",
+        "rocket"
+      ],
+      "fr": [
+        "roquette"
+      ],
+      "it": [
+        "rucola"
+      ]
+    },
+    "taxonomy": "leafy-green"
+  },
+  "slug": "arugula",
+  "tags": [
+    "vegetable",
+    "leafy-green"
+  ],
+  "visibility": "commons"
+}

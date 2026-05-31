@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:1b9132e86b6338430aeba4a1873c67212a02e34d55e4978b208a79c85a48cc37",
+  "created": "2026-05-31",
+  "description": "Small blue-purple berry, sweet-tart; eaten fresh, baked, or in jams.",
+  "emitter": "opg://commons-seed",
+  "id": "blueberry-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "blueberry",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Heidelbeere",
+        "Blaubeere"
+      ],
+      "en": [
+        "blueberry"
+      ],
+      "fr": [
+        "myrtille"
+      ],
+      "it": [
+        "mirtillo"
+      ]
+    },
+    "taxonomy": "berry"
+  },
+  "slug": "blueberry",
+  "tags": [
+    "fruit",
+    "berry"
+  ],
+  "visibility": "commons"
+}

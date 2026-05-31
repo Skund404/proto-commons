@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:fe592c28c04a0b9b94accb6a41207296902764e9f325dadbc14596cf20012cda",
+  "created": "2026-05-31",
+  "description": "Fragrant tropical fruit with sweet pink or white flesh; eaten fresh or as paste/juice.",
+  "emitter": "opg://commons-seed",
+  "id": "guava-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "guava",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Guave"
+      ],
+      "en": [
+        "guava"
+      ],
+      "fr": [
+        "goyave"
+      ],
+      "it": [
+        "guava"
+      ]
+    },
+    "taxonomy": "tropical-fruit"
+  },
+  "slug": "guava",
+  "tags": [
+    "fruit",
+    "tropical-fruit"
+  ],
+  "visibility": "commons"
+}

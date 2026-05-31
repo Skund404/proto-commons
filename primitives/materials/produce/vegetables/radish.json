@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:eebb338f19076cb9f75dc2fc777a103d32aa1aabf39f5e68b3c87f6ac2ea99d7",
+  "created": "2026-05-31",
+  "description": "Crisp, peppery root eaten raw; ranges from small red globes to large white daikon.",
+  "emitter": "opg://commons-seed",
+  "id": "radish-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "radish",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Radieschen",
+        "Rettich"
+      ],
+      "en": [
+        "radish"
+      ],
+      "fr": [
+        "radis"
+      ],
+      "it": [
+        "ravanello"
+      ]
+    },
+    "taxonomy": "root-vegetable"
+  },
+  "slug": "radish",
+  "tags": [
+    "vegetable",
+    "root-vegetable"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:1c8badbafb9ebe0b206a80bfd02c433df08c462ebe17db37f1558934ad2a3309",
+  "created": "2026-05-31",
+  "description": "Spongy-fleshed nightshade fruit; grilled, roasted, fried, or stewed.",
+  "emitter": "opg://commons-seed",
+  "id": "eggplant-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "eggplant",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Aubergine",
+        "Eierfrucht"
+      ],
+      "en": [
+        "eggplant",
+        "aubergine"
+      ],
+      "fr": [
+        "aubergine"
+      ],
+      "it": [
+        "melanzana"
+      ]
+    },
+    "taxonomy": "nightshade"
+  },
+  "slug": "eggplant",
+  "tags": [
+    "vegetable",
+    "nightshade"
+  ],
+  "visibility": "commons"
+}

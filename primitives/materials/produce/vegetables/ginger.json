@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:60154ca186d02dbb28a17e98512e77c8bd1cc09c19d04a4f83f27267f062a65a",
+  "created": "2026-05-31",
+  "description": "Pungent, warming rhizome used fresh or dried to season sweet and savoury dishes.",
+  "emitter": "opg://commons-seed",
+  "id": "ginger-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "ginger",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Ingwer"
+      ],
+      "en": [
+        "ginger"
+      ],
+      "fr": [
+        "gingembre"
+      ],
+      "it": [
+        "zenzero"
+      ]
+    },
+    "taxonomy": "root-vegetable"
+  },
+  "slug": "ginger",
+  "tags": [
+    "vegetable",
+    "root-vegetable"
+  ],
+  "visibility": "commons"
+}

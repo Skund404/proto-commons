@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:80192f3c88f37822c873db7a3048389ac1b6cd68ddd3214cd045ec535603f8d4",
+  "created": "2026-05-31",
+  "description": "Dense white flowering head; roasted, mashed, riced, or in gratins.",
+  "emitter": "opg://commons-seed",
+  "id": "cauliflower-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "cauliflower",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Blumenkohl",
+        "Karfiol"
+      ],
+      "en": [
+        "cauliflower"
+      ],
+      "fr": [
+        "chou-fleur"
+      ],
+      "it": [
+        "cavolfiore"
+      ]
+    },
+    "taxonomy": "brassica"
+  },
+  "slug": "cauliflower",
+  "tags": [
+    "vegetable",
+    "brassica"
+  ],
+  "visibility": "commons"
+}

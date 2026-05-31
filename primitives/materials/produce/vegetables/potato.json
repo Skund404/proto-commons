@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:345adcc677820cfb3964498b707a7841becf5468cf6de95008a82693339062b6",
+  "created": "2026-05-31",
+  "description": "Starchy tuber, a global staple; boiled, mashed, roasted, or fried.",
+  "emitter": "opg://commons-seed",
+  "id": "potato-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "potato",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Kartoffel"
+      ],
+      "en": [
+        "potato"
+      ],
+      "fr": [
+        "pomme de terre"
+      ],
+      "it": [
+        "patata"
+      ]
+    },
+    "taxonomy": "root-vegetable"
+  },
+  "slug": "potato",
+  "tags": [
+    "vegetable",
+    "root-vegetable"
+  ],
+  "visibility": "commons"
+}

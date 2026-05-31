@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:a8042b84d9370737f8f279216a5da58ac5c8cf2ec741a7656591216491a0e4f0",
+  "created": "2026-05-31",
+  "description": "Sweet, nutty cream-coloured taproot; roasted, mashed, or in soups.",
+  "emitter": "opg://commons-seed",
+  "id": "parsnip-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "parsnip",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Pastinake"
+      ],
+      "en": [
+        "parsnip"
+      ],
+      "fr": [
+        "panais"
+      ],
+      "it": [
+        "pastinaca"
+      ]
+    },
+    "taxonomy": "root-vegetable"
+  },
+  "slug": "parsnip",
+  "tags": [
+    "vegetable",
+    "root-vegetable"
+  ],
+  "visibility": "commons"
+}

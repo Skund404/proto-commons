@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:3ec8d15be19da70c5546385294930d938d20f4b399fb1beff7a4d1905d3d0a50",
+  "created": "2026-05-31",
+  "description": "Slender, mildly oniony herb-allium; snipped raw as a garnish.",
+  "emitter": "opg://commons-seed",
+  "id": "chive-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "chive",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Schnittlauch"
+      ],
+      "en": [
+        "chive",
+        "chives"
+      ],
+      "fr": [
+        "ciboulette"
+      ],
+      "it": [
+        "erba cipollina"
+      ]
+    },
+    "taxonomy": "allium"
+  },
+  "slug": "chive",
+  "tags": [
+    "vegetable",
+    "allium"
+  ],
+  "visibility": "commons"
+}

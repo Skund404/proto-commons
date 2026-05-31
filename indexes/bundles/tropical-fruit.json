@@ -1,0 +1,130 @@
+{
+  "content_hash": "sha256:d3c0eb9146cd3d2786a2e90ec2971f8ba4e49a600ea4af692690cd9d18d47c1a",
+  "description": {
+    "en": "A catalogue of common tropical fruit in the commons."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:513705d05ac0695a160d619097eb724874e206269276d48d24b0e9fb47a0c1ed",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "banana"
+    },
+    {
+      "hash": "sha256:86d00b461c18efa090cb407a7e2cc4e549fc4377f4e9519527827061aaa21993",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "pineapple"
+    },
+    {
+      "hash": "sha256:4dc01ed9566077edfd1a7c8f35cd2cbdd6236df3465f9464995c20bb326cb012",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "mango"
+    },
+    {
+      "hash": "sha256:d475ee6c7667cc65f3bc38e2194afac4d73ebefa0a09dad59b79e45a380a1223",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "papaya"
+    },
+    {
+      "hash": "sha256:f3aad018db6a2d1471b16cb235eda9270d8e98de52f4d45816b1b2a731fddf3f",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "kiwi"
+    },
+    {
+      "hash": "sha256:9b717fc6ad1fe9cb8a6a86a6babdbac512b2d0c1237f6a072e0cdab44d49dd09",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "passion-fruit"
+    },
+    {
+      "hash": "sha256:fe592c28c04a0b9b94accb6a41207296902764e9f325dadbc14596cf20012cda",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "guava"
+    },
+    {
+      "hash": "sha256:ac9e67fdf1eb7cf791057f205deb96e8a29f9877c260020ebbcce0b49fb44233",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "lychee"
+    },
+    {
+      "hash": "sha256:25742e61104d66683e238d8ab79a44af220aa14aa98f8fc55d9d99bd8ba0067e",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "pomegranate"
+    },
+    {
+      "hash": "sha256:c637ac950d5e731bef44cb2a9542b810f9edd401e55294a09a153fe40cd008e0",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "fig"
+    },
+    {
+      "hash": "sha256:a785cfb2254cd79269e3303333b996183162d3d184c17fefb132bc2975d418f4",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "date"
+    },
+    {
+      "hash": "sha256:6ce73e84f2afbad81d0843e6352e3a0f7591e40d0b11200fbe5017ef5e445c86",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "coconut"
+    },
+    {
+      "hash": "sha256:583eec0c48d7627c8ab989c72aa9cc78b2a91edc0a5f1eb9a3dea4bab08eaac2",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "avocado"
+    },
+    {
+      "hash": "sha256:2000f88e7ba4128a5120d2817a07bb413a8ab1d4539bb60914e06de08e5ebc6f",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "persimmon"
+    },
+    {
+      "hash": "sha256:23640e9f5739464670fd9715ef2dc98e6b42c194c38c828ba490e2c5ce9cfa7e",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "dragon-fruit"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "de": "Tropische Früchte",
+    "en": "Tropical fruit",
+    "fr": "Fruits tropicaux",
+    "it": "Frutta tropicale"
+  },
+  "record_class": "bundle",
+  "slug": "tropical-fruit",
+  "state": "open",
+  "successors": []
+}

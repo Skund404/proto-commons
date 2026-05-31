@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:2a7a8fe14d19d66638986f2aff9f75329398ba5110e429512ad617368c02ab6b",
+  "created": "2026-05-31",
+  "description": "Hardy, sweet-earthy root (turnip x cabbage); mashed, roasted, or in stews.",
+  "emitter": "opg://commons-seed",
+  "id": "rutabaga-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "rutabaga",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Steckrübe",
+        "Kohlrübe"
+      ],
+      "en": [
+        "rutabaga",
+        "swede"
+      ],
+      "fr": [
+        "rutabaga"
+      ],
+      "it": [
+        "rutabaga"
+      ]
+    },
+    "taxonomy": "root-vegetable"
+  },
+  "slug": "rutabaga",
+  "tags": [
+    "vegetable",
+    "root-vegetable"
+  ],
+  "visibility": "commons"
+}

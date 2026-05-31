@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:88ed157964560ea92a38d995d33e9e7c0ccdc90adf88cd17321ff431960e2212",
+  "created": "2026-05-31",
+  "description": "Dense leafy head; eaten raw (slaw), braised, fermented (sauerkraut, kimchi).",
+  "emitter": "opg://commons-seed",
+  "id": "cabbage-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "cabbage",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Kohl",
+        "Weißkohl"
+      ],
+      "en": [
+        "cabbage"
+      ],
+      "fr": [
+        "chou"
+      ],
+      "it": [
+        "cavolo"
+      ]
+    },
+    "taxonomy": "brassica"
+  },
+  "slug": "cabbage",
+  "tags": [
+    "vegetable",
+    "brassica"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:4fc2197a472871898ba3fed62c0d871d4378bfbe25e08f6a712ecad455c5a151",
+  "created": "2026-05-31",
+  "description": "Crisp, sweet-tart pome fruit; eaten fresh, baked, juiced, or fermented to cider.",
+  "emitter": "opg://commons-seed",
+  "id": "apple-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "apple",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Apfel"
+      ],
+      "en": [
+        "apple"
+      ],
+      "fr": [
+        "pomme"
+      ],
+      "it": [
+        "mela"
+      ]
+    },
+    "taxonomy": "pome-fruit"
+  },
+  "slug": "apple",
+  "tags": [
+    "fruit",
+    "pome-fruit"
+  ],
+  "visibility": "commons"
+}

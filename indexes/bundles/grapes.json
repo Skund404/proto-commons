@@ -1,0 +1,32 @@
+{
+  "content_hash": "sha256:acbb7ef194699821ea5ac0e7f61b6978e7c6589c1ad4a1030105990d619d842b",
+  "description": {
+    "en": "A catalogue of common grapes in the commons."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:705c9b4536627386e2fdeb103539a62ff1641effb30dc734d2adb0890c2b093e",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "grape"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "de": "Trauben",
+    "en": "Grapes",
+    "fr": "Raisins",
+    "it": "Uva"
+  },
+  "record_class": "bundle",
+  "slug": "grapes",
+  "state": "open",
+  "successors": []
+}

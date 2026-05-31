@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:9b717fc6ad1fe9cb8a6a86a6babdbac512b2d0c1237f6a072e0cdab44d49dd09",
+  "created": "2026-05-31",
+  "description": "Wrinkled-skinned tropical fruit with intensely aromatic, tart, seedy pulp.",
+  "emitter": "opg://commons-seed",
+  "id": "passion-fruit-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "passion fruit",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Passionsfrucht",
+        "Maracuja"
+      ],
+      "en": [
+        "passion fruit"
+      ],
+      "fr": [
+        "fruit de la passion"
+      ],
+      "it": [
+        "frutto della passione",
+        "maracuja"
+      ]
+    },
+    "taxonomy": "tropical-fruit"
+  },
+  "slug": "passion-fruit",
+  "tags": [
+    "fruit",
+    "tropical-fruit"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:9b4c930f01c9c347f25096120bfbfeb58a7bad5302b066bf4a056300d2df7a50",
+  "created": "2026-05-31",
+  "description": "Juicy drupe in many colours, sweet to tart; eaten fresh, dried (prune), or cooked.",
+  "emitter": "opg://commons-seed",
+  "id": "plum-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "plum",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Pflaume",
+        "Zwetschge"
+      ],
+      "en": [
+        "plum"
+      ],
+      "fr": [
+        "prune"
+      ],
+      "it": [
+        "prugna",
+        "susina"
+      ]
+    },
+    "taxonomy": "stone-fruit"
+  },
+  "slug": "plum",
+  "tags": [
+    "fruit",
+    "stone-fruit"
+  ],
+  "visibility": "commons"
+}

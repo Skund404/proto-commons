@@ -1,0 +1,21 @@
+{
+  "format_version": "1.0",
+  "id": "stone-fruit",
+  "names": {
+    "de": [
+      "Steinobst"
+    ],
+    "en": [
+      "stone fruit",
+      "drupe"
+    ],
+    "fr": [
+      "fruit à noyau"
+    ],
+    "it": [
+      "drupa",
+      "frutta con nocciolo"
+    ]
+  },
+  "specializes": "fruit"
+}

@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:e5f6e6fc47b2571b40f415861452195b90d1447b24cdb599f01ab2f7db80436e",
+  "created": "2026-05-31",
+  "description": "Tender summer squash eaten skin and all; sautéed, grilled, or raw.",
+  "emitter": "opg://commons-seed",
+  "id": "zucchini-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "zucchini",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Zucchini"
+      ],
+      "en": [
+        "zucchini",
+        "courgette"
+      ],
+      "fr": [
+        "courgette"
+      ],
+      "it": [
+        "zucchina",
+        "zucchine"
+      ]
+    },
+    "taxonomy": "squash"
+  },
+  "slug": "zucchini",
+  "tags": [
+    "vegetable",
+    "squash"
+  ],
+  "visibility": "commons"
+}

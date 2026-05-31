@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:8097787d5cbb73656658587a1dec2652a5e0a0a5e020d3f71be92fe2f92b9e1a",
+  "created": "2026-05-31",
+  "description": "The largest citrus, with thick rind and mild, sweet flesh; ancestor of the grapefruit.",
+  "emitter": "opg://commons-seed",
+  "id": "pomelo-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "pomelo",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Pomelo",
+        "Pampelmuse"
+      ],
+      "en": [
+        "pomelo"
+      ],
+      "fr": [
+        "pomélo",
+        "pamplemousse chinois"
+      ],
+      "it": [
+        "pomelo"
+      ]
+    },
+    "taxonomy": "citrus"
+  },
+  "slug": "pomelo",
+  "tags": [
+    "fruit",
+    "citrus"
+  ],
+  "visibility": "commons"
+}

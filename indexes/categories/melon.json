@@ -1,0 +1,19 @@
+{
+  "format_version": "1.0",
+  "id": "melon",
+  "names": {
+    "de": [
+      "Melone"
+    ],
+    "en": [
+      "melon"
+    ],
+    "fr": [
+      "melon"
+    ],
+    "it": [
+      "melone"
+    ]
+  },
+  "specializes": "fruit"
+}

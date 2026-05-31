@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:34288327156cfcb892727b09d11d60b3d9075951d385c35bce5928a287527deb",
+  "created": "2026-05-31",
+  "description": "Crisp, fibrous, aromatic stalk; eaten raw or as an aromatic base (mirepoix/soffritto).",
+  "emitter": "opg://commons-seed",
+  "id": "celery-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "celery",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Sellerie",
+        "Stangensellerie"
+      ],
+      "en": [
+        "celery"
+      ],
+      "fr": [
+        "céleri",
+        "céleri-branche"
+      ],
+      "it": [
+        "sedano"
+      ]
+    },
+    "taxonomy": "stem-vegetable"
+  },
+  "slug": "celery",
+  "tags": [
+    "vegetable",
+    "stem-vegetable"
+  ],
+  "visibility": "commons"
+}

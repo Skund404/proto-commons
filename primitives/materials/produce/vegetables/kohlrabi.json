@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:6f33dce0ec436f1937f72c843d2d6ce946018ef8e70364c9cfead731cf20ba50",
+  "created": "2026-05-31",
+  "description": "Crisp, mild swollen stem of a brassica; eaten raw or cooked.",
+  "emitter": "opg://commons-seed",
+  "id": "kohlrabi-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "kohlrabi",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Kohlrabi"
+      ],
+      "en": [
+        "kohlrabi"
+      ],
+      "fr": [
+        "chou-rave"
+      ],
+      "it": [
+        "cavolo rapa"
+      ]
+    },
+    "taxonomy": "brassica"
+  },
+  "slug": "kohlrabi",
+  "tags": [
+    "vegetable",
+    "brassica"
+  ],
+  "visibility": "commons"
+}

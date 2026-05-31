@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:583eec0c48d7627c8ab989c72aa9cc78b2a91edc0a5f1eb9a3dea4bab08eaac2",
+  "created": "2026-05-31",
+  "description": "Rich, buttery-fleshed fruit with a large stone; eaten as a savoury vegetable.",
+  "emitter": "opg://commons-seed",
+  "id": "avocado-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "avocado",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Avocado"
+      ],
+      "en": [
+        "avocado"
+      ],
+      "fr": [
+        "avocat"
+      ],
+      "it": [
+        "avocado"
+      ]
+    },
+    "taxonomy": "tropical-fruit"
+  },
+  "slug": "avocado",
+  "tags": [
+    "fruit",
+    "tropical-fruit"
+  ],
+  "visibility": "commons"
+}

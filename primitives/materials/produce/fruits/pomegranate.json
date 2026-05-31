@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:25742e61104d66683e238d8ab79a44af220aa14aa98f8fc55d9d99bd8ba0067e",
+  "created": "2026-05-31",
+  "description": "Leathery-skinned fruit packed with juicy, jewel-like tart-sweet seed arils.",
+  "emitter": "opg://commons-seed",
+  "id": "pomegranate-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "pomegranate",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Granatapfel"
+      ],
+      "en": [
+        "pomegranate"
+      ],
+      "fr": [
+        "grenade"
+      ],
+      "it": [
+        "melograno"
+      ]
+    },
+    "taxonomy": "tropical-fruit"
+  },
+  "slug": "pomegranate",
+  "tags": [
+    "fruit",
+    "tropical-fruit"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:037d48d314d761c36ec9ed019a6bea83f1b8c9f5e0e745519a27622f6b1e69ae",
+  "created": "2026-05-31",
+  "description": "Peppery aquatic leaf; eaten raw in salads and sandwiches or in soups.",
+  "emitter": "opg://commons-seed",
+  "id": "watercress-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "watercress",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Brunnenkresse"
+      ],
+      "en": [
+        "watercress"
+      ],
+      "fr": [
+        "cresson"
+      ],
+      "it": [
+        "crescione"
+      ]
+    },
+    "taxonomy": "leafy-green"
+  },
+  "slug": "watercress",
+  "tags": [
+    "vegetable",
+    "leafy-green"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,19 @@
+{
+  "format_version": "1.0",
+  "id": "citrus",
+  "names": {
+    "de": [
+      "Zitrusfrucht"
+    ],
+    "en": [
+      "citrus"
+    ],
+    "fr": [
+      "agrume"
+    ],
+    "it": [
+      "agrume"
+    ]
+  },
+  "specializes": "fruit"
+}

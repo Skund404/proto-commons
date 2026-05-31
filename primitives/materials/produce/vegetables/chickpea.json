@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:fba6e5c230fd3b57101ddb5143248ef0924341609872507522c7c16befc690c8",
+  "created": "2026-05-31",
+  "description": "Nutty, firm pulse usually sold dried or cooked; base of hummus, stews and curries.",
+  "emitter": "opg://commons-seed",
+  "id": "chickpea-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "chickpea",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Kichererbse"
+      ],
+      "en": [
+        "chickpea",
+        "garbanzo"
+      ],
+      "fr": [
+        "pois chiche"
+      ],
+      "it": [
+        "cece"
+      ]
+    },
+    "taxonomy": "legume"
+  },
+  "slug": "chickpea",
+  "tags": [
+    "vegetable",
+    "legume"
+  ],
+  "visibility": "commons"
+}

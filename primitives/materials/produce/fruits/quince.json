@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:ea4b73bc6db3f58221320e8a9ca73a74bc5441510384619d4b841aa365e3530e",
+  "created": "2026-05-31",
+  "description": "Hard, aromatic pome fruit, astringent raw; cooked into pastes, jellies and preserves.",
+  "emitter": "opg://commons-seed",
+  "id": "quince-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "quince",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Quitte"
+      ],
+      "en": [
+        "quince"
+      ],
+      "fr": [
+        "coing"
+      ],
+      "it": [
+        "mela cotogna",
+        "cotogna"
+      ]
+    },
+    "taxonomy": "pome-fruit"
+  },
+  "slug": "quince",
+  "tags": [
+    "fruit",
+    "pome-fruit"
+  ],
+  "visibility": "commons"
+}

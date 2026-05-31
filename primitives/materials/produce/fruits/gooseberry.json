@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:c83b47a2eed9b8eed9b8091b6d529012761b3da63a56997805427b4a354a7a79",
+  "created": "2026-05-31",
+  "description": "Tart, translucent berry on a thorny bush; cooked into pies, fools and preserves.",
+  "emitter": "opg://commons-seed",
+  "id": "gooseberry-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "gooseberry",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Stachelbeere"
+      ],
+      "en": [
+        "gooseberry"
+      ],
+      "fr": [
+        "groseille à maquereau"
+      ],
+      "it": [
+        "uva spina"
+      ]
+    },
+    "taxonomy": "berry"
+  },
+  "slug": "gooseberry",
+  "tags": [
+    "fruit",
+    "berry"
+  ],
+  "visibility": "commons"
+}

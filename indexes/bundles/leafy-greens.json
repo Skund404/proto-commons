@@ -1,0 +1,81 @@
+{
+  "content_hash": "sha256:e3fbd15777e42f3eaa55864195b7c740f2453078d3be0928e7eceaaadb039400",
+  "description": {
+    "en": "A catalogue of common leafy greens in the commons."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:4bff3a5c854b08c5cf55b04a643aacb0a9f7111cf0d08169c079c9601afa29fe",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "spinach"
+    },
+    {
+      "hash": "sha256:3a8c3c0ebd9d14e72526b989dad9f8c4059737b033a1ee92d5878173dbf057bd",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "lettuce"
+    },
+    {
+      "hash": "sha256:47782d2e7c60a0e78c948fc1a474c917fb6553b755daaf511edd7d1cf255e61a",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "kale"
+    },
+    {
+      "hash": "sha256:ace8d765f22d37d761f42dcb7d5eca153ddac294d04a2a15f2ed06b67acc2c0f",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "swiss-chard"
+    },
+    {
+      "hash": "sha256:77db20f84aa9aa9700b04b962c211e4e39986ca6f5553bb3e38afdd8dd4d099c",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "arugula"
+    },
+    {
+      "hash": "sha256:f1f86d3dfb75492d07a05788ebc8df52db3a331ed223fd6fae818050263fe392",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "romaine"
+    },
+    {
+      "hash": "sha256:037d48d314d761c36ec9ed019a6bea83f1b8c9f5e0e745519a27622f6b1e69ae",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "watercress"
+    },
+    {
+      "hash": "sha256:d7c0b0674c20bc60d4b403ac108c8a6ae71dd00df8587890d06749ab590dd4b4",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "endive"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "de": "Blattgemüse",
+    "en": "Leafy greens",
+    "fr": "Légumes-feuilles",
+    "it": "Verdure a foglia"
+  },
+  "record_class": "bundle",
+  "slug": "leafy-greens",
+  "state": "open",
+  "successors": []
+}

@@ -1,0 +1,44 @@
+{
+  "content_hash": "sha256:b66f65a635065289bf899d063b0b8944e3213f59a0220a8d0d10661f89a5e813",
+  "created": "2026-05-31",
+  "description": "Sweet, nutty winter squash with dense orange flesh; roasted or in soups.",
+  "emitter": "opg://commons-seed",
+  "id": "butternut-squash-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "butternut squash",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Butternusskürbis"
+      ],
+      "en": [
+        "butternut squash",
+        "butternut"
+      ],
+      "fr": [
+        "courge butternut",
+        "doubeurre"
+      ],
+      "it": [
+        "zucca butternut",
+        "zucca violina"
+      ]
+    },
+    "taxonomy": "squash"
+  },
+  "slug": "butternut-squash",
+  "tags": [
+    "vegetable",
+    "squash"
+  ],
+  "visibility": "commons"
+}

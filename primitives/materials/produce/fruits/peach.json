@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:1ac8ea3f11d50e3aa355221fb82ed212daa906717ee24bf73b57af9efc1881fb",
+  "created": "2026-05-31",
+  "description": "Fuzzy-skinned summer drupe with sweet, juicy flesh around a single stone.",
+  "emitter": "opg://commons-seed",
+  "id": "peach-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "peach",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Pfirsich"
+      ],
+      "en": [
+        "peach"
+      ],
+      "fr": [
+        "pêche"
+      ],
+      "it": [
+        "pesca"
+      ]
+    },
+    "taxonomy": "stone-fruit"
+  },
+  "slug": "peach",
+  "tags": [
+    "fruit",
+    "stone-fruit"
+  ],
+  "visibility": "commons"
+}

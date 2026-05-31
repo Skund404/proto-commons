@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:652341eafa27c4e55136f2e45a20a614cd43b40d861812c8801e7f96c84cb826",
+  "created": "2026-05-31",
+  "description": "Large winter squash with sweet orange flesh; roasted, in soups, purées and bakes.",
+  "emitter": "opg://commons-seed",
+  "id": "pumpkin-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "pumpkin",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Kürbis"
+      ],
+      "en": [
+        "pumpkin"
+      ],
+      "fr": [
+        "citrouille",
+        "potiron"
+      ],
+      "it": [
+        "zucca"
+      ]
+    },
+    "taxonomy": "squash"
+  },
+  "slug": "pumpkin",
+  "tags": [
+    "vegetable",
+    "squash"
+  ],
+  "visibility": "commons"
+}

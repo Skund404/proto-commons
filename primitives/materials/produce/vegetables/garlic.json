@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:7e9e16c4c8e4fc90171c526eeba8456bbf8d1412319e5a7f66b7ccfaea10e82a",
+  "created": "2026-05-31",
+  "description": "Intensely aromatic bulb of cloves; a near-universal savoury seasoning.",
+  "emitter": "opg://commons-seed",
+  "id": "garlic-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "garlic",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Knoblauch"
+      ],
+      "en": [
+        "garlic"
+      ],
+      "fr": [
+        "ail"
+      ],
+      "it": [
+        "aglio"
+      ]
+    },
+    "taxonomy": "allium"
+  },
+  "slug": "garlic",
+  "tags": [
+    "vegetable",
+    "allium"
+  ],
+  "visibility": "commons"
+}

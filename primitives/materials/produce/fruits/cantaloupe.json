@@ -1,0 +1,44 @@
+{
+  "content_hash": "sha256:e2550cc5350aacddf6db19ac76cf667586afff7f0a563a22bf6259fdcaf7360f",
+  "created": "2026-05-31",
+  "description": "Aromatic muskmelon with netted rind and sweet orange flesh.",
+  "emitter": "opg://commons-seed",
+  "id": "cantaloupe-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "cantaloupe",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Cantaloupe-Melone",
+        "Zuckermelone"
+      ],
+      "en": [
+        "cantaloupe",
+        "cantaloupe melon"
+      ],
+      "fr": [
+        "cantaloup",
+        "melon"
+      ],
+      "it": [
+        "melone cantalupo"
+      ]
+    },
+    "taxonomy": "melon"
+  },
+  "slug": "cantaloupe",
+  "tags": [
+    "fruit",
+    "melon"
+  ],
+  "visibility": "commons"
+}

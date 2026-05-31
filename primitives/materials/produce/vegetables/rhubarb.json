@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:ad6c4e9670f3776706b83b2789229332f837e221ad2cfcc2ba998fff6de56661",
+  "created": "2026-05-31",
+  "description": "Tart red-green leaf stalk cooked as a fruit in pies, crumbles and compotes (leaves are toxic).",
+  "emitter": "opg://commons-seed",
+  "id": "rhubarb-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "rhubarb",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Rhabarber"
+      ],
+      "en": [
+        "rhubarb"
+      ],
+      "fr": [
+        "rhubarbe"
+      ],
+      "it": [
+        "rabarbaro"
+      ]
+    },
+    "taxonomy": "stem-vegetable"
+  },
+  "slug": "rhubarb",
+  "tags": [
+    "vegetable",
+    "stem-vegetable"
+  ],
+  "visibility": "commons"
+}

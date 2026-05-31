@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:c02377728735b69d6c66f8bd978aef16a92819ef68de8386a0c13d0e9df78d36",
+  "created": "2026-05-31",
+  "description": "Tart yellow citrus; its juice and zest brighten sauces, dressings, bakes and drinks.",
+  "emitter": "opg://commons-seed",
+  "id": "lemon-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "lemon",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Zitrone"
+      ],
+      "en": [
+        "lemon"
+      ],
+      "fr": [
+        "citron"
+      ],
+      "it": [
+        "limone"
+      ]
+    },
+    "taxonomy": "citrus"
+  },
+  "slug": "lemon",
+  "tags": [
+    "fruit",
+    "citrus"
+  ],
+  "visibility": "commons"
+}

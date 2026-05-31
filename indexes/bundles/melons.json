@@ -1,0 +1,46 @@
+{
+  "content_hash": "sha256:adf9a0b783c73ae52cf50cf14ed27867e2d990ef926f4d4fb1d7cc131fd8a959",
+  "description": {
+    "en": "A catalogue of common melons in the commons."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:b9af94f36afebc3719d56cf39ca8b108768fda69e8fb044bc5d8ea5830a15e90",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "watermelon"
+    },
+    {
+      "hash": "sha256:e2550cc5350aacddf6db19ac76cf667586afff7f0a563a22bf6259fdcaf7360f",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "cantaloupe"
+    },
+    {
+      "hash": "sha256:6f47270db795bcc06edb2dab6efd919638b0adb5812ec6f5b4d8847d59a1228e",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "honeydew"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "de": "Melonen",
+    "en": "Melons",
+    "fr": "Melons",
+    "it": "Meloni"
+  },
+  "record_class": "bundle",
+  "slug": "melons",
+  "state": "open",
+  "successors": []
+}

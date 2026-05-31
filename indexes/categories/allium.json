@@ -1,0 +1,23 @@
+{
+  "format_version": "1.0",
+  "id": "allium",
+  "names": {
+    "de": [
+      "Lauchgemüse",
+      "Zwiebelgewächs"
+    ],
+    "en": [
+      "allium",
+      "onion family"
+    ],
+    "fr": [
+      "alliacée",
+      "légume à bulbe"
+    ],
+    "it": [
+      "liliacee",
+      "aglio e cipolla"
+    ]
+  },
+  "specializes": "vegetable"
+}

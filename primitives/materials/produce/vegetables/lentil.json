@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:a7f50f46625a9145dd64fefa3f719b3b1391c734462ed909dffbe031be11300f",
+  "created": "2026-05-31",
+  "description": "Small quick-cooking pulse in many colours; the heart of dals, soups and stews.",
+  "emitter": "opg://commons-seed",
+  "id": "lentil-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "lentil",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Linse"
+      ],
+      "en": [
+        "lentil"
+      ],
+      "fr": [
+        "lentille"
+      ],
+      "it": [
+        "lenticchia"
+      ]
+    },
+    "taxonomy": "legume"
+  },
+  "slug": "lentil",
+  "tags": [
+    "vegetable",
+    "legume"
+  ],
+  "visibility": "commons"
+}

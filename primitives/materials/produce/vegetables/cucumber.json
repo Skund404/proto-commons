@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:8cd8aff51614289e52e475a42dea2a3a85bb00ac2a869b158987b18152b5aec1",
+  "created": "2026-05-31",
+  "description": "Cool, crisp, watery cucurbit eaten raw or pickled.",
+  "emitter": "opg://commons-seed",
+  "id": "cucumber-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "cucumber",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Gurke"
+      ],
+      "en": [
+        "cucumber"
+      ],
+      "fr": [
+        "concombre"
+      ],
+      "it": [
+        "cetriolo"
+      ]
+    },
+    "taxonomy": "squash"
+  },
+  "slug": "cucumber",
+  "tags": [
+    "vegetable",
+    "squash"
+  ],
+  "visibility": "commons"
+}

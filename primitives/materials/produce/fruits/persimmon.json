@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:2000f88e7ba4128a5120d2817a07bb413a8ab1d4539bb60914e06de08e5ebc6f",
+  "created": "2026-05-31",
+  "description": "Glossy orange autumn fruit, honey-sweet when ripe, astringent when not.",
+  "emitter": "opg://commons-seed",
+  "id": "persimmon-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "persimmon",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Kaki",
+        "Persimone"
+      ],
+      "en": [
+        "persimmon"
+      ],
+      "fr": [
+        "kaki"
+      ],
+      "it": [
+        "cachi",
+        "kaki"
+      ]
+    },
+    "taxonomy": "tropical-fruit"
+  },
+  "slug": "persimmon",
+  "tags": [
+    "fruit",
+    "tropical-fruit"
+  ],
+  "visibility": "commons"
+}

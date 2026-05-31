@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:705c9b4536627386e2fdeb103539a62ff1641effb30dc734d2adb0890c2b093e",
+  "created": "2026-05-31",
+  "description": "Juicy vine fruit borne in clusters; eaten fresh, dried (raisin), or pressed for wine.",
+  "emitter": "opg://commons-seed",
+  "id": "grape-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "grape",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Weintraube",
+        "Traube"
+      ],
+      "en": [
+        "grape"
+      ],
+      "fr": [
+        "raisin"
+      ],
+      "it": [
+        "uva"
+      ]
+    },
+    "taxonomy": "grape"
+  },
+  "slug": "grape",
+  "tags": [
+    "fruit",
+    "grape"
+  ],
+  "visibility": "commons"
+}

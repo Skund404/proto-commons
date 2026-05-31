@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:65017bfbd83ad399c7433afc7bb90137f19cbcafd6640f3737bc365c3ba20489",
+  "created": "2026-05-31",
+  "description": "Smooth-skinned variety of peach, firm and sweet, with a single stone.",
+  "emitter": "opg://commons-seed",
+  "id": "nectarine-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "nectarine",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Nektarine"
+      ],
+      "en": [
+        "nectarine"
+      ],
+      "fr": [
+        "nectarine"
+      ],
+      "it": [
+        "nettarina",
+        "pesca noce"
+      ]
+    },
+    "taxonomy": "stone-fruit"
+  },
+  "slug": "nectarine",
+  "tags": [
+    "fruit",
+    "stone-fruit"
+  ],
+  "visibility": "commons"
+}

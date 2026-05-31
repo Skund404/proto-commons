@@ -1,0 +1,44 @@
+{
+  "content_hash": "sha256:9e4b7fa217d7db4e6fdb3dd01274bde8ce7c6744a6c1e0683a681db9747a4fa1",
+  "created": "2026-05-31",
+  "description": "Large flat green bean in a thick pod; shelled and often double-podded before cooking.",
+  "emitter": "opg://commons-seed",
+  "id": "fava-bean-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "fava bean",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Dicke Bohne",
+        "Saubohne",
+        "Favabohne"
+      ],
+      "en": [
+        "fava bean",
+        "broad bean"
+      ],
+      "fr": [
+        "fève"
+      ],
+      "it": [
+        "fava"
+      ]
+    },
+    "taxonomy": "legume"
+  },
+  "slug": "fava-bean",
+  "tags": [
+    "vegetable",
+    "legume"
+  ],
+  "visibility": "commons"
+}

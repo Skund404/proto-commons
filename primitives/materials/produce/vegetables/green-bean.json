@@ -1,0 +1,44 @@
+{
+  "content_hash": "sha256:19da87fe99c049bcf1ea208b0a3f58d7e97dd3ecbedb931ffc66a8074f506d30",
+  "created": "2026-05-31",
+  "description": "Tender immature bean pod eaten whole; steamed, sautéed, or blanched.",
+  "emitter": "opg://commons-seed",
+  "id": "green-bean-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "green bean",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "grüne Bohne",
+        "Gartenbohne"
+      ],
+      "en": [
+        "green bean",
+        "string bean",
+        "French bean"
+      ],
+      "fr": [
+        "haricot vert"
+      ],
+      "it": [
+        "fagiolino"
+      ]
+    },
+    "taxonomy": "legume"
+  },
+  "slug": "green-bean",
+  "tags": [
+    "vegetable",
+    "legume"
+  ],
+  "visibility": "commons"
+}

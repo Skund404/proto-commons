@@ -1,0 +1,45 @@
+{
+  "content_hash": "sha256:23640e9f5739464670fd9715ef2dc98e6b42c194c38c828ba490e2c5ce9cfa7e",
+  "created": "2026-05-31",
+  "description": "Striking cactus fruit with vivid skin and mild, sweet, seed-flecked flesh.",
+  "emitter": "opg://commons-seed",
+  "id": "dragon-fruit-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "dragon fruit",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Drachenfrucht",
+        "Pitaya"
+      ],
+      "en": [
+        "dragon fruit",
+        "pitaya"
+      ],
+      "fr": [
+        "fruit du dragon",
+        "pitaya"
+      ],
+      "it": [
+        "frutto del drago",
+        "pitaya"
+      ]
+    },
+    "taxonomy": "tropical-fruit"
+  },
+  "slug": "dragon-fruit",
+  "tags": [
+    "fruit",
+    "tropical-fruit"
+  ],
+  "visibility": "commons"
+}

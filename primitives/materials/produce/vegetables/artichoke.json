@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:15bde283d13a894a89cece7e3c0ec6b5ee1e363957ae7c8a26c0b949d42838b8",
+  "created": "2026-05-31",
+  "description": "Edible flower bud; the fleshy leaf bases and heart are eaten cooked.",
+  "emitter": "opg://commons-seed",
+  "id": "artichoke-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "artichoke",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vegetable",
+    "names": {
+      "de": [
+        "Artischocke"
+      ],
+      "en": [
+        "artichoke",
+        "globe artichoke"
+      ],
+      "fr": [
+        "artichaut"
+      ],
+      "it": [
+        "carciofo"
+      ]
+    },
+    "taxonomy": "stem-vegetable"
+  },
+  "slug": "artichoke",
+  "tags": [
+    "vegetable",
+    "stem-vegetable"
+  ],
+  "visibility": "commons"
+}

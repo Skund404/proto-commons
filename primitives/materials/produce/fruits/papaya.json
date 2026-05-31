@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:d475ee6c7667cc65f3bc38e2194afac4d73ebefa0a09dad59b79e45a380a1223",
+  "created": "2026-05-31",
+  "description": "Soft tropical fruit with sweet orange flesh and a cavity of black seeds.",
+  "emitter": "opg://commons-seed",
+  "id": "papaya-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "papaya",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Papaya"
+      ],
+      "en": [
+        "papaya",
+        "pawpaw"
+      ],
+      "fr": [
+        "papaye"
+      ],
+      "it": [
+        "papaia"
+      ]
+    },
+    "taxonomy": "tropical-fruit"
+  },
+  "slug": "papaya",
+  "tags": [
+    "fruit",
+    "tropical-fruit"
+  ],
+  "visibility": "commons"
+}

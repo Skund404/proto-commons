@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:7af73abad74c0db916c375f83ac9f8fa7547678526ec7e799326d3e86c55768b",
+  "created": "2026-05-31",
+  "description": "Soft, hollow red aggregate berry, delicate and tart-sweet.",
+  "emitter": "opg://commons-seed",
+  "id": "raspberry-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-05-31",
+  "name": "raspberry",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fruit",
+    "names": {
+      "de": [
+        "Himbeere"
+      ],
+      "en": [
+        "raspberry"
+      ],
+      "fr": [
+        "framboise"
+      ],
+      "it": [
+        "lampone"
+      ]
+    },
+    "taxonomy": "berry"
+  },
+  "slug": "raspberry",
+  "tags": [
+    "fruit",
+    "berry"
+  ],
+  "visibility": "commons"
+}
