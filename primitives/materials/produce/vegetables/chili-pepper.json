@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:85405174987e18e984e5465d6cf5932c851769629234d02dd6d1a9c7cbcb8bbc",
+  "content_hash": "sha256:2eb58f5ce8d6fa55898227ed2fcbb58447ef70a6d337967a3789d741afc55b5e",
   "created": "2026-05-31",
   "description": "Hot capsicum used fresh or dried to add pungent heat.",
   "emitter": "opg://commons-seed",
@@ -37,6 +37,7 @@
   },
   "slug": "chili-pepper",
   "tags": [
+    "produce",
     "vegetable",
     "nightshade"
   ],

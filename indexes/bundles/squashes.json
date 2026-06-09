@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:40c50ff0f784655879bd14a5c9800f6b5a7d7b0b2b5b208b53fa169c9a7a6421",
+  "content_hash": "sha256:1ba715ac16e73963f44f1400ab5403c9298886bf02097294c4e62734487b4456",
   "description": {
     "en": "A catalogue of common squashes \u0026 gourds in the commons."
   },
@@ -7,35 +7,35 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:e5f6e6fc47b2571b40f415861452195b90d1447b24cdb599f01ab2f7db80436e",
+      "hash": "sha256:a8c574f8599b20f5068575d296a98fd4a9590f8668439df4307324e015711e01",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "zucchini"
     },
     {
-      "hash": "sha256:8cd8aff51614289e52e475a42dea2a3a85bb00ac2a869b158987b18152b5aec1",
+      "hash": "sha256:f59cbe6971d732ee9d768bfa2f6cf2824d393d39ef93883d1123f85dbaa1a7ef",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "cucumber"
     },
     {
-      "hash": "sha256:652341eafa27c4e55136f2e45a20a614cd43b40d861812c8801e7f96c84cb826",
+      "hash": "sha256:98ccb9d00a6ce4928fd52fe031cf48d1753ab6d57f8997314a567d61745f5f4e",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "pumpkin"
     },
     {
-      "hash": "sha256:b66f65a635065289bf899d063b0b8944e3213f59a0220a8d0d10661f89a5e813",
+      "hash": "sha256:784b943d88b9f6a503114d9c5cb4bda32eaa934d348ef0a37bc98d528118dfc3",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "butternut-squash"
     },
     {
-      "hash": "sha256:4c22048905b44dd8b5f0a2fa88cbe4882558a59a9872d4d9eb0452180003b232",
+      "hash": "sha256:79aa17f8ff1dde94589a0196a3eaf1206fb862116c0e84ca8711d0762e58efd9",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",

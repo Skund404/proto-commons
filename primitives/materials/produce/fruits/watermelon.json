@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:b9af94f36afebc3719d56cf39ca8b108768fda69e8fb044bc5d8ea5830a15e90",
+  "content_hash": "sha256:19b72e94a3aaf45a84f4f52a8608d9f9b236491fe451130b9768e7a9e2c08de7",
   "created": "2026-05-31",
   "description": "Large melon with crisp, watery, sweet red flesh and a hard green rind.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "watermelon",
   "tags": [
+    "produce",
     "fruit",
     "melon"
   ],

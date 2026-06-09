@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f079f329ae31e58dc4b99a05f78ceee66f3031a2a06f8c7fbf0968acd379fce3",
+  "content_hash": "sha256:eaf87e4491cab1633793b2c0785dce8cd6a233bf299b208e4de60ea7b84ade08",
   "created": "2026-05-31",
   "description": "Fiercely pungent root, grated as a condiment; sharp, sinus-clearing heat.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "horseradish",
   "tags": [
+    "produce",
     "vegetable",
     "root-vegetable"
   ],

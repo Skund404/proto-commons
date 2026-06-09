@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f3aad018db6a2d1471b16cb235eda9270d8e98de52f4d45816b1b2a731fddf3f",
+  "content_hash": "sha256:5df988a1fc3ed0b576a17a4abc6f6d6573fedbe53476928f874c7174941e63e0",
   "created": "2026-05-31",
   "description": "Brown fuzzy-skinned fruit with bright green, tart-sweet flesh and tiny black seeds.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "kiwi",
   "tags": [
+    "produce",
     "fruit",
     "tropical-fruit"
   ],

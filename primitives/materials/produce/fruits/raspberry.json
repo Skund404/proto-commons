@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:7af73abad74c0db916c375f83ac9f8fa7547678526ec7e799326d3e86c55768b",
+  "content_hash": "sha256:6bc425cbdd706e05c1182953528fa9a854eeca80cab341124d09e80d96114473",
   "created": "2026-05-31",
   "description": "Soft, hollow red aggregate berry, delicate and tart-sweet.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "raspberry",
   "tags": [
+    "produce",
     "fruit",
     "berry"
   ],

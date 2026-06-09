@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:c122849384db9034e99dcf986de223361d9c2b1517c9f20c11795438053741d5",
+  "content_hash": "sha256:34d5786a76724a5bc11477789937a54058be9bcaf4d4ba160bd932b7aaa6ff50",
   "created": "2026-05-31",
   "description": "Sweet, crunchy orange taproot; eaten raw, cooked, or juiced.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "carrot",
   "tags": [
+    "produce",
     "vegetable",
     "root-vegetable"
   ],

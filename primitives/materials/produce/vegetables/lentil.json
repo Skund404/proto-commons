@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:a7f50f46625a9145dd64fefa3f719b3b1391c734462ed909dffbe031be11300f",
+  "content_hash": "sha256:96e37af00125d222d6e31e4f6a276b2ac5322615194b7eadb5c7afd18ea98890",
   "created": "2026-05-31",
   "description": "Small quick-cooking pulse in many colours; the heart of dals, soups and stews.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "lentil",
   "tags": [
+    "produce",
     "vegetable",
     "legume"
   ],

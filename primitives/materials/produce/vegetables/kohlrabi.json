@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:6f33dce0ec436f1937f72c843d2d6ce946018ef8e70364c9cfead731cf20ba50",
+  "content_hash": "sha256:12c45ef030d4ff14061e0ab470d73ae4d5727e6f8ca059328b142835d43f5f11",
   "created": "2026-05-31",
   "description": "Crisp, mild swollen stem of a brassica; eaten raw or cooked.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "kohlrabi",
   "tags": [
+    "produce",
     "vegetable",
     "brassica"
   ],

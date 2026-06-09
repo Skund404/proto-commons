@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:513705d05ac0695a160d619097eb724874e206269276d48d24b0e9fb47a0c1ed",
+  "content_hash": "sha256:ddb7fa7bd7daedd2e0afdc278305e6bfd38153575125504d65aaf9806e425b1a",
   "created": "2026-05-31",
   "description": "Soft, sweet, energy-dense tropical fruit in a peelable skin; eaten fresh or baked.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "banana",
   "tags": [
+    "produce",
     "fruit",
     "tropical-fruit"
   ],

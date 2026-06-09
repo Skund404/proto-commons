@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:9b4c930f01c9c347f25096120bfbfeb58a7bad5302b066bf4a056300d2df7a50",
+  "content_hash": "sha256:71e3ff6c653b8dd901ed05285fc0cad44b4e2cc97bf68f16e051dd8801117a9a",
   "created": "2026-05-31",
   "description": "Juicy drupe in many colours, sweet to tart; eaten fresh, dried (prune), or cooked.",
   "emitter": "opg://commons-seed",
@@ -36,6 +36,7 @@
   },
   "slug": "plum",
   "tags": [
+    "produce",
     "fruit",
     "stone-fruit"
   ],

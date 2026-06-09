@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:77db20f84aa9aa9700b04b962c211e4e39986ca6f5553bb3e38afdd8dd4d099c",
+  "content_hash": "sha256:dcef5ecfcb0c1b91e571e1c031797dda2e3bed2a5ea868850f81699a3f6db6db",
   "created": "2026-05-31",
   "description": "Peppery salad leaf; eaten raw or wilted onto warm dishes.",
   "emitter": "opg://commons-seed",
@@ -36,6 +36,7 @@
   },
   "slug": "arugula",
   "tags": [
+    "produce",
     "vegetable",
     "leafy-green"
   ],

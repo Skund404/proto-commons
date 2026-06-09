@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:08c980b386b10d2e62b80984a246afd86cdd911f1fc797c092eb50f2a633a5e5",
+  "content_hash": "sha256:c64f773f919ba752122064543ae1a0103f80925a6f49dcb34c9c66a46b9523de",
   "created": "2026-05-31",
   "description": "Large citrus with bittersweet, slightly sour flesh; eaten fresh or juiced.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "grapefruit",
   "tags": [
+    "produce",
     "fruit",
     "citrus"
   ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:4dc01ed9566077edfd1a7c8f35cd2cbdd6236df3465f9464995c20bb326cb012",
+  "content_hash": "sha256:a621efaa541f9dbc995c59c8816679687becb298b109aa34a42e5a55bb5d97e5",
   "created": "2026-05-31",
   "description": "Fragrant tropical drupe with sweet, juicy orange flesh around a flat stone.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "mango",
   "tags": [
+    "produce",
     "fruit",
     "tropical-fruit"
   ],

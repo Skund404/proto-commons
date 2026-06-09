@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:c09e344bfe7b9ff4b5e05a64968a881a5b43e4a4800d2c830df965897cdf6dc2",
+  "content_hash": "sha256:2fb536702d8a3c3aa83b67cd4fb87297f5e1b2b79832893e5babcc746fed1f53",
   "created": "2026-05-31",
   "description": "Sweet, crisp, hollow capsicum in green/red/yellow; raw, roasted, or stuffed.",
   "emitter": "opg://commons-seed",
@@ -36,6 +36,7 @@
   },
   "slug": "bell-pepper",
   "tags": [
+    "produce",
     "vegetable",
     "nightshade"
   ],

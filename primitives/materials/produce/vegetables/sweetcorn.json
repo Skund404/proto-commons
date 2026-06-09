@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:d064d53efb78f56b55533e3dc86e77094b5b0771fba05175191ccbed1a225fdf",
+  "content_hash": "sha256:ef9ba39667865708a08f35d7fa592bb2b9fbc52b6e3b859f3102c249177cecdb",
   "created": "2026-05-31",
   "description": "Sweet kernels on a cob, eaten as a vegetable; boiled, grilled, or cut from the cob.",
   "emitter": "opg://commons-seed",
@@ -39,7 +39,7 @@
   },
   "slug": "sweetcorn",
   "tags": [
-    "vegetable",
+    "produce",
     "vegetable"
   ],
   "visibility": "commons"

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:db26fd124edeffbec5de6fc59b1d72c927a37f5686339f36a229dff45b9f076f",
+  "content_hash": "sha256:e275c3f8163500b09de5867c384111fe167344d703198e1e8a75b2ab165b9347",
   "description": {
     "en": "A catalogue of common brassicas in the commons."
   },
@@ -7,42 +7,42 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:b27dcd446185908360c3f49807baf33a71c40a3cb2cd0582332b7f96310b1f8b",
+      "hash": "sha256:9147ef8b6c3e6c53c65678332d75fa3351efc25ee8cf4a79626b058a105cf10e",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "broccoli"
     },
     {
-      "hash": "sha256:80192f3c88f37822c873db7a3048389ac1b6cd68ddd3214cd045ec535603f8d4",
+      "hash": "sha256:91e3ef883dcd8b15e16ef2a8c6fa579cd556c814d03a9692a940f409e6f0ec16",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "cauliflower"
     },
     {
-      "hash": "sha256:88ed157964560ea92a38d995d33e9e7c0ccdc90adf88cd17321ff431960e2212",
+      "hash": "sha256:5382f206f9126d20a1f60ef9fa46b9edf114067149a2652d3ee6437a33f4e4f5",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "cabbage"
     },
     {
-      "hash": "sha256:13197254eb012f66ca499d9daa906235b36eb1f0d8c613f067f11fd77d02f102",
+      "hash": "sha256:84d8573c631ef474b420957de1f82502139be7ffb97b80047cfdc22bbb545f7a",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "brussels-sprouts"
     },
     {
-      "hash": "sha256:6f33dce0ec436f1937f72c843d2d6ce946018ef8e70364c9cfead731cf20ba50",
+      "hash": "sha256:12c45ef030d4ff14061e0ab470d73ae4d5727e6f8ca059328b142835d43f5f11",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "kohlrabi"
     },
     {
-      "hash": "sha256:6c7c967ba71c5b4805c3f3f490d840816e625e857c2a15a890c5a0c0dd71056f",
+      "hash": "sha256:cec1f99e6655412cbf55d1a97b58a8019cd773d3e406546f56cf4ae3b147a721",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:4fc2197a472871898ba3fed62c0d871d4378bfbe25e08f6a712ecad455c5a151",
+  "content_hash": "sha256:0d09986f23be3dc47df5903c54e0d84f3ec52aae08ae1825796ae788469757bf",
   "created": "2026-05-31",
   "description": "Crisp, sweet-tart pome fruit; eaten fresh, baked, juiced, or fermented to cider.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "apple",
   "tags": [
+    "produce",
     "fruit",
     "pome-fruit"
   ],

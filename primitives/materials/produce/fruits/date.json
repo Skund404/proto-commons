@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:a785cfb2254cd79269e3303333b996183162d3d184c17fefb132bc2975d418f4",
+  "content_hash": "sha256:caf98cd5a493fece559e2e4bb0bc5d6ba1562f9e34ef662c9089639505f467e1",
   "created": "2026-05-31",
   "description": "Very sweet, chewy fruit of the date palm, usually eaten dried; a natural sweetener.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "date",
   "tags": [
+    "produce",
     "fruit",
     "tropical-fruit"
   ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:8b3b19a3b9d8ccf59df2efcf5d42b69d3cce4166fada42214cde416be328a0e9",
+  "content_hash": "sha256:da72c9a5e85c47ca621181a2a3754b1b0b6d320594a8238a1fba8ce5a944e67a",
   "created": "2026-05-31",
   "description": "Tiny oval citrus eaten whole, skin and all; sweet rind around tart flesh.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "kumquat",
   "tags": [
+    "produce",
     "fruit",
     "citrus"
   ],

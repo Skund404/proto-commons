@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:723932393041629d442efb5cea76df5d64cb52cd17410fdc72aaf5da4d49614b",
+  "content_hash": "sha256:638aceaf030583af47cc8577087846dc7ec3947756b6e927114c2993a9a441ca",
   "description": {
     "en": "A catalogue of common legumes in the commons."
   },
@@ -7,49 +7,49 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:19da87fe99c049bcf1ea208b0a3f58d7e97dd3ecbedb931ffc66a8074f506d30",
+      "hash": "sha256:85060127ab547903ec617f433c35e978f68211ac8e177c49699ccfbc6fb99018",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "green-bean"
     },
     {
-      "hash": "sha256:a50286a1c8153b6e1e373035136240599972b4a9b365e00ca2087c348d8081da",
+      "hash": "sha256:44276ad51d730f67e0badb1dc6002eb1a890408b3809eaa262b718e868922c2d",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "pea"
     },
     {
-      "hash": "sha256:7863137714eddfa27fa3726de34f446881878a2b3d1dab6eb93932699d6d245c",
+      "hash": "sha256:8f5ee3fc475de5cc7445b91b865fc80d48204a6630bc848f65a6e5c17e219307",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "snap-pea"
     },
     {
-      "hash": "sha256:b6fdf0e3d50de7b4db54412a38dbe076a8ddebc32039a4ac931066c2075e03f3",
+      "hash": "sha256:a1907db82f0b5861c2cf78db371a55c58c13063eb30a0cbef0c7b529d43645dc",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "edamame"
     },
     {
-      "hash": "sha256:9e4b7fa217d7db4e6fdb3dd01274bde8ce7c6744a6c1e0683a681db9747a4fa1",
+      "hash": "sha256:fe4550e8bc42470c06a1a55185163ace06b56697b8554e1cacb34f2902539564",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "fava-bean"
     },
     {
-      "hash": "sha256:fba6e5c230fd3b57101ddb5143248ef0924341609872507522c7c16befc690c8",
+      "hash": "sha256:6a4bfcc981587646c6802756b216a947bd6b8e5e0c86443f679d2a68addaec88",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "chickpea"
     },
     {
-      "hash": "sha256:a7f50f46625a9145dd64fefa3f719b3b1391c734462ed909dffbe031be11300f",
+      "hash": "sha256:96e37af00125d222d6e31e4f6a276b2ac5322615194b7eadb5c7afd18ea98890",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",

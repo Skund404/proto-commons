@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:2a7a8fe14d19d66638986f2aff9f75329398ba5110e429512ad617368c02ab6b",
+  "content_hash": "sha256:7960fd04e50dda9f24c7f30b3f39a781c645beb18d3d5eb18d23aeda4204db2d",
   "created": "2026-05-31",
   "description": "Hardy, sweet-earthy root (turnip x cabbage); mashed, roasted, or in stews.",
   "emitter": "opg://commons-seed",
@@ -36,6 +36,7 @@
   },
   "slug": "rutabaga",
   "tags": [
+    "produce",
     "vegetable",
     "root-vegetable"
   ],

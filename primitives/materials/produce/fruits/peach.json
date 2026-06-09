@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:1ac8ea3f11d50e3aa355221fb82ed212daa906717ee24bf73b57af9efc1881fb",
+  "content_hash": "sha256:e411a65a19f7bf40350d46b6696aeab56c02732f0e9c3065540e3b946d3635cd",
   "created": "2026-05-31",
   "description": "Fuzzy-skinned summer drupe with sweet, juicy flesh around a single stone.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "peach",
   "tags": [
+    "produce",
     "fruit",
     "stone-fruit"
   ],

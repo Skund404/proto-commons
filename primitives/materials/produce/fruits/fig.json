@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:c637ac950d5e731bef44cb2a9542b810f9edd401e55294a09a153fe40cd008e0",
+  "content_hash": "sha256:0c4233bb3f0989b0d814ca19cc6c208f77c015296634546fe1b67a41b23eea03",
   "created": "2026-05-31",
   "description": "Soft, sweet fruit with seedy flesh; eaten fresh or dried, sweet and savoury.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "fig",
   "tags": [
+    "produce",
     "fruit",
     "tropical-fruit"
   ],

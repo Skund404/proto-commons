@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:c1f54b1399305b05310b458df119b316a71e22cd5917ed18731b653958f68da8",
+  "content_hash": "sha256:514df9d7d5c02ff67e88acd112707e7cba2c90718e0d79e46a22dea296e6243b",
   "created": "2026-05-31",
   "description": "Mild, slightly peppery root; boiled, roasted or mashed.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "turnip",
   "tags": [
+    "produce",
     "vegetable",
     "root-vegetable"
   ],

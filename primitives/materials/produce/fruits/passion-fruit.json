@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:9b717fc6ad1fe9cb8a6a86a6babdbac512b2d0c1237f6a072e0cdab44d49dd09",
+  "content_hash": "sha256:37ee145406d33fb3a74bcf92d47c74b816417d773138042ae21ef6bf6988f894",
   "created": "2026-05-31",
   "description": "Wrinkled-skinned tropical fruit with intensely aromatic, tart, seedy pulp.",
   "emitter": "opg://commons-seed",
@@ -36,6 +36,7 @@
   },
   "slug": "passion-fruit",
   "tags": [
+    "produce",
     "fruit",
     "tropical-fruit"
   ],

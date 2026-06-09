@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:65017bfbd83ad399c7433afc7bb90137f19cbcafd6640f3737bc365c3ba20489",
+  "content_hash": "sha256:7b32d6c7a83f165c7cc01891495ac0db5525183a6c74c08af50532eba0de9805",
   "created": "2026-05-31",
   "description": "Smooth-skinned variety of peach, firm and sweet, with a single stone.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "nectarine",
   "tags": [
+    "produce",
     "fruit",
     "stone-fruit"
   ],

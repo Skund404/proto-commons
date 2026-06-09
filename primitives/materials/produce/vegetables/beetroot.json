@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:c47601a24c4f6b4f8e66ff541a2dfdc0445f126721ab938bb56dc8cbee08c9e9",
+  "content_hash": "sha256:4392986b8d962bda9a70be2a5667f386e4546bdad30cb6d2af8b6c1f31658263",
   "created": "2026-05-31",
   "description": "Earthy, sweet deep-red taproot; roasted, boiled, pickled, or grated raw.",
   "emitter": "opg://commons-seed",
@@ -36,6 +36,7 @@
   },
   "slug": "beetroot",
   "tags": [
+    "produce",
     "vegetable",
     "root-vegetable"
   ],

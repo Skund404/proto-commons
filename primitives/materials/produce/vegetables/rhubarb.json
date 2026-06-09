@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:ad6c4e9670f3776706b83b2789229332f837e221ad2cfcc2ba998fff6de56661",
+  "content_hash": "sha256:5314460fcc259d9b57522b6555f119ff4eecc839c9978ff50eb88a9ba11a8c3d",
   "created": "2026-05-31",
   "description": "Tart red-green leaf stalk cooked as a fruit in pies, crumbles and compotes (leaves are toxic).",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "rhubarb",
   "tags": [
+    "produce",
     "vegetable",
     "stem-vegetable"
   ],

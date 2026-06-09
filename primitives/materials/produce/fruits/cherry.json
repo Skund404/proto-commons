@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:485e9bd35f6d9908aab83571998ea0f5f2e942beedfbf9d6ba9f5783e934a0c7",
+  "content_hash": "sha256:6e715f3b6bf11dbffb0bdf528dc18d8fec3f63864311ea3679b1d0ecccadaaf0",
   "created": "2026-05-31",
   "description": "Small round drupe on a long stem, sweet or sour; eaten fresh, baked, or preserved.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "cherry",
   "tags": [
+    "produce",
     "fruit",
     "stone-fruit"
   ],

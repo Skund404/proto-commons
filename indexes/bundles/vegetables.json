@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:df3198a187407c1c481e661e483f55fa3c0c90f4a0b96f3f46d00096d5b73637",
+  "content_hash": "sha256:a47c25b59b3a2dcfd11edc8dbcf8994fc7f60446ca3614d25dac5369df2d4589",
   "description": {
     "en": "Master catalogue of common vegetables, grouped by family (root, leafy greens, alliums, brassicas, nightshades, squashes, legumes, stem vegetables), plus sweetcorn and okra."
   },
@@ -7,62 +7,62 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:8c8223a63625f94a22a25720af250161dcca8d909f45d972e6f4693f25ffb1b6",
+      "hash": "sha256:a5cbe2a03b4d78be41ac83244b6e42f4d787956ba4572e46a37c39ba053e2c73",
       "record_class": "bundle",
       "role": "optional",
       "slug": "root-vegetables"
     },
     {
-      "hash": "sha256:e3fbd15777e42f3eaa55864195b7c740f2453078d3be0928e7eceaaadb039400",
+      "hash": "sha256:ca9e4213574d4202a629e9d41fc42c10bfe1d8181d83bc9e1be7c17643df58dc",
       "record_class": "bundle",
       "role": "optional",
       "slug": "leafy-greens"
     },
     {
-      "hash": "sha256:13acbef54ac593666af0a86a3cdab64989f762d039b6207229b496a191d31be3",
+      "hash": "sha256:08dc1fcbeeb11a4fa87c727ae3eafce8675980e0d089483eee9083aa7d5a4c25",
       "record_class": "bundle",
       "role": "optional",
       "slug": "alliums"
     },
     {
-      "hash": "sha256:db26fd124edeffbec5de6fc59b1d72c927a37f5686339f36a229dff45b9f076f",
+      "hash": "sha256:e275c3f8163500b09de5867c384111fe167344d703198e1e8a75b2ab165b9347",
       "record_class": "bundle",
       "role": "optional",
       "slug": "brassicas"
     },
     {
-      "hash": "sha256:0d491ef978afb8f2eff1d672fdca33ef97e909536eb971d6c6239f2a48c286d3",
+      "hash": "sha256:784801d039b0e5c77396a3d7192dff9bfe96de8d06670a3d5fe55175cfeb4dbb",
       "record_class": "bundle",
       "role": "optional",
       "slug": "nightshades"
     },
     {
-      "hash": "sha256:40c50ff0f784655879bd14a5c9800f6b5a7d7b0b2b5b208b53fa169c9a7a6421",
+      "hash": "sha256:1ba715ac16e73963f44f1400ab5403c9298886bf02097294c4e62734487b4456",
       "record_class": "bundle",
       "role": "optional",
       "slug": "squashes"
     },
     {
-      "hash": "sha256:723932393041629d442efb5cea76df5d64cb52cd17410fdc72aaf5da4d49614b",
+      "hash": "sha256:638aceaf030583af47cc8577087846dc7ec3947756b6e927114c2993a9a441ca",
       "record_class": "bundle",
       "role": "optional",
       "slug": "legumes"
     },
     {
-      "hash": "sha256:4c129490897a475e17d3e423992c3b89789f366a2ff3db3c99f3a1f2e3401892",
+      "hash": "sha256:239a831c47565c3702ad452419ab834e24ec63990f223ee6eb5183ef7c5ff82b",
       "record_class": "bundle",
       "role": "optional",
       "slug": "stem-vegetables"
     },
     {
-      "hash": "sha256:d064d53efb78f56b55533e3dc86e77094b5b0771fba05175191ccbed1a225fdf",
+      "hash": "sha256:ef9ba39667865708a08f35d7fa592bb2b9fbc52b6e3b859f3102c249177cecdb",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "sweetcorn"
     },
     {
-      "hash": "sha256:c7c019ca90bf9ff37ff166aeec1142ee96f1ddfeeb199718c07997b67d1074af",
+      "hash": "sha256:d4d7e0b2dcd7f442e9f78f5bc7e1b33ca4fe1f5f303c117d0610c1134d58b6f7",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",

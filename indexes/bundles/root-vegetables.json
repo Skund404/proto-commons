@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:8c8223a63625f94a22a25720af250161dcca8d909f45d972e6f4693f25ffb1b6",
+  "content_hash": "sha256:a5cbe2a03b4d78be41ac83244b6e42f4d787956ba4572e46a37c39ba053e2c73",
   "description": {
     "en": "A catalogue of common root vegetables in the commons."
   },
@@ -7,77 +7,77 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:c122849384db9034e99dcf986de223361d9c2b1517c9f20c11795438053741d5",
+      "hash": "sha256:34d5786a76724a5bc11477789937a54058be9bcaf4d4ba160bd932b7aaa6ff50",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "carrot"
     },
     {
-      "hash": "sha256:c47601a24c4f6b4f8e66ff541a2dfdc0445f126721ab938bb56dc8cbee08c9e9",
+      "hash": "sha256:4392986b8d962bda9a70be2a5667f386e4546bdad30cb6d2af8b6c1f31658263",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "beetroot"
     },
     {
-      "hash": "sha256:eebb338f19076cb9f75dc2fc777a103d32aa1aabf39f5e68b3c87f6ac2ea99d7",
+      "hash": "sha256:2ec44678cfa57b6a8d17096f60f677de30427bc15235b149be619bdf99c53279",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "radish"
     },
     {
-      "hash": "sha256:c1f54b1399305b05310b458df119b316a71e22cd5917ed18731b653958f68da8",
+      "hash": "sha256:514df9d7d5c02ff67e88acd112707e7cba2c90718e0d79e46a22dea296e6243b",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "turnip"
     },
     {
-      "hash": "sha256:a8042b84d9370737f8f279216a5da58ac5c8cf2ec741a7656591216491a0e4f0",
+      "hash": "sha256:169b22282953fbfa7b8230e6b92dc398b210737b976dac81def70e92ffbe2455",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "parsnip"
     },
     {
-      "hash": "sha256:a3cb44c688a2d1cba2ee2f847a2b40bcd6146c1d94b3274d808e950036724455",
+      "hash": "sha256:b94226b96da859721156f38fc644dd30cdef2a23c891ca4c607e8cf2ac8cb0ae",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "sweet-potato"
     },
     {
-      "hash": "sha256:345adcc677820cfb3964498b707a7841becf5468cf6de95008a82693339062b6",
+      "hash": "sha256:4d0748d6410b3dbaa6e3f2f9ab48cce0be0d7164fd838f092c197a4b3d171e58",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "potato"
     },
     {
-      "hash": "sha256:2a7a8fe14d19d66638986f2aff9f75329398ba5110e429512ad617368c02ab6b",
+      "hash": "sha256:7960fd04e50dda9f24c7f30b3f39a781c645beb18d3d5eb18d23aeda4204db2d",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "rutabaga"
     },
     {
-      "hash": "sha256:38641e0ef8a388ae9700ba404761d5f7436fd236df7a35ec40a57e2a41c120b6",
+      "hash": "sha256:f6320648746d0df494d5a48a88deec4813867dd2e451babfd1ef7edf28a8f3b4",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "celeriac"
     },
     {
-      "hash": "sha256:60154ca186d02dbb28a17e98512e77c8bd1cc09c19d04a4f83f27267f062a65a",
+      "hash": "sha256:4a8c2413b418bc8fec77429b505f3b8012217e82c82d90ff99954cb17e9f0d18",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "ginger"
     },
     {
-      "hash": "sha256:f079f329ae31e58dc4b99a05f78ceee66f3031a2a06f8c7fbf0968acd379fce3",
+      "hash": "sha256:eaf87e4491cab1633793b2c0785dce8cd6a233bf299b208e4de60ea7b84ade08",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",

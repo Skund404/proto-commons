@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:34288327156cfcb892727b09d11d60b3d9075951d385c35bce5928a287527deb",
+  "content_hash": "sha256:d0e96b9c5a6853268d97d5b8b2a5bfa719fd1af8c02c687e7c373e25ae7e8cef",
   "created": "2026-05-31",
   "description": "Crisp, fibrous, aromatic stalk; eaten raw or as an aromatic base (mirepoix/soffritto).",
   "emitter": "opg://commons-seed",
@@ -36,6 +36,7 @@
   },
   "slug": "celery",
   "tags": [
+    "produce",
     "vegetable",
     "stem-vegetable"
   ],

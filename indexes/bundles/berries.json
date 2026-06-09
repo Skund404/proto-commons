@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:0e3b46ba2cf6269049d9ebf119a28d4b62b398d712d6b0d173aa7cc1db4424d6",
+  "content_hash": "sha256:cf04c1c3fbcfd9f52f4829b3c6df32c18296e7ea357a8b29262e45f5af67860d",
   "description": {
     "en": "A catalogue of common berries in the commons."
   },
@@ -7,56 +7,56 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:bb00a94a671410b52b37fca427b232a4463595309558a9c357d349628bcf3a29",
+      "hash": "sha256:19dab369cb454d106e02fde54d60c854f66a2eff0f93f6f58751f09eab393b02",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "strawberry"
     },
     {
-      "hash": "sha256:1b9132e86b6338430aeba4a1873c67212a02e34d55e4978b208a79c85a48cc37",
+      "hash": "sha256:48a416a680c4cac742aea09fcfbf949117860c7c9cf3cdb01c1b63fa1f0e40ec",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "blueberry"
     },
     {
-      "hash": "sha256:7af73abad74c0db916c375f83ac9f8fa7547678526ec7e799326d3e86c55768b",
+      "hash": "sha256:6bc425cbdd706e05c1182953528fa9a854eeca80cab341124d09e80d96114473",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "raspberry"
     },
     {
-      "hash": "sha256:bf0a0b9ddc6a661670d40cf450e770c692a884c6edddc3b7f1d2351a9cfdc241",
+      "hash": "sha256:7bcb91f80a7300a19b2ef6535ee55447974d432b6ebf192f8e8e028177cbd095",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "blackberry"
     },
     {
-      "hash": "sha256:8e28286a75dc400a936c7c7eff8ca0f5d656f69076adda7c654dc4900bc1310a",
+      "hash": "sha256:295c44f638865f0f9db2c6d5dfbc5eafb6bafec7757a1a2c66e83b1d202f83a7",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "cranberry"
     },
     {
-      "hash": "sha256:c83b47a2eed9b8eed9b8091b6d529012761b3da63a56997805427b4a354a7a79",
+      "hash": "sha256:a88d3e8fa8d99e0f439554e9c5d0f5097d7a537515a8174b16a89468505ad933",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "gooseberry"
     },
     {
-      "hash": "sha256:0bae5bf7d4ba980f722db4812ccbad92b6dbcedf1bddb00fe9b2d00cc3bce4b2",
+      "hash": "sha256:ed883125c2ceb7f35c633ee887906e67a2e3971b2a7cd0ac3254306d39c3f9cd",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "redcurrant"
     },
     {
-      "hash": "sha256:5e4b00d3fe94f4eb2c0c6cd014365c4c00d607ee9932e4370ee1a69ecd4abbe2",
+      "hash": "sha256:6b578474de6f7ba7c6a89d1542052de6ea6c1023dbe22d62aecc6df92b43f825",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:a3cb44c688a2d1cba2ee2f847a2b40bcd6146c1d94b3274d808e950036724455",
+  "content_hash": "sha256:b94226b96da859721156f38fc644dd30cdef2a23c891ca4c607e8cf2ac8cb0ae",
   "created": "2026-05-31",
   "description": "Sweet, starchy tuber with orange or purple flesh; roasted, mashed, or fried.",
   "emitter": "opg://commons-seed",
@@ -36,6 +36,7 @@
   },
   "slug": "sweet-potato",
   "tags": [
+    "produce",
     "vegetable",
     "root-vegetable"
   ],

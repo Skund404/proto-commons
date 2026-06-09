@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:8cd8aff51614289e52e475a42dea2a3a85bb00ac2a869b158987b18152b5aec1",
+  "content_hash": "sha256:f59cbe6971d732ee9d768bfa2f6cf2824d393d39ef93883d1123f85dbaa1a7ef",
   "created": "2026-05-31",
   "description": "Cool, crisp, watery cucurbit eaten raw or pickled.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "cucumber",
   "tags": [
+    "produce",
     "vegetable",
     "squash"
   ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:47782d2e7c60a0e78c948fc1a474c917fb6553b755daaf511edd7d1cf255e61a",
+  "content_hash": "sha256:9d9d2e74bdfdd5419753bdb6f3ccaf6b58de261b3193a3a2ab0d38aa3a096958",
   "created": "2026-05-31",
   "description": "Hardy, robust brassica leaf; eaten raw massaged, sautéed, or in soups.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "kale",
   "tags": [
+    "produce",
     "vegetable",
     "leafy-green"
   ],

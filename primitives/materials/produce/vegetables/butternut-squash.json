@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:b66f65a635065289bf899d063b0b8944e3213f59a0220a8d0d10661f89a5e813",
+  "content_hash": "sha256:784b943d88b9f6a503114d9c5cb4bda32eaa934d348ef0a37bc98d528118dfc3",
   "created": "2026-05-31",
   "description": "Sweet, nutty winter squash with dense orange flesh; roasted or in soups.",
   "emitter": "opg://commons-seed",
@@ -37,6 +37,7 @@
   },
   "slug": "butternut-squash",
   "tags": [
+    "produce",
     "vegetable",
     "squash"
   ],

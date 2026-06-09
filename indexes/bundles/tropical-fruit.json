@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:d3c0eb9146cd3d2786a2e90ec2971f8ba4e49a600ea4af692690cd9d18d47c1a",
+  "content_hash": "sha256:8c17307b6dca473b55ae691744199028bd606e083c190ed8a12406a7f549919a",
   "description": {
     "en": "A catalogue of common tropical fruit in the commons."
   },
@@ -7,105 +7,105 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:513705d05ac0695a160d619097eb724874e206269276d48d24b0e9fb47a0c1ed",
+      "hash": "sha256:ddb7fa7bd7daedd2e0afdc278305e6bfd38153575125504d65aaf9806e425b1a",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "banana"
     },
     {
-      "hash": "sha256:86d00b461c18efa090cb407a7e2cc4e549fc4377f4e9519527827061aaa21993",
+      "hash": "sha256:b951440673ebdf5c6a1f6c650012aba8f7e7060fe78b7b70787a28c827d3d363",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "pineapple"
     },
     {
-      "hash": "sha256:4dc01ed9566077edfd1a7c8f35cd2cbdd6236df3465f9464995c20bb326cb012",
+      "hash": "sha256:a621efaa541f9dbc995c59c8816679687becb298b109aa34a42e5a55bb5d97e5",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "mango"
     },
     {
-      "hash": "sha256:d475ee6c7667cc65f3bc38e2194afac4d73ebefa0a09dad59b79e45a380a1223",
+      "hash": "sha256:38c3870daf24a2ed36e0cce7371cc23b7a0a4c152ee4188bc3c4455eddfe29f7",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "papaya"
     },
     {
-      "hash": "sha256:f3aad018db6a2d1471b16cb235eda9270d8e98de52f4d45816b1b2a731fddf3f",
+      "hash": "sha256:5df988a1fc3ed0b576a17a4abc6f6d6573fedbe53476928f874c7174941e63e0",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "kiwi"
     },
     {
-      "hash": "sha256:9b717fc6ad1fe9cb8a6a86a6babdbac512b2d0c1237f6a072e0cdab44d49dd09",
+      "hash": "sha256:37ee145406d33fb3a74bcf92d47c74b816417d773138042ae21ef6bf6988f894",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "passion-fruit"
     },
     {
-      "hash": "sha256:fe592c28c04a0b9b94accb6a41207296902764e9f325dadbc14596cf20012cda",
+      "hash": "sha256:6c1d840a5e380af28b3035bf0b9ac005bf905e5fa074d32882274a748d77f7ae",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "guava"
     },
     {
-      "hash": "sha256:ac9e67fdf1eb7cf791057f205deb96e8a29f9877c260020ebbcce0b49fb44233",
+      "hash": "sha256:d3092c5accdd1f1539e04cc26d184ba4429409e56205a4ac22ee89d5dae32a46",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "lychee"
     },
     {
-      "hash": "sha256:25742e61104d66683e238d8ab79a44af220aa14aa98f8fc55d9d99bd8ba0067e",
+      "hash": "sha256:3450e2d3a05f71bc1f58b61ba73477c5231981ac8167d9c803561212cf4f7faf",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "pomegranate"
     },
     {
-      "hash": "sha256:c637ac950d5e731bef44cb2a9542b810f9edd401e55294a09a153fe40cd008e0",
+      "hash": "sha256:0c4233bb3f0989b0d814ca19cc6c208f77c015296634546fe1b67a41b23eea03",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "fig"
     },
     {
-      "hash": "sha256:a785cfb2254cd79269e3303333b996183162d3d184c17fefb132bc2975d418f4",
+      "hash": "sha256:caf98cd5a493fece559e2e4bb0bc5d6ba1562f9e34ef662c9089639505f467e1",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "date"
     },
     {
-      "hash": "sha256:6ce73e84f2afbad81d0843e6352e3a0f7591e40d0b11200fbe5017ef5e445c86",
+      "hash": "sha256:dfb98ccfe6bbce92454d1491538488ddf0f7f0b2e7a1507c2300f23c20aa1145",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "coconut"
     },
     {
-      "hash": "sha256:583eec0c48d7627c8ab989c72aa9cc78b2a91edc0a5f1eb9a3dea4bab08eaac2",
+      "hash": "sha256:20b3f066e2e089d9f762b31a9107d9f4aab698e8b60c27e3b04cb96a788ffcab",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "avocado"
     },
     {
-      "hash": "sha256:2000f88e7ba4128a5120d2817a07bb413a8ab1d4539bb60914e06de08e5ebc6f",
+      "hash": "sha256:ac56f1ed8f775a86b2e7924a228339c0555cbc89fe2dbede7c985edb6f83a706",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "persimmon"
     },
     {
-      "hash": "sha256:23640e9f5739464670fd9715ef2dc98e6b42c194c38c828ba490e2c5ce9cfa7e",
+      "hash": "sha256:5dfb2d8bd3d10fb368b469c163a5e89fd858a5aa5a6b8ee4b71a0aa91d35e6df",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",

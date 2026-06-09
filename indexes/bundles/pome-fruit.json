@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:d62301e90fa973af24860d2772399de5c62ff531ff11946e79aa89fde81996b1",
+  "content_hash": "sha256:bba89e13c2d8c3e0b57862d8f4566cda87b9acec1dcbe7fccaa8c6c47e3a397c",
   "description": {
     "en": "A catalogue of common pome fruit in the commons."
   },
@@ -7,21 +7,21 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:4fc2197a472871898ba3fed62c0d871d4378bfbe25e08f6a712ecad455c5a151",
+      "hash": "sha256:0d09986f23be3dc47df5903c54e0d84f3ec52aae08ae1825796ae788469757bf",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "apple"
     },
     {
-      "hash": "sha256:0e90a83a6ff025a74c5a99f4619801a3bf44f385f16218f44baa0aab52b6866d",
+      "hash": "sha256:b9cb0ac3d86a5f6f9faf9fd315f0bc9828aceb014c2887bd6332e3ffae39276a",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "pear"
     },
     {
-      "hash": "sha256:ea4b73bc6db3f58221320e8a9ca73a74bc5441510384619d4b841aa365e3530e",
+      "hash": "sha256:a7999a1636dba2441d4cacbdbe2f1eccf83a695f00fc4d2c34e073e504bf936b",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:fba6e5c230fd3b57101ddb5143248ef0924341609872507522c7c16befc690c8",
+  "content_hash": "sha256:6a4bfcc981587646c6802756b216a947bd6b8e5e0c86443f679d2a68addaec88",
   "created": "2026-05-31",
   "description": "Nutty, firm pulse usually sold dried or cooked; base of hummus, stews and curries.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "chickpea",
   "tags": [
+    "produce",
     "vegetable",
     "legume"
   ],

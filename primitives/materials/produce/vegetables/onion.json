@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:7bb964806c2a6e94622cc1b27cbf5da3002be40875608b9c160d1320fbdfab67",
+  "content_hash": "sha256:09207a643b399e3012ccb3eb1e8757263b55aa48754277e8ffdde4321f0c9981",
   "created": "2026-05-31",
   "description": "Pungent layered bulb, a foundational aromatic; sharp raw, sweet when cooked.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "onion",
   "tags": [
+    "produce",
     "vegetable",
     "allium"
   ],

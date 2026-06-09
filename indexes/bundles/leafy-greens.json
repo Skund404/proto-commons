@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:e3fbd15777e42f3eaa55864195b7c740f2453078d3be0928e7eceaaadb039400",
+  "content_hash": "sha256:ca9e4213574d4202a629e9d41fc42c10bfe1d8181d83bc9e1be7c17643df58dc",
   "description": {
     "en": "A catalogue of common leafy greens in the commons."
   },
@@ -7,56 +7,56 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:4bff3a5c854b08c5cf55b04a643aacb0a9f7111cf0d08169c079c9601afa29fe",
+      "hash": "sha256:16c6f4fec9e70c077b76a11dafcf9938f9c8e98fb82c0b44e657bf2c4c97dcdc",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "spinach"
     },
     {
-      "hash": "sha256:3a8c3c0ebd9d14e72526b989dad9f8c4059737b033a1ee92d5878173dbf057bd",
+      "hash": "sha256:8e7322875ee5cea7f6bf997977119a47cc10e838764b17439a32924172a3f6ca",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "lettuce"
     },
     {
-      "hash": "sha256:47782d2e7c60a0e78c948fc1a474c917fb6553b755daaf511edd7d1cf255e61a",
+      "hash": "sha256:9d9d2e74bdfdd5419753bdb6f3ccaf6b58de261b3193a3a2ab0d38aa3a096958",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "kale"
     },
     {
-      "hash": "sha256:ace8d765f22d37d761f42dcb7d5eca153ddac294d04a2a15f2ed06b67acc2c0f",
+      "hash": "sha256:de72314f7ff0b17bc6ee3dbcf41c471993ef4308012a7fb2867fe10a3b04e0c4",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "swiss-chard"
     },
     {
-      "hash": "sha256:77db20f84aa9aa9700b04b962c211e4e39986ca6f5553bb3e38afdd8dd4d099c",
+      "hash": "sha256:dcef5ecfcb0c1b91e571e1c031797dda2e3bed2a5ea868850f81699a3f6db6db",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "arugula"
     },
     {
-      "hash": "sha256:f1f86d3dfb75492d07a05788ebc8df52db3a331ed223fd6fae818050263fe392",
+      "hash": "sha256:c58e5453d7f17cf229cd5d3a9f71ef2c97e0478cffbb71ca1eb64b9e905fe923",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "romaine"
     },
     {
-      "hash": "sha256:037d48d314d761c36ec9ed019a6bea83f1b8c9f5e0e745519a27622f6b1e69ae",
+      "hash": "sha256:e594a82de5b6b2f86cc204893eac267432d438c2b7ffb925a95ecef413d83007",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "watercress"
     },
     {
-      "hash": "sha256:d7c0b0674c20bc60d4b403ac108c8a6ae71dd00df8587890d06749ab590dd4b4",
+      "hash": "sha256:84bd852cc7b245f23d9166d5ec8ce713ed7da9990273295e1dd4c4ba536d1dd0",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",

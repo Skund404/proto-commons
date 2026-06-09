@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:b3f29b9c58714d5eefd8c978e83dcbd77a9b3b9caa4f834b41f58d0d864cf25a",
+  "content_hash": "sha256:e786f97612c649b63041127e1c181b7e8bba509cb872394f197f12e504747447",
   "created": "2026-05-31",
   "description": "Mild, sweet allium with a long white stalk; the base of soups and braises.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "leek",
   "tags": [
+    "produce",
     "vegetable",
     "allium"
   ],

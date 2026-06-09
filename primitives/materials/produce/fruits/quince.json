@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:ea4b73bc6db3f58221320e8a9ca73a74bc5441510384619d4b841aa365e3530e",
+  "content_hash": "sha256:a7999a1636dba2441d4cacbdbe2f1eccf83a695f00fc4d2c34e073e504bf936b",
   "created": "2026-05-31",
   "description": "Hard, aromatic pome fruit, astringent raw; cooked into pastes, jellies and preserves.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "quince",
   "tags": [
+    "produce",
     "fruit",
     "pome-fruit"
   ],

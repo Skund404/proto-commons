@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:6c7c967ba71c5b4805c3f3f490d840816e625e857c2a15a890c5a0c0dd71056f",
+  "content_hash": "sha256:cec1f99e6655412cbf55d1a97b58a8019cd773d3e406546f56cf4ae3b147a721",
   "created": "2026-05-31",
   "description": "Chinese cabbage with crisp white stalks and tender green leaves; stir-fried or in soups.",
   "emitter": "opg://commons-seed",
@@ -37,6 +37,7 @@
   },
   "slug": "bok-choy",
   "tags": [
+    "produce",
     "vegetable",
     "brassica"
   ],

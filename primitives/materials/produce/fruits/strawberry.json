@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:bb00a94a671410b52b37fca427b232a4463595309558a9c357d349628bcf3a29",
+  "content_hash": "sha256:19dab369cb454d106e02fde54d60c854f66a2eff0f93f6f58751f09eab393b02",
   "created": "2026-05-31",
   "description": "Sweet red berry eaten fresh, in desserts and preserves; technically an accessory fruit.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "strawberry",
   "tags": [
+    "produce",
     "fruit",
     "berry"
   ],

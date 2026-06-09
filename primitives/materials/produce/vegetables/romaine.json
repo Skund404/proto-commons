@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f1f86d3dfb75492d07a05788ebc8df52db3a331ed223fd6fae818050263fe392",
+  "content_hash": "sha256:c58e5453d7f17cf229cd5d3a9f71ef2c97e0478cffbb71ca1eb64b9e905fe923",
   "created": "2026-05-31",
   "description": "Crisp, sturdy lettuce with long upright leaves; the classic Caesar salad green.",
   "emitter": "opg://commons-seed",
@@ -36,6 +36,7 @@
   },
   "slug": "romaine",
   "tags": [
+    "produce",
     "vegetable",
     "leafy-green"
   ],

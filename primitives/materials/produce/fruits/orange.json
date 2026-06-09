@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:dc428940bce8d6fe209f465196c4298f82715a2e6e7dd1b5ae563e004fc209b3",
+  "content_hash": "sha256:2dded5cc15afe4e53b0807ef2ecb6a1a472d601d540804087904bfacd3b48d7a",
   "created": "2026-05-31",
   "description": "Sweet citrus fruit eaten fresh or juiced; zest and segments flavour both sweet and savoury dishes.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "orange",
   "tags": [
+    "produce",
     "fruit",
     "citrus"
   ],

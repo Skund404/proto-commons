@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:7863137714eddfa27fa3726de34f446881878a2b3d1dab6eb93932699d6d245c",
+  "content_hash": "sha256:8f5ee3fc475de5cc7445b91b865fc80d48204a6630bc848f65a6e5c17e219307",
   "created": "2026-05-31",
   "description": "Plump pea pod eaten whole, crisp and sweet; raw or quickly cooked.",
   "emitter": "opg://commons-seed",
@@ -38,6 +38,7 @@
   },
   "slug": "snap-pea",
   "tags": [
+    "produce",
     "vegetable",
     "legume"
   ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:19da87fe99c049bcf1ea208b0a3f58d7e97dd3ecbedb931ffc66a8074f506d30",
+  "content_hash": "sha256:85060127ab547903ec617f433c35e978f68211ac8e177c49699ccfbc6fb99018",
   "created": "2026-05-31",
   "description": "Tender immature bean pod eaten whole; steamed, sautéed, or blanched.",
   "emitter": "opg://commons-seed",
@@ -37,6 +37,7 @@
   },
   "slug": "green-bean",
   "tags": [
+    "produce",
     "vegetable",
     "legume"
   ],

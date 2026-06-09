@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:652341eafa27c4e55136f2e45a20a614cd43b40d861812c8801e7f96c84cb826",
+  "content_hash": "sha256:98ccb9d00a6ce4928fd52fe031cf48d1753ab6d57f8997314a567d61745f5f4e",
   "created": "2026-05-31",
   "description": "Large winter squash with sweet orange flesh; roasted, in soups, purées and bakes.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "pumpkin",
   "tags": [
+    "produce",
     "vegetable",
     "squash"
   ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:13acbef54ac593666af0a86a3cdab64989f762d039b6207229b496a191d31be3",
+  "content_hash": "sha256:08dc1fcbeeb11a4fa87c727ae3eafce8675980e0d089483eee9083aa7d5a4c25",
   "description": {
     "en": "A catalogue of common alliums in the commons."
   },
@@ -7,42 +7,42 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:7bb964806c2a6e94622cc1b27cbf5da3002be40875608b9c160d1320fbdfab67",
+      "hash": "sha256:09207a643b399e3012ccb3eb1e8757263b55aa48754277e8ffdde4321f0c9981",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "onion"
     },
     {
-      "hash": "sha256:7e9e16c4c8e4fc90171c526eeba8456bbf8d1412319e5a7f66b7ccfaea10e82a",
+      "hash": "sha256:e75ec93fb8ee7e1df4109663bcfccee485d3efdfb20ffe72b52ee9d61d4166b0",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "garlic"
     },
     {
-      "hash": "sha256:7d3caf82fc77d52334844224020eab5cfb2a82613424c254daf7fc46097d6afd",
+      "hash": "sha256:0a024f4673a2965f6edaec20a0eb95c4c2c82c401a96ccaf4502d6b6efb22045",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "shallot"
     },
     {
-      "hash": "sha256:b3f29b9c58714d5eefd8c978e83dcbd77a9b3b9caa4f834b41f58d0d864cf25a",
+      "hash": "sha256:e786f97612c649b63041127e1c181b7e8bba509cb872394f197f12e504747447",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "leek"
     },
     {
-      "hash": "sha256:99e7b51969210e738f6df1c633f3eb9ae9e7afd4179285b4275401abaae68084",
+      "hash": "sha256:1470c77cca99a03d9d01ae4a08b39b3caa0ab9df9df50b6aa059a6138bca7bb3",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "scallion"
     },
     {
-      "hash": "sha256:3ec8d15be19da70c5546385294930d938d20f4b399fb1beff7a4d1905d3d0a50",
+      "hash": "sha256:9feb6ef043db4842573db3d1e3e1746a2a7297ab633fdfa0560634ee0a4cfba8",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",

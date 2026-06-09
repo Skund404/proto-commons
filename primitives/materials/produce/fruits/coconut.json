@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:6ce73e84f2afbad81d0843e6352e3a0f7591e40d0b11200fbe5017ef5e445c86",
+  "content_hash": "sha256:dfb98ccfe6bbce92454d1491538488ddf0f7f0b2e7a1507c2300f23c20aa1145",
   "created": "2026-05-31",
   "description": "Large tropical drupe yielding firm white flesh, water and milk.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "coconut",
   "tags": [
+    "produce",
     "fruit",
     "tropical-fruit"
   ],

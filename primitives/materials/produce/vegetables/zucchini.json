@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:e5f6e6fc47b2571b40f415861452195b90d1447b24cdb599f01ab2f7db80436e",
+  "content_hash": "sha256:a8c574f8599b20f5068575d296a98fd4a9590f8668439df4307324e015711e01",
   "created": "2026-05-31",
   "description": "Tender summer squash eaten skin and all; sautéed, grilled, or raw.",
   "emitter": "opg://commons-seed",
@@ -36,6 +36,7 @@
   },
   "slug": "zucchini",
   "tags": [
+    "produce",
     "vegetable",
     "squash"
   ],

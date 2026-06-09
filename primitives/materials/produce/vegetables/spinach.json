@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:4bff3a5c854b08c5cf55b04a643aacb0a9f7111cf0d08169c079c9601afa29fe",
+  "content_hash": "sha256:16c6f4fec9e70c077b76a11dafcf9938f9c8e98fb82c0b44e657bf2c4c97dcdc",
   "created": "2026-05-31",
   "description": "Tender dark-green leaf eaten raw or wilted; mild, slightly mineral.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "spinach",
   "tags": [
+    "produce",
     "vegetable",
     "leafy-green"
   ],

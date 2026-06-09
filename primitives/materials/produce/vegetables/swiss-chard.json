@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:ace8d765f22d37d761f42dcb7d5eca153ddac294d04a2a15f2ed06b67acc2c0f",
+  "content_hash": "sha256:de72314f7ff0b17bc6ee3dbcf41c471993ef4308012a7fb2867fe10a3b04e0c4",
   "created": "2026-05-31",
   "description": "Leafy green with edible colourful stalks; both leaf and stem are cooked.",
   "emitter": "opg://commons-seed",
@@ -36,6 +36,7 @@
   },
   "slug": "swiss-chard",
   "tags": [
+    "produce",
     "vegetable",
     "leafy-green"
   ],
