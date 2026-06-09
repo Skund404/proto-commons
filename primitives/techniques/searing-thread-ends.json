@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:8f08f94e9e65a0655b1750d61eea84981a0ee3c8fbe46f521af300280449eb7b",
+  "created": "2026-06-09",
+  "description": "Trim the thread tails and melt them flush so a finished saddle stitch can't work loose.",
+  "emitter": "opg://commons-seed",
+  "id": "searing-thread-ends-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "searing thread ends",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "searing thread ends"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "stitching-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:17049b284fd1a801a91dec1950db2b72edbaa3c43c7f2a7a895424e06f5edc1e",
+        "id": "thread-zapper-seed",
+        "path": "primitives/tools/thread-zapper.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "searing-thread-ends",
+  "tags": [
+    "stitching-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

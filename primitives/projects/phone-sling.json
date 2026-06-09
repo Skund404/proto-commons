@@ -1,0 +1,105 @@
+{
+  "content_hash": "sha256:be8e113a879ecbc58b0f01b055dab65d29d87e2de5b413e59093d954dabe603e",
+  "created": "2026-06-09",
+  "description": "A small cross-body pouch with a D-ring on a riveted tab and an eyelet-set cord — combines stitching with hardware setting.",
+  "emitter": "opg://commons-seed",
+  "id": "phone-sling-seed",
+  "kind": "project",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "phone sling",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "phone sling",
+        "phone pouch"
+      ]
+    },
+    "projectType": "leather-good",
+    "project_decl": {
+      "consumes": [
+        {
+          "kind_ann": "material[vegetable-tanned-leather]",
+          "name": "body"
+        },
+        {
+          "kind_ann": "material[waxed-polyester-thread]",
+          "name": "thread"
+        },
+        {
+          "kind_ann": "material[d-ring]",
+          "name": "dring"
+        },
+        {
+          "kind_ann": "material[double-cap-rivet]",
+          "name": "rivet"
+        }
+      ],
+      "on_fail": "propagate",
+      "produces": "material[phone-sling]"
+    },
+    "taxonomy": "leatherwork-project"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:850e63414bc4b5ce68cdae4158e20794f78f82cec8893c88e0d1fc271a99713b",
+        "id": "set-a-line-of-hardware-seed",
+        "path": "primitives/workflows/set-a-line-of-hardware.json"
+      },
+      "type": "based_on"
+    },
+    {
+      "target": {
+        "hash": "sha256:0729c9c19e5334aa1463ceedd2393ffaf2478fac192ec40c2733ddea0a330451",
+        "id": "vegetable-tanned-leather-seed",
+        "path": "primitives/materials/vegetable-tanned-leather.json"
+      },
+      "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:eeac2c78cecd79516572c5cd643ff836fd369d2128206d8eb279b088fd205f92",
+        "id": "waxed-polyester-thread-seed",
+        "path": "primitives/materials/waxed-polyester-thread.json"
+      },
+      "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:37e10778a58eaadfd2017ff2a04b56c76b45a3e896895ddd93eccd89e90d61cb",
+        "id": "d-ring-seed",
+        "path": "primitives/materials/d-ring.json"
+      },
+      "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:93d9e09b47cc06826a98cb7353a1ad777fb714209dbe2729b5ba1d69b88f6c14",
+        "id": "double-cap-rivet-seed",
+        "path": "primitives/materials/double-cap-rivet.json"
+      },
+      "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:57dc3c13686f7d68577b1f4030db763462af58365f32ae23898896eed7e46785",
+        "id": "eyelet-seed",
+        "path": "primitives/materials/eyelet.json"
+      },
+      "type": "consumes"
+    }
+  ],
+  "slug": "phone-sling",
+  "tags": [
+    "leatherwork-project",
+    "leather-good"
+  ],
+  "visibility": "commons"
+}

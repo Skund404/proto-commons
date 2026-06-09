@@ -1,0 +1,58 @@
+{
+  "content_hash": "sha256:23a364a775bede08ac7aec2f1e63eb826a4d3fc79c4a8fc3d83f08a39b2e762c",
+  "created": "2026-06-09",
+  "description": "Trace a pattern onto the leather and cut the pieces cleanly against a straightedge on a protected surface.",
+  "emitter": "opg://commons-seed",
+  "id": "cutting-to-pattern-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "cutting to pattern",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "cutting to pattern"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "cutting-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:6d4360afb4dcfb15c7cf453d5a5228f626e685fc0c6a645ed8e6d9502816a751",
+        "id": "head-knife-seed",
+        "path": "primitives/tools/head-knife.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:bedb5967cdbc46fb0916632310b2d09766ad86fb49d68d1b4476efc427cffce8",
+        "id": "cutting-mat-seed",
+        "path": "primitives/tools/cutting-mat.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:b7cc9d5529f84f9f0b630eba5103b273d192bcf66ce9a2ed6a0aa1ac10b53a92",
+        "id": "steel-ruler-seed",
+        "path": "primitives/tools/steel-ruler.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "cutting-to-pattern",
+  "tags": [
+    "cutting-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

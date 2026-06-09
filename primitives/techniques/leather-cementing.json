@@ -1,0 +1,51 @@
+{
+  "content_hash": "sha256:350055ae24caba1cfc5b01c48ba6a021aed45c17474b6cd053e3aacce167caca",
+  "created": "2026-06-09",
+  "description": "Coat both mating faces with contact cement, let them tack, then press together to hold the pieces aligned before stitching.",
+  "emitter": "opg://commons-seed",
+  "id": "leather-cementing-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "leather cementing",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "leather cementing",
+        "gluing"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "assembly-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:559cac212867348d499580e67056922e315140752be1297bfca0635e84410ea0",
+        "id": "contact-cement-seed",
+        "path": "primitives/materials/contact-cement.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:e090b424cbf289338375f189757d58df042df6a4c6ae62b8f084af776ef13fbf",
+        "id": "bone-folder-seed",
+        "path": "primitives/tools/bone-folder.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "leather-cementing",
+  "tags": [
+    "assembly-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

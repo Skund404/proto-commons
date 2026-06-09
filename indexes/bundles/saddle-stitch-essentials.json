@@ -1,0 +1,71 @@
+{
+  "content_hash": "sha256:e9b192a6afcfba9b06c2a571968e677e9adff0075d898b33fec40dfb2436305c",
+  "description": {
+    "en": "Everything to hand-stitch a seam the traditional way: punch, sew, and finish."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:0fd8d550c14adbb7460af0a93b42ff63273902a679193ec5c4f48c410547ce86",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "diamond-stitching-chisel"
+    },
+    {
+      "hash": "sha256:bfd45052756353890f16c052da1f17d32e57950415dfa45733fb10dbd0227db5",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "pricking-iron"
+    },
+    {
+      "hash": "sha256:71d452dfade6eeabc09f97c776022b4c29829620c8d7dd5938239f7beeb0cbd0",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "stitching-awl"
+    },
+    {
+      "hash": "sha256:0a76eba6852450fa04398e4d92a364ee8d79a202e0c0108aa74c95fb1357c88d",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "harness-needle"
+    },
+    {
+      "hash": "sha256:e6b9f23dd34cfd371b19a93a8f4c0f0bf2c8198a8056068913b5ca8504a62c5d",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "stitching-pony"
+    },
+    {
+      "hash": "sha256:3c1ef7694ffe9a1832fc00e088e2bd8d1c230beb220cdfd1a28046d63482265d",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "mallet"
+    },
+    {
+      "hash": "sha256:eeac2c78cecd79516572c5cd643ff836fd369d2128206d8eb279b088fd205f92",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "waxed-polyester-thread"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Saddle-stitch essentials"
+  },
+  "record_class": "bundle",
+  "slug": "saddle-stitch-essentials",
+  "state": "open",
+  "successors": []
+}

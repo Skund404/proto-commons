@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:5f31092ec2804ec32f2cec1eef283f1475cfb984e8c7dacb24775c9ffecc786e",
+  "created": "2026-06-09",
+  "description": "Dampen veg-tan and shape it over a form; as it dries it sets and holds the molded shape.",
+  "emitter": "opg://commons-seed",
+  "id": "wet-molding-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "wet molding",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "wet molding",
+        "wet forming"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "taxonomy": "assembly-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:0729c9c19e5334aa1463ceedd2393ffaf2478fac192ec40c2733ddea0a330451",
+        "id": "vegetable-tanned-leather-seed",
+        "path": "primitives/materials/vegetable-tanned-leather.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "wet-molding",
+  "tags": [
+    "assembly-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

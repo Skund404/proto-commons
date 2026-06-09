@@ -1,0 +1,57 @@
+{
+  "content_hash": "sha256:813c25119d2cacec3dc1a2f96c32c174f7864c38d4042fce5654fed1ccac0694",
+  "description": {
+    "en": "A starter set of consumables for a first veg-tan project: leather, glue, thread, dye, and edge gum."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:0729c9c19e5334aa1463ceedd2393ffaf2478fac192ec40c2733ddea0a330451",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "vegetable-tanned-leather"
+    },
+    {
+      "hash": "sha256:559cac212867348d499580e67056922e315140752be1297bfca0635e84410ea0",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "contact-cement"
+    },
+    {
+      "hash": "sha256:eeac2c78cecd79516572c5cd643ff836fd369d2128206d8eb279b088fd205f92",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "waxed-polyester-thread"
+    },
+    {
+      "hash": "sha256:9cdb2de58fe2dd99144dfdc61afbd9c90325491c14f5ef68079e74c63e45394a",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "leather-dye"
+    },
+    {
+      "hash": "sha256:a5a88085ab4da25636a1224597cf30bb3735afc69a630154a580470ba3163672",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "edge-burnishing-gum"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Veg-tan starter materials"
+  },
+  "record_class": "bundle",
+  "slug": "veg-tan-starter",
+  "state": "open",
+  "successors": []
+}

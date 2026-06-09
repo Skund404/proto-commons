@@ -1,0 +1,96 @@
+{
+  "content_hash": "sha256:52cc29984ed277a6f2028d37d388b9f3fed765b62116fb9cebc26b70ce655da9",
+  "created": "2026-06-09",
+  "description": "Take a raw cut edge to a smooth, sealed finish: bevel the corners, sand it true, then burnish it hard.",
+  "emitter": "opg://commons-seed",
+  "id": "finish-an-edge-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "finish an edge",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "beginner",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "finish an edge"
+      ]
+    },
+    "steps": [
+      {
+        "description": "Bevel both corners of the edge.",
+        "position": 1
+      },
+      {
+        "description": "Sand the edge smooth through the grits.",
+        "position": 2
+      },
+      {
+        "description": "Gum and burnish the edge to a sheen.",
+        "position": 3
+      }
+    ],
+    "taxonomy": "leatherwork-procedure"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:f13c2560602da05c4a3f89a281fcfc16207c203c7313aceb6609e50a6efcb345",
+        "id": "edge-beveling-seed",
+        "path": "primitives/techniques/edge-beveling.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:89701f8b97870edffb04efc50304a5248abdd47d45086671430395e59602bfae",
+        "id": "edge-burnishing-seed",
+        "path": "primitives/techniques/edge-burnishing.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:aa158929134f460000f2e8ea65e3d924178e756a5b43b2a8156b5ab8ddce1e9b",
+        "id": "edge-beveler-seed",
+        "path": "primitives/tools/edge-beveler.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:8b978415c663673e25e390146404740098436862f865ddac2925cb8ab8b829aa",
+        "id": "sanding-stick-seed",
+        "path": "primitives/tools/sanding-stick.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:f6904e818c2a76baf99422eccf7c4359cbbe3f3d00bc3c2124602d6ca5d1b891",
+        "id": "edge-slicker-seed",
+        "path": "primitives/tools/edge-slicker.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:a5a88085ab4da25636a1224597cf30bb3735afc69a630154a580470ba3163672",
+        "id": "edge-burnishing-gum-seed",
+        "path": "primitives/materials/edge-burnishing-gum.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "finish-an-edge",
+  "tags": [
+    "leatherwork-procedure",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

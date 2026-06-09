@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "edge-technique",
+  "names": {
+    "en": [
+      "edge technique"
+    ]
+  },
+  "specializes": "leatherwork-technique"
+}

@@ -1,0 +1,58 @@
+{
+  "content_hash": "sha256:8df0df24070a68acf34800563973b90b55d7836a66d9707f4edf2c388527f47c",
+  "created": "2026-06-09",
+  "description": "The core hand stitch: two needles on one thread cross through each hole in opposite directions, so the seam holds even if a stitch is cut.",
+  "emitter": "opg://commons-seed",
+  "id": "saddle-stitch-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "saddle stitch",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "saddle stitch"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "stitching-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:0a76eba6852450fa04398e4d92a364ee8d79a202e0c0108aa74c95fb1357c88d",
+        "id": "harness-needle-seed",
+        "path": "primitives/tools/harness-needle.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:e6b9f23dd34cfd371b19a93a8f4c0f0bf2c8198a8056068913b5ca8504a62c5d",
+        "id": "stitching-pony-seed",
+        "path": "primitives/tools/stitching-pony.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:eeac2c78cecd79516572c5cd643ff836fd369d2128206d8eb279b088fd205f92",
+        "id": "waxed-polyester-thread-seed",
+        "path": "primitives/materials/waxed-polyester-thread.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "saddle-stitch",
+  "tags": [
+    "stitching-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

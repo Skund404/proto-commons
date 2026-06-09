@@ -1,0 +1,52 @@
+{
+  "content_hash": "sha256:b2ebba75883b5cbf72a37875f5d33475234b920300f73ff67fbc6d9fa4c68040",
+  "description": {
+    "en": "The complete beginner's bench, assembled from the marking/cutting, saddle-stitch, edge-finishing, and hardware kits plus veg-tan starter materials."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:7f473905822844f070938f3e356b3a4cfd3adfcaa2821f09bf29d9e8582d78cb",
+      "record_class": "bundle",
+      "role": "required",
+      "slug": "marking-and-cutting-kit"
+    },
+    {
+      "hash": "sha256:e9b192a6afcfba9b06c2a571968e677e9adff0075d898b33fec40dfb2436305c",
+      "record_class": "bundle",
+      "role": "required",
+      "slug": "saddle-stitch-essentials"
+    },
+    {
+      "hash": "sha256:49108219c8799b3290f4f90b0a1292d438ef4e5a12405fb9a468d86898b910a7",
+      "record_class": "bundle",
+      "role": "recommended",
+      "slug": "edge-finishing-kit"
+    },
+    {
+      "hash": "sha256:3c11ecc7c31fa5256f60570c2c9b0cca0127747b8108a264edefa978e695bcfc",
+      "record_class": "bundle",
+      "role": "recommended",
+      "slug": "hardware-setting-kit"
+    },
+    {
+      "hash": "sha256:813c25119d2cacec3dc1a2f96c32c174f7864c38d4042fce5654fed1ccac0694",
+      "record_class": "bundle",
+      "role": "required",
+      "slug": "veg-tan-starter"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Leatherwork starter (kit of kits)"
+  },
+  "record_class": "bundle",
+  "slug": "leatherwork-starter",
+  "state": "open",
+  "successors": []
+}

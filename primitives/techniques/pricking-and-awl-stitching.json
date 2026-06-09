@@ -1,0 +1,50 @@
+{
+  "content_hash": "sha256:97a603985b47cec6d1dcb6e0927be90fe9b4b9d80796db8245299f4b2af314d5",
+  "created": "2026-06-09",
+  "description": "Mark the stitch points with a pricking iron, then open each hole with an awl as you sew for maximum control over the angle.",
+  "emitter": "opg://commons-seed",
+  "id": "pricking-and-awl-stitching-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "pricking and awl stitching",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "pricking and awl stitching"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "taxonomy": "stitching-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:bfd45052756353890f16c052da1f17d32e57950415dfa45733fb10dbd0227db5",
+        "id": "pricking-iron-seed",
+        "path": "primitives/tools/pricking-iron.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:71d452dfade6eeabc09f97c776022b4c29829620c8d7dd5938239f7beeb0cbd0",
+        "id": "stitching-awl-seed",
+        "path": "primitives/tools/stitching-awl.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "pricking-and-awl-stitching",
+  "tags": [
+    "stitching-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

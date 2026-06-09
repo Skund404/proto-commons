@@ -1,0 +1,73 @@
+{
+  "content_hash": "sha256:9620acfbe54db29bf9177e7659b49b72b4b0a3b5243e3c6ec33895aad7b5164e",
+  "created": "2026-06-09",
+  "description": "A round-bottomed pouch closed by a cord threaded through eyelets — mostly cutting and punching, a gentle introduction to bag shapes.",
+  "emitter": "opg://commons-seed",
+  "id": "drawstring-pouch-seed",
+  "kind": "project",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "drawstring pouch",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "drawstring pouch",
+        "drawstring bag"
+      ]
+    },
+    "projectType": "leather-good",
+    "project_decl": {
+      "consumes": [
+        {
+          "kind_ann": "material[vegetable-tanned-leather]",
+          "name": "body"
+        },
+        {
+          "kind_ann": "material[eyelet]",
+          "name": "eyelets"
+        }
+      ],
+      "on_fail": "propagate",
+      "produces": "material[drawstring-pouch]"
+    },
+    "taxonomy": "leatherwork-project"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:bd8ac8491e233e0afbd19498d7267b634684df3534eb1f8f29bf45c73f1745ae",
+        "id": "cut-pieces-from-pattern-seed",
+        "path": "primitives/workflows/cut-pieces-from-pattern.json"
+      },
+      "type": "based_on"
+    },
+    {
+      "target": {
+        "hash": "sha256:0729c9c19e5334aa1463ceedd2393ffaf2478fac192ec40c2733ddea0a330451",
+        "id": "vegetable-tanned-leather-seed",
+        "path": "primitives/materials/vegetable-tanned-leather.json"
+      },
+      "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:57dc3c13686f7d68577b1f4030db763462af58365f32ae23898896eed7e46785",
+        "id": "eyelet-seed",
+        "path": "primitives/materials/eyelet.json"
+      },
+      "type": "consumes"
+    }
+  ],
+  "slug": "drawstring-pouch",
+  "tags": [
+    "leatherwork-project",
+    "leather-good"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,58 @@
+{
+  "content_hash": "sha256:714590ed69a0cb2d504746500bfdeaa39a4f8b36246a40fcb1cfc58a6c2a64ed",
+  "created": "2026-06-09",
+  "description": "Drive a diamond chisel through the leather along the marked line to cut evenly spaced, angled stitch slits.",
+  "emitter": "opg://commons-seed",
+  "id": "chisel-punching-stitch-holes-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "chisel-punching stitch holes",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "chisel-punching stitch holes"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "stitching-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:0fd8d550c14adbb7460af0a93b42ff63273902a679193ec5c4f48c410547ce86",
+        "id": "diamond-stitching-chisel-seed",
+        "path": "primitives/tools/diamond-stitching-chisel.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:3c1ef7694ffe9a1832fc00e088e2bd8d1c230beb220cdfd1a28046d63482265d",
+        "id": "mallet-seed",
+        "path": "primitives/tools/mallet.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:f888aa5dfa8502acc593c38e5c17213dd8e25df5e7b3b16dcf507d6912172c35",
+        "id": "poundboard-seed",
+        "path": "primitives/tools/poundboard.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "chisel-punching-stitch-holes",
+  "tags": [
+    "stitching-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

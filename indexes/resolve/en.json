@@ -101,6 +101,16 @@
         "canonical": true
       }
     ],
+    "assembly technique": [
+      {
+        "ref": "categories/assembly-technique",
+        "class": "category",
+        "kind": null,
+        "name": "assembly technique",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "aubergine": [
       {
         "ref": "primitives/materials/produce/vegetables/eggplant.json",
@@ -499,6 +509,16 @@
         "canonical": true
       }
     ],
+    "card holder": [
+      {
+        "ref": "primitives/projects/card-holder.json",
+        "class": "primitive",
+        "kind": "project",
+        "name": "card holder",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "carrot": [
       {
         "ref": "primitives/materials/produce/vegetables/carrot.json",
@@ -627,6 +647,16 @@
         "name": "chilli",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "chisel-punching stitch holes": [
+      {
+        "ref": "primitives/techniques/chisel-punching-stitch-holes.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "chisel-punching stitch holes",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "chive": [
@@ -887,12 +917,42 @@
         "canonical": false
       }
     ],
+    "cut pieces from pattern": [
+      {
+        "ref": "primitives/workflows/cut-pieces-from-pattern.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "cut pieces from pattern",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "cutting knife": [
       {
         "ref": "categories/cutting-knife",
         "class": "category",
         "kind": null,
         "name": "cutting knife",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "cutting technique": [
+      {
+        "ref": "categories/cutting-technique",
+        "class": "category",
+        "kind": null,
+        "name": "cutting technique",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "cutting to pattern": [
+      {
+        "ref": "primitives/techniques/cutting-to-pattern.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "cutting to pattern",
         "lang": "en",
         "canonical": true
       }
@@ -985,6 +1045,26 @@
         "canonical": false
       }
     ],
+    "drawstring bag": [
+      {
+        "ref": "primitives/projects/drawstring-pouch.json",
+        "class": "primitive",
+        "kind": "project",
+        "name": "drawstring bag",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "drawstring pouch": [
+      {
+        "ref": "primitives/projects/drawstring-pouch.json",
+        "class": "primitive",
+        "kind": "project",
+        "name": "drawstring pouch",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "drive punch": [
       {
         "ref": "primitives/tools/hole-punch.json",
@@ -1025,6 +1105,26 @@
         "canonical": true
       }
     ],
+    "edge beveling": [
+      {
+        "ref": "primitives/techniques/edge-beveling.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "edge beveling",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "edge burnishing": [
+      {
+        "ref": "primitives/techniques/edge-burnishing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "edge burnishing",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "edge burnishing gum": [
       {
         "ref": "categories/edge-burnishing-gum",
@@ -1049,6 +1149,26 @@
         "class": "primitive",
         "kind": "tool",
         "name": "edge creaser",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "edge creasing": [
+      {
+        "ref": "primitives/techniques/edge-creasing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "edge creasing",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "edge dyeing": [
+      {
+        "ref": "primitives/techniques/edge-dyeing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "edge dyeing",
         "lang": "en",
         "canonical": true
       }
@@ -1079,6 +1199,16 @@
         "class": "primitive",
         "kind": "tool",
         "name": "edge slicker",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "edge technique": [
+      {
+        "ref": "categories/edge-technique",
+        "class": "category",
+        "kind": null,
+        "name": "edge technique",
         "lang": "en",
         "canonical": true
       }
@@ -1251,6 +1381,26 @@
         "canonical": true
       }
     ],
+    "finish an edge": [
+      {
+        "ref": "primitives/workflows/finish-an-edge.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "finish an edge",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "finishing technique": [
+      {
+        "ref": "categories/finishing-technique",
+        "class": "category",
+        "kind": null,
+        "name": "finishing technique",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "french bean": [
       {
         "ref": "primitives/materials/produce/vegetables/green-bean.json",
@@ -1341,12 +1491,42 @@
         "canonical": true
       }
     ],
+    "glasses sleeve": [
+      {
+        "ref": "primitives/projects/sunglasses-case.json",
+        "class": "primitive",
+        "kind": "project",
+        "name": "glasses sleeve",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "globe artichoke": [
       {
         "ref": "primitives/materials/produce/vegetables/artichoke.json",
         "class": "primitive",
         "kind": "material",
         "name": "globe artichoke",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "glue and stitch a lap seam": [
+      {
+        "ref": "primitives/workflows/glue-and-stitch-a-lap-seam.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "glue and stitch a lap seam",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "gluing": [
+      {
+        "ref": "primitives/techniques/leather-cementing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "gluing",
         "lang": "en",
         "canonical": false
       }
@@ -1635,6 +1815,26 @@
         "canonical": true
       }
     ],
+    "key fob": [
+      {
+        "ref": "primitives/projects/key-fob.json",
+        "class": "primitive",
+        "kind": "project",
+        "name": "key fob",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "key keeper": [
+      {
+        "ref": "primitives/projects/key-fob.json",
+        "class": "primitive",
+        "kind": "project",
+        "name": "key keeper",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "key ring": [
       {
         "ref": "primitives/materials/split-ring.json",
@@ -1745,6 +1945,16 @@
         "canonical": false
       }
     ],
+    "leather cementing": [
+      {
+        "ref": "primitives/techniques/leather-cementing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "leather cementing",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "leather conditioner": [
       {
         "ref": "primitives/materials/leather-conditioner.json",
@@ -1813,6 +2023,46 @@
         "name": "leather shears",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "leather strap construction": [
+      {
+        "ref": "primitives/workflows/leather-strap-construction.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "leather strap construction",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "leatherwork procedure": [
+      {
+        "ref": "categories/leatherwork-procedure",
+        "class": "category",
+        "kind": null,
+        "name": "leatherwork procedure",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "leatherwork project": [
+      {
+        "ref": "categories/leatherwork-project",
+        "class": "category",
+        "kind": null,
+        "name": "leatherwork project",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "leatherwork technique": [
+      {
+        "ref": "categories/leatherwork-technique",
+        "class": "category",
+        "kind": null,
+        "name": "leatherwork technique",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "leek": [
@@ -1981,6 +2231,16 @@
         "name": "mantecare",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "marking a stitch line": [
+      {
+        "ref": "primitives/techniques/marking-a-stitch-line.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "marking a stitch line",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "marking tool": [
@@ -2209,6 +2469,16 @@
         "canonical": true
       }
     ],
+    "paring": [
+      {
+        "ref": "primitives/techniques/skiving.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "paring",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "paring knife": [
       {
         "ref": "primitives/tools/skiving-knife.json",
@@ -2329,6 +2599,26 @@
         "canonical": true
       }
     ],
+    "phone pouch": [
+      {
+        "ref": "primitives/projects/phone-sling.json",
+        "class": "primitive",
+        "kind": "project",
+        "name": "phone pouch",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "phone sling": [
+      {
+        "ref": "primitives/projects/phone-sling.json",
+        "class": "primitive",
+        "kind": "project",
+        "name": "phone sling",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "pineapple": [
       {
         "ref": "primitives/materials/produce/fruits/pineapple.json",
@@ -2427,6 +2717,16 @@
         "name": "press stud",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "pricking and awl stitching": [
+      {
+        "ref": "primitives/techniques/pricking-and-awl-stitching.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "pricking and awl stitching",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "pricking chisel": [
@@ -2717,6 +3017,26 @@
         "canonical": true
       }
     ],
+    "saddle stitch": [
+      {
+        "ref": "primitives/techniques/saddle-stitch.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "saddle stitch",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "saddle-stitch a seam": [
+      {
+        "ref": "primitives/workflows/saddle-stitch-a-seam.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "saddle-stitch a seam",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "saddler's needle": [
       {
         "ref": "primitives/tools/harness-needle.json",
@@ -2805,12 +3125,52 @@
         "canonical": true
       }
     ],
+    "searing thread ends": [
+      {
+        "ref": "primitives/techniques/searing-thread-ends.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "searing thread ends",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "self-healing cutting mat": [
       {
         "ref": "primitives/tools/cutting-mat.json",
         "class": "primitive",
         "kind": "tool",
         "name": "self-healing cutting mat",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "set a line of hardware": [
+      {
+        "ref": "primitives/workflows/set-a-line-of-hardware.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "set a line of hardware",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "setting a rivet": [
+      {
+        "ref": "primitives/techniques/setting-a-rivet.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "setting a rivet",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "setting a snap": [
+      {
+        "ref": "primitives/techniques/setting-a-snap.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "setting a snap",
         "lang": "en",
         "canonical": true
       }
@@ -2875,6 +3235,26 @@
         "canonical": true
       }
     ],
+    "skive and fold an edge": [
+      {
+        "ref": "primitives/workflows/skive-and-fold-an-edge.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "skive and fold an edge",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "skiving": [
+      {
+        "ref": "primitives/techniques/skiving.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "skiving",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "skiving knife": [
       {
         "ref": "primitives/tools/skiving-knife.json",
@@ -2883,6 +3263,16 @@
         "name": "skiving knife",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "slicking": [
+      {
+        "ref": "primitives/techniques/edge-burnishing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "slicking",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "snap button": [
@@ -3095,6 +3485,16 @@
         "canonical": true
       }
     ],
+    "stitching technique": [
+      {
+        "ref": "categories/stitching-technique",
+        "class": "category",
+        "kind": null,
+        "name": "stitching technique",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "stitching tool": [
       {
         "ref": "categories/stitching-tool",
@@ -3201,6 +3601,16 @@
         "name": "sugar snap pea",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "sunglasses case": [
+      {
+        "ref": "primitives/projects/sunglasses-case.json",
+        "class": "primitive",
+        "kind": "project",
+        "name": "sunglasses case",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "swede": [
@@ -3455,6 +3865,26 @@
         "class": "primitive",
         "kind": "material",
         "name": "waxed polyester thread",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "wet forming": [
+      {
+        "ref": "primitives/techniques/wet-molding.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "wet forming",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "wet molding": [
+      {
+        "ref": "primitives/techniques/wet-molding.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "wet molding",
         "lang": "en",
         "canonical": true
       }

@@ -1,0 +1,84 @@
+{
+  "content_hash": "sha256:825da795ff65247c11e72fd8136d7259170e023a7ceac01cf05af725b33c9a3e",
+  "created": "2026-06-09",
+  "description": "Thin an edge by skiving, then fold and cement it for a clean, slim turned edge.",
+  "emitter": "opg://commons-seed",
+  "id": "skive-and-fold-an-edge-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "skive and fold an edge",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "intermediate",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "skive and fold an edge"
+      ]
+    },
+    "steps": [
+      {
+        "description": "Skive the edge thin.",
+        "position": 1
+      },
+      {
+        "description": "Fold the edge over and cement it down.",
+        "position": 2
+      }
+    ],
+    "taxonomy": "leatherwork-procedure"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:e4a1dbb12849214928d6203b6e4686afc2e80b533fb199f1597c3b071b9a6798",
+        "id": "skiving-seed",
+        "path": "primitives/techniques/skiving.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:350055ae24caba1cfc5b01c48ba6a021aed45c17474b6cd053e3aacce167caca",
+        "id": "leather-cementing-seed",
+        "path": "primitives/techniques/leather-cementing.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:d5fbd50a7ef105c1ddd1da87e0dce0837724db0581c7e1be944f46ba4e5a043c",
+        "id": "skiving-knife-seed",
+        "path": "primitives/tools/skiving-knife.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:e090b424cbf289338375f189757d58df042df6a4c6ae62b8f084af776ef13fbf",
+        "id": "bone-folder-seed",
+        "path": "primitives/tools/bone-folder.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:559cac212867348d499580e67056922e315140752be1297bfca0635e84410ea0",
+        "id": "contact-cement-seed",
+        "path": "primitives/materials/contact-cement.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "skive-and-fold-an-edge",
+  "tags": [
+    "leatherwork-procedure",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

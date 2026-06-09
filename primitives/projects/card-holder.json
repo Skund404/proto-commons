@@ -1,0 +1,72 @@
+{
+  "content_hash": "sha256:a0ff650d64b19f6c92063cd6886bf1755a1398fd4199412fe9018a31c7090fa3",
+  "created": "2026-06-09",
+  "description": "A slim two- or three-pocket holder, saddle-stitched at the sides with burnished edges — a step up in stitching and edge work.",
+  "emitter": "opg://commons-seed",
+  "id": "card-holder-seed",
+  "kind": "project",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "card holder",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "card holder"
+      ]
+    },
+    "projectType": "leather-good",
+    "project_decl": {
+      "consumes": [
+        {
+          "kind_ann": "material[vegetable-tanned-leather]",
+          "name": "body"
+        },
+        {
+          "kind_ann": "material[waxed-polyester-thread]",
+          "name": "thread"
+        }
+      ],
+      "on_fail": "propagate",
+      "produces": "material[card-holder]"
+    },
+    "taxonomy": "leatherwork-project"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:f0b46b779f0867d6a8298f30ae671a128df2af36ca802c9744cacd97663fb9cf",
+        "id": "saddle-stitch-a-seam-seed",
+        "path": "primitives/workflows/saddle-stitch-a-seam.json"
+      },
+      "type": "based_on"
+    },
+    {
+      "target": {
+        "hash": "sha256:0729c9c19e5334aa1463ceedd2393ffaf2478fac192ec40c2733ddea0a330451",
+        "id": "vegetable-tanned-leather-seed",
+        "path": "primitives/materials/vegetable-tanned-leather.json"
+      },
+      "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:eeac2c78cecd79516572c5cd643ff836fd369d2128206d8eb279b088fd205f92",
+        "id": "waxed-polyester-thread-seed",
+        "path": "primitives/materials/waxed-polyester-thread.json"
+      },
+      "type": "consumes"
+    }
+  ],
+  "slug": "card-holder",
+  "tags": [
+    "leatherwork-project",
+    "leather-good"
+  ],
+  "visibility": "commons"
+}

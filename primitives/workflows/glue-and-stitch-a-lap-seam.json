@@ -1,0 +1,104 @@
+{
+  "content_hash": "sha256:d93289c5a2682def749a013eb8e21ee49276c51bb94fe1780f222aade3b3bbb3",
+  "created": "2026-06-09",
+  "description": "Cement two layers together for alignment, then saddle-stitch through the bonded lap for strength.",
+  "emitter": "opg://commons-seed",
+  "id": "glue-and-stitch-a-lap-seam-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "glue and stitch a lap seam",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "beginner",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "glue and stitch a lap seam"
+      ]
+    },
+    "steps": [
+      {
+        "description": "Cement the mating faces and press together.",
+        "position": 1
+      },
+      {
+        "description": "Punch the stitch holes through both layers.",
+        "position": 2
+      },
+      {
+        "description": "Saddle-stitch the lap seam.",
+        "position": 3
+      }
+    ],
+    "taxonomy": "leatherwork-procedure"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:350055ae24caba1cfc5b01c48ba6a021aed45c17474b6cd053e3aacce167caca",
+        "id": "leather-cementing-seed",
+        "path": "primitives/techniques/leather-cementing.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:8df0df24070a68acf34800563973b90b55d7836a66d9707f4edf2c388527f47c",
+        "id": "saddle-stitch-seed",
+        "path": "primitives/techniques/saddle-stitch.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:e090b424cbf289338375f189757d58df042df6a4c6ae62b8f084af776ef13fbf",
+        "id": "bone-folder-seed",
+        "path": "primitives/tools/bone-folder.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:0fd8d550c14adbb7460af0a93b42ff63273902a679193ec5c4f48c410547ce86",
+        "id": "diamond-stitching-chisel-seed",
+        "path": "primitives/tools/diamond-stitching-chisel.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:0a76eba6852450fa04398e4d92a364ee8d79a202e0c0108aa74c95fb1357c88d",
+        "id": "harness-needle-seed",
+        "path": "primitives/tools/harness-needle.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:559cac212867348d499580e67056922e315140752be1297bfca0635e84410ea0",
+        "id": "contact-cement-seed",
+        "path": "primitives/materials/contact-cement.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:eeac2c78cecd79516572c5cd643ff836fd369d2128206d8eb279b088fd205f92",
+        "id": "waxed-polyester-thread-seed",
+        "path": "primitives/materials/waxed-polyester-thread.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "glue-and-stitch-a-lap-seam",
+  "tags": [
+    "leatherwork-procedure",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,57 @@
+{
+  "content_hash": "sha256:49108219c8799b3290f4f90b0a1292d438ef4e5a12405fb9a468d86898b910a7",
+  "description": {
+    "en": "Take a raw edge to a smooth, sealed finish: bevel, sand, gum, and slick."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:aa158929134f460000f2e8ea65e3d924178e756a5b43b2a8156b5ab8ddce1e9b",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "edge-beveler"
+    },
+    {
+      "hash": "sha256:f6904e818c2a76baf99422eccf7c4359cbbe3f3d00bc3c2124602d6ca5d1b891",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "edge-slicker"
+    },
+    {
+      "hash": "sha256:8b978415c663673e25e390146404740098436862f865ddac2925cb8ab8b829aa",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "sanding-stick"
+    },
+    {
+      "hash": "sha256:e090b424cbf289338375f189757d58df042df6a4c6ae62b8f084af776ef13fbf",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "bone-folder"
+    },
+    {
+      "hash": "sha256:a5a88085ab4da25636a1224597cf30bb3735afc69a630154a580470ba3163672",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "edge-burnishing-gum"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Edge-finishing kit"
+  },
+  "record_class": "bundle",
+  "slug": "edge-finishing-kit",
+  "state": "open",
+  "successors": []
+}

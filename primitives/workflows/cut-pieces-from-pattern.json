@@ -1,0 +1,84 @@
+{
+  "content_hash": "sha256:bd8ac8491e233e0afbd19498d7267b634684df3534eb1f8f29bf45c73f1745ae",
+  "created": "2026-06-09",
+  "description": "Lay out a pattern and cut clean, accurate pieces — the start of every project.",
+  "emitter": "opg://commons-seed",
+  "id": "cut-pieces-from-pattern-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "cut pieces from pattern",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "beginner",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "cut pieces from pattern"
+      ]
+    },
+    "steps": [
+      {
+        "description": "Trace the pattern onto the leather.",
+        "position": 1
+      },
+      {
+        "description": "Cut the pieces against a straightedge on a mat.",
+        "position": 2
+      }
+    ],
+    "taxonomy": "leatherwork-procedure"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:23a364a775bede08ac7aec2f1e63eb826a4d3fc79c4a8fc3d83f08a39b2e762c",
+        "id": "cutting-to-pattern-seed",
+        "path": "primitives/techniques/cutting-to-pattern.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:6d4360afb4dcfb15c7cf453d5a5228f626e685fc0c6a645ed8e6d9502816a751",
+        "id": "head-knife-seed",
+        "path": "primitives/tools/head-knife.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:bedb5967cdbc46fb0916632310b2d09766ad86fb49d68d1b4476efc427cffce8",
+        "id": "cutting-mat-seed",
+        "path": "primitives/tools/cutting-mat.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:b7cc9d5529f84f9f0b630eba5103b273d192bcf66ce9a2ed6a0aa1ac10b53a92",
+        "id": "steel-ruler-seed",
+        "path": "primitives/tools/steel-ruler.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:0729c9c19e5334aa1463ceedd2393ffaf2478fac192ec40c2733ddea0a330451",
+        "id": "vegetable-tanned-leather-seed",
+        "path": "primitives/materials/vegetable-tanned-leather.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "cut-pieces-from-pattern",
+  "tags": [
+    "leatherwork-procedure",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

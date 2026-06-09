@@ -1,0 +1,57 @@
+{
+  "content_hash": "sha256:d8b97d97061cbc4a82da87db9ab4a0f5665a7a6555e0037c5dbebfd33e364c6f",
+  "description": {
+    "en": "A catalogue of the common leather tannages a beginner will meet."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:0729c9c19e5334aa1463ceedd2393ffaf2478fac192ec40c2733ddea0a330451",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "vegetable-tanned-leather"
+    },
+    {
+      "hash": "sha256:05c20b5e234a22bd5fad77d76a191688971a575c76fdbf86585ef89209d06708",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "oil-tanned-leather"
+    },
+    {
+      "hash": "sha256:fed69e40ed3a843bcd3b47b7beeba570cb13183d7b818f138d95958501ed98f1",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "chrome-tanned-leather"
+    },
+    {
+      "hash": "sha256:6f9bb820353f97155e94ef931c3ee3c7801a2506d3b0c347fd8903e3f9fc2b16",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "bridle-leather"
+    },
+    {
+      "hash": "sha256:d5f585297e5a2ee175ae70ff2174751c7612f2afa2a9c427093eadd23e3e156e",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "harness-leather"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Leather tannages"
+  },
+  "record_class": "bundle",
+  "slug": "leather-tannages",
+  "state": "open",
+  "successors": []
+}

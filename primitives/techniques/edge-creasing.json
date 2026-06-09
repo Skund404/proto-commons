@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:ff17b876ebcf8bde975714d7fbedab36b0d92cfd1e946e43d8bd99fa2e467aa7",
+  "created": "2026-06-09",
+  "description": "Press a fine bead line parallel to an edge or pocket top for a finished, framed look.",
+  "emitter": "opg://commons-seed",
+  "id": "edge-creasing-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "edge creasing",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "edge creasing"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "taxonomy": "finishing-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:72f0c200ce4839ce4f16ebf4c5bc01815ccd5d73741f7fad0f9a7c5577a18dc2",
+        "id": "edge-creaser-seed",
+        "path": "primitives/tools/edge-creaser.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "edge-creasing",
+  "tags": [
+    "finishing-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

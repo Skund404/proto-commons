@@ -1,0 +1,64 @@
+{
+  "content_hash": "sha256:3c11ecc7c31fa5256f60570c2c9b0cca0127747b8108a264edefa978e695bcfc",
+  "description": {
+    "en": "Punch and set the common closures and fasteners: rivets, snaps, and eyelets."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:08ac82582c5d694b4aeab894c1a834d9e4df8af5edb5b24806be5f4fccc7b088",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "rotary-punch"
+    },
+    {
+      "hash": "sha256:95fe8540d1ff0e0498625f8cbaa793a03b375b8b7cd8b28679ac69cab31c17da",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "rivet-setter"
+    },
+    {
+      "hash": "sha256:951bec84143dd1cf2727ea120e94d3d271a30dcb625d65af086a5cb2d6c6184e",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "snap-setter"
+    },
+    {
+      "hash": "sha256:7f6b5f5c281f1b32a1774c04d24952950e5be8e97db610d5fc4f981b2577f9bd",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "rivet"
+    },
+    {
+      "hash": "sha256:f8f07f5148c9d878bdce261f4e9a27a2177ccf093d667ecd3276c42241ecfcc8",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "snap-button"
+    },
+    {
+      "hash": "sha256:57dc3c13686f7d68577b1f4030db763462af58365f32ae23898896eed7e46785",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "eyelet"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Hardware-setting kit"
+  },
+  "record_class": "bundle",
+  "slug": "hardware-setting-kit",
+  "state": "open",
+  "successors": []
+}

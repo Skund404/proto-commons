@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:0f75e624d3431c6dd3dcb44b66a2771065c63d5a0dec5a5c535346089bb29dd4",
+  "created": "2026-06-09",
+  "description": "Scribe a guideline a set distance in from the edge so the stitch holes run straight and even.",
+  "emitter": "opg://commons-seed",
+  "id": "marking-a-stitch-line-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "marking a stitch line",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "marking a stitch line"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "stitching-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:e1f16efde104b0b17b16313666ceb9bb34091ad489a73a091b15ed9217dab06c",
+        "id": "wing-divider-seed",
+        "path": "primitives/tools/wing-divider.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "marking-a-stitch-line",
+  "tags": [
+    "stitching-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

@@ -966,6 +966,240 @@
       "related": [],
       "children": []
     },
+    "category/leatherwork-procedure": {
+      "id": "leatherwork-procedure",
+      "name": "leatherwork procedure",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/workflows/cut-pieces-from-pattern.json",
+          "slug": "cut-pieces-from-pattern",
+          "kind": "workflow",
+          "name": "cut pieces from pattern"
+        },
+        {
+          "ref": "primitives/workflows/finish-an-edge.json",
+          "slug": "finish-an-edge",
+          "kind": "workflow",
+          "name": "finish an edge"
+        },
+        {
+          "ref": "primitives/workflows/glue-and-stitch-a-lap-seam.json",
+          "slug": "glue-and-stitch-a-lap-seam",
+          "kind": "workflow",
+          "name": "glue and stitch a lap seam"
+        },
+        {
+          "ref": "primitives/workflows/leather-strap-construction.json",
+          "slug": "leather-strap-construction",
+          "kind": "workflow",
+          "name": "leather strap construction"
+        },
+        {
+          "ref": "primitives/workflows/saddle-stitch-a-seam.json",
+          "slug": "saddle-stitch-a-seam",
+          "kind": "workflow",
+          "name": "saddle-stitch a seam"
+        },
+        {
+          "ref": "primitives/workflows/set-a-line-of-hardware.json",
+          "slug": "set-a-line-of-hardware",
+          "kind": "workflow",
+          "name": "set a line of hardware"
+        },
+        {
+          "ref": "primitives/workflows/skive-and-fold-an-edge.json",
+          "slug": "skive-and-fold-an-edge",
+          "kind": "workflow",
+          "name": "skive and fold an edge"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/leatherwork-project": {
+      "id": "leatherwork-project",
+      "name": "leatherwork project",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/projects/card-holder.json",
+          "slug": "card-holder",
+          "kind": "project",
+          "name": "card holder"
+        },
+        {
+          "ref": "primitives/projects/drawstring-pouch.json",
+          "slug": "drawstring-pouch",
+          "kind": "project",
+          "name": "drawstring pouch"
+        },
+        {
+          "ref": "primitives/projects/key-fob.json",
+          "slug": "key-fob",
+          "kind": "project",
+          "name": "key fob"
+        },
+        {
+          "ref": "primitives/projects/phone-sling.json",
+          "slug": "phone-sling",
+          "kind": "project",
+          "name": "phone sling"
+        },
+        {
+          "ref": "primitives/projects/sunglasses-case.json",
+          "slug": "sunglasses-case",
+          "kind": "project",
+          "name": "sunglasses case"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/leatherwork-technique": {
+      "id": "leatherwork-technique",
+      "name": "leatherwork technique",
+      "parent": null,
+      "members": [],
+      "related": [],
+      "children": [
+        {
+          "id": "assembly-technique",
+          "name": "assembly technique",
+          "parent": "leatherwork-technique",
+          "members": [
+            {
+              "ref": "primitives/techniques/leather-cementing.json",
+              "slug": "leather-cementing",
+              "kind": "technique",
+              "name": "leather cementing"
+            },
+            {
+              "ref": "primitives/techniques/setting-a-rivet.json",
+              "slug": "setting-a-rivet",
+              "kind": "technique",
+              "name": "setting a rivet"
+            },
+            {
+              "ref": "primitives/techniques/setting-a-snap.json",
+              "slug": "setting-a-snap",
+              "kind": "technique",
+              "name": "setting a snap"
+            },
+            {
+              "ref": "primitives/techniques/wet-molding.json",
+              "slug": "wet-molding",
+              "kind": "technique",
+              "name": "wet molding"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "cutting-technique",
+          "name": "cutting technique",
+          "parent": "leatherwork-technique",
+          "members": [
+            {
+              "ref": "primitives/techniques/cutting-to-pattern.json",
+              "slug": "cutting-to-pattern",
+              "kind": "technique",
+              "name": "cutting to pattern"
+            },
+            {
+              "ref": "primitives/techniques/skiving.json",
+              "slug": "skiving",
+              "kind": "technique",
+              "name": "skiving"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "edge-technique",
+          "name": "edge technique",
+          "parent": "leatherwork-technique",
+          "members": [
+            {
+              "ref": "primitives/techniques/edge-beveling.json",
+              "slug": "edge-beveling",
+              "kind": "technique",
+              "name": "edge beveling"
+            },
+            {
+              "ref": "primitives/techniques/edge-burnishing.json",
+              "slug": "edge-burnishing",
+              "kind": "technique",
+              "name": "edge burnishing"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "finishing-technique",
+          "name": "finishing technique",
+          "parent": "leatherwork-technique",
+          "members": [
+            {
+              "ref": "primitives/techniques/edge-creasing.json",
+              "slug": "edge-creasing",
+              "kind": "technique",
+              "name": "edge creasing"
+            },
+            {
+              "ref": "primitives/techniques/edge-dyeing.json",
+              "slug": "edge-dyeing",
+              "kind": "technique",
+              "name": "edge dyeing"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "stitching-technique",
+          "name": "stitching technique",
+          "parent": "leatherwork-technique",
+          "members": [
+            {
+              "ref": "primitives/techniques/chisel-punching-stitch-holes.json",
+              "slug": "chisel-punching-stitch-holes",
+              "kind": "technique",
+              "name": "chisel-punching stitch holes"
+            },
+            {
+              "ref": "primitives/techniques/marking-a-stitch-line.json",
+              "slug": "marking-a-stitch-line",
+              "kind": "technique",
+              "name": "marking a stitch line"
+            },
+            {
+              "ref": "primitives/techniques/pricking-and-awl-stitching.json",
+              "slug": "pricking-and-awl-stitching",
+              "kind": "technique",
+              "name": "pricking and awl stitching"
+            },
+            {
+              "ref": "primitives/techniques/saddle-stitch.json",
+              "slug": "saddle-stitch",
+              "kind": "technique",
+              "name": "saddle stitch"
+            },
+            {
+              "ref": "primitives/techniques/searing-thread-ends.json",
+              "slug": "searing-thread-ends",
+              "kind": "technique",
+              "name": "searing thread ends"
+            }
+          ],
+          "related": [],
+          "children": []
+        }
+      ]
+    },
     "category/marking-tool": {
       "id": "marking-tool",
       "name": "marking tool",

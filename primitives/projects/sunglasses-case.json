@@ -1,0 +1,85 @@
+{
+  "content_hash": "sha256:0585b4b34a52fb38232de6927f4d8d26665ad9fe3afbbc017deffe424159006e",
+  "created": "2026-06-09",
+  "description": "A folded sleeve with a snap-closed belt loop, glued and stitched along the body — practice in lap seams and setting a snap.",
+  "emitter": "opg://commons-seed",
+  "id": "sunglasses-case-seed",
+  "kind": "project",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "sunglasses case",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "sunglasses case",
+        "glasses sleeve"
+      ]
+    },
+    "projectType": "leather-good",
+    "project_decl": {
+      "consumes": [
+        {
+          "kind_ann": "material[vegetable-tanned-leather]",
+          "name": "body"
+        },
+        {
+          "kind_ann": "material[waxed-polyester-thread]",
+          "name": "thread"
+        },
+        {
+          "kind_ann": "material[snap-button]",
+          "name": "snap"
+        }
+      ],
+      "on_fail": "propagate",
+      "produces": "material[sunglasses-case]"
+    },
+    "taxonomy": "leatherwork-project"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:d93289c5a2682def749a013eb8e21ee49276c51bb94fe1780f222aade3b3bbb3",
+        "id": "glue-and-stitch-a-lap-seam-seed",
+        "path": "primitives/workflows/glue-and-stitch-a-lap-seam.json"
+      },
+      "type": "based_on"
+    },
+    {
+      "target": {
+        "hash": "sha256:0729c9c19e5334aa1463ceedd2393ffaf2478fac192ec40c2733ddea0a330451",
+        "id": "vegetable-tanned-leather-seed",
+        "path": "primitives/materials/vegetable-tanned-leather.json"
+      },
+      "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:eeac2c78cecd79516572c5cd643ff836fd369d2128206d8eb279b088fd205f92",
+        "id": "waxed-polyester-thread-seed",
+        "path": "primitives/materials/waxed-polyester-thread.json"
+      },
+      "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:f8f07f5148c9d878bdce261f4e9a27a2177ccf093d667ecd3276c42241ecfcc8",
+        "id": "snap-button-seed",
+        "path": "primitives/materials/snap-button.json"
+      },
+      "type": "consumes"
+    }
+  ],
+  "slug": "sunglasses-case",
+  "tags": [
+    "leatherwork-project",
+    "leather-good"
+  ],
+  "visibility": "commons"
+}

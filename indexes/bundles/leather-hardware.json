@@ -1,0 +1,113 @@
+{
+  "content_hash": "sha256:50f875db3dc96f61604c409820a4fdfcd2ec7b9e7c0bae6bbcc0beb9e8b99c47",
+  "description": {
+    "en": "A catalogue of common closures, rings, hooks, and fasteners."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:7f6b5f5c281f1b32a1774c04d24952950e5be8e97db610d5fc4f981b2577f9bd",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "rivet"
+    },
+    {
+      "hash": "sha256:93d9e09b47cc06826a98cb7353a1ad777fb714209dbe2729b5ba1d69b88f6c14",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "double-cap-rivet"
+    },
+    {
+      "hash": "sha256:34b9547a8473bc1b9d66f909c6ee28980c4433917a9100270be94f97633bd954",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "chicago-screw"
+    },
+    {
+      "hash": "sha256:f8f07f5148c9d878bdce261f4e9a27a2177ccf093d667ecd3276c42241ecfcc8",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "snap-button"
+    },
+    {
+      "hash": "sha256:57651ce16af16d116b9acb9cb149b86791e96e72b3da3ae5813d46f3808defca",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "magnetic-snap"
+    },
+    {
+      "hash": "sha256:81e218c69b4d00e4a4737127bb40a6759411182e2071ec0d408f19abba0cec7d",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "buckle"
+    },
+    {
+      "hash": "sha256:754c25c6aaa592542092a16d9704cbee8cf6ecf85c781c670b2f33674e41d13d",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "button-stud"
+    },
+    {
+      "hash": "sha256:37e10778a58eaadfd2017ff2a04b56c76b45a3e896895ddd93eccd89e90d61cb",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "d-ring"
+    },
+    {
+      "hash": "sha256:4da4f131cb5b80cfac25ffb5c8416ae729f1db5bc44d9bc3a537f6a9bc87cd9a",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "o-ring"
+    },
+    {
+      "hash": "sha256:d7f56651a68b5f99fcbde919a8e5e55346a13279deb730df45549d12e5a4ae05",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "split-ring"
+    },
+    {
+      "hash": "sha256:0a7932598f0de264e462a4739847efc903c36e97ac5a0bf42775049cdba34615",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "snap-hook"
+    },
+    {
+      "hash": "sha256:57dc3c13686f7d68577b1f4030db763462af58365f32ae23898896eed7e46785",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "eyelet"
+    },
+    {
+      "hash": "sha256:71dd85d5c920bbc0762e01ce03072f3e5fbad86d938fa81419c3ff87ed0dab58",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "zipper"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Leather hardware"
+  },
+  "record_class": "bundle",
+  "slug": "leather-hardware",
+  "state": "open",
+  "successors": []
+}

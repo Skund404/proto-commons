@@ -1,0 +1,64 @@
+{
+  "content_hash": "sha256:7f473905822844f070938f3e356b3a4cfd3adfcaa2821f09bf29d9e8582d78cb",
+  "description": {
+    "en": "The layout-and-cut bench set: mark patterns, measure, and cut clean pieces."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:332e47b0439764db4481c8059314df6127bbdded5e81f91c74546afaacda3e49",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "scratch-awl"
+    },
+    {
+      "hash": "sha256:e1f16efde104b0b17b16313666ceb9bb34091ad489a73a091b15ed9217dab06c",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "wing-divider"
+    },
+    {
+      "hash": "sha256:6d4360afb4dcfb15c7cf453d5a5228f626e685fc0c6a645ed8e6d9502816a751",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "head-knife"
+    },
+    {
+      "hash": "sha256:bedb5967cdbc46fb0916632310b2d09766ad86fb49d68d1b4476efc427cffce8",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "cutting-mat"
+    },
+    {
+      "hash": "sha256:b7cc9d5529f84f9f0b630eba5103b273d192bcf66ce9a2ed6a0aa1ac10b53a92",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "steel-ruler"
+    },
+    {
+      "hash": "sha256:4bab477f910dd7be7bf348d002440399370211c360dc82b5bd822bf9fe970b73",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "strap-cutter"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Marking \u0026 cutting kit"
+  },
+  "record_class": "bundle",
+  "slug": "marking-and-cutting-kit",
+  "state": "open",
+  "successors": []
+}

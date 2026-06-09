@@ -1,0 +1,85 @@
+{
+  "content_hash": "sha256:d674300d2cb50a2b6c42f0965fb9c75e1da6b578542651b8ba8d38a9528161f7",
+  "created": "2026-06-09",
+  "description": "A short strap folded around a split ring and riveted closed — the classic first project: one cut, a punch, a rivet, and finished edges.",
+  "emitter": "opg://commons-seed",
+  "id": "key-fob-seed",
+  "kind": "project",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "key fob",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "key fob",
+        "key keeper"
+      ]
+    },
+    "projectType": "leather-good",
+    "project_decl": {
+      "consumes": [
+        {
+          "kind_ann": "material[vegetable-tanned-leather]",
+          "name": "body"
+        },
+        {
+          "kind_ann": "material[rivet]",
+          "name": "rivet"
+        },
+        {
+          "kind_ann": "material[split-ring]",
+          "name": "ring"
+        }
+      ],
+      "on_fail": "propagate",
+      "produces": "material[key-fob]"
+    },
+    "taxonomy": "leatherwork-project"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:eb79f77cfc086dd498a5baab484a26574dcd04450387c3bfc70ffb567f337cee",
+        "id": "leather-strap-construction-seed",
+        "path": "primitives/workflows/leather-strap-construction.json"
+      },
+      "type": "based_on"
+    },
+    {
+      "target": {
+        "hash": "sha256:0729c9c19e5334aa1463ceedd2393ffaf2478fac192ec40c2733ddea0a330451",
+        "id": "vegetable-tanned-leather-seed",
+        "path": "primitives/materials/vegetable-tanned-leather.json"
+      },
+      "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:7f6b5f5c281f1b32a1774c04d24952950e5be8e97db610d5fc4f981b2577f9bd",
+        "id": "rivet-seed",
+        "path": "primitives/materials/rivet.json"
+      },
+      "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:d7f56651a68b5f99fcbde919a8e5e55346a13279deb730df45549d12e5a4ae05",
+        "id": "split-ring-seed",
+        "path": "primitives/materials/split-ring.json"
+      },
+      "type": "consumes"
+    }
+  ],
+  "slug": "key-fob",
+  "tags": [
+    "leatherwork-project",
+    "leather-good"
+  ],
+  "visibility": "commons"
+}

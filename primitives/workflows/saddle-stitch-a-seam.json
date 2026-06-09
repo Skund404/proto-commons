@@ -1,0 +1,132 @@
+{
+  "content_hash": "sha256:f0b46b779f0867d6a8298f30ae671a128df2af36ca802c9744cacd97663fb9cf",
+  "created": "2026-06-09",
+  "description": "Join two pieces with a durable hand-sewn seam: mark, punch, stitch, and sear the ends.",
+  "emitter": "opg://commons-seed",
+  "id": "saddle-stitch-a-seam-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "saddle-stitch a seam",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "beginner",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "saddle-stitch a seam"
+      ]
+    },
+    "steps": [
+      {
+        "description": "Mark the stitch line.",
+        "position": 1
+      },
+      {
+        "description": "Punch the stitch holes.",
+        "position": 2
+      },
+      {
+        "description": "Saddle-stitch the seam in a pony.",
+        "position": 3
+      },
+      {
+        "description": "Trim and sear the thread ends.",
+        "position": 4
+      }
+    ],
+    "taxonomy": "leatherwork-procedure"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:0f75e624d3431c6dd3dcb44b66a2771065c63d5a0dec5a5c535346089bb29dd4",
+        "id": "marking-a-stitch-line-seed",
+        "path": "primitives/techniques/marking-a-stitch-line.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:714590ed69a0cb2d504746500bfdeaa39a4f8b36246a40fcb1cfc58a6c2a64ed",
+        "id": "chisel-punching-stitch-holes-seed",
+        "path": "primitives/techniques/chisel-punching-stitch-holes.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:8df0df24070a68acf34800563973b90b55d7836a66d9707f4edf2c388527f47c",
+        "id": "saddle-stitch-seed",
+        "path": "primitives/techniques/saddle-stitch.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:8f08f94e9e65a0655b1750d61eea84981a0ee3c8fbe46f521af300280449eb7b",
+        "id": "searing-thread-ends-seed",
+        "path": "primitives/techniques/searing-thread-ends.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:e1f16efde104b0b17b16313666ceb9bb34091ad489a73a091b15ed9217dab06c",
+        "id": "wing-divider-seed",
+        "path": "primitives/tools/wing-divider.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:0fd8d550c14adbb7460af0a93b42ff63273902a679193ec5c4f48c410547ce86",
+        "id": "diamond-stitching-chisel-seed",
+        "path": "primitives/tools/diamond-stitching-chisel.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:0a76eba6852450fa04398e4d92a364ee8d79a202e0c0108aa74c95fb1357c88d",
+        "id": "harness-needle-seed",
+        "path": "primitives/tools/harness-needle.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:e6b9f23dd34cfd371b19a93a8f4c0f0bf2c8198a8056068913b5ca8504a62c5d",
+        "id": "stitching-pony-seed",
+        "path": "primitives/tools/stitching-pony.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:17049b284fd1a801a91dec1950db2b72edbaa3c43c7f2a7a895424e06f5edc1e",
+        "id": "thread-zapper-seed",
+        "path": "primitives/tools/thread-zapper.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:eeac2c78cecd79516572c5cd643ff836fd369d2128206d8eb279b088fd205f92",
+        "id": "waxed-polyester-thread-seed",
+        "path": "primitives/materials/waxed-polyester-thread.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "saddle-stitch-a-seam",
+  "tags": [
+    "leatherwork-procedure",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

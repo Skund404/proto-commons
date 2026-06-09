@@ -1,0 +1,66 @@
+{
+  "content_hash": "sha256:df99c595f48612d1047eff7f97c57e043260018b026680ee5100bba21af40fce",
+  "created": "2026-06-09",
+  "description": "Punch a hole, seat the rivet's two parts, and dome the cap with a setter and mallet for a permanent join.",
+  "emitter": "opg://commons-seed",
+  "id": "setting-a-rivet-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "setting a rivet",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "setting a rivet"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "assembly-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:95fe8540d1ff0e0498625f8cbaa793a03b375b8b7cd8b28679ac69cab31c17da",
+        "id": "rivet-setter-seed",
+        "path": "primitives/tools/rivet-setter.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:04106192afaa39d0d16332874afe8fc5f1c6c97924977dff6c404317ede74d43",
+        "id": "hole-punch-seed",
+        "path": "primitives/tools/hole-punch.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:3c1ef7694ffe9a1832fc00e088e2bd8d1c230beb220cdfd1a28046d63482265d",
+        "id": "mallet-seed",
+        "path": "primitives/tools/mallet.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:7f6b5f5c281f1b32a1774c04d24952950e5be8e97db610d5fc4f981b2577f9bd",
+        "id": "rivet-seed",
+        "path": "primitives/materials/rivet.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "setting-a-rivet",
+  "tags": [
+    "assembly-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

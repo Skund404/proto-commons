@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:f13c2560602da05c4a3f89a281fcfc16207c203c7313aceb6609e50a6efcb345",
+  "created": "2026-06-09",
+  "description": "Trim the square corner off a cut edge so it rounds over and takes a clean burnish.",
+  "emitter": "opg://commons-seed",
+  "id": "edge-beveling-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "edge beveling",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "edge beveling"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "edge-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:aa158929134f460000f2e8ea65e3d924178e756a5b43b2a8156b5ab8ddce1e9b",
+        "id": "edge-beveler-seed",
+        "path": "primitives/tools/edge-beveler.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "edge-beveling",
+  "tags": [
+    "edge-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

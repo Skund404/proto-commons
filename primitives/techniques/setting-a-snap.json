@@ -1,0 +1,66 @@
+{
+  "content_hash": "sha256:c6b1f4f4f11c497ea972cf765b9c6d38ace16e2d9f86683cbf7ced4279f7f92d",
+  "created": "2026-06-09",
+  "description": "Punch the holes and join the four snap parts with a die set so the cap seats centered and clicks cleanly.",
+  "emitter": "opg://commons-seed",
+  "id": "setting-a-snap-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "setting a snap",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "setting a snap"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "assembly-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:951bec84143dd1cf2727ea120e94d3d271a30dcb625d65af086a5cb2d6c6184e",
+        "id": "snap-setter-seed",
+        "path": "primitives/tools/snap-setter.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:04106192afaa39d0d16332874afe8fc5f1c6c97924977dff6c404317ede74d43",
+        "id": "hole-punch-seed",
+        "path": "primitives/tools/hole-punch.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:3c1ef7694ffe9a1832fc00e088e2bd8d1c230beb220cdfd1a28046d63482265d",
+        "id": "mallet-seed",
+        "path": "primitives/tools/mallet.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:f8f07f5148c9d878bdce261f4e9a27a2177ccf093d667ecd3276c42241ecfcc8",
+        "id": "snap-button-seed",
+        "path": "primitives/materials/snap-button.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "setting-a-snap",
+  "tags": [
+    "assembly-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

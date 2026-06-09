@@ -1,0 +1,108 @@
+{
+  "content_hash": "sha256:850e63414bc4b5ce68cdae4158e20794f78f82cec8893c88e0d1fc271a99713b",
+  "created": "2026-06-09",
+  "description": "Mark, punch, and set rivets or snaps to fasten layers and attach hardware.",
+  "emitter": "opg://commons-seed",
+  "id": "set-a-line-of-hardware-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "set a line of hardware",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "beginner",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "set a line of hardware"
+      ]
+    },
+    "steps": [
+      {
+        "description": "Mark and punch the hardware holes.",
+        "position": 1
+      },
+      {
+        "description": "Set rivets or snaps with the matching setter.",
+        "position": 2
+      }
+    ],
+    "taxonomy": "leatherwork-procedure"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:df99c595f48612d1047eff7f97c57e043260018b026680ee5100bba21af40fce",
+        "id": "setting-a-rivet-seed",
+        "path": "primitives/techniques/setting-a-rivet.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:c6b1f4f4f11c497ea972cf765b9c6d38ace16e2d9f86683cbf7ced4279f7f92d",
+        "id": "setting-a-snap-seed",
+        "path": "primitives/techniques/setting-a-snap.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:08ac82582c5d694b4aeab894c1a834d9e4df8af5edb5b24806be5f4fccc7b088",
+        "id": "rotary-punch-seed",
+        "path": "primitives/tools/rotary-punch.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:95fe8540d1ff0e0498625f8cbaa793a03b375b8b7cd8b28679ac69cab31c17da",
+        "id": "rivet-setter-seed",
+        "path": "primitives/tools/rivet-setter.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:951bec84143dd1cf2727ea120e94d3d271a30dcb625d65af086a5cb2d6c6184e",
+        "id": "snap-setter-seed",
+        "path": "primitives/tools/snap-setter.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:3c1ef7694ffe9a1832fc00e088e2bd8d1c230beb220cdfd1a28046d63482265d",
+        "id": "mallet-seed",
+        "path": "primitives/tools/mallet.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:7f6b5f5c281f1b32a1774c04d24952950e5be8e97db610d5fc4f981b2577f9bd",
+        "id": "rivet-seed",
+        "path": "primitives/materials/rivet.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:f8f07f5148c9d878bdce261f4e9a27a2177ccf093d667ecd3276c42241ecfcc8",
+        "id": "snap-button-seed",
+        "path": "primitives/materials/snap-button.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "set-a-line-of-hardware",
+  "tags": [
+    "leatherwork-procedure",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

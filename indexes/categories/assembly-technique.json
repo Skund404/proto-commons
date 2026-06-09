@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "assembly-technique",
+  "names": {
+    "en": [
+      "assembly technique"
+    ]
+  },
+  "specializes": "leatherwork-technique"
+}
