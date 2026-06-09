@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:fab0e794002cdab2203c14684d74d1d52cfaa05c4f9237015f3e9b7c12565658",
+  "content_hash": "sha256:1b464c46764e92ebf1094f3109a3626eaf16fe9ee1bb56039796f3ff45565a0a",
   "description": {
     "en": "A catalogue of common closures, rings, hooks, and fasteners."
   },
@@ -109,5 +109,9 @@
   "record_class": "bundle",
   "slug": "leather-hardware",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "leatherwork",
+    "catalogue"
+  ]
 }

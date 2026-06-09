@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:cf04c1c3fbcfd9f52f4829b3c6df32c18296e7ea357a8b29262e45f5af67860d",
+  "content_hash": "sha256:027ddfc51b6db8734cffdde17984c044f839d5301264642b54b7a5e110ad946f",
   "description": {
     "en": "A catalogue of common berries in the commons."
   },
@@ -77,5 +77,9 @@
   "record_class": "bundle",
   "slug": "berries",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "produce",
+    "catalogue"
+  ]
 }

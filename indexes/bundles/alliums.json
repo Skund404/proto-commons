@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:08dc1fcbeeb11a4fa87c727ae3eafce8675980e0d089483eee9083aa7d5a4c25",
+  "content_hash": "sha256:3fa7e644f3a863dbc2758fa9ec81b1155056cdad2dad0c688c680fdea184819b",
   "description": {
     "en": "A catalogue of common alliums in the commons."
   },
@@ -63,5 +63,9 @@
   "record_class": "bundle",
   "slug": "alliums",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "produce",
+    "catalogue"
+  ]
 }

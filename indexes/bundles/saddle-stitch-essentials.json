@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:61f2e46439c28149fac500ce0cc1e6c56a55c7924f91b363c7e63fdd9bb9c5b8",
+  "content_hash": "sha256:94165396a9a2ec03bbfe0c6ef3a25b09bc6aaf466d4908e0b6164ad9b15edfbd",
   "description": {
     "en": "Everything to hand-stitch a seam the traditional way: punch, sew, and finish."
   },
@@ -67,5 +67,9 @@
   "record_class": "bundle",
   "slug": "saddle-stitch-essentials",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "leatherwork",
+    "kit"
+  ]
 }

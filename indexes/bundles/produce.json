@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:42cf3f35b77278955a83b86d95b851f713218bb332788606deeb5dd54b20e68c",
+  "content_hash": "sha256:ef7c86b0c64f6ff30694769c602b697a668b7e2966214be297a02fa18607ca0f",
   "description": {
     "en": "Master catalogue of all common produce in the commons: every fruit and vegetable, reached through the fruits and vegetables sub-catalogues."
   },
@@ -7,13 +7,13 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:771ac0c233eafa04b0ab980fd35e09bfa97f300c7082a8f249f6adc9d298f86d",
+      "hash": "sha256:9048cccfd2bdf7bae242c0afdde92e50c23ee12f622a019f64aaa4f2396132c0",
       "record_class": "bundle",
       "role": "optional",
       "slug": "fruits"
     },
     {
-      "hash": "sha256:a47c25b59b3a2dcfd11edc8dbcf8994fc7f60446ca3614d25dac5369df2d4589",
+      "hash": "sha256:ec85b8438d9bdc6784763c845884f9a2d6649090be34cecc818e441e302f2440",
       "record_class": "bundle",
       "role": "optional",
       "slug": "vegetables"
@@ -33,5 +33,9 @@
   "record_class": "bundle",
   "slug": "produce",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "produce",
+    "catalogue"
+  ]
 }

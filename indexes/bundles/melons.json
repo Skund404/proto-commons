@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:2143079a72e5166f1a50fe95fe173d251c390e99f5d085eed0e85626545c70df",
+  "content_hash": "sha256:8419044715b4fc6030dade836ba6dedc00518ecdc9199a4547aaaf9f0a9cf9d5",
   "description": {
     "en": "A catalogue of common melons in the commons."
   },
@@ -42,5 +42,9 @@
   "record_class": "bundle",
   "slug": "melons",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "produce",
+    "catalogue"
+  ]
 }

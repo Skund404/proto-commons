@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:784801d039b0e5c77396a3d7192dff9bfe96de8d06670a3d5fe55175cfeb4dbb",
+  "content_hash": "sha256:a7d2137076fd4334253de921ee28db2eec857f78fbafbe17db07d485416b16c1",
   "description": {
     "en": "A catalogue of common nightshades in the commons."
   },
@@ -49,5 +49,9 @@
   "record_class": "bundle",
   "slug": "nightshades",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "produce",
+    "catalogue"
+  ]
 }

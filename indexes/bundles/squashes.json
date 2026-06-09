@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:1ba715ac16e73963f44f1400ab5403c9298886bf02097294c4e62734487b4456",
+  "content_hash": "sha256:f75be436f8cd710e061167efb0663b3f24f02dbb9e358f430ba3079efac53cdf",
   "description": {
     "en": "A catalogue of common squashes \u0026 gourds in the commons."
   },
@@ -56,5 +56,9 @@
   "record_class": "bundle",
   "slug": "squashes",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "produce",
+    "catalogue"
+  ]
 }

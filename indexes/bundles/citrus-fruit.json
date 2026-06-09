@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:7edc5f7574231cf033970178d0508e5a928a37df901a464f2f5d480e7c78b49a",
+  "content_hash": "sha256:765d67c834f0d3ac357933ac6c80f4878aa8d9c963db5ac31b96f4ac76320f2a",
   "description": {
     "en": "A catalogue of common citrus fruit in the commons."
   },
@@ -77,5 +77,9 @@
   "record_class": "bundle",
   "slug": "citrus-fruit",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "produce",
+    "catalogue"
+  ]
 }

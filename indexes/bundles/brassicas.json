@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:e275c3f8163500b09de5867c384111fe167344d703198e1e8a75b2ab165b9347",
+  "content_hash": "sha256:5b60a255fd363cdad04a3f683ef9309cac5d3461ba7a9628f3ff61c01188b1c8",
   "description": {
     "en": "A catalogue of common brassicas in the commons."
   },
@@ -63,5 +63,9 @@
   "record_class": "bundle",
   "slug": "brassicas",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "produce",
+    "catalogue"
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:c56b11e594895c994ee09f6819b9a373a343350f1c4dd48316458b3607e05690",
+  "content_hash": "sha256:2cc9622df66750079b00abf45cd1ad2084b55b915a555cb1b7a30b937b794f7f",
   "description": {
     "en": "The complete beginner's bench, assembled from the marking/cutting, saddle-stitch, edge-finishing, and hardware kits plus veg-tan starter materials."
   },
@@ -7,31 +7,31 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:7175e0b3ff09265d8d51c695e515b08a092e046e7ddf3f48abf7f7771058b2d6",
+      "hash": "sha256:51756c6a1095cb8fcb97184a2af29a6eda76769aa2d6f6eb509b6f1ba3bd8290",
       "record_class": "bundle",
       "role": "required",
       "slug": "marking-and-cutting-kit"
     },
     {
-      "hash": "sha256:61f2e46439c28149fac500ce0cc1e6c56a55c7924f91b363c7e63fdd9bb9c5b8",
+      "hash": "sha256:94165396a9a2ec03bbfe0c6ef3a25b09bc6aaf466d4908e0b6164ad9b15edfbd",
       "record_class": "bundle",
       "role": "required",
       "slug": "saddle-stitch-essentials"
     },
     {
-      "hash": "sha256:54b29891a6e880f291a4bc72dd33de3d7ff0e98809dfa2419acb18da469aad84",
+      "hash": "sha256:875b82fda7c6703de50a0a1bababb5c062130c9450d4a42e7ab553e1ffd89b35",
       "record_class": "bundle",
       "role": "recommended",
       "slug": "edge-finishing-kit"
     },
     {
-      "hash": "sha256:64808ccde7a4897cec97863d10fd5ccb30ff7b1980e918d321027f3fb33daeaa",
+      "hash": "sha256:6ed2770b233d6de80996b93aa6a62d94ce29d3fa867d05d500296716aaa40d5b",
       "record_class": "bundle",
       "role": "recommended",
       "slug": "hardware-setting-kit"
     },
     {
-      "hash": "sha256:a51842e85654aa39cf6bb2eb391773e4eb227a9ba96de7a81f421fe2c954ec09",
+      "hash": "sha256:61716bf8ca5853f2f41205854d4a853ad641a989ed391d8ca4968f9b736fbd3c",
       "record_class": "bundle",
       "role": "required",
       "slug": "veg-tan-starter"
@@ -48,5 +48,9 @@
   "record_class": "bundle",
   "slug": "leatherwork-starter",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "leatherwork",
+    "kit"
+  ]
 }

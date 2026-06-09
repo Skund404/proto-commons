@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:771ac0c233eafa04b0ab980fd35e09bfa97f300c7082a8f249f6adc9d298f86d",
+  "content_hash": "sha256:9048cccfd2bdf7bae242c0afdde92e50c23ee12f622a019f64aaa4f2396132c0",
   "description": {
     "en": "Master catalogue of common fruits, grouped by family (citrus, berries, stone fruit, pome fruit, melons, tropical fruit, grapes)."
   },
@@ -7,43 +7,43 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:7edc5f7574231cf033970178d0508e5a928a37df901a464f2f5d480e7c78b49a",
+      "hash": "sha256:765d67c834f0d3ac357933ac6c80f4878aa8d9c963db5ac31b96f4ac76320f2a",
       "record_class": "bundle",
       "role": "optional",
       "slug": "citrus-fruit"
     },
     {
-      "hash": "sha256:cf04c1c3fbcfd9f52f4829b3c6df32c18296e7ea357a8b29262e45f5af67860d",
+      "hash": "sha256:027ddfc51b6db8734cffdde17984c044f839d5301264642b54b7a5e110ad946f",
       "record_class": "bundle",
       "role": "optional",
       "slug": "berries"
     },
     {
-      "hash": "sha256:a08ae80b01005820c4a6f58355470a70cd8cebaff8a1be44638d64946ff2214b",
+      "hash": "sha256:b3566210b15150aa401a51e42f612016e9bcfee1952a728136ca17f856105e0d",
       "record_class": "bundle",
       "role": "optional",
       "slug": "stone-fruit"
     },
     {
-      "hash": "sha256:bba89e13c2d8c3e0b57862d8f4566cda87b9acec1dcbe7fccaa8c6c47e3a397c",
+      "hash": "sha256:299d57a9decb6796c6adf90edbc0cccc6760283c1421c5cbfe00d2caeebbf82e",
       "record_class": "bundle",
       "role": "optional",
       "slug": "pome-fruit"
     },
     {
-      "hash": "sha256:2143079a72e5166f1a50fe95fe173d251c390e99f5d085eed0e85626545c70df",
+      "hash": "sha256:8419044715b4fc6030dade836ba6dedc00518ecdc9199a4547aaaf9f0a9cf9d5",
       "record_class": "bundle",
       "role": "optional",
       "slug": "melons"
     },
     {
-      "hash": "sha256:8c17307b6dca473b55ae691744199028bd606e083c190ed8a12406a7f549919a",
+      "hash": "sha256:9c5d717aab13bca5111e4b421b67a6db89c492a885b6f7e88bdcbbf8267c9909",
       "record_class": "bundle",
       "role": "optional",
       "slug": "tropical-fruit"
     },
     {
-      "hash": "sha256:4aff295e2b6174613acb8903d0cb7480ccd731503646cc51b6a472d57a4554e0",
+      "hash": "sha256:fd18bffc5b3e21ad166bbf3404d53687ee918fe02fdae98a7719bad79e88893a",
       "record_class": "bundle",
       "role": "optional",
       "slug": "grapes"
@@ -63,5 +63,9 @@
   "record_class": "bundle",
   "slug": "fruits",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "produce",
+    "catalogue"
+  ]
 }

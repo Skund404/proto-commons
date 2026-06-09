@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:a51842e85654aa39cf6bb2eb391773e4eb227a9ba96de7a81f421fe2c954ec09",
+  "content_hash": "sha256:61716bf8ca5853f2f41205854d4a853ad641a989ed391d8ca4968f9b736fbd3c",
   "description": {
     "en": "A starter set of consumables for a first veg-tan project: leather, glue, thread, dye, and edge gum."
   },
@@ -53,5 +53,9 @@
   "record_class": "bundle",
   "slug": "veg-tan-starter",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "leatherwork",
+    "kit"
+  ]
 }

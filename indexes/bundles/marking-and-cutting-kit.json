@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:7175e0b3ff09265d8d51c695e515b08a092e046e7ddf3f48abf7f7771058b2d6",
+  "content_hash": "sha256:51756c6a1095cb8fcb97184a2af29a6eda76769aa2d6f6eb509b6f1ba3bd8290",
   "description": {
     "en": "The layout-and-cut bench set: mark patterns, measure, and cut clean pieces."
   },
@@ -60,5 +60,9 @@
   "record_class": "bundle",
   "slug": "marking-and-cutting-kit",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "leatherwork",
+    "kit"
+  ]
 }

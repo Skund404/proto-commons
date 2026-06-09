@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:ca9e4213574d4202a629e9d41fc42c10bfe1d8181d83bc9e1be7c17643df58dc",
+  "content_hash": "sha256:92412aba734330b79f6df04c85095607b63d818fce37a804ee88ea287ddc3850",
   "description": {
     "en": "A catalogue of common leafy greens in the commons."
   },
@@ -77,5 +77,9 @@
   "record_class": "bundle",
   "slug": "leafy-greens",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "produce",
+    "catalogue"
+  ]
 }

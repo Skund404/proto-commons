@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:d6a3f29c77d4e0118e902f2244211d3aa2d517c7d25b949ac4a35b0fbe83f583",
+  "content_hash": "sha256:4721c156724afda13c7ad1ea55be26fa68ef7cb54a4b194da2167f4ac23b7f31",
   "description": {
     "en": "The key-fob project with the tools and materials to make it — a complete first build."
   },
@@ -74,5 +74,9 @@
   "record_class": "bundle",
   "slug": "key-fob-kit",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "leatherwork",
+    "kit"
+  ]
 }

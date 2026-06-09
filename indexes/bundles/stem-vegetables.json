@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:239a831c47565c3702ad452419ab834e24ec63990f223ee6eb5183ef7c5ff82b",
+  "content_hash": "sha256:04f4d5426cfd8d5ad3fdc4c0bcb90d971c10c8a62e8451e73e528b7699e9ee5b",
   "description": {
     "en": "A catalogue of common stem vegetables in the commons."
   },
@@ -56,5 +56,9 @@
   "record_class": "bundle",
   "slug": "stem-vegetables",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "produce",
+    "catalogue"
+  ]
 }

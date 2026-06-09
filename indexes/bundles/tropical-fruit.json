@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:8c17307b6dca473b55ae691744199028bd606e083c190ed8a12406a7f549919a",
+  "content_hash": "sha256:9c5d717aab13bca5111e4b421b67a6db89c492a885b6f7e88bdcbbf8267c9909",
   "description": {
     "en": "A catalogue of common tropical fruit in the commons."
   },
@@ -126,5 +126,9 @@
   "record_class": "bundle",
   "slug": "tropical-fruit",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "produce",
+    "catalogue"
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:bba89e13c2d8c3e0b57862d8f4566cda87b9acec1dcbe7fccaa8c6c47e3a397c",
+  "content_hash": "sha256:299d57a9decb6796c6adf90edbc0cccc6760283c1421c5cbfe00d2caeebbf82e",
   "description": {
     "en": "A catalogue of common pome fruit in the commons."
   },
@@ -42,5 +42,9 @@
   "record_class": "bundle",
   "slug": "pome-fruit",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "produce",
+    "catalogue"
+  ]
 }

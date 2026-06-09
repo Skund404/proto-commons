@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:e207e39d5c45d1fa6a630411ffb4b647ab6baa5f3aca96f711f82190f382ac46",
+  "content_hash": "sha256:c482d13b1691cec9cb20cdf6532833a484c86f5565d7ba6c30c67e388964315d",
   "description": {
     "en": "A catalogue of dyes, oils, conditioners, and edge agents."
   },
@@ -81,5 +81,9 @@
   "record_class": "bundle",
   "slug": "leather-finishes",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "leatherwork",
+    "catalogue"
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:638aceaf030583af47cc8577087846dc7ec3947756b6e927114c2993a9a441ca",
+  "content_hash": "sha256:ad5a2795d02f76c72791df7f37f9b2307403987e31bb85de424264a9dbcd74fa",
   "description": {
     "en": "A catalogue of common legumes in the commons."
   },
@@ -70,5 +70,9 @@
   "record_class": "bundle",
   "slug": "legumes",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "produce",
+    "catalogue"
+  ]
 }

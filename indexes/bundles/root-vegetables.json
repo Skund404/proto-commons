@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:a5cbe2a03b4d78be41ac83244b6e42f4d787956ba4572e46a37c39ba053e2c73",
+  "content_hash": "sha256:59938e6d0f89f16363b5f9dac890b602828d48bb60c85cf2e230d9e0fc566bb5",
   "description": {
     "en": "A catalogue of common root vegetables in the commons."
   },
@@ -98,5 +98,9 @@
   "record_class": "bundle",
   "slug": "root-vegetables",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "produce",
+    "catalogue"
+  ]
 }

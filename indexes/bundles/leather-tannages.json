@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:d0794ac3fc14177a775af9d9449f7acbfdd0e98eeb04697dda59253cc990bf27",
+  "content_hash": "sha256:5227ecd63efe99b5c2470ba349d23fdc4555962e270885ec0917c6ddf9d5052f",
   "description": {
     "en": "A catalogue of the common leather tannages a beginner will meet."
   },
@@ -53,5 +53,9 @@
   "record_class": "bundle",
   "slug": "leather-tannages",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "leatherwork",
+    "catalogue"
+  ]
 }

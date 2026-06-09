@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:4aff295e2b6174613acb8903d0cb7480ccd731503646cc51b6a472d57a4554e0",
+  "content_hash": "sha256:fd18bffc5b3e21ad166bbf3404d53687ee918fe02fdae98a7719bad79e88893a",
   "description": {
     "en": "A catalogue of common grapes in the commons."
   },
@@ -28,5 +28,9 @@
   "record_class": "bundle",
   "slug": "grapes",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "produce",
+    "catalogue"
+  ]
 }

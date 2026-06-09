@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:64808ccde7a4897cec97863d10fd5ccb30ff7b1980e918d321027f3fb33daeaa",
+  "content_hash": "sha256:6ed2770b233d6de80996b93aa6a62d94ce29d3fa867d05d500296716aaa40d5b",
   "description": {
     "en": "Punch and set the common closures and fasteners: rivets, snaps, and eyelets."
   },
@@ -60,5 +60,9 @@
   "record_class": "bundle",
   "slug": "hardware-setting-kit",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "leatherwork",
+    "kit"
+  ]
 }

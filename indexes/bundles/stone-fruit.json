@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:a08ae80b01005820c4a6f58355470a70cd8cebaff8a1be44638d64946ff2214b",
+  "content_hash": "sha256:b3566210b15150aa401a51e42f612016e9bcfee1952a728136ca17f856105e0d",
   "description": {
     "en": "A catalogue of common stone fruit in the commons."
   },
@@ -56,5 +56,9 @@
   "record_class": "bundle",
   "slug": "stone-fruit",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "produce",
+    "catalogue"
+  ]
 }

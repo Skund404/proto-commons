@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:54b29891a6e880f291a4bc72dd33de3d7ff0e98809dfa2419acb18da469aad84",
+  "content_hash": "sha256:875b82fda7c6703de50a0a1bababb5c062130c9450d4a42e7ab553e1ffd89b35",
   "description": {
     "en": "Take a raw edge to a smooth, sealed finish: bevel, sand, gum, and slick."
   },
@@ -53,5 +53,9 @@
   "record_class": "bundle",
   "slug": "edge-finishing-kit",
   "state": "open",
-  "successors": []
+  "successors": [],
+  "tags": [
+    "leatherwork",
+    "kit"
+  ]
 }
