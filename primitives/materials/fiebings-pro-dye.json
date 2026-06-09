@@ -1,0 +1,37 @@
+{
+  "content_hash": "sha256:51f4b6e96917362e901bec987afe779fb1965bf8274f851896f48c1840893707",
+  "created": "2026-06-09",
+  "description": "Fiebing's Pro Dye — a penetrating oil-based leather dye, a long-standing North-American reference for even, colorfast coverage on veg-tan.",
+  "emitter": "opg://commons-seed",
+  "id": "fiebings-pro-dye-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "Fiebing's Pro Dye",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "manufacturer": "Fiebing",
+    "materialType": "leather-care",
+    "model": "Pro Dye",
+    "names": {
+      "en": [
+        "Fiebing's Pro Dye",
+        "Fiebing Pro Dye"
+      ]
+    },
+    "origin": "USA",
+    "taxonomy": "leather-finish",
+    "unit": "ml"
+  },
+  "slug": "fiebings-pro-dye",
+  "tags": [
+    "leather-care",
+    "leather-finish"
+  ],
+  "visibility": "commons"
+}

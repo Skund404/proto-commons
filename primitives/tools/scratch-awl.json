@@ -1,0 +1,32 @@
+{
+  "content_hash": "sha256:332e47b0439764db4481c8059314df6127bbdded5e81f91c74546afaacda3e49",
+  "created": "2026-06-09",
+  "description": "A sharp single point for scoring layout lines, tracing patterns onto leather, and general marking.",
+  "emitter": "opg://commons-seed",
+  "id": "scratch-awl-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "scratch awl",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "marking",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "scratch awl"
+      ]
+    },
+    "taxonomy": "scratch-awl"
+  },
+  "slug": "scratch-awl",
+  "tags": [
+    "marking",
+    "scratch-awl"
+  ],
+  "visibility": "commons"
+}

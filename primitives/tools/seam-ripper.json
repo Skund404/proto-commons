@@ -1,0 +1,32 @@
+{
+  "content_hash": "sha256:8861bf8fa5b9537f9f607f7e3d5bd16fdffb5038f19f182a98d6b911747556e4",
+  "created": "2026-06-09",
+  "description": "A hooked point for lifting and cutting stitches to undo a run without nicking the leather.",
+  "emitter": "opg://commons-seed",
+  "id": "seam-ripper-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "seam ripper",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "stitching",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "seam ripper"
+      ]
+    },
+    "taxonomy": "stitching-tool"
+  },
+  "slug": "seam-ripper",
+  "tags": [
+    "stitching",
+    "stitching-tool"
+  ],
+  "visibility": "commons"
+}

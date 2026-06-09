@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:c668511889dda1647fc61a395a56a1f78557d81bad8604f48c8fc7e03462d940",
+  "created": "2026-06-09",
+  "description": "A soft, napped split with a velvety surface; used for linings, backings and lightweight goods rather than structure.",
+  "emitter": "opg://commons-seed",
+  "id": "suede-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "suede",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "leather",
+    "names": {
+      "en": [
+        "suede"
+      ]
+    },
+    "taxonomy": "suede",
+    "unit": "sqft"
+  },
+  "slug": "suede",
+  "tags": [
+    "leather",
+    "suede"
+  ],
+  "visibility": "commons"
+}

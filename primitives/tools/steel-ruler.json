@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:b7cc9d5529f84f9f0b630eba5103b273d192bcf66ce9a2ed6a0aa1ac10b53a92",
+  "created": "2026-06-09",
+  "description": "A cork-backed metal rule that measures and guides the knife without the blade shaving its edge.",
+  "emitter": "opg://commons-seed",
+  "id": "steel-ruler-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "steel ruler",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "cutting",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "steel ruler",
+        "metal straightedge"
+      ]
+    },
+    "taxonomy": "cutting-tool"
+  },
+  "slug": "steel-ruler",
+  "tags": [
+    "cutting",
+    "cutting-tool"
+  ],
+  "visibility": "commons"
+}

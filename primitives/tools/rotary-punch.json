@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:08ac82582c5d694b4aeab894c1a834d9e4df8af5edb5b24806be5f4fccc7b088",
+  "created": "2026-06-09",
+  "description": "A revolving head of graduated tubes that punches clean round holes in several sizes for hardware.",
+  "emitter": "opg://commons-seed",
+  "id": "rotary-punch-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "rotary punch",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "punching",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "rotary punch",
+        "revolving punch"
+      ]
+    },
+    "taxonomy": "punching-tool"
+  },
+  "slug": "rotary-punch",
+  "tags": [
+    "punching",
+    "punching-tool"
+  ],
+  "visibility": "commons"
+}

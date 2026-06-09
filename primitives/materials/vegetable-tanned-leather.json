@@ -1,0 +1,35 @@
+{
+  "content_hash": "sha256:0729c9c19e5334aa1463ceedd2393ffaf2478fac192ec40c2733ddea0a330451",
+  "created": "2026-06-09",
+  "description": "Hide tanned with plant tannins: firm, carves and tools well, and the natural choice for structural work and wet-molding. Patinas with use.",
+  "emitter": "opg://commons-seed",
+  "id": "vegetable-tanned-leather-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "vegetable-tanned leather",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "leather",
+    "names": {
+      "en": [
+        "vegetable-tanned leather",
+        "veg-tan",
+        "veg-tan leather"
+      ]
+    },
+    "taxonomy": "vegetable-tanned-leather",
+    "unit": "sqft"
+  },
+  "slug": "vegetable-tanned-leather",
+  "tags": [
+    "leather",
+    "vegetable-tanned-leather"
+  ],
+  "visibility": "commons"
+}

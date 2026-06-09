@@ -1,0 +1,37 @@
+{
+  "content_hash": "sha256:541242074a53c98d97a786a76393156b396bb47dd78d332a7d06be97b8f7a833",
+  "created": "2026-06-09",
+  "description": "Julius Koch's Ritza 25 'Tiger' — a flat, finely braided, lightly waxed polyester thread (0.6-1.7 mm) that is a de-facto hand-stitching standard, widely stocked across North America.",
+  "emitter": "opg://commons-seed",
+  "id": "ritza-tiger-thread-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "Ritza 25 thread",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "manufacturer": "Julius Koch",
+    "materialType": "thread",
+    "model": "Ritza 25 “Tiger”",
+    "names": {
+      "en": [
+        "Ritza 25 thread",
+        "Tiger thread"
+      ]
+    },
+    "origin": "Germany",
+    "taxonomy": "thread",
+    "unit": "m"
+  },
+  "slug": "ritza-tiger-thread",
+  "tags": [
+    "thread",
+    "thread"
+  ],
+  "visibility": "commons"
+}

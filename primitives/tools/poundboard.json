@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:f888aa5dfa8502acc593c38e5c17213dd8e25df5e7b3b16dcf507d6912172c35",
+  "created": "2026-06-09",
+  "description": "A dense poly or rubber slab under the work that protects punch and chisel edges and quiets the strike.",
+  "emitter": "opg://commons-seed",
+  "id": "poundboard-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "poundboard",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "punching",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "poundboard",
+        "punching board"
+      ]
+    },
+    "taxonomy": "punching-tool"
+  },
+  "slug": "poundboard",
+  "tags": [
+    "punching",
+    "punching-tool"
+  ],
+  "visibility": "commons"
+}

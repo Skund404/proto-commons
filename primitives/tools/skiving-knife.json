@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:d5fbd50a7ef105c1ddd1da87e0dce0837724db0581c7e1be944f46ba4e5a043c",
+  "created": "2026-06-09",
+  "description": "A flat bevelled blade for thinning leather where it folds or overlaps so seams stay slim.",
+  "emitter": "opg://commons-seed",
+  "id": "skiving-knife-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "skiving knife",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "cutting",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "skiving knife",
+        "paring knife"
+      ]
+    },
+    "taxonomy": "cutting-knife"
+  },
+  "slug": "skiving-knife",
+  "tags": [
+    "cutting",
+    "cutting-knife"
+  ],
+  "visibility": "commons"
+}

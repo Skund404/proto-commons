@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:49f9e8ab0a8c9fe7b65da3900986be3dc4ca1ba4bc393ae6024a3b00a3f819fe",
+  "created": "2026-06-09",
+  "description": "Shaves a stacked, glued edge flat and even so the layers read as one before finishing.",
+  "emitter": "opg://commons-seed",
+  "id": "edge-planer-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "edge planer",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "edgework",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "edge planer",
+        "edge trimmer"
+      ]
+    },
+    "taxonomy": "edgework-tool"
+  },
+  "slug": "edge-planer",
+  "tags": [
+    "edgework",
+    "edgework-tool"
+  ],
+  "visibility": "commons"
+}

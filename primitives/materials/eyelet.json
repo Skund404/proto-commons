@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:57dc3c13686f7d68577b1f4030db763462af58365f32ae23898896eed7e46785",
+  "created": "2026-06-09",
+  "description": "A metal ring set into a punched hole to reinforce it for lacing, cord or drawstrings.",
+  "emitter": "opg://commons-seed",
+  "id": "eyelet-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "eyelet",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "hardware",
+    "names": {
+      "en": [
+        "eyelet",
+        "grommet"
+      ]
+    },
+    "taxonomy": "fastener",
+    "unit": "piece"
+  },
+  "slug": "eyelet",
+  "tags": [
+    "hardware",
+    "fastener"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:9cdb2de58fe2dd99144dfdc61afbd9c90325491c14f5ef68079e74c63e45394a",
+  "created": "2026-06-09",
+  "description": "Penetrating color for leather and edges, applied by dauber, brush or airbrush before sealing and finishing.",
+  "emitter": "opg://commons-seed",
+  "id": "leather-dye-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "leather dye",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "leather-care",
+    "names": {
+      "en": [
+        "leather dye"
+      ]
+    },
+    "taxonomy": "leather-finish",
+    "unit": "ml"
+  },
+  "slug": "leather-dye",
+  "tags": [
+    "leather-care",
+    "leather-finish"
+  ],
+  "visibility": "commons"
+}

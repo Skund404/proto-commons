@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:3c1ef7694ffe9a1832fc00e088e2bd8d1c230beb220cdfd1a28046d63482265d",
+  "created": "2026-06-09",
+  "description": "A non-marring poly, rawhide or wooden head for driving chisels and punches and setting hardware — never steel-faced.",
+  "emitter": "opg://commons-seed",
+  "id": "mallet-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "mallet",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "punching",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "mallet",
+        "leather mallet"
+      ]
+    },
+    "taxonomy": "mallet"
+  },
+  "slug": "mallet",
+  "tags": [
+    "punching",
+    "mallet"
+  ],
+  "visibility": "commons"
+}

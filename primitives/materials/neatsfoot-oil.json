@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:9089c2ecfa0f2be38447720115c36588205e7278ebafb9a973f9e4537025c473",
+  "created": "2026-06-09",
+  "description": "A conditioning oil that restores suppleness and deepens color in veg-tan; applied sparingly to avoid over-softening.",
+  "emitter": "opg://commons-seed",
+  "id": "neatsfoot-oil-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "neatsfoot oil",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "leather-care",
+    "names": {
+      "en": [
+        "neatsfoot oil"
+      ]
+    },
+    "taxonomy": "leather-finish",
+    "unit": "ml"
+  },
+  "slug": "neatsfoot-oil",
+  "tags": [
+    "leather-care",
+    "leather-finish"
+  ],
+  "visibility": "commons"
+}

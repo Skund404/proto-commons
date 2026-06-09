@@ -1,0 +1,36 @@
+{
+  "content_hash": "sha256:c48ea340975130490c9b4e3f2b5a123bb067a6bc5ec845eec87f427a5e91a92d",
+  "created": "2026-06-09",
+  "description": "C.S. Osborne diamond awl — the long-established American saddler-tool reference for diamond-awl stitch quality (blade #58 fitted in haft #145).",
+  "emitter": "opg://commons-seed",
+  "id": "osborne-diamond-awl-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "Osborne diamond awl",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "punching",
+    "license": "CC-BY-4.0",
+    "manufacturer": "C.S. Osborne",
+    "model": "Diamond awl blade #58 (haft #145)",
+    "names": {
+      "en": [
+        "Osborne diamond awl",
+        "C.S. Osborne diamond awl"
+      ]
+    },
+    "origin": "USA",
+    "taxonomy": "diamond-awl"
+  },
+  "slug": "osborne-diamond-awl",
+  "tags": [
+    "punching",
+    "diamond-awl"
+  ],
+  "visibility": "commons"
+}

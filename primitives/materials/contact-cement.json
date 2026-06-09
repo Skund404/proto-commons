@@ -1,0 +1,35 @@
+{
+  "content_hash": "sha256:559cac212867348d499580e67056922e315140752be1297bfca0635e84410ea0",
+  "created": "2026-06-09",
+  "description": "A water-based contact adhesive applied to both faces and bonded under pressure to hold pieces aligned for stitching.",
+  "emitter": "opg://commons-seed",
+  "id": "contact-cement-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "contact cement",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "adhesive",
+    "names": {
+      "en": [
+        "contact cement",
+        "leather glue",
+        "contact adhesive"
+      ]
+    },
+    "taxonomy": "adhesive",
+    "unit": "ml"
+  },
+  "slug": "contact-cement",
+  "tags": [
+    "adhesive",
+    "adhesive"
+  ],
+  "visibility": "commons"
+}

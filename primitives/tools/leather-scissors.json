@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:e89a7ca1bc2ec7301a0261ed1e21d9fff15b57a064cf27caccb455fb32fa6b7d",
+  "created": "2026-06-09",
+  "description": "Heavy shears for trimming thread and cutting thinner leathers and linings.",
+  "emitter": "opg://commons-seed",
+  "id": "leather-scissors-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "leather scissors",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "cutting",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "leather scissors",
+        "leather shears"
+      ]
+    },
+    "taxonomy": "cutting-tool"
+  },
+  "slug": "leather-scissors",
+  "tags": [
+    "cutting",
+    "cutting-tool"
+  ],
+  "visibility": "commons"
+}

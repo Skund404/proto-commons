@@ -1,0 +1,32 @@
+{
+  "content_hash": "sha256:951bec84143dd1cf2727ea120e94d3d271a30dcb625d65af086a5cb2d6c6184e",
+  "created": "2026-06-09",
+  "description": "A die set that joins the four parts of a snap fastener so the cap seats centered and clean.",
+  "emitter": "opg://commons-seed",
+  "id": "snap-setter-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "snap setter",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "setting",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "snap setter"
+      ]
+    },
+    "taxonomy": "setting-tool"
+  },
+  "slug": "snap-setter",
+  "tags": [
+    "setting",
+    "setting-tool"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,32 @@
+{
+  "content_hash": "sha256:da620bc5e9bd61cf5e45f266fc2646c51d71073446b10cbc23c3f1123fdd1510",
+  "created": "2026-06-09",
+  "description": "A weighted, tapered poly head that delivers a controlled, rolling strike — the bench upgrade from a flat mallet.",
+  "emitter": "opg://commons-seed",
+  "id": "maul-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "maul",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "punching",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "maul"
+      ]
+    },
+    "taxonomy": "maul"
+  },
+  "slug": "maul",
+  "tags": [
+    "punching",
+    "maul"
+  ],
+  "visibility": "commons"
+}

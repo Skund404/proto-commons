@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:f6904e818c2a76baf99422eccf7c4359cbbe3f3d00bc3c2124602d6ca5d1b891",
+  "created": "2026-06-09",
+  "description": "A grooved wood or poly tool rubbed along a dampened edge to friction-polish the fibers to a hard sheen.",
+  "emitter": "opg://commons-seed",
+  "id": "edge-slicker-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "edge slicker",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "edgework",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "edge slicker",
+        "burnisher"
+      ]
+    },
+    "taxonomy": "edgework-tool"
+  },
+  "slug": "edge-slicker",
+  "tags": [
+    "edgework",
+    "edgework-tool"
+  ],
+  "visibility": "commons"
+}

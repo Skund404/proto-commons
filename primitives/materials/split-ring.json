@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:d7f56651a68b5f99fcbde919a8e5e55346a13279deb730df45549d12e5a4ae05",
+  "created": "2026-06-09",
+  "description": "A coiled ring for holding keys and charms onto a fob or strap.",
+  "emitter": "opg://commons-seed",
+  "id": "split-ring-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "split ring",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "hardware",
+    "names": {
+      "en": [
+        "split ring",
+        "key ring"
+      ]
+    },
+    "taxonomy": "ring-and-hook",
+    "unit": "piece"
+  },
+  "slug": "split-ring",
+  "tags": [
+    "hardware",
+    "ring-and-hook"
+  ],
+  "visibility": "commons"
+}

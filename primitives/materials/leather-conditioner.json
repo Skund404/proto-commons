@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:ea5b0b2834ab1b75ac746dfab8e542a098d37ad127a304c59b97602e58e449fe",
+  "created": "2026-06-09",
+  "description": "A blend of oils and waxes that keeps finished leather supple and guards against drying and cracking.",
+  "emitter": "opg://commons-seed",
+  "id": "leather-conditioner-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "leather conditioner",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "leather-care",
+    "names": {
+      "en": [
+        "leather conditioner",
+        "leather balm"
+      ]
+    },
+    "taxonomy": "leather-finish",
+    "unit": "ml"
+  },
+  "slug": "leather-conditioner",
+  "tags": [
+    "leather-care",
+    "leather-finish"
+  ],
+  "visibility": "commons"
+}

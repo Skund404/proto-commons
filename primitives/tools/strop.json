@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:1b9458930fa3671bce3ca9eedd8b549ee8323f82f1e0cbfbd37c30ec3ed7b184",
+  "created": "2026-06-09",
+  "description": "A leather strip charged with polishing compound for honing a blade to a final, slicing-sharp finish.",
+  "emitter": "opg://commons-seed",
+  "id": "strop-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "strop",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "sharpening",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "strop",
+        "strop and compound"
+      ]
+    },
+    "taxonomy": "sharpening-tool"
+  },
+  "slug": "strop",
+  "tags": [
+    "sharpening",
+    "sharpening-tool"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,32 @@
+{
+  "content_hash": "sha256:72f0c200ce4839ce4f16ebf4c5bc01815ccd5d73741f7fad0f9a7c5577a18dc2",
+  "created": "2026-06-09",
+  "description": "Presses a fine decorative bead line parallel to an edge or pocket top for a finished, framed look.",
+  "emitter": "opg://commons-seed",
+  "id": "edge-creaser-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "edge creaser",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "marking",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "edge creaser"
+      ]
+    },
+    "taxonomy": "marking-tool"
+  },
+  "slug": "edge-creaser",
+  "tags": [
+    "marking",
+    "marking-tool"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,35 @@
+{
+  "content_hash": "sha256:0a7932598f0de264e462a4739847efc903c36e97ac5a0bf42775049cdba34615",
+  "created": "2026-06-09",
+  "description": "A spring-gated hook for clipping a strap to a ring — quick to attach and release.",
+  "emitter": "opg://commons-seed",
+  "id": "snap-hook-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "snap hook",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "hardware",
+    "names": {
+      "en": [
+        "snap hook",
+        "trigger snap",
+        "lever snap"
+      ]
+    },
+    "taxonomy": "ring-and-hook",
+    "unit": "piece"
+  },
+  "slug": "snap-hook",
+  "tags": [
+    "hardware",
+    "ring-and-hook"
+  ],
+  "visibility": "commons"
+}

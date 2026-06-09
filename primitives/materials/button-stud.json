@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:754c25c6aaa592542092a16d9704cbee8cf6ecf85c781c670b2f33674e41d13d",
+  "created": "2026-06-09",
+  "description": "A post-and-disc stud that a slotted strap or keeper slips over — a tidy closure for wallets and cases.",
+  "emitter": "opg://commons-seed",
+  "id": "button-stud-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "button stud",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "hardware",
+    "names": {
+      "en": [
+        "button stud",
+        "Sam Browne stud"
+      ]
+    },
+    "taxonomy": "closure",
+    "unit": "piece"
+  },
+  "slug": "button-stud",
+  "tags": [
+    "hardware",
+    "closure"
+  ],
+  "visibility": "commons"
+}

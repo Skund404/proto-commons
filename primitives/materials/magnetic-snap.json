@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:57651ce16af16d116b9acb9cb149b86791e96e72b3da3ae5813d46f3808defca",
+  "created": "2026-06-09",
+  "description": "A pair of magnetic discs set into the leather for a quiet, low-profile bag or flap closure.",
+  "emitter": "opg://commons-seed",
+  "id": "magnetic-snap-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "magnetic snap",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "hardware",
+    "names": {
+      "en": [
+        "magnetic snap"
+      ]
+    },
+    "taxonomy": "closure",
+    "unit": "piece"
+  },
+  "slug": "magnetic-snap",
+  "tags": [
+    "hardware",
+    "closure"
+  ],
+  "visibility": "commons"
+}

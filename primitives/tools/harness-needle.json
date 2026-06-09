@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:0a76eba6852450fa04398e4d92a364ee8d79a202e0c0108aa74c95fb1357c88d",
+  "created": "2026-06-09",
+  "description": "A blunt, large-eye needle that passes through pre-made holes without snagging the thread or your fingers.",
+  "emitter": "opg://commons-seed",
+  "id": "harness-needle-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "harness needle",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "stitching",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "harness needle",
+        "saddler's needle"
+      ]
+    },
+    "taxonomy": "stitching-tool"
+  },
+  "slug": "harness-needle",
+  "tags": [
+    "stitching",
+    "stitching-tool"
+  ],
+  "visibility": "commons"
+}

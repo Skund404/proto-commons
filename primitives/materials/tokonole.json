@@ -1,0 +1,37 @@
+{
+  "content_hash": "sha256:102a235fcd0bc8d7186c53f10533d39786c1fd0c6ab99a4dff21a3c6595ab75e",
+  "created": "2026-06-09",
+  "description": "Seiwa's Tokonole — a water-based burnishing gum that is the common reference finish for slick, glassy edges.",
+  "emitter": "opg://commons-seed",
+  "id": "tokonole-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "Tokonole",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "manufacturer": "Seiwa",
+    "materialType": "leather-care",
+    "model": "Tokonole",
+    "names": {
+      "en": [
+        "Tokonole",
+        "Tokonole burnishing gum"
+      ]
+    },
+    "origin": "Japan",
+    "taxonomy": "edge-burnishing-gum",
+    "unit": "ml"
+  },
+  "slug": "tokonole",
+  "tags": [
+    "leather-care",
+    "edge-burnishing-gum"
+  ],
+  "visibility": "commons"
+}

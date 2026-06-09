@@ -1,0 +1,32 @@
+{
+  "content_hash": "sha256:bedb5967cdbc46fb0916632310b2d09766ad86fb49d68d1b4476efc427cffce8",
+  "created": "2026-06-09",
+  "description": "A gridded, self-closing work surface that takes the blade without dulling it or scarring the bench.",
+  "emitter": "opg://commons-seed",
+  "id": "cutting-mat-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "self-healing cutting mat",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "cutting",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "self-healing cutting mat"
+      ]
+    },
+    "taxonomy": "cutting-tool"
+  },
+  "slug": "cutting-mat",
+  "tags": [
+    "cutting",
+    "cutting-tool"
+  ],
+  "visibility": "commons"
+}

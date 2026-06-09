@@ -1,0 +1,35 @@
+{
+  "content_hash": "sha256:d203fe93a134744d973cb948582473c317069e3c90550a4bfeabd907c1af8d5d",
+  "created": "2026-06-09",
+  "description": "Mixed offcuts sold by weight — the cheapest way to practice cutting, stitching and finishing across many leathers.",
+  "emitter": "opg://commons-seed",
+  "id": "scrap-leather-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "scrap leather",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "leather",
+    "names": {
+      "en": [
+        "scrap leather",
+        "remnant leather",
+        "offcuts"
+      ]
+    },
+    "taxonomy": "leather",
+    "unit": "lb"
+  },
+  "slug": "scrap-leather",
+  "tags": [
+    "leather",
+    "leather"
+  ],
+  "visibility": "commons"
+}

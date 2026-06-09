@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:8b978415c663673e25e390146404740098436862f865ddac2925cb8ab8b829aa",
+  "created": "2026-06-09",
+  "description": "Graduated grit on a stick or block to true and smooth glued-up edges before burnishing.",
+  "emitter": "opg://commons-seed",
+  "id": "sanding-stick-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "sanding stick",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "edgework",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "sanding stick",
+        "edge sander"
+      ]
+    },
+    "taxonomy": "edgework-tool"
+  },
+  "slug": "sanding-stick",
+  "tags": [
+    "edgework",
+    "edgework-tool"
+  ],
+  "visibility": "commons"
+}

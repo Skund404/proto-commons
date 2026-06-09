@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:12533b9a81c783164dbe29c3d41fe654845e819dd8cfce83e42b9d1132a6b7a1",
+  "created": "2026-06-09",
+  "description": "A thin acrylic topcoat that seals dye and adds a wipe-clean, water-resistant film over the surface.",
+  "emitter": "opg://commons-seed",
+  "id": "acrylic-resolene-finish-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "acrylic resolene finish",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "leather-care",
+    "names": {
+      "en": [
+        "acrylic resolene finish",
+        "acrylic top finish"
+      ]
+    },
+    "taxonomy": "leather-finish",
+    "unit": "ml"
+  },
+  "slug": "acrylic-resolene-finish",
+  "tags": [
+    "leather-care",
+    "leather-finish"
+  ],
+  "visibility": "commons"
+}

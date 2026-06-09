@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:68700f27db31578b5c666778f0006a594b9ec122a7961225e4161015c7750982",
+  "created": "2026-06-09",
+  "description": "A graded abrasive stone for grinding and refining a keen edge on knives and bevelers — a sharp tool is a safe tool.",
+  "emitter": "opg://commons-seed",
+  "id": "whetstone-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "whetstone",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "sharpening",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "whetstone",
+        "sharpening stone"
+      ]
+    },
+    "taxonomy": "sharpening-tool"
+  },
+  "slug": "whetstone",
+  "tags": [
+    "sharpening",
+    "sharpening-tool"
+  ],
+  "visibility": "commons"
+}

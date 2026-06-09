@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:17049b284fd1a801a91dec1950db2b72edbaa3c43c7f2a7a895424e06f5edc1e",
+  "created": "2026-06-09",
+  "description": "A battery hot tip that melts and seals thread tails cleanly, without the soot of an open flame.",
+  "emitter": "opg://commons-seed",
+  "id": "thread-zapper-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "thread zapper",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "stitching",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "thread zapper",
+        "thread burner"
+      ]
+    },
+    "taxonomy": "stitching-tool"
+  },
+  "slug": "thread-zapper",
+  "tags": [
+    "stitching",
+    "stitching-tool"
+  ],
+  "visibility": "commons"
+}

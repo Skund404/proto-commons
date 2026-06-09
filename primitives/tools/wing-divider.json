@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:e1f16efde104b0b17b16313666ceb9bb34091ad489a73a091b15ed9217dab06c",
+  "created": "2026-06-09",
+  "description": "A two-leg compass that scribes a stitching line a fixed distance in from the edge, and steps off even spacing.",
+  "emitter": "opg://commons-seed",
+  "id": "wing-divider-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "wing divider",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "marking",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "wing divider",
+        "compass divider"
+      ]
+    },
+    "taxonomy": "marking-tool"
+  },
+  "slug": "wing-divider",
+  "tags": [
+    "marking",
+    "marking-tool"
+  ],
+  "visibility": "commons"
+}

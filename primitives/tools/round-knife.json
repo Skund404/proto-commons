@@ -1,0 +1,32 @@
+{
+  "content_hash": "sha256:66ca65e78ae7f9b86dd766880881d437497bbfd36ae293371185e14208c3837c",
+  "created": "2026-06-09",
+  "description": "A full round-bladed saddler's knife that draws long, clean cuts and skives with a rocking motion.",
+  "emitter": "opg://commons-seed",
+  "id": "round-knife-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "round knife",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "cutting",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "round knife"
+      ]
+    },
+    "taxonomy": "cutting-knife"
+  },
+  "slug": "round-knife",
+  "tags": [
+    "cutting",
+    "cutting-knife"
+  ],
+  "visibility": "commons"
+}

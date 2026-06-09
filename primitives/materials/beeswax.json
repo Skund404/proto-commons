@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:41f9ee4f63fc350fc1d9566951c4c1a890c81035160d5ca71c23e9ecce3c3a06",
+  "created": "2026-06-09",
+  "description": "Natural wax for waxing bare thread and slicking edges; also a simple burnishing aid.",
+  "emitter": "opg://commons-seed",
+  "id": "beeswax-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "beeswax",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "leather-care",
+    "names": {
+      "en": [
+        "beeswax"
+      ]
+    },
+    "taxonomy": "leather-finish",
+    "unit": "g"
+  },
+  "slug": "beeswax",
+  "tags": [
+    "leather-care",
+    "leather-finish"
+  ],
+  "visibility": "commons"
+}

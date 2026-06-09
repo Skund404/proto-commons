@@ -1,0 +1,32 @@
+{
+  "content_hash": "sha256:eb2da49c0a464b49c95d094b186c2c742c6c901ebae685990990df586e916afe",
+  "created": "2026-06-09",
+  "description": "A rolling circular blade that tracks straight lines and gentle curves with steady, low-effort control.",
+  "emitter": "opg://commons-seed",
+  "id": "rotary-cutter-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "rotary cutter",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "cutting",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "rotary cutter"
+      ]
+    },
+    "taxonomy": "cutting-tool"
+  },
+  "slug": "rotary-cutter",
+  "tags": [
+    "cutting",
+    "cutting-tool"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:0fd8d550c14adbb7460af0a93b42ff63273902a679193ec5c4f48c410547ce86",
+  "created": "2026-06-09",
+  "description": "A multi-prong chisel driven through the leather to cut evenly spaced, angled slits for saddle stitching.",
+  "emitter": "opg://commons-seed",
+  "id": "diamond-stitching-chisel-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "diamond stitching chisel",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "punching",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "diamond stitching chisel",
+        "pricking chisel"
+      ]
+    },
+    "taxonomy": "stitching-chisel"
+  },
+  "slug": "diamond-stitching-chisel",
+  "tags": [
+    "punching",
+    "stitching-chisel"
+  ],
+  "visibility": "commons"
+}

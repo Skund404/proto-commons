@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:71d452dfade6eeabc09f97c776022b4c29829620c8d7dd5938239f7beeb0cbd0",
+  "created": "2026-06-09",
+  "description": "A diamond-section blade in a haft that pierces each stitch hole at the sewing angle.",
+  "emitter": "opg://commons-seed",
+  "id": "stitching-awl-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "stitching awl",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "punching",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "stitching awl",
+        "diamond awl"
+      ]
+    },
+    "taxonomy": "diamond-awl"
+  },
+  "slug": "stitching-awl",
+  "tags": [
+    "punching",
+    "diamond-awl"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:e6b9f23dd34cfd371b19a93a8f4c0f0bf2c8198a8056068913b5ca8504a62c5d",
+  "created": "2026-06-09",
+  "description": "A clamp that grips the work upright and frees both hands to run a saddle stitch.",
+  "emitter": "opg://commons-seed",
+  "id": "stitching-pony-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "stitching pony",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "stitching",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "stitching pony",
+        "stitching clam",
+        "stitching horse"
+      ]
+    },
+    "taxonomy": "stitching-tool"
+  },
+  "slug": "stitching-pony",
+  "tags": [
+    "stitching",
+    "stitching-tool"
+  ],
+  "visibility": "commons"
+}

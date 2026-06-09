@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "pricking-iron",
+  "names": {
+    "en": [
+      "pricking iron"
+    ]
+  },
+  "specializes": "punching-tool"
+}

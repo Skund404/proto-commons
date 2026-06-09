@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:6f9bb820353f97155e94ef931c3ee3c7801a2506d3b0c347fd8903e3f9fc2b16",
+  "created": "2026-06-09",
+  "description": "Firm veg-tan stuffed with oils and waxes on both faces — smooth, durable, and a classic for belts, straps and wallets.",
+  "emitter": "opg://commons-seed",
+  "id": "bridle-leather-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "bridle leather",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "leather",
+    "names": {
+      "en": [
+        "bridle leather"
+      ]
+    },
+    "taxonomy": "bridle-leather",
+    "unit": "sqft"
+  },
+  "slug": "bridle-leather",
+  "tags": [
+    "leather",
+    "bridle-leather"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:aa158929134f460000f2e8ea65e3d924178e756a5b43b2a8156b5ab8ddce1e9b",
+  "created": "2026-06-09",
+  "description": "A grooved blade that shaves the square corner off an edge, rounding it so it burnishes smooth.",
+  "emitter": "opg://commons-seed",
+  "id": "edge-beveler-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "edge beveler",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "edgework",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "edge beveler",
+        "edger"
+      ]
+    },
+    "taxonomy": "edgework-tool"
+  },
+  "slug": "edge-beveler",
+  "tags": [
+    "edgework",
+    "edgework-tool"
+  ],
+  "visibility": "commons"
+}

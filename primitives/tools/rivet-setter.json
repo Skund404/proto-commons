@@ -1,0 +1,32 @@
+{
+  "content_hash": "sha256:95fe8540d1ff0e0498625f8cbaa793a03b375b8b7cd8b28679ac69cab31c17da",
+  "created": "2026-06-09",
+  "description": "A matched punch and base that seats and domes a rivet's cap squarely without crushing it.",
+  "emitter": "opg://commons-seed",
+  "id": "rivet-setter-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "rivet setter",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "setting",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "rivet setter"
+      ]
+    },
+    "taxonomy": "setting-tool"
+  },
+  "slug": "rivet-setter",
+  "tags": [
+    "setting",
+    "setting-tool"
+  ],
+  "visibility": "commons"
+}

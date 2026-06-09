@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "fastener",
+  "names": {
+    "en": [
+      "fastener"
+    ]
+  },
+  "specializes": "hardware"
+}

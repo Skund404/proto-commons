@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:ed04b147e739333a0c02b95a1d929ceb41823b5f22e3aab4412cf8d02afe3ae6",
+  "created": "2026-06-09",
+  "description": "A bench press that sets hardware, punches, and stamps with steady leverage instead of repeated blows.",
+  "emitter": "opg://commons-seed",
+  "id": "hand-press-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "hand press",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "setting",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "hand press",
+        "bench press"
+      ]
+    },
+    "taxonomy": "setting-tool"
+  },
+  "slug": "hand-press",
+  "tags": [
+    "setting",
+    "setting-tool"
+  ],
+  "visibility": "commons"
+}

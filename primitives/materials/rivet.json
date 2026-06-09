@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:7f6b5f5c281f1b32a1774c04d24952950e5be8e97db610d5fc4f981b2577f9bd",
+  "created": "2026-06-09",
+  "description": "A two-part metal fastener set through punched holes for permanent, heavy-duty joins and reinforcement.",
+  "emitter": "opg://commons-seed",
+  "id": "rivet-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "rivet",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "hardware",
+    "names": {
+      "en": [
+        "rivet"
+      ]
+    },
+    "taxonomy": "fastener",
+    "unit": "piece"
+  },
+  "slug": "rivet",
+  "tags": [
+    "hardware",
+    "fastener"
+  ],
+  "visibility": "commons"
+}

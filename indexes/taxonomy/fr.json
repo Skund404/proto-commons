@@ -1,6 +1,66 @@
 {
   "format_version": "1.0",
   "tree": {
+    "category/adhesive": {
+      "id": "adhesive",
+      "name": "adhesive",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/materials/contact-cement.json",
+          "slug": "contact-cement",
+          "kind": "material",
+          "name": "contact cement"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/awl": {
+      "id": "awl",
+      "name": "awl",
+      "parent": null,
+      "members": [],
+      "related": [],
+      "children": [
+        {
+          "id": "diamond-awl",
+          "name": "diamond awl",
+          "parent": "awl",
+          "members": [
+            {
+              "ref": "primitives/tools/osborne-diamond-awl.json",
+              "slug": "osborne-diamond-awl",
+              "kind": "tool",
+              "name": "Osborne diamond awl"
+            },
+            {
+              "ref": "primitives/tools/stitching-awl.json",
+              "slug": "stitching-awl",
+              "kind": "tool",
+              "name": "stitching awl"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "scratch-awl",
+          "name": "scratch awl",
+          "parent": "awl",
+          "members": [
+            {
+              "ref": "primitives/tools/scratch-awl.json",
+              "slug": "scratch-awl",
+              "kind": "tool",
+              "name": "scratch awl"
+            }
+          ],
+          "related": [],
+          "children": []
+        }
+      ]
+    },
     "category/cheese": {
       "id": "cheese",
       "name": "fromage",
@@ -134,6 +194,151 @@
           "slug": "guanciale",
           "kind": "material",
           "name": "guanciale"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/cutting-tool": {
+      "id": "cutting-tool",
+      "name": "cutting tool",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/tools/cutting-mat.json",
+          "slug": "cutting-mat",
+          "kind": "tool",
+          "name": "self-healing cutting mat"
+        },
+        {
+          "ref": "primitives/tools/leather-scissors.json",
+          "slug": "leather-scissors",
+          "kind": "tool",
+          "name": "leather scissors"
+        },
+        {
+          "ref": "primitives/tools/rotary-cutter.json",
+          "slug": "rotary-cutter",
+          "kind": "tool",
+          "name": "rotary cutter"
+        },
+        {
+          "ref": "primitives/tools/steel-ruler.json",
+          "slug": "steel-ruler",
+          "kind": "tool",
+          "name": "steel ruler"
+        },
+        {
+          "ref": "primitives/tools/strap-cutter.json",
+          "slug": "strap-cutter",
+          "kind": "tool",
+          "name": "strap cutter"
+        },
+        {
+          "ref": "primitives/tools/utility-knife.json",
+          "slug": "utility-knife",
+          "kind": "tool",
+          "name": "utility knife"
+        }
+      ],
+      "related": [],
+      "children": [
+        {
+          "id": "cutting-knife",
+          "name": "cutting knife",
+          "parent": "cutting-tool",
+          "members": [
+            {
+              "ref": "primitives/tools/head-knife.json",
+              "slug": "head-knife",
+              "kind": "tool",
+              "name": "head knife"
+            },
+            {
+              "ref": "primitives/tools/osborne-head-knife.json",
+              "slug": "osborne-head-knife",
+              "kind": "tool",
+              "name": "Osborne head knife"
+            },
+            {
+              "ref": "primitives/tools/round-knife.json",
+              "slug": "round-knife",
+              "kind": "tool",
+              "name": "round knife"
+            },
+            {
+              "ref": "primitives/tools/skiving-knife.json",
+              "slug": "skiving-knife",
+              "kind": "tool",
+              "name": "skiving knife"
+            }
+          ],
+          "related": [],
+          "children": []
+        }
+      ]
+    },
+    "category/edge-burnishing-gum": {
+      "id": "edge-burnishing-gum",
+      "name": "edge burnishing gum",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/materials/edge-burnishing-gum.json",
+          "slug": "edge-burnishing-gum",
+          "kind": "material",
+          "name": "edge burnishing gum"
+        },
+        {
+          "ref": "primitives/materials/gum-tragacanth.json",
+          "slug": "gum-tragacanth",
+          "kind": "material",
+          "name": "gum tragacanth"
+        },
+        {
+          "ref": "primitives/materials/tokonole.json",
+          "slug": "tokonole",
+          "kind": "material",
+          "name": "Tokonole"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/edgework-tool": {
+      "id": "edgework-tool",
+      "name": "edgework tool",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/tools/bone-folder.json",
+          "slug": "bone-folder",
+          "kind": "tool",
+          "name": "bone folder"
+        },
+        {
+          "ref": "primitives/tools/edge-beveler.json",
+          "slug": "edge-beveler",
+          "kind": "tool",
+          "name": "edge beveler"
+        },
+        {
+          "ref": "primitives/tools/edge-planer.json",
+          "slug": "edge-planer",
+          "kind": "tool",
+          "name": "edge planer"
+        },
+        {
+          "ref": "primitives/tools/edge-slicker.json",
+          "slug": "edge-slicker",
+          "kind": "tool",
+          "name": "edge slicker"
+        },
+        {
+          "ref": "primitives/tools/sanding-stick.json",
+          "slug": "sanding-stick",
+          "kind": "tool",
+          "name": "sanding stick"
         }
       ],
       "related": [],
@@ -484,6 +689,310 @@
         }
       ]
     },
+    "category/hardware": {
+      "id": "hardware",
+      "name": "hardware",
+      "parent": null,
+      "members": [],
+      "related": [],
+      "children": [
+        {
+          "id": "closure",
+          "name": "closure",
+          "parent": "hardware",
+          "members": [
+            {
+              "ref": "primitives/materials/buckle.json",
+              "slug": "buckle",
+              "kind": "material",
+              "name": "buckle"
+            },
+            {
+              "ref": "primitives/materials/button-stud.json",
+              "slug": "button-stud",
+              "kind": "material",
+              "name": "button stud"
+            },
+            {
+              "ref": "primitives/materials/magnetic-snap.json",
+              "slug": "magnetic-snap",
+              "kind": "material",
+              "name": "magnetic snap"
+            },
+            {
+              "ref": "primitives/materials/snap-button.json",
+              "slug": "snap-button",
+              "kind": "material",
+              "name": "snap button"
+            },
+            {
+              "ref": "primitives/materials/zipper.json",
+              "slug": "zipper",
+              "kind": "material",
+              "name": "zipper"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "fastener",
+          "name": "fastener",
+          "parent": "hardware",
+          "members": [
+            {
+              "ref": "primitives/materials/chicago-screw.json",
+              "slug": "chicago-screw",
+              "kind": "material",
+              "name": "chicago screw"
+            },
+            {
+              "ref": "primitives/materials/double-cap-rivet.json",
+              "slug": "double-cap-rivet",
+              "kind": "material",
+              "name": "double-cap rivet"
+            },
+            {
+              "ref": "primitives/materials/eyelet.json",
+              "slug": "eyelet",
+              "kind": "material",
+              "name": "eyelet"
+            },
+            {
+              "ref": "primitives/materials/rivet.json",
+              "slug": "rivet",
+              "kind": "material",
+              "name": "rivet"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "ring-and-hook",
+          "name": "ring and hook",
+          "parent": "hardware",
+          "members": [
+            {
+              "ref": "primitives/materials/d-ring.json",
+              "slug": "d-ring",
+              "kind": "material",
+              "name": "D-ring"
+            },
+            {
+              "ref": "primitives/materials/o-ring.json",
+              "slug": "o-ring",
+              "kind": "material",
+              "name": "O-ring"
+            },
+            {
+              "ref": "primitives/materials/snap-hook.json",
+              "slug": "snap-hook",
+              "kind": "material",
+              "name": "snap hook"
+            },
+            {
+              "ref": "primitives/materials/split-ring.json",
+              "slug": "split-ring",
+              "kind": "material",
+              "name": "split ring"
+            }
+          ],
+          "related": [],
+          "children": []
+        }
+      ]
+    },
+    "category/leather": {
+      "id": "leather",
+      "name": "leather",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/materials/scrap-leather.json",
+          "slug": "scrap-leather",
+          "kind": "material",
+          "name": "scrap leather"
+        }
+      ],
+      "related": [],
+      "children": [
+        {
+          "id": "bridle-leather",
+          "name": "bridle leather",
+          "parent": "leather",
+          "members": [
+            {
+              "ref": "primitives/materials/bridle-leather.json",
+              "slug": "bridle-leather",
+              "kind": "material",
+              "name": "bridle leather"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "chrome-tanned-leather",
+          "name": "chrome-tanned leather",
+          "parent": "leather",
+          "members": [
+            {
+              "ref": "primitives/materials/chrome-tanned-leather.json",
+              "slug": "chrome-tanned-leather",
+              "kind": "material",
+              "name": "chrome-tanned leather"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "harness-leather",
+          "name": "harness leather",
+          "parent": "leather",
+          "members": [
+            {
+              "ref": "primitives/materials/harness-leather.json",
+              "slug": "harness-leather",
+              "kind": "material",
+              "name": "harness leather"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "oil-tanned-leather",
+          "name": "oil-tanned leather",
+          "parent": "leather",
+          "members": [
+            {
+              "ref": "primitives/materials/oil-tanned-leather.json",
+              "slug": "oil-tanned-leather",
+              "kind": "material",
+              "name": "oil-tanned leather"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "suede",
+          "name": "suede",
+          "parent": "leather",
+          "members": [
+            {
+              "ref": "primitives/materials/suede.json",
+              "slug": "suede",
+              "kind": "material",
+              "name": "suede"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "vegetable-tanned-leather",
+          "name": "vegetable-tanned leather",
+          "parent": "leather",
+          "members": [
+            {
+              "ref": "primitives/materials/vegetable-tanned-leather.json",
+              "slug": "vegetable-tanned-leather",
+              "kind": "material",
+              "name": "vegetable-tanned leather"
+            }
+          ],
+          "related": [],
+          "children": []
+        }
+      ]
+    },
+    "category/leather-finish": {
+      "id": "leather-finish",
+      "name": "leather finish",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/materials/acrylic-resolene-finish.json",
+          "slug": "acrylic-resolene-finish",
+          "kind": "material",
+          "name": "acrylic resolene finish"
+        },
+        {
+          "ref": "primitives/materials/beeswax.json",
+          "slug": "beeswax",
+          "kind": "material",
+          "name": "beeswax"
+        },
+        {
+          "ref": "primitives/materials/fiebings-pro-dye.json",
+          "slug": "fiebings-pro-dye",
+          "kind": "material",
+          "name": "Fiebing's Pro Dye"
+        },
+        {
+          "ref": "primitives/materials/leather-conditioner.json",
+          "slug": "leather-conditioner",
+          "kind": "material",
+          "name": "leather conditioner"
+        },
+        {
+          "ref": "primitives/materials/leather-dye.json",
+          "slug": "leather-dye",
+          "kind": "material",
+          "name": "leather dye"
+        },
+        {
+          "ref": "primitives/materials/mink-oil.json",
+          "slug": "mink-oil",
+          "kind": "material",
+          "name": "mink oil"
+        },
+        {
+          "ref": "primitives/materials/neatsfoot-oil.json",
+          "slug": "neatsfoot-oil",
+          "kind": "material",
+          "name": "neatsfoot oil"
+        },
+        {
+          "ref": "primitives/materials/saddle-soap.json",
+          "slug": "saddle-soap",
+          "kind": "material",
+          "name": "saddle soap"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/marking-tool": {
+      "id": "marking-tool",
+      "name": "marking tool",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/tools/edge-creaser.json",
+          "slug": "edge-creaser",
+          "kind": "tool",
+          "name": "edge creaser"
+        },
+        {
+          "ref": "primitives/tools/stitch-groover.json",
+          "slug": "stitch-groover",
+          "kind": "tool",
+          "name": "stitch groover"
+        },
+        {
+          "ref": "primitives/tools/wing-divider.json",
+          "slug": "wing-divider",
+          "kind": "tool",
+          "name": "wing divider"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
     "category/pasta": {
       "id": "pasta",
       "name": "pâtes",
@@ -498,6 +1007,100 @@
       ],
       "related": [],
       "children": []
+    },
+    "category/punching-tool": {
+      "id": "punching-tool",
+      "name": "punching tool",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/tools/hole-punch.json",
+          "slug": "hole-punch",
+          "kind": "tool",
+          "name": "hole punch"
+        },
+        {
+          "ref": "primitives/tools/poundboard.json",
+          "slug": "poundboard",
+          "kind": "tool",
+          "name": "poundboard"
+        },
+        {
+          "ref": "primitives/tools/rotary-punch.json",
+          "slug": "rotary-punch",
+          "kind": "tool",
+          "name": "rotary punch"
+        }
+      ],
+      "related": [],
+      "children": [
+        {
+          "id": "mallet",
+          "name": "mallet",
+          "parent": "punching-tool",
+          "members": [
+            {
+              "ref": "primitives/tools/mallet.json",
+              "slug": "mallet",
+              "kind": "tool",
+              "name": "mallet"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "maul",
+          "name": "maul",
+          "parent": "punching-tool",
+          "members": [
+            {
+              "ref": "primitives/tools/barry-king-maul.json",
+              "slug": "barry-king-maul",
+              "kind": "tool",
+              "name": "Barry King maul"
+            },
+            {
+              "ref": "primitives/tools/maul.json",
+              "slug": "maul",
+              "kind": "tool",
+              "name": "maul"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "pricking-iron",
+          "name": "pricking iron",
+          "parent": "punching-tool",
+          "members": [
+            {
+              "ref": "primitives/tools/pricking-iron.json",
+              "slug": "pricking-iron",
+              "kind": "tool",
+              "name": "pricking iron"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "stitching-chisel",
+          "name": "stitching chisel",
+          "parent": "punching-tool",
+          "members": [
+            {
+              "ref": "primitives/tools/diamond-stitching-chisel.json",
+              "slug": "diamond-stitching-chisel",
+              "kind": "tool",
+              "name": "diamond stitching chisel"
+            }
+          ],
+          "related": [],
+          "children": []
+        }
+      ]
     },
     "category/recipe": {
       "id": "recipe",
@@ -514,6 +1117,54 @@
       "related": [],
       "children": []
     },
+    "category/setting-tool": {
+      "id": "setting-tool",
+      "name": "setting tool",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/tools/hand-press.json",
+          "slug": "hand-press",
+          "kind": "tool",
+          "name": "hand press"
+        },
+        {
+          "ref": "primitives/tools/rivet-setter.json",
+          "slug": "rivet-setter",
+          "kind": "tool",
+          "name": "rivet setter"
+        },
+        {
+          "ref": "primitives/tools/snap-setter.json",
+          "slug": "snap-setter",
+          "kind": "tool",
+          "name": "snap setter"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/sharpening-tool": {
+      "id": "sharpening-tool",
+      "name": "sharpening tool",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/tools/strop.json",
+          "slug": "strop",
+          "kind": "tool",
+          "name": "strop"
+        },
+        {
+          "ref": "primitives/tools/whetstone.json",
+          "slug": "whetstone",
+          "kind": "tool",
+          "name": "whetstone"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
     "category/spice": {
       "id": "spice",
       "name": "épice",
@@ -524,6 +1175,66 @@
           "slug": "black-pepper",
           "kind": "material",
           "name": "poivre noir"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/stitching-tool": {
+      "id": "stitching-tool",
+      "name": "stitching tool",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/tools/harness-needle.json",
+          "slug": "harness-needle",
+          "kind": "tool",
+          "name": "harness needle"
+        },
+        {
+          "ref": "primitives/tools/seam-ripper.json",
+          "slug": "seam-ripper",
+          "kind": "tool",
+          "name": "seam ripper"
+        },
+        {
+          "ref": "primitives/tools/stitching-pony.json",
+          "slug": "stitching-pony",
+          "kind": "tool",
+          "name": "stitching pony"
+        },
+        {
+          "ref": "primitives/tools/thread-zapper.json",
+          "slug": "thread-zapper",
+          "kind": "tool",
+          "name": "thread zapper"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/thread": {
+      "id": "thread",
+      "name": "thread",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/materials/ritza-tiger-thread.json",
+          "slug": "ritza-tiger-thread",
+          "kind": "material",
+          "name": "Ritza 25 thread"
+        },
+        {
+          "ref": "primitives/materials/waxed-linen-thread.json",
+          "slug": "waxed-linen-thread",
+          "kind": "material",
+          "name": "waxed linen thread"
+        },
+        {
+          "ref": "primitives/materials/waxed-polyester-thread.json",
+          "slug": "waxed-polyester-thread",
+          "kind": "material",
+          "name": "waxed polyester thread"
         }
       ],
       "related": [],

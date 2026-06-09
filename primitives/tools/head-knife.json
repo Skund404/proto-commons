@@ -1,0 +1,32 @@
+{
+  "content_hash": "sha256:6d4360afb4dcfb15c7cf453d5a5228f626e685fc0c6a645ed8e6d9502816a751",
+  "created": "2026-06-09",
+  "description": "A half-moon blade for straight cuts, curves, skiving and paring — the traditional all-rounder of the bench.",
+  "emitter": "opg://commons-seed",
+  "id": "head-knife-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "head knife",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "cutting",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "head knife"
+      ]
+    },
+    "taxonomy": "cutting-knife"
+  },
+  "slug": "head-knife",
+  "tags": [
+    "cutting",
+    "cutting-knife"
+  ],
+  "visibility": "commons"
+}

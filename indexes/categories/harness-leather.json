@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "harness-leather",
+  "names": {
+    "en": [
+      "harness leather"
+    ]
+  },
+  "specializes": "leather"
+}

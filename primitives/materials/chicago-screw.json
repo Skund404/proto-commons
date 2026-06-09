@@ -1,0 +1,35 @@
+{
+  "content_hash": "sha256:34b9547a8473bc1b9d66f909c6ee28980c4433917a9100270be94f97633bd954",
+  "created": "2026-06-09",
+  "description": "A screw-together post and cap that fastens layers but can be opened again — ideal where parts may need swapping.",
+  "emitter": "opg://commons-seed",
+  "id": "chicago-screw-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "chicago screw",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "hardware",
+    "names": {
+      "en": [
+        "chicago screw",
+        "screw rivet",
+        "sex bolt"
+      ]
+    },
+    "taxonomy": "fastener",
+    "unit": "piece"
+  },
+  "slug": "chicago-screw",
+  "tags": [
+    "hardware",
+    "fastener"
+  ],
+  "visibility": "commons"
+}

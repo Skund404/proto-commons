@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:9361b7ae2ff39afbe8b11079d3513ad24af045a44d8fa5c291d499d40b6bde62",
+  "created": "2026-06-09",
+  "description": "A traditional plant-gum edge slicking agent — brushed on, then burnished to seal and smooth the edge.",
+  "emitter": "opg://commons-seed",
+  "id": "gum-tragacanth-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "gum tragacanth",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "leather-care",
+    "names": {
+      "en": [
+        "gum tragacanth"
+      ]
+    },
+    "taxonomy": "edge-burnishing-gum",
+    "unit": "ml"
+  },
+  "slug": "gum-tragacanth",
+  "tags": [
+    "leather-care",
+    "edge-burnishing-gum"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:c7cb28cd491bdffaa79df064e1961653077607a9ef05fc1d6c4528d9670773c6",
+  "created": "2026-06-09",
+  "description": "Traditional waxed natural-fiber thread with a matte look favored for classic and repairable work.",
+  "emitter": "opg://commons-seed",
+  "id": "waxed-linen-thread-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "waxed linen thread",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "thread",
+    "names": {
+      "en": [
+        "waxed linen thread"
+      ]
+    },
+    "taxonomy": "thread",
+    "unit": "m"
+  },
+  "slug": "waxed-linen-thread",
+  "tags": [
+    "thread",
+    "thread"
+  ],
+  "visibility": "commons"
+}

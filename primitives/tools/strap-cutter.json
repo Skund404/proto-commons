@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:4bab477f910dd7be7bf348d002440399370211c360dc82b5bd822bf9fe970b73",
+  "created": "2026-06-09",
+  "description": "Sets a fixed width and pulls a long, perfectly parallel strap from a larger piece.",
+  "emitter": "opg://commons-seed",
+  "id": "strap-cutter-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "strap cutter",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "cutting",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "strap cutter",
+        "draw gauge"
+      ]
+    },
+    "taxonomy": "cutting-tool"
+  },
+  "slug": "strap-cutter",
+  "tags": [
+    "cutting",
+    "cutting-tool"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:4ea0c706fabfb8423f4dcc25da9268522c5944d6dc8d2e6cc5b6693e48814714",
+  "created": "2026-06-09",
+  "description": "A softening, water-repelling dressing for conditioning and weatherproofing finished leather.",
+  "emitter": "opg://commons-seed",
+  "id": "mink-oil-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "mink oil",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "leather-care",
+    "names": {
+      "en": [
+        "mink oil"
+      ]
+    },
+    "taxonomy": "leather-finish",
+    "unit": "ml"
+  },
+  "slug": "mink-oil",
+  "tags": [
+    "leather-care",
+    "leather-finish"
+  ],
+  "visibility": "commons"
+}

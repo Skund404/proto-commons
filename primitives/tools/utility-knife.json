@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:d1de08b2c848227f3837b9d2e50891a5513bc1aab30696cab7e241deca29272c",
+  "created": "2026-06-09",
+  "description": "An inexpensive replaceable-blade knife that handles most straight cuts on thin to medium leather.",
+  "emitter": "opg://commons-seed",
+  "id": "utility-knife-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "utility knife",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "cutting",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "utility knife",
+        "snap-blade knife",
+        "box cutter"
+      ]
+    },
+    "taxonomy": "cutting-tool"
+  },
+  "slug": "utility-knife",
+  "tags": [
+    "cutting",
+    "cutting-tool"
+  ],
+  "visibility": "commons"
+}

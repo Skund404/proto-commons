@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:93d9e09b47cc06826a98cb7353a1ad777fb714209dbe2729b5ba1d69b88f6c14",
+  "created": "2026-06-09",
+  "description": "A rivet finished on both faces, so the join looks clean from either side — common on straps and small goods.",
+  "emitter": "opg://commons-seed",
+  "id": "double-cap-rivet-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "double-cap rivet",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "hardware",
+    "names": {
+      "en": [
+        "double-cap rivet"
+      ]
+    },
+    "taxonomy": "fastener",
+    "unit": "piece"
+  },
+  "slug": "double-cap-rivet",
+  "tags": [
+    "hardware",
+    "fastener"
+  ],
+  "visibility": "commons"
+}

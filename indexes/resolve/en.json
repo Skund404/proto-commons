@@ -11,6 +11,36 @@
         "canonical": true
       }
     ],
+    "acrylic resolene finish": [
+      {
+        "ref": "primitives/materials/acrylic-resolene-finish.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "acrylic resolene finish",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "acrylic top finish": [
+      {
+        "ref": "primitives/materials/acrylic-resolene-finish.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "acrylic top finish",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "adhesive": [
+      {
+        "ref": "categories/adhesive",
+        "class": "category",
+        "kind": null,
+        "name": "adhesive",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "allium": [
       {
         "ref": "categories/allium",
@@ -91,12 +121,42 @@
         "canonical": true
       }
     ],
+    "awl": [
+      {
+        "ref": "categories/awl",
+        "class": "category",
+        "kind": null,
+        "name": "awl",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "banana": [
       {
         "ref": "primitives/materials/produce/fruits/banana.json",
         "class": "primitive",
         "kind": "material",
         "name": "banana",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "barry king maul": [
+      {
+        "ref": "primitives/tools/barry-king-maul.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Barry King maul",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "beeswax": [
+      {
+        "ref": "primitives/materials/beeswax.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "beeswax",
         "lang": "en",
         "canonical": true
       }
@@ -129,6 +189,16 @@
         "name": "bell pepper",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "bench press": [
+      {
+        "ref": "primitives/tools/hand-press.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "bench press",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "berry": [
@@ -211,6 +281,26 @@
         "canonical": true
       }
     ],
+    "bone folder": [
+      {
+        "ref": "primitives/tools/bone-folder.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "bone folder",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "box cutter": [
+      {
+        "ref": "primitives/tools/utility-knife.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "box cutter",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "box grater": [
       {
         "ref": "primitives/tools/box-grater.json",
@@ -227,6 +317,24 @@
         "class": "category",
         "kind": null,
         "name": "brassica",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "bridle leather": [
+      {
+        "ref": "categories/bridle-leather",
+        "class": "category",
+        "kind": null,
+        "name": "bridle leather",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/bridle-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "bridle leather",
         "lang": "en",
         "canonical": true
       }
@@ -261,6 +369,36 @@
         "canonical": true
       }
     ],
+    "buckle": [
+      {
+        "ref": "primitives/materials/buckle.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "buckle",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "burnisher": [
+      {
+        "ref": "primitives/tools/edge-slicker.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "burnisher",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "burnishing agent": [
+      {
+        "ref": "primitives/materials/edge-burnishing-gum.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "burnishing agent",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "butternut": [
       {
         "ref": "primitives/materials/produce/vegetables/butternut-squash.json",
@@ -279,6 +417,36 @@
         "name": "butternut squash",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "button stud": [
+      {
+        "ref": "primitives/materials/button-stud.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "button stud",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "c.s. osborne #71": [
+      {
+        "ref": "primitives/tools/osborne-head-knife.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "C.S. Osborne #71",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "c.s. osborne diamond awl": [
+      {
+        "ref": "primitives/tools/osborne-diamond-awl.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "C.S. Osborne diamond awl",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "cabbage": [
@@ -411,6 +579,16 @@
         "canonical": true
       }
     ],
+    "chicago screw": [
+      {
+        "ref": "primitives/materials/chicago-screw.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "chicago screw",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "chickpea": [
       {
         "ref": "primitives/materials/produce/vegetables/chickpea.json",
@@ -471,6 +649,34 @@
         "canonical": false
       }
     ],
+    "chrome tan": [
+      {
+        "ref": "primitives/materials/chrome-tanned-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "chrome tan",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "chrome-tanned leather": [
+      {
+        "ref": "categories/chrome-tanned-leather",
+        "class": "category",
+        "kind": null,
+        "name": "chrome-tanned leather",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/chrome-tanned-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "chrome-tanned leather",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "citrus": [
       {
         "ref": "categories/citrus",
@@ -491,12 +697,52 @@
         "canonical": true
       }
     ],
+    "closure": [
+      {
+        "ref": "categories/closure",
+        "class": "category",
+        "kind": null,
+        "name": "closure",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "coconut": [
       {
         "ref": "primitives/materials/produce/fruits/coconut.json",
         "class": "primitive",
         "kind": "material",
         "name": "coconut",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "compass divider": [
+      {
+        "ref": "primitives/tools/wing-divider.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "compass divider",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "contact adhesive": [
+      {
+        "ref": "primitives/materials/contact-cement.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "contact adhesive",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "contact cement": [
+      {
+        "ref": "primitives/materials/contact-cement.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "contact cement",
         "lang": "en",
         "canonical": true
       }
@@ -641,12 +887,80 @@
         "canonical": false
       }
     ],
+    "cutting knife": [
+      {
+        "ref": "categories/cutting-knife",
+        "class": "category",
+        "kind": null,
+        "name": "cutting knife",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "cutting tool": [
+      {
+        "ref": "categories/cutting-tool",
+        "class": "category",
+        "kind": null,
+        "name": "cutting tool",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "d-ring": [
+      {
+        "ref": "primitives/materials/d-ring.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "D-ring",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "date": [
       {
         "ref": "primitives/materials/produce/fruits/date.json",
         "class": "primitive",
         "kind": "material",
         "name": "date",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "diamond awl": [
+      {
+        "ref": "categories/diamond-awl",
+        "class": "category",
+        "kind": null,
+        "name": "diamond awl",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/stitching-awl.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "diamond awl",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "diamond stitching chisel": [
+      {
+        "ref": "primitives/tools/diamond-stitching-chisel.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "diamond stitching chisel",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "double-cap rivet": [
+      {
+        "ref": "primitives/materials/double-cap-rivet.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "double-cap rivet",
         "lang": "en",
         "canonical": true
       }
@@ -659,6 +973,26 @@
         "name": "dragon fruit",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "draw gauge": [
+      {
+        "ref": "primitives/tools/strap-cutter.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "draw gauge",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "drive punch": [
+      {
+        "ref": "primitives/tools/hole-punch.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "drive punch",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "drupe": [
@@ -677,6 +1011,104 @@
         "class": "primitive",
         "kind": "material",
         "name": "edamame",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "edge beveler": [
+      {
+        "ref": "primitives/tools/edge-beveler.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "edge beveler",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "edge burnishing gum": [
+      {
+        "ref": "categories/edge-burnishing-gum",
+        "class": "category",
+        "kind": null,
+        "name": "edge burnishing gum",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/edge-burnishing-gum.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "edge burnishing gum",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "edge creaser": [
+      {
+        "ref": "primitives/tools/edge-creaser.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "edge creaser",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "edge planer": [
+      {
+        "ref": "primitives/tools/edge-planer.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "edge planer",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "edge sander": [
+      {
+        "ref": "primitives/tools/sanding-stick.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "edge sander",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "edge slicker": [
+      {
+        "ref": "primitives/tools/edge-slicker.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "edge slicker",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "edge trimmer": [
+      {
+        "ref": "primitives/tools/edge-planer.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "edge trimmer",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "edger": [
+      {
+        "ref": "primitives/tools/edge-beveler.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "edger",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "edgework tool": [
+      {
+        "ref": "categories/edgework-tool",
+        "class": "category",
+        "kind": null,
+        "name": "edgework tool",
         "lang": "en",
         "canonical": true
       }
@@ -749,6 +1181,26 @@
         "canonical": true
       }
     ],
+    "eyelet": [
+      {
+        "ref": "primitives/materials/eyelet.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "eyelet",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "fastener": [
+      {
+        "ref": "categories/fastener",
+        "class": "category",
+        "kind": null,
+        "name": "fastener",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "fava bean": [
       {
         "ref": "primitives/materials/produce/vegetables/fava-bean.json",
@@ -765,6 +1217,26 @@
         "class": "primitive",
         "kind": "material",
         "name": "fennel",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "fiebing pro dye": [
+      {
+        "ref": "primitives/materials/fiebings-pro-dye.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "Fiebing Pro Dye",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "fiebing's pro dye": [
+      {
+        "ref": "primitives/materials/fiebings-pro-dye.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "Fiebing's Pro Dye",
         "lang": "en",
         "canonical": true
       }
@@ -995,6 +1467,16 @@
         "canonical": false
       }
     ],
+    "grommet": [
+      {
+        "ref": "primitives/materials/eyelet.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "grommet",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "guanciale": [
       {
         "ref": "primitives/materials/guanciale.json",
@@ -1015,6 +1497,74 @@
         "canonical": true
       }
     ],
+    "gum tragacanth": [
+      {
+        "ref": "primitives/materials/gum-tragacanth.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "gum tragacanth",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "hand press": [
+      {
+        "ref": "primitives/tools/hand-press.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "hand press",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "hardware": [
+      {
+        "ref": "categories/hardware",
+        "class": "category",
+        "kind": null,
+        "name": "hardware",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "harness leather": [
+      {
+        "ref": "categories/harness-leather",
+        "class": "category",
+        "kind": null,
+        "name": "harness leather",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/harness-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "harness leather",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "harness needle": [
+      {
+        "ref": "primitives/tools/harness-needle.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "harness needle",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "head knife": [
+      {
+        "ref": "primitives/tools/head-knife.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "head knife",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "hen's egg": [
       {
         "ref": "primitives/materials/egg.json",
@@ -1023,6 +1573,16 @@
         "name": "hen's egg",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "hole punch": [
+      {
+        "ref": "primitives/tools/hole-punch.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "hole punch",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "honeydew": [
@@ -1073,6 +1633,16 @@
         "name": "kale",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "key ring": [
+      {
+        "ref": "primitives/materials/split-ring.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "key ring",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "kitchen utensil": [
@@ -1155,6 +1725,96 @@
         "canonical": true
       }
     ],
+    "leather": [
+      {
+        "ref": "categories/leather",
+        "class": "category",
+        "kind": null,
+        "name": "leather",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "leather balm": [
+      {
+        "ref": "primitives/materials/leather-conditioner.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "leather balm",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "leather conditioner": [
+      {
+        "ref": "primitives/materials/leather-conditioner.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "leather conditioner",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "leather dye": [
+      {
+        "ref": "primitives/materials/leather-dye.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "leather dye",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "leather finish": [
+      {
+        "ref": "categories/leather-finish",
+        "class": "category",
+        "kind": null,
+        "name": "leather finish",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "leather glue": [
+      {
+        "ref": "primitives/materials/contact-cement.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "leather glue",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "leather mallet": [
+      {
+        "ref": "primitives/tools/mallet.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "leather mallet",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "leather scissors": [
+      {
+        "ref": "primitives/tools/leather-scissors.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "leather scissors",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "leather shears": [
+      {
+        "ref": "primitives/tools/leather-scissors.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "leather shears",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "leek": [
       {
         "ref": "primitives/materials/produce/vegetables/leek.json",
@@ -1205,6 +1865,16 @@
         "canonical": true
       }
     ],
+    "lever snap": [
+      {
+        "ref": "primitives/materials/snap-hook.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "lever snap",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "lime": [
       {
         "ref": "primitives/materials/produce/fruits/lime.json",
@@ -1235,6 +1905,16 @@
         "canonical": true
       }
     ],
+    "magnetic snap": [
+      {
+        "ref": "primitives/materials/magnetic-snap.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "magnetic snap",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "maize": [
       {
         "ref": "primitives/materials/produce/vegetables/sweetcorn.json",
@@ -1243,6 +1923,24 @@
         "name": "maize",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "mallet": [
+      {
+        "ref": "categories/mallet",
+        "class": "category",
+        "kind": null,
+        "name": "mallet",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/mallet.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "mallet",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "mandarin": [
@@ -1285,12 +1983,70 @@
         "canonical": false
       }
     ],
+    "marking tool": [
+      {
+        "ref": "categories/marking-tool",
+        "class": "category",
+        "kind": null,
+        "name": "marking tool",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "maul": [
+      {
+        "ref": "categories/maul",
+        "class": "category",
+        "kind": null,
+        "name": "maul",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/maul.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "maul",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "melon": [
       {
         "ref": "categories/melon",
         "class": "category",
         "kind": null,
         "name": "melon",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "metal straightedge": [
+      {
+        "ref": "primitives/tools/steel-ruler.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "metal straightedge",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "mink oil": [
+      {
+        "ref": "primitives/materials/mink-oil.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "mink oil",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "neatsfoot oil": [
+      {
+        "ref": "primitives/materials/neatsfoot-oil.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "neatsfoot oil",
         "lang": "en",
         "canonical": true
       }
@@ -1311,6 +2067,54 @@
         "class": "category",
         "kind": null,
         "name": "nightshade",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "o-ring": [
+      {
+        "ref": "primitives/materials/o-ring.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "O-ring",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "offcuts": [
+      {
+        "ref": "primitives/materials/scrap-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "offcuts",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "oil tan": [
+      {
+        "ref": "primitives/materials/oil-tanned-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "oil tan",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "oil-tanned leather": [
+      {
+        "ref": "categories/oil-tanned-leather",
+        "class": "category",
+        "kind": null,
+        "name": "oil-tanned leather",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/oil-tanned-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "oil-tanned leather",
         "lang": "en",
         "canonical": true
       }
@@ -1355,6 +2159,26 @@
         "canonical": true
       }
     ],
+    "osborne diamond awl": [
+      {
+        "ref": "primitives/tools/osborne-diamond-awl.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Osborne diamond awl",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "osborne head knife": [
+      {
+        "ref": "primitives/tools/osborne-head-knife.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Osborne head knife",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "pak choi": [
       {
         "ref": "primitives/materials/produce/vegetables/bok-choy.json",
@@ -1383,6 +2207,16 @@
         "name": "papaya",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "paring knife": [
+      {
+        "ref": "primitives/tools/skiving-knife.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "paring knife",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "parsnip": [
@@ -1575,6 +2409,54 @@
         "canonical": true
       }
     ],
+    "poundboard": [
+      {
+        "ref": "primitives/tools/poundboard.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "poundboard",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "press stud": [
+      {
+        "ref": "primitives/materials/snap-button.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "press stud",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "pricking chisel": [
+      {
+        "ref": "primitives/tools/diamond-stitching-chisel.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "pricking chisel",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "pricking iron": [
+      {
+        "ref": "categories/pricking-iron",
+        "class": "category",
+        "kind": null,
+        "name": "pricking iron",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/pricking-iron.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "pricking iron",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "pulse": [
       {
         "ref": "categories/legume",
@@ -1591,6 +2473,26 @@
         "class": "primitive",
         "kind": "material",
         "name": "pumpkin",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "punching board": [
+      {
+        "ref": "primitives/tools/poundboard.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "punching board",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "punching tool": [
+      {
+        "ref": "categories/punching-tool",
+        "class": "category",
+        "kind": null,
+        "name": "punching tool",
         "lang": "en",
         "canonical": true
       }
@@ -1655,6 +2557,16 @@
         "canonical": true
       }
     ],
+    "remnant leather": [
+      {
+        "ref": "primitives/materials/scrap-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "remnant leather",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "render guanciale": [
       {
         "ref": "primitives/techniques/render-guanciale.json",
@@ -1665,12 +2577,62 @@
         "canonical": true
       }
     ],
+    "revolving punch": [
+      {
+        "ref": "primitives/tools/rotary-punch.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "revolving punch",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "rhubarb": [
       {
         "ref": "primitives/materials/produce/vegetables/rhubarb.json",
         "class": "primitive",
         "kind": "material",
         "name": "rhubarb",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "ring and hook": [
+      {
+        "ref": "categories/ring-and-hook",
+        "class": "category",
+        "kind": null,
+        "name": "ring and hook",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "ritza 25 thread": [
+      {
+        "ref": "primitives/materials/ritza-tiger-thread.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "Ritza 25 thread",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "rivet": [
+      {
+        "ref": "primitives/materials/rivet.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "rivet",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "rivet setter": [
+      {
+        "ref": "primitives/tools/rivet-setter.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "rivet setter",
         "lang": "en",
         "canonical": true
       }
@@ -1705,12 +2667,82 @@
         "canonical": true
       }
     ],
+    "rotary cutter": [
+      {
+        "ref": "primitives/tools/rotary-cutter.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "rotary cutter",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "rotary punch": [
+      {
+        "ref": "primitives/tools/rotary-punch.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "rotary punch",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "round knife": [
+      {
+        "ref": "primitives/tools/round-knife.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "round knife",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "rutabaga": [
       {
         "ref": "primitives/materials/produce/vegetables/rutabaga.json",
         "class": "primitive",
         "kind": "material",
         "name": "rutabaga",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "saddle soap": [
+      {
+        "ref": "primitives/materials/saddle-soap.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "saddle soap",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "saddler's needle": [
+      {
+        "ref": "primitives/tools/harness-needle.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "saddler's needle",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "sam browne stud": [
+      {
+        "ref": "primitives/materials/button-stud.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "Sam Browne stud",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "sanding stick": [
+      {
+        "ref": "primitives/tools/sanding-stick.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "sanding stick",
         "lang": "en",
         "canonical": true
       }
@@ -1725,12 +2757,110 @@
         "canonical": true
       }
     ],
+    "scrap leather": [
+      {
+        "ref": "primitives/materials/scrap-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "scrap leather",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "scratch awl": [
+      {
+        "ref": "categories/scratch-awl",
+        "class": "category",
+        "kind": null,
+        "name": "scratch awl",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/scratch-awl.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "scratch awl",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "screw rivet": [
+      {
+        "ref": "primitives/materials/chicago-screw.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "screw rivet",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "seam ripper": [
+      {
+        "ref": "primitives/tools/seam-ripper.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "seam ripper",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "self-healing cutting mat": [
+      {
+        "ref": "primitives/tools/cutting-mat.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "self-healing cutting mat",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "setting tool": [
+      {
+        "ref": "categories/setting-tool",
+        "class": "category",
+        "kind": null,
+        "name": "setting tool",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "sex bolt": [
+      {
+        "ref": "primitives/materials/chicago-screw.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "sex bolt",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "shallot": [
       {
         "ref": "primitives/materials/produce/vegetables/shallot.json",
         "class": "primitive",
         "kind": "material",
         "name": "shallot",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "sharpening stone": [
+      {
+        "ref": "primitives/tools/whetstone.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "sharpening stone",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "sharpening tool": [
+      {
+        "ref": "categories/sharpening-tool",
+        "class": "category",
+        "kind": null,
+        "name": "sharpening tool",
         "lang": "en",
         "canonical": true
       }
@@ -1745,6 +2875,36 @@
         "canonical": true
       }
     ],
+    "skiving knife": [
+      {
+        "ref": "primitives/tools/skiving-knife.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "skiving knife",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "snap button": [
+      {
+        "ref": "primitives/materials/snap-button.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "snap button",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "snap hook": [
+      {
+        "ref": "primitives/materials/snap-hook.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "snap hook",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "snap pea": [
       {
         "ref": "primitives/materials/produce/vegetables/snap-pea.json",
@@ -1753,6 +2913,26 @@
         "name": "snap pea",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "snap setter": [
+      {
+        "ref": "primitives/tools/snap-setter.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "snap setter",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "snap-blade knife": [
+      {
+        "ref": "primitives/tools/utility-knife.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "snap-blade knife",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "soybean": [
@@ -1805,6 +2985,16 @@
         "canonical": true
       }
     ],
+    "split ring": [
+      {
+        "ref": "primitives/materials/split-ring.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "split ring",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "spring onion": [
       {
         "ref": "primitives/materials/produce/vegetables/scallion.json",
@@ -1825,12 +3015,92 @@
         "canonical": true
       }
     ],
+    "steel ruler": [
+      {
+        "ref": "primitives/tools/steel-ruler.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "steel ruler",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "stem vegetable": [
       {
         "ref": "categories/stem-vegetable",
         "class": "category",
         "kind": null,
         "name": "stem vegetable",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "stitch groover": [
+      {
+        "ref": "primitives/tools/stitch-groover.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "stitch groover",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "stitching awl": [
+      {
+        "ref": "primitives/tools/stitching-awl.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "stitching awl",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "stitching chisel": [
+      {
+        "ref": "categories/stitching-chisel",
+        "class": "category",
+        "kind": null,
+        "name": "stitching chisel",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "stitching clam": [
+      {
+        "ref": "primitives/tools/stitching-pony.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "stitching clam",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "stitching horse": [
+      {
+        "ref": "primitives/tools/stitching-pony.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "stitching horse",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "stitching pony": [
+      {
+        "ref": "primitives/tools/stitching-pony.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "stitching pony",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "stitching tool": [
+      {
+        "ref": "categories/stitching-tool",
+        "class": "category",
+        "kind": null,
+        "name": "stitching tool",
         "lang": "en",
         "canonical": true
       }
@@ -1855,6 +3125,16 @@
         "canonical": true
       }
     ],
+    "strap cutter": [
+      {
+        "ref": "primitives/tools/strap-cutter.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "strap cutter",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "strawberry": [
       {
         "ref": "primitives/materials/produce/fruits/strawberry.json",
@@ -1873,6 +3153,44 @@
         "name": "string bean",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "strop": [
+      {
+        "ref": "primitives/tools/strop.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "strop",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "strop and compound": [
+      {
+        "ref": "primitives/tools/strop.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "strop and compound",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "suede": [
+      {
+        "ref": "categories/suede",
+        "class": "category",
+        "kind": null,
+        "name": "suede",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/suede.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "suede",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "sugar snap pea": [
@@ -1935,6 +3253,66 @@
         "canonical": true
       }
     ],
+    "thread": [
+      {
+        "ref": "categories/thread",
+        "class": "category",
+        "kind": null,
+        "name": "thread",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "thread burner": [
+      {
+        "ref": "primitives/tools/thread-zapper.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "thread burner",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "thread zapper": [
+      {
+        "ref": "primitives/tools/thread-zapper.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "thread zapper",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "tiger thread": [
+      {
+        "ref": "primitives/materials/ritza-tiger-thread.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "Tiger thread",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "tokonole": [
+      {
+        "ref": "primitives/materials/tokonole.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "Tokonole",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "tokonole burnishing gum": [
+      {
+        "ref": "primitives/materials/tokonole.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "Tokonole burnishing gum",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "tomato": [
       {
         "ref": "primitives/materials/produce/vegetables/tomato.json",
@@ -1943,6 +3321,16 @@
         "name": "tomato",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "trigger snap": [
+      {
+        "ref": "primitives/materials/snap-hook.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "trigger snap",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "tropical fruit": [
@@ -1965,12 +3353,68 @@
         "canonical": true
       }
     ],
+    "utility knife": [
+      {
+        "ref": "primitives/tools/utility-knife.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "utility knife",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "veg-tan": [
+      {
+        "ref": "categories/vegetable-tanned-leather",
+        "class": "category",
+        "kind": null,
+        "name": "veg-tan",
+        "lang": "en",
+        "canonical": false
+      },
+      {
+        "ref": "primitives/materials/vegetable-tanned-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "veg-tan",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "veg-tan leather": [
+      {
+        "ref": "primitives/materials/vegetable-tanned-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "veg-tan leather",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "vegetable": [
       {
         "ref": "categories/vegetable",
         "class": "category",
         "kind": null,
         "name": "vegetable",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "vegetable-tanned leather": [
+      {
+        "ref": "categories/vegetable-tanned-leather",
+        "class": "category",
+        "kind": null,
+        "name": "vegetable-tanned leather",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/vegetable-tanned-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "vegetable-tanned leather",
         "lang": "en",
         "canonical": true
       }
@@ -1995,6 +3439,36 @@
         "canonical": true
       }
     ],
+    "waxed linen thread": [
+      {
+        "ref": "primitives/materials/waxed-linen-thread.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "waxed linen thread",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "waxed polyester thread": [
+      {
+        "ref": "primitives/materials/waxed-polyester-thread.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "waxed polyester thread",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "whetstone": [
+      {
+        "ref": "primitives/tools/whetstone.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "whetstone",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "whisk": [
       {
         "ref": "categories/whisk",
@@ -2009,6 +3483,26 @@
         "class": "primitive",
         "kind": "tool",
         "name": "whisk",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "wing divider": [
+      {
+        "ref": "primitives/tools/wing-divider.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "wing divider",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "zipper": [
+      {
+        "ref": "primitives/materials/zipper.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "zipper",
         "lang": "en",
         "canonical": true
       }

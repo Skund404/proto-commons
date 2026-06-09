@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:4da4f131cb5b80cfac25ffb5c8416ae729f1db5bc44d9bc3a537f6a9bc87cd9a",
+  "created": "2026-06-09",
+  "description": "A round ring used as a connector and anchor point where pull comes from any direction.",
+  "emitter": "opg://commons-seed",
+  "id": "o-ring-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "O-ring",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "hardware",
+    "names": {
+      "en": [
+        "O-ring"
+      ]
+    },
+    "taxonomy": "ring-and-hook",
+    "unit": "piece"
+  },
+  "slug": "o-ring",
+  "tags": [
+    "hardware",
+    "ring-and-hook"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,11 @@
+{
+  "format_version": "1.0",
+  "id": "vegetable-tanned-leather",
+  "names": {
+    "en": [
+      "vegetable-tanned leather",
+      "veg-tan"
+    ]
+  },
+  "specializes": "leather"
+}

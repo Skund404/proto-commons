@@ -1,0 +1,35 @@
+{
+  "content_hash": "sha256:8255f5284ceddf8aeb0509202a74c12d0d1d7c25345e19ee7f8b853dd61ce9e9",
+  "created": "2026-06-09",
+  "description": "A Barry King tapered poly-head maul with a leather-wrapped handle and balanced steel/brass core — a widely cited bench-standard striking tool.",
+  "emitter": "opg://commons-seed",
+  "id": "barry-king-maul-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "Barry King maul",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "punching",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Barry King",
+    "model": "Round taper-head maul",
+    "names": {
+      "en": [
+        "Barry King maul"
+      ]
+    },
+    "origin": "USA",
+    "taxonomy": "maul"
+  },
+  "slug": "barry-king-maul",
+  "tags": [
+    "punching",
+    "maul"
+  ],
+  "visibility": "commons"
+}

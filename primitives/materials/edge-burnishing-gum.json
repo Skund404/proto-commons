@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:a5a88085ab4da25636a1224597cf30bb3735afc69a630154a580470ba3163672",
+  "created": "2026-06-09",
+  "description": "A gum-and-wax compound worked into an edge before slicking to lay the fibers down and bring up a hard, glassy finish.",
+  "emitter": "opg://commons-seed",
+  "id": "edge-burnishing-gum-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "edge burnishing gum",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "leather-care",
+    "names": {
+      "en": [
+        "edge burnishing gum",
+        "burnishing agent"
+      ]
+    },
+    "taxonomy": "edge-burnishing-gum",
+    "unit": "ml"
+  },
+  "slug": "edge-burnishing-gum",
+  "tags": [
+    "leather-care",
+    "edge-burnishing-gum"
+  ],
+  "visibility": "commons"
+}

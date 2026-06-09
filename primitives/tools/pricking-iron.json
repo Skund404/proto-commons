@@ -1,0 +1,32 @@
+{
+  "content_hash": "sha256:bfd45052756353890f16c052da1f17d32e57950415dfa45733fb10dbd0227db5",
+  "created": "2026-06-09",
+  "description": "Marks crisp, angled stitch points on the surface; the holes are then opened with an awl as you sew.",
+  "emitter": "opg://commons-seed",
+  "id": "pricking-iron-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "pricking iron",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "punching",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "pricking iron"
+      ]
+    },
+    "taxonomy": "pricking-iron"
+  },
+  "slug": "pricking-iron",
+  "tags": [
+    "punching",
+    "pricking-iron"
+  ],
+  "visibility": "commons"
+}

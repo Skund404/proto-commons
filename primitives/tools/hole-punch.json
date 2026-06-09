@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:04106192afaa39d0d16332874afe8fc5f1c6c97924977dff6c404317ede74d43",
+  "created": "2026-06-09",
+  "description": "A single-size tube driven with a mallet to punch one hole — sized to the rivet, snap or lace it serves.",
+  "emitter": "opg://commons-seed",
+  "id": "hole-punch-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "hole punch",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "punching",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "hole punch",
+        "drive punch"
+      ]
+    },
+    "taxonomy": "punching-tool"
+  },
+  "slug": "hole-punch",
+  "tags": [
+    "punching",
+    "punching-tool"
+  ],
+  "visibility": "commons"
+}

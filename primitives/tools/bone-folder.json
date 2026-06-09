@@ -1,0 +1,32 @@
+{
+  "content_hash": "sha256:e090b424cbf289338375f189757d58df042df6a4c6ae62b8f084af776ef13fbf",
+  "created": "2026-06-09",
+  "description": "A smooth blade for creasing folds, pressing seams, and working leather without leaving tool marks.",
+  "emitter": "opg://commons-seed",
+  "id": "bone-folder-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "bone folder",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "edgework",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "bone folder"
+      ]
+    },
+    "taxonomy": "edgework-tool"
+  },
+  "slug": "bone-folder",
+  "tags": [
+    "edgework",
+    "edgework-tool"
+  ],
+  "visibility": "commons"
+}

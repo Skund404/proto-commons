@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:37e10778a58eaadfd2017ff2a04b56c76b45a3e896895ddd93eccd89e90d61cb",
+  "created": "2026-06-09",
+  "description": "A D-shaped ring anchored to leather as an attachment point for straps, snap hooks and hardware.",
+  "emitter": "opg://commons-seed",
+  "id": "d-ring-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "D-ring",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "hardware",
+    "names": {
+      "en": [
+        "D-ring"
+      ]
+    },
+    "taxonomy": "ring-and-hook",
+    "unit": "piece"
+  },
+  "slug": "d-ring",
+  "tags": [
+    "hardware",
+    "ring-and-hook"
+  ],
+  "visibility": "commons"
+}

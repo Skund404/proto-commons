@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:d5f585297e5a2ee175ae70ff2174751c7612f2afa2a9c427093eadd23e3e156e",
+  "created": "2026-06-09",
+  "description": "Tough, weather-resistant veg-tan with lower oil content, built for straps and gear that take real load and exposure.",
+  "emitter": "opg://commons-seed",
+  "id": "harness-leather-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "harness leather",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "leather",
+    "names": {
+      "en": [
+        "harness leather"
+      ]
+    },
+    "taxonomy": "harness-leather",
+    "unit": "sqft"
+  },
+  "slug": "harness-leather",
+  "tags": [
+    "leather",
+    "harness-leather"
+  ],
+  "visibility": "commons"
+}

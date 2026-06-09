@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:eeac2c78cecd79516572c5cd643ff836fd369d2128206d8eb279b088fd205f92",
+  "created": "2026-06-09",
+  "description": "Braided, lightly waxed polyester — strong, UV-stable and forgiving; the everyday default for hand saddle stitching.",
+  "emitter": "opg://commons-seed",
+  "id": "waxed-polyester-thread-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "waxed polyester thread",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "thread",
+    "names": {
+      "en": [
+        "waxed polyester thread"
+      ]
+    },
+    "taxonomy": "thread",
+    "unit": "m"
+  },
+  "slug": "waxed-polyester-thread",
+  "tags": [
+    "thread",
+    "thread"
+  ],
+  "visibility": "commons"
+}

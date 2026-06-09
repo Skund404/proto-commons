@@ -1,0 +1,32 @@
+{
+  "content_hash": "sha256:77ea7a2949455a1c225eb18d66e34fbdb2254eae922e2ca5b707c99b4d2bb346",
+  "created": "2026-06-09",
+  "description": "Cuts a shallow channel that recesses the stitch line below the grain so thread sits protected from abrasion.",
+  "emitter": "opg://commons-seed",
+  "id": "stitch-groover-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "stitch groover",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "marking",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "stitch groover"
+      ]
+    },
+    "taxonomy": "marking-tool"
+  },
+  "slug": "stitch-groover",
+  "tags": [
+    "marking",
+    "marking-tool"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:f8f07f5148c9d878bdce261f4e9a27a2177ccf093d667ecd3276c42241ecfcc8",
+  "created": "2026-06-09",
+  "description": "A four-part fastener that opens and closes with a press, for flaps, straps and small goods.",
+  "emitter": "opg://commons-seed",
+  "id": "snap-button-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "snap button",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "hardware",
+    "names": {
+      "en": [
+        "snap button",
+        "press stud"
+      ]
+    },
+    "taxonomy": "closure",
+    "unit": "piece"
+  },
+  "slug": "snap-button",
+  "tags": [
+    "hardware",
+    "closure"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:81e218c69b4d00e4a4737127bb40a6759411182e2071ec0d408f19abba0cec7d",
+  "created": "2026-06-09",
+  "description": "A framed fastener with a tongue for adjustable straps on belts, bags and gear.",
+  "emitter": "opg://commons-seed",
+  "id": "buckle-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-09",
+  "name": "buckle",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "hardware",
+    "names": {
+      "en": [
+        "buckle"
+      ]
+    },
+    "taxonomy": "closure",
+    "unit": "piece"
+  },
+  "slug": "buckle",
+  "tags": [
+    "hardware",
+    "closure"
+  ],
+  "visibility": "commons"
+}
