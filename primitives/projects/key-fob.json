@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:d674300d2cb50a2b6c42f0965fb9c75e1da6b578542651b8ba8d38a9528161f7",
+  "content_hash": "sha256:ae94669ffd9eac5d28b673eb065c79486ebab74a103b1c1a25899180d9637f46",
   "created": "2026-06-09",
   "description": "A short strap folded around a split ring and riveted closed — the classic first project: one cut, a punch, a rivet, and finished edges.",
   "emitter": "opg://commons-seed",
@@ -45,7 +45,7 @@
   "relationships": [
     {
       "target": {
-        "hash": "sha256:eb79f77cfc086dd498a5baab484a26574dcd04450387c3bfc70ffb567f337cee",
+        "hash": "sha256:9ee3632eb181ef6488f644b204a2da760acfcd98c26c98838c939221f2ca1a98",
         "id": "leather-strap-construction-seed",
         "path": "primitives/workflows/leather-strap-construction.json"
       },
@@ -53,7 +53,7 @@
     },
     {
       "target": {
-        "hash": "sha256:0729c9c19e5334aa1463ceedd2393ffaf2478fac192ec40c2733ddea0a330451",
+        "hash": "sha256:369b4e4a7e74e528af6f357a56879bbd917ccb58628143813c75cd455de9c7f1",
         "id": "vegetable-tanned-leather-seed",
         "path": "primitives/materials/vegetable-tanned-leather.json"
       },
@@ -61,7 +61,7 @@
     },
     {
       "target": {
-        "hash": "sha256:7f6b5f5c281f1b32a1774c04d24952950e5be8e97db610d5fc4f981b2577f9bd",
+        "hash": "sha256:dcc63e92f000cfc09cad751c1142a88acfe95a68dd4a1dca23a9375e38fec330",
         "id": "rivet-seed",
         "path": "primitives/materials/rivet.json"
       },
@@ -69,7 +69,7 @@
     },
     {
       "target": {
-        "hash": "sha256:d7f56651a68b5f99fcbde919a8e5e55346a13279deb730df45549d12e5a4ae05",
+        "hash": "sha256:699dbd9c94826c8464363f30578fae9021bb46cca7cb14b9b8f42b1851181fed",
         "id": "split-ring-seed",
         "path": "primitives/materials/split-ring.json"
       },
@@ -78,6 +78,7 @@
   ],
   "slug": "key-fob",
   "tags": [
+    "leatherwork",
     "leatherwork-project",
     "leather-good"
   ],

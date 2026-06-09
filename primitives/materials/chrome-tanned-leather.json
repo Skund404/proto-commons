@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:fed69e40ed3a843bcd3b47b7beeba570cb13183d7b818f138d95958501ed98f1",
+  "content_hash": "sha256:b264bb3a2a9a914602015d5043636e58fceed90e2bf1bfcd51cbfab1b8d25d9c",
   "created": "2026-06-09",
   "description": "Soft, pliable hide tanned with chromium salts; common for garments, linings and bags, and the most forgiving to stitch.",
   "emitter": "opg://commons-seed",
@@ -27,6 +27,7 @@
   },
   "slug": "chrome-tanned-leather",
   "tags": [
+    "leatherwork",
     "leather",
     "chrome-tanned-leather"
   ],

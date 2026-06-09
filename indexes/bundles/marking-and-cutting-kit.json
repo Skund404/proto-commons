@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:7f473905822844f070938f3e356b3a4cfd3adfcaa2821f09bf29d9e8582d78cb",
+  "content_hash": "sha256:7175e0b3ff09265d8d51c695e515b08a092e046e7ddf3f48abf7f7771058b2d6",
   "description": {
     "en": "The layout-and-cut bench set: mark patterns, measure, and cut clean pieces."
   },
@@ -7,42 +7,42 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:332e47b0439764db4481c8059314df6127bbdded5e81f91c74546afaacda3e49",
+      "hash": "sha256:4b101a837b33ba57ceeca04a02a26172c266c36111a2cafc0f07af9cca794c32",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "scratch-awl"
     },
     {
-      "hash": "sha256:e1f16efde104b0b17b16313666ceb9bb34091ad489a73a091b15ed9217dab06c",
+      "hash": "sha256:86de3709771335e0fdd5b2dcb4c9cfa5734f7af296e9686ec1a7bca9a4d41b08",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "wing-divider"
     },
     {
-      "hash": "sha256:6d4360afb4dcfb15c7cf453d5a5228f626e685fc0c6a645ed8e6d9502816a751",
+      "hash": "sha256:05e5b267ba38772c1dbaa06f0f3af6c33171fe8d1b1b4ebade52f70099586ca8",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "head-knife"
     },
     {
-      "hash": "sha256:bedb5967cdbc46fb0916632310b2d09766ad86fb49d68d1b4476efc427cffce8",
+      "hash": "sha256:25185de41b744aba1daf4d894c46522ef89bc548691585516e707264de09b306",
       "kind": "tool",
       "record_class": "primitive",
       "role": "required",
       "slug": "cutting-mat"
     },
     {
-      "hash": "sha256:b7cc9d5529f84f9f0b630eba5103b273d192bcf66ce9a2ed6a0aa1ac10b53a92",
+      "hash": "sha256:1fee1decbd0701af942a193973ff01458dbfa1c8319682330c96e4665d157ef4",
       "kind": "tool",
       "record_class": "primitive",
       "role": "required",
       "slug": "steel-ruler"
     },
     {
-      "hash": "sha256:4bab477f910dd7be7bf348d002440399370211c360dc82b5bd822bf9fe970b73",
+      "hash": "sha256:e7c9388312e277d44c9d9578302fe6d604e1dde57a8c14a2ee1774dd97a974c0",
       "kind": "tool",
       "record_class": "primitive",
       "role": "optional",

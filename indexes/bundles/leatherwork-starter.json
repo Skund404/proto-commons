@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:b2ebba75883b5cbf72a37875f5d33475234b920300f73ff67fbc6d9fa4c68040",
+  "content_hash": "sha256:c56b11e594895c994ee09f6819b9a373a343350f1c4dd48316458b3607e05690",
   "description": {
     "en": "The complete beginner's bench, assembled from the marking/cutting, saddle-stitch, edge-finishing, and hardware kits plus veg-tan starter materials."
   },
@@ -7,31 +7,31 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:7f473905822844f070938f3e356b3a4cfd3adfcaa2821f09bf29d9e8582d78cb",
+      "hash": "sha256:7175e0b3ff09265d8d51c695e515b08a092e046e7ddf3f48abf7f7771058b2d6",
       "record_class": "bundle",
       "role": "required",
       "slug": "marking-and-cutting-kit"
     },
     {
-      "hash": "sha256:e9b192a6afcfba9b06c2a571968e677e9adff0075d898b33fec40dfb2436305c",
+      "hash": "sha256:61f2e46439c28149fac500ce0cc1e6c56a55c7924f91b363c7e63fdd9bb9c5b8",
       "record_class": "bundle",
       "role": "required",
       "slug": "saddle-stitch-essentials"
     },
     {
-      "hash": "sha256:49108219c8799b3290f4f90b0a1292d438ef4e5a12405fb9a468d86898b910a7",
+      "hash": "sha256:54b29891a6e880f291a4bc72dd33de3d7ff0e98809dfa2419acb18da469aad84",
       "record_class": "bundle",
       "role": "recommended",
       "slug": "edge-finishing-kit"
     },
     {
-      "hash": "sha256:3c11ecc7c31fa5256f60570c2c9b0cca0127747b8108a264edefa978e695bcfc",
+      "hash": "sha256:64808ccde7a4897cec97863d10fd5ccb30ff7b1980e918d321027f3fb33daeaa",
       "record_class": "bundle",
       "role": "recommended",
       "slug": "hardware-setting-kit"
     },
     {
-      "hash": "sha256:813c25119d2cacec3dc1a2f96c32c174f7864c38d4042fce5654fed1ccac0694",
+      "hash": "sha256:a51842e85654aa39cf6bb2eb391773e4eb227a9ba96de7a81f421fe2c954ec09",
       "record_class": "bundle",
       "role": "required",
       "slug": "veg-tan-starter"

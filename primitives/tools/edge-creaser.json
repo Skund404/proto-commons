@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:72f0c200ce4839ce4f16ebf4c5bc01815ccd5d73741f7fad0f9a7c5577a18dc2",
+  "content_hash": "sha256:5976545db628d478bd31dde0c8dd4ae5c062730a1f624b59277218d3c5d42019",
   "created": "2026-06-09",
   "description": "Presses a fine decorative bead line parallel to an edge or pocket top for a finished, framed look.",
   "emitter": "opg://commons-seed",
@@ -25,6 +25,7 @@
   },
   "slug": "edge-creaser",
   "tags": [
+    "leatherwork",
     "marking",
     "marking-tool"
   ],

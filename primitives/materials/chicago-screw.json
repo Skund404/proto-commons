@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:34b9547a8473bc1b9d66f909c6ee28980c4433917a9100270be94f97633bd954",
+  "content_hash": "sha256:832176041d9794bb4da2f6f98e7b83683ec40e0974c07773dc2f72af3b125d39",
   "created": "2026-06-09",
   "description": "A screw-together post and cap that fastens layers but can be opened again — ideal where parts may need swapping.",
   "emitter": "opg://commons-seed",
@@ -28,6 +28,7 @@
   },
   "slug": "chicago-screw",
   "tags": [
+    "leatherwork",
     "hardware",
     "fastener"
   ],

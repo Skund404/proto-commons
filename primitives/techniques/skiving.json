@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:e4a1dbb12849214928d6203b6e4686afc2e80b533fb199f1597c3b071b9a6798",
+  "content_hash": "sha256:e1b8ce23841ce453083d703922ac293e4844b6b586f027f955e86b0f1750d655",
   "created": "2026-06-09",
   "description": "Shave leather thinner where it folds or overlaps so seams and edges stay slim and lie flat.",
   "emitter": "opg://commons-seed",
@@ -27,7 +27,7 @@
   "relationships": [
     {
       "target": {
-        "hash": "sha256:d5fbd50a7ef105c1ddd1da87e0dce0837724db0581c7e1be944f46ba4e5a043c",
+        "hash": "sha256:cdf9166e494275bb86e2c2e47be907749dae57f9a1bd758273821fb7a0d08f97",
         "id": "skiving-knife-seed",
         "path": "primitives/tools/skiving-knife.json"
       },
@@ -36,6 +36,7 @@
   ],
   "slug": "skiving",
   "tags": [
+    "leatherwork",
     "cutting-technique",
     "intermediate"
   ],

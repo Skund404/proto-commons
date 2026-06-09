@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:99050d2bd73f9d87c7db2523e0e121c7ab2936a6e7828ba6e744a21ea15848aa",
+  "content_hash": "sha256:e207e39d5c45d1fa6a630411ffb4b647ab6baa5f3aca96f711f82190f382ac46",
   "description": {
     "en": "A catalogue of dyes, oils, conditioners, and edge agents."
   },
@@ -7,63 +7,63 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:9cdb2de58fe2dd99144dfdc61afbd9c90325491c14f5ef68079e74c63e45394a",
+      "hash": "sha256:7570807d84db716c3d7fbb09d7e4d54d39e85209a512d7b04a69b76f6e947563",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "leather-dye"
     },
     {
-      "hash": "sha256:9089c2ecfa0f2be38447720115c36588205e7278ebafb9a973f9e4537025c473",
+      "hash": "sha256:42d7f471b0e832fcc525acc44b4540b54ab2f41666ba80179a53c7cf95c9c76e",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "neatsfoot-oil"
     },
     {
-      "hash": "sha256:4ea0c706fabfb8423f4dcc25da9268522c5944d6dc8d2e6cc5b6693e48814714",
+      "hash": "sha256:927126df4724fdf95719c250dea5256aff4c1a757fc4c93d81f2834db919b868",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "mink-oil"
     },
     {
-      "hash": "sha256:a12786ac20b3e10eac3b1a4ebc8ace1e8c6b9efa46d64d82c13a4aaa9a7624d8",
+      "hash": "sha256:3c0eccecb2cb3db9472e67af1f361b2c96d48f443e279c289516428a3461e1d2",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "saddle-soap"
     },
     {
-      "hash": "sha256:ea5b0b2834ab1b75ac746dfab8e542a098d37ad127a304c59b97602e58e449fe",
+      "hash": "sha256:0df0a697c32073b72fcff1dcad6b020810b730d5f8fd7ff8dbf864753c74b5b4",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "leather-conditioner"
     },
     {
-      "hash": "sha256:12533b9a81c783164dbe29c3d41fe654845e819dd8cfce83e42b9d1132a6b7a1",
+      "hash": "sha256:7a0a1558e2004577b652ef3f912f2dc0767cf5de6064c6dd75e59863e6aee4da",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "acrylic-resolene-finish"
     },
     {
-      "hash": "sha256:a5a88085ab4da25636a1224597cf30bb3735afc69a630154a580470ba3163672",
+      "hash": "sha256:4c1e6ead9b31b2c8ab12df72a351d39669d41bc431d3d425dae83e2947f09f3d",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "edge-burnishing-gum"
     },
     {
-      "hash": "sha256:9361b7ae2ff39afbe8b11079d3513ad24af045a44d8fa5c291d499d40b6bde62",
+      "hash": "sha256:59e2c06eb879c0150c423c0cd9141c07bd6001fee1cb71fb142e1437968a73cf",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "gum-tragacanth"
     },
     {
-      "hash": "sha256:41f9ee4f63fc350fc1d9566951c4c1a890c81035160d5ca71c23e9ecce3c3a06",
+      "hash": "sha256:da26fc3621d63113ba1767e74ba25cd0dc2332456812e95ba14f80d9f751e92d",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",

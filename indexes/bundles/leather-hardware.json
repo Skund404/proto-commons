@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:50f875db3dc96f61604c409820a4fdfcd2ec7b9e7c0bae6bbcc0beb9e8b99c47",
+  "content_hash": "sha256:fab0e794002cdab2203c14684d74d1d52cfaa05c4f9237015f3e9b7c12565658",
   "description": {
     "en": "A catalogue of common closures, rings, hooks, and fasteners."
   },
@@ -7,91 +7,91 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:7f6b5f5c281f1b32a1774c04d24952950e5be8e97db610d5fc4f981b2577f9bd",
+      "hash": "sha256:dcc63e92f000cfc09cad751c1142a88acfe95a68dd4a1dca23a9375e38fec330",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "rivet"
     },
     {
-      "hash": "sha256:93d9e09b47cc06826a98cb7353a1ad777fb714209dbe2729b5ba1d69b88f6c14",
+      "hash": "sha256:5eed37292a387dc6e54d81bc32e9a677bba2170c1dfaa341f3fe3a1807e7ad19",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "double-cap-rivet"
     },
     {
-      "hash": "sha256:34b9547a8473bc1b9d66f909c6ee28980c4433917a9100270be94f97633bd954",
+      "hash": "sha256:832176041d9794bb4da2f6f98e7b83683ec40e0974c07773dc2f72af3b125d39",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "chicago-screw"
     },
     {
-      "hash": "sha256:f8f07f5148c9d878bdce261f4e9a27a2177ccf093d667ecd3276c42241ecfcc8",
+      "hash": "sha256:7b412db7239a3e4c4e49bad9d1c6cb123797f994d694f6c65858bbf0a509814a",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "snap-button"
     },
     {
-      "hash": "sha256:57651ce16af16d116b9acb9cb149b86791e96e72b3da3ae5813d46f3808defca",
+      "hash": "sha256:214d22c248f0689dd2d680648ce61e470babb14b7eb263f804ffe52e829b20cf",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "magnetic-snap"
     },
     {
-      "hash": "sha256:81e218c69b4d00e4a4737127bb40a6759411182e2071ec0d408f19abba0cec7d",
+      "hash": "sha256:2507b288fd8f87996fffe9ffeb2033f3d340dab9753ec2665d2489ee96f6796c",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "buckle"
     },
     {
-      "hash": "sha256:754c25c6aaa592542092a16d9704cbee8cf6ecf85c781c670b2f33674e41d13d",
+      "hash": "sha256:849ac475f2bc3c010db506ee0e5428e7399a433016de005daae20e856405f023",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "button-stud"
     },
     {
-      "hash": "sha256:37e10778a58eaadfd2017ff2a04b56c76b45a3e896895ddd93eccd89e90d61cb",
+      "hash": "sha256:1575d897f50a51213da4151196348f77df4288d0fe9f1a9e1820f9db87799103",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "d-ring"
     },
     {
-      "hash": "sha256:4da4f131cb5b80cfac25ffb5c8416ae729f1db5bc44d9bc3a537f6a9bc87cd9a",
+      "hash": "sha256:dfc19168495c4ae84553c24f4cf726d03a6d53720bc810d99f12451ab540ed40",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "o-ring"
     },
     {
-      "hash": "sha256:d7f56651a68b5f99fcbde919a8e5e55346a13279deb730df45549d12e5a4ae05",
+      "hash": "sha256:699dbd9c94826c8464363f30578fae9021bb46cca7cb14b9b8f42b1851181fed",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "split-ring"
     },
     {
-      "hash": "sha256:0a7932598f0de264e462a4739847efc903c36e97ac5a0bf42775049cdba34615",
+      "hash": "sha256:4e3c666b7d5438d24f25e6fd85d3cee7598d0c7aa51f8408d7b40307cc78feb0",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "snap-hook"
     },
     {
-      "hash": "sha256:57dc3c13686f7d68577b1f4030db763462af58365f32ae23898896eed7e46785",
+      "hash": "sha256:8bc0a78a55c5ff4760d496a48c8b7a2e0b2b370b4a44b40f3b32317b9d5dfd79",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "eyelet"
     },
     {
-      "hash": "sha256:71dd85d5c920bbc0762e01ce03072f3e5fbad86d938fa81419c3ff87ed0dab58",
+      "hash": "sha256:d8f8abc43f1cccfe4c6512a2c9bd802d854de89fa552cdcca4e1397c5419ba51",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",

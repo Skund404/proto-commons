@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:7f6b5f5c281f1b32a1774c04d24952950e5be8e97db610d5fc4f981b2577f9bd",
+  "content_hash": "sha256:dcc63e92f000cfc09cad751c1142a88acfe95a68dd4a1dca23a9375e38fec330",
   "created": "2026-06-09",
   "description": "A two-part metal fastener set through punched holes for permanent, heavy-duty joins and reinforcement.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "rivet",
   "tags": [
+    "leatherwork",
     "hardware",
     "fastener"
   ],

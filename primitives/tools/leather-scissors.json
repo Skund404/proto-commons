@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:e89a7ca1bc2ec7301a0261ed1e21d9fff15b57a064cf27caccb455fb32fa6b7d",
+  "content_hash": "sha256:341dc95b048ea2ec48e52d2ee178c278ba23294d421cfc6e0b9912206abd2a60",
   "created": "2026-06-09",
   "description": "Heavy shears for trimming thread and cutting thinner leathers and linings.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "leather-scissors",
   "tags": [
+    "leatherwork",
     "cutting",
     "cutting-tool"
   ],

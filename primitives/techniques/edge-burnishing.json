@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:89701f8b97870edffb04efc50304a5248abdd47d45086671430395e59602bfae",
+  "content_hash": "sha256:1527f98cebcf9b58d73da70ea9b11bed90ee01d09381958e123e1463f1e56de7",
   "created": "2026-06-09",
   "description": "Lay the edge fibers down and polish them to a hard sheen by working a slicker over a dampened, gummed edge with friction.",
   "emitter": "opg://commons-seed",
@@ -27,7 +27,7 @@
   "relationships": [
     {
       "target": {
-        "hash": "sha256:f6904e818c2a76baf99422eccf7c4359cbbe3f3d00bc3c2124602d6ca5d1b891",
+        "hash": "sha256:da81dcc7f76135bf73334eba2e195441fbed05b9df990ed323583cfed795879c",
         "id": "edge-slicker-seed",
         "path": "primitives/tools/edge-slicker.json"
       },
@@ -35,7 +35,7 @@
     },
     {
       "target": {
-        "hash": "sha256:a5a88085ab4da25636a1224597cf30bb3735afc69a630154a580470ba3163672",
+        "hash": "sha256:4c1e6ead9b31b2c8ab12df72a351d39669d41bc431d3d425dae83e2947f09f3d",
         "id": "edge-burnishing-gum-seed",
         "path": "primitives/materials/edge-burnishing-gum.json"
       },
@@ -44,6 +44,7 @@
   ],
   "slug": "edge-burnishing",
   "tags": [
+    "leatherwork",
     "edge-technique",
     "beginner"
   ],

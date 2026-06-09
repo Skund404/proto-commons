@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:4ea0c706fabfb8423f4dcc25da9268522c5944d6dc8d2e6cc5b6693e48814714",
+  "content_hash": "sha256:927126df4724fdf95719c250dea5256aff4c1a757fc4c93d81f2834db919b868",
   "created": "2026-06-09",
   "description": "A softening, water-repelling dressing for conditioning and weatherproofing finished leather.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "mink-oil",
   "tags": [
+    "leatherwork",
     "leather-care",
     "leather-finish"
   ],

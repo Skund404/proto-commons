@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:0fd8d550c14adbb7460af0a93b42ff63273902a679193ec5c4f48c410547ce86",
+  "content_hash": "sha256:a864a1a7204c24fc79d29057f931c150486a3bf64f77ca24b47b0e9ae418b0e5",
   "created": "2026-06-09",
   "description": "A multi-prong chisel driven through the leather to cut evenly spaced, angled slits for saddle stitching.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "diamond-stitching-chisel",
   "tags": [
+    "leatherwork",
     "punching",
     "stitching-chisel"
   ],

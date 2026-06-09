@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:d8b97d97061cbc4a82da87db9ab4a0f5665a7a6555e0037c5dbebfd33e364c6f",
+  "content_hash": "sha256:d0794ac3fc14177a775af9d9449f7acbfdd0e98eeb04697dda59253cc990bf27",
   "description": {
     "en": "A catalogue of the common leather tannages a beginner will meet."
   },
@@ -7,35 +7,35 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:0729c9c19e5334aa1463ceedd2393ffaf2478fac192ec40c2733ddea0a330451",
+      "hash": "sha256:369b4e4a7e74e528af6f357a56879bbd917ccb58628143813c75cd455de9c7f1",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "vegetable-tanned-leather"
     },
     {
-      "hash": "sha256:05c20b5e234a22bd5fad77d76a191688971a575c76fdbf86585ef89209d06708",
+      "hash": "sha256:0ffba5dce7796593a9109b45758a4246202cdfbe9fb22f15effa7fe79df97a32",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "oil-tanned-leather"
     },
     {
-      "hash": "sha256:fed69e40ed3a843bcd3b47b7beeba570cb13183d7b818f138d95958501ed98f1",
+      "hash": "sha256:b264bb3a2a9a914602015d5043636e58fceed90e2bf1bfcd51cbfab1b8d25d9c",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "chrome-tanned-leather"
     },
     {
-      "hash": "sha256:6f9bb820353f97155e94ef931c3ee3c7801a2506d3b0c347fd8903e3f9fc2b16",
+      "hash": "sha256:4fa39dba48f94c196468eb3957429e3a16d886c21197b8164c71034cdab28477",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "bridle-leather"
     },
     {
-      "hash": "sha256:d5f585297e5a2ee175ae70ff2174751c7612f2afa2a9c427093eadd23e3e156e",
+      "hash": "sha256:4b0ec3978482f0722ff7ddc029049b93929fb2818d1e0fe74fe77b48221b5e30",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",

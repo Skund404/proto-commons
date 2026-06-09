@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f0b46b779f0867d6a8298f30ae671a128df2af36ca802c9744cacd97663fb9cf",
+  "content_hash": "sha256:3e61bd9b9d5bd9ac5d1fd097a438c89de168993fbf858027594084cf33ddf72c",
   "created": "2026-06-09",
   "description": "Join two pieces with a durable hand-sewn seam: mark, punch, stitch, and sear the ends.",
   "emitter": "opg://commons-seed",
@@ -44,7 +44,7 @@
   "relationships": [
     {
       "target": {
-        "hash": "sha256:0f75e624d3431c6dd3dcb44b66a2771065c63d5a0dec5a5c535346089bb29dd4",
+        "hash": "sha256:91e6e83370c5c491c66c2b588ee4cbafd2e8d489c34fab400bfe75e5a146542b",
         "id": "marking-a-stitch-line-seed",
         "path": "primitives/techniques/marking-a-stitch-line.json"
       },
@@ -52,7 +52,7 @@
     },
     {
       "target": {
-        "hash": "sha256:714590ed69a0cb2d504746500bfdeaa39a4f8b36246a40fcb1cfc58a6c2a64ed",
+        "hash": "sha256:1c25a6fb9d9a799244893c42203c355ea380acc37bbd8104b793a1ed899e484d",
         "id": "chisel-punching-stitch-holes-seed",
         "path": "primitives/techniques/chisel-punching-stitch-holes.json"
       },
@@ -60,7 +60,7 @@
     },
     {
       "target": {
-        "hash": "sha256:8df0df24070a68acf34800563973b90b55d7836a66d9707f4edf2c388527f47c",
+        "hash": "sha256:f010802bc0137ec7fe41486e169f8570a849e0e714042670ac95785686d86498",
         "id": "saddle-stitch-seed",
         "path": "primitives/techniques/saddle-stitch.json"
       },
@@ -68,7 +68,7 @@
     },
     {
       "target": {
-        "hash": "sha256:8f08f94e9e65a0655b1750d61eea84981a0ee3c8fbe46f521af300280449eb7b",
+        "hash": "sha256:8503eebdf5662d22b1fb6526d0b1944b68b99a86ff8ee0ba60bfa50f7657443e",
         "id": "searing-thread-ends-seed",
         "path": "primitives/techniques/searing-thread-ends.json"
       },
@@ -76,7 +76,7 @@
     },
     {
       "target": {
-        "hash": "sha256:e1f16efde104b0b17b16313666ceb9bb34091ad489a73a091b15ed9217dab06c",
+        "hash": "sha256:86de3709771335e0fdd5b2dcb4c9cfa5734f7af296e9686ec1a7bca9a4d41b08",
         "id": "wing-divider-seed",
         "path": "primitives/tools/wing-divider.json"
       },
@@ -84,7 +84,7 @@
     },
     {
       "target": {
-        "hash": "sha256:0fd8d550c14adbb7460af0a93b42ff63273902a679193ec5c4f48c410547ce86",
+        "hash": "sha256:a864a1a7204c24fc79d29057f931c150486a3bf64f77ca24b47b0e9ae418b0e5",
         "id": "diamond-stitching-chisel-seed",
         "path": "primitives/tools/diamond-stitching-chisel.json"
       },
@@ -92,7 +92,7 @@
     },
     {
       "target": {
-        "hash": "sha256:0a76eba6852450fa04398e4d92a364ee8d79a202e0c0108aa74c95fb1357c88d",
+        "hash": "sha256:c7498fede7ac7c0abfb5a9b179f1197a37efeea77789ee50698024a112ff548b",
         "id": "harness-needle-seed",
         "path": "primitives/tools/harness-needle.json"
       },
@@ -100,7 +100,7 @@
     },
     {
       "target": {
-        "hash": "sha256:e6b9f23dd34cfd371b19a93a8f4c0f0bf2c8198a8056068913b5ca8504a62c5d",
+        "hash": "sha256:4a8037946a40e354d11a4cd3d488091e1bf5830812e630b5f10d3a017799c1dc",
         "id": "stitching-pony-seed",
         "path": "primitives/tools/stitching-pony.json"
       },
@@ -108,7 +108,7 @@
     },
     {
       "target": {
-        "hash": "sha256:17049b284fd1a801a91dec1950db2b72edbaa3c43c7f2a7a895424e06f5edc1e",
+        "hash": "sha256:5510e76f0b5bb12afd47cabb3452ab82ec3e2550ce7349276d24de7951ce5a3d",
         "id": "thread-zapper-seed",
         "path": "primitives/tools/thread-zapper.json"
       },
@@ -116,7 +116,7 @@
     },
     {
       "target": {
-        "hash": "sha256:eeac2c78cecd79516572c5cd643ff836fd369d2128206d8eb279b088fd205f92",
+        "hash": "sha256:35c97e6b0c081ac8fcb84742f31ce18cda5d3c1da69b55fb5495d0309f99529a",
         "id": "waxed-polyester-thread-seed",
         "path": "primitives/materials/waxed-polyester-thread.json"
       },
@@ -125,6 +125,7 @@
   ],
   "slug": "saddle-stitch-a-seam",
   "tags": [
+    "leatherwork",
     "leatherwork-procedure",
     "beginner"
   ],

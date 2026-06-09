@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:714590ed69a0cb2d504746500bfdeaa39a4f8b36246a40fcb1cfc58a6c2a64ed",
+  "content_hash": "sha256:1c25a6fb9d9a799244893c42203c355ea380acc37bbd8104b793a1ed899e484d",
   "created": "2026-06-09",
   "description": "Drive a diamond chisel through the leather along the marked line to cut evenly spaced, angled stitch slits.",
   "emitter": "opg://commons-seed",
@@ -26,7 +26,7 @@
   "relationships": [
     {
       "target": {
-        "hash": "sha256:0fd8d550c14adbb7460af0a93b42ff63273902a679193ec5c4f48c410547ce86",
+        "hash": "sha256:a864a1a7204c24fc79d29057f931c150486a3bf64f77ca24b47b0e9ae418b0e5",
         "id": "diamond-stitching-chisel-seed",
         "path": "primitives/tools/diamond-stitching-chisel.json"
       },
@@ -34,7 +34,7 @@
     },
     {
       "target": {
-        "hash": "sha256:3c1ef7694ffe9a1832fc00e088e2bd8d1c230beb220cdfd1a28046d63482265d",
+        "hash": "sha256:650fcb86d523ffd3c6cb6b326388212b6921ba33a9916e910b11eb74561f8fe5",
         "id": "mallet-seed",
         "path": "primitives/tools/mallet.json"
       },
@@ -42,7 +42,7 @@
     },
     {
       "target": {
-        "hash": "sha256:f888aa5dfa8502acc593c38e5c17213dd8e25df5e7b3b16dcf507d6912172c35",
+        "hash": "sha256:13ac7d4e474605c5d38c040aa4510041e866c9be70860b60f9cb2c39e1e0d42b",
         "id": "poundboard-seed",
         "path": "primitives/tools/poundboard.json"
       },
@@ -51,6 +51,7 @@
   ],
   "slug": "chisel-punching-stitch-holes",
   "tags": [
+    "leatherwork",
     "stitching-technique",
     "beginner"
   ],

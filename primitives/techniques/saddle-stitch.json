@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:8df0df24070a68acf34800563973b90b55d7836a66d9707f4edf2c388527f47c",
+  "content_hash": "sha256:f010802bc0137ec7fe41486e169f8570a849e0e714042670ac95785686d86498",
   "created": "2026-06-09",
   "description": "The core hand stitch: two needles on one thread cross through each hole in opposite directions, so the seam holds even if a stitch is cut.",
   "emitter": "opg://commons-seed",
@@ -26,7 +26,7 @@
   "relationships": [
     {
       "target": {
-        "hash": "sha256:0a76eba6852450fa04398e4d92a364ee8d79a202e0c0108aa74c95fb1357c88d",
+        "hash": "sha256:c7498fede7ac7c0abfb5a9b179f1197a37efeea77789ee50698024a112ff548b",
         "id": "harness-needle-seed",
         "path": "primitives/tools/harness-needle.json"
       },
@@ -34,7 +34,7 @@
     },
     {
       "target": {
-        "hash": "sha256:e6b9f23dd34cfd371b19a93a8f4c0f0bf2c8198a8056068913b5ca8504a62c5d",
+        "hash": "sha256:4a8037946a40e354d11a4cd3d488091e1bf5830812e630b5f10d3a017799c1dc",
         "id": "stitching-pony-seed",
         "path": "primitives/tools/stitching-pony.json"
       },
@@ -42,7 +42,7 @@
     },
     {
       "target": {
-        "hash": "sha256:eeac2c78cecd79516572c5cd643ff836fd369d2128206d8eb279b088fd205f92",
+        "hash": "sha256:35c97e6b0c081ac8fcb84742f31ce18cda5d3c1da69b55fb5495d0309f99529a",
         "id": "waxed-polyester-thread-seed",
         "path": "primitives/materials/waxed-polyester-thread.json"
       },
@@ -51,6 +51,7 @@
   ],
   "slug": "saddle-stitch",
   "tags": [
+    "leatherwork",
     "stitching-technique",
     "beginner"
   ],

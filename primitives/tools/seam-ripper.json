@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:8861bf8fa5b9537f9f607f7e3d5bd16fdffb5038f19f182a98d6b911747556e4",
+  "content_hash": "sha256:bb948aed2928c1a1dcc3db19f6baf7c778d9e72ae2cc23600823f6c40175172d",
   "created": "2026-06-09",
   "description": "A hooked point for lifting and cutting stitches to undo a run without nicking the leather.",
   "emitter": "opg://commons-seed",
@@ -25,6 +25,7 @@
   },
   "slug": "seam-ripper",
   "tags": [
+    "leatherwork",
     "stitching",
     "stitching-tool"
   ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:6d4360afb4dcfb15c7cf453d5a5228f626e685fc0c6a645ed8e6d9502816a751",
+  "content_hash": "sha256:05e5b267ba38772c1dbaa06f0f3af6c33171fe8d1b1b4ebade52f70099586ca8",
   "created": "2026-06-09",
   "description": "A half-moon blade for straight cuts, curves, skiving and paring — the traditional all-rounder of the bench.",
   "emitter": "opg://commons-seed",
@@ -25,6 +25,7 @@
   },
   "slug": "head-knife",
   "tags": [
+    "leatherwork",
     "cutting",
     "cutting-knife"
   ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:754c25c6aaa592542092a16d9704cbee8cf6ecf85c781c670b2f33674e41d13d",
+  "content_hash": "sha256:849ac475f2bc3c010db506ee0e5428e7399a433016de005daae20e856405f023",
   "created": "2026-06-09",
   "description": "A post-and-disc stud that a slotted strap or keeper slips over — a tidy closure for wallets and cases.",
   "emitter": "opg://commons-seed",
@@ -27,6 +27,7 @@
   },
   "slug": "button-stud",
   "tags": [
+    "leatherwork",
     "hardware",
     "closure"
   ],

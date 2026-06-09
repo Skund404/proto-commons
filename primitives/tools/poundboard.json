@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f888aa5dfa8502acc593c38e5c17213dd8e25df5e7b3b16dcf507d6912172c35",
+  "content_hash": "sha256:13ac7d4e474605c5d38c040aa4510041e866c9be70860b60f9cb2c39e1e0d42b",
   "created": "2026-06-09",
   "description": "A dense poly or rubber slab under the work that protects punch and chisel edges and quiets the strike.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "poundboard",
   "tags": [
+    "leatherwork",
     "punching",
     "punching-tool"
   ],

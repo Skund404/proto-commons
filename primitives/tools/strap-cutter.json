@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:4bab477f910dd7be7bf348d002440399370211c360dc82b5bd822bf9fe970b73",
+  "content_hash": "sha256:e7c9388312e277d44c9d9578302fe6d604e1dde57a8c14a2ee1774dd97a974c0",
   "created": "2026-06-09",
   "description": "Sets a fixed width and pulls a long, perfectly parallel strap from a larger piece.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "strap-cutter",
   "tags": [
+    "leatherwork",
     "cutting",
     "cutting-tool"
   ],

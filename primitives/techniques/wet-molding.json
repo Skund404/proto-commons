@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:5f31092ec2804ec32f2cec1eef283f1475cfb984e8c7dacb24775c9ffecc786e",
+  "content_hash": "sha256:fa963e75cd44c1e5af94f5b5dc5bab05f0e551783e90cd9fd3d8429c7ee31978",
   "created": "2026-06-09",
   "description": "Dampen veg-tan and shape it over a form; as it dries it sets and holds the molded shape.",
   "emitter": "opg://commons-seed",
@@ -27,7 +27,7 @@
   "relationships": [
     {
       "target": {
-        "hash": "sha256:0729c9c19e5334aa1463ceedd2393ffaf2478fac192ec40c2733ddea0a330451",
+        "hash": "sha256:369b4e4a7e74e528af6f357a56879bbd917ccb58628143813c75cd455de9c7f1",
         "id": "vegetable-tanned-leather-seed",
         "path": "primitives/materials/vegetable-tanned-leather.json"
       },
@@ -36,6 +36,7 @@
   ],
   "slug": "wet-molding",
   "tags": [
+    "leatherwork",
     "assembly-technique",
     "intermediate"
   ],

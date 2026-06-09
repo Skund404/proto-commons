@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:a5a88085ab4da25636a1224597cf30bb3735afc69a630154a580470ba3163672",
+  "content_hash": "sha256:4c1e6ead9b31b2c8ab12df72a351d39669d41bc431d3d425dae83e2947f09f3d",
   "created": "2026-06-09",
   "description": "A gum-and-wax compound worked into an edge before slicking to lay the fibers down and bring up a hard, glassy finish.",
   "emitter": "opg://commons-seed",
@@ -27,6 +27,7 @@
   },
   "slug": "edge-burnishing-gum",
   "tags": [
+    "leatherwork",
     "leather-care",
     "edge-burnishing-gum"
   ],

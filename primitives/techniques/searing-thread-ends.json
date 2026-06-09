@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:8f08f94e9e65a0655b1750d61eea84981a0ee3c8fbe46f521af300280449eb7b",
+  "content_hash": "sha256:8503eebdf5662d22b1fb6526d0b1944b68b99a86ff8ee0ba60bfa50f7657443e",
   "created": "2026-06-09",
   "description": "Trim the thread tails and melt them flush so a finished saddle stitch can't work loose.",
   "emitter": "opg://commons-seed",
@@ -26,7 +26,7 @@
   "relationships": [
     {
       "target": {
-        "hash": "sha256:17049b284fd1a801a91dec1950db2b72edbaa3c43c7f2a7a895424e06f5edc1e",
+        "hash": "sha256:5510e76f0b5bb12afd47cabb3452ab82ec3e2550ce7349276d24de7951ce5a3d",
         "id": "thread-zapper-seed",
         "path": "primitives/tools/thread-zapper.json"
       },
@@ -35,6 +35,7 @@
   ],
   "slug": "searing-thread-ends",
   "tags": [
+    "leatherwork",
     "stitching-technique",
     "beginner"
   ],

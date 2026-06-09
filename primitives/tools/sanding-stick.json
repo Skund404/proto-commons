@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:8b978415c663673e25e390146404740098436862f865ddac2925cb8ab8b829aa",
+  "content_hash": "sha256:8ba7fdbb5a77979f16ae3f395a28aba01ee07eb01f6d8d6224694e29c1ea44c4",
   "created": "2026-06-09",
   "description": "Graduated grit on a stick or block to true and smooth glued-up edges before burnishing.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "sanding-stick",
   "tags": [
+    "leatherwork",
     "edgework",
     "edgework-tool"
   ],

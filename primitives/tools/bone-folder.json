@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:e090b424cbf289338375f189757d58df042df6a4c6ae62b8f084af776ef13fbf",
+  "content_hash": "sha256:68db1f2d4d6c4381bcb5c398309b87c3fd5370527f74207b00af53f146167fb4",
   "created": "2026-06-09",
   "description": "A smooth blade for creasing folds, pressing seams, and working leather without leaving tool marks.",
   "emitter": "opg://commons-seed",
@@ -25,6 +25,7 @@
   },
   "slug": "bone-folder",
   "tags": [
+    "leatherwork",
     "edgework",
     "edgework-tool"
   ],

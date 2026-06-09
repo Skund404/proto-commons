@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:d203fe93a134744d973cb948582473c317069e3c90550a4bfeabd907c1af8d5d",
+  "content_hash": "sha256:3873588a68339203438e870c72620e4136746e33ac2b5d586cdc1e4a2dbd1737",
   "created": "2026-06-09",
   "description": "Mixed offcuts sold by weight — the cheapest way to practice cutting, stitching and finishing across many leathers.",
   "emitter": "opg://commons-seed",
@@ -28,7 +28,7 @@
   },
   "slug": "scrap-leather",
   "tags": [
-    "leather",
+    "leatherwork",
     "leather"
   ],
   "visibility": "commons"

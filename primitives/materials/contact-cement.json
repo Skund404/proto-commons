@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:559cac212867348d499580e67056922e315140752be1297bfca0635e84410ea0",
+  "content_hash": "sha256:db0108e0f43da40ba2a2cfb5e54bbe4499134b2ef682f85eb1316f11ee5552e5",
   "created": "2026-06-09",
   "description": "A water-based contact adhesive applied to both faces and bonded under pressure to hold pieces aligned for stitching.",
   "emitter": "opg://commons-seed",
@@ -28,7 +28,7 @@
   },
   "slug": "contact-cement",
   "tags": [
-    "adhesive",
+    "leatherwork",
     "adhesive"
   ],
   "visibility": "commons"

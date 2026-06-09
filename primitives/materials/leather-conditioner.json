@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:ea5b0b2834ab1b75ac746dfab8e542a098d37ad127a304c59b97602e58e449fe",
+  "content_hash": "sha256:0df0a697c32073b72fcff1dcad6b020810b730d5f8fd7ff8dbf864753c74b5b4",
   "created": "2026-06-09",
   "description": "A blend of oils and waxes that keeps finished leather supple and guards against drying and cracking.",
   "emitter": "opg://commons-seed",
@@ -27,6 +27,7 @@
   },
   "slug": "leather-conditioner",
   "tags": [
+    "leatherwork",
     "leather-care",
     "leather-finish"
   ],

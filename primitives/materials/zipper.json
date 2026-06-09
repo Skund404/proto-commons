@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:71dd85d5c920bbc0762e01ce03072f3e5fbad86d938fa81419c3ff87ed0dab58",
+  "content_hash": "sha256:d8f8abc43f1cccfe4c6512a2c9bd802d854de89fa552cdcca4e1397c5419ba51",
   "created": "2026-06-09",
   "description": "A toothed closure stitched into bags and cases; setting it cleanly calls for a few dedicated tools.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "zipper",
   "tags": [
+    "leatherwork",
     "hardware",
     "closure"
   ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:57dc3c13686f7d68577b1f4030db763462af58365f32ae23898896eed7e46785",
+  "content_hash": "sha256:8bc0a78a55c5ff4760d496a48c8b7a2e0b2b370b4a44b40f3b32317b9d5dfd79",
   "created": "2026-06-09",
   "description": "A metal ring set into a punched hole to reinforce it for lacing, cord or drawstrings.",
   "emitter": "opg://commons-seed",
@@ -27,6 +27,7 @@
   },
   "slug": "eyelet",
   "tags": [
+    "leatherwork",
     "hardware",
     "fastener"
   ],

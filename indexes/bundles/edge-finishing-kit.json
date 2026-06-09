@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:49108219c8799b3290f4f90b0a1292d438ef4e5a12405fb9a468d86898b910a7",
+  "content_hash": "sha256:54b29891a6e880f291a4bc72dd33de3d7ff0e98809dfa2419acb18da469aad84",
   "description": {
     "en": "Take a raw edge to a smooth, sealed finish: bevel, sand, gum, and slick."
   },
@@ -7,35 +7,35 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:aa158929134f460000f2e8ea65e3d924178e756a5b43b2a8156b5ab8ddce1e9b",
+      "hash": "sha256:3a76b64f1230c96c4d9b3ece272b96e337d593b2f82d57cbb8a67cd4317eaa82",
       "kind": "tool",
       "record_class": "primitive",
       "role": "required",
       "slug": "edge-beveler"
     },
     {
-      "hash": "sha256:f6904e818c2a76baf99422eccf7c4359cbbe3f3d00bc3c2124602d6ca5d1b891",
+      "hash": "sha256:da81dcc7f76135bf73334eba2e195441fbed05b9df990ed323583cfed795879c",
       "kind": "tool",
       "record_class": "primitive",
       "role": "required",
       "slug": "edge-slicker"
     },
     {
-      "hash": "sha256:8b978415c663673e25e390146404740098436862f865ddac2925cb8ab8b829aa",
+      "hash": "sha256:8ba7fdbb5a77979f16ae3f395a28aba01ee07eb01f6d8d6224694e29c1ea44c4",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "sanding-stick"
     },
     {
-      "hash": "sha256:e090b424cbf289338375f189757d58df042df6a4c6ae62b8f084af776ef13fbf",
+      "hash": "sha256:68db1f2d4d6c4381bcb5c398309b87c3fd5370527f74207b00af53f146167fb4",
       "kind": "tool",
       "record_class": "primitive",
       "role": "optional",
       "slug": "bone-folder"
     },
     {
-      "hash": "sha256:a5a88085ab4da25636a1224597cf30bb3735afc69a630154a580470ba3163672",
+      "hash": "sha256:4c1e6ead9b31b2c8ab12df72a351d39669d41bc431d3d425dae83e2947f09f3d",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",

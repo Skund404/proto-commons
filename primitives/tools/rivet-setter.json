@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:95fe8540d1ff0e0498625f8cbaa793a03b375b8b7cd8b28679ac69cab31c17da",
+  "content_hash": "sha256:339cb953fbe0e4cfde09028c10f478b16752e5c68e7778477b6f91b6023acc52",
   "created": "2026-06-09",
   "description": "A matched punch and base that seats and domes a rivet's cap squarely without crushing it.",
   "emitter": "opg://commons-seed",
@@ -25,6 +25,7 @@
   },
   "slug": "rivet-setter",
   "tags": [
+    "leatherwork",
     "setting",
     "setting-tool"
   ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:71d452dfade6eeabc09f97c776022b4c29829620c8d7dd5938239f7beeb0cbd0",
+  "content_hash": "sha256:8a6b72bec04ab33983676cbc2fc2ed1b9c09e28fa998858d7b89a2ff00d4f62d",
   "created": "2026-06-09",
   "description": "A diamond-section blade in a haft that pierces each stitch hole at the sewing angle.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "stitching-awl",
   "tags": [
+    "leatherwork",
     "punching",
     "diamond-awl"
   ],

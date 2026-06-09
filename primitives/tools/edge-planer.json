@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:49f9e8ab0a8c9fe7b65da3900986be3dc4ca1ba4bc393ae6024a3b00a3f819fe",
+  "content_hash": "sha256:fb049fa47f2df98baceb2e343641287ba9ca3928e21434fa1cf13ea396f4447d",
   "created": "2026-06-09",
   "description": "Shaves a stacked, glued edge flat and even so the layers read as one before finishing.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "edge-planer",
   "tags": [
+    "leatherwork",
     "edgework",
     "edgework-tool"
   ],

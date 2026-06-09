@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:49e34b0e762cf612744a8f522371f0fe821f32d7d964dcd8f71a4bd9e66bda27",
+  "content_hash": "sha256:c723ce1687cf88be5abc498b7f4ccbb7ea448eada8f7fa95e293276ff7b6f804",
   "created": "2026-06-09",
   "description": "C.S. Osborne's #71 head knife — a long-running American saddler's pattern with a flatter cutting angle, used as a reference for round/head-knife quality.",
   "emitter": "opg://commons-seed",
@@ -29,8 +29,10 @@
   },
   "slug": "osborne-head-knife",
   "tags": [
+    "leatherwork",
     "cutting",
-    "cutting-knife"
+    "cutting-knife",
+    "brand"
   ],
   "visibility": "commons"
 }

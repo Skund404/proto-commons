@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:c7cb28cd491bdffaa79df064e1961653077607a9ef05fc1d6c4528d9670773c6",
+  "content_hash": "sha256:81c4c34907c7bce50a9128a9e1a0c29febab667981247129ad61e279d431a36b",
   "created": "2026-06-09",
   "description": "Traditional waxed natural-fiber thread with a matte look favored for classic and repairable work.",
   "emitter": "opg://commons-seed",
@@ -26,7 +26,7 @@
   },
   "slug": "waxed-linen-thread",
   "tags": [
-    "thread",
+    "leatherwork",
     "thread"
   ],
   "visibility": "commons"

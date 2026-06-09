@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:d93289c5a2682def749a013eb8e21ee49276c51bb94fe1780f222aade3b3bbb3",
+  "content_hash": "sha256:78ccd0462b1021b9284e1143905ab8a01baf574257f12b11d28a88ec00908594",
   "created": "2026-06-09",
   "description": "Cement two layers together for alignment, then saddle-stitch through the bonded lap for strength.",
   "emitter": "opg://commons-seed",
@@ -40,7 +40,7 @@
   "relationships": [
     {
       "target": {
-        "hash": "sha256:350055ae24caba1cfc5b01c48ba6a021aed45c17474b6cd053e3aacce167caca",
+        "hash": "sha256:b46c6ea8b424fbe0e30f7cdd143e42a53d784a1c8662790f3a28fc6530d9389d",
         "id": "leather-cementing-seed",
         "path": "primitives/techniques/leather-cementing.json"
       },
@@ -48,7 +48,7 @@
     },
     {
       "target": {
-        "hash": "sha256:8df0df24070a68acf34800563973b90b55d7836a66d9707f4edf2c388527f47c",
+        "hash": "sha256:f010802bc0137ec7fe41486e169f8570a849e0e714042670ac95785686d86498",
         "id": "saddle-stitch-seed",
         "path": "primitives/techniques/saddle-stitch.json"
       },
@@ -56,7 +56,7 @@
     },
     {
       "target": {
-        "hash": "sha256:e090b424cbf289338375f189757d58df042df6a4c6ae62b8f084af776ef13fbf",
+        "hash": "sha256:68db1f2d4d6c4381bcb5c398309b87c3fd5370527f74207b00af53f146167fb4",
         "id": "bone-folder-seed",
         "path": "primitives/tools/bone-folder.json"
       },
@@ -64,7 +64,7 @@
     },
     {
       "target": {
-        "hash": "sha256:0fd8d550c14adbb7460af0a93b42ff63273902a679193ec5c4f48c410547ce86",
+        "hash": "sha256:a864a1a7204c24fc79d29057f931c150486a3bf64f77ca24b47b0e9ae418b0e5",
         "id": "diamond-stitching-chisel-seed",
         "path": "primitives/tools/diamond-stitching-chisel.json"
       },
@@ -72,7 +72,7 @@
     },
     {
       "target": {
-        "hash": "sha256:0a76eba6852450fa04398e4d92a364ee8d79a202e0c0108aa74c95fb1357c88d",
+        "hash": "sha256:c7498fede7ac7c0abfb5a9b179f1197a37efeea77789ee50698024a112ff548b",
         "id": "harness-needle-seed",
         "path": "primitives/tools/harness-needle.json"
       },
@@ -80,7 +80,7 @@
     },
     {
       "target": {
-        "hash": "sha256:559cac212867348d499580e67056922e315140752be1297bfca0635e84410ea0",
+        "hash": "sha256:db0108e0f43da40ba2a2cfb5e54bbe4499134b2ef682f85eb1316f11ee5552e5",
         "id": "contact-cement-seed",
         "path": "primitives/materials/contact-cement.json"
       },
@@ -88,7 +88,7 @@
     },
     {
       "target": {
-        "hash": "sha256:eeac2c78cecd79516572c5cd643ff836fd369d2128206d8eb279b088fd205f92",
+        "hash": "sha256:35c97e6b0c081ac8fcb84742f31ce18cda5d3c1da69b55fb5495d0309f99529a",
         "id": "waxed-polyester-thread-seed",
         "path": "primitives/materials/waxed-polyester-thread.json"
       },
@@ -97,6 +97,7 @@
   ],
   "slug": "glue-and-stitch-a-lap-seam",
   "tags": [
+    "leatherwork",
     "leatherwork-procedure",
     "beginner"
   ],

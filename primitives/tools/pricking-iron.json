@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:bfd45052756353890f16c052da1f17d32e57950415dfa45733fb10dbd0227db5",
+  "content_hash": "sha256:7a660efbb4fa42c9747c6f29a4837f33ffa43d5b5178c8713f55354f8c6af94a",
   "created": "2026-06-09",
   "description": "Marks crisp, angled stitch points on the surface; the holes are then opened with an awl as you sew.",
   "emitter": "opg://commons-seed",
@@ -25,6 +25,7 @@
   },
   "slug": "pricking-iron",
   "tags": [
+    "leatherwork",
     "punching",
     "pricking-iron"
   ],

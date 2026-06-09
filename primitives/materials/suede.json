@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:c668511889dda1647fc61a395a56a1f78557d81bad8604f48c8fc7e03462d940",
+  "content_hash": "sha256:fd8be0e4f103ab344e91d94bf927f820f083fdb779863473d02aa8585018e018",
   "created": "2026-06-09",
   "description": "A soft, napped split with a velvety surface; used for linings, backings and lightweight goods rather than structure.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "suede",
   "tags": [
+    "leatherwork",
     "leather",
     "suede"
   ],

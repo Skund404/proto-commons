@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:951bec84143dd1cf2727ea120e94d3d271a30dcb625d65af086a5cb2d6c6184e",
+  "content_hash": "sha256:244e8ec9501270c55f73727deaf4de648041db87ea8ba01ce50327a84676c874",
   "created": "2026-06-09",
   "description": "A die set that joins the four parts of a snap fastener so the cap seats centered and clean.",
   "emitter": "opg://commons-seed",
@@ -25,6 +25,7 @@
   },
   "slug": "snap-setter",
   "tags": [
+    "leatherwork",
     "setting",
     "setting-tool"
   ],

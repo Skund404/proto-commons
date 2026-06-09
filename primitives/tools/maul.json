@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:da620bc5e9bd61cf5e45f266fc2646c51d71073446b10cbc23c3f1123fdd1510",
+  "content_hash": "sha256:c8616954b1853745703fc4f351897fac9bd24521affc8928611b9793dc176d9d",
   "created": "2026-06-09",
   "description": "A weighted, tapered poly head that delivers a controlled, rolling strike — the bench upgrade from a flat mallet.",
   "emitter": "opg://commons-seed",
@@ -25,6 +25,7 @@
   },
   "slug": "maul",
   "tags": [
+    "leatherwork",
     "punching",
     "maul"
   ],

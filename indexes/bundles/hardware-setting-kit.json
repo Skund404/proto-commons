@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:3c11ecc7c31fa5256f60570c2c9b0cca0127747b8108a264edefa978e695bcfc",
+  "content_hash": "sha256:64808ccde7a4897cec97863d10fd5ccb30ff7b1980e918d321027f3fb33daeaa",
   "description": {
     "en": "Punch and set the common closures and fasteners: rivets, snaps, and eyelets."
   },
@@ -7,42 +7,42 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:08ac82582c5d694b4aeab894c1a834d9e4df8af5edb5b24806be5f4fccc7b088",
+      "hash": "sha256:ccf3331e1e6697c91858bc4fc2226dc6c28953494c69f672fe4ef8dadd8f9d32",
       "kind": "tool",
       "record_class": "primitive",
       "role": "required",
       "slug": "rotary-punch"
     },
     {
-      "hash": "sha256:95fe8540d1ff0e0498625f8cbaa793a03b375b8b7cd8b28679ac69cab31c17da",
+      "hash": "sha256:339cb953fbe0e4cfde09028c10f478b16752e5c68e7778477b6f91b6023acc52",
       "kind": "tool",
       "record_class": "primitive",
       "role": "required",
       "slug": "rivet-setter"
     },
     {
-      "hash": "sha256:951bec84143dd1cf2727ea120e94d3d271a30dcb625d65af086a5cb2d6c6184e",
+      "hash": "sha256:244e8ec9501270c55f73727deaf4de648041db87ea8ba01ce50327a84676c874",
       "kind": "tool",
       "record_class": "primitive",
       "role": "required",
       "slug": "snap-setter"
     },
     {
-      "hash": "sha256:7f6b5f5c281f1b32a1774c04d24952950e5be8e97db610d5fc4f981b2577f9bd",
+      "hash": "sha256:dcc63e92f000cfc09cad751c1142a88acfe95a68dd4a1dca23a9375e38fec330",
       "kind": "material",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "rivet"
     },
     {
-      "hash": "sha256:f8f07f5148c9d878bdce261f4e9a27a2177ccf093d667ecd3276c42241ecfcc8",
+      "hash": "sha256:7b412db7239a3e4c4e49bad9d1c6cb123797f994d694f6c65858bbf0a509814a",
       "kind": "material",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "snap-button"
     },
     {
-      "hash": "sha256:57dc3c13686f7d68577b1f4030db763462af58365f32ae23898896eed7e46785",
+      "hash": "sha256:8bc0a78a55c5ff4760d496a48c8b7a2e0b2b370b4a44b40f3b32317b9d5dfd79",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",

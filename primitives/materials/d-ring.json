@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:37e10778a58eaadfd2017ff2a04b56c76b45a3e896895ddd93eccd89e90d61cb",
+  "content_hash": "sha256:1575d897f50a51213da4151196348f77df4288d0fe9f1a9e1820f9db87799103",
   "created": "2026-06-09",
   "description": "A D-shaped ring anchored to leather as an attachment point for straps, snap hooks and hardware.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "d-ring",
   "tags": [
+    "leatherwork",
     "hardware",
     "ring-and-hook"
   ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:66ca65e78ae7f9b86dd766880881d437497bbfd36ae293371185e14208c3837c",
+  "content_hash": "sha256:d8bb8ab66a114c47b3468560ce0a41278201d1d05e62e00868aca162adcda0d4",
   "created": "2026-06-09",
   "description": "A full round-bladed saddler's knife that draws long, clean cuts and skives with a rocking motion.",
   "emitter": "opg://commons-seed",
@@ -25,6 +25,7 @@
   },
   "slug": "round-knife",
   "tags": [
+    "leatherwork",
     "cutting",
     "cutting-knife"
   ],

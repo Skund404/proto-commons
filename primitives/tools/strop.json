@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:1b9458930fa3671bce3ca9eedd8b549ee8323f82f1e0cbfbd37c30ec3ed7b184",
+  "content_hash": "sha256:ae3639cf1b88016adbe28527489998f0d473822cef32e4653aa58c8c0c40012e",
   "created": "2026-06-09",
   "description": "A leather strip charged with polishing compound for honing a blade to a final, slicing-sharp finish.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "strop",
   "tags": [
+    "leatherwork",
     "sharpening",
     "sharpening-tool"
   ],

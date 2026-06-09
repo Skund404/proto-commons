@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:d1de08b2c848227f3837b9d2e50891a5513bc1aab30696cab7e241deca29272c",
+  "content_hash": "sha256:83d9e2b0c8a8c4dfdb466aebcbb74a9206529ce82b697d6e2451157da34a1c00",
   "created": "2026-06-09",
   "description": "An inexpensive replaceable-blade knife that handles most straight cuts on thin to medium leather.",
   "emitter": "opg://commons-seed",
@@ -27,6 +27,7 @@
   },
   "slug": "utility-knife",
   "tags": [
+    "leatherwork",
     "cutting",
     "cutting-tool"
   ],

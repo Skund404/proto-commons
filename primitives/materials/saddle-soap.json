@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:a12786ac20b3e10eac3b1a4ebc8ace1e8c6b9efa46d64d82c13a4aaa9a7624d8",
+  "content_hash": "sha256:3c0eccecb2cb3db9472e67af1f361b2c96d48f443e279c289516428a3461e1d2",
   "created": "2026-06-09",
   "description": "A mild cleaning and conditioning soap for lifting grime and refreshing leather between treatments.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "saddle-soap",
   "tags": [
+    "leatherwork",
     "leather-care",
     "leather-finish"
   ],

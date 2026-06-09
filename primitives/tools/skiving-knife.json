@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:d5fbd50a7ef105c1ddd1da87e0dce0837724db0581c7e1be944f46ba4e5a043c",
+  "content_hash": "sha256:cdf9166e494275bb86e2c2e47be907749dae57f9a1bd758273821fb7a0d08f97",
   "created": "2026-06-09",
   "description": "A flat bevelled blade for thinning leather where it folds or overlaps so seams stay slim.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "skiving-knife",
   "tags": [
+    "leatherwork",
     "cutting",
     "cutting-knife"
   ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:77ea7a2949455a1c225eb18d66e34fbdb2254eae922e2ca5b707c99b4d2bb346",
+  "content_hash": "sha256:4bae921a6efbe9a7bfe5adf83a05ce78234c4232bc894d1fb31e4a7fa8d89b8e",
   "created": "2026-06-09",
   "description": "Cuts a shallow channel that recesses the stitch line below the grain so thread sits protected from abrasion.",
   "emitter": "opg://commons-seed",
@@ -25,6 +25,7 @@
   },
   "slug": "stitch-groover",
   "tags": [
+    "leatherwork",
     "marking",
     "marking-tool"
   ],

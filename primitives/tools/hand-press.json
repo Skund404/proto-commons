@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:ed04b147e739333a0c02b95a1d929ceb41823b5f22e3aab4412cf8d02afe3ae6",
+  "content_hash": "sha256:50304b90f1a5dbe6ddf5524f29a0c02091cf484916432bf365373a171f49d1f2",
   "created": "2026-06-09",
   "description": "A bench press that sets hardware, punches, and stamps with steady leverage instead of repeated blows.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "hand-press",
   "tags": [
+    "leatherwork",
     "setting",
     "setting-tool"
   ],

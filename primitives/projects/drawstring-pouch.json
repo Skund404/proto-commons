@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:9620acfbe54db29bf9177e7659b49b72b4b0a3b5243e3c6ec33895aad7b5164e",
+  "content_hash": "sha256:1242f450d09d1f26d3cf6e5205211e072b58b6fd093e75ffefe4a6fe7647de2d",
   "created": "2026-06-09",
   "description": "A round-bottomed pouch closed by a cord threaded through eyelets — mostly cutting and punching, a gentle introduction to bag shapes.",
   "emitter": "opg://commons-seed",
@@ -41,7 +41,7 @@
   "relationships": [
     {
       "target": {
-        "hash": "sha256:bd8ac8491e233e0afbd19498d7267b634684df3534eb1f8f29bf45c73f1745ae",
+        "hash": "sha256:882bfd5361b8853f01da40c48d32d2ba5c57837184e72d5bd1ccabda7f419874",
         "id": "cut-pieces-from-pattern-seed",
         "path": "primitives/workflows/cut-pieces-from-pattern.json"
       },
@@ -49,7 +49,7 @@
     },
     {
       "target": {
-        "hash": "sha256:0729c9c19e5334aa1463ceedd2393ffaf2478fac192ec40c2733ddea0a330451",
+        "hash": "sha256:369b4e4a7e74e528af6f357a56879bbd917ccb58628143813c75cd455de9c7f1",
         "id": "vegetable-tanned-leather-seed",
         "path": "primitives/materials/vegetable-tanned-leather.json"
       },
@@ -57,7 +57,7 @@
     },
     {
       "target": {
-        "hash": "sha256:57dc3c13686f7d68577b1f4030db763462af58365f32ae23898896eed7e46785",
+        "hash": "sha256:8bc0a78a55c5ff4760d496a48c8b7a2e0b2b370b4a44b40f3b32317b9d5dfd79",
         "id": "eyelet-seed",
         "path": "primitives/materials/eyelet.json"
       },
@@ -66,6 +66,7 @@
   ],
   "slug": "drawstring-pouch",
   "tags": [
+    "leatherwork",
     "leatherwork-project",
     "leather-good"
   ],

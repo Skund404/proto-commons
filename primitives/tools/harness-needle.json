@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:0a76eba6852450fa04398e4d92a364ee8d79a202e0c0108aa74c95fb1357c88d",
+  "content_hash": "sha256:c7498fede7ac7c0abfb5a9b179f1197a37efeea77789ee50698024a112ff548b",
   "created": "2026-06-09",
   "description": "A blunt, large-eye needle that passes through pre-made holes without snagging the thread or your fingers.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "harness-needle",
   "tags": [
+    "leatherwork",
     "stitching",
     "stitching-tool"
   ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:aa158929134f460000f2e8ea65e3d924178e756a5b43b2a8156b5ab8ddce1e9b",
+  "content_hash": "sha256:3a76b64f1230c96c4d9b3ece272b96e337d593b2f82d57cbb8a67cd4317eaa82",
   "created": "2026-06-09",
   "description": "A grooved blade that shaves the square corner off an edge, rounding it so it burnishes smooth.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "edge-beveler",
   "tags": [
+    "leatherwork",
     "edgework",
     "edgework-tool"
   ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:12533b9a81c783164dbe29c3d41fe654845e819dd8cfce83e42b9d1132a6b7a1",
+  "content_hash": "sha256:7a0a1558e2004577b652ef3f912f2dc0767cf5de6064c6dd75e59863e6aee4da",
   "created": "2026-06-09",
   "description": "A thin acrylic topcoat that seals dye and adds a wipe-clean, water-resistant film over the surface.",
   "emitter": "opg://commons-seed",
@@ -27,6 +27,7 @@
   },
   "slug": "acrylic-resolene-finish",
   "tags": [
+    "leatherwork",
     "leather-care",
     "leather-finish"
   ],

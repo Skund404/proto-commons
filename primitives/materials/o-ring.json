@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:4da4f131cb5b80cfac25ffb5c8416ae729f1db5bc44d9bc3a537f6a9bc87cd9a",
+  "content_hash": "sha256:dfc19168495c4ae84553c24f4cf726d03a6d53720bc810d99f12451ab540ed40",
   "created": "2026-06-09",
   "description": "A round ring used as a connector and anchor point where pull comes from any direction.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "o-ring",
   "tags": [
+    "leatherwork",
     "hardware",
     "ring-and-hook"
   ],

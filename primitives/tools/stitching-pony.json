@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:e6b9f23dd34cfd371b19a93a8f4c0f0bf2c8198a8056068913b5ca8504a62c5d",
+  "content_hash": "sha256:4a8037946a40e354d11a4cd3d488091e1bf5830812e630b5f10d3a017799c1dc",
   "created": "2026-06-09",
   "description": "A clamp that grips the work upright and frees both hands to run a saddle stitch.",
   "emitter": "opg://commons-seed",
@@ -27,6 +27,7 @@
   },
   "slug": "stitching-pony",
   "tags": [
+    "leatherwork",
     "stitching",
     "stitching-tool"
   ],

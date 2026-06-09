@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:a0ff650d64b19f6c92063cd6886bf1755a1398fd4199412fe9018a31c7090fa3",
+  "content_hash": "sha256:0fc96ae45208580b12fd5f0ea00cde5195268d6150641a7e05b0522119f44227",
   "created": "2026-06-09",
   "description": "A slim two- or three-pocket holder, saddle-stitched at the sides with burnished edges — a step up in stitching and edge work.",
   "emitter": "opg://commons-seed",
@@ -40,7 +40,7 @@
   "relationships": [
     {
       "target": {
-        "hash": "sha256:f0b46b779f0867d6a8298f30ae671a128df2af36ca802c9744cacd97663fb9cf",
+        "hash": "sha256:3e61bd9b9d5bd9ac5d1fd097a438c89de168993fbf858027594084cf33ddf72c",
         "id": "saddle-stitch-a-seam-seed",
         "path": "primitives/workflows/saddle-stitch-a-seam.json"
       },
@@ -48,7 +48,7 @@
     },
     {
       "target": {
-        "hash": "sha256:0729c9c19e5334aa1463ceedd2393ffaf2478fac192ec40c2733ddea0a330451",
+        "hash": "sha256:369b4e4a7e74e528af6f357a56879bbd917ccb58628143813c75cd455de9c7f1",
         "id": "vegetable-tanned-leather-seed",
         "path": "primitives/materials/vegetable-tanned-leather.json"
       },
@@ -56,7 +56,7 @@
     },
     {
       "target": {
-        "hash": "sha256:eeac2c78cecd79516572c5cd643ff836fd369d2128206d8eb279b088fd205f92",
+        "hash": "sha256:35c97e6b0c081ac8fcb84742f31ce18cda5d3c1da69b55fb5495d0309f99529a",
         "id": "waxed-polyester-thread-seed",
         "path": "primitives/materials/waxed-polyester-thread.json"
       },
@@ -65,6 +65,7 @@
   ],
   "slug": "card-holder",
   "tags": [
+    "leatherwork",
     "leatherwork-project",
     "leather-good"
   ],

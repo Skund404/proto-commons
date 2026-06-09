@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:68700f27db31578b5c666778f0006a594b9ec122a7961225e4161015c7750982",
+  "content_hash": "sha256:f7c6cc151c9f35ca4176e3648897a77a02ca117695ab62e9216a4f68144bb5c0",
   "created": "2026-06-09",
   "description": "A graded abrasive stone for grinding and refining a keen edge on knives and bevelers — a sharp tool is a safe tool.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "whetstone",
   "tags": [
+    "leatherwork",
     "sharpening",
     "sharpening-tool"
   ],

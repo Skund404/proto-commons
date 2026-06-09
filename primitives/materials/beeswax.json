@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:41f9ee4f63fc350fc1d9566951c4c1a890c81035160d5ca71c23e9ecce3c3a06",
+  "content_hash": "sha256:da26fc3621d63113ba1767e74ba25cd0dc2332456812e95ba14f80d9f751e92d",
   "created": "2026-06-09",
   "description": "Natural wax for waxing bare thread and slicking edges; also a simple burnishing aid.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "beeswax",
   "tags": [
+    "leatherwork",
     "leather-care",
     "leather-finish"
   ],

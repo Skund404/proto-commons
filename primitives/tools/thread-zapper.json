@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:17049b284fd1a801a91dec1950db2b72edbaa3c43c7f2a7a895424e06f5edc1e",
+  "content_hash": "sha256:5510e76f0b5bb12afd47cabb3452ab82ec3e2550ce7349276d24de7951ce5a3d",
   "created": "2026-06-09",
   "description": "A battery hot tip that melts and seals thread tails cleanly, without the soot of an open flame.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "thread-zapper",
   "tags": [
+    "leatherwork",
     "stitching",
     "stitching-tool"
   ],

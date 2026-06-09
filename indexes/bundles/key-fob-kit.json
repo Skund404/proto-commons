@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:efdce0628386325d290a42d613796e93800643ebd6a2d3f01dbe4df7fb9c7178",
+  "content_hash": "sha256:d6a3f29c77d4e0118e902f2244211d3aa2d517c7d25b949ac4a35b0fbe83f583",
   "description": {
     "en": "The key-fob project with the tools and materials to make it — a complete first build."
   },
@@ -7,56 +7,56 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:d674300d2cb50a2b6c42f0965fb9c75e1da6b578542651b8ba8d38a9528161f7",
+      "hash": "sha256:ae94669ffd9eac5d28b673eb065c79486ebab74a103b1c1a25899180d9637f46",
       "kind": "project",
       "record_class": "primitive",
       "role": "required",
       "slug": "key-fob"
     },
     {
-      "hash": "sha256:66ca65e78ae7f9b86dd766880881d437497bbfd36ae293371185e14208c3837c",
+      "hash": "sha256:d8bb8ab66a114c47b3468560ce0a41278201d1d05e62e00868aca162adcda0d4",
       "kind": "tool",
       "record_class": "primitive",
       "role": "required",
       "slug": "round-knife"
     },
     {
-      "hash": "sha256:08ac82582c5d694b4aeab894c1a834d9e4df8af5edb5b24806be5f4fccc7b088",
+      "hash": "sha256:ccf3331e1e6697c91858bc4fc2226dc6c28953494c69f672fe4ef8dadd8f9d32",
       "kind": "tool",
       "record_class": "primitive",
       "role": "required",
       "slug": "rotary-punch"
     },
     {
-      "hash": "sha256:95fe8540d1ff0e0498625f8cbaa793a03b375b8b7cd8b28679ac69cab31c17da",
+      "hash": "sha256:339cb953fbe0e4cfde09028c10f478b16752e5c68e7778477b6f91b6023acc52",
       "kind": "tool",
       "record_class": "primitive",
       "role": "required",
       "slug": "rivet-setter"
     },
     {
-      "hash": "sha256:f6904e818c2a76baf99422eccf7c4359cbbe3f3d00bc3c2124602d6ca5d1b891",
+      "hash": "sha256:da81dcc7f76135bf73334eba2e195441fbed05b9df990ed323583cfed795879c",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "edge-slicker"
     },
     {
-      "hash": "sha256:0729c9c19e5334aa1463ceedd2393ffaf2478fac192ec40c2733ddea0a330451",
+      "hash": "sha256:369b4e4a7e74e528af6f357a56879bbd917ccb58628143813c75cd455de9c7f1",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "vegetable-tanned-leather"
     },
     {
-      "hash": "sha256:7f6b5f5c281f1b32a1774c04d24952950e5be8e97db610d5fc4f981b2577f9bd",
+      "hash": "sha256:dcc63e92f000cfc09cad751c1142a88acfe95a68dd4a1dca23a9375e38fec330",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "rivet"
     },
     {
-      "hash": "sha256:d7f56651a68b5f99fcbde919a8e5e55346a13279deb730df45549d12e5a4ae05",
+      "hash": "sha256:699dbd9c94826c8464363f30578fae9021bb46cca7cb14b9b8f42b1851181fed",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",

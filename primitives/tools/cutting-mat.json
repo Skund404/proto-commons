@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:bedb5967cdbc46fb0916632310b2d09766ad86fb49d68d1b4476efc427cffce8",
+  "content_hash": "sha256:25185de41b744aba1daf4d894c46522ef89bc548691585516e707264de09b306",
   "created": "2026-06-09",
   "description": "A gridded, self-closing work surface that takes the blade without dulling it or scarring the bench.",
   "emitter": "opg://commons-seed",
@@ -25,6 +25,7 @@
   },
   "slug": "cutting-mat",
   "tags": [
+    "leatherwork",
     "cutting",
     "cutting-tool"
   ],

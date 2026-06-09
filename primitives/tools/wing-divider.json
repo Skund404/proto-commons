@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:e1f16efde104b0b17b16313666ceb9bb34091ad489a73a091b15ed9217dab06c",
+  "content_hash": "sha256:86de3709771335e0fdd5b2dcb4c9cfa5734f7af296e9686ec1a7bca9a4d41b08",
   "created": "2026-06-09",
   "description": "A two-leg compass that scribes a stitching line a fixed distance in from the edge, and steps off even spacing.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "wing-divider",
   "tags": [
+    "leatherwork",
     "marking",
     "marking-tool"
   ],

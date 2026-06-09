@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:8255f5284ceddf8aeb0509202a74c12d0d1d7c25345e19ee7f8b853dd61ce9e9",
+  "content_hash": "sha256:7e7703260c1ee401b95d1c822f1ba0ac3907391f11dcd5b0c59941dd32f69d1e",
   "created": "2026-06-09",
   "description": "A Barry King tapered poly-head maul with a leather-wrapped handle and balanced steel/brass core — a widely cited bench-standard striking tool.",
   "emitter": "opg://commons-seed",
@@ -28,8 +28,10 @@
   },
   "slug": "barry-king-maul",
   "tags": [
+    "leatherwork",
     "punching",
-    "maul"
+    "maul",
+    "brand"
   ],
   "visibility": "commons"
 }

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:825da795ff65247c11e72fd8136d7259170e023a7ceac01cf05af725b33c9a3e",
+  "content_hash": "sha256:a7eea30ead127be8553c26a35699ec1a5dbccd49621b1f663d5928360688f0cc",
   "created": "2026-06-09",
   "description": "Thin an edge by skiving, then fold and cement it for a clean, slim turned edge.",
   "emitter": "opg://commons-seed",
@@ -36,7 +36,7 @@
   "relationships": [
     {
       "target": {
-        "hash": "sha256:e4a1dbb12849214928d6203b6e4686afc2e80b533fb199f1597c3b071b9a6798",
+        "hash": "sha256:e1b8ce23841ce453083d703922ac293e4844b6b586f027f955e86b0f1750d655",
         "id": "skiving-seed",
         "path": "primitives/techniques/skiving.json"
       },
@@ -44,7 +44,7 @@
     },
     {
       "target": {
-        "hash": "sha256:350055ae24caba1cfc5b01c48ba6a021aed45c17474b6cd053e3aacce167caca",
+        "hash": "sha256:b46c6ea8b424fbe0e30f7cdd143e42a53d784a1c8662790f3a28fc6530d9389d",
         "id": "leather-cementing-seed",
         "path": "primitives/techniques/leather-cementing.json"
       },
@@ -52,7 +52,7 @@
     },
     {
       "target": {
-        "hash": "sha256:d5fbd50a7ef105c1ddd1da87e0dce0837724db0581c7e1be944f46ba4e5a043c",
+        "hash": "sha256:cdf9166e494275bb86e2c2e47be907749dae57f9a1bd758273821fb7a0d08f97",
         "id": "skiving-knife-seed",
         "path": "primitives/tools/skiving-knife.json"
       },
@@ -60,7 +60,7 @@
     },
     {
       "target": {
-        "hash": "sha256:e090b424cbf289338375f189757d58df042df6a4c6ae62b8f084af776ef13fbf",
+        "hash": "sha256:68db1f2d4d6c4381bcb5c398309b87c3fd5370527f74207b00af53f146167fb4",
         "id": "bone-folder-seed",
         "path": "primitives/tools/bone-folder.json"
       },
@@ -68,7 +68,7 @@
     },
     {
       "target": {
-        "hash": "sha256:559cac212867348d499580e67056922e315140752be1297bfca0635e84410ea0",
+        "hash": "sha256:db0108e0f43da40ba2a2cfb5e54bbe4499134b2ef682f85eb1316f11ee5552e5",
         "id": "contact-cement-seed",
         "path": "primitives/materials/contact-cement.json"
       },
@@ -77,6 +77,7 @@
   ],
   "slug": "skive-and-fold-an-edge",
   "tags": [
+    "leatherwork",
     "leatherwork-procedure",
     "intermediate"
   ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:0a7932598f0de264e462a4739847efc903c36e97ac5a0bf42775049cdba34615",
+  "content_hash": "sha256:4e3c666b7d5438d24f25e6fd85d3cee7598d0c7aa51f8408d7b40307cc78feb0",
   "created": "2026-06-09",
   "description": "A spring-gated hook for clipping a strap to a ring — quick to attach and release.",
   "emitter": "opg://commons-seed",
@@ -28,6 +28,7 @@
   },
   "slug": "snap-hook",
   "tags": [
+    "leatherwork",
     "hardware",
     "ring-and-hook"
   ],

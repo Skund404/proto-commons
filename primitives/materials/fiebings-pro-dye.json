@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:51f4b6e96917362e901bec987afe779fb1965bf8274f851896f48c1840893707",
+  "content_hash": "sha256:e71797220453b86ebff6ae85117264f10809d1354e12ed591ccac1de4d925883",
   "created": "2026-06-09",
   "description": "Fiebing's Pro Dye — a penetrating oil-based leather dye, a long-standing North-American reference for even, colorfast coverage on veg-tan.",
   "emitter": "opg://commons-seed",
@@ -30,8 +30,10 @@
   },
   "slug": "fiebings-pro-dye",
   "tags": [
+    "leatherwork",
     "leather-care",
-    "leather-finish"
+    "leather-finish",
+    "brand"
   ],
   "visibility": "commons"
 }

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f8f07f5148c9d878bdce261f4e9a27a2177ccf093d667ecd3276c42241ecfcc8",
+  "content_hash": "sha256:7b412db7239a3e4c4e49bad9d1c6cb123797f994d694f6c65858bbf0a509814a",
   "created": "2026-06-09",
   "description": "A four-part fastener that opens and closes with a press, for flaps, straps and small goods.",
   "emitter": "opg://commons-seed",
@@ -27,6 +27,7 @@
   },
   "slug": "snap-button",
   "tags": [
+    "leatherwork",
     "hardware",
     "closure"
   ],

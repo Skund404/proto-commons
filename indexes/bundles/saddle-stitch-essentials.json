@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:e9b192a6afcfba9b06c2a571968e677e9adff0075d898b33fec40dfb2436305c",
+  "content_hash": "sha256:61f2e46439c28149fac500ce0cc1e6c56a55c7924f91b363c7e63fdd9bb9c5b8",
   "description": {
     "en": "Everything to hand-stitch a seam the traditional way: punch, sew, and finish."
   },
@@ -7,49 +7,49 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:0fd8d550c14adbb7460af0a93b42ff63273902a679193ec5c4f48c410547ce86",
+      "hash": "sha256:a864a1a7204c24fc79d29057f931c150486a3bf64f77ca24b47b0e9ae418b0e5",
       "kind": "tool",
       "record_class": "primitive",
       "role": "required",
       "slug": "diamond-stitching-chisel"
     },
     {
-      "hash": "sha256:bfd45052756353890f16c052da1f17d32e57950415dfa45733fb10dbd0227db5",
+      "hash": "sha256:7a660efbb4fa42c9747c6f29a4837f33ffa43d5b5178c8713f55354f8c6af94a",
       "kind": "tool",
       "record_class": "primitive",
       "role": "optional",
       "slug": "pricking-iron"
     },
     {
-      "hash": "sha256:71d452dfade6eeabc09f97c776022b4c29829620c8d7dd5938239f7beeb0cbd0",
+      "hash": "sha256:8a6b72bec04ab33983676cbc2fc2ed1b9c09e28fa998858d7b89a2ff00d4f62d",
       "kind": "tool",
       "record_class": "primitive",
       "role": "optional",
       "slug": "stitching-awl"
     },
     {
-      "hash": "sha256:0a76eba6852450fa04398e4d92a364ee8d79a202e0c0108aa74c95fb1357c88d",
+      "hash": "sha256:c7498fede7ac7c0abfb5a9b179f1197a37efeea77789ee50698024a112ff548b",
       "kind": "tool",
       "record_class": "primitive",
       "role": "required",
       "slug": "harness-needle"
     },
     {
-      "hash": "sha256:e6b9f23dd34cfd371b19a93a8f4c0f0bf2c8198a8056068913b5ca8504a62c5d",
+      "hash": "sha256:4a8037946a40e354d11a4cd3d488091e1bf5830812e630b5f10d3a017799c1dc",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "stitching-pony"
     },
     {
-      "hash": "sha256:3c1ef7694ffe9a1832fc00e088e2bd8d1c230beb220cdfd1a28046d63482265d",
+      "hash": "sha256:650fcb86d523ffd3c6cb6b326388212b6921ba33a9916e910b11eb74561f8fe5",
       "kind": "tool",
       "record_class": "primitive",
       "role": "required",
       "slug": "mallet"
     },
     {
-      "hash": "sha256:eeac2c78cecd79516572c5cd643ff836fd369d2128206d8eb279b088fd205f92",
+      "hash": "sha256:35c97e6b0c081ac8fcb84742f31ce18cda5d3c1da69b55fb5495d0309f99529a",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",

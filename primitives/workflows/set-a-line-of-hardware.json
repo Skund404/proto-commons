@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:850e63414bc4b5ce68cdae4158e20794f78f82cec8893c88e0d1fc271a99713b",
+  "content_hash": "sha256:b8e49296a22251e3e7a3089c17c085f5ba834a5b350fd23b09a4b0ebe1ab5ebd",
   "created": "2026-06-09",
   "description": "Mark, punch, and set rivets or snaps to fasten layers and attach hardware.",
   "emitter": "opg://commons-seed",
@@ -36,7 +36,7 @@
   "relationships": [
     {
       "target": {
-        "hash": "sha256:df99c595f48612d1047eff7f97c57e043260018b026680ee5100bba21af40fce",
+        "hash": "sha256:51a4cbb600a071469a0a93d6bb53306643fb3af3f46e0174525e9ea0a16f9008",
         "id": "setting-a-rivet-seed",
         "path": "primitives/techniques/setting-a-rivet.json"
       },
@@ -44,7 +44,7 @@
     },
     {
       "target": {
-        "hash": "sha256:c6b1f4f4f11c497ea972cf765b9c6d38ace16e2d9f86683cbf7ced4279f7f92d",
+        "hash": "sha256:030dfb36e9e9e48ca30b6970cff2eb7e9a1e3c6db36727454e478199040c362b",
         "id": "setting-a-snap-seed",
         "path": "primitives/techniques/setting-a-snap.json"
       },
@@ -52,7 +52,7 @@
     },
     {
       "target": {
-        "hash": "sha256:08ac82582c5d694b4aeab894c1a834d9e4df8af5edb5b24806be5f4fccc7b088",
+        "hash": "sha256:ccf3331e1e6697c91858bc4fc2226dc6c28953494c69f672fe4ef8dadd8f9d32",
         "id": "rotary-punch-seed",
         "path": "primitives/tools/rotary-punch.json"
       },
@@ -60,7 +60,7 @@
     },
     {
       "target": {
-        "hash": "sha256:95fe8540d1ff0e0498625f8cbaa793a03b375b8b7cd8b28679ac69cab31c17da",
+        "hash": "sha256:339cb953fbe0e4cfde09028c10f478b16752e5c68e7778477b6f91b6023acc52",
         "id": "rivet-setter-seed",
         "path": "primitives/tools/rivet-setter.json"
       },
@@ -68,7 +68,7 @@
     },
     {
       "target": {
-        "hash": "sha256:951bec84143dd1cf2727ea120e94d3d271a30dcb625d65af086a5cb2d6c6184e",
+        "hash": "sha256:244e8ec9501270c55f73727deaf4de648041db87ea8ba01ce50327a84676c874",
         "id": "snap-setter-seed",
         "path": "primitives/tools/snap-setter.json"
       },
@@ -76,7 +76,7 @@
     },
     {
       "target": {
-        "hash": "sha256:3c1ef7694ffe9a1832fc00e088e2bd8d1c230beb220cdfd1a28046d63482265d",
+        "hash": "sha256:650fcb86d523ffd3c6cb6b326388212b6921ba33a9916e910b11eb74561f8fe5",
         "id": "mallet-seed",
         "path": "primitives/tools/mallet.json"
       },
@@ -84,7 +84,7 @@
     },
     {
       "target": {
-        "hash": "sha256:7f6b5f5c281f1b32a1774c04d24952950e5be8e97db610d5fc4f981b2577f9bd",
+        "hash": "sha256:dcc63e92f000cfc09cad751c1142a88acfe95a68dd4a1dca23a9375e38fec330",
         "id": "rivet-seed",
         "path": "primitives/materials/rivet.json"
       },
@@ -92,7 +92,7 @@
     },
     {
       "target": {
-        "hash": "sha256:f8f07f5148c9d878bdce261f4e9a27a2177ccf093d667ecd3276c42241ecfcc8",
+        "hash": "sha256:7b412db7239a3e4c4e49bad9d1c6cb123797f994d694f6c65858bbf0a509814a",
         "id": "snap-button-seed",
         "path": "primitives/materials/snap-button.json"
       },
@@ -101,6 +101,7 @@
   ],
   "slug": "set-a-line-of-hardware",
   "tags": [
+    "leatherwork",
     "leatherwork-procedure",
     "beginner"
   ],

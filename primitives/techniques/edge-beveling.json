@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f13c2560602da05c4a3f89a281fcfc16207c203c7313aceb6609e50a6efcb345",
+  "content_hash": "sha256:d7f89e64a0d1c2f5c7fdf6a0d0858b15a2ad30573e8fb7f94d40c06b3737bd92",
   "created": "2026-06-09",
   "description": "Trim the square corner off a cut edge so it rounds over and takes a clean burnish.",
   "emitter": "opg://commons-seed",
@@ -26,7 +26,7 @@
   "relationships": [
     {
       "target": {
-        "hash": "sha256:aa158929134f460000f2e8ea65e3d924178e756a5b43b2a8156b5ab8ddce1e9b",
+        "hash": "sha256:3a76b64f1230c96c4d9b3ece272b96e337d593b2f82d57cbb8a67cd4317eaa82",
         "id": "edge-beveler-seed",
         "path": "primitives/tools/edge-beveler.json"
       },
@@ -35,6 +35,7 @@
   ],
   "slug": "edge-beveling",
   "tags": [
+    "leatherwork",
     "edge-technique",
     "beginner"
   ],

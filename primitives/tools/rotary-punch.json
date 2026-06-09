@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:08ac82582c5d694b4aeab894c1a834d9e4df8af5edb5b24806be5f4fccc7b088",
+  "content_hash": "sha256:ccf3331e1e6697c91858bc4fc2226dc6c28953494c69f672fe4ef8dadd8f9d32",
   "created": "2026-06-09",
   "description": "A revolving head of graduated tubes that punches clean round holes in several sizes for hardware.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "rotary-punch",
   "tags": [
+    "leatherwork",
     "punching",
     "punching-tool"
   ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:df99c595f48612d1047eff7f97c57e043260018b026680ee5100bba21af40fce",
+  "content_hash": "sha256:51a4cbb600a071469a0a93d6bb53306643fb3af3f46e0174525e9ea0a16f9008",
   "created": "2026-06-09",
   "description": "Punch a hole, seat the rivet's two parts, and dome the cap with a setter and mallet for a permanent join.",
   "emitter": "opg://commons-seed",
@@ -26,7 +26,7 @@
   "relationships": [
     {
       "target": {
-        "hash": "sha256:95fe8540d1ff0e0498625f8cbaa793a03b375b8b7cd8b28679ac69cab31c17da",
+        "hash": "sha256:339cb953fbe0e4cfde09028c10f478b16752e5c68e7778477b6f91b6023acc52",
         "id": "rivet-setter-seed",
         "path": "primitives/tools/rivet-setter.json"
       },
@@ -34,7 +34,7 @@
     },
     {
       "target": {
-        "hash": "sha256:04106192afaa39d0d16332874afe8fc5f1c6c97924977dff6c404317ede74d43",
+        "hash": "sha256:7791e46fc92af1a2ec3fe7939a6f2d436e0c9f09d8a24c55e14dfe4c32bbf742",
         "id": "hole-punch-seed",
         "path": "primitives/tools/hole-punch.json"
       },
@@ -42,7 +42,7 @@
     },
     {
       "target": {
-        "hash": "sha256:3c1ef7694ffe9a1832fc00e088e2bd8d1c230beb220cdfd1a28046d63482265d",
+        "hash": "sha256:650fcb86d523ffd3c6cb6b326388212b6921ba33a9916e910b11eb74561f8fe5",
         "id": "mallet-seed",
         "path": "primitives/tools/mallet.json"
       },
@@ -50,7 +50,7 @@
     },
     {
       "target": {
-        "hash": "sha256:7f6b5f5c281f1b32a1774c04d24952950e5be8e97db610d5fc4f981b2577f9bd",
+        "hash": "sha256:dcc63e92f000cfc09cad751c1142a88acfe95a68dd4a1dca23a9375e38fec330",
         "id": "rivet-seed",
         "path": "primitives/materials/rivet.json"
       },
@@ -59,6 +59,7 @@
   ],
   "slug": "setting-a-rivet",
   "tags": [
+    "leatherwork",
     "assembly-technique",
     "beginner"
   ],

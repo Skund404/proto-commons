@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:04106192afaa39d0d16332874afe8fc5f1c6c97924977dff6c404317ede74d43",
+  "content_hash": "sha256:7791e46fc92af1a2ec3fe7939a6f2d436e0c9f09d8a24c55e14dfe4c32bbf742",
   "created": "2026-06-09",
   "description": "A single-size tube driven with a mallet to punch one hole — sized to the rivet, snap or lace it serves.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "hole-punch",
   "tags": [
+    "leatherwork",
     "punching",
     "punching-tool"
   ],

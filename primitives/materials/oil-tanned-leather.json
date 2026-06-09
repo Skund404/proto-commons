@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:05c20b5e234a22bd5fad77d76a191688971a575c76fdbf86585ef89209d06708",
+  "content_hash": "sha256:0ffba5dce7796593a9109b45758a4246202cdfbe9fb22f15effa7fe79df97a32",
   "created": "2026-06-09",
   "description": "Veg-tan further fed with oils and waxes — supple, pre-dyed, water-resistant and low-maintenance, but harder to tool or carve.",
   "emitter": "opg://commons-seed",
@@ -27,6 +27,7 @@
   },
   "slug": "oil-tanned-leather",
   "tags": [
+    "leatherwork",
     "leather",
     "oil-tanned-leather"
   ],

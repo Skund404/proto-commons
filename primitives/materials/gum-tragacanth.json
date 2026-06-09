@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:9361b7ae2ff39afbe8b11079d3513ad24af045a44d8fa5c291d499d40b6bde62",
+  "content_hash": "sha256:59e2c06eb879c0150c423c0cd9141c07bd6001fee1cb71fb142e1437968a73cf",
   "created": "2026-06-09",
   "description": "A traditional plant-gum edge slicking agent — brushed on, then burnished to seal and smooth the edge.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "gum-tragacanth",
   "tags": [
+    "leatherwork",
     "leather-care",
     "edge-burnishing-gum"
   ],

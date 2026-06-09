@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:97a603985b47cec6d1dcb6e0927be90fe9b4b9d80796db8245299f4b2af314d5",
+  "content_hash": "sha256:07cfebb50d91f714ce4078022369bfca9ffac33b91a3ed62dc158b6f5c01c944",
   "created": "2026-06-09",
   "description": "Mark the stitch points with a pricking iron, then open each hole with an awl as you sew for maximum control over the angle.",
   "emitter": "opg://commons-seed",
@@ -26,7 +26,7 @@
   "relationships": [
     {
       "target": {
-        "hash": "sha256:bfd45052756353890f16c052da1f17d32e57950415dfa45733fb10dbd0227db5",
+        "hash": "sha256:7a660efbb4fa42c9747c6f29a4837f33ffa43d5b5178c8713f55354f8c6af94a",
         "id": "pricking-iron-seed",
         "path": "primitives/tools/pricking-iron.json"
       },
@@ -34,7 +34,7 @@
     },
     {
       "target": {
-        "hash": "sha256:71d452dfade6eeabc09f97c776022b4c29829620c8d7dd5938239f7beeb0cbd0",
+        "hash": "sha256:8a6b72bec04ab33983676cbc2fc2ed1b9c09e28fa998858d7b89a2ff00d4f62d",
         "id": "stitching-awl-seed",
         "path": "primitives/tools/stitching-awl.json"
       },
@@ -43,6 +43,7 @@
   ],
   "slug": "pricking-and-awl-stitching",
   "tags": [
+    "leatherwork",
     "stitching-technique",
     "intermediate"
   ],

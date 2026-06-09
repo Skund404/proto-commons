@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:35559abeba8c2cb8a5d47ebe8481958b102c1d84de016e7c9ca76580d017b9b3",
+  "content_hash": "sha256:e37536a4014590accfe7cf52dd161d79f49365d12ef14aa75ee82ff1f95792a8",
   "created": "2026-06-09",
   "description": "Apply dye to a beveled edge before burnishing to frame the piece with a crisp line of color.",
   "emitter": "opg://commons-seed",
@@ -26,7 +26,7 @@
   "relationships": [
     {
       "target": {
-        "hash": "sha256:9cdb2de58fe2dd99144dfdc61afbd9c90325491c14f5ef68079e74c63e45394a",
+        "hash": "sha256:7570807d84db716c3d7fbb09d7e4d54d39e85209a512d7b04a69b76f6e947563",
         "id": "leather-dye-seed",
         "path": "primitives/materials/leather-dye.json"
       },
@@ -35,6 +35,7 @@
   ],
   "slug": "edge-dyeing",
   "tags": [
+    "leatherwork",
     "finishing-technique",
     "intermediate"
   ],

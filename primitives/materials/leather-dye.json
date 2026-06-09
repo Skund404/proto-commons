@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:9cdb2de58fe2dd99144dfdc61afbd9c90325491c14f5ef68079e74c63e45394a",
+  "content_hash": "sha256:7570807d84db716c3d7fbb09d7e4d54d39e85209a512d7b04a69b76f6e947563",
   "created": "2026-06-09",
   "description": "Penetrating color for leather and edges, applied by dauber, brush or airbrush before sealing and finishing.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "leather-dye",
   "tags": [
+    "leatherwork",
     "leather-care",
     "leather-finish"
   ],

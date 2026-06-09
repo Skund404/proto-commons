@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:eb2da49c0a464b49c95d094b186c2c742c6c901ebae685990990df586e916afe",
+  "content_hash": "sha256:d3a515b35d451301f6894d72d8cb7e40922577a7d0bb0e26c0e344f210dab2ef",
   "created": "2026-06-09",
   "description": "A rolling circular blade that tracks straight lines and gentle curves with steady, low-effort control.",
   "emitter": "opg://commons-seed",
@@ -25,6 +25,7 @@
   },
   "slug": "rotary-cutter",
   "tags": [
+    "leatherwork",
     "cutting",
     "cutting-tool"
   ],

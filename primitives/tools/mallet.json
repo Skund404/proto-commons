@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:3c1ef7694ffe9a1832fc00e088e2bd8d1c230beb220cdfd1a28046d63482265d",
+  "content_hash": "sha256:650fcb86d523ffd3c6cb6b326388212b6921ba33a9916e910b11eb74561f8fe5",
   "created": "2026-06-09",
   "description": "A non-marring poly, rawhide or wooden head for driving chisels and punches and setting hardware — never steel-faced.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "mallet",
   "tags": [
+    "leatherwork",
     "punching",
     "mallet"
   ],

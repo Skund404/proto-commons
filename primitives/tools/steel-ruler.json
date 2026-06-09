@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:b7cc9d5529f84f9f0b630eba5103b273d192bcf66ce9a2ed6a0aa1ac10b53a92",
+  "content_hash": "sha256:1fee1decbd0701af942a193973ff01458dbfa1c8319682330c96e4665d157ef4",
   "created": "2026-06-09",
   "description": "A cork-backed metal rule that measures and guides the knife without the blade shaving its edge.",
   "emitter": "opg://commons-seed",
@@ -26,6 +26,7 @@
   },
   "slug": "steel-ruler",
   "tags": [
+    "leatherwork",
     "cutting",
     "cutting-tool"
   ],
