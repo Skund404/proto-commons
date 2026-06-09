@@ -231,16 +231,6 @@
         "canonical": false
       }
     ],
-    "black pepper": [
-      {
-        "ref": "primitives/materials/black-pepper.json",
-        "class": "primitive",
-        "kind": "material",
-        "name": "black pepper",
-        "lang": "en",
-        "canonical": true
-      }
-    ],
     "blackberry": [
       {
         "ref": "primitives/materials/produce/fruits/blackberry.json",
@@ -267,16 +257,6 @@
         "class": "primitive",
         "kind": "material",
         "name": "blueberry",
-        "lang": "en",
-        "canonical": true
-      }
-    ],
-    "boiling": [
-      {
-        "ref": "categories/boiling",
-        "class": "category",
-        "kind": null,
-        "name": "boiling",
         "lang": "en",
         "canonical": true
       }
@@ -309,16 +289,6 @@
         "name": "box cutter",
         "lang": "en",
         "canonical": false
-      }
-    ],
-    "box grater": [
-      {
-        "ref": "primitives/tools/box-grater.json",
-        "class": "primitive",
-        "kind": "tool",
-        "name": "box grater",
-        "lang": "en",
-        "canonical": true
       }
     ],
     "brassica": [
@@ -499,16 +469,6 @@
         "canonical": false
       }
     ],
-    "carbonara (dish)": [
-      {
-        "ref": "primitives/projects/carbonara-dish.json",
-        "class": "primitive",
-        "kind": "project",
-        "name": "Carbonara (dish)",
-        "lang": "en",
-        "canonical": true
-      }
-    ],
     "card holder": [
       {
         "ref": "primitives/projects/card-holder.json",
@@ -577,16 +537,6 @@
         "name": "chard",
         "lang": "en",
         "canonical": false
-      }
-    ],
-    "cheese": [
-      {
-        "ref": "categories/cheese",
-        "class": "category",
-        "kind": null,
-        "name": "cheese",
-        "lang": "en",
-        "canonical": true
       }
     ],
     "cherry": [
@@ -777,46 +727,6 @@
         "canonical": true
       }
     ],
-    "cook carbonara": [
-      {
-        "ref": "primitives/events/cook-carbonara.json",
-        "class": "primitive",
-        "kind": "event",
-        "name": "cook carbonara",
-        "lang": "en",
-        "canonical": true
-      }
-    ],
-    "cook pasta al dente": [
-      {
-        "ref": "primitives/techniques/cook-pasta-al-dente.json",
-        "class": "primitive",
-        "kind": "technique",
-        "name": "cook pasta al dente",
-        "lang": "en",
-        "canonical": true
-      }
-    ],
-    "cooking technique": [
-      {
-        "ref": "categories/cooking-technique",
-        "class": "category",
-        "kind": null,
-        "name": "cooking technique",
-        "lang": "en",
-        "canonical": true
-      }
-    ],
-    "cookware": [
-      {
-        "ref": "categories/cookware",
-        "class": "category",
-        "kind": null,
-        "name": "cookware",
-        "lang": "en",
-        "canonical": true
-      }
-    ],
     "corn": [
       {
         "ref": "primitives/materials/produce/vegetables/sweetcorn.json",
@@ -857,16 +767,6 @@
         "canonical": true
       }
     ],
-    "crisp the guanciale": [
-      {
-        "ref": "primitives/techniques/render-guanciale.json",
-        "class": "primitive",
-        "kind": "technique",
-        "name": "crisp the guanciale",
-        "lang": "en",
-        "canonical": false
-      }
-    ],
     "cruciferous vegetable": [
       {
         "ref": "categories/brassica",
@@ -893,26 +793,6 @@
         "class": "category",
         "kind": null,
         "name": "cucurbit",
-        "lang": "en",
-        "canonical": false
-      }
-    ],
-    "cured meat": [
-      {
-        "ref": "categories/cured-meat",
-        "class": "category",
-        "kind": null,
-        "name": "cured meat",
-        "lang": "en",
-        "canonical": true
-      }
-    ],
-    "cured pork jowl": [
-      {
-        "ref": "primitives/materials/guanciale.json",
-        "class": "primitive",
-        "kind": "material",
-        "name": "cured pork jowl",
         "lang": "en",
         "canonical": false
       }
@@ -1243,60 +1123,12 @@
         "canonical": true
       }
     ],
-    "egg": [
-      {
-        "ref": "categories/egg",
-        "class": "category",
-        "kind": null,
-        "name": "egg",
-        "lang": "en",
-        "canonical": true
-      },
-      {
-        "ref": "primitives/materials/egg.json",
-        "class": "primitive",
-        "kind": "material",
-        "name": "egg",
-        "lang": "en",
-        "canonical": true
-      }
-    ],
-    "egg whisk": [
-      {
-        "ref": "primitives/tools/whisk.json",
-        "class": "primitive",
-        "kind": "tool",
-        "name": "egg whisk",
-        "lang": "en",
-        "canonical": false
-      }
-    ],
     "eggplant": [
       {
         "ref": "primitives/materials/produce/vegetables/eggplant.json",
         "class": "primitive",
         "kind": "material",
         "name": "eggplant",
-        "lang": "en",
-        "canonical": true
-      }
-    ],
-    "emulsification": [
-      {
-        "ref": "categories/emulsification",
-        "class": "category",
-        "kind": null,
-        "name": "emulsification",
-        "lang": "en",
-        "canonical": true
-      }
-    ],
-    "emulsify off heat": [
-      {
-        "ref": "primitives/techniques/mantecare-emulsify.json",
-        "class": "primitive",
-        "kind": "technique",
-        "name": "emulsify off heat",
         "lang": "en",
         "canonical": true
       }
@@ -1431,26 +1263,6 @@
         "canonical": false
       }
     ],
-    "frying": [
-      {
-        "ref": "categories/frying",
-        "class": "category",
-        "kind": null,
-        "name": "frying",
-        "lang": "en",
-        "canonical": true
-      }
-    ],
-    "frying pan": [
-      {
-        "ref": "primitives/tools/skillet.json",
-        "class": "primitive",
-        "kind": "tool",
-        "name": "frying pan",
-        "lang": "en",
-        "canonical": false
-      }
-    ],
     "garbanzo": [
       {
         "ref": "primitives/materials/produce/vegetables/chickpea.json",
@@ -1579,44 +1391,6 @@
         "canonical": true
       }
     ],
-    "grate pecorino": [
-      {
-        "ref": "primitives/techniques/grate-pecorino.json",
-        "class": "primitive",
-        "kind": "technique",
-        "name": "grate pecorino",
-        "lang": "en",
-        "canonical": true
-      }
-    ],
-    "grater": [
-      {
-        "ref": "categories/grater",
-        "class": "category",
-        "kind": null,
-        "name": "grater",
-        "lang": "en",
-        "canonical": true
-      },
-      {
-        "ref": "primitives/tools/box-grater.json",
-        "class": "primitive",
-        "kind": "tool",
-        "name": "grater",
-        "lang": "en",
-        "canonical": false
-      }
-    ],
-    "grating": [
-      {
-        "ref": "categories/grating",
-        "class": "category",
-        "kind": null,
-        "name": "grating",
-        "lang": "en",
-        "canonical": true
-      }
-    ],
     "green bean": [
       {
         "ref": "primitives/materials/produce/vegetables/green-bean.json",
@@ -1655,16 +1429,6 @@
         "name": "grommet",
         "lang": "en",
         "canonical": false
-      }
-    ],
-    "guanciale": [
-      {
-        "ref": "primitives/materials/guanciale.json",
-        "class": "primitive",
-        "kind": "material",
-        "name": "guanciale",
-        "lang": "en",
-        "canonical": true
       }
     ],
     "guava": [
@@ -1743,16 +1507,6 @@
         "name": "head knife",
         "lang": "en",
         "canonical": true
-      }
-    ],
-    "hen's egg": [
-      {
-        "ref": "primitives/materials/egg.json",
-        "class": "primitive",
-        "kind": "material",
-        "name": "hen's egg",
-        "lang": "en",
-        "canonical": false
       }
     ],
     "hole punch": [
@@ -1843,16 +1597,6 @@
         "name": "key ring",
         "lang": "en",
         "canonical": false
-      }
-    ],
-    "kitchen utensil": [
-      {
-        "ref": "categories/utensil",
-        "class": "category",
-        "kind": null,
-        "name": "kitchen utensil",
-        "lang": "en",
-        "canonical": true
       }
     ],
     "kiwi": [
@@ -2223,16 +1967,6 @@
         "canonical": true
       }
     ],
-    "mantecare": [
-      {
-        "ref": "primitives/techniques/mantecare-emulsify.json",
-        "class": "primitive",
-        "kind": "technique",
-        "name": "mantecare",
-        "lang": "en",
-        "canonical": false
-      }
-    ],
     "marking a stitch line": [
       {
         "ref": "primitives/techniques/marking-a-stitch-line.json",
@@ -2449,16 +2183,6 @@
         "canonical": false
       }
     ],
-    "pan": [
-      {
-        "ref": "categories/pan",
-        "class": "category",
-        "kind": null,
-        "name": "pan",
-        "lang": "en",
-        "canonical": true
-      }
-    ],
     "papaya": [
       {
         "ref": "primitives/materials/produce/fruits/papaya.json",
@@ -2509,26 +2233,6 @@
         "canonical": true
       }
     ],
-    "pasta": [
-      {
-        "ref": "categories/pasta",
-        "class": "category",
-        "kind": null,
-        "name": "pasta",
-        "lang": "en",
-        "canonical": true
-      }
-    ],
-    "pasta pot": [
-      {
-        "ref": "primitives/tools/pasta-pot.json",
-        "class": "primitive",
-        "kind": "tool",
-        "name": "pasta pot",
-        "lang": "en",
-        "canonical": true
-      }
-    ],
     "pawpaw": [
       {
         "ref": "primitives/materials/produce/fruits/papaya.json",
@@ -2565,26 +2269,6 @@
         "class": "primitive",
         "kind": "material",
         "name": "pear",
-        "lang": "en",
-        "canonical": true
-      }
-    ],
-    "pecorino": [
-      {
-        "ref": "primitives/materials/pecorino-romano.json",
-        "class": "primitive",
-        "kind": "material",
-        "name": "pecorino",
-        "lang": "en",
-        "canonical": false
-      }
-    ],
-    "pecorino romano": [
-      {
-        "ref": "primitives/materials/pecorino-romano.json",
-        "class": "primitive",
-        "kind": "material",
-        "name": "Pecorino Romano",
         "lang": "en",
         "canonical": true
       }
@@ -2675,16 +2359,6 @@
         "class": "primitive",
         "kind": "material",
         "name": "pomelo",
-        "lang": "en",
-        "canonical": true
-      }
-    ],
-    "pot": [
-      {
-        "ref": "categories/pot",
-        "class": "category",
-        "kind": null,
-        "name": "pot",
         "lang": "en",
         "canonical": true
       }
@@ -2827,16 +2501,6 @@
         "canonical": true
       }
     ],
-    "recipe": [
-      {
-        "ref": "categories/recipe",
-        "class": "category",
-        "kind": null,
-        "name": "recipe",
-        "lang": "en",
-        "canonical": true
-      }
-    ],
     "red currant": [
       {
         "ref": "primitives/materials/produce/fruits/redcurrant.json",
@@ -2865,16 +2529,6 @@
         "name": "remnant leather",
         "lang": "en",
         "canonical": false
-      }
-    ],
-    "render guanciale": [
-      {
-        "ref": "primitives/techniques/render-guanciale.json",
-        "class": "primitive",
-        "kind": "technique",
-        "name": "render guanciale",
-        "lang": "en",
-        "canonical": true
       }
     ],
     "revolving punch": [
@@ -3225,16 +2879,6 @@
         "canonical": true
       }
     ],
-    "skillet": [
-      {
-        "ref": "primitives/tools/skillet.json",
-        "class": "primitive",
-        "kind": "tool",
-        "name": "skillet",
-        "lang": "en",
-        "canonical": true
-      }
-    ],
     "skive and fold an edge": [
       {
         "ref": "primitives/workflows/skive-and-fold-an-edge.json",
@@ -3333,36 +2977,6 @@
         "name": "soybean",
         "lang": "en",
         "canonical": false
-      }
-    ],
-    "spaghetti": [
-      {
-        "ref": "primitives/materials/spaghetti.json",
-        "class": "primitive",
-        "kind": "material",
-        "name": "spaghetti",
-        "lang": "en",
-        "canonical": true
-      }
-    ],
-    "spaghetti carbonara": [
-      {
-        "ref": "primitives/workflows/spaghetti-carbonara.json",
-        "class": "primitive",
-        "kind": "workflow",
-        "name": "Spaghetti Carbonara",
-        "lang": "en",
-        "canonical": true
-      }
-    ],
-    "spice": [
-      {
-        "ref": "categories/spice",
-        "class": "category",
-        "kind": null,
-        "name": "spice",
-        "lang": "en",
-        "canonical": true
       }
     ],
     "spinach": [
@@ -3503,16 +3117,6 @@
         "name": "stitching tool",
         "lang": "en",
         "canonical": true
-      }
-    ],
-    "stockpot": [
-      {
-        "ref": "primitives/tools/pasta-pot.json",
-        "class": "primitive",
-        "kind": "tool",
-        "name": "stockpot",
-        "lang": "en",
-        "canonical": false
       }
     ],
     "stone fruit": [
@@ -3895,24 +3499,6 @@
         "class": "primitive",
         "kind": "tool",
         "name": "whetstone",
-        "lang": "en",
-        "canonical": true
-      }
-    ],
-    "whisk": [
-      {
-        "ref": "categories/whisk",
-        "class": "category",
-        "kind": null,
-        "name": "whisk",
-        "lang": "en",
-        "canonical": true
-      },
-      {
-        "ref": "primitives/tools/whisk.json",
-        "class": "primitive",
-        "kind": "tool",
-        "name": "whisk",
         "lang": "en",
         "canonical": true
       }

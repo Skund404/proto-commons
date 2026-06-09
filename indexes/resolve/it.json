@@ -151,16 +151,6 @@
         "canonical": true
       }
     ],
-    "bollitura": [
-      {
-        "ref": "categories/boiling",
-        "class": "category",
-        "kind": null,
-        "name": "bollitura",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
     "brassica": [
       {
         "ref": "categories/brassica",
@@ -197,16 +187,6 @@
         "class": "primitive",
         "kind": "material",
         "name": "cachi",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
-    "carbonara (piatto)": [
-      {
-        "ref": "primitives/projects/carbonara-dish.json",
-        "class": "primitive",
-        "kind": "project",
-        "name": "carbonara (piatto)",
         "lang": "it",
         "canonical": true
       }
@@ -401,16 +381,6 @@
         "canonical": false
       }
     ],
-    "cucinare la carbonara": [
-      {
-        "ref": "primitives/events/cook-carbonara.json",
-        "class": "primitive",
-        "kind": "event",
-        "name": "cucinare la carbonara",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
     "cucurbitacea": [
       {
         "ref": "categories/squash",
@@ -419,16 +389,6 @@
         "name": "cucurbitacea",
         "lang": "it",
         "canonical": false
-      }
-    ],
-    "cuocere la pasta al dente": [
-      {
-        "ref": "primitives/techniques/cook-pasta-al-dente.json",
-        "class": "primitive",
-        "kind": "technique",
-        "name": "cuocere la pasta al dente",
-        "lang": "it",
-        "canonical": true
       }
     ],
     "dattero": [
@@ -457,16 +417,6 @@
         "class": "primitive",
         "kind": "material",
         "name": "edamame",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
-    "emulsione": [
-      {
-        "ref": "categories/emulsification",
-        "class": "category",
-        "kind": null,
-        "name": "emulsione",
         "lang": "it",
         "canonical": true
       }
@@ -531,50 +481,12 @@
         "canonical": true
       }
     ],
-    "formaggio": [
-      {
-        "ref": "categories/cheese",
-        "class": "category",
-        "kind": null,
-        "name": "formaggio",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
     "fragola": [
       {
         "ref": "primitives/materials/produce/fruits/strawberry.json",
         "class": "primitive",
         "kind": "material",
         "name": "fragola",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
-    "frittura": [
-      {
-        "ref": "categories/frying",
-        "class": "category",
-        "kind": null,
-        "name": "frittura",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
-    "frusta": [
-      {
-        "ref": "categories/whisk",
-        "class": "category",
-        "kind": null,
-        "name": "frusta",
-        "lang": "it",
-        "canonical": true
-      },
-      {
-        "ref": "primitives/tools/whisk.json",
-        "class": "primitive",
-        "kind": "tool",
-        "name": "frusta",
         "lang": "it",
         "canonical": true
       }
@@ -657,54 +569,6 @@
         "name": "granturco",
         "lang": "it",
         "canonical": false
-      }
-    ],
-    "grattugia": [
-      {
-        "ref": "categories/grater",
-        "class": "category",
-        "kind": null,
-        "name": "grattugia",
-        "lang": "it",
-        "canonical": true
-      },
-      {
-        "ref": "primitives/tools/box-grater.json",
-        "class": "primitive",
-        "kind": "tool",
-        "name": "grattugia",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
-    "grattugiare il pecorino": [
-      {
-        "ref": "primitives/techniques/grate-pecorino.json",
-        "class": "primitive",
-        "kind": "technique",
-        "name": "grattugiare il pecorino",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
-    "grattugiatura": [
-      {
-        "ref": "categories/grating",
-        "class": "category",
-        "kind": null,
-        "name": "grattugiatura",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
-    "guanciale": [
-      {
-        "ref": "primitives/materials/guanciale.json",
-        "class": "primitive",
-        "kind": "material",
-        "name": "guanciale",
-        "lang": "it",
-        "canonical": true
       }
     ],
     "guava": [
@@ -883,16 +747,6 @@
         "class": "primitive",
         "kind": "material",
         "name": "mango",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
-    "mantecare": [
-      {
-        "ref": "primitives/techniques/mantecare-emulsify.json",
-        "class": "primitive",
-        "kind": "technique",
-        "name": "mantecare",
         "lang": "it",
         "canonical": true
       }
@@ -1087,24 +941,6 @@
         "canonical": true
       }
     ],
-    "padella": [
-      {
-        "ref": "categories/pan",
-        "class": "category",
-        "kind": null,
-        "name": "padella",
-        "lang": "it",
-        "canonical": true
-      },
-      {
-        "ref": "primitives/tools/skillet.json",
-        "class": "primitive",
-        "kind": "tool",
-        "name": "padella",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
     "pak choi": [
       {
         "ref": "primitives/materials/produce/vegetables/bok-choy.json",
@@ -1121,16 +957,6 @@
         "class": "primitive",
         "kind": "material",
         "name": "papaia",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
-    "pasta": [
-      {
-        "ref": "categories/pasta",
-        "class": "category",
-        "kind": null,
-        "name": "pasta",
         "lang": "it",
         "canonical": true
       }
@@ -1161,54 +987,6 @@
         "class": "primitive",
         "kind": "material",
         "name": "patata dolce",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
-    "pecorino romano": [
-      {
-        "ref": "primitives/materials/pecorino-romano.json",
-        "class": "primitive",
-        "kind": "material",
-        "name": "Pecorino Romano",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
-    "pentola": [
-      {
-        "ref": "categories/pot",
-        "class": "category",
-        "kind": null,
-        "name": "pentola",
-        "lang": "it",
-        "canonical": true
-      },
-      {
-        "ref": "primitives/tools/pasta-pot.json",
-        "class": "primitive",
-        "kind": "tool",
-        "name": "pentola",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
-    "pentole e padelle": [
-      {
-        "ref": "categories/cookware",
-        "class": "category",
-        "kind": null,
-        "name": "pentole e padelle",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
-    "pepe nero": [
-      {
-        "ref": "primitives/materials/black-pepper.json",
-        "class": "primitive",
-        "kind": "material",
-        "name": "pepe nero",
         "lang": "it",
         "canonical": true
       }
@@ -1423,26 +1201,6 @@
         "canonical": true
       }
     ],
-    "ricetta": [
-      {
-        "ref": "categories/recipe",
-        "class": "category",
-        "kind": null,
-        "name": "ricetta",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
-    "rosolare il guanciale": [
-      {
-        "ref": "primitives/techniques/render-guanciale.json",
-        "class": "primitive",
-        "kind": "technique",
-        "name": "rosolare il guanciale",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
     "rucola": [
       {
         "ref": "primitives/materials/produce/vegetables/arugula.json",
@@ -1459,16 +1217,6 @@
         "class": "primitive",
         "kind": "material",
         "name": "rutabaga",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
-    "salumi": [
-      {
-        "ref": "categories/cured-meat",
-        "class": "category",
-        "kind": null,
-        "name": "salumi",
         "lang": "it",
         "canonical": true
       }
@@ -1513,36 +1261,6 @@
         "canonical": true
       }
     ],
-    "spaghetti": [
-      {
-        "ref": "primitives/materials/spaghetti.json",
-        "class": "primitive",
-        "kind": "material",
-        "name": "spaghetti",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
-    "spaghetti alla carbonara": [
-      {
-        "ref": "primitives/workflows/spaghetti-carbonara.json",
-        "class": "primitive",
-        "kind": "workflow",
-        "name": "spaghetti alla carbonara",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
-    "spezie": [
-      {
-        "ref": "categories/spice",
-        "class": "category",
-        "kind": null,
-        "name": "spezie",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
     "spinaci": [
       {
         "ref": "primitives/materials/produce/vegetables/spinach.json",
@@ -1569,46 +1287,6 @@
         "class": "primitive",
         "kind": "material",
         "name": "taccola",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
-    "tecnica di cottura": [
-      {
-        "ref": "categories/cooking-technique",
-        "class": "category",
-        "kind": null,
-        "name": "tecnica di cottura",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
-    "uova": [
-      {
-        "ref": "categories/egg",
-        "class": "category",
-        "kind": null,
-        "name": "uova",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
-    "uovo": [
-      {
-        "ref": "primitives/materials/egg.json",
-        "class": "primitive",
-        "kind": "material",
-        "name": "uovo",
-        "lang": "it",
-        "canonical": true
-      }
-    ],
-    "utensile da cucina": [
-      {
-        "ref": "categories/utensil",
-        "class": "category",
-        "kind": null,
-        "name": "utensile da cucina",
         "lang": "it",
         "canonical": true
       }

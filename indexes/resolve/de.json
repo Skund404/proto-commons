@@ -141,26 +141,6 @@
         "canonical": true
       }
     ],
-    "braten": [
-      {
-        "ref": "categories/frying",
-        "class": "category",
-        "kind": null,
-        "name": "Braten",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
-    "bratpfanne": [
-      {
-        "ref": "primitives/tools/skillet.json",
-        "class": "primitive",
-        "kind": "tool",
-        "name": "Bratpfanne",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
     "brokkoli": [
       {
         "ref": "primitives/materials/produce/vegetables/broccoli.json",
@@ -207,26 +187,6 @@
         "class": "primitive",
         "kind": "material",
         "name": "Cantaloupe-Melone",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
-    "carbonara (gericht)": [
-      {
-        "ref": "primitives/projects/carbonara-dish.json",
-        "class": "primitive",
-        "kind": "project",
-        "name": "Carbonara (Gericht)",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
-    "carbonara kochen": [
-      {
-        "ref": "primitives/events/cook-carbonara.json",
-        "class": "primitive",
-        "kind": "event",
-        "name": "Carbonara kochen",
         "lang": "de",
         "canonical": true
       }
@@ -311,32 +271,12 @@
         "canonical": true
       }
     ],
-    "ei": [
-      {
-        "ref": "primitives/materials/egg.json",
-        "class": "primitive",
-        "kind": "material",
-        "name": "Ei",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
     "eichelkürbis": [
       {
         "ref": "primitives/materials/produce/vegetables/acorn-squash.json",
         "class": "primitive",
         "kind": "material",
         "name": "Eichelkürbis",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
-    "eier": [
-      {
-        "ref": "categories/egg",
-        "class": "category",
-        "kind": null,
-        "name": "Eier",
         "lang": "de",
         "canonical": true
       }
@@ -349,26 +289,6 @@
         "name": "Eierfrucht",
         "lang": "de",
         "canonical": false
-      }
-    ],
-    "emulgieren": [
-      {
-        "ref": "categories/emulsification",
-        "class": "category",
-        "kind": null,
-        "name": "Emulgieren",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
-    "emulgieren (vom herd genommen)": [
-      {
-        "ref": "primitives/techniques/mantecare-emulsify.json",
-        "class": "primitive",
-        "kind": "technique",
-        "name": "emulgieren (vom Herd genommen)",
-        "lang": "de",
-        "canonical": true
       }
     ],
     "endivie": [
@@ -471,16 +391,6 @@
         "canonical": true
       }
     ],
-    "gartechnik": [
-      {
-        "ref": "categories/cooking-technique",
-        "class": "category",
-        "kind": null,
-        "name": "Gartechnik",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
     "gartenbohne": [
       {
         "ref": "primitives/materials/produce/vegetables/green-bean.json",
@@ -497,16 +407,6 @@
         "class": "category",
         "kind": null,
         "name": "Gemüse",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
-    "gewürz": [
-      {
-        "ref": "categories/spice",
-        "class": "category",
-        "kind": null,
-        "name": "Gewürz",
         "lang": "de",
         "canonical": true
       }
@@ -547,26 +447,6 @@
         "class": "primitive",
         "kind": "material",
         "name": "Grünkohl",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
-    "guanciale": [
-      {
-        "ref": "primitives/materials/guanciale.json",
-        "class": "primitive",
-        "kind": "material",
-        "name": "Guanciale",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
-    "guanciale auslassen": [
-      {
-        "ref": "primitives/techniques/render-guanciale.json",
-        "class": "primitive",
-        "kind": "technique",
-        "name": "Guanciale auslassen",
         "lang": "de",
         "canonical": true
       }
@@ -741,26 +621,6 @@
         "canonical": true
       }
     ],
-    "kochen": [
-      {
-        "ref": "categories/boiling",
-        "class": "category",
-        "kind": null,
-        "name": "Kochen",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
-    "kochgeschirr": [
-      {
-        "ref": "categories/cookware",
-        "class": "category",
-        "kind": null,
-        "name": "Kochgeschirr",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
     "kohl": [
       {
         "ref": "primitives/materials/produce/vegetables/cabbage.json",
@@ -837,26 +697,6 @@
         "class": "primitive",
         "kind": "material",
         "name": "Kumquat",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
-    "käse": [
-      {
-        "ref": "categories/cheese",
-        "class": "category",
-        "kind": null,
-        "name": "Käse",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
-    "küchenutensil": [
-      {
-        "ref": "categories/utensil",
-        "class": "category",
-        "kind": null,
-        "name": "Küchenutensil",
         "lang": "de",
         "canonical": true
       }
@@ -1061,36 +901,6 @@
         "canonical": true
       }
     ],
-    "nudeln": [
-      {
-        "ref": "categories/pasta",
-        "class": "category",
-        "kind": null,
-        "name": "Nudeln",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
-    "nudeln al dente kochen": [
-      {
-        "ref": "primitives/techniques/cook-pasta-al-dente.json",
-        "class": "primitive",
-        "kind": "technique",
-        "name": "Nudeln al dente kochen",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
-    "nudeltopf": [
-      {
-        "ref": "primitives/tools/pasta-pot.json",
-        "class": "primitive",
-        "kind": "tool",
-        "name": "Nudeltopf",
-        "lang": "de",
-        "canonical": false
-      }
-    ],
     "obst": [
       {
         "ref": "categories/fruit",
@@ -1181,50 +991,12 @@
         "canonical": true
       }
     ],
-    "pecorino reiben": [
-      {
-        "ref": "primitives/techniques/grate-pecorino.json",
-        "class": "primitive",
-        "kind": "technique",
-        "name": "Pecorino reiben",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
-    "pecorino romano": [
-      {
-        "ref": "primitives/materials/pecorino-romano.json",
-        "class": "primitive",
-        "kind": "material",
-        "name": "Pecorino Romano",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
     "persimone": [
       {
         "ref": "primitives/materials/produce/fruits/persimmon.json",
         "class": "primitive",
         "kind": "material",
         "name": "Persimone",
-        "lang": "de",
-        "canonical": false
-      }
-    ],
-    "pfanne": [
-      {
-        "ref": "categories/pan",
-        "class": "category",
-        "kind": null,
-        "name": "Pfanne",
-        "lang": "de",
-        "canonical": true
-      },
-      {
-        "ref": "primitives/tools/skillet.json",
-        "class": "primitive",
-        "kind": "tool",
-        "name": "Pfanne",
         "lang": "de",
         "canonical": false
       }
@@ -1279,16 +1051,6 @@
         "canonical": false
       }
     ],
-    "pökelfleisch": [
-      {
-        "ref": "categories/cured-meat",
-        "class": "category",
-        "kind": null,
-        "name": "Pökelfleisch",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
     "quitte": [
       {
         "ref": "primitives/materials/produce/fruits/quince.json",
@@ -1319,34 +1081,6 @@
         "canonical": false
       }
     ],
-    "reibe": [
-      {
-        "ref": "categories/grater",
-        "class": "category",
-        "kind": null,
-        "name": "Reibe",
-        "lang": "de",
-        "canonical": true
-      },
-      {
-        "ref": "primitives/tools/box-grater.json",
-        "class": "primitive",
-        "kind": "tool",
-        "name": "Reibe",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
-    "reiben": [
-      {
-        "ref": "categories/grating",
-        "class": "category",
-        "kind": null,
-        "name": "Reiben",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
     "rettich": [
       {
         "ref": "primitives/materials/produce/vegetables/radish.json",
@@ -1355,16 +1089,6 @@
         "name": "Rettich",
         "lang": "de",
         "canonical": false
-      }
-    ],
-    "rezept": [
-      {
-        "ref": "categories/recipe",
-        "class": "category",
-        "kind": null,
-        "name": "Rezept",
-        "lang": "de",
-        "canonical": true
       }
     ],
     "rhabarber": [
@@ -1477,24 +1201,6 @@
         "canonical": true
       }
     ],
-    "schneebesen": [
-      {
-        "ref": "categories/whisk",
-        "class": "category",
-        "kind": null,
-        "name": "Schneebesen",
-        "lang": "de",
-        "canonical": true
-      },
-      {
-        "ref": "primitives/tools/whisk.json",
-        "class": "primitive",
-        "kind": "tool",
-        "name": "Schneebesen",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
     "schnittlauch": [
       {
         "ref": "primitives/materials/produce/vegetables/chive.json",
@@ -1515,26 +1221,6 @@
         "canonical": true
       }
     ],
-    "schwarzer pfeffer": [
-      {
-        "ref": "primitives/materials/black-pepper.json",
-        "class": "primitive",
-        "kind": "material",
-        "name": "schwarzer Pfeffer",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
-    "schweinebacke (gepökelt)": [
-      {
-        "ref": "primitives/materials/guanciale.json",
-        "class": "primitive",
-        "kind": "material",
-        "name": "Schweinebacke (gepökelt)",
-        "lang": "de",
-        "canonical": false
-      }
-    ],
     "sellerie": [
       {
         "ref": "primitives/materials/produce/vegetables/celery.json",
@@ -1553,26 +1239,6 @@
         "name": "Sojabohne",
         "lang": "de",
         "canonical": false
-      }
-    ],
-    "spaghetti": [
-      {
-        "ref": "primitives/materials/spaghetti.json",
-        "class": "primitive",
-        "kind": "material",
-        "name": "Spaghetti",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
-    "spaghetti carbonara": [
-      {
-        "ref": "primitives/workflows/spaghetti-carbonara.json",
-        "class": "primitive",
-        "kind": "workflow",
-        "name": "Spaghetti Carbonara",
-        "lang": "de",
-        "canonical": true
       }
     ],
     "spargel": [
@@ -1685,24 +1351,6 @@
         "canonical": true
       }
     ],
-    "topf": [
-      {
-        "ref": "categories/pot",
-        "class": "category",
-        "kind": null,
-        "name": "Topf",
-        "lang": "de",
-        "canonical": true
-      },
-      {
-        "ref": "primitives/tools/pasta-pot.json",
-        "class": "primitive",
-        "kind": "tool",
-        "name": "Topf",
-        "lang": "de",
-        "canonical": true
-      }
-    ],
     "traube": [
       {
         "ref": "categories/grape",
@@ -1729,16 +1377,6 @@
         "name": "tropische Frucht",
         "lang": "de",
         "canonical": true
-      }
-    ],
-    "vierkantreibe": [
-      {
-        "ref": "primitives/tools/box-grater.json",
-        "class": "primitive",
-        "kind": "tool",
-        "name": "Vierkantreibe",
-        "lang": "de",
-        "canonical": false
       }
     ],
     "wassermelone": [

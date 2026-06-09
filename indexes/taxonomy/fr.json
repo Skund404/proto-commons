@@ -61,144 +61,6 @@
         }
       ]
     },
-    "category/cheese": {
-      "id": "cheese",
-      "name": "fromage",
-      "parent": null,
-      "members": [
-        {
-          "ref": "primitives/materials/pecorino-romano.json",
-          "slug": "pecorino-romano",
-          "kind": "material",
-          "name": "pecorino romano"
-        }
-      ],
-      "related": [],
-      "children": []
-    },
-    "category/cooking-technique": {
-      "id": "cooking-technique",
-      "name": "technique de cuisson",
-      "parent": null,
-      "members": [],
-      "related": [],
-      "children": [
-        {
-          "id": "boiling",
-          "name": "ébullition",
-          "parent": "cooking-technique",
-          "members": [
-            {
-              "ref": "primitives/techniques/cook-pasta-al-dente.json",
-              "slug": "cook-pasta-al-dente",
-              "kind": "technique",
-              "name": "cuire les pâtes al dente"
-            }
-          ],
-          "related": [],
-          "children": []
-        },
-        {
-          "id": "emulsification",
-          "name": "émulsification",
-          "parent": "cooking-technique",
-          "members": [
-            {
-              "ref": "primitives/techniques/mantecare-emulsify.json",
-              "slug": "mantecare-emulsify",
-              "kind": "technique",
-              "name": "émulsionner hors du feu"
-            }
-          ],
-          "related": [],
-          "children": []
-        },
-        {
-          "id": "frying",
-          "name": "friture",
-          "parent": "cooking-technique",
-          "members": [
-            {
-              "ref": "primitives/techniques/render-guanciale.json",
-              "slug": "render-guanciale",
-              "kind": "technique",
-              "name": "faire rendre le guanciale"
-            }
-          ],
-          "related": [],
-          "children": []
-        },
-        {
-          "id": "grating",
-          "name": "râpage",
-          "parent": "cooking-technique",
-          "members": [
-            {
-              "ref": "primitives/techniques/grate-pecorino.json",
-              "slug": "grate-pecorino",
-              "kind": "technique",
-              "name": "râper le pecorino"
-            }
-          ],
-          "related": [],
-          "children": []
-        }
-      ]
-    },
-    "category/cookware": {
-      "id": "cookware",
-      "name": "ustensiles de cuisson",
-      "parent": null,
-      "members": [],
-      "related": [],
-      "children": [
-        {
-          "id": "pan",
-          "name": "poêle",
-          "parent": "cookware",
-          "members": [
-            {
-              "ref": "primitives/tools/skillet.json",
-              "slug": "skillet",
-              "kind": "tool",
-              "name": "poêle"
-            }
-          ],
-          "related": [],
-          "children": []
-        },
-        {
-          "id": "pot",
-          "name": "marmite",
-          "parent": "cookware",
-          "members": [
-            {
-              "ref": "primitives/tools/pasta-pot.json",
-              "slug": "pasta-pot",
-              "kind": "tool",
-              "name": "marmite"
-            }
-          ],
-          "related": [],
-          "children": []
-        }
-      ]
-    },
-    "category/cured-meat": {
-      "id": "cured-meat",
-      "name": "charcuterie",
-      "parent": null,
-      "members": [
-        {
-          "ref": "primitives/materials/guanciale.json",
-          "slug": "guanciale",
-          "kind": "material",
-          "name": "guanciale"
-        }
-      ],
-      "related": [],
-      "children": []
-    },
     "category/cutting-tool": {
       "id": "cutting-tool",
       "name": "cutting tool",
@@ -339,21 +201,6 @@
           "slug": "sanding-stick",
           "kind": "tool",
           "name": "sanding stick"
-        }
-      ],
-      "related": [],
-      "children": []
-    },
-    "category/egg": {
-      "id": "egg",
-      "name": "œufs",
-      "parent": null,
-      "members": [
-        {
-          "ref": "primitives/materials/egg.json",
-          "slug": "egg",
-          "kind": "material",
-          "name": "œuf"
         }
       ],
       "related": [],
@@ -1227,21 +1074,6 @@
       "related": [],
       "children": []
     },
-    "category/pasta": {
-      "id": "pasta",
-      "name": "pâtes",
-      "parent": null,
-      "members": [
-        {
-          "ref": "primitives/materials/spaghetti.json",
-          "slug": "spaghetti",
-          "kind": "material",
-          "name": "spaghettis"
-        }
-      ],
-      "related": [],
-      "children": []
-    },
     "category/punching-tool": {
       "id": "punching-tool",
       "name": "punching tool",
@@ -1336,21 +1168,6 @@
         }
       ]
     },
-    "category/recipe": {
-      "id": "recipe",
-      "name": "recette",
-      "parent": null,
-      "members": [
-        {
-          "ref": "primitives/workflows/spaghetti-carbonara.json",
-          "slug": "spaghetti-carbonara",
-          "kind": "workflow",
-          "name": "spaghettis à la carbonara"
-        }
-      ],
-      "related": [],
-      "children": []
-    },
     "category/setting-tool": {
       "id": "setting-tool",
       "name": "setting tool",
@@ -1394,21 +1211,6 @@
           "slug": "whetstone",
           "kind": "tool",
           "name": "whetstone"
-        }
-      ],
-      "related": [],
-      "children": []
-    },
-    "category/spice": {
-      "id": "spice",
-      "name": "épice",
-      "parent": null,
-      "members": [
-        {
-          "ref": "primitives/materials/black-pepper.json",
-          "slug": "black-pepper",
-          "kind": "material",
-          "name": "poivre noir"
         }
       ],
       "related": [],
@@ -1473,45 +1275,6 @@
       ],
       "related": [],
       "children": []
-    },
-    "category/utensil": {
-      "id": "utensil",
-      "name": "ustensile de cuisine",
-      "parent": null,
-      "members": [],
-      "related": [],
-      "children": [
-        {
-          "id": "grater",
-          "name": "râpe",
-          "parent": "utensil",
-          "members": [
-            {
-              "ref": "primitives/tools/box-grater.json",
-              "slug": "box-grater",
-              "kind": "tool",
-              "name": "râpe"
-            }
-          ],
-          "related": [],
-          "children": []
-        },
-        {
-          "id": "whisk",
-          "name": "fouet",
-          "parent": "utensil",
-          "members": [
-            {
-              "ref": "primitives/tools/whisk.json",
-              "slug": "whisk",
-              "kind": "tool",
-              "name": "fouet"
-            }
-          ],
-          "related": [],
-          "children": []
-        }
-      ]
     },
     "category/vegetable": {
       "id": "vegetable",
