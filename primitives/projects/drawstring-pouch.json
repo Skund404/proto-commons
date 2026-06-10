@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:1242f450d09d1f26d3cf6e5205211e072b58b6fd093e75ffefe4a6fe7647de2d",
+  "content_hash": "sha256:b0d2d6252f4fa0f7878331a791d32ef6580fa5d9b313fcad0bc654e000e012d0",
   "created": "2026-06-09",
   "description": "A round-bottomed pouch closed by a cord threaded through eyelets — mostly cutting and punching, a gentle introduction to bag shapes.",
   "emitter": "opg://commons-seed",
@@ -14,6 +14,7 @@
   "opgl_version": "0.6",
   "persistent": false,
   "properties": {
+    "difficulty": "beginner",
     "license": "CC-BY-4.0",
     "names": {
       "en": [
@@ -34,8 +35,23 @@
         }
       ],
       "on_fail": "propagate",
-      "produces": "material[drawstring-pouch]"
+      "produces": "material[leather-good]",
+      "uses": [
+        {
+          "kind_ann": "tool[head-knife]",
+          "name": "head knife"
+        },
+        {
+          "kind_ann": "tool[cutting-mat]",
+          "name": "cutting mat"
+        },
+        {
+          "kind_ann": "tool[steel-ruler]",
+          "name": "steel ruler"
+        }
+      ]
     },
+    "skillLevel": "beginner",
     "taxonomy": "leatherwork-project"
   },
   "relationships": [
@@ -62,6 +78,30 @@
         "path": "primitives/materials/eyelet.json"
       },
       "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:05e5b267ba38772c1dbaa06f0f3af6c33171fe8d1b1b4ebade52f70099586ca8",
+        "id": "head-knife-seed",
+        "path": "primitives/tools/head-knife.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:25185de41b744aba1daf4d894c46522ef89bc548691585516e707264de09b306",
+        "id": "cutting-mat-seed",
+        "path": "primitives/tools/cutting-mat.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:1fee1decbd0701af942a193973ff01458dbfa1c8319682330c96e4665d157ef4",
+        "id": "steel-ruler-seed",
+        "path": "primitives/tools/steel-ruler.json"
+      },
+      "type": "uses_tool"
     }
   ],
   "slug": "drawstring-pouch",

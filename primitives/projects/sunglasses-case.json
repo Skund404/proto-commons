@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:bce903b22e46f28f4a5885eb10720dfdc702a71b06de52dc68e67a3093a351e0",
+  "content_hash": "sha256:006bba4408f0880e8640fc75d126bfa9c8742dd4931ef382516512703d5d0e32",
   "created": "2026-06-09",
   "description": "A folded sleeve with a snap-closed belt loop, glued and stitched along the body — practice in lap seams and setting a snap.",
   "emitter": "opg://commons-seed",
@@ -14,6 +14,7 @@
   "opgl_version": "0.6",
   "persistent": false,
   "properties": {
+    "difficulty": "beginner",
     "license": "CC-BY-4.0",
     "names": {
       "en": [
@@ -38,8 +39,23 @@
         }
       ],
       "on_fail": "propagate",
-      "produces": "material[sunglasses-case]"
+      "produces": "material[leather-good]",
+      "uses": [
+        {
+          "kind_ann": "tool[bone-folder]",
+          "name": "bone folder"
+        },
+        {
+          "kind_ann": "tool[diamond-stitching-chisel]",
+          "name": "diamond stitching chisel"
+        },
+        {
+          "kind_ann": "tool[harness-needle]",
+          "name": "harness needle"
+        }
+      ]
     },
+    "skillLevel": "beginner",
     "taxonomy": "leatherwork-project"
   },
   "relationships": [
@@ -74,6 +90,30 @@
         "path": "primitives/materials/snap-button.json"
       },
       "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:68db1f2d4d6c4381bcb5c398309b87c3fd5370527f74207b00af53f146167fb4",
+        "id": "bone-folder-seed",
+        "path": "primitives/tools/bone-folder.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:a864a1a7204c24fc79d29057f931c150486a3bf64f77ca24b47b0e9ae418b0e5",
+        "id": "diamond-stitching-chisel-seed",
+        "path": "primitives/tools/diamond-stitching-chisel.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:c7498fede7ac7c0abfb5a9b179f1197a37efeea77789ee50698024a112ff548b",
+        "id": "harness-needle-seed",
+        "path": "primitives/tools/harness-needle.json"
+      },
+      "type": "uses_tool"
     }
   ],
   "slug": "sunglasses-case",

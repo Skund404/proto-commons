@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:0fc96ae45208580b12fd5f0ea00cde5195268d6150641a7e05b0522119f44227",
+  "content_hash": "sha256:8576be1cc25b48fe4c85f01d63537b859728b7d031472c1f8a262fe915f11731",
   "created": "2026-06-09",
   "description": "A slim two- or three-pocket holder, saddle-stitched at the sides with burnished edges — a step up in stitching and edge work.",
   "emitter": "opg://commons-seed",
@@ -14,6 +14,7 @@
   "opgl_version": "0.6",
   "persistent": false,
   "properties": {
+    "difficulty": "beginner",
     "license": "CC-BY-4.0",
     "names": {
       "en": [
@@ -33,8 +34,31 @@
         }
       ],
       "on_fail": "propagate",
-      "produces": "material[card-holder]"
+      "produces": "material[leather-good]",
+      "uses": [
+        {
+          "kind_ann": "tool[wing-divider]",
+          "name": "wing divider"
+        },
+        {
+          "kind_ann": "tool[diamond-stitching-chisel]",
+          "name": "diamond stitching chisel"
+        },
+        {
+          "kind_ann": "tool[harness-needle]",
+          "name": "harness needle"
+        },
+        {
+          "kind_ann": "tool[stitching-pony]",
+          "name": "stitching pony"
+        },
+        {
+          "kind_ann": "tool[thread-zapper]",
+          "name": "thread zapper"
+        }
+      ]
     },
+    "skillLevel": "beginner",
     "taxonomy": "leatherwork-project"
   },
   "relationships": [
@@ -61,6 +85,46 @@
         "path": "primitives/materials/waxed-polyester-thread.json"
       },
       "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:86de3709771335e0fdd5b2dcb4c9cfa5734f7af296e9686ec1a7bca9a4d41b08",
+        "id": "wing-divider-seed",
+        "path": "primitives/tools/wing-divider.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:a864a1a7204c24fc79d29057f931c150486a3bf64f77ca24b47b0e9ae418b0e5",
+        "id": "diamond-stitching-chisel-seed",
+        "path": "primitives/tools/diamond-stitching-chisel.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:c7498fede7ac7c0abfb5a9b179f1197a37efeea77789ee50698024a112ff548b",
+        "id": "harness-needle-seed",
+        "path": "primitives/tools/harness-needle.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:4a8037946a40e354d11a4cd3d488091e1bf5830812e630b5f10d3a017799c1dc",
+        "id": "stitching-pony-seed",
+        "path": "primitives/tools/stitching-pony.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:5510e76f0b5bb12afd47cabb3452ab82ec3e2550ce7349276d24de7951ce5a3d",
+        "id": "thread-zapper-seed",
+        "path": "primitives/tools/thread-zapper.json"
+      },
+      "type": "uses_tool"
     }
   ],
   "slug": "card-holder",

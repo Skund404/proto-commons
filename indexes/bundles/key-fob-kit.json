@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:4721c156724afda13c7ad1ea55be26fa68ef7cb54a4b194da2167f4ac23b7f31",
+  "content_hash": "sha256:5291412086923b4f555b3a116d124563c0c0dc70fb0348c27277af7350153c2b",
   "description": {
     "en": "The key-fob project with the tools and materials to make it — a complete first build."
   },
@@ -7,7 +7,7 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:ae94669ffd9eac5d28b673eb065c79486ebab74a103b1c1a25899180d9637f46",
+      "hash": "sha256:664484003e9a8ee96598be9e26e88e54f41f4e028e352df7632432abc4a56f87",
       "kind": "project",
       "record_class": "primitive",
       "role": "required",

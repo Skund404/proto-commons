@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:ae94669ffd9eac5d28b673eb065c79486ebab74a103b1c1a25899180d9637f46",
+  "content_hash": "sha256:664484003e9a8ee96598be9e26e88e54f41f4e028e352df7632432abc4a56f87",
   "created": "2026-06-09",
   "description": "A short strap folded around a split ring and riveted closed — the classic first project: one cut, a punch, a rivet, and finished edges.",
   "emitter": "opg://commons-seed",
@@ -14,6 +14,7 @@
   "opgl_version": "0.6",
   "persistent": false,
   "properties": {
+    "difficulty": "beginner",
     "license": "CC-BY-4.0",
     "names": {
       "en": [
@@ -38,8 +39,31 @@
         }
       ],
       "on_fail": "propagate",
-      "produces": "material[key-fob]"
+      "produces": "material[leather-good]",
+      "uses": [
+        {
+          "kind_ann": "tool[round-knife]",
+          "name": "round knife"
+        },
+        {
+          "kind_ann": "tool[wing-divider]",
+          "name": "wing divider"
+        },
+        {
+          "kind_ann": "tool[diamond-stitching-chisel]",
+          "name": "diamond stitching chisel"
+        },
+        {
+          "kind_ann": "tool[harness-needle]",
+          "name": "harness needle"
+        },
+        {
+          "kind_ann": "tool[edge-slicker]",
+          "name": "edge slicker"
+        }
+      ]
     },
+    "skillLevel": "beginner",
     "taxonomy": "leatherwork-project"
   },
   "relationships": [
@@ -74,6 +98,46 @@
         "path": "primitives/materials/split-ring.json"
       },
       "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:d8bb8ab66a114c47b3468560ce0a41278201d1d05e62e00868aca162adcda0d4",
+        "id": "round-knife-seed",
+        "path": "primitives/tools/round-knife.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:86de3709771335e0fdd5b2dcb4c9cfa5734f7af296e9686ec1a7bca9a4d41b08",
+        "id": "wing-divider-seed",
+        "path": "primitives/tools/wing-divider.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:a864a1a7204c24fc79d29057f931c150486a3bf64f77ca24b47b0e9ae418b0e5",
+        "id": "diamond-stitching-chisel-seed",
+        "path": "primitives/tools/diamond-stitching-chisel.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:c7498fede7ac7c0abfb5a9b179f1197a37efeea77789ee50698024a112ff548b",
+        "id": "harness-needle-seed",
+        "path": "primitives/tools/harness-needle.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:da81dcc7f76135bf73334eba2e195441fbed05b9df990ed323583cfed795879c",
+        "id": "edge-slicker-seed",
+        "path": "primitives/tools/edge-slicker.json"
+      },
+      "type": "uses_tool"
     }
   ],
   "slug": "key-fob",

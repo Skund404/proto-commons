@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:7a3c33c2fab01255aee041943e78a27c6b89b4b9b028c96362c1c99eb7536097",
+  "content_hash": "sha256:f59f554ba2d617d445e6360945635ec26004b8e20fc64655dcc92bef0dd71d08",
   "created": "2026-06-09",
   "description": "A small cross-body pouch with a D-ring on a riveted tab and an eyelet-set cord — combines stitching with hardware setting.",
   "emitter": "opg://commons-seed",
@@ -14,6 +14,7 @@
   "opgl_version": "0.6",
   "persistent": false,
   "properties": {
+    "difficulty": "beginner",
     "license": "CC-BY-4.0",
     "names": {
       "en": [
@@ -42,8 +43,27 @@
         }
       ],
       "on_fail": "propagate",
-      "produces": "material[phone-sling]"
+      "produces": "material[leather-good]",
+      "uses": [
+        {
+          "kind_ann": "tool[rotary-punch]",
+          "name": "rotary punch"
+        },
+        {
+          "kind_ann": "tool[rivet-setter]",
+          "name": "rivet setter"
+        },
+        {
+          "kind_ann": "tool[snap-setter]",
+          "name": "snap setter"
+        },
+        {
+          "kind_ann": "tool[mallet]",
+          "name": "mallet"
+        }
+      ]
     },
+    "skillLevel": "beginner",
     "taxonomy": "leatherwork-project"
   },
   "relationships": [
@@ -94,6 +114,38 @@
         "path": "primitives/materials/eyelet.json"
       },
       "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:ccf3331e1e6697c91858bc4fc2226dc6c28953494c69f672fe4ef8dadd8f9d32",
+        "id": "rotary-punch-seed",
+        "path": "primitives/tools/rotary-punch.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:339cb953fbe0e4cfde09028c10f478b16752e5c68e7778477b6f91b6023acc52",
+        "id": "rivet-setter-seed",
+        "path": "primitives/tools/rivet-setter.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:244e8ec9501270c55f73727deaf4de648041db87ea8ba01ce50327a84676c874",
+        "id": "snap-setter-seed",
+        "path": "primitives/tools/snap-setter.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:650fcb86d523ffd3c6cb6b326388212b6921ba33a9916e910b11eb74561f8fe5",
+        "id": "mallet-seed",
+        "path": "primitives/tools/mallet.json"
+      },
+      "type": "uses_tool"
     }
   ],
   "slug": "phone-sling",
