@@ -3,7 +3,7 @@
   "entries": {
     "acorn squash": [
       {
-        "ref": "primitives/materials/produce/vegetables/acorn-squash.json",
+        "ref": "primitives/materials/acorn-squash.json",
         "class": "primitive",
         "kind": "material",
         "name": "acorn squash",
@@ -53,7 +53,7 @@
     ],
     "apple": [
       {
-        "ref": "primitives/materials/produce/fruits/apple.json",
+        "ref": "primitives/materials/apple.json",
         "class": "primitive",
         "kind": "material",
         "name": "apple",
@@ -63,7 +63,7 @@
     ],
     "apricot": [
       {
-        "ref": "primitives/materials/produce/fruits/apricot.json",
+        "ref": "primitives/materials/apricot.json",
         "class": "primitive",
         "kind": "material",
         "name": "apricot",
@@ -73,7 +73,7 @@
     ],
     "artichoke": [
       {
-        "ref": "primitives/materials/produce/vegetables/artichoke.json",
+        "ref": "primitives/materials/artichoke.json",
         "class": "primitive",
         "kind": "material",
         "name": "artichoke",
@@ -83,7 +83,7 @@
     ],
     "arugula": [
       {
-        "ref": "primitives/materials/produce/vegetables/arugula.json",
+        "ref": "primitives/materials/arugula.json",
         "class": "primitive",
         "kind": "material",
         "name": "arugula",
@@ -93,7 +93,7 @@
     ],
     "asparagus": [
       {
-        "ref": "primitives/materials/produce/vegetables/asparagus.json",
+        "ref": "primitives/materials/asparagus.json",
         "class": "primitive",
         "kind": "material",
         "name": "asparagus",
@@ -113,7 +113,7 @@
     ],
     "aubergine": [
       {
-        "ref": "primitives/materials/produce/vegetables/eggplant.json",
+        "ref": "primitives/materials/eggplant.json",
         "class": "primitive",
         "kind": "material",
         "name": "aubergine",
@@ -123,7 +123,7 @@
     ],
     "avocado": [
       {
-        "ref": "primitives/materials/produce/fruits/avocado.json",
+        "ref": "primitives/materials/avocado.json",
         "class": "primitive",
         "kind": "material",
         "name": "avocado",
@@ -143,7 +143,7 @@
     ],
     "banana": [
       {
-        "ref": "primitives/materials/produce/fruits/banana.json",
+        "ref": "primitives/materials/banana.json",
         "class": "primitive",
         "kind": "material",
         "name": "banana",
@@ -173,7 +173,7 @@
     ],
     "beet": [
       {
-        "ref": "primitives/materials/produce/vegetables/beetroot.json",
+        "ref": "primitives/materials/beetroot.json",
         "class": "primitive",
         "kind": "material",
         "name": "beet",
@@ -183,7 +183,7 @@
     ],
     "beetroot": [
       {
-        "ref": "primitives/materials/produce/vegetables/beetroot.json",
+        "ref": "primitives/materials/beetroot.json",
         "class": "primitive",
         "kind": "material",
         "name": "beetroot",
@@ -193,7 +193,7 @@
     ],
     "bell pepper": [
       {
-        "ref": "primitives/materials/produce/vegetables/bell-pepper.json",
+        "ref": "primitives/materials/bell-pepper.json",
         "class": "primitive",
         "kind": "material",
         "name": "bell pepper",
@@ -223,7 +223,7 @@
     ],
     "black currant": [
       {
-        "ref": "primitives/materials/produce/fruits/blackcurrant.json",
+        "ref": "primitives/materials/blackcurrant.json",
         "class": "primitive",
         "kind": "material",
         "name": "black currant",
@@ -233,7 +233,7 @@
     ],
     "blackberry": [
       {
-        "ref": "primitives/materials/produce/fruits/blackberry.json",
+        "ref": "primitives/materials/blackberry.json",
         "class": "primitive",
         "kind": "material",
         "name": "blackberry",
@@ -243,7 +243,7 @@
     ],
     "blackcurrant": [
       {
-        "ref": "primitives/materials/produce/fruits/blackcurrant.json",
+        "ref": "primitives/materials/blackcurrant.json",
         "class": "primitive",
         "kind": "material",
         "name": "blackcurrant",
@@ -253,7 +253,7 @@
     ],
     "blueberry": [
       {
-        "ref": "primitives/materials/produce/fruits/blueberry.json",
+        "ref": "primitives/materials/blueberry.json",
         "class": "primitive",
         "kind": "material",
         "name": "blueberry",
@@ -263,7 +263,7 @@
     ],
     "bok choy": [
       {
-        "ref": "primitives/materials/produce/vegetables/bok-choy.json",
+        "ref": "primitives/materials/bok-choy.json",
         "class": "primitive",
         "kind": "material",
         "name": "bok choy",
@@ -321,7 +321,7 @@
     ],
     "broad bean": [
       {
-        "ref": "primitives/materials/produce/vegetables/fava-bean.json",
+        "ref": "primitives/materials/fava-bean.json",
         "class": "primitive",
         "kind": "material",
         "name": "broad bean",
@@ -331,7 +331,7 @@
     ],
     "broccoli": [
       {
-        "ref": "primitives/materials/produce/vegetables/broccoli.json",
+        "ref": "primitives/materials/broccoli.json",
         "class": "primitive",
         "kind": "material",
         "name": "broccoli",
@@ -341,7 +341,7 @@
     ],
     "brussels sprouts": [
       {
-        "ref": "primitives/materials/produce/vegetables/brussels-sprouts.json",
+        "ref": "primitives/materials/brussels-sprouts.json",
         "class": "primitive",
         "kind": "material",
         "name": "brussels sprouts",
@@ -381,7 +381,7 @@
     ],
     "butternut": [
       {
-        "ref": "primitives/materials/produce/vegetables/butternut-squash.json",
+        "ref": "primitives/materials/butternut-squash.json",
         "class": "primitive",
         "kind": "material",
         "name": "butternut",
@@ -391,7 +391,7 @@
     ],
     "butternut squash": [
       {
-        "ref": "primitives/materials/produce/vegetables/butternut-squash.json",
+        "ref": "primitives/materials/butternut-squash.json",
         "class": "primitive",
         "kind": "material",
         "name": "butternut squash",
@@ -431,7 +431,7 @@
     ],
     "cabbage": [
       {
-        "ref": "primitives/materials/produce/vegetables/cabbage.json",
+        "ref": "primitives/materials/cabbage.json",
         "class": "primitive",
         "kind": "material",
         "name": "cabbage",
@@ -441,7 +441,7 @@
     ],
     "cantaloupe": [
       {
-        "ref": "primitives/materials/produce/fruits/cantaloupe.json",
+        "ref": "primitives/materials/cantaloupe.json",
         "class": "primitive",
         "kind": "material",
         "name": "cantaloupe",
@@ -451,7 +451,7 @@
     ],
     "cantaloupe melon": [
       {
-        "ref": "primitives/materials/produce/fruits/cantaloupe.json",
+        "ref": "primitives/materials/cantaloupe.json",
         "class": "primitive",
         "kind": "material",
         "name": "cantaloupe melon",
@@ -461,7 +461,7 @@
     ],
     "capsicum": [
       {
-        "ref": "primitives/materials/produce/vegetables/bell-pepper.json",
+        "ref": "primitives/materials/bell-pepper.json",
         "class": "primitive",
         "kind": "material",
         "name": "capsicum",
@@ -481,7 +481,7 @@
     ],
     "carrot": [
       {
-        "ref": "primitives/materials/produce/vegetables/carrot.json",
+        "ref": "primitives/materials/carrot.json",
         "class": "primitive",
         "kind": "material",
         "name": "carrot",
@@ -491,7 +491,7 @@
     ],
     "cauliflower": [
       {
-        "ref": "primitives/materials/produce/vegetables/cauliflower.json",
+        "ref": "primitives/materials/cauliflower.json",
         "class": "primitive",
         "kind": "material",
         "name": "cauliflower",
@@ -501,7 +501,7 @@
     ],
     "celeriac": [
       {
-        "ref": "primitives/materials/produce/vegetables/celeriac.json",
+        "ref": "primitives/materials/celeriac.json",
         "class": "primitive",
         "kind": "material",
         "name": "celeriac",
@@ -511,7 +511,7 @@
     ],
     "celery": [
       {
-        "ref": "primitives/materials/produce/vegetables/celery.json",
+        "ref": "primitives/materials/celery.json",
         "class": "primitive",
         "kind": "material",
         "name": "celery",
@@ -521,7 +521,7 @@
     ],
     "celery root": [
       {
-        "ref": "primitives/materials/produce/vegetables/celeriac.json",
+        "ref": "primitives/materials/celeriac.json",
         "class": "primitive",
         "kind": "material",
         "name": "celery root",
@@ -531,7 +531,7 @@
     ],
     "chard": [
       {
-        "ref": "primitives/materials/produce/vegetables/swiss-chard.json",
+        "ref": "primitives/materials/swiss-chard.json",
         "class": "primitive",
         "kind": "material",
         "name": "chard",
@@ -541,7 +541,7 @@
     ],
     "cherry": [
       {
-        "ref": "primitives/materials/produce/fruits/cherry.json",
+        "ref": "primitives/materials/cherry.json",
         "class": "primitive",
         "kind": "material",
         "name": "cherry",
@@ -561,7 +561,7 @@
     ],
     "chickpea": [
       {
-        "ref": "primitives/materials/produce/vegetables/chickpea.json",
+        "ref": "primitives/materials/chickpea.json",
         "class": "primitive",
         "kind": "material",
         "name": "chickpea",
@@ -571,7 +571,7 @@
     ],
     "chicory": [
       {
-        "ref": "primitives/materials/produce/vegetables/endive.json",
+        "ref": "primitives/materials/endive.json",
         "class": "primitive",
         "kind": "material",
         "name": "chicory",
@@ -581,7 +581,7 @@
     ],
     "chili pepper": [
       {
-        "ref": "primitives/materials/produce/vegetables/chili-pepper.json",
+        "ref": "primitives/materials/chili-pepper.json",
         "class": "primitive",
         "kind": "material",
         "name": "chili pepper",
@@ -591,7 +591,7 @@
     ],
     "chilli": [
       {
-        "ref": "primitives/materials/produce/vegetables/chili-pepper.json",
+        "ref": "primitives/materials/chili-pepper.json",
         "class": "primitive",
         "kind": "material",
         "name": "chilli",
@@ -611,7 +611,7 @@
     ],
     "chive": [
       {
-        "ref": "primitives/materials/produce/vegetables/chive.json",
+        "ref": "primitives/materials/chive.json",
         "class": "primitive",
         "kind": "material",
         "name": "chive",
@@ -621,7 +621,7 @@
     ],
     "chives": [
       {
-        "ref": "primitives/materials/produce/vegetables/chive.json",
+        "ref": "primitives/materials/chive.json",
         "class": "primitive",
         "kind": "material",
         "name": "chives",
@@ -669,7 +669,7 @@
     ],
     "clementine": [
       {
-        "ref": "primitives/materials/produce/fruits/clementine.json",
+        "ref": "primitives/materials/clementine.json",
         "class": "primitive",
         "kind": "material",
         "name": "clementine",
@@ -689,7 +689,7 @@
     ],
     "coconut": [
       {
-        "ref": "primitives/materials/produce/fruits/coconut.json",
+        "ref": "primitives/materials/coconut.json",
         "class": "primitive",
         "kind": "material",
         "name": "coconut",
@@ -729,7 +729,7 @@
     ],
     "corn": [
       {
-        "ref": "primitives/materials/produce/vegetables/sweetcorn.json",
+        "ref": "primitives/materials/sweetcorn.json",
         "class": "primitive",
         "kind": "material",
         "name": "corn",
@@ -739,7 +739,7 @@
     ],
     "cos lettuce": [
       {
-        "ref": "primitives/materials/produce/vegetables/romaine.json",
+        "ref": "primitives/materials/romaine.json",
         "class": "primitive",
         "kind": "material",
         "name": "cos lettuce",
@@ -749,7 +749,7 @@
     ],
     "courgette": [
       {
-        "ref": "primitives/materials/produce/vegetables/zucchini.json",
+        "ref": "primitives/materials/zucchini.json",
         "class": "primitive",
         "kind": "material",
         "name": "courgette",
@@ -759,7 +759,7 @@
     ],
     "cranberry": [
       {
-        "ref": "primitives/materials/produce/fruits/cranberry.json",
+        "ref": "primitives/materials/cranberry.json",
         "class": "primitive",
         "kind": "material",
         "name": "cranberry",
@@ -779,7 +779,7 @@
     ],
     "cucumber": [
       {
-        "ref": "primitives/materials/produce/vegetables/cucumber.json",
+        "ref": "primitives/materials/cucumber.json",
         "class": "primitive",
         "kind": "material",
         "name": "cucumber",
@@ -859,7 +859,7 @@
     ],
     "date": [
       {
-        "ref": "primitives/materials/produce/fruits/date.json",
+        "ref": "primitives/materials/date.json",
         "class": "primitive",
         "kind": "material",
         "name": "date",
@@ -907,7 +907,7 @@
     ],
     "dragon fruit": [
       {
-        "ref": "primitives/materials/produce/fruits/dragon-fruit.json",
+        "ref": "primitives/materials/dragon-fruit.json",
         "class": "primitive",
         "kind": "material",
         "name": "dragon fruit",
@@ -967,7 +967,7 @@
     ],
     "edamame": [
       {
-        "ref": "primitives/materials/produce/vegetables/edamame.json",
+        "ref": "primitives/materials/edamame.json",
         "class": "primitive",
         "kind": "material",
         "name": "edamame",
@@ -1125,7 +1125,7 @@
     ],
     "eggplant": [
       {
-        "ref": "primitives/materials/produce/vegetables/eggplant.json",
+        "ref": "primitives/materials/eggplant.json",
         "class": "primitive",
         "kind": "material",
         "name": "eggplant",
@@ -1135,7 +1135,7 @@
     ],
     "endive": [
       {
-        "ref": "primitives/materials/produce/vegetables/endive.json",
+        "ref": "primitives/materials/endive.json",
         "class": "primitive",
         "kind": "material",
         "name": "endive",
@@ -1165,7 +1165,7 @@
     ],
     "fava bean": [
       {
-        "ref": "primitives/materials/produce/vegetables/fava-bean.json",
+        "ref": "primitives/materials/fava-bean.json",
         "class": "primitive",
         "kind": "material",
         "name": "fava bean",
@@ -1175,7 +1175,7 @@
     ],
     "fennel": [
       {
-        "ref": "primitives/materials/produce/vegetables/fennel.json",
+        "ref": "primitives/materials/fennel.json",
         "class": "primitive",
         "kind": "material",
         "name": "fennel",
@@ -1205,7 +1205,7 @@
     ],
     "fig": [
       {
-        "ref": "primitives/materials/produce/fruits/fig.json",
+        "ref": "primitives/materials/fig.json",
         "class": "primitive",
         "kind": "material",
         "name": "fig",
@@ -1235,7 +1235,7 @@
     ],
     "french bean": [
       {
-        "ref": "primitives/materials/produce/vegetables/green-bean.json",
+        "ref": "primitives/materials/green-bean.json",
         "class": "primitive",
         "kind": "material",
         "name": "French bean",
@@ -1265,7 +1265,7 @@
     ],
     "garbanzo": [
       {
-        "ref": "primitives/materials/produce/vegetables/chickpea.json",
+        "ref": "primitives/materials/chickpea.json",
         "class": "primitive",
         "kind": "material",
         "name": "garbanzo",
@@ -1275,7 +1275,7 @@
     ],
     "garden pea": [
       {
-        "ref": "primitives/materials/produce/vegetables/pea.json",
+        "ref": "primitives/materials/pea.json",
         "class": "primitive",
         "kind": "material",
         "name": "garden pea",
@@ -1285,7 +1285,7 @@
     ],
     "garlic": [
       {
-        "ref": "primitives/materials/produce/vegetables/garlic.json",
+        "ref": "primitives/materials/garlic.json",
         "class": "primitive",
         "kind": "material",
         "name": "garlic",
@@ -1295,7 +1295,7 @@
     ],
     "ginger": [
       {
-        "ref": "primitives/materials/produce/vegetables/ginger.json",
+        "ref": "primitives/materials/ginger.json",
         "class": "primitive",
         "kind": "material",
         "name": "ginger",
@@ -1315,7 +1315,7 @@
     ],
     "globe artichoke": [
       {
-        "ref": "primitives/materials/produce/vegetables/artichoke.json",
+        "ref": "primitives/materials/artichoke.json",
         "class": "primitive",
         "kind": "material",
         "name": "globe artichoke",
@@ -1345,7 +1345,7 @@
     ],
     "gooseberry": [
       {
-        "ref": "primitives/materials/produce/fruits/gooseberry.json",
+        "ref": "primitives/materials/gooseberry.json",
         "class": "primitive",
         "kind": "material",
         "name": "gooseberry",
@@ -1373,7 +1373,7 @@
         "canonical": true
       },
       {
-        "ref": "primitives/materials/produce/fruits/grape.json",
+        "ref": "primitives/materials/grape.json",
         "class": "primitive",
         "kind": "material",
         "name": "grape",
@@ -1383,7 +1383,7 @@
     ],
     "grapefruit": [
       {
-        "ref": "primitives/materials/produce/fruits/grapefruit.json",
+        "ref": "primitives/materials/grapefruit.json",
         "class": "primitive",
         "kind": "material",
         "name": "grapefruit",
@@ -1393,7 +1393,7 @@
     ],
     "green bean": [
       {
-        "ref": "primitives/materials/produce/vegetables/green-bean.json",
+        "ref": "primitives/materials/green-bean.json",
         "class": "primitive",
         "kind": "material",
         "name": "green bean",
@@ -1403,7 +1403,7 @@
     ],
     "green onion": [
       {
-        "ref": "primitives/materials/produce/vegetables/scallion.json",
+        "ref": "primitives/materials/scallion.json",
         "class": "primitive",
         "kind": "material",
         "name": "green onion",
@@ -1413,7 +1413,7 @@
     ],
     "green pea": [
       {
-        "ref": "primitives/materials/produce/vegetables/pea.json",
+        "ref": "primitives/materials/pea.json",
         "class": "primitive",
         "kind": "material",
         "name": "green pea",
@@ -1433,7 +1433,7 @@
     ],
     "guava": [
       {
-        "ref": "primitives/materials/produce/fruits/guava.json",
+        "ref": "primitives/materials/guava.json",
         "class": "primitive",
         "kind": "material",
         "name": "guava",
@@ -1521,7 +1521,7 @@
     ],
     "honeydew": [
       {
-        "ref": "primitives/materials/produce/fruits/honeydew.json",
+        "ref": "primitives/materials/honeydew.json",
         "class": "primitive",
         "kind": "material",
         "name": "honeydew",
@@ -1531,7 +1531,7 @@
     ],
     "honeydew melon": [
       {
-        "ref": "primitives/materials/produce/fruits/honeydew.json",
+        "ref": "primitives/materials/honeydew.json",
         "class": "primitive",
         "kind": "material",
         "name": "honeydew melon",
@@ -1541,7 +1541,7 @@
     ],
     "horseradish": [
       {
-        "ref": "primitives/materials/produce/vegetables/horseradish.json",
+        "ref": "primitives/materials/horseradish.json",
         "class": "primitive",
         "kind": "material",
         "name": "horseradish",
@@ -1551,7 +1551,7 @@
     ],
     "hot pepper": [
       {
-        "ref": "primitives/materials/produce/vegetables/chili-pepper.json",
+        "ref": "primitives/materials/chili-pepper.json",
         "class": "primitive",
         "kind": "material",
         "name": "hot pepper",
@@ -1561,7 +1561,7 @@
     ],
     "kale": [
       {
-        "ref": "primitives/materials/produce/vegetables/kale.json",
+        "ref": "primitives/materials/kale.json",
         "class": "primitive",
         "kind": "material",
         "name": "kale",
@@ -1601,7 +1601,7 @@
     ],
     "kiwi": [
       {
-        "ref": "primitives/materials/produce/fruits/kiwi.json",
+        "ref": "primitives/materials/kiwi.json",
         "class": "primitive",
         "kind": "material",
         "name": "kiwi",
@@ -1611,7 +1611,7 @@
     ],
     "kiwifruit": [
       {
-        "ref": "primitives/materials/produce/fruits/kiwi.json",
+        "ref": "primitives/materials/kiwi.json",
         "class": "primitive",
         "kind": "material",
         "name": "kiwifruit",
@@ -1621,7 +1621,7 @@
     ],
     "kohlrabi": [
       {
-        "ref": "primitives/materials/produce/vegetables/kohlrabi.json",
+        "ref": "primitives/materials/kohlrabi.json",
         "class": "primitive",
         "kind": "material",
         "name": "kohlrabi",
@@ -1631,7 +1631,7 @@
     ],
     "kumquat": [
       {
-        "ref": "primitives/materials/produce/fruits/kumquat.json",
+        "ref": "primitives/materials/kumquat.json",
         "class": "primitive",
         "kind": "material",
         "name": "kumquat",
@@ -1641,7 +1641,7 @@
     ],
     "lady's finger": [
       {
-        "ref": "primitives/materials/produce/vegetables/okra.json",
+        "ref": "primitives/materials/okra.json",
         "class": "primitive",
         "kind": "material",
         "name": "lady's finger",
@@ -1811,7 +1811,7 @@
     ],
     "leek": [
       {
-        "ref": "primitives/materials/produce/vegetables/leek.json",
+        "ref": "primitives/materials/leek.json",
         "class": "primitive",
         "kind": "material",
         "name": "leek",
@@ -1831,7 +1831,7 @@
     ],
     "lemon": [
       {
-        "ref": "primitives/materials/produce/fruits/lemon.json",
+        "ref": "primitives/materials/lemon.json",
         "class": "primitive",
         "kind": "material",
         "name": "lemon",
@@ -1841,7 +1841,7 @@
     ],
     "lentil": [
       {
-        "ref": "primitives/materials/produce/vegetables/lentil.json",
+        "ref": "primitives/materials/lentil.json",
         "class": "primitive",
         "kind": "material",
         "name": "lentil",
@@ -1851,7 +1851,7 @@
     ],
     "lettuce": [
       {
-        "ref": "primitives/materials/produce/vegetables/lettuce.json",
+        "ref": "primitives/materials/lettuce.json",
         "class": "primitive",
         "kind": "material",
         "name": "lettuce",
@@ -1871,7 +1871,7 @@
     ],
     "lime": [
       {
-        "ref": "primitives/materials/produce/fruits/lime.json",
+        "ref": "primitives/materials/lime.json",
         "class": "primitive",
         "kind": "material",
         "name": "lime",
@@ -1881,7 +1881,7 @@
     ],
     "litchi": [
       {
-        "ref": "primitives/materials/produce/fruits/lychee.json",
+        "ref": "primitives/materials/lychee.json",
         "class": "primitive",
         "kind": "material",
         "name": "litchi",
@@ -1891,7 +1891,7 @@
     ],
     "lychee": [
       {
-        "ref": "primitives/materials/produce/fruits/lychee.json",
+        "ref": "primitives/materials/lychee.json",
         "class": "primitive",
         "kind": "material",
         "name": "lychee",
@@ -1911,7 +1911,7 @@
     ],
     "maize": [
       {
-        "ref": "primitives/materials/produce/vegetables/sweetcorn.json",
+        "ref": "primitives/materials/sweetcorn.json",
         "class": "primitive",
         "kind": "material",
         "name": "maize",
@@ -1939,7 +1939,7 @@
     ],
     "mandarin": [
       {
-        "ref": "primitives/materials/produce/fruits/mandarin.json",
+        "ref": "primitives/materials/mandarin.json",
         "class": "primitive",
         "kind": "material",
         "name": "mandarin",
@@ -1949,7 +1949,7 @@
     ],
     "mandarin orange": [
       {
-        "ref": "primitives/materials/produce/fruits/mandarin.json",
+        "ref": "primitives/materials/mandarin.json",
         "class": "primitive",
         "kind": "material",
         "name": "mandarin orange",
@@ -1959,7 +1959,7 @@
     ],
     "mango": [
       {
-        "ref": "primitives/materials/produce/fruits/mango.json",
+        "ref": "primitives/materials/mango.json",
         "class": "primitive",
         "kind": "material",
         "name": "mango",
@@ -2047,7 +2047,7 @@
     ],
     "nectarine": [
       {
-        "ref": "primitives/materials/produce/fruits/nectarine.json",
+        "ref": "primitives/materials/nectarine.json",
         "class": "primitive",
         "kind": "material",
         "name": "nectarine",
@@ -2115,7 +2115,7 @@
     ],
     "okra": [
       {
-        "ref": "primitives/materials/produce/vegetables/okra.json",
+        "ref": "primitives/materials/okra.json",
         "class": "primitive",
         "kind": "material",
         "name": "okra",
@@ -2125,7 +2125,7 @@
     ],
     "onion": [
       {
-        "ref": "primitives/materials/produce/vegetables/onion.json",
+        "ref": "primitives/materials/onion.json",
         "class": "primitive",
         "kind": "material",
         "name": "onion",
@@ -2145,7 +2145,7 @@
     ],
     "orange": [
       {
-        "ref": "primitives/materials/produce/fruits/orange.json",
+        "ref": "primitives/materials/orange.json",
         "class": "primitive",
         "kind": "material",
         "name": "orange",
@@ -2175,7 +2175,7 @@
     ],
     "pak choi": [
       {
-        "ref": "primitives/materials/produce/vegetables/bok-choy.json",
+        "ref": "primitives/materials/bok-choy.json",
         "class": "primitive",
         "kind": "material",
         "name": "pak choi",
@@ -2185,7 +2185,7 @@
     ],
     "papaya": [
       {
-        "ref": "primitives/materials/produce/fruits/papaya.json",
+        "ref": "primitives/materials/papaya.json",
         "class": "primitive",
         "kind": "material",
         "name": "papaya",
@@ -2215,7 +2215,7 @@
     ],
     "parsnip": [
       {
-        "ref": "primitives/materials/produce/vegetables/parsnip.json",
+        "ref": "primitives/materials/parsnip.json",
         "class": "primitive",
         "kind": "material",
         "name": "parsnip",
@@ -2225,7 +2225,7 @@
     ],
     "passion fruit": [
       {
-        "ref": "primitives/materials/produce/fruits/passion-fruit.json",
+        "ref": "primitives/materials/passion-fruit.json",
         "class": "primitive",
         "kind": "material",
         "name": "passion fruit",
@@ -2235,7 +2235,7 @@
     ],
     "pawpaw": [
       {
-        "ref": "primitives/materials/produce/fruits/papaya.json",
+        "ref": "primitives/materials/papaya.json",
         "class": "primitive",
         "kind": "material",
         "name": "pawpaw",
@@ -2245,7 +2245,7 @@
     ],
     "pea": [
       {
-        "ref": "primitives/materials/produce/vegetables/pea.json",
+        "ref": "primitives/materials/pea.json",
         "class": "primitive",
         "kind": "material",
         "name": "pea",
@@ -2255,7 +2255,7 @@
     ],
     "peach": [
       {
-        "ref": "primitives/materials/produce/fruits/peach.json",
+        "ref": "primitives/materials/peach.json",
         "class": "primitive",
         "kind": "material",
         "name": "peach",
@@ -2265,7 +2265,7 @@
     ],
     "pear": [
       {
-        "ref": "primitives/materials/produce/fruits/pear.json",
+        "ref": "primitives/materials/pear.json",
         "class": "primitive",
         "kind": "material",
         "name": "pear",
@@ -2275,7 +2275,7 @@
     ],
     "persimmon": [
       {
-        "ref": "primitives/materials/produce/fruits/persimmon.json",
+        "ref": "primitives/materials/persimmon.json",
         "class": "primitive",
         "kind": "material",
         "name": "persimmon",
@@ -2305,7 +2305,7 @@
     ],
     "pineapple": [
       {
-        "ref": "primitives/materials/produce/fruits/pineapple.json",
+        "ref": "primitives/materials/pineapple.json",
         "class": "primitive",
         "kind": "material",
         "name": "pineapple",
@@ -2315,7 +2315,7 @@
     ],
     "pitaya": [
       {
-        "ref": "primitives/materials/produce/fruits/dragon-fruit.json",
+        "ref": "primitives/materials/dragon-fruit.json",
         "class": "primitive",
         "kind": "material",
         "name": "pitaya",
@@ -2325,7 +2325,7 @@
     ],
     "plum": [
       {
-        "ref": "primitives/materials/produce/fruits/plum.json",
+        "ref": "primitives/materials/plum.json",
         "class": "primitive",
         "kind": "material",
         "name": "plum",
@@ -2345,7 +2345,7 @@
     ],
     "pomegranate": [
       {
-        "ref": "primitives/materials/produce/fruits/pomegranate.json",
+        "ref": "primitives/materials/pomegranate.json",
         "class": "primitive",
         "kind": "material",
         "name": "pomegranate",
@@ -2355,7 +2355,7 @@
     ],
     "pomelo": [
       {
-        "ref": "primitives/materials/produce/fruits/pomelo.json",
+        "ref": "primitives/materials/pomelo.json",
         "class": "primitive",
         "kind": "material",
         "name": "pomelo",
@@ -2365,7 +2365,7 @@
     ],
     "potato": [
       {
-        "ref": "primitives/materials/produce/vegetables/potato.json",
+        "ref": "primitives/materials/potato.json",
         "class": "primitive",
         "kind": "material",
         "name": "potato",
@@ -2443,7 +2443,7 @@
     ],
     "pumpkin": [
       {
-        "ref": "primitives/materials/produce/vegetables/pumpkin.json",
+        "ref": "primitives/materials/pumpkin.json",
         "class": "primitive",
         "kind": "material",
         "name": "pumpkin",
@@ -2473,7 +2473,7 @@
     ],
     "quince": [
       {
-        "ref": "primitives/materials/produce/fruits/quince.json",
+        "ref": "primitives/materials/quince.json",
         "class": "primitive",
         "kind": "material",
         "name": "quince",
@@ -2483,7 +2483,7 @@
     ],
     "radish": [
       {
-        "ref": "primitives/materials/produce/vegetables/radish.json",
+        "ref": "primitives/materials/radish.json",
         "class": "primitive",
         "kind": "material",
         "name": "radish",
@@ -2493,7 +2493,7 @@
     ],
     "raspberry": [
       {
-        "ref": "primitives/materials/produce/fruits/raspberry.json",
+        "ref": "primitives/materials/raspberry.json",
         "class": "primitive",
         "kind": "material",
         "name": "raspberry",
@@ -2503,7 +2503,7 @@
     ],
     "red currant": [
       {
-        "ref": "primitives/materials/produce/fruits/redcurrant.json",
+        "ref": "primitives/materials/redcurrant.json",
         "class": "primitive",
         "kind": "material",
         "name": "red currant",
@@ -2513,7 +2513,7 @@
     ],
     "redcurrant": [
       {
-        "ref": "primitives/materials/produce/fruits/redcurrant.json",
+        "ref": "primitives/materials/redcurrant.json",
         "class": "primitive",
         "kind": "material",
         "name": "redcurrant",
@@ -2543,7 +2543,7 @@
     ],
     "rhubarb": [
       {
-        "ref": "primitives/materials/produce/vegetables/rhubarb.json",
+        "ref": "primitives/materials/rhubarb.json",
         "class": "primitive",
         "kind": "material",
         "name": "rhubarb",
@@ -2593,7 +2593,7 @@
     ],
     "rocket": [
       {
-        "ref": "primitives/materials/produce/vegetables/arugula.json",
+        "ref": "primitives/materials/arugula.json",
         "class": "primitive",
         "kind": "material",
         "name": "rocket",
@@ -2603,7 +2603,7 @@
     ],
     "romaine": [
       {
-        "ref": "primitives/materials/produce/vegetables/romaine.json",
+        "ref": "primitives/materials/romaine.json",
         "class": "primitive",
         "kind": "material",
         "name": "romaine",
@@ -2653,7 +2653,7 @@
     ],
     "rutabaga": [
       {
-        "ref": "primitives/materials/produce/vegetables/rutabaga.json",
+        "ref": "primitives/materials/rutabaga.json",
         "class": "primitive",
         "kind": "material",
         "name": "rutabaga",
@@ -2723,7 +2723,7 @@
     ],
     "scallion": [
       {
-        "ref": "primitives/materials/produce/vegetables/scallion.json",
+        "ref": "primitives/materials/scallion.json",
         "class": "primitive",
         "kind": "material",
         "name": "scallion",
@@ -2851,7 +2851,7 @@
     ],
     "shallot": [
       {
-        "ref": "primitives/materials/produce/vegetables/shallot.json",
+        "ref": "primitives/materials/shallot.json",
         "class": "primitive",
         "kind": "material",
         "name": "shallot",
@@ -2941,7 +2941,7 @@
     ],
     "snap pea": [
       {
-        "ref": "primitives/materials/produce/vegetables/snap-pea.json",
+        "ref": "primitives/materials/snap-pea.json",
         "class": "primitive",
         "kind": "material",
         "name": "snap pea",
@@ -2971,7 +2971,7 @@
     ],
     "soybean": [
       {
-        "ref": "primitives/materials/produce/vegetables/edamame.json",
+        "ref": "primitives/materials/edamame.json",
         "class": "primitive",
         "kind": "material",
         "name": "soybean",
@@ -2981,7 +2981,7 @@
     ],
     "spinach": [
       {
-        "ref": "primitives/materials/produce/vegetables/spinach.json",
+        "ref": "primitives/materials/spinach.json",
         "class": "primitive",
         "kind": "material",
         "name": "spinach",
@@ -3001,7 +3001,7 @@
     ],
     "spring onion": [
       {
-        "ref": "primitives/materials/produce/vegetables/scallion.json",
+        "ref": "primitives/materials/scallion.json",
         "class": "primitive",
         "kind": "material",
         "name": "spring onion",
@@ -3141,7 +3141,7 @@
     ],
     "strawberry": [
       {
-        "ref": "primitives/materials/produce/fruits/strawberry.json",
+        "ref": "primitives/materials/strawberry.json",
         "class": "primitive",
         "kind": "material",
         "name": "strawberry",
@@ -3151,7 +3151,7 @@
     ],
     "string bean": [
       {
-        "ref": "primitives/materials/produce/vegetables/green-bean.json",
+        "ref": "primitives/materials/green-bean.json",
         "class": "primitive",
         "kind": "material",
         "name": "string bean",
@@ -3199,7 +3199,7 @@
     ],
     "sugar snap pea": [
       {
-        "ref": "primitives/materials/produce/vegetables/snap-pea.json",
+        "ref": "primitives/materials/snap-pea.json",
         "class": "primitive",
         "kind": "material",
         "name": "sugar snap pea",
@@ -3219,7 +3219,7 @@
     ],
     "swede": [
       {
-        "ref": "primitives/materials/produce/vegetables/rutabaga.json",
+        "ref": "primitives/materials/rutabaga.json",
         "class": "primitive",
         "kind": "material",
         "name": "swede",
@@ -3229,7 +3229,7 @@
     ],
     "sweet pepper": [
       {
-        "ref": "primitives/materials/produce/vegetables/bell-pepper.json",
+        "ref": "primitives/materials/bell-pepper.json",
         "class": "primitive",
         "kind": "material",
         "name": "sweet pepper",
@@ -3239,7 +3239,7 @@
     ],
     "sweet potato": [
       {
-        "ref": "primitives/materials/produce/vegetables/sweet-potato.json",
+        "ref": "primitives/materials/sweet-potato.json",
         "class": "primitive",
         "kind": "material",
         "name": "sweet potato",
@@ -3249,7 +3249,7 @@
     ],
     "sweetcorn": [
       {
-        "ref": "primitives/materials/produce/vegetables/sweetcorn.json",
+        "ref": "primitives/materials/sweetcorn.json",
         "class": "primitive",
         "kind": "material",
         "name": "sweetcorn",
@@ -3259,7 +3259,7 @@
     ],
     "swiss chard": [
       {
-        "ref": "primitives/materials/produce/vegetables/swiss-chard.json",
+        "ref": "primitives/materials/swiss-chard.json",
         "class": "primitive",
         "kind": "material",
         "name": "swiss chard",
@@ -3329,7 +3329,7 @@
     ],
     "tomato": [
       {
-        "ref": "primitives/materials/produce/vegetables/tomato.json",
+        "ref": "primitives/materials/tomato.json",
         "class": "primitive",
         "kind": "material",
         "name": "tomato",
@@ -3359,7 +3359,7 @@
     ],
     "turnip": [
       {
-        "ref": "primitives/materials/produce/vegetables/turnip.json",
+        "ref": "primitives/materials/turnip.json",
         "class": "primitive",
         "kind": "material",
         "name": "turnip",
@@ -3435,7 +3435,7 @@
     ],
     "watercress": [
       {
-        "ref": "primitives/materials/produce/vegetables/watercress.json",
+        "ref": "primitives/materials/watercress.json",
         "class": "primitive",
         "kind": "material",
         "name": "watercress",
@@ -3445,7 +3445,7 @@
     ],
     "watermelon": [
       {
-        "ref": "primitives/materials/produce/fruits/watermelon.json",
+        "ref": "primitives/materials/watermelon.json",
         "class": "primitive",
         "kind": "material",
         "name": "watermelon",
@@ -3525,7 +3525,7 @@
     ],
     "zucchini": [
       {
-        "ref": "primitives/materials/produce/vegetables/zucchini.json",
+        "ref": "primitives/materials/zucchini.json",
         "class": "primitive",
         "kind": "material",
         "name": "zucchini",
