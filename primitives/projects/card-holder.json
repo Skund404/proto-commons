@@ -1,7 +1,7 @@
 {
-  "content_hash": "sha256:8576be1cc25b48fe4c85f01d63537b859728b7d031472c1f8a262fe915f11731",
+  "content_hash": "sha256:c1294bd7113123d4d69167a7bb1092324a29ba86fcc578eada7660e8024543b8",
   "created": "2026-06-09",
-  "description": "A slim two- or three-pocket holder, saddle-stitched at the sides with burnished edges — a step up in stitching and edge work.",
+  "description": "A slim two- or three-pocket holder, saddle-stitched at the sides with burnished edges — a step up in stitching and edge work. This is an exemplary template, not a fixed pattern — adapt the pieces, dimensions, and finish to your own design.",
   "emitter": "opg://commons-seed",
   "id": "card-holder-seed",
   "kind": "project",
@@ -21,7 +21,7 @@
         "card holder"
       ]
     },
-    "projectType": "leather-good",
+    "projectType": "wallet",
     "project_decl": {
       "consumes": [
         {
@@ -59,6 +59,28 @@
       ]
     },
     "skillLevel": "beginner",
+    "steps": [
+      {
+        "description": "Cut the body and pocket panels to your pattern.",
+        "position": 1
+      },
+      {
+        "description": "Bevel and burnish the edges that stay open at the top.",
+        "position": 2
+      },
+      {
+        "description": "Mark and punch the side stitch lines.",
+        "position": 3
+      },
+      {
+        "description": "Saddle-stitch the side seams.",
+        "position": 4
+      },
+      {
+        "description": "Bevel and burnish the outer edges.",
+        "position": 5
+      }
+    ],
     "taxonomy": "leatherwork-project"
   },
   "relationships": [
@@ -131,7 +153,7 @@
   "tags": [
     "leatherwork",
     "leatherwork-project",
-    "leather-good"
+    "wallet"
   ],
   "visibility": "commons"
 }

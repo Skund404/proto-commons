@@ -1,7 +1,7 @@
 {
-  "content_hash": "sha256:006bba4408f0880e8640fc75d126bfa9c8742dd4931ef382516512703d5d0e32",
+  "content_hash": "sha256:dd9d4a6f7a018a2490de4b5cfe5ae55c94d97bf15284dbb4177044431e5b7043",
   "created": "2026-06-09",
-  "description": "A folded sleeve with a snap-closed belt loop, glued and stitched along the body — practice in lap seams and setting a snap.",
+  "description": "A folded sleeve with a snap-closed belt loop, glued and stitched along the body — practice in lap seams and setting a snap. This is an exemplary template, not a fixed pattern — adapt the pieces, dimensions, and finish to your own design.",
   "emitter": "opg://commons-seed",
   "id": "sunglasses-case-seed",
   "kind": "project",
@@ -22,7 +22,7 @@
         "glasses sleeve"
       ]
     },
-    "projectType": "leather-good",
+    "projectType": "case",
     "project_decl": {
       "consumes": [
         {
@@ -56,6 +56,28 @@
       ]
     },
     "skillLevel": "beginner",
+    "steps": [
+      {
+        "description": "Cut the sleeve and belt-loop pieces to your pattern.",
+        "position": 1
+      },
+      {
+        "description": "Glue the lap seam down the body.",
+        "position": 2
+      },
+      {
+        "description": "Saddle-stitch the glued seam.",
+        "position": 3
+      },
+      {
+        "description": "Set the snap on the belt loop.",
+        "position": 4
+      },
+      {
+        "description": "Bevel and burnish the opening edge.",
+        "position": 5
+      }
+    ],
     "taxonomy": "leatherwork-project"
   },
   "relationships": [
@@ -120,7 +142,7 @@
   "tags": [
     "leatherwork",
     "leatherwork-project",
-    "leather-good"
+    "case"
   ],
   "visibility": "commons"
 }

@@ -1,7 +1,7 @@
 {
-  "content_hash": "sha256:f59f554ba2d617d445e6360945635ec26004b8e20fc64655dcc92bef0dd71d08",
+  "content_hash": "sha256:67961ff699b07995c43b5355d6943e46d0366ba9b7e95e353b0b4e8f7a3993be",
   "created": "2026-06-09",
-  "description": "A small cross-body pouch with a D-ring on a riveted tab and an eyelet-set cord — combines stitching with hardware setting.",
+  "description": "A small cross-body pouch with a D-ring on a riveted tab and an eyelet-set cord — combines stitching with hardware setting. This is an exemplary template, not a fixed pattern — adapt the pieces, dimensions, and finish to your own design.",
   "emitter": "opg://commons-seed",
   "id": "phone-sling-seed",
   "kind": "project",
@@ -22,7 +22,7 @@
         "phone pouch"
       ]
     },
-    "projectType": "leather-good",
+    "projectType": "bag",
     "project_decl": {
       "consumes": [
         {
@@ -64,6 +64,28 @@
       ]
     },
     "skillLevel": "beginner",
+    "steps": [
+      {
+        "description": "Cut the body, flap, and strap tab to your pattern.",
+        "position": 1
+      },
+      {
+        "description": "Bevel and burnish the exposed edges.",
+        "position": 2
+      },
+      {
+        "description": "Saddle-stitch the body seams.",
+        "position": 3
+      },
+      {
+        "description": "Rivet the D-ring tab to the body.",
+        "position": 4
+      },
+      {
+        "description": "Set the strap eyelets and attach the cord.",
+        "position": 5
+      }
+    ],
     "taxonomy": "leatherwork-project"
   },
   "relationships": [
@@ -152,7 +174,7 @@
   "tags": [
     "leatherwork",
     "leatherwork-project",
-    "leather-good"
+    "bag"
   ],
   "visibility": "commons"
 }

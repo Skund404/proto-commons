@@ -1,7 +1,7 @@
 {
-  "content_hash": "sha256:b0d2d6252f4fa0f7878331a791d32ef6580fa5d9b313fcad0bc654e000e012d0",
+  "content_hash": "sha256:70f14fb3c7b4b79b1e326294907e97bb843ae6ce15af8254384828a97ba4cdec",
   "created": "2026-06-09",
-  "description": "A round-bottomed pouch closed by a cord threaded through eyelets — mostly cutting and punching, a gentle introduction to bag shapes.",
+  "description": "A round-bottomed pouch closed by a cord threaded through eyelets — mostly cutting and punching, a gentle introduction to bag shapes. This is an exemplary template, not a fixed pattern — adapt the pieces, dimensions, and finish to your own design.",
   "emitter": "opg://commons-seed",
   "id": "drawstring-pouch-seed",
   "kind": "project",
@@ -22,7 +22,7 @@
         "drawstring bag"
       ]
     },
-    "projectType": "leather-good",
+    "projectType": "pouch",
     "project_decl": {
       "consumes": [
         {
@@ -52,6 +52,28 @@
       ]
     },
     "skillLevel": "beginner",
+    "steps": [
+      {
+        "description": "Cut the body panel and round base to your pattern.",
+        "position": 1
+      },
+      {
+        "description": "Punch a ring of cord eyelets around the top edge.",
+        "position": 2
+      },
+      {
+        "description": "Set the eyelets.",
+        "position": 3
+      },
+      {
+        "description": "Stitch or lace the base to the body.",
+        "position": 4
+      },
+      {
+        "description": "Thread the drawstring cord and knot the ends.",
+        "position": 5
+      }
+    ],
     "taxonomy": "leatherwork-project"
   },
   "relationships": [
@@ -108,7 +130,7 @@
   "tags": [
     "leatherwork",
     "leatherwork-project",
-    "leather-good"
+    "pouch"
   ],
   "visibility": "commons"
 }
