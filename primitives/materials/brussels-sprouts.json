@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:84d8573c631ef474b420957de1f82502139be7ffb97b80047cfdc22bbb545f7a",
+  "content_hash": "sha256:be7f4d7ca7d82578d3bc3fe7713d6e640a2f7ac95f29a50d8193e9e2ffe7a0a7",
   "created": "2026-05-31",
   "description": "Small cabbage-like buds on a stalk; roasted, sautéed, or shredded raw.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "brussels-sprouts",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "brassica"

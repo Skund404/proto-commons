@@ -1,0 +1,19 @@
+{
+  "format_version": "1.0",
+  "id": "produce",
+  "names": {
+    "de": [
+      "Obst und Gemüse"
+    ],
+    "en": [
+      "produce",
+      "fruit and vegetables"
+    ],
+    "fr": [
+      "fruits et légumes"
+    ],
+    "it": [
+      "frutta e verdura"
+    ]
+  }
+}

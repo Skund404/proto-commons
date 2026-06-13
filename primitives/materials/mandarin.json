@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:e37520adc7443caabe6d455cb61305674a0e14cb5e6bf5b195c2f264288bcb75",
+  "content_hash": "sha256:4fd2992b1c9ffc00eb2c5fb8c83bf2879a612d970528d0123c25368e5caac75d",
   "created": "2026-05-31",
   "description": "Small, sweet, easy-peeling citrus with loose skin and segmented flesh.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "mandarin",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "fruit",
     "citrus"

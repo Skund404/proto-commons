@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:6c1d840a5e380af28b3035bf0b9ac005bf905e5fa074d32882274a748d77f7ae",
+  "content_hash": "sha256:80432a3f9d7cc8d9888f1606afa995c51e5ad7a5ff9145720ee624f43947e250",
   "created": "2026-05-31",
   "description": "Fragrant tropical fruit with sweet pink or white flesh; eaten fresh or as paste/juice.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "guava",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "fruit",
     "tropical-fruit"

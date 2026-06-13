@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:1470c77cca99a03d9d01ae4a08b39b3caa0ab9df9df50b6aa059a6138bca7bb3",
+  "content_hash": "sha256:8064c3048abb494d8b8b440a6a35e6e01e979197a98848e6a4d4441c57052cb7",
   "created": "2026-05-31",
   "description": "Young onion with a small bulb and long green tops; eaten raw or lightly cooked.",
   "emitter": "opg://commons-seed",
@@ -38,6 +38,7 @@
   },
   "slug": "scallion",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "allium"

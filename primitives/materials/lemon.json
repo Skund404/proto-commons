@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:83a411b9a2ca8d06aae7a562bf7fec05f7f4adf3bb3b776e3190a38273a3c04a",
+  "content_hash": "sha256:8dbe8d79e422df11857d5913d0920615021536403eec676e07897233b7757476",
   "created": "2026-05-31",
   "description": "Tart yellow citrus; its juice and zest brighten sauces, dressings, bakes and drinks.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "lemon",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "fruit",
     "citrus"

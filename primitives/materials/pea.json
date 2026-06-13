@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:44276ad51d730f67e0badb1dc6002eb1a890408b3809eaa262b718e868922c2d",
+  "content_hash": "sha256:de51c327cf0cee13d21498e061263f72b06dc705d03db66cd64a8290f67949a5",
   "created": "2026-05-31",
   "description": "Sweet round green seed from a pod; eaten fresh, frozen, or dried.",
   "emitter": "opg://commons-seed",
@@ -37,6 +37,7 @@
   },
   "slug": "pea",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "legume"

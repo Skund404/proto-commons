@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:91e3ef883dcd8b15e16ef2a8c6fa579cd556c814d03a9692a940f409e6f0ec16",
+  "content_hash": "sha256:da416f19491a9e32eac52e0d683326fa8416fc987114dcf9405c37a555185de2",
   "created": "2026-05-31",
   "description": "Dense white flowering head; roasted, mashed, riced, or in gratins.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "cauliflower",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "brassica"

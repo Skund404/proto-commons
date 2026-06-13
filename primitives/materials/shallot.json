@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:0a024f4673a2965f6edaec20a0eb95c4c2c82c401a96ccaf4502d6b6efb22045",
+  "content_hash": "sha256:4b407d9f27d091b2304c5359343476582f1548ecebf202b0d4a6c9a8e9241d45",
   "created": "2026-05-31",
   "description": "Small, mild, sweet allium bulb; prized in dressings and delicate sauces.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "shallot",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "allium"

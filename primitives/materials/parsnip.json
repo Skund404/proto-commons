@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:169b22282953fbfa7b8230e6b92dc398b210737b976dac81def70e92ffbe2455",
+  "content_hash": "sha256:228e064043d077b0844a543bcd0438277b8117b25aa83280cff046e8eb62b583",
   "created": "2026-05-31",
   "description": "Sweet, nutty cream-coloured taproot; roasted, mashed, or in soups.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "parsnip",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "root-vegetable"

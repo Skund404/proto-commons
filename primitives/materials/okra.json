@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:d4d7e0b2dcd7f442e9f78f5bc7e1b33ca4fe1f5f303c117d0610c1134d58b6f7",
+  "content_hash": "sha256:3957b6783d9d2247dfcdf987df3e3c1213ce49a408e6266311dabee99c9fcb14",
   "created": "2026-05-31",
   "description": "Green ridged seed pod, mucilaginous when cooked; stewed, fried, or in gumbo.",
   "emitter": "opg://commons-seed",
@@ -37,6 +37,7 @@
   },
   "slug": "okra",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable"
   ],

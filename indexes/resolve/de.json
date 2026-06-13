@@ -911,6 +911,16 @@
         "canonical": true
       }
     ],
+    "obst und gemüse": [
+      {
+        "ref": "categories/produce",
+        "class": "category",
+        "kind": null,
+        "name": "Obst und Gemüse",
+        "lang": "de",
+        "canonical": true
+      }
+    ],
     "okra": [
       {
         "ref": "primitives/materials/okra.json",

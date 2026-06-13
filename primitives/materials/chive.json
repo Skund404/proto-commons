@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:9feb6ef043db4842573db3d1e3e1746a2a7297ab633fdfa0560634ee0a4cfba8",
+  "content_hash": "sha256:f328f0452033289f4465a0ad1345a784f5404357fdc770f73f03d6ab53339f6a",
   "created": "2026-05-31",
   "description": "Slender, mildly oniony herb-allium; snipped raw as a garnish.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "chive",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "allium"

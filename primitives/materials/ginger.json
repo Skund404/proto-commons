@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:4a8c2413b418bc8fec77429b505f3b8012217e82c82d90ff99954cb17e9f0d18",
+  "content_hash": "sha256:985820953295ab9c2bfe2ce13521fe98cae7871f900cbc14e4746a487eed9017",
   "created": "2026-05-31",
   "description": "Pungent, warming rhizome used fresh or dried to season sweet and savoury dishes.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "ginger",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "root-vegetable"

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:b3566210b15150aa401a51e42f612016e9bcfee1952a728136ca17f856105e0d",
+  "content_hash": "sha256:ff847b5869b2dab18a8b138d06059979cdbc60af42339ba02afdf6c15929519b",
   "description": {
     "en": "A catalogue of common stone fruit in the commons."
   },
@@ -7,35 +7,35 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:e411a65a19f7bf40350d46b6696aeab56c02732f0e9c3065540e3b946d3635cd",
+      "hash": "sha256:4c0aa041759841124905ba0f09d8870a7aaaed1669ab597b607dd5d3a7d57229",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "peach"
     },
     {
-      "hash": "sha256:7b32d6c7a83f165c7cc01891495ac0db5525183a6c74c08af50532eba0de9805",
+      "hash": "sha256:605a0e846e86accfc425c581b09b144728ea78efbaee35f4806fbc2cc967f7af",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "nectarine"
     },
     {
-      "hash": "sha256:a499bf21cb77c4b254807fe20795c7358980bc9d7fcb91ed86aad58dcb321a44",
+      "hash": "sha256:e7120952ae4a0c088fdcc54b77bc030cbde55adb5eede28475dd304b3027a798",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "apricot"
     },
     {
-      "hash": "sha256:71e3ff6c653b8dd901ed05285fc0cad44b4e2cc97bf68f16e051dd8801117a9a",
+      "hash": "sha256:5cd662c35961c58101e2a8cb20875617d4beec7a7c1dca1a5b75c04a52f336c4",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "plum"
     },
     {
-      "hash": "sha256:6e715f3b6bf11dbffb0bdf528dc18d8fec3f63864311ea3679b1d0ecccadaaf0",
+      "hash": "sha256:723c6ea188abd21327b9efeb74cb32dff2509d8cab8ada97bc2d77d9e1f8e0f3",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
@@ -58,6 +58,7 @@
   "state": "open",
   "successors": [],
   "tags": [
+    "cooking-and-baking",
     "produce",
     "catalogue"
   ]

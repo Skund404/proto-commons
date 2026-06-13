@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f6320648746d0df494d5a48a88deec4813867dd2e451babfd1ef7edf28a8f3b4",
+  "content_hash": "sha256:16dfd1e5c0413e21e446703e5edc0de471862031d7290240ef015097fcb1e45f",
   "created": "2026-05-31",
   "description": "Knobbly celery-flavoured root; remoulade, purée, roasted, or in soups.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "celeriac",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "root-vegetable"

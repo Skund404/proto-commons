@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:9147ef8b6c3e6c53c65678332d75fa3351efc25ee8cf4a79626b058a105cf10e",
+  "content_hash": "sha256:89f89212a2416ea8aad4bec9bebbf2123fff552db302f9469f4a18b612eb2b31",
   "created": "2026-05-31",
   "description": "Green flowering brassica eaten as florets and stalk; steamed, roasted, or stir-fried.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "broccoli",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "brassica"

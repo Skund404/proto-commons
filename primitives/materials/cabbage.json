@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:5382f206f9126d20a1f60ef9fa46b9edf114067149a2652d3ee6437a33f4e4f5",
+  "content_hash": "sha256:d82f728f19db21cf4e711b91f584d5286e74d643c78b91d5bd2b7e12d7e74da5",
   "created": "2026-05-31",
   "description": "Dense leafy head; eaten raw (slaw), braised, fermented (sauerkraut, kimchi).",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "cabbage",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "brassica"

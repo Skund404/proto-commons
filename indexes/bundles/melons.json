@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:8419044715b4fc6030dade836ba6dedc00518ecdc9199a4547aaaf9f0a9cf9d5",
+  "content_hash": "sha256:35e1fda91467feeb16a2a6467aad92597ae9493a59ac8f948999b0fe79cb2bed",
   "description": {
     "en": "A catalogue of common melons in the commons."
   },
@@ -7,21 +7,21 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:19b72e94a3aaf45a84f4f52a8608d9f9b236491fe451130b9768e7a9e2c08de7",
+      "hash": "sha256:b83c806b24f1d0b7673b66b25badb80c9d9504e63a2e5b97bc9d641e7c277406",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "watermelon"
     },
     {
-      "hash": "sha256:cc7968721067bd96bbba064e251245ae64a13a12c359fc96455a2848c5c84900",
+      "hash": "sha256:2014a685abb014394f82c88837bb26e7d8b671b7414588977e063e1cbbba2725",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "cantaloupe"
     },
     {
-      "hash": "sha256:fb628a21bac0eb3227d6639f93e184bd5fb6a13ae3f7f617003a625c1367a3f7",
+      "hash": "sha256:e59c07a2b6fe898a8cbf5c5c4997134f426c3c4089d0115fa4ed269458950448",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
@@ -44,6 +44,7 @@
   "state": "open",
   "successors": [],
   "tags": [
+    "cooking-and-baking",
     "produce",
     "catalogue"
   ]

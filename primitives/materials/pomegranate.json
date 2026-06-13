@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:3450e2d3a05f71bc1f58b61ba73477c5231981ac8167d9c803561212cf4f7faf",
+  "content_hash": "sha256:10da7a4b0a55327dd1bcf14b3b98aa676111d90536f54e03748f86851ae7be93",
   "created": "2026-05-31",
   "description": "Leathery-skinned fruit packed with juicy, jewel-like tart-sweet seed arils.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "pomegranate",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "fruit",
     "tropical-fruit"

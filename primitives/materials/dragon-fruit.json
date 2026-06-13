@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:5dfb2d8bd3d10fb368b469c163a5e89fd858a5aa5a6b8ee4b71a0aa91d35e6df",
+  "content_hash": "sha256:a541e11dc426590653ad54077d3398f95a0a57756c4cbf60b5d97a29d02db0b7",
   "created": "2026-05-31",
   "description": "Striking cactus fruit with vivid skin and mild, sweet, seed-flecked flesh.",
   "emitter": "opg://commons-seed",
@@ -38,6 +38,7 @@
   },
   "slug": "dragon-fruit",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "fruit",
     "tropical-fruit"

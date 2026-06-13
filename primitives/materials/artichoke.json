@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:afd87997e32b7ebe2cde4b771a2f868812584c48a4feed37797f6a6dadfc7432",
+  "content_hash": "sha256:eeeb0367d099db70c09922df85c2f66cc95a1cd9dd503eeeb34b530798600010",
   "created": "2026-05-31",
   "description": "Edible flower bud; the fleshy leaf bases and heart are eaten cooked.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "artichoke",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "stem-vegetable"

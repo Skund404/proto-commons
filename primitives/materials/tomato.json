@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:cfcc35cafe1b43f3da6bc3ce553ce26f69ec9a03f27e8f743030111651542314",
+  "content_hash": "sha256:97496b96bd70344d53e3a70cb641b484e3bd6ab8ddee285e7b1cf9bb290218bd",
   "created": "2026-05-31",
   "description": "Juicy, savoury-sweet fruit used as a vegetable; raw, cooked, or as sauce.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "tomato",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "nightshade"

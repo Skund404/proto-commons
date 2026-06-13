@@ -2165,6 +2165,16 @@
         "canonical": true
       }
     ],
+    "fruit and vegetables": [
+      {
+        "ref": "categories/produce",
+        "class": "category",
+        "kind": null,
+        "name": "fruit and vegetables",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "fruiting vegetable": [
       {
         "ref": "categories/nightshade",
@@ -3889,6 +3899,16 @@
         "class": "primitive",
         "kind": "tool",
         "name": "pricking iron",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "produce": [
+      {
+        "ref": "categories/produce",
+        "class": "category",
+        "kind": null,
+        "name": "produce",
         "lang": "en",
         "canonical": true
       }

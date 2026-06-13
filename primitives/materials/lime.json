@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:3805ba2e592ed02ad6f381eda0edeeb14e75d5562531be44c1f35c349d687fa0",
+  "content_hash": "sha256:f6a9c16d29d6e40f529d2eed1d4671f43572eb64a41bdf25d291cbfd6f700656",
   "created": "2026-05-31",
   "description": "Small green citrus, sharper and more aromatic than lemon; staple of Latin and Southeast Asian cooking.",
   "emitter": "opg://commons-seed",
@@ -36,6 +36,7 @@
   },
   "slug": "lime",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "fruit",
     "citrus"

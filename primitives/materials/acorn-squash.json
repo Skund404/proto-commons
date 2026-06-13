@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:79aa17f8ff1dde94589a0196a3eaf1206fb862116c0e84ca8711d0762e58efd9",
+  "content_hash": "sha256:2220fbde4a30af03fb42bea51e8b4807e6e0392f2e06df194bc70819e6c5ce91",
   "created": "2026-05-31",
   "description": "Small ribbed winter squash with sweet, mild flesh; usually halved and roasted.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "acorn-squash",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "squash"

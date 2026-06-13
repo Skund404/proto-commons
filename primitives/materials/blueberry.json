@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:48a416a680c4cac742aea09fcfbf949117860c7c9cf3cdb01c1b63fa1f0e40ec",
+  "content_hash": "sha256:0f98f17a45747656b62b06f7e5e098f7af350e8a2895b9ae806f9f22b6b2efb2",
   "created": "2026-05-31",
   "description": "Small blue-purple berry, sweet-tart; eaten fresh, baked, or in jams.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "blueberry",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "fruit",
     "berry"

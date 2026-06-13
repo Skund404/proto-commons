@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:4d0748d6410b3dbaa6e3f2f9ab48cce0be0d7164fd838f092c197a4b3d171e58",
+  "content_hash": "sha256:f0ddad3aad42a3e8c15c79f75a67f024f60d6454d401aebf439099b61730e33c",
   "created": "2026-05-31",
   "description": "Starchy tuber, a global staple; boiled, mashed, roasted, or fried.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "potato",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "root-vegetable"

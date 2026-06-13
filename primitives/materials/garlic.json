@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:e75ec93fb8ee7e1df4109663bcfccee485d3efdfb20ffe72b52ee9d61d4166b0",
+  "content_hash": "sha256:e72a44eb29ee919717e05a62625df3632c1e0969a0fccd6bbcddb1986dfe2bcb",
   "created": "2026-05-31",
   "description": "Intensely aromatic bulb of cloves; a near-universal savoury seasoning.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "garlic",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "allium"

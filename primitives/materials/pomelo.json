@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:cbed5e062e9888ff50edd97cdf8ad44ac9c1a1ff53a573c3cf040da7c1020ede",
+  "content_hash": "sha256:ee0378ce81dd3893cf8ae881567e05cd5380ef11fb044ec3f1836e96f7f24622",
   "created": "2026-05-31",
   "description": "The largest citrus, with thick rind and mild, sweet flesh; ancestor of the grapefruit.",
   "emitter": "opg://commons-seed",
@@ -36,6 +36,7 @@
   },
   "slug": "pomelo",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "fruit",
     "citrus"

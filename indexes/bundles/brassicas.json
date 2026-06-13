@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:5b60a255fd363cdad04a3f683ef9309cac5d3461ba7a9628f3ff61c01188b1c8",
+  "content_hash": "sha256:a68e44b39b969e8187aea5bfb9e393d90a78ee8dad31a95f15146fe7bbf3e428",
   "description": {
     "en": "A catalogue of common brassicas in the commons."
   },
@@ -7,42 +7,42 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:9147ef8b6c3e6c53c65678332d75fa3351efc25ee8cf4a79626b058a105cf10e",
+      "hash": "sha256:89f89212a2416ea8aad4bec9bebbf2123fff552db302f9469f4a18b612eb2b31",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "broccoli"
     },
     {
-      "hash": "sha256:91e3ef883dcd8b15e16ef2a8c6fa579cd556c814d03a9692a940f409e6f0ec16",
+      "hash": "sha256:da416f19491a9e32eac52e0d683326fa8416fc987114dcf9405c37a555185de2",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "cauliflower"
     },
     {
-      "hash": "sha256:5382f206f9126d20a1f60ef9fa46b9edf114067149a2652d3ee6437a33f4e4f5",
+      "hash": "sha256:d82f728f19db21cf4e711b91f584d5286e74d643c78b91d5bd2b7e12d7e74da5",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "cabbage"
     },
     {
-      "hash": "sha256:84d8573c631ef474b420957de1f82502139be7ffb97b80047cfdc22bbb545f7a",
+      "hash": "sha256:be7f4d7ca7d82578d3bc3fe7713d6e640a2f7ac95f29a50d8193e9e2ffe7a0a7",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "brussels-sprouts"
     },
     {
-      "hash": "sha256:12c45ef030d4ff14061e0ab470d73ae4d5727e6f8ca059328b142835d43f5f11",
+      "hash": "sha256:5f146d098dd7a04c009b152f6cf6c16c28efba452f52b8b64a142f7d278ae572",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "kohlrabi"
     },
     {
-      "hash": "sha256:cec1f99e6655412cbf55d1a97b58a8019cd773d3e406546f56cf4ae3b147a721",
+      "hash": "sha256:af155ba3dd3e4ee082a871bfde0f35f6962f225a1bbbf77c4c38f89b563440a1",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
@@ -65,6 +65,7 @@
   "state": "open",
   "successors": [],
   "tags": [
+    "cooking-and-baking",
     "produce",
     "catalogue"
   ]

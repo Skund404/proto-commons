@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:a7d2137076fd4334253de921ee28db2eec857f78fbafbe17db07d485416b16c1",
+  "content_hash": "sha256:142b66cfc50f24e4fed5008f5d78c3db7b2e8a7b4e8b7f15884ad9dcc6646b62",
   "description": {
     "en": "A catalogue of common nightshades in the commons."
   },
@@ -7,28 +7,28 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:cfcc35cafe1b43f3da6bc3ce553ce26f69ec9a03f27e8f743030111651542314",
+      "hash": "sha256:97496b96bd70344d53e3a70cb641b484e3bd6ab8ddee285e7b1cf9bb290218bd",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "tomato"
     },
     {
-      "hash": "sha256:2fb536702d8a3c3aa83b67cd4fb87297f5e1b2b79832893e5babcc746fed1f53",
+      "hash": "sha256:946300a3d1de1058d1cd81af0611153acecccff828044b51cad4424b634fc33a",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "bell-pepper"
     },
     {
-      "hash": "sha256:2eb58f5ce8d6fa55898227ed2fcbb58447ef70a6d337967a3789d741afc55b5e",
+      "hash": "sha256:95548125479e9da828f3fc33c149f0d491217ed7b93feb78623ed3630f178213",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "chili-pepper"
     },
     {
-      "hash": "sha256:fd8f7c2f5cca716ccc2ef72746f3244d82ec6bcb3971b1197ed1bbc799707caa",
+      "hash": "sha256:53ea24d000a389ad81f6433d1776ed40b7a5c808714fcab3f9e0ba348234f49e",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
@@ -51,6 +51,7 @@
   "state": "open",
   "successors": [],
   "tags": [
+    "cooking-and-baking",
     "produce",
     "catalogue"
   ]

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:d3092c5accdd1f1539e04cc26d184ba4429409e56205a4ac22ee89d5dae32a46",
+  "content_hash": "sha256:42398dd6770face29f9cbe84bcdfb41ebb48c9ba640f812c8ad83fd977d88273",
   "created": "2026-05-31",
   "description": "Small tropical fruit with a rough red shell and sweet, floral translucent flesh.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "lychee",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "fruit",
     "tropical-fruit"

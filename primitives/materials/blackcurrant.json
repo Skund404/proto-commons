@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:6b578474de6f7ba7c6a89d1542052de6ea6c1023dbe22d62aecc6df92b43f825",
+  "content_hash": "sha256:8d5368bc7374635b1f112376df0ee27483f10ff3826f52df0e3fc29be1b74907",
   "created": "2026-05-31",
   "description": "Intensely aromatic dark berry, tart and musky; base of cordials, jams and liqueurs.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "blackcurrant",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "fruit",
     "berry"

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:e594a82de5b6b2f86cc204893eac267432d438c2b7ffb925a95ecef413d83007",
+  "content_hash": "sha256:7df142616dbd521304b4cc7730c6f0b9e536e0657ee73dfe4730018d76bf5161",
   "created": "2026-05-31",
   "description": "Peppery aquatic leaf; eaten raw in salads and sandwiches or in soups.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "watercress",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "leafy-green"

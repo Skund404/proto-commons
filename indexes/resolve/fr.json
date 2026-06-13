@@ -611,6 +611,16 @@
         "canonical": true
       }
     ],
+    "fruits et légumes": [
+      {
+        "ref": "categories/produce",
+        "class": "category",
+        "kind": null,
+        "name": "fruits et légumes",
+        "lang": "fr",
+        "canonical": true
+      }
+    ],
     "fève": [
       {
         "ref": "primitives/materials/fava-bean.json",

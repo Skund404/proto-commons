@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:84bd852cc7b245f23d9166d5ec8ce713ed7da9990273295e1dd4c4ba536d1dd0",
+  "content_hash": "sha256:b089cdc82b25fb94bf4de171d3853a48f7c5e85544bdd129dc03f24ab1a68bc0",
   "created": "2026-05-31",
   "description": "Slightly bitter salad leaf; eaten raw or braised.",
   "emitter": "opg://commons-seed",
@@ -36,6 +36,7 @@
   },
   "slug": "endive",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "leafy-green"

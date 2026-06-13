@@ -521,6 +521,16 @@
         "canonical": false
       }
     ],
+    "frutta e verdura": [
+      {
+        "ref": "categories/produce",
+        "class": "category",
+        "kind": null,
+        "name": "frutta e verdura",
+        "lang": "it",
+        "canonical": true
+      }
+    ],
     "frutta tropicale": [
       {
         "ref": "categories/tropical-fruit",

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:fb628a21bac0eb3227d6639f93e184bd5fb6a13ae3f7f617003a625c1367a3f7",
+  "content_hash": "sha256:e59c07a2b6fe898a8cbf5c5c4997134f426c3c4089d0115fa4ed269458950448",
   "created": "2026-05-31",
   "description": "Smooth-skinned melon with sweet, pale green flesh.",
   "emitter": "opg://commons-seed",
@@ -36,6 +36,7 @@
   },
   "slug": "honeydew",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "fruit",
     "melon"

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:38c3870daf24a2ed36e0cce7371cc23b7a0a4c152ee4188bc3c4455eddfe29f7",
+  "content_hash": "sha256:eeb556ed74a598fbd3fccb4f4d6a6d1816c4e7dbffbd8206c451cf9fd070f71c",
   "created": "2026-05-31",
   "description": "Soft tropical fruit with sweet orange flesh and a cavity of black seeds.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "papaya",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "fruit",
     "tropical-fruit"

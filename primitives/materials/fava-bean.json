@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:fe4550e8bc42470c06a1a55185163ace06b56697b8554e1cacb34f2902539564",
+  "content_hash": "sha256:58f16e075c2f015fd9b399c3a4c51b145543c9478695d6dd2553581769ca60a9",
   "created": "2026-05-31",
   "description": "Large flat green bean in a thick pod; shelled and often double-podded before cooking.",
   "emitter": "opg://commons-seed",
@@ -37,6 +37,7 @@
   },
   "slug": "fava-bean",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "legume"

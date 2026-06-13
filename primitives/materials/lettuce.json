@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:8e7322875ee5cea7f6bf997977119a47cc10e838764b17439a32924172a3f6ca",
+  "content_hash": "sha256:01e4a467729a97cb963511e4850055f1b80d65555a8a93bcc7562cd0a72b06f6",
   "created": "2026-05-31",
   "description": "Crisp salad leaf in many forms; eaten raw as the base of salads.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "lettuce",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "leafy-green"

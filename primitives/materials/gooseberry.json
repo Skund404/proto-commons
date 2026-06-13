@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:a88d3e8fa8d99e0f439554e9c5d0f5097d7a537515a8174b16a89468505ad933",
+  "content_hash": "sha256:c4be5da4e56f57bda374b1a8d64df6c0f1930ade41115564e09145649a0cff22",
   "created": "2026-05-31",
   "description": "Tart, translucent berry on a thorny bush; cooked into pies, fools and preserves.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "gooseberry",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "fruit",
     "berry"

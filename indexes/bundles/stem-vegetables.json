@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:04f4d5426cfd8d5ad3fdc4c0bcb90d971c10c8a62e8451e73e528b7699e9ee5b",
+  "content_hash": "sha256:4f24708145b57b8e0ec00549c77dd606fb6658432357effcd0e47854c3ca87ca",
   "description": {
     "en": "A catalogue of common stem vegetables in the commons."
   },
@@ -7,35 +7,35 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:d0e96b9c5a6853268d97d5b8b2a5bfa719fd1af8c02c687e7c373e25ae7e8cef",
+      "hash": "sha256:1e6627efba59aea286f7309cbd8a6c4a765e55ea207545e311e469671af495fd",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "celery"
     },
     {
-      "hash": "sha256:08de0b3df86b6d4aca676970438e179cccd3b1302a00d00b1c61e3f78346daa0",
+      "hash": "sha256:414a793ce6e09631ebaef143321f832a495ed09efcdc416d496c5d9477bb353c",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "asparagus"
     },
     {
-      "hash": "sha256:fb83152dc68e6603f96cf0077193dc4da769780504063078f6973170bbeca848",
+      "hash": "sha256:1b9015cdba6773e1f5d42d082f3184470b5273c5e8ca2e17e81789fb5b295993",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "fennel"
     },
     {
-      "hash": "sha256:5314460fcc259d9b57522b6555f119ff4eecc839c9978ff50eb88a9ba11a8c3d",
+      "hash": "sha256:6601bbb5a86139108bfc2cd376eb6cc099d17132b7e5366dbc74e0988cb04d3f",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "rhubarb"
     },
     {
-      "hash": "sha256:afd87997e32b7ebe2cde4b771a2f868812584c48a4feed37797f6a6dadfc7432",
+      "hash": "sha256:eeeb0367d099db70c09922df85c2f66cc95a1cd9dd503eeeb34b530798600010",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
@@ -58,6 +58,7 @@
   "state": "open",
   "successors": [],
   "tags": [
+    "cooking-and-baking",
     "produce",
     "catalogue"
   ]

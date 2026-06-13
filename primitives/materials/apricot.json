@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:a499bf21cb77c4b254807fe20795c7358980bc9d7fcb91ed86aad58dcb321a44",
+  "content_hash": "sha256:e7120952ae4a0c088fdcc54b77bc030cbde55adb5eede28475dd304b3027a798",
   "created": "2026-05-31",
   "description": "Small orange drupe, sweet-tart; eaten fresh, dried, or in jams and bakes.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "apricot",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "fruit",
     "stone-fruit"

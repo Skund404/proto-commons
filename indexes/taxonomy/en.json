@@ -1014,336 +1014,6 @@
         }
       ]
     },
-    "category/fruit": {
-      "id": "fruit",
-      "name": "fruit",
-      "parent": null,
-      "members": [],
-      "related": [],
-      "children": [
-        {
-          "id": "berry",
-          "name": "berry",
-          "parent": "fruit",
-          "members": [
-            {
-              "ref": "primitives/materials/blackberry.json",
-              "slug": "blackberry",
-              "kind": "material",
-              "name": "blackberry"
-            },
-            {
-              "ref": "primitives/materials/blackcurrant.json",
-              "slug": "blackcurrant",
-              "kind": "material",
-              "name": "blackcurrant"
-            },
-            {
-              "ref": "primitives/materials/blueberry.json",
-              "slug": "blueberry",
-              "kind": "material",
-              "name": "blueberry"
-            },
-            {
-              "ref": "primitives/materials/cranberry.json",
-              "slug": "cranberry",
-              "kind": "material",
-              "name": "cranberry"
-            },
-            {
-              "ref": "primitives/materials/gooseberry.json",
-              "slug": "gooseberry",
-              "kind": "material",
-              "name": "gooseberry"
-            },
-            {
-              "ref": "primitives/materials/raspberry.json",
-              "slug": "raspberry",
-              "kind": "material",
-              "name": "raspberry"
-            },
-            {
-              "ref": "primitives/materials/redcurrant.json",
-              "slug": "redcurrant",
-              "kind": "material",
-              "name": "redcurrant"
-            },
-            {
-              "ref": "primitives/materials/strawberry.json",
-              "slug": "strawberry",
-              "kind": "material",
-              "name": "strawberry"
-            }
-          ],
-          "related": [],
-          "children": []
-        },
-        {
-          "id": "citrus",
-          "name": "citrus",
-          "parent": "fruit",
-          "members": [
-            {
-              "ref": "primitives/materials/clementine.json",
-              "slug": "clementine",
-              "kind": "material",
-              "name": "clementine"
-            },
-            {
-              "ref": "primitives/materials/grapefruit.json",
-              "slug": "grapefruit",
-              "kind": "material",
-              "name": "grapefruit"
-            },
-            {
-              "ref": "primitives/materials/kumquat.json",
-              "slug": "kumquat",
-              "kind": "material",
-              "name": "kumquat"
-            },
-            {
-              "ref": "primitives/materials/lemon.json",
-              "slug": "lemon",
-              "kind": "material",
-              "name": "lemon"
-            },
-            {
-              "ref": "primitives/materials/lime.json",
-              "slug": "lime",
-              "kind": "material",
-              "name": "lime"
-            },
-            {
-              "ref": "primitives/materials/mandarin.json",
-              "slug": "mandarin",
-              "kind": "material",
-              "name": "mandarin"
-            },
-            {
-              "ref": "primitives/materials/orange.json",
-              "slug": "orange",
-              "kind": "material",
-              "name": "orange"
-            },
-            {
-              "ref": "primitives/materials/pomelo.json",
-              "slug": "pomelo",
-              "kind": "material",
-              "name": "pomelo"
-            }
-          ],
-          "related": [],
-          "children": []
-        },
-        {
-          "id": "grape",
-          "name": "grape",
-          "parent": "fruit",
-          "members": [
-            {
-              "ref": "primitives/materials/grape.json",
-              "slug": "grape",
-              "kind": "material",
-              "name": "grape"
-            }
-          ],
-          "related": [],
-          "children": []
-        },
-        {
-          "id": "melon",
-          "name": "melon",
-          "parent": "fruit",
-          "members": [
-            {
-              "ref": "primitives/materials/cantaloupe.json",
-              "slug": "cantaloupe",
-              "kind": "material",
-              "name": "cantaloupe"
-            },
-            {
-              "ref": "primitives/materials/honeydew.json",
-              "slug": "honeydew",
-              "kind": "material",
-              "name": "honeydew"
-            },
-            {
-              "ref": "primitives/materials/watermelon.json",
-              "slug": "watermelon",
-              "kind": "material",
-              "name": "watermelon"
-            }
-          ],
-          "related": [],
-          "children": []
-        },
-        {
-          "id": "pome-fruit",
-          "name": "pome fruit",
-          "parent": "fruit",
-          "members": [
-            {
-              "ref": "primitives/materials/apple.json",
-              "slug": "apple",
-              "kind": "material",
-              "name": "apple"
-            },
-            {
-              "ref": "primitives/materials/pear.json",
-              "slug": "pear",
-              "kind": "material",
-              "name": "pear"
-            },
-            {
-              "ref": "primitives/materials/quince.json",
-              "slug": "quince",
-              "kind": "material",
-              "name": "quince"
-            }
-          ],
-          "related": [],
-          "children": []
-        },
-        {
-          "id": "stone-fruit",
-          "name": "stone fruit",
-          "parent": "fruit",
-          "members": [
-            {
-              "ref": "primitives/materials/apricot.json",
-              "slug": "apricot",
-              "kind": "material",
-              "name": "apricot"
-            },
-            {
-              "ref": "primitives/materials/cherry.json",
-              "slug": "cherry",
-              "kind": "material",
-              "name": "cherry"
-            },
-            {
-              "ref": "primitives/materials/nectarine.json",
-              "slug": "nectarine",
-              "kind": "material",
-              "name": "nectarine"
-            },
-            {
-              "ref": "primitives/materials/peach.json",
-              "slug": "peach",
-              "kind": "material",
-              "name": "peach"
-            },
-            {
-              "ref": "primitives/materials/plum.json",
-              "slug": "plum",
-              "kind": "material",
-              "name": "plum"
-            }
-          ],
-          "related": [],
-          "children": []
-        },
-        {
-          "id": "tropical-fruit",
-          "name": "tropical fruit",
-          "parent": "fruit",
-          "members": [
-            {
-              "ref": "primitives/materials/avocado.json",
-              "slug": "avocado",
-              "kind": "material",
-              "name": "avocado"
-            },
-            {
-              "ref": "primitives/materials/banana.json",
-              "slug": "banana",
-              "kind": "material",
-              "name": "banana"
-            },
-            {
-              "ref": "primitives/materials/coconut.json",
-              "slug": "coconut",
-              "kind": "material",
-              "name": "coconut"
-            },
-            {
-              "ref": "primitives/materials/date.json",
-              "slug": "date",
-              "kind": "material",
-              "name": "date"
-            },
-            {
-              "ref": "primitives/materials/dragon-fruit.json",
-              "slug": "dragon-fruit",
-              "kind": "material",
-              "name": "dragon fruit"
-            },
-            {
-              "ref": "primitives/materials/fig.json",
-              "slug": "fig",
-              "kind": "material",
-              "name": "fig"
-            },
-            {
-              "ref": "primitives/materials/guava.json",
-              "slug": "guava",
-              "kind": "material",
-              "name": "guava"
-            },
-            {
-              "ref": "primitives/materials/kiwi.json",
-              "slug": "kiwi",
-              "kind": "material",
-              "name": "kiwi"
-            },
-            {
-              "ref": "primitives/materials/lychee.json",
-              "slug": "lychee",
-              "kind": "material",
-              "name": "lychee"
-            },
-            {
-              "ref": "primitives/materials/mango.json",
-              "slug": "mango",
-              "kind": "material",
-              "name": "mango"
-            },
-            {
-              "ref": "primitives/materials/papaya.json",
-              "slug": "papaya",
-              "kind": "material",
-              "name": "papaya"
-            },
-            {
-              "ref": "primitives/materials/passion-fruit.json",
-              "slug": "passion-fruit",
-              "kind": "material",
-              "name": "passion fruit"
-            },
-            {
-              "ref": "primitives/materials/persimmon.json",
-              "slug": "persimmon",
-              "kind": "material",
-              "name": "persimmon"
-            },
-            {
-              "ref": "primitives/materials/pineapple.json",
-              "slug": "pineapple",
-              "kind": "material",
-              "name": "pineapple"
-            },
-            {
-              "ref": "primitives/materials/pomegranate.json",
-              "slug": "pomegranate",
-              "kind": "material",
-              "name": "pomegranate"
-            }
-          ],
-          "related": [],
-          "children": []
-        }
-      ]
-    },
     "category/grinder": {
       "id": "grinder",
       "name": "grinder",
@@ -2036,6 +1706,751 @@
       "related": [],
       "children": []
     },
+    "category/produce": {
+      "id": "produce",
+      "name": "produce",
+      "parent": null,
+      "members": [],
+      "related": [],
+      "children": [
+        {
+          "id": "fruit",
+          "name": "fruit",
+          "parent": "produce",
+          "members": [],
+          "related": [],
+          "children": [
+            {
+              "id": "berry",
+              "name": "berry",
+              "parent": "fruit",
+              "members": [
+                {
+                  "ref": "primitives/materials/blackberry.json",
+                  "slug": "blackberry",
+                  "kind": "material",
+                  "name": "blackberry"
+                },
+                {
+                  "ref": "primitives/materials/blackcurrant.json",
+                  "slug": "blackcurrant",
+                  "kind": "material",
+                  "name": "blackcurrant"
+                },
+                {
+                  "ref": "primitives/materials/blueberry.json",
+                  "slug": "blueberry",
+                  "kind": "material",
+                  "name": "blueberry"
+                },
+                {
+                  "ref": "primitives/materials/cranberry.json",
+                  "slug": "cranberry",
+                  "kind": "material",
+                  "name": "cranberry"
+                },
+                {
+                  "ref": "primitives/materials/gooseberry.json",
+                  "slug": "gooseberry",
+                  "kind": "material",
+                  "name": "gooseberry"
+                },
+                {
+                  "ref": "primitives/materials/raspberry.json",
+                  "slug": "raspberry",
+                  "kind": "material",
+                  "name": "raspberry"
+                },
+                {
+                  "ref": "primitives/materials/redcurrant.json",
+                  "slug": "redcurrant",
+                  "kind": "material",
+                  "name": "redcurrant"
+                },
+                {
+                  "ref": "primitives/materials/strawberry.json",
+                  "slug": "strawberry",
+                  "kind": "material",
+                  "name": "strawberry"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
+              "id": "citrus",
+              "name": "citrus",
+              "parent": "fruit",
+              "members": [
+                {
+                  "ref": "primitives/materials/clementine.json",
+                  "slug": "clementine",
+                  "kind": "material",
+                  "name": "clementine"
+                },
+                {
+                  "ref": "primitives/materials/grapefruit.json",
+                  "slug": "grapefruit",
+                  "kind": "material",
+                  "name": "grapefruit"
+                },
+                {
+                  "ref": "primitives/materials/kumquat.json",
+                  "slug": "kumquat",
+                  "kind": "material",
+                  "name": "kumquat"
+                },
+                {
+                  "ref": "primitives/materials/lemon.json",
+                  "slug": "lemon",
+                  "kind": "material",
+                  "name": "lemon"
+                },
+                {
+                  "ref": "primitives/materials/lime.json",
+                  "slug": "lime",
+                  "kind": "material",
+                  "name": "lime"
+                },
+                {
+                  "ref": "primitives/materials/mandarin.json",
+                  "slug": "mandarin",
+                  "kind": "material",
+                  "name": "mandarin"
+                },
+                {
+                  "ref": "primitives/materials/orange.json",
+                  "slug": "orange",
+                  "kind": "material",
+                  "name": "orange"
+                },
+                {
+                  "ref": "primitives/materials/pomelo.json",
+                  "slug": "pomelo",
+                  "kind": "material",
+                  "name": "pomelo"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
+              "id": "grape",
+              "name": "grape",
+              "parent": "fruit",
+              "members": [
+                {
+                  "ref": "primitives/materials/grape.json",
+                  "slug": "grape",
+                  "kind": "material",
+                  "name": "grape"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
+              "id": "melon",
+              "name": "melon",
+              "parent": "fruit",
+              "members": [
+                {
+                  "ref": "primitives/materials/cantaloupe.json",
+                  "slug": "cantaloupe",
+                  "kind": "material",
+                  "name": "cantaloupe"
+                },
+                {
+                  "ref": "primitives/materials/honeydew.json",
+                  "slug": "honeydew",
+                  "kind": "material",
+                  "name": "honeydew"
+                },
+                {
+                  "ref": "primitives/materials/watermelon.json",
+                  "slug": "watermelon",
+                  "kind": "material",
+                  "name": "watermelon"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
+              "id": "pome-fruit",
+              "name": "pome fruit",
+              "parent": "fruit",
+              "members": [
+                {
+                  "ref": "primitives/materials/apple.json",
+                  "slug": "apple",
+                  "kind": "material",
+                  "name": "apple"
+                },
+                {
+                  "ref": "primitives/materials/pear.json",
+                  "slug": "pear",
+                  "kind": "material",
+                  "name": "pear"
+                },
+                {
+                  "ref": "primitives/materials/quince.json",
+                  "slug": "quince",
+                  "kind": "material",
+                  "name": "quince"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
+              "id": "stone-fruit",
+              "name": "stone fruit",
+              "parent": "fruit",
+              "members": [
+                {
+                  "ref": "primitives/materials/apricot.json",
+                  "slug": "apricot",
+                  "kind": "material",
+                  "name": "apricot"
+                },
+                {
+                  "ref": "primitives/materials/cherry.json",
+                  "slug": "cherry",
+                  "kind": "material",
+                  "name": "cherry"
+                },
+                {
+                  "ref": "primitives/materials/nectarine.json",
+                  "slug": "nectarine",
+                  "kind": "material",
+                  "name": "nectarine"
+                },
+                {
+                  "ref": "primitives/materials/peach.json",
+                  "slug": "peach",
+                  "kind": "material",
+                  "name": "peach"
+                },
+                {
+                  "ref": "primitives/materials/plum.json",
+                  "slug": "plum",
+                  "kind": "material",
+                  "name": "plum"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
+              "id": "tropical-fruit",
+              "name": "tropical fruit",
+              "parent": "fruit",
+              "members": [
+                {
+                  "ref": "primitives/materials/avocado.json",
+                  "slug": "avocado",
+                  "kind": "material",
+                  "name": "avocado"
+                },
+                {
+                  "ref": "primitives/materials/banana.json",
+                  "slug": "banana",
+                  "kind": "material",
+                  "name": "banana"
+                },
+                {
+                  "ref": "primitives/materials/coconut.json",
+                  "slug": "coconut",
+                  "kind": "material",
+                  "name": "coconut"
+                },
+                {
+                  "ref": "primitives/materials/date.json",
+                  "slug": "date",
+                  "kind": "material",
+                  "name": "date"
+                },
+                {
+                  "ref": "primitives/materials/dragon-fruit.json",
+                  "slug": "dragon-fruit",
+                  "kind": "material",
+                  "name": "dragon fruit"
+                },
+                {
+                  "ref": "primitives/materials/fig.json",
+                  "slug": "fig",
+                  "kind": "material",
+                  "name": "fig"
+                },
+                {
+                  "ref": "primitives/materials/guava.json",
+                  "slug": "guava",
+                  "kind": "material",
+                  "name": "guava"
+                },
+                {
+                  "ref": "primitives/materials/kiwi.json",
+                  "slug": "kiwi",
+                  "kind": "material",
+                  "name": "kiwi"
+                },
+                {
+                  "ref": "primitives/materials/lychee.json",
+                  "slug": "lychee",
+                  "kind": "material",
+                  "name": "lychee"
+                },
+                {
+                  "ref": "primitives/materials/mango.json",
+                  "slug": "mango",
+                  "kind": "material",
+                  "name": "mango"
+                },
+                {
+                  "ref": "primitives/materials/papaya.json",
+                  "slug": "papaya",
+                  "kind": "material",
+                  "name": "papaya"
+                },
+                {
+                  "ref": "primitives/materials/passion-fruit.json",
+                  "slug": "passion-fruit",
+                  "kind": "material",
+                  "name": "passion fruit"
+                },
+                {
+                  "ref": "primitives/materials/persimmon.json",
+                  "slug": "persimmon",
+                  "kind": "material",
+                  "name": "persimmon"
+                },
+                {
+                  "ref": "primitives/materials/pineapple.json",
+                  "slug": "pineapple",
+                  "kind": "material",
+                  "name": "pineapple"
+                },
+                {
+                  "ref": "primitives/materials/pomegranate.json",
+                  "slug": "pomegranate",
+                  "kind": "material",
+                  "name": "pomegranate"
+                }
+              ],
+              "related": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "vegetable",
+          "name": "vegetable",
+          "parent": "produce",
+          "members": [
+            {
+              "ref": "primitives/materials/okra.json",
+              "slug": "okra",
+              "kind": "material",
+              "name": "okra"
+            },
+            {
+              "ref": "primitives/materials/sweetcorn.json",
+              "slug": "sweetcorn",
+              "kind": "material",
+              "name": "sweetcorn"
+            }
+          ],
+          "related": [],
+          "children": [
+            {
+              "id": "allium",
+              "name": "allium",
+              "parent": "vegetable",
+              "members": [
+                {
+                  "ref": "primitives/materials/chive.json",
+                  "slug": "chive",
+                  "kind": "material",
+                  "name": "chive"
+                },
+                {
+                  "ref": "primitives/materials/garlic.json",
+                  "slug": "garlic",
+                  "kind": "material",
+                  "name": "garlic"
+                },
+                {
+                  "ref": "primitives/materials/leek.json",
+                  "slug": "leek",
+                  "kind": "material",
+                  "name": "leek"
+                },
+                {
+                  "ref": "primitives/materials/onion.json",
+                  "slug": "onion",
+                  "kind": "material",
+                  "name": "onion"
+                },
+                {
+                  "ref": "primitives/materials/scallion.json",
+                  "slug": "scallion",
+                  "kind": "material",
+                  "name": "scallion"
+                },
+                {
+                  "ref": "primitives/materials/shallot.json",
+                  "slug": "shallot",
+                  "kind": "material",
+                  "name": "shallot"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
+              "id": "brassica",
+              "name": "brassica",
+              "parent": "vegetable",
+              "members": [
+                {
+                  "ref": "primitives/materials/bok-choy.json",
+                  "slug": "bok-choy",
+                  "kind": "material",
+                  "name": "bok choy"
+                },
+                {
+                  "ref": "primitives/materials/broccoli.json",
+                  "slug": "broccoli",
+                  "kind": "material",
+                  "name": "broccoli"
+                },
+                {
+                  "ref": "primitives/materials/brussels-sprouts.json",
+                  "slug": "brussels-sprouts",
+                  "kind": "material",
+                  "name": "brussels sprouts"
+                },
+                {
+                  "ref": "primitives/materials/cabbage.json",
+                  "slug": "cabbage",
+                  "kind": "material",
+                  "name": "cabbage"
+                },
+                {
+                  "ref": "primitives/materials/cauliflower.json",
+                  "slug": "cauliflower",
+                  "kind": "material",
+                  "name": "cauliflower"
+                },
+                {
+                  "ref": "primitives/materials/kohlrabi.json",
+                  "slug": "kohlrabi",
+                  "kind": "material",
+                  "name": "kohlrabi"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
+              "id": "leafy-green",
+              "name": "leafy green",
+              "parent": "vegetable",
+              "members": [
+                {
+                  "ref": "primitives/materials/arugula.json",
+                  "slug": "arugula",
+                  "kind": "material",
+                  "name": "arugula"
+                },
+                {
+                  "ref": "primitives/materials/endive.json",
+                  "slug": "endive",
+                  "kind": "material",
+                  "name": "endive"
+                },
+                {
+                  "ref": "primitives/materials/kale.json",
+                  "slug": "kale",
+                  "kind": "material",
+                  "name": "kale"
+                },
+                {
+                  "ref": "primitives/materials/lettuce.json",
+                  "slug": "lettuce",
+                  "kind": "material",
+                  "name": "lettuce"
+                },
+                {
+                  "ref": "primitives/materials/romaine.json",
+                  "slug": "romaine",
+                  "kind": "material",
+                  "name": "romaine"
+                },
+                {
+                  "ref": "primitives/materials/spinach.json",
+                  "slug": "spinach",
+                  "kind": "material",
+                  "name": "spinach"
+                },
+                {
+                  "ref": "primitives/materials/swiss-chard.json",
+                  "slug": "swiss-chard",
+                  "kind": "material",
+                  "name": "swiss chard"
+                },
+                {
+                  "ref": "primitives/materials/watercress.json",
+                  "slug": "watercress",
+                  "kind": "material",
+                  "name": "watercress"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
+              "id": "legume",
+              "name": "legume",
+              "parent": "vegetable",
+              "members": [
+                {
+                  "ref": "primitives/materials/chickpea.json",
+                  "slug": "chickpea",
+                  "kind": "material",
+                  "name": "chickpea"
+                },
+                {
+                  "ref": "primitives/materials/edamame.json",
+                  "slug": "edamame",
+                  "kind": "material",
+                  "name": "edamame"
+                },
+                {
+                  "ref": "primitives/materials/fava-bean.json",
+                  "slug": "fava-bean",
+                  "kind": "material",
+                  "name": "fava bean"
+                },
+                {
+                  "ref": "primitives/materials/green-bean.json",
+                  "slug": "green-bean",
+                  "kind": "material",
+                  "name": "green bean"
+                },
+                {
+                  "ref": "primitives/materials/lentil.json",
+                  "slug": "lentil",
+                  "kind": "material",
+                  "name": "lentil"
+                },
+                {
+                  "ref": "primitives/materials/pea.json",
+                  "slug": "pea",
+                  "kind": "material",
+                  "name": "pea"
+                },
+                {
+                  "ref": "primitives/materials/snap-pea.json",
+                  "slug": "snap-pea",
+                  "kind": "material",
+                  "name": "snap pea"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
+              "id": "nightshade",
+              "name": "nightshade",
+              "parent": "vegetable",
+              "members": [
+                {
+                  "ref": "primitives/materials/bell-pepper.json",
+                  "slug": "bell-pepper",
+                  "kind": "material",
+                  "name": "bell pepper"
+                },
+                {
+                  "ref": "primitives/materials/chili-pepper.json",
+                  "slug": "chili-pepper",
+                  "kind": "material",
+                  "name": "chili pepper"
+                },
+                {
+                  "ref": "primitives/materials/eggplant.json",
+                  "slug": "eggplant",
+                  "kind": "material",
+                  "name": "eggplant"
+                },
+                {
+                  "ref": "primitives/materials/tomato.json",
+                  "slug": "tomato",
+                  "kind": "material",
+                  "name": "tomato"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
+              "id": "root-vegetable",
+              "name": "root vegetable",
+              "parent": "vegetable",
+              "members": [
+                {
+                  "ref": "primitives/materials/beetroot.json",
+                  "slug": "beetroot",
+                  "kind": "material",
+                  "name": "beetroot"
+                },
+                {
+                  "ref": "primitives/materials/carrot.json",
+                  "slug": "carrot",
+                  "kind": "material",
+                  "name": "carrot"
+                },
+                {
+                  "ref": "primitives/materials/celeriac.json",
+                  "slug": "celeriac",
+                  "kind": "material",
+                  "name": "celeriac"
+                },
+                {
+                  "ref": "primitives/materials/ginger.json",
+                  "slug": "ginger",
+                  "kind": "material",
+                  "name": "ginger"
+                },
+                {
+                  "ref": "primitives/materials/horseradish.json",
+                  "slug": "horseradish",
+                  "kind": "material",
+                  "name": "horseradish"
+                },
+                {
+                  "ref": "primitives/materials/parsnip.json",
+                  "slug": "parsnip",
+                  "kind": "material",
+                  "name": "parsnip"
+                },
+                {
+                  "ref": "primitives/materials/potato.json",
+                  "slug": "potato",
+                  "kind": "material",
+                  "name": "potato"
+                },
+                {
+                  "ref": "primitives/materials/radish.json",
+                  "slug": "radish",
+                  "kind": "material",
+                  "name": "radish"
+                },
+                {
+                  "ref": "primitives/materials/rutabaga.json",
+                  "slug": "rutabaga",
+                  "kind": "material",
+                  "name": "rutabaga"
+                },
+                {
+                  "ref": "primitives/materials/sweet-potato.json",
+                  "slug": "sweet-potato",
+                  "kind": "material",
+                  "name": "sweet potato"
+                },
+                {
+                  "ref": "primitives/materials/turnip.json",
+                  "slug": "turnip",
+                  "kind": "material",
+                  "name": "turnip"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
+              "id": "squash",
+              "name": "squash",
+              "parent": "vegetable",
+              "members": [
+                {
+                  "ref": "primitives/materials/acorn-squash.json",
+                  "slug": "acorn-squash",
+                  "kind": "material",
+                  "name": "acorn squash"
+                },
+                {
+                  "ref": "primitives/materials/butternut-squash.json",
+                  "slug": "butternut-squash",
+                  "kind": "material",
+                  "name": "butternut squash"
+                },
+                {
+                  "ref": "primitives/materials/cucumber.json",
+                  "slug": "cucumber",
+                  "kind": "material",
+                  "name": "cucumber"
+                },
+                {
+                  "ref": "primitives/materials/pumpkin.json",
+                  "slug": "pumpkin",
+                  "kind": "material",
+                  "name": "pumpkin"
+                },
+                {
+                  "ref": "primitives/materials/zucchini.json",
+                  "slug": "zucchini",
+                  "kind": "material",
+                  "name": "zucchini"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
+              "id": "stem-vegetable",
+              "name": "stem vegetable",
+              "parent": "vegetable",
+              "members": [
+                {
+                  "ref": "primitives/materials/artichoke.json",
+                  "slug": "artichoke",
+                  "kind": "material",
+                  "name": "artichoke"
+                },
+                {
+                  "ref": "primitives/materials/asparagus.json",
+                  "slug": "asparagus",
+                  "kind": "material",
+                  "name": "asparagus"
+                },
+                {
+                  "ref": "primitives/materials/celery.json",
+                  "slug": "celery",
+                  "kind": "material",
+                  "name": "celery"
+                },
+                {
+                  "ref": "primitives/materials/fennel.json",
+                  "slug": "fennel",
+                  "kind": "material",
+                  "name": "fennel"
+                },
+                {
+                  "ref": "primitives/materials/rhubarb.json",
+                  "slug": "rhubarb",
+                  "kind": "material",
+                  "name": "rhubarb"
+                }
+              ],
+              "related": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
     "category/punching-tool": {
       "id": "punching-tool",
       "name": "punching tool",
@@ -2282,412 +2697,6 @@
       ],
       "related": [],
       "children": []
-    },
-    "category/vegetable": {
-      "id": "vegetable",
-      "name": "vegetable",
-      "parent": null,
-      "members": [
-        {
-          "ref": "primitives/materials/okra.json",
-          "slug": "okra",
-          "kind": "material",
-          "name": "okra"
-        },
-        {
-          "ref": "primitives/materials/sweetcorn.json",
-          "slug": "sweetcorn",
-          "kind": "material",
-          "name": "sweetcorn"
-        }
-      ],
-      "related": [],
-      "children": [
-        {
-          "id": "allium",
-          "name": "allium",
-          "parent": "vegetable",
-          "members": [
-            {
-              "ref": "primitives/materials/chive.json",
-              "slug": "chive",
-              "kind": "material",
-              "name": "chive"
-            },
-            {
-              "ref": "primitives/materials/garlic.json",
-              "slug": "garlic",
-              "kind": "material",
-              "name": "garlic"
-            },
-            {
-              "ref": "primitives/materials/leek.json",
-              "slug": "leek",
-              "kind": "material",
-              "name": "leek"
-            },
-            {
-              "ref": "primitives/materials/onion.json",
-              "slug": "onion",
-              "kind": "material",
-              "name": "onion"
-            },
-            {
-              "ref": "primitives/materials/scallion.json",
-              "slug": "scallion",
-              "kind": "material",
-              "name": "scallion"
-            },
-            {
-              "ref": "primitives/materials/shallot.json",
-              "slug": "shallot",
-              "kind": "material",
-              "name": "shallot"
-            }
-          ],
-          "related": [],
-          "children": []
-        },
-        {
-          "id": "brassica",
-          "name": "brassica",
-          "parent": "vegetable",
-          "members": [
-            {
-              "ref": "primitives/materials/bok-choy.json",
-              "slug": "bok-choy",
-              "kind": "material",
-              "name": "bok choy"
-            },
-            {
-              "ref": "primitives/materials/broccoli.json",
-              "slug": "broccoli",
-              "kind": "material",
-              "name": "broccoli"
-            },
-            {
-              "ref": "primitives/materials/brussels-sprouts.json",
-              "slug": "brussels-sprouts",
-              "kind": "material",
-              "name": "brussels sprouts"
-            },
-            {
-              "ref": "primitives/materials/cabbage.json",
-              "slug": "cabbage",
-              "kind": "material",
-              "name": "cabbage"
-            },
-            {
-              "ref": "primitives/materials/cauliflower.json",
-              "slug": "cauliflower",
-              "kind": "material",
-              "name": "cauliflower"
-            },
-            {
-              "ref": "primitives/materials/kohlrabi.json",
-              "slug": "kohlrabi",
-              "kind": "material",
-              "name": "kohlrabi"
-            }
-          ],
-          "related": [],
-          "children": []
-        },
-        {
-          "id": "leafy-green",
-          "name": "leafy green",
-          "parent": "vegetable",
-          "members": [
-            {
-              "ref": "primitives/materials/arugula.json",
-              "slug": "arugula",
-              "kind": "material",
-              "name": "arugula"
-            },
-            {
-              "ref": "primitives/materials/endive.json",
-              "slug": "endive",
-              "kind": "material",
-              "name": "endive"
-            },
-            {
-              "ref": "primitives/materials/kale.json",
-              "slug": "kale",
-              "kind": "material",
-              "name": "kale"
-            },
-            {
-              "ref": "primitives/materials/lettuce.json",
-              "slug": "lettuce",
-              "kind": "material",
-              "name": "lettuce"
-            },
-            {
-              "ref": "primitives/materials/romaine.json",
-              "slug": "romaine",
-              "kind": "material",
-              "name": "romaine"
-            },
-            {
-              "ref": "primitives/materials/spinach.json",
-              "slug": "spinach",
-              "kind": "material",
-              "name": "spinach"
-            },
-            {
-              "ref": "primitives/materials/swiss-chard.json",
-              "slug": "swiss-chard",
-              "kind": "material",
-              "name": "swiss chard"
-            },
-            {
-              "ref": "primitives/materials/watercress.json",
-              "slug": "watercress",
-              "kind": "material",
-              "name": "watercress"
-            }
-          ],
-          "related": [],
-          "children": []
-        },
-        {
-          "id": "legume",
-          "name": "legume",
-          "parent": "vegetable",
-          "members": [
-            {
-              "ref": "primitives/materials/chickpea.json",
-              "slug": "chickpea",
-              "kind": "material",
-              "name": "chickpea"
-            },
-            {
-              "ref": "primitives/materials/edamame.json",
-              "slug": "edamame",
-              "kind": "material",
-              "name": "edamame"
-            },
-            {
-              "ref": "primitives/materials/fava-bean.json",
-              "slug": "fava-bean",
-              "kind": "material",
-              "name": "fava bean"
-            },
-            {
-              "ref": "primitives/materials/green-bean.json",
-              "slug": "green-bean",
-              "kind": "material",
-              "name": "green bean"
-            },
-            {
-              "ref": "primitives/materials/lentil.json",
-              "slug": "lentil",
-              "kind": "material",
-              "name": "lentil"
-            },
-            {
-              "ref": "primitives/materials/pea.json",
-              "slug": "pea",
-              "kind": "material",
-              "name": "pea"
-            },
-            {
-              "ref": "primitives/materials/snap-pea.json",
-              "slug": "snap-pea",
-              "kind": "material",
-              "name": "snap pea"
-            }
-          ],
-          "related": [],
-          "children": []
-        },
-        {
-          "id": "nightshade",
-          "name": "nightshade",
-          "parent": "vegetable",
-          "members": [
-            {
-              "ref": "primitives/materials/bell-pepper.json",
-              "slug": "bell-pepper",
-              "kind": "material",
-              "name": "bell pepper"
-            },
-            {
-              "ref": "primitives/materials/chili-pepper.json",
-              "slug": "chili-pepper",
-              "kind": "material",
-              "name": "chili pepper"
-            },
-            {
-              "ref": "primitives/materials/eggplant.json",
-              "slug": "eggplant",
-              "kind": "material",
-              "name": "eggplant"
-            },
-            {
-              "ref": "primitives/materials/tomato.json",
-              "slug": "tomato",
-              "kind": "material",
-              "name": "tomato"
-            }
-          ],
-          "related": [],
-          "children": []
-        },
-        {
-          "id": "root-vegetable",
-          "name": "root vegetable",
-          "parent": "vegetable",
-          "members": [
-            {
-              "ref": "primitives/materials/beetroot.json",
-              "slug": "beetroot",
-              "kind": "material",
-              "name": "beetroot"
-            },
-            {
-              "ref": "primitives/materials/carrot.json",
-              "slug": "carrot",
-              "kind": "material",
-              "name": "carrot"
-            },
-            {
-              "ref": "primitives/materials/celeriac.json",
-              "slug": "celeriac",
-              "kind": "material",
-              "name": "celeriac"
-            },
-            {
-              "ref": "primitives/materials/ginger.json",
-              "slug": "ginger",
-              "kind": "material",
-              "name": "ginger"
-            },
-            {
-              "ref": "primitives/materials/horseradish.json",
-              "slug": "horseradish",
-              "kind": "material",
-              "name": "horseradish"
-            },
-            {
-              "ref": "primitives/materials/parsnip.json",
-              "slug": "parsnip",
-              "kind": "material",
-              "name": "parsnip"
-            },
-            {
-              "ref": "primitives/materials/potato.json",
-              "slug": "potato",
-              "kind": "material",
-              "name": "potato"
-            },
-            {
-              "ref": "primitives/materials/radish.json",
-              "slug": "radish",
-              "kind": "material",
-              "name": "radish"
-            },
-            {
-              "ref": "primitives/materials/rutabaga.json",
-              "slug": "rutabaga",
-              "kind": "material",
-              "name": "rutabaga"
-            },
-            {
-              "ref": "primitives/materials/sweet-potato.json",
-              "slug": "sweet-potato",
-              "kind": "material",
-              "name": "sweet potato"
-            },
-            {
-              "ref": "primitives/materials/turnip.json",
-              "slug": "turnip",
-              "kind": "material",
-              "name": "turnip"
-            }
-          ],
-          "related": [],
-          "children": []
-        },
-        {
-          "id": "squash",
-          "name": "squash",
-          "parent": "vegetable",
-          "members": [
-            {
-              "ref": "primitives/materials/acorn-squash.json",
-              "slug": "acorn-squash",
-              "kind": "material",
-              "name": "acorn squash"
-            },
-            {
-              "ref": "primitives/materials/butternut-squash.json",
-              "slug": "butternut-squash",
-              "kind": "material",
-              "name": "butternut squash"
-            },
-            {
-              "ref": "primitives/materials/cucumber.json",
-              "slug": "cucumber",
-              "kind": "material",
-              "name": "cucumber"
-            },
-            {
-              "ref": "primitives/materials/pumpkin.json",
-              "slug": "pumpkin",
-              "kind": "material",
-              "name": "pumpkin"
-            },
-            {
-              "ref": "primitives/materials/zucchini.json",
-              "slug": "zucchini",
-              "kind": "material",
-              "name": "zucchini"
-            }
-          ],
-          "related": [],
-          "children": []
-        },
-        {
-          "id": "stem-vegetable",
-          "name": "stem vegetable",
-          "parent": "vegetable",
-          "members": [
-            {
-              "ref": "primitives/materials/artichoke.json",
-              "slug": "artichoke",
-              "kind": "material",
-              "name": "artichoke"
-            },
-            {
-              "ref": "primitives/materials/asparagus.json",
-              "slug": "asparagus",
-              "kind": "material",
-              "name": "asparagus"
-            },
-            {
-              "ref": "primitives/materials/celery.json",
-              "slug": "celery",
-              "kind": "material",
-              "name": "celery"
-            },
-            {
-              "ref": "primitives/materials/fennel.json",
-              "slug": "fennel",
-              "kind": "material",
-              "name": "fennel"
-            },
-            {
-              "ref": "primitives/materials/rhubarb.json",
-              "slug": "rhubarb",
-              "kind": "material",
-              "name": "rhubarb"
-            }
-          ],
-          "related": [],
-          "children": []
-        }
-      ]
     },
     "category/vessel": {
       "id": "vessel",

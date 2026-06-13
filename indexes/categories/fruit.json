@@ -15,5 +15,6 @@
     "it": [
       "frutta"
     ]
-  }
+  },
+  "specializes": "produce"
 }

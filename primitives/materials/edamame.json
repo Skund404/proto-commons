@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:a1907db82f0b5861c2cf78db371a55c58c13063eb30a0cbef0c7b529d43645dc",
+  "content_hash": "sha256:11026b3d24fe7ee524f968a6119644640bf4c1d3af01f5f5007a1d2e8d343f10",
   "created": "2026-05-31",
   "description": "Young green soybeans, boiled or steamed in the pod; nutty and protein-rich.",
   "emitter": "opg://commons-seed",
@@ -38,6 +38,7 @@
   },
   "slug": "edamame",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "legume"

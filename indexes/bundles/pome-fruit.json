@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:299d57a9decb6796c6adf90edbc0cccc6760283c1421c5cbfe00d2caeebbf82e",
+  "content_hash": "sha256:bf775c600515dea04e26c4e65bc8d6f774c3f1405e0c10c3dc40796db71a68d4",
   "description": {
     "en": "A catalogue of common pome fruit in the commons."
   },
@@ -7,21 +7,21 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:0d09986f23be3dc47df5903c54e0d84f3ec52aae08ae1825796ae788469757bf",
+      "hash": "sha256:2f0cf3ca1ec937aa20598a5e054fc812259d126e4de0d7dd27124e3845d23e6e",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "apple"
     },
     {
-      "hash": "sha256:b9cb0ac3d86a5f6f9faf9fd315f0bc9828aceb014c2887bd6332e3ffae39276a",
+      "hash": "sha256:c3aa60e56a4fd131f48e0ffd3f9b3af1d77b211246f0a34845e96cca15311caf",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "pear"
     },
     {
-      "hash": "sha256:a7999a1636dba2441d4cacbdbe2f1eccf83a695f00fc4d2c34e073e504bf936b",
+      "hash": "sha256:0c8d0cbececf9b1abd8ed670e4e45a036c76fb7283efcc42d256f5833d56f568",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
@@ -44,6 +44,7 @@
   "state": "open",
   "successors": [],
   "tags": [
+    "cooking-and-baking",
     "produce",
     "catalogue"
   ]

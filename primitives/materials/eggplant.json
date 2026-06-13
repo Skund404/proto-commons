@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:fd8f7c2f5cca716ccc2ef72746f3244d82ec6bcb3971b1197ed1bbc799707caa",
+  "content_hash": "sha256:53ea24d000a389ad81f6433d1776ed40b7a5c808714fcab3f9e0ba348234f49e",
   "created": "2026-05-31",
   "description": "Spongy-fleshed nightshade fruit; grilled, roasted, fried, or stewed.",
   "emitter": "opg://commons-seed",
@@ -36,6 +36,7 @@
   },
   "slug": "eggplant",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "nightshade"

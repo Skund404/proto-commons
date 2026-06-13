@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:20b3f066e2e089d9f762b31a9107d9f4aab698e8b60c27e3b04cb96a788ffcab",
+  "content_hash": "sha256:d5e7ca7c88dca395e6aff4418f868785f423d053f5b4e90c401b33ab207c0923",
   "created": "2026-05-31",
   "description": "Rich, buttery-fleshed fruit with a large stone; eaten as a savoury vegetable.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "avocado",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "fruit",
     "tropical-fruit"

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:2ec44678cfa57b6a8d17096f60f677de30427bc15235b149be619bdf99c53279",
+  "content_hash": "sha256:052aa7172931b5ec7f899eccc416863f35af4b7303ae467ece44e405aa3f7cfa",
   "created": "2026-05-31",
   "description": "Crisp, peppery root eaten raw; ranges from small red globes to large white daikon.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "radish",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "root-vegetable"

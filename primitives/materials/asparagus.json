@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:08de0b3df86b6d4aca676970438e179cccd3b1302a00d00b1c61e3f78346daa0",
+  "content_hash": "sha256:414a793ce6e09631ebaef143321f832a495ed09efcdc416d496c5d9477bb353c",
   "created": "2026-05-31",
   "description": "Tender young spear, green or white; steamed, roasted, or grilled.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "asparagus",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "stem-vegetable"

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:b951440673ebdf5c6a1f6c650012aba8f7e7060fe78b7b70787a28c827d3d363",
+  "content_hash": "sha256:83d8e6dbbfecd143ac1a90a1277635215ca816a87af50515e0021f36af398050",
   "created": "2026-05-31",
   "description": "Large tropical fruit with sweet-tart, fibrous yellow flesh and a spiny rind.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "pineapple",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "fruit",
     "tropical-fruit"

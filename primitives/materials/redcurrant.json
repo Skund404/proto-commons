@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:ed883125c2ceb7f35c633ee887906e67a2e3971b2a7cd0ac3254306d39c3f9cd",
+  "content_hash": "sha256:7b4130bdd2f0d42971bd0a7f778d69b3e910de6a12548a47cc01528cebc8e2c3",
   "created": "2026-05-31",
   "description": "Tiny, translucent, very tart red berry borne in strings; used in jellies and garnishes.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "redcurrant",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "fruit",
     "berry"

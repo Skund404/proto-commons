@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:765d67c834f0d3ac357933ac6c80f4878aa8d9c963db5ac31b96f4ac76320f2a",
+  "content_hash": "sha256:5bb346fd372739aff2104920951f4d09522b9e011300fe5f7e5b4999db12b5a7",
   "description": {
     "en": "A catalogue of common citrus fruit in the commons."
   },
@@ -7,56 +7,56 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:2dded5cc15afe4e53b0807ef2ecb6a1a472d601d540804087904bfacd3b48d7a",
+      "hash": "sha256:c16ef4f34f87d36a877b9abc6518ae2c4f2b489042c7d49897c5828e5d5083e6",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "orange"
     },
     {
-      "hash": "sha256:83a411b9a2ca8d06aae7a562bf7fec05f7f4adf3bb3b776e3190a38273a3c04a",
+      "hash": "sha256:8dbe8d79e422df11857d5913d0920615021536403eec676e07897233b7757476",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "lemon"
     },
     {
-      "hash": "sha256:3805ba2e592ed02ad6f381eda0edeeb14e75d5562531be44c1f35c349d687fa0",
+      "hash": "sha256:f6a9c16d29d6e40f529d2eed1d4671f43572eb64a41bdf25d291cbfd6f700656",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "lime"
     },
     {
-      "hash": "sha256:c64f773f919ba752122064543ae1a0103f80925a6f49dcb34c9c66a46b9523de",
+      "hash": "sha256:252141e04469aeae7626b0d84f0df9184e83c1464e9b0193c4b54a4d250db5a5",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "grapefruit"
     },
     {
-      "hash": "sha256:e37520adc7443caabe6d455cb61305674a0e14cb5e6bf5b195c2f264288bcb75",
+      "hash": "sha256:4fd2992b1c9ffc00eb2c5fb8c83bf2879a612d970528d0123c25368e5caac75d",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "mandarin"
     },
     {
-      "hash": "sha256:48f2d8e595827bbbc2661186ffbc64484597926d9db82401d097d718b850c2d9",
+      "hash": "sha256:205f7ca6d82b0b497f081b040612acd8e85c3769fba8919d0ee91cbfb4f8d6ce",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "clementine"
     },
     {
-      "hash": "sha256:cbed5e062e9888ff50edd97cdf8ad44ac9c1a1ff53a573c3cf040da7c1020ede",
+      "hash": "sha256:ee0378ce81dd3893cf8ae881567e05cd5380ef11fb044ec3f1836e96f7f24622",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
       "slug": "pomelo"
     },
     {
-      "hash": "sha256:da72c9a5e85c47ca621181a2a3754b1b0b6d320594a8238a1fba8ce5a944e67a",
+      "hash": "sha256:aad8738038f01a74d4f0746a9c488cfd1ffed1031457a15fc9bd8af0e217d725",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
@@ -79,6 +79,7 @@
   "state": "open",
   "successors": [],
   "tags": [
+    "cooking-and-baking",
     "produce",
     "catalogue"
   ]

@@ -15,5 +15,6 @@
       "verdura",
       "ortaggio"
     ]
-  }
+  },
+  "specializes": "produce"
 }

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:7bcb91f80a7300a19b2ef6535ee55447974d432b6ebf192f8e8e028177cbd095",
+  "content_hash": "sha256:b4a05db52cb1c250cc7fdf28a9ec6ca56350ee4f55582dfc3a2173124ed1c88e",
   "created": "2026-05-31",
   "description": "Dark, glossy aggregate berry, sweet with a tart edge; grows on brambles.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "blackberry",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "fruit",
     "berry"

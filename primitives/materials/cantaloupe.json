@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:cc7968721067bd96bbba064e251245ae64a13a12c359fc96455a2848c5c84900",
+  "content_hash": "sha256:2014a685abb014394f82c88837bb26e7d8b671b7414588977e063e1cbbba2725",
   "created": "2026-05-31",
   "description": "Aromatic muskmelon with netted rind and sweet orange flesh.",
   "emitter": "opg://commons-seed",
@@ -37,6 +37,7 @@
   },
   "slug": "cantaloupe",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "fruit",
     "melon"

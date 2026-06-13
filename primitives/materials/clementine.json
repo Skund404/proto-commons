@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:48f2d8e595827bbbc2661186ffbc64484597926d9db82401d097d718b850c2d9",
+  "content_hash": "sha256:205f7ca6d82b0b497f081b040612acd8e85c3769fba8919d0ee91cbfb4f8d6ce",
   "created": "2026-05-31",
   "description": "Seedless mandarin hybrid; sweet, juicy and easy to peel, popular in winter.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "clementine",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "fruit",
     "citrus"

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:fd18bffc5b3e21ad166bbf3404d53687ee918fe02fdae98a7719bad79e88893a",
+  "content_hash": "sha256:0b9c5b7f201068e845079ac1eeae00c1cb0cb8e94d4b4d4462614a9fc0a39f6e",
   "description": {
     "en": "A catalogue of common grapes in the commons."
   },
@@ -7,7 +7,7 @@
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:8ed549f8ba60bf3ac521629b2bb2c2c174c05f30a7696e2c8889dfde64071172",
+      "hash": "sha256:339e5afeff6d9552e9b21003423430f031c7c7e9ba4ecb7678d20e81fd83fd0d",
       "kind": "material",
       "record_class": "primitive",
       "role": "optional",
@@ -30,6 +30,7 @@
   "state": "open",
   "successors": [],
   "tags": [
+    "cooking-and-baking",
     "produce",
     "catalogue"
   ]

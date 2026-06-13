@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:8ed549f8ba60bf3ac521629b2bb2c2c174c05f30a7696e2c8889dfde64071172",
+  "content_hash": "sha256:339e5afeff6d9552e9b21003423430f031c7c7e9ba4ecb7678d20e81fd83fd0d",
   "created": "2026-05-31",
   "description": "Juicy vine fruit borne in clusters; eaten fresh, dried (raisin), or pressed for wine.",
   "emitter": "opg://commons-seed",
@@ -35,6 +35,7 @@
   },
   "slug": "grape",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "fruit",
     "grape"

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:fb83152dc68e6603f96cf0077193dc4da769780504063078f6973170bbeca848",
+  "content_hash": "sha256:1b9015cdba6773e1f5d42d082f3184470b5273c5e8ca2e17e81789fb5b295993",
   "created": "2026-05-31",
   "description": "Crisp anise-flavoured bulb; eaten raw shaved or braised and roasted.",
   "emitter": "opg://commons-seed",
@@ -34,6 +34,7 @@
   },
   "slug": "fennel",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "vegetable",
     "stem-vegetable"

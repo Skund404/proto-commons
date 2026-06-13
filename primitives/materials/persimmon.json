@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:ac56f1ed8f775a86b2e7924a228339c0555cbc89fe2dbede7c985edb6f83a706",
+  "content_hash": "sha256:84a36c4388594f511093c84a2f825c949383e3dff79e7a58ff7afb5f634e4296",
   "created": "2026-05-31",
   "description": "Glossy orange autumn fruit, honey-sweet when ripe, astringent when not.",
   "emitter": "opg://commons-seed",
@@ -36,6 +36,7 @@
   },
   "slug": "persimmon",
   "tags": [
+    "cooking-and-baking",
     "produce",
     "fruit",
     "tropical-fruit"
