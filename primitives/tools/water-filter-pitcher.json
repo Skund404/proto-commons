@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:d0e5b407c221c98b83dac9b1a9b6859e4bc4ffcaf3505d4646df584071895fb3",
+  "created": "2026-06-13",
+  "description": "A jug that filters tap water through a cartridge to reduce chlorine and hardness before brewing, a simple first step toward better-tasting water.",
+  "emitter": "opg://commons-seed",
+  "id": "water-filter-pitcher-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "water filter pitcher",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "water",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "water filter pitcher"
+      ]
+    },
+    "taxonomy": "water-tool"
+  },
+  "slug": "water-filter-pitcher",
+  "tags": [
+    "coffee",
+    "water",
+    "water-tool"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,11 @@
+{
+  "format_version": "1.0",
+  "id": "pour-over-brewer",
+  "names": {
+    "en": [
+      "pour-over brewer",
+      "dripper"
+    ]
+  },
+  "specializes": "brewer"
+}

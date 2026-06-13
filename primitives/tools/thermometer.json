@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:79f940c466326254d13045224dc7b0da21f4b94e405bbff96bf9bea764169bee",
+  "created": "2026-06-13",
+  "description": "A probe or readout for checking water temperature at the pour when the kettle has no readout of its own.",
+  "emitter": "opg://commons-seed",
+  "id": "thermometer-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "thermometer",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "accessory",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "thermometer"
+      ]
+    },
+    "taxonomy": "brewing-accessory"
+  },
+  "slug": "thermometer",
+  "tags": [
+    "coffee",
+    "accessory",
+    "brewing-accessory"
+  ],
+  "visibility": "commons"
+}

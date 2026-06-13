@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:7291330e7da309a60f26ab6cfcf4ec5aca6706339b0302cdca45d9c5c4a01779",
+  "created": "2026-06-13",
+  "description": "The Chemex is a one-piece hourglass carafe that brews through its own thick bonded paper filter, giving an exceptionally clean, bright cup. A mid-century design made in Massachusetts. See [Chemex Classic](https://chemexcoffeemaker.com).",
+  "emitter": "opg://commons-seed",
+  "id": "chemex-classic-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Chemex Classic",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Chemex Corporation",
+    "model": "Classic Series",
+    "names": {
+      "en": [
+        "Chemex Classic"
+      ]
+    },
+    "origin": "USA",
+    "sourceUrl": "https://chemexcoffeemaker.com",
+    "taxonomy": "pour-over-brewer"
+  },
+  "slug": "chemex-classic",
+  "tags": [
+    "coffee",
+    "brewing",
+    "pour-over-brewer",
+    "brand"
+  ],
+  "visibility": "commons"
+}

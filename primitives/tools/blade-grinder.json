@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:8f30b4c63d6dc3f65f4dfe65c99f9c842b3c717c695755c4fdb93b460223e55a",
+  "created": "2026-06-13",
+  "description": "A spinning-blade chopper that cuts beans unevenly into a mix of dust and chunks. Cheap and common, but it cannot grind evenly, so a burr grinder is preferred for any careful brew.",
+  "emitter": "opg://commons-seed",
+  "id": "blade-grinder-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "blade grinder",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "grinding",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "blade grinder"
+      ]
+    },
+    "taxonomy": "electric-grinder"
+  },
+  "slug": "blade-grinder",
+  "tags": [
+    "coffee",
+    "grinding",
+    "electric-grinder"
+  ],
+  "visibility": "commons"
+}

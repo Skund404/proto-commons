@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:237466d617bde7a115fef8dbeead0c071f8fa8a855ad2019d3732d3c50dd682d",
+  "created": "2026-06-13",
+  "description": "The Fellow Ode Gen 2 is a single-dose electric brew grinder with 64 mm flat burrs, tuned for filter methods and a quiet, low-retention workflow. See [Fellow Ode Gen 2](https://fellowproducts.com).",
+  "emitter": "opg://commons-seed",
+  "id": "fellow-ode-gen2-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Fellow Ode Gen 2",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "grinding",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Fellow",
+    "model": "Ode Gen 2",
+    "names": {
+      "en": [
+        "Fellow Ode Gen 2"
+      ]
+    },
+    "origin": "USA",
+    "sourceUrl": "https://fellowproducts.com",
+    "taxonomy": "electric-grinder"
+  },
+  "slug": "fellow-ode-gen2",
+  "tags": [
+    "coffee",
+    "grinding",
+    "electric-grinder",
+    "brand"
+  ],
+  "visibility": "commons"
+}

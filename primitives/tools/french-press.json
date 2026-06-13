@@ -1,0 +1,35 @@
+{
+  "content_hash": "sha256:631a14240938e496a92fcd91cb00b8a85db2ebdb26729a06231fe34744c98523",
+  "created": "2026-06-13",
+  "description": "A tall beaker with a mesh plunger. Grounds steep fully in the water, then the plunger traps them at the bottom for a heavy, full-bodied cup with some sediment.",
+  "emitter": "opg://commons-seed",
+  "id": "french-press-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "French press",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "French press",
+        "press pot",
+        "cafetiere"
+      ]
+    },
+    "taxonomy": "immersion-brewer"
+  },
+  "slug": "french-press",
+  "tags": [
+    "coffee",
+    "brewing",
+    "immersion-brewer"
+  ],
+  "visibility": "commons"
+}

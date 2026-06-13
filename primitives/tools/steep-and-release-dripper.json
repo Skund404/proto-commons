@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:3b864b3b6277d627c187a61044b9059b154f8b2da64d9c9331a979217dc460a2",
+  "created": "2026-06-13",
+  "description": "A dripper with a valve in the base: grounds steep like immersion, then you open the valve to release the brew through a paper filter, combining body with a clean finish.",
+  "emitter": "opg://commons-seed",
+  "id": "steep-and-release-dripper-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "steep-and-release dripper",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "steep-and-release dripper",
+        "switch dripper"
+      ]
+    },
+    "taxonomy": "steep-and-release-brewer"
+  },
+  "slug": "steep-and-release-dripper",
+  "tags": [
+    "coffee",
+    "brewing",
+    "steep-and-release-brewer"
+  ],
+  "visibility": "commons"
+}

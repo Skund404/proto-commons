@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:576dd201785b811ff9b2883b0db84d34089fe87ae35833ab3b7c4ebcc2789453",
+  "created": "2026-06-13",
+  "description": "A stovetop pot that pushes water up through a basket of grounds under steam pressure, producing a strong, concentrated coffee between drip and espresso.",
+  "emitter": "opg://commons-seed",
+  "id": "moka-pot-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "moka pot",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "moka pot",
+        "stovetop espresso maker"
+      ]
+    },
+    "taxonomy": "moka-pot"
+  },
+  "slug": "moka-pot",
+  "tags": [
+    "coffee",
+    "brewing",
+    "moka-pot"
+  ],
+  "visibility": "commons"
+}

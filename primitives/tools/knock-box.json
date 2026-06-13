@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:6e6dafc1f0cf11767b0f8406eb525e2eef10257a5176add7d00c7044950b9801",
+  "created": "2026-06-13",
+  "description": "A box with a padded bar to knock the spent puck out of the portafilter between shots.",
+  "emitter": "opg://commons-seed",
+  "id": "knock-box-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "knock box",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "accessory",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "knock box"
+      ]
+    },
+    "taxonomy": "brewing-accessory"
+  },
+  "slug": "knock-box",
+  "tags": [
+    "coffee",
+    "accessory",
+    "brewing-accessory"
+  ],
+  "visibility": "commons"
+}

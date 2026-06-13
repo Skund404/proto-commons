@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "electric-grinder",
+  "names": {
+    "en": [
+      "electric grinder"
+    ]
+  },
+  "specializes": "grinder"
+}

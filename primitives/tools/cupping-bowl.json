@@ -1,0 +1,32 @@
+{
+  "content_hash": "sha256:c69ec511097492d3b5f78828e1288bdcc5cbc50c055d22085b00cc2c83be174f",
+  "created": "2026-06-13",
+  "description": "A standard wide bowl used to taste several coffees side by side under the same conditions, the shared vessel of the tasting table.",
+  "emitter": "opg://commons-seed",
+  "id": "cupping-bowl-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "cupping bowl",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "vessel",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "cupping bowl"
+      ]
+    },
+    "taxonomy": "vessel"
+  },
+  "slug": "cupping-bowl",
+  "tags": [
+    "coffee",
+    "vessel"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:7cfefb608ae09348ea5731b7e0a46a2cfa829df1b0e77ec2fd19d3e05773b93b",
+  "created": "2026-06-13",
+  "description": "A thin metal mesh placed on top of the puck to spread the water evenly and keep the group head clean.",
+  "emitter": "opg://commons-seed",
+  "id": "puck-screen-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "puck screen",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "accessory",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "puck screen"
+      ]
+    },
+    "taxonomy": "brewing-accessory"
+  },
+  "slug": "puck-screen",
+  "tags": [
+    "coffee",
+    "accessory",
+    "brewing-accessory"
+  ],
+  "visibility": "commons"
+}

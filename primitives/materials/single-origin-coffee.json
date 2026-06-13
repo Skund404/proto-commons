@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:a9d5d31b38175891f25e01c12f6f5e5d20a00a976cf804c07291f850c521c693",
+  "created": "2026-06-13",
+  "description": "Coffee from one origin, farm, or lot, brewed to show the character of that specific place and process rather than a blended profile.",
+  "emitter": "opg://commons-seed",
+  "id": "single-origin-coffee-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "single-origin coffee",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "coffee",
+    "names": {
+      "en": [
+        "single-origin coffee"
+      ]
+    },
+    "taxonomy": "single-origin",
+    "unit": "g"
+  },
+  "slug": "single-origin-coffee",
+  "tags": [
+    "coffee",
+    "single-origin"
+  ],
+  "visibility": "commons"
+}

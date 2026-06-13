@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:cba5f961420c215dfc0a69ebb7b483560a52461dde442e7700a8cf13445cd76b",
+  "created": "2026-06-13",
+  "description": "A flat-bottomed dripper with a few small holes that spreads the grounds in an even bed, giving a forgiving, repeatable extraction that is easy to dial in.",
+  "emitter": "opg://commons-seed",
+  "id": "flat-bottom-dripper-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "flat-bottom dripper",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "flat-bottom dripper"
+      ]
+    },
+    "taxonomy": "pour-over-brewer"
+  },
+  "slug": "flat-bottom-dripper",
+  "tags": [
+    "coffee",
+    "brewing",
+    "pour-over-brewer"
+  ],
+  "visibility": "commons"
+}

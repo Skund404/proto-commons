@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:12a99d7a5a936996704761347752ed046883d834f1bfcf1c63f945be987a5dca",
+  "created": "2026-06-13",
+  "description": "The VST LAB Coffee III is a US-made digital refractometer long used as the lab reference for measuring brew strength and calculating extraction. See [VST LAB Coffee III](https://store.vstapps.com).",
+  "emitter": "opg://commons-seed",
+  "id": "vst-lab-coffee-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "VST LAB Coffee III",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "accessory",
+    "license": "CC-BY-4.0",
+    "manufacturer": "VST, Inc.",
+    "model": "LAB Coffee III",
+    "names": {
+      "en": [
+        "VST LAB Coffee III"
+      ]
+    },
+    "origin": "USA",
+    "sourceUrl": "https://store.vstapps.com",
+    "taxonomy": "brewing-accessory"
+  },
+  "slug": "vst-lab-coffee",
+  "tags": [
+    "coffee",
+    "accessory",
+    "brewing-accessory",
+    "brand"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:925204fd99af26427df8f5bfb4d048d9126d098c6e633628c23ad0bc37604678",
+  "created": "2026-06-13",
+  "description": "Kalita's Wave is a flat-bottom dripper with three small holes and a wavy paper filter that keeps the bed even and forgiving, prized for repeatable results. The 185 is the larger, multi-cup size. See [Kalita Wave 185](https://www.kalita.co.jp).",
+  "emitter": "opg://commons-seed",
+  "id": "kalita-wave-185-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Kalita Wave 185",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Kalita Co., Ltd.",
+    "model": "Wave 185",
+    "names": {
+      "en": [
+        "Kalita Wave 185"
+      ]
+    },
+    "origin": "Japan",
+    "sourceUrl": "https://www.kalita.co.jp",
+    "taxonomy": "pour-over-brewer"
+  },
+  "slug": "kalita-wave-185",
+  "tags": [
+    "coffee",
+    "brewing",
+    "pour-over-brewer",
+    "brand"
+  ],
+  "visibility": "commons"
+}

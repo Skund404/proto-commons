@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:8933192a24cfef68f6d1596de7654dc6032f8cd414c9a68e6bd5619074ca4c84",
+  "created": "2026-06-13",
+  "description": "Coffee roasted long and deep, with bittersweet, roasty flavors and a heavier body. Lower in perceived acidity, usually brewed a little cooler.",
+  "emitter": "opg://commons-seed",
+  "id": "dark-roast-coffee-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "dark roast coffee",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "coffee",
+    "names": {
+      "en": [
+        "dark roast coffee"
+      ]
+    },
+    "taxonomy": "dark-roast",
+    "unit": "g"
+  },
+  "slug": "dark-roast-coffee",
+  "tags": [
+    "coffee",
+    "dark-roast"
+  ],
+  "visibility": "commons"
+}

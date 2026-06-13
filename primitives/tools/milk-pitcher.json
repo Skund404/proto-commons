@@ -1,0 +1,35 @@
+{
+  "content_hash": "sha256:c49ed267cc85ea4b59c44df4041ba5e616fb67fac6b8c578483c77cb0448a111",
+  "created": "2026-06-13",
+  "description": "A spouted steel jug for steaming and pouring milk, sized to the drink and shaped to help form and control microfoam.",
+  "emitter": "opg://commons-seed",
+  "id": "milk-pitcher-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "milk pitcher",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "accessory",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "milk pitcher",
+        "frothing jug",
+        "steaming pitcher"
+      ]
+    },
+    "taxonomy": "brewing-accessory"
+  },
+  "slug": "milk-pitcher",
+  "tags": [
+    "coffee",
+    "accessory",
+    "brewing-accessory"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:5d6b811d2eab461ced8e9060fb00a0e8003eae7fd86972c61dd89dd2e599d154",
+  "created": "2026-06-13",
+  "description": "Roasted coffee in whole-bean form, ground fresh just before brewing for the best aroma and a grind matched to the method.",
+  "emitter": "opg://commons-seed",
+  "id": "whole-bean-coffee-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "whole bean coffee",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "coffee",
+    "names": {
+      "en": [
+        "whole bean coffee"
+      ]
+    },
+    "taxonomy": "whole-bean-coffee",
+    "unit": "g"
+  },
+  "slug": "whole-bean-coffee",
+  "tags": [
+    "coffee",
+    "whole-bean-coffee"
+  ],
+  "visibility": "commons"
+}

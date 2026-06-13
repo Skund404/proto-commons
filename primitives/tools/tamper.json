@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:7333500055bd85c7968d30f98736a7f66b7e6ac7fd748a93e256b2ac72a451f0",
+  "created": "2026-06-13",
+  "description": "A weighted disc that compresses the espresso grounds into a level, firm puck so water meets even resistance across the bed.",
+  "emitter": "opg://commons-seed",
+  "id": "tamper-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "tamper",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "accessory",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "tamper"
+      ]
+    },
+    "taxonomy": "brewing-accessory"
+  },
+  "slug": "tamper",
+  "tags": [
+    "coffee",
+    "accessory",
+    "brewing-accessory"
+  ],
+  "visibility": "commons"
+}

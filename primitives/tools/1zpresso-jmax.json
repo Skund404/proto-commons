@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:05edbee723e9722750f44e1135201f7cc9e8597db209f456314958b604c36ffa",
+  "created": "2026-06-13",
+  "description": "The 1Zpresso J-Max is a Taiwanese hand grinder with 48 mm coated burrs and fine external numbered adjustment, well suited to espresso and fine filter. See [1Zpresso J-Max](https://1zpresso.coffee).",
+  "emitter": "opg://commons-seed",
+  "id": "1zpresso-jmax-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "1Zpresso J-Max",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "grinding",
+    "license": "CC-BY-4.0",
+    "manufacturer": "1Zpresso",
+    "model": "J-Max",
+    "names": {
+      "en": [
+        "1Zpresso J-Max"
+      ]
+    },
+    "origin": "Taiwan",
+    "sourceUrl": "https://1zpresso.coffee",
+    "taxonomy": "hand-grinder"
+  },
+  "slug": "1zpresso-jmax",
+  "tags": [
+    "coffee",
+    "grinding",
+    "hand-grinder",
+    "brand"
+  ],
+  "visibility": "commons"
+}

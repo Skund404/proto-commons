@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:229984960c1c619e9829395c19970a4e7e0a7e393d37249c3f57fbc2e686c5f1",
+  "created": "2026-06-13",
+  "description": "The Flair 58 is a manual lever espresso maker with a 58 mm portafilter and a heated group, so you pull real espresso by hand with full control of the pressure. Made by Flair Espresso. See [Flair 58](https://flairespresso.com).",
+  "emitter": "opg://commons-seed",
+  "id": "flair-58-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Flair 58",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Flair Espresso",
+    "model": "58",
+    "names": {
+      "en": [
+        "Flair 58"
+      ]
+    },
+    "origin": "USA",
+    "sourceUrl": "https://flairespresso.com",
+    "taxonomy": "espresso-machine"
+  },
+  "slug": "flair-58",
+  "tags": [
+    "coffee",
+    "brewing",
+    "espresso-machine",
+    "brand"
+  ],
+  "visibility": "commons"
+}

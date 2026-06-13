@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:d977cb98cf86b9b07ebc7d07cf6dad7cef655ec640a1d216a2eb738f49ba06cf",
+  "created": "2026-06-13",
+  "description": "A detergent powder or tablet used to backflush an espresso machine and clean baskets and portafilters of coffee oils.",
+  "emitter": "opg://commons-seed",
+  "id": "espresso-machine-cleaner-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "espresso machine cleaner",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "cleaning-agent",
+    "names": {
+      "en": [
+        "espresso machine cleaner",
+        "backflush detergent"
+      ]
+    },
+    "taxonomy": "cleaning-agent",
+    "unit": "g"
+  },
+  "slug": "espresso-machine-cleaner",
+  "tags": [
+    "coffee",
+    "cleaning-agent"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:59a75aae92b75086cb39e930ccedaa9d9cb8449d941588a66f37bc60ac98e81a",
+  "created": "2026-06-13",
+  "description": "A mild acid solution that dissolves limescale from a kettle or an espresso machine's boiler and lines to keep heating and flow steady.",
+  "emitter": "opg://commons-seed",
+  "id": "descaler-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "descaler",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "cleaning-agent",
+    "names": {
+      "en": [
+        "descaler",
+        "descaling solution"
+      ]
+    },
+    "taxonomy": "cleaning-agent",
+    "unit": "ml"
+  },
+  "slug": "descaler",
+  "tags": [
+    "coffee",
+    "cleaning-agent"
+  ],
+  "visibility": "commons"
+}

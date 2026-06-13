@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:bd9dc5c4253b6d58cbde745311710823df3df74b0139f0956f6a86337176429c",
+  "created": "2026-06-13",
+  "description": "Coffee combining beans from several origins or roasts for a consistent, designed flavor that holds up year-round.",
+  "emitter": "opg://commons-seed",
+  "id": "coffee-blend-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "coffee blend",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "coffee",
+    "names": {
+      "en": [
+        "coffee blend"
+      ]
+    },
+    "taxonomy": "coffee-blend",
+    "unit": "g"
+  },
+  "slug": "coffee-blend",
+  "tags": [
+    "coffee",
+    "coffee-blend"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:7f5ac6bf4f6b4ce314e6ccbfb6d93502a715b25a671fa63e1744c02cb9e80a8f",
+  "created": "2026-06-13",
+  "description": "The DiFluid R2 Extract is a compact, affordable digital refractometer that brought TDS measurement within reach of home baristas. See [DiFluid R2 Extract](https://digitizefluid.com).",
+  "emitter": "opg://commons-seed",
+  "id": "difluid-r2-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "DiFluid R2 Extract",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "accessory",
+    "license": "CC-BY-4.0",
+    "manufacturer": "DiFluid",
+    "model": "R2 Extract",
+    "names": {
+      "en": [
+        "DiFluid R2 Extract"
+      ]
+    },
+    "origin": "China",
+    "sourceUrl": "https://digitizefluid.com",
+    "taxonomy": "brewing-accessory"
+  },
+  "slug": "difluid-r2",
+  "tags": [
+    "coffee",
+    "accessory",
+    "brewing-accessory",
+    "brand"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,35 @@
+{
+  "content_hash": "sha256:5810eb7effee9ff0afd600ca611086a8563e34d7079c685b9e7cfbc6986945ad",
+  "created": "2026-06-13",
+  "description": "A bleached paper filter that traps grounds and oils for a clean, sediment-free cup. Shape it to the dripper it serves.",
+  "emitter": "opg://commons-seed",
+  "id": "paper-filter-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "paper filter",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "filter",
+    "names": {
+      "en": [
+        "paper filter",
+        "bleached paper filter"
+      ]
+    },
+    "taxonomy": "paper-filter",
+    "unit": "piece"
+  },
+  "slug": "paper-filter",
+  "tags": [
+    "coffee",
+    "filter",
+    "paper-filter"
+  ],
+  "visibility": "commons"
+}

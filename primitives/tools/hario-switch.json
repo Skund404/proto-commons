@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:1acf27637045eb844895b3906f1be432ffc0110b18734cbf427fdbf33f5b25ca",
+  "created": "2026-06-13",
+  "description": "Hario's Switch pairs a V60-style cone with a stainless ball valve in the base, so you can steep like immersion and then release through paper. One brewer, two methods. See [Hario Switch](https://global.hario.com).",
+  "emitter": "opg://commons-seed",
+  "id": "hario-switch-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Hario Switch",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Hario Co., Ltd.",
+    "model": "Switch",
+    "names": {
+      "en": [
+        "Hario Switch"
+      ]
+    },
+    "origin": "Japan",
+    "sourceUrl": "https://global.hario.com",
+    "taxonomy": "steep-and-release-brewer"
+  },
+  "slug": "hario-switch",
+  "tags": [
+    "coffee",
+    "brewing",
+    "steep-and-release-brewer",
+    "brand"
+  ],
+  "visibility": "commons"
+}

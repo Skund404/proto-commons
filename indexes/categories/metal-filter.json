@@ -1,0 +1,11 @@
+{
+  "format_version": "1.0",
+  "id": "metal-filter",
+  "names": {
+    "en": [
+      "metal filter",
+      "metal mesh filter"
+    ]
+  },
+  "specializes": "filter"
+}

@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:613c2fbc888e5cddcbd8817cbd690f012f860d2071033074b53b51fe62019d1d",
+  "created": "2026-06-13",
+  "description": "Water with its minerals removed. Flat on its own for brewing, it is the blank base for a remineralized recipe.",
+  "emitter": "opg://commons-seed",
+  "id": "distilled-water-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "distilled water",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "water",
+    "names": {
+      "en": [
+        "distilled water"
+      ]
+    },
+    "taxonomy": "distilled-water",
+    "unit": "g"
+  },
+  "slug": "distilled-water",
+  "tags": [
+    "coffee",
+    "water",
+    "distilled-water"
+  ],
+  "visibility": "commons"
+}

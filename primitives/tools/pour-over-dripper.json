@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:5227ec331bac862b2a831cf00cc5ea77a50969989a7c54cf7453bd95e5585949",
+  "created": "2026-06-13",
+  "description": "A cone-shaped dripper that holds a paper filter and a bed of grounds while you pour hot water through, brewing one clean cup by gravity. Its angle and ribs shape how fast the water drains.",
+  "emitter": "opg://commons-seed",
+  "id": "pour-over-dripper-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "pour-over dripper",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "pour-over dripper",
+        "cone dripper"
+      ]
+    },
+    "taxonomy": "pour-over-brewer"
+  },
+  "slug": "pour-over-dripper",
+  "tags": [
+    "coffee",
+    "brewing",
+    "pour-over-brewer"
+  ],
+  "visibility": "commons"
+}

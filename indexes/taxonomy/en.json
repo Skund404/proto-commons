@@ -61,6 +61,459 @@
         }
       ]
     },
+    "category/brewer": {
+      "id": "brewer",
+      "name": "brewer",
+      "parent": null,
+      "members": [],
+      "related": [],
+      "children": [
+        {
+          "id": "cold-brew-brewer",
+          "name": "cold brew brewer",
+          "parent": "brewer",
+          "members": [
+            {
+              "ref": "primitives/tools/cold-brew-maker.json",
+              "slug": "cold-brew-maker",
+              "kind": "tool",
+              "name": "cold brew maker"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "espresso-machine",
+          "name": "espresso machine",
+          "parent": "brewer",
+          "members": [
+            {
+              "ref": "primitives/tools/breville-bambino-plus.json",
+              "slug": "breville-bambino-plus",
+              "kind": "tool",
+              "name": "Breville Bambino Plus"
+            },
+            {
+              "ref": "primitives/tools/espresso-machine.json",
+              "slug": "espresso-machine",
+              "kind": "tool",
+              "name": "espresso machine"
+            },
+            {
+              "ref": "primitives/tools/flair-58.json",
+              "slug": "flair-58",
+              "kind": "tool",
+              "name": "Flair 58"
+            },
+            {
+              "ref": "primitives/tools/gaggia-classic-pro.json",
+              "slug": "gaggia-classic-pro",
+              "kind": "tool",
+              "name": "Gaggia Classic Pro"
+            },
+            {
+              "ref": "primitives/tools/la-marzocco-linea-mini.json",
+              "slug": "la-marzocco-linea-mini",
+              "kind": "tool",
+              "name": "La Marzocco Linea Mini"
+            },
+            {
+              "ref": "primitives/tools/manual-lever-espresso.json",
+              "slug": "manual-lever-espresso",
+              "kind": "tool",
+              "name": "manual lever espresso maker"
+            },
+            {
+              "ref": "primitives/tools/rancilio-silvia.json",
+              "slug": "rancilio-silvia",
+              "kind": "tool",
+              "name": "Rancilio Silvia"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "immersion-brewer",
+          "name": "immersion brewer",
+          "parent": "brewer",
+          "members": [
+            {
+              "ref": "primitives/tools/aeropress.json",
+              "slug": "aeropress",
+              "kind": "tool",
+              "name": "AeroPress"
+            },
+            {
+              "ref": "primitives/tools/bodum-chambord.json",
+              "slug": "bodum-chambord",
+              "kind": "tool",
+              "name": "Bodum Chambord"
+            },
+            {
+              "ref": "primitives/tools/french-press.json",
+              "slug": "french-press",
+              "kind": "tool",
+              "name": "French press"
+            },
+            {
+              "ref": "primitives/tools/immersion-press.json",
+              "slug": "immersion-press",
+              "kind": "tool",
+              "name": "immersion press"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "moka-pot",
+          "name": "moka pot",
+          "parent": "brewer",
+          "members": [
+            {
+              "ref": "primitives/tools/bialetti-moka-express.json",
+              "slug": "bialetti-moka-express",
+              "kind": "tool",
+              "name": "Bialetti Moka Express"
+            },
+            {
+              "ref": "primitives/tools/moka-pot.json",
+              "slug": "moka-pot",
+              "kind": "tool",
+              "name": "moka pot"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "pour-over-brewer",
+          "name": "pour-over brewer",
+          "parent": "brewer",
+          "members": [
+            {
+              "ref": "primitives/tools/carafe-brewer.json",
+              "slug": "carafe-brewer",
+              "kind": "tool",
+              "name": "carafe brewer"
+            },
+            {
+              "ref": "primitives/tools/chemex-classic.json",
+              "slug": "chemex-classic",
+              "kind": "tool",
+              "name": "Chemex Classic"
+            },
+            {
+              "ref": "primitives/tools/flat-bottom-dripper.json",
+              "slug": "flat-bottom-dripper",
+              "kind": "tool",
+              "name": "flat-bottom dripper"
+            },
+            {
+              "ref": "primitives/tools/hario-v60.json",
+              "slug": "hario-v60",
+              "kind": "tool",
+              "name": "Hario V60"
+            },
+            {
+              "ref": "primitives/tools/kalita-wave-185.json",
+              "slug": "kalita-wave-185",
+              "kind": "tool",
+              "name": "Kalita Wave 185"
+            },
+            {
+              "ref": "primitives/tools/origami-dripper.json",
+              "slug": "origami-dripper",
+              "kind": "tool",
+              "name": "Origami Dripper"
+            },
+            {
+              "ref": "primitives/tools/pour-over-dripper.json",
+              "slug": "pour-over-dripper",
+              "kind": "tool",
+              "name": "pour-over dripper"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "siphon-brewer",
+          "name": "siphon brewer",
+          "parent": "brewer",
+          "members": [
+            {
+              "ref": "primitives/tools/siphon-brewer.json",
+              "slug": "siphon-brewer",
+              "kind": "tool",
+              "name": "siphon brewer"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "steep-and-release-brewer",
+          "name": "steep-and-release brewer",
+          "parent": "brewer",
+          "members": [
+            {
+              "ref": "primitives/tools/clever-dripper.json",
+              "slug": "clever-dripper",
+              "kind": "tool",
+              "name": "Clever Coffee Dripper"
+            },
+            {
+              "ref": "primitives/tools/hario-switch.json",
+              "slug": "hario-switch",
+              "kind": "tool",
+              "name": "Hario Switch"
+            },
+            {
+              "ref": "primitives/tools/steep-and-release-dripper.json",
+              "slug": "steep-and-release-dripper",
+              "kind": "tool",
+              "name": "steep-and-release dripper"
+            }
+          ],
+          "related": [],
+          "children": []
+        }
+      ]
+    },
+    "category/brewing-accessory": {
+      "id": "brewing-accessory",
+      "name": "brewing accessory",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/tools/brew-timer.json",
+          "slug": "brew-timer",
+          "kind": "tool",
+          "name": "brew timer"
+        },
+        {
+          "ref": "primitives/tools/difluid-r2.json",
+          "slug": "difluid-r2",
+          "kind": "tool",
+          "name": "DiFluid R2 Extract"
+        },
+        {
+          "ref": "primitives/tools/distribution-tool.json",
+          "slug": "distribution-tool",
+          "kind": "tool",
+          "name": "distribution tool"
+        },
+        {
+          "ref": "primitives/tools/dosing-funnel.json",
+          "slug": "dosing-funnel",
+          "kind": "tool",
+          "name": "dosing funnel"
+        },
+        {
+          "ref": "primitives/tools/knock-box.json",
+          "slug": "knock-box",
+          "kind": "tool",
+          "name": "knock box"
+        },
+        {
+          "ref": "primitives/tools/milk-pitcher.json",
+          "slug": "milk-pitcher",
+          "kind": "tool",
+          "name": "milk pitcher"
+        },
+        {
+          "ref": "primitives/tools/puck-screen.json",
+          "slug": "puck-screen",
+          "kind": "tool",
+          "name": "puck screen"
+        },
+        {
+          "ref": "primitives/tools/refractometer.json",
+          "slug": "refractometer",
+          "kind": "tool",
+          "name": "refractometer"
+        },
+        {
+          "ref": "primitives/tools/tamper.json",
+          "slug": "tamper",
+          "kind": "tool",
+          "name": "tamper"
+        },
+        {
+          "ref": "primitives/tools/thermometer.json",
+          "slug": "thermometer",
+          "kind": "tool",
+          "name": "thermometer"
+        },
+        {
+          "ref": "primitives/tools/vst-lab-coffee.json",
+          "slug": "vst-lab-coffee",
+          "kind": "tool",
+          "name": "VST LAB Coffee III"
+        },
+        {
+          "ref": "primitives/tools/wdt-tool.json",
+          "slug": "wdt-tool",
+          "kind": "tool",
+          "name": "WDT tool"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/cleaning-agent": {
+      "id": "cleaning-agent",
+      "name": "cleaning agent",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/materials/descaler.json",
+          "slug": "descaler",
+          "kind": "material",
+          "name": "descaler"
+        },
+        {
+          "ref": "primitives/materials/espresso-machine-cleaner.json",
+          "slug": "espresso-machine-cleaner",
+          "kind": "material",
+          "name": "espresso machine cleaner"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/coffee-bean": {
+      "id": "coffee-bean",
+      "name": "coffee bean",
+      "parent": null,
+      "members": [],
+      "related": [],
+      "children": [
+        {
+          "id": "coffee-blend",
+          "name": "coffee blend",
+          "parent": "coffee-bean",
+          "members": [
+            {
+              "ref": "primitives/materials/coffee-blend.json",
+              "slug": "coffee-blend",
+              "kind": "material",
+              "name": "coffee blend"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "dark-roast",
+          "name": "dark roast",
+          "parent": "coffee-bean",
+          "members": [
+            {
+              "ref": "primitives/materials/dark-roast-coffee.json",
+              "slug": "dark-roast-coffee",
+              "kind": "material",
+              "name": "dark roast coffee"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "decaf",
+          "name": "decaf",
+          "parent": "coffee-bean",
+          "members": [
+            {
+              "ref": "primitives/materials/decaf-coffee.json",
+              "slug": "decaf-coffee",
+              "kind": "material",
+              "name": "decaffeinated coffee"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "espresso-roast",
+          "name": "espresso roast",
+          "parent": "coffee-bean",
+          "members": [
+            {
+              "ref": "primitives/materials/espresso-roast-coffee.json",
+              "slug": "espresso-roast-coffee",
+              "kind": "material",
+              "name": "espresso roast coffee"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "light-roast",
+          "name": "light roast",
+          "parent": "coffee-bean",
+          "members": [
+            {
+              "ref": "primitives/materials/light-roast-coffee.json",
+              "slug": "light-roast-coffee",
+              "kind": "material",
+              "name": "light roast coffee"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "medium-roast",
+          "name": "medium roast",
+          "parent": "coffee-bean",
+          "members": [
+            {
+              "ref": "primitives/materials/medium-roast-coffee.json",
+              "slug": "medium-roast-coffee",
+              "kind": "material",
+              "name": "medium roast coffee"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "single-origin",
+          "name": "single-origin",
+          "parent": "coffee-bean",
+          "members": [
+            {
+              "ref": "primitives/materials/single-origin-coffee.json",
+              "slug": "single-origin-coffee",
+              "kind": "material",
+              "name": "single-origin coffee"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "whole-bean-coffee",
+          "name": "whole bean coffee",
+          "parent": "coffee-bean",
+          "members": [
+            {
+              "ref": "primitives/materials/whole-bean-coffee.json",
+              "slug": "whole-bean-coffee",
+              "kind": "material",
+              "name": "whole bean coffee"
+            }
+          ],
+          "related": [],
+          "children": []
+        }
+      ]
+    },
     "category/cutting-tool": {
       "id": "cutting-tool",
       "name": "cutting tool",
@@ -205,6 +658,84 @@
       ],
       "related": [],
       "children": []
+    },
+    "category/filter": {
+      "id": "filter",
+      "name": "filter",
+      "parent": null,
+      "members": [],
+      "related": [],
+      "children": [
+        {
+          "id": "cloth-filter",
+          "name": "cloth filter",
+          "parent": "filter",
+          "members": [
+            {
+              "ref": "primitives/materials/cloth-filter.json",
+              "slug": "cloth-filter",
+              "kind": "material",
+              "name": "cloth filter"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "metal-filter",
+          "name": "metal filter",
+          "parent": "filter",
+          "members": [
+            {
+              "ref": "primitives/materials/metal-mesh-filter.json",
+              "slug": "metal-mesh-filter",
+              "kind": "material",
+              "name": "metal mesh filter"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "paper-filter",
+          "name": "paper filter",
+          "parent": "filter",
+          "members": [
+            {
+              "ref": "primitives/materials/aeropress-filter.json",
+              "slug": "aeropress-filter",
+              "kind": "material",
+              "name": "AeroPress Paper Filter"
+            },
+            {
+              "ref": "primitives/materials/cafec-abaca-filter.json",
+              "slug": "cafec-abaca-filter",
+              "kind": "material",
+              "name": "CAFEC Abaca Filter"
+            },
+            {
+              "ref": "primitives/materials/hario-v60-filter.json",
+              "slug": "hario-v60-filter",
+              "kind": "material",
+              "name": "Hario V60 Paper Filter"
+            },
+            {
+              "ref": "primitives/materials/paper-filter.json",
+              "slug": "paper-filter",
+              "kind": "material",
+              "name": "paper filter"
+            },
+            {
+              "ref": "primitives/materials/unbleached-paper-filter.json",
+              "slug": "unbleached-paper-filter",
+              "kind": "material",
+              "name": "unbleached paper filter"
+            }
+          ],
+          "related": [],
+          "children": []
+        }
+      ]
     },
     "category/fruit": {
       "id": "fruit",
@@ -536,6 +1067,102 @@
         }
       ]
     },
+    "category/grinder": {
+      "id": "grinder",
+      "name": "grinder",
+      "parent": null,
+      "members": [],
+      "related": [],
+      "children": [
+        {
+          "id": "electric-grinder",
+          "name": "electric grinder",
+          "parent": "grinder",
+          "members": [
+            {
+              "ref": "primitives/tools/baratza-encore.json",
+              "slug": "baratza-encore",
+              "kind": "tool",
+              "name": "Baratza Encore"
+            },
+            {
+              "ref": "primitives/tools/blade-grinder.json",
+              "slug": "blade-grinder",
+              "kind": "tool",
+              "name": "blade grinder"
+            },
+            {
+              "ref": "primitives/tools/electric-grinder.json",
+              "slug": "electric-grinder",
+              "kind": "tool",
+              "name": "electric grinder"
+            },
+            {
+              "ref": "primitives/tools/fellow-ode-gen2.json",
+              "slug": "fellow-ode-gen2",
+              "kind": "tool",
+              "name": "Fellow Ode Gen 2"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "espresso-grinder",
+          "name": "espresso grinder",
+          "parent": "grinder",
+          "members": [
+            {
+              "ref": "primitives/tools/espresso-grinder.json",
+              "slug": "espresso-grinder",
+              "kind": "tool",
+              "name": "espresso grinder"
+            },
+            {
+              "ref": "primitives/tools/niche-zero.json",
+              "slug": "niche-zero",
+              "kind": "tool",
+              "name": "Niche Zero"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "hand-grinder",
+          "name": "hand grinder",
+          "parent": "grinder",
+          "members": [
+            {
+              "ref": "primitives/tools/1zpresso-jmax.json",
+              "slug": "1zpresso-jmax",
+              "kind": "tool",
+              "name": "1Zpresso J-Max"
+            },
+            {
+              "ref": "primitives/tools/comandante-c40.json",
+              "slug": "comandante-c40",
+              "kind": "tool",
+              "name": "Comandante C40 MK4"
+            },
+            {
+              "ref": "primitives/tools/hand-grinder.json",
+              "slug": "hand-grinder",
+              "kind": "tool",
+              "name": "hand grinder"
+            },
+            {
+              "ref": "primitives/tools/timemore-c2.json",
+              "slug": "timemore-c2",
+              "kind": "tool",
+              "name": "Timemore Chestnut C2"
+            }
+          ],
+          "related": [],
+          "children": []
+        }
+      ]
+    },
     "category/hardware": {
       "id": "hardware",
       "name": "hardware",
@@ -643,6 +1270,64 @@
               "slug": "split-ring",
               "kind": "material",
               "name": "split ring"
+            }
+          ],
+          "related": [],
+          "children": []
+        }
+      ]
+    },
+    "category/kettle": {
+      "id": "kettle",
+      "name": "kettle",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/tools/stovetop-kettle.json",
+          "slug": "stovetop-kettle",
+          "kind": "tool",
+          "name": "stovetop kettle"
+        }
+      ],
+      "related": [],
+      "children": [
+        {
+          "id": "gooseneck-kettle",
+          "name": "gooseneck kettle",
+          "parent": "kettle",
+          "members": [
+            {
+              "ref": "primitives/tools/gooseneck-kettle.json",
+              "slug": "gooseneck-kettle",
+              "kind": "tool",
+              "name": "gooseneck kettle"
+            },
+            {
+              "ref": "primitives/tools/hario-buono.json",
+              "slug": "hario-buono",
+              "kind": "tool",
+              "name": "Hario V60 Buono Kettle"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "variable-temp-kettle",
+          "name": "variable-temperature kettle",
+          "parent": "kettle",
+          "members": [
+            {
+              "ref": "primitives/tools/fellow-stagg-ekg.json",
+              "slug": "fellow-stagg-ekg",
+              "kind": "tool",
+              "name": "Fellow Stagg EKG"
+            },
+            {
+              "ref": "primitives/tools/variable-temp-kettle.json",
+              "slug": "variable-temp-kettle",
+              "kind": "tool",
+              "name": "variable-temperature kettle"
             }
           ],
           "related": [],
@@ -1168,6 +1853,51 @@
         }
       ]
     },
+    "category/scale": {
+      "id": "scale",
+      "name": "scale",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/tools/acaia-lunar.json",
+          "slug": "acaia-lunar",
+          "kind": "tool",
+          "name": "Acaia Lunar"
+        },
+        {
+          "ref": "primitives/tools/acaia-pearl.json",
+          "slug": "acaia-pearl",
+          "kind": "tool",
+          "name": "Acaia Pearl"
+        },
+        {
+          "ref": "primitives/tools/brew-scale.json",
+          "slug": "brew-scale",
+          "kind": "tool",
+          "name": "brew scale"
+        },
+        {
+          "ref": "primitives/tools/espresso-scale.json",
+          "slug": "espresso-scale",
+          "kind": "tool",
+          "name": "espresso scale"
+        },
+        {
+          "ref": "primitives/tools/hario-drip-scale.json",
+          "slug": "hario-drip-scale",
+          "kind": "tool",
+          "name": "Hario V60 Drip Scale"
+        },
+        {
+          "ref": "primitives/tools/timemore-black-mirror.json",
+          "slug": "timemore-black-mirror",
+          "kind": "tool",
+          "name": "Timemore Black Mirror"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
     "category/setting-tool": {
       "id": "setting-tool",
       "name": "setting tool",
@@ -1681,6 +2411,115 @@
           "children": []
         }
       ]
+    },
+    "category/vessel": {
+      "id": "vessel",
+      "name": "vessel",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/tools/cupping-bowl.json",
+          "slug": "cupping-bowl",
+          "kind": "tool",
+          "name": "cupping bowl"
+        },
+        {
+          "ref": "primitives/tools/mug.json",
+          "slug": "mug",
+          "kind": "tool",
+          "name": "mug"
+        },
+        {
+          "ref": "primitives/tools/server.json",
+          "slug": "server",
+          "kind": "tool",
+          "name": "server"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/water": {
+      "id": "water",
+      "name": "water",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/materials/brew-water.json",
+          "slug": "brew-water",
+          "kind": "material",
+          "name": "brew water"
+        }
+      ],
+      "related": [],
+      "children": [
+        {
+          "id": "distilled-water",
+          "name": "distilled water",
+          "parent": "water",
+          "members": [
+            {
+              "ref": "primitives/materials/distilled-water.json",
+              "slug": "distilled-water",
+              "kind": "material",
+              "name": "distilled water"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "filtered-water",
+          "name": "filtered water",
+          "parent": "water",
+          "members": [
+            {
+              "ref": "primitives/materials/filtered-water.json",
+              "slug": "filtered-water",
+              "kind": "material",
+              "name": "filtered water"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "remineralized-water",
+          "name": "remineralized water",
+          "parent": "water",
+          "members": [
+            {
+              "ref": "primitives/materials/remineralized-water.json",
+              "slug": "remineralized-water",
+              "kind": "material",
+              "name": "remineralized water"
+            },
+            {
+              "ref": "primitives/materials/third-wave-water.json",
+              "slug": "third-wave-water",
+              "kind": "material",
+              "name": "Third Wave Water"
+            }
+          ],
+          "related": [],
+          "children": []
+        }
+      ]
+    },
+    "category/water-tool": {
+      "id": "water-tool",
+      "name": "water tool",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/tools/water-filter-pitcher.json",
+          "slug": "water-filter-pitcher",
+          "kind": "tool",
+          "name": "water filter pitcher"
+        }
+      ],
+      "related": [],
+      "children": []
     }
   }
 }

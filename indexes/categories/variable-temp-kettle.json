@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "variable-temp-kettle",
+  "names": {
+    "en": [
+      "variable-temperature kettle"
+    ]
+  },
+  "specializes": "kettle"
+}

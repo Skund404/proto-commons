@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:6f3654deabb78d3708ada2b5ccdb4d180e23c9429417799927ff9dd426aee2bc",
+  "created": "2026-06-13",
+  "description": "A manual burr grinder: you turn a handle to crush beans between two burrs at a set gap. Quiet, portable, and capable of an even grind for any brew method.",
+  "emitter": "opg://commons-seed",
+  "id": "hand-grinder-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "hand grinder",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "grinding",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "hand grinder",
+        "manual burr grinder"
+      ]
+    },
+    "taxonomy": "hand-grinder"
+  },
+  "slug": "hand-grinder",
+  "tags": [
+    "coffee",
+    "grinding",
+    "hand-grinder"
+  ],
+  "visibility": "commons"
+}

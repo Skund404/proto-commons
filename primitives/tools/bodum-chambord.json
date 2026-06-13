@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:a752765539cac8c99484c8b61407fb0a8321f5ca820887ca2089ebcc88dd07d6",
+  "created": "2026-06-13",
+  "description": "Bodum's Chambord is the classic French press shape, a borosilicate beaker in a chrome frame with a mesh plunger, made in Portugal. A full-immersion standard for full-bodied coffee. See [Bodum Chambord](https://www.bodum.com).",
+  "emitter": "opg://commons-seed",
+  "id": "bodum-chambord-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Bodum Chambord",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Bodum",
+    "model": "Chambord",
+    "names": {
+      "en": [
+        "Bodum Chambord"
+      ]
+    },
+    "origin": "Switzerland (made in Portugal)",
+    "sourceUrl": "https://www.bodum.com",
+    "taxonomy": "immersion-brewer"
+  },
+  "slug": "bodum-chambord",
+  "tags": [
+    "coffee",
+    "brewing",
+    "immersion-brewer",
+    "brand"
+  ],
+  "visibility": "commons"
+}

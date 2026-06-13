@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:32efa70af9fa3416780a887379f9e24c653caeae3b6703a428676c5f7ea8e00d",
+  "created": "2026-06-13",
+  "description": "Hario's V60 paper filters are the cone filters cut to fit the V60's spiral-ribbed wall, sized 01, 02, and 03 to the brewer. See [Hario V60 Paper Filter](https://global.hario.com).",
+  "emitter": "opg://commons-seed",
+  "id": "hario-v60-filter-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Hario V60 Paper Filter",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "manufacturer": "Hario Co., Ltd.",
+    "materialType": "filter",
+    "model": "V60 Paper",
+    "names": {
+      "en": [
+        "Hario V60 Paper Filter"
+      ]
+    },
+    "origin": "Japan",
+    "sourceUrl": "https://global.hario.com",
+    "taxonomy": "paper-filter",
+    "unit": "piece"
+  },
+  "slug": "hario-v60-filter",
+  "tags": [
+    "coffee",
+    "filter",
+    "paper-filter",
+    "brand"
+  ],
+  "visibility": "commons"
+}

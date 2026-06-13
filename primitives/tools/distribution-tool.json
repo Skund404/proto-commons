@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:ecd949e7c55a88e0417751d76b84da52eb7895738f65ee01f3c331be774eab42",
+  "created": "2026-06-13",
+  "description": "A spinning leveling tool that smooths the surface of the grounds to an even depth before tamping.",
+  "emitter": "opg://commons-seed",
+  "id": "distribution-tool-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "distribution tool",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "accessory",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "distribution tool",
+        "leveler"
+      ]
+    },
+    "taxonomy": "brewing-accessory"
+  },
+  "slug": "distribution-tool",
+  "tags": [
+    "coffee",
+    "accessory",
+    "brewing-accessory"
+  ],
+  "visibility": "commons"
+}

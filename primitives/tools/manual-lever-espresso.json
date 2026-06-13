@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:7981d89a3782e1f921cc9978f576664e182e1234bebf995a176e8f2cba5871ea",
+  "created": "2026-06-13",
+  "description": "A hand-powered espresso maker where you generate the brew pressure yourself with a lever or piston, trading convenience for full control of the pressure profile.",
+  "emitter": "opg://commons-seed",
+  "id": "manual-lever-espresso-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "manual lever espresso maker",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "manual lever espresso maker",
+        "lever espresso"
+      ]
+    },
+    "taxonomy": "espresso-machine"
+  },
+  "slug": "manual-lever-espresso",
+  "tags": [
+    "coffee",
+    "brewing",
+    "espresso-machine"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:2cc7aa69e3c69c945ccdeaab03b4b56b22cd8c1d1581485e3b98a985407e8a34",
+  "created": "2026-06-13",
+  "description": "Coffee roasted and blended to taste well as espresso: enough development for body and sweetness under pressure, often with a comfortable grind window.",
+  "emitter": "opg://commons-seed",
+  "id": "espresso-roast-coffee-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "espresso roast coffee",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "coffee",
+    "names": {
+      "en": [
+        "espresso roast coffee"
+      ]
+    },
+    "taxonomy": "espresso-roast",
+    "unit": "g"
+  },
+  "slug": "espresso-roast-coffee",
+  "tags": [
+    "coffee",
+    "espresso-roast"
+  ],
+  "visibility": "commons"
+}

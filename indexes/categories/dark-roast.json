@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "dark-roast",
+  "names": {
+    "en": [
+      "dark roast"
+    ]
+  },
+  "specializes": "coffee-bean"
+}

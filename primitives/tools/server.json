@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:3abda0341d97e6effcc2029308cf38ef91a9ee1cd95a863dea5cbd69fd838455",
+  "created": "2026-06-13",
+  "description": "A carafe or jug the brewer sits on and the coffee collects in, sized to hold the full brew and pour cleanly into cups.",
+  "emitter": "opg://commons-seed",
+  "id": "server-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "server",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "vessel",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "server",
+        "carafe",
+        "decanter"
+      ]
+    },
+    "taxonomy": "vessel"
+  },
+  "slug": "server",
+  "tags": [
+    "coffee",
+    "vessel"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:0d5d97aabe957bcda6b40d8e08991b6393062f7fa687d2bb3a0f612be17dbf69",
+  "created": "2026-06-13",
+  "description": "A one-piece glass brewer where a cone sits over a carafe, so the brew collects in the vessel you serve from. A thick paper filter gives a very clean, bright cup.",
+  "emitter": "opg://commons-seed",
+  "id": "carafe-brewer-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "carafe brewer",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "carafe brewer",
+        "pour-over carafe"
+      ]
+    },
+    "taxonomy": "pour-over-brewer"
+  },
+  "slug": "carafe-brewer",
+  "tags": [
+    "coffee",
+    "brewing",
+    "pour-over-brewer"
+  ],
+  "visibility": "commons"
+}

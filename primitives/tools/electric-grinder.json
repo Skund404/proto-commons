@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:d4a40160a416da5aa913b38b2dcd86cedb5d765b435b5c2da2c494ecc8509e28",
+  "created": "2026-06-13",
+  "description": "A motorized burr grinder for the home bench, grinding a dose at the press of a button with repeatable settings across filter and press brewing.",
+  "emitter": "opg://commons-seed",
+  "id": "electric-grinder-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "electric grinder",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "grinding",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "electric grinder",
+        "electric burr grinder"
+      ]
+    },
+    "taxonomy": "electric-grinder"
+  },
+  "slug": "electric-grinder",
+  "tags": [
+    "coffee",
+    "grinding",
+    "electric-grinder"
+  ],
+  "visibility": "commons"
+}

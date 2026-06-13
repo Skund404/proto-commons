@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:f34f4d03157230bfed7ff29b634bede39d3e98e4972793ac8169ab7a674f0de9",
+  "created": "2026-06-13",
+  "description": "Rancilio's Silvia is a single-boiler Italian home machine built with commercial-grade parts, long used as a benchmark for learning espresso. See [Rancilio Silvia](https://www.rancilio.com).",
+  "emitter": "opg://commons-seed",
+  "id": "rancilio-silvia-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Rancilio Silvia",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Rancilio",
+    "model": "Silvia",
+    "names": {
+      "en": [
+        "Rancilio Silvia"
+      ]
+    },
+    "origin": "Italy",
+    "sourceUrl": "https://www.rancilio.com",
+    "taxonomy": "espresso-machine"
+  },
+  "slug": "rancilio-silvia",
+  "tags": [
+    "coffee",
+    "brewing",
+    "espresso-machine",
+    "brand"
+  ],
+  "visibility": "commons"
+}

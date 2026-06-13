@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:98698fef086ad29f712310ea5d550e603775c90fd104d9f6fcd5741870d96d5a",
+  "created": "2026-06-13",
+  "description": "The Origami is a fluted dripper that takes both cone and flat-bottom filters, so a single brewer flexes between pour styles. Made in Japan and a modern competition favorite. See [Origami Dripper](https://origami-kai.com/en).",
+  "emitter": "opg://commons-seed",
+  "id": "origami-dripper-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Origami Dripper",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Origami (Trinity Kai)",
+    "model": "Dripper S",
+    "names": {
+      "en": [
+        "Origami Dripper"
+      ]
+    },
+    "origin": "Japan",
+    "sourceUrl": "https://origami-kai.com/en",
+    "taxonomy": "pour-over-brewer"
+  },
+  "slug": "origami-dripper",
+  "tags": [
+    "coffee",
+    "brewing",
+    "pour-over-brewer",
+    "brand"
+  ],
+  "visibility": "commons"
+}

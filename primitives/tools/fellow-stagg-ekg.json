@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:6abe3c4aa97ae74aa5c10d8a5c16791cbe8ed6e2a78ef04c58a69823b60d5e5a",
+  "created": "2026-06-13",
+  "description": "Fellow's Stagg EKG is a variable-temperature electric gooseneck kettle with a precise spout and a set-and-hold readout, a fixture of the pour-over bench. See [Fellow Stagg EKG](https://fellowproducts.com).",
+  "emitter": "opg://commons-seed",
+  "id": "fellow-stagg-ekg-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Fellow Stagg EKG",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "kettle",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Fellow",
+    "model": "Stagg EKG",
+    "names": {
+      "en": [
+        "Fellow Stagg EKG"
+      ]
+    },
+    "origin": "USA",
+    "sourceUrl": "https://fellowproducts.com",
+    "taxonomy": "variable-temp-kettle"
+  },
+  "slug": "fellow-stagg-ekg",
+  "tags": [
+    "coffee",
+    "kettle",
+    "variable-temp-kettle",
+    "brand"
+  ],
+  "visibility": "commons"
+}

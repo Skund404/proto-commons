@@ -1,0 +1,35 @@
+{
+  "content_hash": "sha256:c8a2da388b7107b217e61aa82a3c89fa33dd93446e6cee933e94cb925d1c115d",
+  "created": "2026-06-13",
+  "description": "A reusable cloth filter that gives a clean cup with a softer body than paper; it must be rinsed and stored with care to stay fresh.",
+  "emitter": "opg://commons-seed",
+  "id": "cloth-filter-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "cloth filter",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "filter",
+    "names": {
+      "en": [
+        "cloth filter",
+        "sock filter"
+      ]
+    },
+    "taxonomy": "cloth-filter",
+    "unit": "piece"
+  },
+  "slug": "cloth-filter",
+  "tags": [
+    "coffee",
+    "filter",
+    "cloth-filter"
+  ],
+  "visibility": "commons"
+}

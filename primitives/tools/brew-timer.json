@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:892798e4aa4c18e76d64026e097bdacad976c2f926fbb8b72cde3c0ec7c823f1",
+  "created": "2026-06-13",
+  "description": "A timer started with the pour so every phase, bloom, steep, and total brew time, is recorded against the result.",
+  "emitter": "opg://commons-seed",
+  "id": "brew-timer-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "brew timer",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "accessory",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "brew timer",
+        "timer"
+      ]
+    },
+    "taxonomy": "brewing-accessory"
+  },
+  "slug": "brew-timer",
+  "tags": [
+    "coffee",
+    "accessory",
+    "brewing-accessory"
+  ],
+  "visibility": "commons"
+}

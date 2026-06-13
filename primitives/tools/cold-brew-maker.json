@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:5fd784abc6a40913f55cdf015383cec2faab12fc400b97dd627d6cc0af5fc269",
+  "created": "2026-06-13",
+  "description": "A vessel that steeps coarse grounds in cold or room-temperature water for many hours, then filters them out, yielding a smooth, low-acid concentrate.",
+  "emitter": "opg://commons-seed",
+  "id": "cold-brew-maker-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "cold brew maker",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "cold brew maker"
+      ]
+    },
+    "taxonomy": "cold-brew-brewer"
+  },
+  "slug": "cold-brew-maker",
+  "tags": [
+    "coffee",
+    "brewing",
+    "cold-brew-brewer"
+  ],
+  "visibility": "commons"
+}

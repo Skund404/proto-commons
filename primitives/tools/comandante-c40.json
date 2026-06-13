@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:8d0adc297813b2b197a2b7ada53a63286579dbb6ccd794cd8339c3809f7081d7",
+  "created": "2026-06-13",
+  "description": "The Comandante C40 MK4 is a German-made hand grinder whose hardened steel Nitro Blade burrs set a quality reference for manual grinding across filter and press. See [Comandante C40 MK4](https://comandantegrinder.com).",
+  "emitter": "opg://commons-seed",
+  "id": "comandante-c40-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Comandante C40 MK4",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "grinding",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Comandante",
+    "model": "C40 MK4 Nitro Blade",
+    "names": {
+      "en": [
+        "Comandante C40 MK4"
+      ]
+    },
+    "origin": "Germany",
+    "sourceUrl": "https://comandantegrinder.com",
+    "taxonomy": "hand-grinder"
+  },
+  "slug": "comandante-c40",
+  "tags": [
+    "coffee",
+    "grinding",
+    "hand-grinder",
+    "brand"
+  ],
+  "visibility": "commons"
+}

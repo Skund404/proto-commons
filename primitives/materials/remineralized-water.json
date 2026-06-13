@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:b522f77fcb27022f05837ab05b97b11986f5905cb21e144eac75266d49562c29",
+  "created": "2026-06-13",
+  "description": "Distilled or reverse-osmosis water with a measured mineral blend added back, giving a consistent, repeatable brewing water.",
+  "emitter": "opg://commons-seed",
+  "id": "remineralized-water-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "remineralized water",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "water",
+    "names": {
+      "en": [
+        "remineralized water"
+      ]
+    },
+    "taxonomy": "remineralized-water",
+    "unit": "g"
+  },
+  "slug": "remineralized-water",
+  "tags": [
+    "coffee",
+    "water",
+    "remineralized-water"
+  ],
+  "visibility": "commons"
+}

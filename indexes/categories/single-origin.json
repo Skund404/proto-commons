@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "single-origin",
+  "names": {
+    "en": [
+      "single-origin"
+    ]
+  },
+  "specializes": "coffee-bean"
+}

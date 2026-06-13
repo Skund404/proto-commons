@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:c5b5d81c7f4eb10f3cc24f8477765c7bbf7d820fdbdf78bf041aebdc713a43e0",
+  "created": "2026-06-13",
+  "description": "Breville's Bambino Plus is a compact home espresso machine with a fast thermojet heater and automatic milk steaming, a popular entry into the category. Sold as Sage in the UK and EU. See [Breville Bambino Plus](https://www.breville.com).",
+  "emitter": "opg://commons-seed",
+  "id": "breville-bambino-plus-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Breville Bambino Plus",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Breville (Sage in EU)",
+    "model": "Bambino Plus",
+    "names": {
+      "en": [
+        "Breville Bambino Plus",
+        "Sage Bambino Plus"
+      ]
+    },
+    "origin": "Australia",
+    "sourceUrl": "https://www.breville.com",
+    "taxonomy": "espresso-machine"
+  },
+  "slug": "breville-bambino-plus",
+  "tags": [
+    "coffee",
+    "brewing",
+    "espresso-machine",
+    "brand"
+  ],
+  "visibility": "commons"
+}

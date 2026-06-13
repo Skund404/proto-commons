@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "moka-pot",
+  "names": {
+    "en": [
+      "moka pot"
+    ]
+  },
+  "specializes": "brewer"
+}

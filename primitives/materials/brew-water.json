@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:4eeb5eaf3487d334da7c51915d08c2ce290bbf95a95d4853763fc773286511da",
+  "created": "2026-06-13",
+  "description": "The water that makes up almost all of the cup. Its mineral content and temperature shape extraction and flavor as much as the beans do.",
+  "emitter": "opg://commons-seed",
+  "id": "brew-water-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "brew water",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "water",
+    "names": {
+      "en": [
+        "brew water"
+      ]
+    },
+    "taxonomy": "water",
+    "unit": "g"
+  },
+  "slug": "brew-water",
+  "tags": [
+    "coffee",
+    "water"
+  ],
+  "visibility": "commons"
+}

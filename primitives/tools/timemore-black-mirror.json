@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:cd1316d506a26fc4d044c8a820e7d5901f3164f563a01a9d24970524fc3d78bd",
+  "created": "2026-06-13",
+  "description": "The Timemore Black Mirror is an affordable 0.1 gram brewing scale with auto-timer modes, a popular value pick for dialing in pour-over. See [Timemore Black Mirror](https://www.timemore.com).",
+  "emitter": "opg://commons-seed",
+  "id": "timemore-black-mirror-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Timemore Black Mirror",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "measurement",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Timemore",
+    "model": "Black Mirror",
+    "names": {
+      "en": [
+        "Timemore Black Mirror"
+      ]
+    },
+    "origin": "China",
+    "sourceUrl": "https://www.timemore.com",
+    "taxonomy": "scale"
+  },
+  "slug": "timemore-black-mirror",
+  "tags": [
+    "coffee",
+    "measurement",
+    "scale",
+    "brand"
+  ],
+  "visibility": "commons"
+}

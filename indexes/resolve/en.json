@@ -1,6 +1,36 @@
 {
   "format_version": "1.0",
   "entries": {
+    "1zpresso j-max": [
+      {
+        "ref": "primitives/tools/1zpresso-jmax.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "1Zpresso J-Max",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "acaia lunar": [
+      {
+        "ref": "primitives/tools/acaia-lunar.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Acaia Lunar",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "acaia pearl": [
+      {
+        "ref": "primitives/tools/acaia-pearl.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Acaia Pearl",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "acorn squash": [
       {
         "ref": "primitives/materials/acorn-squash.json",
@@ -37,6 +67,26 @@
         "class": "category",
         "kind": null,
         "name": "adhesive",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "aeropress": [
+      {
+        "ref": "primitives/tools/aeropress.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "AeroPress",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "aeropress paper filter": [
+      {
+        "ref": "primitives/materials/aeropress-filter.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "AeroPress Paper Filter",
         "lang": "en",
         "canonical": true
       }
@@ -141,12 +191,32 @@
         "canonical": true
       }
     ],
+    "backflush detergent": [
+      {
+        "ref": "primitives/materials/espresso-machine-cleaner.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "backflush detergent",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "banana": [
       {
         "ref": "primitives/materials/banana.json",
         "class": "primitive",
         "kind": "material",
         "name": "banana",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "baratza encore": [
+      {
+        "ref": "primitives/tools/baratza-encore.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Baratza Encore",
         "lang": "en",
         "canonical": true
       }
@@ -221,6 +291,16 @@
         "canonical": true
       }
     ],
+    "bialetti moka express": [
+      {
+        "ref": "primitives/tools/bialetti-moka-express.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Bialetti Moka Express",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "black currant": [
       {
         "ref": "primitives/materials/blackcurrant.json",
@@ -251,12 +331,42 @@
         "canonical": true
       }
     ],
+    "blade grinder": [
+      {
+        "ref": "primitives/tools/blade-grinder.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "blade grinder",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "bleached paper filter": [
+      {
+        "ref": "primitives/materials/paper-filter.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "bleached paper filter",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "blueberry": [
       {
         "ref": "primitives/materials/blueberry.json",
         "class": "primitive",
         "kind": "material",
         "name": "blueberry",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "bodum chambord": [
+      {
+        "ref": "primitives/tools/bodum-chambord.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Bodum Chambord",
         "lang": "en",
         "canonical": true
       }
@@ -297,6 +407,66 @@
         "class": "category",
         "kind": null,
         "name": "brassica",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "breville bambino plus": [
+      {
+        "ref": "primitives/tools/breville-bambino-plus.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Breville Bambino Plus",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "brew scale": [
+      {
+        "ref": "primitives/tools/brew-scale.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "brew scale",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "brew timer": [
+      {
+        "ref": "primitives/tools/brew-timer.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "brew timer",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "brew water": [
+      {
+        "ref": "primitives/materials/brew-water.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "brew water",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "brewer": [
+      {
+        "ref": "categories/brewer",
+        "class": "category",
+        "kind": null,
+        "name": "brewer",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "brewing accessory": [
+      {
+        "ref": "categories/brewing-accessory",
+        "class": "category",
+        "kind": null,
+        "name": "brewing accessory",
         "lang": "en",
         "canonical": true
       }
@@ -439,6 +609,26 @@
         "canonical": true
       }
     ],
+    "cafec abaca filter": [
+      {
+        "ref": "primitives/materials/cafec-abaca-filter.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "CAFEC Abaca Filter",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "cafetiere": [
+      {
+        "ref": "primitives/tools/french-press.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "cafetiere",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "cantaloupe": [
       {
         "ref": "primitives/materials/cantaloupe.json",
@@ -467,6 +657,26 @@
         "name": "capsicum",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "carafe": [
+      {
+        "ref": "primitives/tools/server.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "carafe",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "carafe brewer": [
+      {
+        "ref": "primitives/tools/carafe-brewer.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "carafe brewer",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "card holder": [
@@ -537,6 +747,16 @@
         "name": "chard",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "chemex classic": [
+      {
+        "ref": "primitives/tools/chemex-classic.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Chemex Classic",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "cherry": [
@@ -667,12 +887,32 @@
         "canonical": true
       }
     ],
+    "cleaning agent": [
+      {
+        "ref": "categories/cleaning-agent",
+        "class": "category",
+        "kind": null,
+        "name": "cleaning agent",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "clementine": [
       {
         "ref": "primitives/materials/clementine.json",
         "class": "primitive",
         "kind": "material",
         "name": "clementine",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "clever coffee dripper": [
+      {
+        "ref": "primitives/tools/clever-dripper.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Clever Coffee Dripper",
         "lang": "en",
         "canonical": true
       }
@@ -687,6 +927,24 @@
         "canonical": true
       }
     ],
+    "cloth filter": [
+      {
+        "ref": "categories/cloth-filter",
+        "class": "category",
+        "kind": null,
+        "name": "cloth filter",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/cloth-filter.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "cloth filter",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "coconut": [
       {
         "ref": "primitives/materials/coconut.json",
@@ -697,12 +955,100 @@
         "canonical": true
       }
     ],
+    "coffee": [
+      {
+        "ref": "categories/coffee-bean",
+        "class": "category",
+        "kind": null,
+        "name": "coffee",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "coffee bean": [
+      {
+        "ref": "categories/coffee-bean",
+        "class": "category",
+        "kind": null,
+        "name": "coffee bean",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "coffee blend": [
+      {
+        "ref": "categories/coffee-blend",
+        "class": "category",
+        "kind": null,
+        "name": "coffee blend",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/coffee-blend.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "coffee blend",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "coffee scale": [
+      {
+        "ref": "primitives/tools/brew-scale.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "coffee scale",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "cold brew brewer": [
+      {
+        "ref": "categories/cold-brew-brewer",
+        "class": "category",
+        "kind": null,
+        "name": "cold brew brewer",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "cold brew maker": [
+      {
+        "ref": "primitives/tools/cold-brew-maker.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "cold brew maker",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "comandante c40 mk4": [
+      {
+        "ref": "primitives/tools/comandante-c40.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Comandante C40 MK4",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "compass divider": [
       {
         "ref": "primitives/tools/wing-divider.json",
         "class": "primitive",
         "kind": "tool",
         "name": "compass divider",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "cone dripper": [
+      {
+        "ref": "primitives/tools/pour-over-dripper.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "cone dripper",
         "lang": "en",
         "canonical": false
       }
@@ -797,6 +1143,26 @@
         "canonical": false
       }
     ],
+    "cup": [
+      {
+        "ref": "primitives/tools/mug.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "cup",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "cupping bowl": [
+      {
+        "ref": "primitives/tools/cupping-bowl.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "cupping bowl",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "cut pieces from pattern": [
       {
         "ref": "primitives/workflows/cut-pieces-from-pattern.json",
@@ -857,6 +1223,26 @@
         "canonical": true
       }
     ],
+    "dark roast": [
+      {
+        "ref": "categories/dark-roast",
+        "class": "category",
+        "kind": null,
+        "name": "dark roast",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "dark roast coffee": [
+      {
+        "ref": "primitives/materials/dark-roast-coffee.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "dark roast coffee",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "date": [
       {
         "ref": "primitives/materials/date.json",
@@ -865,6 +1251,72 @@
         "name": "date",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "decaf": [
+      {
+        "ref": "categories/decaf",
+        "class": "category",
+        "kind": null,
+        "name": "decaf",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/decaf-coffee.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "decaf",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "decaffeinated coffee": [
+      {
+        "ref": "categories/decaf",
+        "class": "category",
+        "kind": null,
+        "name": "decaffeinated coffee",
+        "lang": "en",
+        "canonical": false
+      },
+      {
+        "ref": "primitives/materials/decaf-coffee.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "decaffeinated coffee",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "decanter": [
+      {
+        "ref": "primitives/tools/server.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "decanter",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "descaler": [
+      {
+        "ref": "primitives/materials/descaler.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "descaler",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "descaling solution": [
+      {
+        "ref": "primitives/materials/descaler.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "descaling solution",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "diamond awl": [
@@ -893,6 +1345,74 @@
         "name": "diamond stitching chisel",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "difluid r2 extract": [
+      {
+        "ref": "primitives/tools/difluid-r2.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "DiFluid R2 Extract",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "distilled water": [
+      {
+        "ref": "categories/distilled-water",
+        "class": "category",
+        "kind": null,
+        "name": "distilled water",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/distilled-water.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "distilled water",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "distribution needles": [
+      {
+        "ref": "primitives/tools/wdt-tool.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "distribution needles",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "distribution tool": [
+      {
+        "ref": "primitives/tools/distribution-tool.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "distribution tool",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "dosing funnel": [
+      {
+        "ref": "primitives/tools/dosing-funnel.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "dosing funnel",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "dosing ring": [
+      {
+        "ref": "primitives/tools/dosing-funnel.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "dosing ring",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "double-cap rivet": [
@@ -943,6 +1463,16 @@
         "name": "drawstring pouch",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "dripper": [
+      {
+        "ref": "categories/pour-over-brewer",
+        "class": "category",
+        "kind": null,
+        "name": "dripper",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "drive punch": [
@@ -1133,12 +1663,116 @@
         "canonical": true
       }
     ],
+    "electric burr grinder": [
+      {
+        "ref": "primitives/tools/electric-grinder.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "electric burr grinder",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "electric grinder": [
+      {
+        "ref": "categories/electric-grinder",
+        "class": "category",
+        "kind": null,
+        "name": "electric grinder",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/electric-grinder.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "electric grinder",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "endive": [
       {
         "ref": "primitives/materials/endive.json",
         "class": "primitive",
         "kind": "material",
         "name": "endive",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "espresso grinder": [
+      {
+        "ref": "categories/espresso-grinder",
+        "class": "category",
+        "kind": null,
+        "name": "espresso grinder",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/espresso-grinder.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "espresso grinder",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "espresso machine": [
+      {
+        "ref": "categories/espresso-machine",
+        "class": "category",
+        "kind": null,
+        "name": "espresso machine",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/espresso-machine.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "espresso machine",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "espresso machine cleaner": [
+      {
+        "ref": "primitives/materials/espresso-machine-cleaner.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "espresso machine cleaner",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "espresso roast": [
+      {
+        "ref": "categories/espresso-roast",
+        "class": "category",
+        "kind": null,
+        "name": "espresso roast",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "espresso roast coffee": [
+      {
+        "ref": "primitives/materials/espresso-roast-coffee.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "espresso roast coffee",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "espresso scale": [
+      {
+        "ref": "primitives/tools/espresso-scale.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "espresso scale",
         "lang": "en",
         "canonical": true
       }
@@ -1169,6 +1803,26 @@
         "class": "primitive",
         "kind": "material",
         "name": "fava bean",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "fellow ode gen 2": [
+      {
+        "ref": "primitives/tools/fellow-ode-gen2.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Fellow Ode Gen 2",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "fellow stagg ekg": [
+      {
+        "ref": "primitives/tools/fellow-stagg-ekg.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Fellow Stagg EKG",
         "lang": "en",
         "canonical": true
       }
@@ -1213,6 +1867,34 @@
         "canonical": true
       }
     ],
+    "filter": [
+      {
+        "ref": "categories/filter",
+        "class": "category",
+        "kind": null,
+        "name": "filter",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "filtered water": [
+      {
+        "ref": "categories/filtered-water",
+        "class": "category",
+        "kind": null,
+        "name": "filtered water",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/filtered-water.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "filtered water",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "finish an edge": [
       {
         "ref": "primitives/workflows/finish-an-edge.json",
@@ -1233,12 +1915,52 @@
         "canonical": true
       }
     ],
+    "flair 58": [
+      {
+        "ref": "primitives/tools/flair-58.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Flair 58",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "flat-bottom dripper": [
+      {
+        "ref": "primitives/tools/flat-bottom-dripper.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "flat-bottom dripper",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "french bean": [
       {
         "ref": "primitives/materials/green-bean.json",
         "class": "primitive",
         "kind": "material",
         "name": "French bean",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "french press": [
+      {
+        "ref": "primitives/tools/french-press.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "French press",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "frothing jug": [
+      {
+        "ref": "primitives/tools/milk-pitcher.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "frothing jug",
         "lang": "en",
         "canonical": false
       }
@@ -1261,6 +1983,16 @@
         "name": "fruiting vegetable",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "gaggia classic pro": [
+      {
+        "ref": "primitives/tools/gaggia-classic-pro.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Gaggia Classic Pro",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "garbanzo": [
@@ -1353,6 +2085,24 @@
         "canonical": true
       }
     ],
+    "gooseneck kettle": [
+      {
+        "ref": "categories/gooseneck-kettle",
+        "class": "category",
+        "kind": null,
+        "name": "gooseneck kettle",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/gooseneck-kettle.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "gooseneck kettle",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "gourd": [
       {
         "ref": "categories/squash",
@@ -1421,6 +2171,16 @@
         "canonical": false
       }
     ],
+    "grinder": [
+      {
+        "ref": "categories/grinder",
+        "class": "category",
+        "kind": null,
+        "name": "grinder",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "grommet": [
       {
         "ref": "primitives/materials/eyelet.json",
@@ -1451,6 +2211,24 @@
         "canonical": true
       }
     ],
+    "hand grinder": [
+      {
+        "ref": "categories/hand-grinder",
+        "class": "category",
+        "kind": null,
+        "name": "hand grinder",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/hand-grinder.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "hand grinder",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "hand press": [
       {
         "ref": "primitives/tools/hand-press.json",
@@ -1467,6 +2245,56 @@
         "class": "category",
         "kind": null,
         "name": "hardware",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "hario switch": [
+      {
+        "ref": "primitives/tools/hario-switch.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Hario Switch",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "hario v60": [
+      {
+        "ref": "primitives/tools/hario-v60.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Hario V60",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "hario v60 buono kettle": [
+      {
+        "ref": "primitives/tools/hario-buono.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Hario V60 Buono Kettle",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "hario v60 drip scale": [
+      {
+        "ref": "primitives/tools/hario-drip-scale.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Hario V60 Drip Scale",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "hario v60 paper filter": [
+      {
+        "ref": "primitives/materials/hario-v60-filter.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "Hario V60 Paper Filter",
         "lang": "en",
         "canonical": true
       }
@@ -1559,12 +2387,52 @@
         "canonical": false
       }
     ],
+    "immersion brewer": [
+      {
+        "ref": "categories/immersion-brewer",
+        "class": "category",
+        "kind": null,
+        "name": "immersion brewer",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "immersion press": [
+      {
+        "ref": "primitives/tools/immersion-press.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "immersion press",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "kale": [
       {
         "ref": "primitives/materials/kale.json",
         "class": "primitive",
         "kind": "material",
         "name": "kale",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "kalita wave 185": [
+      {
+        "ref": "primitives/tools/kalita-wave-185.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Kalita Wave 185",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "kettle": [
+      {
+        "ref": "categories/kettle",
+        "class": "category",
+        "kind": null,
+        "name": "kettle",
         "lang": "en",
         "canonical": true
       }
@@ -1619,6 +2487,16 @@
         "canonical": false
       }
     ],
+    "knock box": [
+      {
+        "ref": "primitives/tools/knock-box.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "knock box",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "kohlrabi": [
       {
         "ref": "primitives/materials/kohlrabi.json",
@@ -1635,6 +2513,16 @@
         "class": "primitive",
         "kind": "material",
         "name": "kumquat",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "la marzocco linea mini": [
+      {
+        "ref": "primitives/tools/la-marzocco-linea-mini.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "La Marzocco Linea Mini",
         "lang": "en",
         "canonical": true
       }
@@ -1859,6 +2747,26 @@
         "canonical": true
       }
     ],
+    "leveler": [
+      {
+        "ref": "primitives/tools/distribution-tool.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "leveler",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "lever espresso": [
+      {
+        "ref": "primitives/tools/manual-lever-espresso.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "lever espresso",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "lever snap": [
       {
         "ref": "primitives/materials/snap-hook.json",
@@ -1867,6 +2775,26 @@
         "name": "lever snap",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "light roast": [
+      {
+        "ref": "categories/light-roast",
+        "class": "category",
+        "kind": null,
+        "name": "light roast",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "light roast coffee": [
+      {
+        "ref": "primitives/materials/light-roast-coffee.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "light roast coffee",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "lime": [
@@ -1967,6 +2895,36 @@
         "canonical": true
       }
     ],
+    "manual burr grinder": [
+      {
+        "ref": "primitives/tools/hand-grinder.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "manual burr grinder",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "manual grinder": [
+      {
+        "ref": "categories/hand-grinder",
+        "class": "category",
+        "kind": null,
+        "name": "manual grinder",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "manual lever espresso maker": [
+      {
+        "ref": "primitives/tools/manual-lever-espresso.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "manual lever espresso maker",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "marking a stitch line": [
       {
         "ref": "primitives/techniques/marking-a-stitch-line.json",
@@ -2005,12 +2963,60 @@
         "canonical": true
       }
     ],
+    "medium roast": [
+      {
+        "ref": "categories/medium-roast",
+        "class": "category",
+        "kind": null,
+        "name": "medium roast",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "medium roast coffee": [
+      {
+        "ref": "primitives/materials/medium-roast-coffee.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "medium roast coffee",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "melon": [
       {
         "ref": "categories/melon",
         "class": "category",
         "kind": null,
         "name": "melon",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "metal filter": [
+      {
+        "ref": "categories/metal-filter",
+        "class": "category",
+        "kind": null,
+        "name": "metal filter",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "metal mesh filter": [
+      {
+        "ref": "categories/metal-filter",
+        "class": "category",
+        "kind": null,
+        "name": "metal mesh filter",
+        "lang": "en",
+        "canonical": false
+      },
+      {
+        "ref": "primitives/materials/metal-mesh-filter.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "metal mesh filter",
         "lang": "en",
         "canonical": true
       }
@@ -2025,6 +3031,16 @@
         "canonical": false
       }
     ],
+    "milk pitcher": [
+      {
+        "ref": "primitives/tools/milk-pitcher.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "milk pitcher",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "mink oil": [
       {
         "ref": "primitives/materials/mink-oil.json",
@@ -2033,6 +3049,44 @@
         "name": "mink oil",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "moka pot": [
+      {
+        "ref": "categories/moka-pot",
+        "class": "category",
+        "kind": null,
+        "name": "moka pot",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/moka-pot.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "moka pot",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "mug": [
+      {
+        "ref": "primitives/tools/mug.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "mug",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "natural paper filter": [
+      {
+        "ref": "primitives/materials/unbleached-paper-filter.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "natural paper filter",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "neatsfoot oil": [
@@ -2051,6 +3105,16 @@
         "class": "primitive",
         "kind": "material",
         "name": "nectarine",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "niche zero": [
+      {
+        "ref": "primitives/tools/niche-zero.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Niche Zero",
         "lang": "en",
         "canonical": true
       }
@@ -2153,6 +3217,16 @@
         "canonical": true
       }
     ],
+    "origami dripper": [
+      {
+        "ref": "primitives/tools/origami-dripper.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Origami Dripper",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "osborne diamond awl": [
       {
         "ref": "primitives/tools/osborne-diamond-awl.json",
@@ -2189,6 +3263,24 @@
         "class": "primitive",
         "kind": "material",
         "name": "papaya",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "paper filter": [
+      {
+        "ref": "categories/paper-filter",
+        "class": "category",
+        "kind": null,
+        "name": "paper filter",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/paper-filter.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "paper filter",
         "lang": "en",
         "canonical": true
       }
@@ -2383,6 +3475,46 @@
         "canonical": true
       }
     ],
+    "pour-over brewer": [
+      {
+        "ref": "categories/pour-over-brewer",
+        "class": "category",
+        "kind": null,
+        "name": "pour-over brewer",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "pour-over carafe": [
+      {
+        "ref": "primitives/tools/carafe-brewer.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "pour-over carafe",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "pour-over dripper": [
+      {
+        "ref": "primitives/tools/pour-over-dripper.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "pour-over dripper",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "press pot": [
+      {
+        "ref": "primitives/tools/french-press.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "press pot",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "press stud": [
       {
         "ref": "primitives/materials/snap-button.json",
@@ -2427,6 +3559,16 @@
         "class": "primitive",
         "kind": "tool",
         "name": "pricking iron",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "puck screen": [
+      {
+        "ref": "primitives/tools/puck-screen.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "puck screen",
         "lang": "en",
         "canonical": true
       }
@@ -2491,6 +3633,16 @@
         "canonical": true
       }
     ],
+    "rancilio silvia": [
+      {
+        "ref": "primitives/tools/rancilio-silvia.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Rancilio Silvia",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "raspberry": [
       {
         "ref": "primitives/materials/raspberry.json",
@@ -2521,12 +3673,50 @@
         "canonical": true
       }
     ],
+    "refractometer": [
+      {
+        "ref": "primitives/tools/refractometer.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "refractometer",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "remineralized water": [
+      {
+        "ref": "categories/remineralized-water",
+        "class": "category",
+        "kind": null,
+        "name": "remineralized water",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/remineralized-water.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "remineralized water",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "remnant leather": [
       {
         "ref": "primitives/materials/scrap-leather.json",
         "class": "primitive",
         "kind": "material",
         "name": "remnant leather",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "reusable metal filter": [
+      {
+        "ref": "primitives/materials/metal-mesh-filter.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "reusable metal filter",
         "lang": "en",
         "canonical": false
       }
@@ -2701,6 +3891,16 @@
         "canonical": false
       }
     ],
+    "sage bambino plus": [
+      {
+        "ref": "primitives/tools/breville-bambino-plus.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Sage Bambino Plus",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "sam browne stud": [
       {
         "ref": "primitives/materials/button-stud.json",
@@ -2717,6 +3917,16 @@
         "class": "primitive",
         "kind": "tool",
         "name": "sanding stick",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "scale": [
+      {
+        "ref": "categories/scale",
+        "class": "category",
+        "kind": null,
+        "name": "scale",
         "lang": "en",
         "canonical": true
       }
@@ -2799,6 +4009,16 @@
         "canonical": true
       }
     ],
+    "server": [
+      {
+        "ref": "primitives/tools/server.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "server",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "set a line of hardware": [
       {
         "ref": "primitives/workflows/set-a-line-of-hardware.json",
@@ -2875,6 +4095,44 @@
         "class": "category",
         "kind": null,
         "name": "sharpening tool",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "single-origin": [
+      {
+        "ref": "categories/single-origin",
+        "class": "category",
+        "kind": null,
+        "name": "single-origin",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "single-origin coffee": [
+      {
+        "ref": "primitives/materials/single-origin-coffee.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "single-origin coffee",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "siphon brewer": [
+      {
+        "ref": "categories/siphon-brewer",
+        "class": "category",
+        "kind": null,
+        "name": "siphon brewer",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/siphon-brewer.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "siphon brewer",
         "lang": "en",
         "canonical": true
       }
@@ -2969,6 +4227,16 @@
         "canonical": false
       }
     ],
+    "sock filter": [
+      {
+        "ref": "primitives/materials/cloth-filter.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "sock filter",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "soybean": [
       {
         "ref": "primitives/materials/edamame.json",
@@ -3019,12 +4287,42 @@
         "canonical": true
       }
     ],
+    "steaming pitcher": [
+      {
+        "ref": "primitives/tools/milk-pitcher.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "steaming pitcher",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "steel ruler": [
       {
         "ref": "primitives/tools/steel-ruler.json",
         "class": "primitive",
         "kind": "tool",
         "name": "steel ruler",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "steep-and-release brewer": [
+      {
+        "ref": "categories/steep-and-release-brewer",
+        "class": "category",
+        "kind": null,
+        "name": "steep-and-release brewer",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "steep-and-release dripper": [
+      {
+        "ref": "primitives/tools/steep-and-release-dripper.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "steep-and-release dripper",
         "lang": "en",
         "canonical": true
       }
@@ -3125,6 +4423,26 @@
         "class": "category",
         "kind": null,
         "name": "stone fruit",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "stovetop espresso maker": [
+      {
+        "ref": "primitives/tools/moka-pot.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "stovetop espresso maker",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "stovetop kettle": [
+      {
+        "ref": "primitives/tools/stovetop-kettle.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "stovetop kettle",
         "lang": "en",
         "canonical": true
       }
@@ -3267,6 +4585,66 @@
         "canonical": true
       }
     ],
+    "switch dripper": [
+      {
+        "ref": "primitives/tools/steep-and-release-dripper.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "switch dripper",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "tamper": [
+      {
+        "ref": "primitives/tools/tamper.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "tamper",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "tds meter": [
+      {
+        "ref": "primitives/tools/refractometer.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "TDS meter",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "temperature-control kettle": [
+      {
+        "ref": "primitives/tools/variable-temp-kettle.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "temperature-control kettle",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "thermometer": [
+      {
+        "ref": "primitives/tools/thermometer.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "thermometer",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "third wave water": [
+      {
+        "ref": "primitives/materials/third-wave-water.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "Third Wave Water",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "thread": [
       {
         "ref": "categories/thread",
@@ -3303,6 +4681,36 @@
         "class": "primitive",
         "kind": "material",
         "name": "Tiger thread",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "timemore black mirror": [
+      {
+        "ref": "primitives/tools/timemore-black-mirror.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Timemore Black Mirror",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "timemore chestnut c2": [
+      {
+        "ref": "primitives/tools/timemore-c2.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Timemore Chestnut C2",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "timer": [
+      {
+        "ref": "primitives/tools/brew-timer.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "timer",
         "lang": "en",
         "canonical": false
       }
@@ -3367,12 +4775,60 @@
         "canonical": true
       }
     ],
+    "unbleached paper filter": [
+      {
+        "ref": "primitives/materials/unbleached-paper-filter.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "unbleached paper filter",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "utility knife": [
       {
         "ref": "primitives/tools/utility-knife.json",
         "class": "primitive",
         "kind": "tool",
         "name": "utility knife",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "vacuum brewer": [
+      {
+        "ref": "categories/siphon-brewer",
+        "class": "category",
+        "kind": null,
+        "name": "vacuum brewer",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "vacuum pot": [
+      {
+        "ref": "primitives/tools/siphon-brewer.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "vacuum pot",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "variable-temperature kettle": [
+      {
+        "ref": "categories/variable-temp-kettle",
+        "class": "category",
+        "kind": null,
+        "name": "variable-temperature kettle",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/variable-temp-kettle.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "variable-temperature kettle",
         "lang": "en",
         "canonical": true
       }
@@ -3433,6 +4889,56 @@
         "canonical": true
       }
     ],
+    "vessel": [
+      {
+        "ref": "categories/vessel",
+        "class": "category",
+        "kind": null,
+        "name": "vessel",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "vst lab coffee iii": [
+      {
+        "ref": "primitives/tools/vst-lab-coffee.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "VST LAB Coffee III",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "water": [
+      {
+        "ref": "categories/water",
+        "class": "category",
+        "kind": null,
+        "name": "water",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "water filter pitcher": [
+      {
+        "ref": "primitives/tools/water-filter-pitcher.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "water filter pitcher",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "water tool": [
+      {
+        "ref": "categories/water-tool",
+        "class": "category",
+        "kind": null,
+        "name": "water tool",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "watercress": [
       {
         "ref": "primitives/materials/watercress.json",
@@ -3473,6 +4979,16 @@
         "canonical": true
       }
     ],
+    "wdt tool": [
+      {
+        "ref": "primitives/tools/wdt-tool.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "WDT tool",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "wet forming": [
       {
         "ref": "primitives/techniques/wet-molding.json",
@@ -3499,6 +5015,24 @@
         "class": "primitive",
         "kind": "tool",
         "name": "whetstone",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "whole bean coffee": [
+      {
+        "ref": "categories/whole-bean-coffee",
+        "class": "category",
+        "kind": null,
+        "name": "whole bean coffee",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/whole-bean-coffee.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "whole bean coffee",
         "lang": "en",
         "canonical": true
       }

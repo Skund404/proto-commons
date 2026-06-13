@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:01aff37708c9efa6bd990650407a25379bf60f260e13c5b07f6970214bad2631",
+  "created": "2026-06-13",
+  "description": "A cluster of fine needles stirred through the dry espresso grounds to break up clumps and even the bed before tamping, for a more uniform extraction.",
+  "emitter": "opg://commons-seed",
+  "id": "wdt-tool-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "WDT tool",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "accessory",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "WDT tool",
+        "distribution needles"
+      ]
+    },
+    "taxonomy": "brewing-accessory"
+  },
+  "slug": "wdt-tool",
+  "tags": [
+    "coffee",
+    "accessory",
+    "brewing-accessory"
+  ],
+  "visibility": "commons"
+}

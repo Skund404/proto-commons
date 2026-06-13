@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:5cd3f73a4b058122dc5f721380168965db5f3eed28a0f85617bdd6f634ca3866",
+  "created": "2026-06-13",
+  "description": "Hario's V60 Drip Scale is a simple brewing scale and timer sized for single-cup pour-over, weighing dose and water on one display. See [Hario V60 Drip Scale](https://global.hario.com).",
+  "emitter": "opg://commons-seed",
+  "id": "hario-drip-scale-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Hario V60 Drip Scale",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "measurement",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Hario Co., Ltd.",
+    "model": "V60 Drip Scale",
+    "names": {
+      "en": [
+        "Hario V60 Drip Scale"
+      ]
+    },
+    "origin": "Japan",
+    "sourceUrl": "https://global.hario.com",
+    "taxonomy": "scale"
+  },
+  "slug": "hario-drip-scale",
+  "tags": [
+    "coffee",
+    "measurement",
+    "scale",
+    "brand"
+  ],
+  "visibility": "commons"
+}

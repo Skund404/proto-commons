@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:ba642388ccae382d9dfdc753fe2e0e1b2634e28ff79f0806a8f40675b3b55315",
+  "created": "2026-06-13",
+  "description": "Bialetti's Moka Express is the original aluminum stovetop moka pot, an Italian icon since the 1930s, pushing steam-pressured water through the grounds for a strong, concentrated brew. See [Bialetti Moka Express](https://www.bialetti.com).",
+  "emitter": "opg://commons-seed",
+  "id": "bialetti-moka-express-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Bialetti Moka Express",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Bialetti",
+    "model": "Moka Express",
+    "names": {
+      "en": [
+        "Bialetti Moka Express"
+      ]
+    },
+    "origin": "Italy",
+    "sourceUrl": "https://www.bialetti.com",
+    "taxonomy": "moka-pot"
+  },
+  "slug": "bialetti-moka-express",
+  "tags": [
+    "coffee",
+    "brewing",
+    "moka-pot",
+    "brand"
+  ],
+  "visibility": "commons"
+}

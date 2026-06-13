@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:32970c739fc3b80fad30cd6724c78718502cf2e3dfc1da6f131f79e439407541",
+  "created": "2026-06-13",
+  "description": "The cup the coffee lands in or is served in. For single-cup brewing the dripper often sits straight on the mug.",
+  "emitter": "opg://commons-seed",
+  "id": "mug-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "mug",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "vessel",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "mug",
+        "cup"
+      ]
+    },
+    "taxonomy": "vessel"
+  },
+  "slug": "mug",
+  "tags": [
+    "coffee",
+    "vessel"
+  ],
+  "visibility": "commons"
+}

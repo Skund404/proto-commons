@@ -1,0 +1,32 @@
+{
+  "content_hash": "sha256:3b79598d171ac217aff99799fc191fc69b3563313167623a175601d03387f2b1",
+  "created": "2026-06-13",
+  "description": "A simple kettle heated on the hob. It boils water reliably; you judge brew temperature by timing off the boil rather than a readout.",
+  "emitter": "opg://commons-seed",
+  "id": "stovetop-kettle-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "stovetop kettle",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "kettle",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "stovetop kettle"
+      ]
+    },
+    "taxonomy": "kettle"
+  },
+  "slug": "stovetop-kettle",
+  "tags": [
+    "coffee",
+    "kettle"
+  ],
+  "visibility": "commons"
+}

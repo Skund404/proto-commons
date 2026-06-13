@@ -1,0 +1,11 @@
+{
+  "format_version": "1.0",
+  "id": "hand-grinder",
+  "names": {
+    "en": [
+      "hand grinder",
+      "manual grinder"
+    ]
+  },
+  "specializes": "grinder"
+}

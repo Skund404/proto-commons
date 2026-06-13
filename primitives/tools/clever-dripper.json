@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:ef053d032e0941b856a94f3f7cbafa4caddffd01128d4f499314df7e5f2ae617",
+  "created": "2026-06-13",
+  "description": "The Clever Dripper, made by ABID Co. in Taiwan, holds the brew with a base valve that opens only when you set it on a cup. Full immersion with a clean paper-filtered finish, and very easy to repeat. See [Clever Coffee Dripper](https://www.cleverdripper.com.tw).",
+  "emitter": "opg://commons-seed",
+  "id": "clever-dripper-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Clever Coffee Dripper",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "manufacturer": "ABID Co., Ltd.",
+    "model": "Clever Dripper",
+    "names": {
+      "en": [
+        "Clever Coffee Dripper"
+      ]
+    },
+    "origin": "Taiwan",
+    "sourceUrl": "https://www.cleverdripper.com.tw",
+    "taxonomy": "steep-and-release-brewer"
+  },
+  "slug": "clever-dripper",
+  "tags": [
+    "coffee",
+    "brewing",
+    "steep-and-release-brewer",
+    "brand"
+  ],
+  "visibility": "commons"
+}

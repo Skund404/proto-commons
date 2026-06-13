@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:f3c15beac5089e91d99e055d64d810c225bfdea6fc1f397bb282f379c8733441",
+  "created": "2026-06-13",
+  "description": "CAFEC's Abaca filter, made in Japan by Sanyo Sangyo, is a fast-draining paper made with manila hemp fiber, known for a clean cup and quick flow. See [CAFEC Abaca Filter](https://cafec-jp.com).",
+  "emitter": "opg://commons-seed",
+  "id": "cafec-abaca-filter-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "CAFEC Abaca Filter",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "manufacturer": "Sanyo Sangyo Co. (CAFEC)",
+    "materialType": "filter",
+    "model": "Abaca",
+    "names": {
+      "en": [
+        "CAFEC Abaca Filter"
+      ]
+    },
+    "origin": "Japan",
+    "sourceUrl": "https://cafec-jp.com",
+    "taxonomy": "paper-filter",
+    "unit": "piece"
+  },
+  "slug": "cafec-abaca-filter",
+  "tags": [
+    "coffee",
+    "filter",
+    "paper-filter",
+    "brand"
+  ],
+  "visibility": "commons"
+}

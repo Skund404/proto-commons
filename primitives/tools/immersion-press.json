@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:a01acdb3560b764e78ab7acea464153622677f5856eec103b54ffbb3431e5598",
+  "created": "2026-06-13",
+  "description": "A piston-style brewer: grounds steep in the chamber, then you press the slurry through a filter cap by hand. Fast, portable, and tolerant of grind error.",
+  "emitter": "opg://commons-seed",
+  "id": "immersion-press-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "immersion press",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "immersion press"
+      ]
+    },
+    "taxonomy": "immersion-brewer"
+  },
+  "slug": "immersion-press",
+  "tags": [
+    "coffee",
+    "brewing",
+    "immersion-brewer"
+  ],
+  "visibility": "commons"
+}

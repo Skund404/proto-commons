@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:e80970c3a6c2feed8176022a53f6b517e75f9156ab26b8ae9fc131626e7b868d",
+  "created": "2026-06-13",
+  "description": "Tap water passed through a filter to cut chlorine and some hardness, a clean and practical base for brewing.",
+  "emitter": "opg://commons-seed",
+  "id": "filtered-water-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "filtered water",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "water",
+    "names": {
+      "en": [
+        "filtered water"
+      ]
+    },
+    "taxonomy": "filtered-water",
+    "unit": "g"
+  },
+  "slug": "filtered-water",
+  "tags": [
+    "coffee",
+    "water",
+    "filtered-water"
+  ],
+  "visibility": "commons"
+}

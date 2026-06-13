@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:c5f5cf2c4c0f5887b7a7f5c3dd4aed445b6dc4da8fafa0d9c62e19f9f82ac46f",
+  "created": "2026-06-13",
+  "description": "Third Wave Water is a mineral packet you add to a gallon of distilled or RO water to hit a target brewing profile, a repeatable way to standardize water. The classic blend is magnesium sulfate, calcium citrate, and sodium chloride. See [Third Wave Water](https://thirdwavewater.com).",
+  "emitter": "opg://commons-seed",
+  "id": "third-wave-water-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Third Wave Water",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "manufacturer": "Third Wave Water",
+    "materialType": "water",
+    "model": "Classic Light",
+    "names": {
+      "en": [
+        "Third Wave Water"
+      ]
+    },
+    "origin": "USA",
+    "sourceUrl": "https://thirdwavewater.com",
+    "taxonomy": "remineralized-water",
+    "unit": "packet"
+  },
+  "slug": "third-wave-water",
+  "tags": [
+    "coffee",
+    "water",
+    "remineralized-water",
+    "brand"
+  ],
+  "visibility": "commons"
+}

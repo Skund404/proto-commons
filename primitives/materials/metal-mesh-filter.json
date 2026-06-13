@@ -1,0 +1,35 @@
+{
+  "content_hash": "sha256:777d87fe5738aa1fcffddb97f273c4b7ef7f3e21921be46b192009d56dbd7038",
+  "created": "2026-06-13",
+  "description": "A reusable fine metal mesh that lets oils and fine particles through for a fuller, heavier body and no paper waste.",
+  "emitter": "opg://commons-seed",
+  "id": "metal-mesh-filter-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "metal mesh filter",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "filter",
+    "names": {
+      "en": [
+        "metal mesh filter",
+        "reusable metal filter"
+      ]
+    },
+    "taxonomy": "metal-filter",
+    "unit": "piece"
+  },
+  "slug": "metal-mesh-filter",
+  "tags": [
+    "coffee",
+    "filter",
+    "metal-filter"
+  ],
+  "visibility": "commons"
+}

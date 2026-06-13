@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:0911ee9a26df055650c14be3188b82b682d7b5a453eeaef512470d76d188255b",
+  "created": "2026-06-13",
+  "description": "Hario's V60 Buono is a stovetop gooseneck kettle whose narrow spout gives the slow, steerable stream pour-over needs. See [Hario V60 Buono Kettle](https://global.hario.com).",
+  "emitter": "opg://commons-seed",
+  "id": "hario-buono-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Hario V60 Buono Kettle",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "kettle",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Hario Co., Ltd.",
+    "model": "V60 Buono",
+    "names": {
+      "en": [
+        "Hario V60 Buono Kettle"
+      ]
+    },
+    "origin": "Japan",
+    "sourceUrl": "https://global.hario.com",
+    "taxonomy": "gooseneck-kettle"
+  },
+  "slug": "hario-buono",
+  "tags": [
+    "coffee",
+    "kettle",
+    "gooseneck-kettle",
+    "brand"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:64c744d4859a0a2c903a185b96bbd7d21bbd27d3b59f6701db405b63d77d0ef4",
+  "created": "2026-06-13",
+  "description": "A small, fast scale that fits on the drip tray to weigh the shot as it pulls, tracking dose in, yield out, and shot time together.",
+  "emitter": "opg://commons-seed",
+  "id": "espresso-scale-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "espresso scale",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "measurement",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "espresso scale"
+      ]
+    },
+    "taxonomy": "scale"
+  },
+  "slug": "espresso-scale",
+  "tags": [
+    "coffee",
+    "measurement",
+    "scale"
+  ],
+  "visibility": "commons"
+}

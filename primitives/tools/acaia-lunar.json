@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:1475d341147668e622e8b2f21d57facbb86e4d35690fc1295bf6f1ead94b5879",
+  "created": "2026-06-13",
+  "description": "The Acaia Lunar is a compact, water-resistant espresso scale built to sit on the drip tray and track dose, yield, and time as the shot pulls. See [Acaia Lunar](https://acaia.co).",
+  "emitter": "opg://commons-seed",
+  "id": "acaia-lunar-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Acaia Lunar",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "measurement",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Acaia Corp.",
+    "model": "Lunar",
+    "names": {
+      "en": [
+        "Acaia Lunar"
+      ]
+    },
+    "origin": "USA",
+    "sourceUrl": "https://acaia.co",
+    "taxonomy": "scale"
+  },
+  "slug": "acaia-lunar",
+  "tags": [
+    "coffee",
+    "measurement",
+    "scale",
+    "brand"
+  ],
+  "visibility": "commons"
+}

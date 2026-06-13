@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:e66ef6c7c31963022a041681dd4f91af398598aa9836090eff360a81f00c9029",
+  "created": "2026-06-13",
+  "description": "An instrument that reads the dissolved-solids concentration of a brew, so you can calculate extraction and compare cups by number, not just by taste.",
+  "emitter": "opg://commons-seed",
+  "id": "refractometer-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "refractometer",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "accessory",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "refractometer",
+        "TDS meter"
+      ]
+    },
+    "taxonomy": "brewing-accessory"
+  },
+  "slug": "refractometer",
+  "tags": [
+    "coffee",
+    "accessory",
+    "brewing-accessory"
+  ],
+  "visibility": "commons"
+}

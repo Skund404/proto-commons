@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "espresso-grinder",
+  "names": {
+    "en": [
+      "espresso grinder"
+    ]
+  },
+  "specializes": "grinder"
+}

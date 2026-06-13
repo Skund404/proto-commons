@@ -1,0 +1,35 @@
+{
+  "content_hash": "sha256:2dc19de511c8e3393efec5ea3fc4376fcc5499c7a3496e30a8e0d8a7c03c954f",
+  "created": "2026-06-13",
+  "description": "A natural, undyed paper filter that works like a bleached one; rinsing before use helps clear any papery taste.",
+  "emitter": "opg://commons-seed",
+  "id": "unbleached-paper-filter-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "unbleached paper filter",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "filter",
+    "names": {
+      "en": [
+        "unbleached paper filter",
+        "natural paper filter"
+      ]
+    },
+    "taxonomy": "paper-filter",
+    "unit": "piece"
+  },
+  "slug": "unbleached-paper-filter",
+  "tags": [
+    "coffee",
+    "filter",
+    "paper-filter"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:fc8c4f198bf65ce0b1fcffb2d1d0ffc5e92de1a4f5a1013bdbaabd7e823bc10c",
+  "created": "2026-06-13",
+  "description": "The Gaggia Classic Pro is a long-running Italian home machine with a commercial-style portafilter and a simple, repairable design that makes it a favorite first manual espresso machine. See [Gaggia Classic Pro](https://www.gaggia.com).",
+  "emitter": "opg://commons-seed",
+  "id": "gaggia-classic-pro-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Gaggia Classic Pro",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Gaggia",
+    "model": "Classic Pro",
+    "names": {
+      "en": [
+        "Gaggia Classic Pro"
+      ]
+    },
+    "origin": "Italy",
+    "sourceUrl": "https://www.gaggia.com",
+    "taxonomy": "espresso-machine"
+  },
+  "slug": "gaggia-classic-pro",
+  "tags": [
+    "coffee",
+    "brewing",
+    "espresso-machine",
+    "brand"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:84e14580143bc2adaa0391830af8b63520ad40506b0b7d0c6aa4ba477ec1b25b",
+  "created": "2026-06-13",
+  "description": "The Baratza Encore is a widely recommended entry electric burr grinder for filter coffee, designed in Seattle and serviceable with available parts. See [Baratza Encore](https://www.baratza.com).",
+  "emitter": "opg://commons-seed",
+  "id": "baratza-encore-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Baratza Encore",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "grinding",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Baratza",
+    "model": "Encore",
+    "names": {
+      "en": [
+        "Baratza Encore"
+      ]
+    },
+    "origin": "USA (assembled in Taiwan)",
+    "sourceUrl": "https://www.baratza.com",
+    "taxonomy": "electric-grinder"
+  },
+  "slug": "baratza-encore",
+  "tags": [
+    "coffee",
+    "grinding",
+    "electric-grinder",
+    "brand"
+  ],
+  "visibility": "commons"
+}

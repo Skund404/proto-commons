@@ -1,0 +1,11 @@
+{
+  "format_version": "1.0",
+  "id": "decaf",
+  "names": {
+    "en": [
+      "decaf",
+      "decaffeinated coffee"
+    ]
+  },
+  "specializes": "coffee-bean"
+}

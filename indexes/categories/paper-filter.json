@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "paper-filter",
+  "names": {
+    "en": [
+      "paper filter"
+    ]
+  },
+  "specializes": "filter"
+}

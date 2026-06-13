@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:9d50e5a1c96edba820201a187101adb42d7c1de8dca68bdcfc66fd8709900d26",
+  "created": "2026-06-13",
+  "description": "A burr grinder built for the fine, precise grind espresso needs, with small-step or stepless adjustment so you can dial a shot in tenths of a setting.",
+  "emitter": "opg://commons-seed",
+  "id": "espresso-grinder-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "espresso grinder",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "grinding",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "espresso grinder"
+      ]
+    },
+    "taxonomy": "espresso-grinder"
+  },
+  "slug": "espresso-grinder",
+  "tags": [
+    "coffee",
+    "grinding",
+    "espresso-grinder"
+  ],
+  "visibility": "commons"
+}

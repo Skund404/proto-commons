@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:e9d61826796d17aa33fcff6cf144f845e16222e0af2f207e0ed276661a92e58d",
+  "created": "2026-06-13",
+  "description": "Coffee roasted lightly, stopping near or just after first crack. Bright and acidic with origin character to the fore, usually brewed with hotter water.",
+  "emitter": "opg://commons-seed",
+  "id": "light-roast-coffee-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "light roast coffee",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "coffee",
+    "names": {
+      "en": [
+        "light roast coffee"
+      ]
+    },
+    "taxonomy": "light-roast",
+    "unit": "g"
+  },
+  "slug": "light-roast-coffee",
+  "tags": [
+    "coffee",
+    "light-roast"
+  ],
+  "visibility": "commons"
+}

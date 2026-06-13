@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:3eb83f2213dea74ef995e157d51d2151da64af1efc9fe4b4feda39cf7b65b16b",
+  "created": "2026-06-13",
+  "description": "An electric kettle that heats water to a set target and holds it there, so you can match the water to the roast and repeat it every brew.",
+  "emitter": "opg://commons-seed",
+  "id": "variable-temp-kettle-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "variable-temperature kettle",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "kettle",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "variable-temperature kettle",
+        "temperature-control kettle"
+      ]
+    },
+    "taxonomy": "variable-temp-kettle"
+  },
+  "slug": "variable-temp-kettle",
+  "tags": [
+    "coffee",
+    "kettle",
+    "variable-temp-kettle"
+  ],
+  "visibility": "commons"
+}

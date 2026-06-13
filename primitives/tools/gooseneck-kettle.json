@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:a97cf118997f150b3bd927d17935263c60d11983f6e800a39836cf1ddecdedd9",
+  "created": "2026-06-13",
+  "description": "A kettle with a long, narrow swan-neck spout that gives a slow, precise, steerable stream, the standard for controlled pour-over.",
+  "emitter": "opg://commons-seed",
+  "id": "gooseneck-kettle-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "gooseneck kettle",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "kettle",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "gooseneck kettle"
+      ]
+    },
+    "taxonomy": "gooseneck-kettle"
+  },
+  "slug": "gooseneck-kettle",
+  "tags": [
+    "coffee",
+    "kettle",
+    "gooseneck-kettle"
+  ],
+  "visibility": "commons"
+}

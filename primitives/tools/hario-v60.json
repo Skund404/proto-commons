@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:d3d9bf9a101a34d0e414e1f5115decf65d840a9365100ab58fd90ac2eb67b2e1",
+  "created": "2026-06-13",
+  "description": "Hario's V60 is the archetypal cone dripper, with a 60-degree wall, one large opening, and tall spiral ribs that let your pour drive the extraction. A reference point for specialty pour-over worldwide. See [Hario V60](https://global.hario.com).",
+  "emitter": "opg://commons-seed",
+  "id": "hario-v60-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Hario V60",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Hario Co., Ltd.",
+    "model": "V60",
+    "names": {
+      "en": [
+        "Hario V60"
+      ]
+    },
+    "origin": "Japan",
+    "sourceUrl": "https://global.hario.com",
+    "taxonomy": "pour-over-brewer"
+  },
+  "slug": "hario-v60",
+  "tags": [
+    "coffee",
+    "brewing",
+    "pour-over-brewer",
+    "brand"
+  ],
+  "visibility": "commons"
+}

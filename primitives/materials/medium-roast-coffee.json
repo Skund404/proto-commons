@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:17331bdad5d2d377d9137b7b086fc05a4f7f26e13c6cd1635070bc6eead34606",
+  "created": "2026-06-13",
+  "description": "Coffee roasted to a balanced mid point, rounding origin character with some developed sweetness. The forgiving everyday choice across most methods.",
+  "emitter": "opg://commons-seed",
+  "id": "medium-roast-coffee-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "medium roast coffee",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "coffee",
+    "names": {
+      "en": [
+        "medium roast coffee"
+      ]
+    },
+    "taxonomy": "medium-roast",
+    "unit": "g"
+  },
+  "slug": "medium-roast-coffee",
+  "tags": [
+    "coffee",
+    "medium-roast"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:1be80ef68318caf35631d1a4f01bef8f0c2f3d602c3e9a04025f3ccd79abeccf",
+  "created": "2026-06-13",
+  "description": "The Acaia Pearl is a fast, app-connected brewing scale with 0.1 gram resolution and flow-rate readouts, a reference scale for the pour-over bench. See [Acaia Pearl](https://acaia.co).",
+  "emitter": "opg://commons-seed",
+  "id": "acaia-pearl-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Acaia Pearl",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "measurement",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Acaia Corp.",
+    "model": "Pearl",
+    "names": {
+      "en": [
+        "Acaia Pearl"
+      ]
+    },
+    "origin": "USA",
+    "sourceUrl": "https://acaia.co",
+    "taxonomy": "scale"
+  },
+  "slug": "acaia-pearl",
+  "tags": [
+    "coffee",
+    "measurement",
+    "scale",
+    "brand"
+  ],
+  "visibility": "commons"
+}

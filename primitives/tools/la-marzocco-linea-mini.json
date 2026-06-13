@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:6a6316987ced240c35efdb6a201889d8d965090f5dd3149589cce9fc031451c8",
+  "created": "2026-06-13",
+  "description": "The Linea Mini brings La Marzocco's dual-boiler commercial engineering into a home machine, with the saturated group and temperature stability of its cafe lineage. See [La Marzocco Linea Mini](https://lamarzocco.com).",
+  "emitter": "opg://commons-seed",
+  "id": "la-marzocco-linea-mini-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "La Marzocco Linea Mini",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "manufacturer": "La Marzocco",
+    "model": "Linea Mini",
+    "names": {
+      "en": [
+        "La Marzocco Linea Mini"
+      ]
+    },
+    "origin": "Italy",
+    "sourceUrl": "https://lamarzocco.com",
+    "taxonomy": "espresso-machine"
+  },
+  "slug": "la-marzocco-linea-mini",
+  "tags": [
+    "coffee",
+    "brewing",
+    "espresso-machine",
+    "brand"
+  ],
+  "visibility": "commons"
+}

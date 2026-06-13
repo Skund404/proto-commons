@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:b5a2ba33bebf477c6cd2b8e3cdda2ff04bab2cf60ab1b3928b61c9f66011dd60",
+  "created": "2026-06-13",
+  "description": "Coffee with most of its caffeine removed before roasting, brewed the same as any other coffee.",
+  "emitter": "opg://commons-seed",
+  "id": "decaf-coffee-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "decaffeinated coffee",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "coffee",
+    "names": {
+      "en": [
+        "decaffeinated coffee",
+        "decaf"
+      ]
+    },
+    "taxonomy": "decaf",
+    "unit": "g"
+  },
+  "slug": "decaf-coffee",
+  "tags": [
+    "coffee",
+    "decaf"
+  ],
+  "visibility": "commons"
+}

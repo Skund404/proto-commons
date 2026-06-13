@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:c8103be781d080f47e45d6a5bc3da5b1ef7d28780a2f26a634b0c5a06795138b",
+  "created": "2026-06-13",
+  "description": "A machine that forces hot water through a compacted puck of finely ground coffee at around nine bars, pulling a small, intense shot topped with crema.",
+  "emitter": "opg://commons-seed",
+  "id": "espresso-machine-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "espresso machine",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "espresso machine"
+      ]
+    },
+    "taxonomy": "espresso-machine"
+  },
+  "slug": "espresso-machine",
+  "tags": [
+    "coffee",
+    "brewing",
+    "espresso-machine"
+  ],
+  "visibility": "commons"
+}

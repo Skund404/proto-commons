@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:50461748ac362219501d48807720a7a21966d67550cecfaeb3fe07230a11f95d",
+  "created": "2026-06-13",
+  "description": "The AeroPress steeps grounds in its chamber, then presses the brew through a paper cap by hand. Quick, near-unbreakable, and endlessly tweakable, it is a travel and daily staple. See [AeroPress](https://aeropress.com).",
+  "emitter": "opg://commons-seed",
+  "id": "aeropress-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "AeroPress",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "manufacturer": "AeroPress, Inc.",
+    "model": "Original",
+    "names": {
+      "en": [
+        "AeroPress"
+      ]
+    },
+    "origin": "USA",
+    "sourceUrl": "https://aeropress.com",
+    "taxonomy": "immersion-brewer"
+  },
+  "slug": "aeropress",
+  "tags": [
+    "coffee",
+    "brewing",
+    "immersion-brewer",
+    "brand"
+  ],
+  "visibility": "commons"
+}

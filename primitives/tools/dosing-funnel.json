@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:d617fe9e1b979ca992d88a20fe3c65a7d0474aa48c040afced25e8aa6b401cc6",
+  "created": "2026-06-13",
+  "description": "A ring or funnel that sits on the portafilter to guide grounds in without spilling, keeping the dose and the bench clean.",
+  "emitter": "opg://commons-seed",
+  "id": "dosing-funnel-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "dosing funnel",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "accessory",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "dosing funnel",
+        "dosing ring"
+      ]
+    },
+    "taxonomy": "brewing-accessory"
+  },
+  "slug": "dosing-funnel",
+  "tags": [
+    "coffee",
+    "accessory",
+    "brewing-accessory"
+  ],
+  "visibility": "commons"
+}

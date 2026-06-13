@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "immersion-brewer",
+  "names": {
+    "en": [
+      "immersion brewer"
+    ]
+  },
+  "specializes": "brewer"
+}

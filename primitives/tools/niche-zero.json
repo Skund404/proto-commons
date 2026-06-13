@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:4433c54d99196efe9df0643cb27eec0940a37df7c5f417fba537e1df46a38130",
+  "created": "2026-06-13",
+  "description": "The Niche Zero is a UK-made single-dose grinder with a 63 mm conical burr and near-zero retention, popular for moving cleanly between espresso and filter. See [Niche Zero](https://www.nichecoffee.co.uk).",
+  "emitter": "opg://commons-seed",
+  "id": "niche-zero-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Niche Zero",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "grinding",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Niche Coffee Ltd.",
+    "model": "Zero",
+    "names": {
+      "en": [
+        "Niche Zero"
+      ]
+    },
+    "origin": "UK",
+    "sourceUrl": "https://www.nichecoffee.co.uk",
+    "taxonomy": "espresso-grinder"
+  },
+  "slug": "niche-zero",
+  "tags": [
+    "coffee",
+    "grinding",
+    "espresso-grinder",
+    "brand"
+  ],
+  "visibility": "commons"
+}

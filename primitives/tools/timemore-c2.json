@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:1ef2dad3d61f026fea3fb83d2d0879d221e5df485bcdbe3f5c424d200a4f6eab",
+  "created": "2026-06-13",
+  "description": "The Timemore Chestnut C2 is an affordable hand grinder with 38 mm stainless conical burrs, a common first step up from a blade grinder for filter brewing. See [Timemore Chestnut C2](https://www.timemore.com).",
+  "emitter": "opg://commons-seed",
+  "id": "timemore-c2-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Timemore Chestnut C2",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "grinding",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Timemore",
+    "model": "Chestnut C2",
+    "names": {
+      "en": [
+        "Timemore Chestnut C2"
+      ]
+    },
+    "origin": "China",
+    "sourceUrl": "https://www.timemore.com",
+    "taxonomy": "hand-grinder"
+  },
+  "slug": "timemore-c2",
+  "tags": [
+    "coffee",
+    "grinding",
+    "hand-grinder",
+    "brand"
+  ],
+  "visibility": "commons"
+}

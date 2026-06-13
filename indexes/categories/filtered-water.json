@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "filtered-water",
+  "names": {
+    "en": [
+      "filtered water"
+    ]
+  },
+  "specializes": "water"
+}

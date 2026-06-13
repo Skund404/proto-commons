@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:5a5045166647cccf486591b0573b90e9abba3c7a87e25d1f126dd8c86ddb2c05",
+  "created": "2026-06-13",
+  "description": "A vacuum brewer where vapor pressure pushes heated water up into a chamber of grounds, then draws the brew back down through a filter as it cools. Theatrical and very clean.",
+  "emitter": "opg://commons-seed",
+  "id": "siphon-brewer-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "siphon brewer",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "brewing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "siphon brewer",
+        "vacuum pot"
+      ]
+    },
+    "taxonomy": "siphon-brewer"
+  },
+  "slug": "siphon-brewer",
+  "tags": [
+    "coffee",
+    "brewing",
+    "siphon-brewer"
+  ],
+  "visibility": "commons"
+}

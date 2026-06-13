@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:4c574228f7878cb4c61804c3beac8b397aeb78df26ea81e028202de7fe28ada0",
+  "created": "2026-06-13",
+  "description": "A 0.1 gram scale with a timer, used to weigh the dose and the water and to track the pour in real time. Weighing rather than scooping is where repeatable brewing starts.",
+  "emitter": "opg://commons-seed",
+  "id": "brew-scale-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "brew scale",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "measurement",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "brew scale",
+        "coffee scale"
+      ]
+    },
+    "taxonomy": "scale"
+  },
+  "slug": "brew-scale",
+  "tags": [
+    "coffee",
+    "measurement",
+    "scale"
+  ],
+  "visibility": "commons"
+}

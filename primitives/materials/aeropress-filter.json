@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:72d380bd56949cd312310639b882a5a90fc55ac43f4374c25cbb603a36fc359c",
+  "created": "2026-06-13",
+  "description": "AeroPress paper micro-filters are the small round filters that drop into the brewer's cap for a clean, sediment-free press. See [AeroPress Paper Filter](https://aeropress.com).",
+  "emitter": "opg://commons-seed",
+  "id": "aeropress-filter-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "AeroPress Paper Filter",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "manufacturer": "AeroPress, Inc.",
+    "materialType": "filter",
+    "model": "Paper Micro-filter",
+    "names": {
+      "en": [
+        "AeroPress Paper Filter"
+      ]
+    },
+    "origin": "USA",
+    "sourceUrl": "https://aeropress.com",
+    "taxonomy": "paper-filter",
+    "unit": "piece"
+  },
+  "slug": "aeropress-filter",
+  "tags": [
+    "coffee",
+    "filter",
+    "paper-filter",
+    "brand"
+  ],
+  "visibility": "commons"
+}
