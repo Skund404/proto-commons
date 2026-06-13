@@ -1,0 +1,145 @@
+{
+  "content_hash": "sha256:eb973e606d16ac5d8a1e97543cf500f013c29ef410eced1bb0bb9154ba9a046a",
+  "created": "2026-06-13",
+  "description": "A quick immersion press: steep dosed, ground coffee in the chamber, then press it through a paper cap into the cup. Tolerant of grind error and easy to repeat.",
+  "emitter": "opg://commons-seed",
+  "id": "aeropress-brew-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "AeroPress brew",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "beginner",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "AeroPress brew"
+      ]
+    },
+    "steps": [
+      {
+        "description": "Weigh and grind to a medium-fine grind.",
+        "position": 1
+      },
+      {
+        "description": "Heat the water to the roast temperature.",
+        "position": 2
+      },
+      {
+        "description": "Add grounds and water, stir, and steep.",
+        "position": 3
+      },
+      {
+        "description": "Press gently and steadily into the cup.",
+        "position": 4
+      },
+      {
+        "description": "Taste and record the result.",
+        "position": 5
+      }
+    ],
+    "taxonomy": "brew-procedure"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:6f1ad4b23c0c4ca7f84684ab5993839b72659747bac1f0245afc4d89132d90cf",
+        "id": "dosing-and-weighing-seed",
+        "path": "primitives/techniques/dosing-and-weighing.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:6626ac238a0a91dc2ef09bfd92a09d96729f345ea3125e0cfa083c3ebad72942",
+        "id": "grind-size-selection-seed",
+        "path": "primitives/techniques/grind-size-selection.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:eee1f7f1cdbea7e8fedd0a699ae11fa510c4ad9306fc0407f3de80100ea9373f",
+        "id": "water-temperature-selection-seed",
+        "path": "primitives/techniques/water-temperature-selection.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:05b687ef4fd11ff72c9738379ddd047e12c1939adeb2cb9ca6ff640270b6915d",
+        "id": "immersion-steeping-seed",
+        "path": "primitives/techniques/immersion-steeping.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:1eea9c42d7d4e008786935eb286ff3134686941acc9768adfc205eab0c4c63d6",
+        "id": "plunging-and-pressing-seed",
+        "path": "primitives/techniques/plunging-and-pressing.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:a01acdb3560b764e78ab7acea464153622677f5856eec103b54ffbb3431e5598",
+        "id": "immersion-press-seed",
+        "path": "primitives/tools/immersion-press.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:4c574228f7878cb4c61804c3beac8b397aeb78df26ea81e028202de7fe28ada0",
+        "id": "brew-scale-seed",
+        "path": "primitives/tools/brew-scale.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:3b79598d171ac217aff99799fc191fc69b3563313167623a175601d03387f2b1",
+        "id": "stovetop-kettle-seed",
+        "path": "primitives/tools/stovetop-kettle.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:5d6b811d2eab461ced8e9060fb00a0e8003eae7fd86972c61dd89dd2e599d154",
+        "id": "whole-bean-coffee-seed",
+        "path": "primitives/materials/whole-bean-coffee.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:4eeb5eaf3487d334da7c51915d08c2ce290bbf95a95d4853763fc773286511da",
+        "id": "brew-water-seed",
+        "path": "primitives/materials/brew-water.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:5810eb7effee9ff0afd600ca611086a8563e34d7079c685b9e7cfbc6986945ad",
+        "id": "paper-filter-seed",
+        "path": "primitives/materials/paper-filter.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "aeropress-brew",
+  "tags": [
+    "coffee",
+    "brew-procedure",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

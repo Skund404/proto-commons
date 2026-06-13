@@ -1,0 +1,125 @@
+{
+  "content_hash": "sha256:6df1481f9d57e19bb63f14d4500b7462ccdaf95e2c0b0c6f696d98e48dc17c6a",
+  "created": "2026-06-13",
+  "description": "A pour-over brew run: the recipe fixes the method and the ratio, while your beans, grind setting, water, and pour temperature bind when you run it. Every brew is a comparable, citable record.",
+  "emitter": "opg://commons-seed",
+  "id": "pour-over-brew-seed",
+  "kind": "project",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "pour-over brew",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "pour-over brew"
+      ]
+    },
+    "projectType": "production",
+    "project_decl": {
+      "consumes": [
+        {
+          "kind_ann": "material[whole-bean-coffee]",
+          "name": "coffee"
+        },
+        {
+          "kind_ann": "material[brew-water]",
+          "name": "water"
+        },
+        {
+          "kind_ann": "material[paper-filter]",
+          "name": "filter"
+        }
+      ],
+      "on_fail": "propagate",
+      "produces": "material[brewed-coffee]"
+    },
+    "taxonomy": "brew-project"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:820013ba5ea5147cf41761e6562d63a4fb4c27710859044c7cbd3c6eaf94be19",
+        "id": "v60-pour-over-brew-seed",
+        "path": "primitives/workflows/v60-pour-over-brew.json"
+      },
+      "type": "based_on"
+    },
+    {
+      "target": {
+        "hash": "sha256:5d6b811d2eab461ced8e9060fb00a0e8003eae7fd86972c61dd89dd2e599d154",
+        "id": "whole-bean-coffee-seed",
+        "path": "primitives/materials/whole-bean-coffee.json"
+      },
+      "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:4eeb5eaf3487d334da7c51915d08c2ce290bbf95a95d4853763fc773286511da",
+        "id": "brew-water-seed",
+        "path": "primitives/materials/brew-water.json"
+      },
+      "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:5810eb7effee9ff0afd600ca611086a8563e34d7079c685b9e7cfbc6986945ad",
+        "id": "paper-filter-seed",
+        "path": "primitives/materials/paper-filter.json"
+      },
+      "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:5227ec331bac862b2a831cf00cc5ea77a50969989a7c54cf7453bd95e5585949",
+        "id": "pour-over-dripper-seed",
+        "path": "primitives/tools/pour-over-dripper.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:a97cf118997f150b3bd927d17935263c60d11983f6e800a39836cf1ddecdedd9",
+        "id": "gooseneck-kettle-seed",
+        "path": "primitives/tools/gooseneck-kettle.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:4c574228f7878cb4c61804c3beac8b397aeb78df26ea81e028202de7fe28ada0",
+        "id": "brew-scale-seed",
+        "path": "primitives/tools/brew-scale.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:6f3654deabb78d3708ada2b5ccdb4d180e23c9429417799927ff9dd426aee2bc",
+        "id": "hand-grinder-seed",
+        "path": "primitives/tools/hand-grinder.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:3abda0341d97e6effcc2029308cf38ef91a9ee1cd95a863dea5cbd69fd838455",
+        "id": "server-seed",
+        "path": "primitives/tools/server.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "pour-over-brew",
+  "tags": [
+    "coffee",
+    "brew-project",
+    "production"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:dcb892c99c1810f5e1cefeb703abd136f9cc15082f2baaad21b8caa65d3bfde1",
+  "created": "2026-06-13",
+  "description": "Pour in one steady spiral from center out, holding a constant flow and level. Simple and forgiving on larger brewers.",
+  "emitter": "opg://commons-seed",
+  "id": "continuous-pouring-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "continuous pouring",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "continuous pouring"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "brewing-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:a97cf118997f150b3bd927d17935263c60d11983f6e800a39836cf1ddecdedd9",
+        "id": "gooseneck-kettle-seed",
+        "path": "primitives/tools/gooseneck-kettle.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "continuous-pouring",
+  "tags": [
+    "coffee",
+    "brewing-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,61 @@
+{
+  "content_hash": "sha256:de77854d235dca1304737d561025d5e6a9fa445edd007bc1b2385684b4e43397",
+  "description": {
+    "en": "A no-heat setup for smooth concentrate: a cold-brew maker, a grinder, a scale, and beans."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:5fd784abc6a40913f55cdf015383cec2faab12fc400b97dd627d6cc0af5fc269",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "cold-brew-maker"
+    },
+    {
+      "hash": "sha256:6f3654deabb78d3708ada2b5ccdb4d180e23c9429417799927ff9dd426aee2bc",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "hand-grinder"
+    },
+    {
+      "hash": "sha256:4c574228f7878cb4c61804c3beac8b397aeb78df26ea81e028202de7fe28ada0",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "brew-scale"
+    },
+    {
+      "hash": "sha256:5d6b811d2eab461ced8e9060fb00a0e8003eae7fd86972c61dd89dd2e599d154",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "whole-bean-coffee"
+    },
+    {
+      "hash": "sha256:777d87fe5738aa1fcffddb97f273c4b7ef7f3e21921be46b192009d56dbd7038",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "metal-mesh-filter"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Cold brew kit"
+  },
+  "record_class": "bundle",
+  "slug": "cold-brew-kit",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "coffee",
+    "kit"
+  ]
+}

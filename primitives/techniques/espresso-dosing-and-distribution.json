@@ -1,0 +1,60 @@
+{
+  "content_hash": "sha256:90047194c21bed160dfd3363937a3258be24ff4802c92f84d2f1fb7d4f1bc68f",
+  "created": "2026-06-13",
+  "description": "Dose the ground coffee into the basket, then break up clumps and level the bed with a needle tool so water meets even resistance. The foundation of an even shot.",
+  "emitter": "opg://commons-seed",
+  "id": "espresso-dosing-and-distribution-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "espresso dosing and distribution",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "espresso dosing and distribution",
+        "WDT"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "taxonomy": "extraction-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:01aff37708c9efa6bd990650407a25379bf60f260e13c5b07f6970214bad2631",
+        "id": "wdt-tool-seed",
+        "path": "primitives/tools/wdt-tool.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:d617fe9e1b979ca992d88a20fe3c65a7d0474aa48c040afced25e8aa6b401cc6",
+        "id": "dosing-funnel-seed",
+        "path": "primitives/tools/dosing-funnel.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:9d50e5a1c96edba820201a187101adb42d7c1de8dca68bdcfc66fd8709900d26",
+        "id": "espresso-grinder-seed",
+        "path": "primitives/tools/espresso-grinder.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "espresso-dosing-and-distribution",
+  "tags": [
+    "coffee",
+    "extraction-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

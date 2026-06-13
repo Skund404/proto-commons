@@ -1,0 +1,59 @@
+{
+  "content_hash": "sha256:eee1f7f1cdbea7e8fedd0a699ae11fa510c4ad9306fc0407f3de80100ea9373f",
+  "created": "2026-06-13",
+  "description": "Match water temperature to the roast: hotter for light roasts, cooler for dark, so extraction lands in balance. Record the temperature you actually pour at.",
+  "emitter": "opg://commons-seed",
+  "id": "water-temperature-selection-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "water temperature selection",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "water temperature selection"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "water-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:3eb83f2213dea74ef995e157d51d2151da64af1efc9fe4b4feda39cf7b65b16b",
+        "id": "variable-temp-kettle-seed",
+        "path": "primitives/tools/variable-temp-kettle.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:79f940c466326254d13045224dc7b0da21f4b94e405bbff96bf9bea764169bee",
+        "id": "thermometer-seed",
+        "path": "primitives/tools/thermometer.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:4eeb5eaf3487d334da7c51915d08c2ce290bbf95a95d4853763fc773286511da",
+        "id": "brew-water-seed",
+        "path": "primitives/materials/brew-water.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "water-temperature-selection",
+  "tags": [
+    "coffee",
+    "water-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

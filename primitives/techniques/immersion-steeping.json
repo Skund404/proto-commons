@@ -1,0 +1,51 @@
+{
+  "content_hash": "sha256:05b687ef4fd11ff72c9738379ddd047e12c1939adeb2cb9ca6ff640270b6915d",
+  "created": "2026-06-13",
+  "description": "Let the grounds sit fully submerged for a set time so extraction is driven by contact, not pour. Forgiving and very repeatable.",
+  "emitter": "opg://commons-seed",
+  "id": "immersion-steeping-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "immersion steeping",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "immersion steeping"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "brewing-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:631a14240938e496a92fcd91cb00b8a85db2ebdb26729a06231fe34744c98523",
+        "id": "french-press-seed",
+        "path": "primitives/tools/french-press.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:a01acdb3560b764e78ab7acea464153622677f5856eec103b54ffbb3431e5598",
+        "id": "immersion-press-seed",
+        "path": "primitives/tools/immersion-press.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "immersion-steeping",
+  "tags": [
+    "coffee",
+    "brewing-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

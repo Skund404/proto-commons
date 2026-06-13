@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "tasting-technique",
+  "names": {
+    "en": [
+      "tasting technique"
+    ]
+  },
+  "specializes": "brewing-technique"
+}

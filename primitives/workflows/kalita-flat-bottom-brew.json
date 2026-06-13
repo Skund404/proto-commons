@@ -1,0 +1,137 @@
+{
+  "content_hash": "sha256:0d18d0238958e6c78e4579cff6ef0851697f6a12e9f349d6602cdfafa5bff273",
+  "created": "2026-06-13",
+  "description": "A flat-bottom drip whose even bed forgives small errors: dose, grind, bloom, then pour in steady pulses to the target weight.",
+  "emitter": "opg://commons-seed",
+  "id": "kalita-flat-bottom-brew-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Kalita flat-bottom brew",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "beginner",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "Kalita flat-bottom brew"
+      ]
+    },
+    "steps": [
+      {
+        "description": "Weigh and grind to a medium drip grind.",
+        "position": 1
+      },
+      {
+        "description": "Heat the water to the roast temperature.",
+        "position": 2
+      },
+      {
+        "description": "Seat the wavy filter and add the grounds.",
+        "position": 3
+      },
+      {
+        "description": "Bloom, then pour in even pulses to target.",
+        "position": 4
+      },
+      {
+        "description": "Let it draw down and taste.",
+        "position": 5
+      }
+    ],
+    "taxonomy": "brew-procedure"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:6f1ad4b23c0c4ca7f84684ab5993839b72659747bac1f0245afc4d89132d90cf",
+        "id": "dosing-and-weighing-seed",
+        "path": "primitives/techniques/dosing-and-weighing.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:6626ac238a0a91dc2ef09bfd92a09d96729f345ea3125e0cfa083c3ebad72942",
+        "id": "grind-size-selection-seed",
+        "path": "primitives/techniques/grind-size-selection.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:630765f64f1bd2a4ad1e13a335a0e2b15d6a6a33d47b85e8d3aeea7dde29e8b6",
+        "id": "blooming-seed",
+        "path": "primitives/techniques/blooming.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:87ec5ec5af42336d33091d1384cdd1b715e0004424564d3507b93399e3e8aa29",
+        "id": "pulse-pouring-seed",
+        "path": "primitives/techniques/pulse-pouring.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:cba5f961420c215dfc0a69ebb7b483560a52461dde442e7700a8cf13445cd76b",
+        "id": "flat-bottom-dripper-seed",
+        "path": "primitives/tools/flat-bottom-dripper.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:a97cf118997f150b3bd927d17935263c60d11983f6e800a39836cf1ddecdedd9",
+        "id": "gooseneck-kettle-seed",
+        "path": "primitives/tools/gooseneck-kettle.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:4c574228f7878cb4c61804c3beac8b397aeb78df26ea81e028202de7fe28ada0",
+        "id": "brew-scale-seed",
+        "path": "primitives/tools/brew-scale.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:5d6b811d2eab461ced8e9060fb00a0e8003eae7fd86972c61dd89dd2e599d154",
+        "id": "whole-bean-coffee-seed",
+        "path": "primitives/materials/whole-bean-coffee.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:4eeb5eaf3487d334da7c51915d08c2ce290bbf95a95d4853763fc773286511da",
+        "id": "brew-water-seed",
+        "path": "primitives/materials/brew-water.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:5810eb7effee9ff0afd600ca611086a8563e34d7079c685b9e7cfbc6986945ad",
+        "id": "paper-filter-seed",
+        "path": "primitives/materials/paper-filter.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "kalita-flat-bottom-brew",
+  "tags": [
+    "coffee",
+    "brew-procedure",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

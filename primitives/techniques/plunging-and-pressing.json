@@ -1,0 +1,51 @@
+{
+  "content_hash": "sha256:1eea9c42d7d4e008786935eb286ff3134686941acc9768adfc205eab0c4c63d6",
+  "created": "2026-06-13",
+  "description": "End an immersion brew by pressing the plunger down slowly and steadily, separating the grounds from the liquid without churning the bed.",
+  "emitter": "opg://commons-seed",
+  "id": "plunging-and-pressing-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "plunging and pressing",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "plunging and pressing"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "extraction-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:631a14240938e496a92fcd91cb00b8a85db2ebdb26729a06231fe34744c98523",
+        "id": "french-press-seed",
+        "path": "primitives/tools/french-press.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:a01acdb3560b764e78ab7acea464153622677f5856eec103b54ffbb3431e5598",
+        "id": "immersion-press-seed",
+        "path": "primitives/tools/immersion-press.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "plunging-and-pressing",
+  "tags": [
+    "coffee",
+    "extraction-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

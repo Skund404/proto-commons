@@ -1,0 +1,75 @@
+{
+  "content_hash": "sha256:1de6a11106f89d27dc1f19ddd215d25d08b823d67cb9d4888dc7f21a07db58ea",
+  "description": {
+    "en": "The pour-over brew project with the gear and consumables to run it, a complete first brew."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:6df1481f9d57e19bb63f14d4500b7462ccdaf95e2c0b0c6f696d98e48dc17c6a",
+      "kind": "project",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "pour-over-brew"
+    },
+    {
+      "hash": "sha256:5227ec331bac862b2a831cf00cc5ea77a50969989a7c54cf7453bd95e5585949",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "pour-over-dripper"
+    },
+    {
+      "hash": "sha256:a97cf118997f150b3bd927d17935263c60d11983f6e800a39836cf1ddecdedd9",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "gooseneck-kettle"
+    },
+    {
+      "hash": "sha256:4c574228f7878cb4c61804c3beac8b397aeb78df26ea81e028202de7fe28ada0",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "brew-scale"
+    },
+    {
+      "hash": "sha256:6f3654deabb78d3708ada2b5ccdb4d180e23c9429417799927ff9dd426aee2bc",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "hand-grinder"
+    },
+    {
+      "hash": "sha256:5810eb7effee9ff0afd600ca611086a8563e34d7079c685b9e7cfbc6986945ad",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "paper-filter"
+    },
+    {
+      "hash": "sha256:5d6b811d2eab461ced8e9060fb00a0e8003eae7fd86972c61dd89dd2e599d154",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "whole-bean-coffee"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Pour-over project kit"
+  },
+  "record_class": "bundle",
+  "slug": "pour-over-project-kit",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "coffee",
+    "kit"
+  ]
+}

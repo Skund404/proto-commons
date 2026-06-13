@@ -1,0 +1,59 @@
+{
+  "content_hash": "sha256:5b7a01808a071a72bb14d911c349ff4cbaa1b82bef1ab813f1133e81b79b8c54",
+  "created": "2026-06-13",
+  "description": "Choose the ratio of coffee to water, often written like 1:16, that sets the strength of the cup. Lock the ratio first, then adjust grind and time to taste.",
+  "emitter": "opg://commons-seed",
+  "id": "brew-ratio-selection-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "brew ratio selection",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "brew ratio selection"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "brewing-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:4c574228f7878cb4c61804c3beac8b397aeb78df26ea81e028202de7fe28ada0",
+        "id": "brew-scale-seed",
+        "path": "primitives/tools/brew-scale.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:5d6b811d2eab461ced8e9060fb00a0e8003eae7fd86972c61dd89dd2e599d154",
+        "id": "whole-bean-coffee-seed",
+        "path": "primitives/materials/whole-bean-coffee.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:4eeb5eaf3487d334da7c51915d08c2ce290bbf95a95d4853763fc773286511da",
+        "id": "brew-water-seed",
+        "path": "primitives/materials/brew-water.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "brew-ratio-selection",
+  "tags": [
+    "coffee",
+    "brewing-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

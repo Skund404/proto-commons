@@ -1,0 +1,51 @@
+{
+  "content_hash": "sha256:460b1a389bda61740bd1880a447a3a9a3e2562758b111c455dbec656ba12c67b",
+  "created": "2026-06-13",
+  "description": "Flush a kettle or machine with a mild acid solution to dissolve limescale from the boiler and lines, keeping heating and flow steady.",
+  "emitter": "opg://commons-seed",
+  "id": "descaling-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "descaling",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "descaling"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "taxonomy": "maintenance-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:3eb83f2213dea74ef995e157d51d2151da64af1efc9fe4b4feda39cf7b65b16b",
+        "id": "variable-temp-kettle-seed",
+        "path": "primitives/tools/variable-temp-kettle.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:59a75aae92b75086cb39e930ccedaa9d9cb8449d941588a66f37bc60ac98e81a",
+        "id": "descaler-seed",
+        "path": "primitives/materials/descaler.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "descaling",
+  "tags": [
+    "coffee",
+    "maintenance-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

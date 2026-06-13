@@ -1,0 +1,59 @@
+{
+  "content_hash": "sha256:327a9da874b4272279a9f24aa31ad0ae6c21fa0984cb9aabbc3aea98823f55f5",
+  "created": "2026-06-13",
+  "description": "Treat the water before brewing: filter the tap, or remineralize a distilled base to a target recipe, so mineral content stays consistent cup to cup.",
+  "emitter": "opg://commons-seed",
+  "id": "water-preparation-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "water preparation",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "water preparation"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "taxonomy": "water-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:d0e5b407c221c98b83dac9b1a9b6859e4bc4ffcaf3505d4646df584071895fb3",
+        "id": "water-filter-pitcher-seed",
+        "path": "primitives/tools/water-filter-pitcher.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:b522f77fcb27022f05837ab05b97b11986f5905cb21e144eac75266d49562c29",
+        "id": "remineralized-water-seed",
+        "path": "primitives/materials/remineralized-water.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:613c2fbc888e5cddcbd8817cbd690f012f860d2071033074b53b51fe62019d1d",
+        "id": "distilled-water-seed",
+        "path": "primitives/materials/distilled-water.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "water-preparation",
+  "tags": [
+    "coffee",
+    "water-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

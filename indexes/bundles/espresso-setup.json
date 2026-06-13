@@ -1,0 +1,75 @@
+{
+  "content_hash": "sha256:77dd510f7a594f47ab487701c20364161b65557ccb1af7d7b5c1d0c5b076e450",
+  "description": {
+    "en": "A catalogue of popular home espresso machines and the grinder and accessories that support them."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:c5b5d81c7f4eb10f3cc24f8477765c7bbf7d820fdbdf78bf041aebdc713a43e0",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "breville-bambino-plus"
+    },
+    {
+      "hash": "sha256:fc8c4f198bf65ce0b1fcffb2d1d0ffc5e92de1a4f5a1013bdbaabd7e823bc10c",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "gaggia-classic-pro"
+    },
+    {
+      "hash": "sha256:f34f4d03157230bfed7ff29b634bede39d3e98e4972793ac8169ab7a674f0de9",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "rancilio-silvia"
+    },
+    {
+      "hash": "sha256:6a6316987ced240c35efdb6a201889d8d965090f5dd3149589cce9fc031451c8",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "la-marzocco-linea-mini"
+    },
+    {
+      "hash": "sha256:229984960c1c619e9829395c19970a4e7e0a7e393d37249c3f57fbc2e686c5f1",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "flair-58"
+    },
+    {
+      "hash": "sha256:4433c54d99196efe9df0643cb27eec0940a37df7c5f417fba537e1df46a38130",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "niche-zero"
+    },
+    {
+      "hash": "sha256:1475d341147668e622e8b2f21d57facbb86e4d35690fc1295bf6f1ead94b5879",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "acaia-lunar"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Espresso setup"
+  },
+  "record_class": "bundle",
+  "slug": "espresso-setup",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "coffee",
+    "catalogue"
+  ]
+}

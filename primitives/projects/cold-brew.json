@@ -1,0 +1,89 @@
+{
+  "content_hash": "sha256:6562c69f5918f29f7ca64e878775a4d49e45028e1c665de8db8dd0ad1fa2a949",
+  "created": "2026-06-13",
+  "description": "A cold-brew run: steep time, grind, and dilution bind per batch, and the run records the concentrate it yields.",
+  "emitter": "opg://commons-seed",
+  "id": "cold-brew-seed",
+  "kind": "project",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "cold brew",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "cold brew"
+      ]
+    },
+    "projectType": "production",
+    "project_decl": {
+      "consumes": [
+        {
+          "kind_ann": "material[whole-bean-coffee]",
+          "name": "coffee"
+        },
+        {
+          "kind_ann": "material[brew-water]",
+          "name": "water"
+        }
+      ],
+      "on_fail": "propagate",
+      "produces": "material[cold-brew-concentrate]"
+    },
+    "taxonomy": "brew-project"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:974990142cf62814170287c95c1b56c213c45b6a5ddc831b99e865cc381e9261",
+        "id": "cold-brew-steep-seed",
+        "path": "primitives/workflows/cold-brew-steep.json"
+      },
+      "type": "based_on"
+    },
+    {
+      "target": {
+        "hash": "sha256:5d6b811d2eab461ced8e9060fb00a0e8003eae7fd86972c61dd89dd2e599d154",
+        "id": "whole-bean-coffee-seed",
+        "path": "primitives/materials/whole-bean-coffee.json"
+      },
+      "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:4eeb5eaf3487d334da7c51915d08c2ce290bbf95a95d4853763fc773286511da",
+        "id": "brew-water-seed",
+        "path": "primitives/materials/brew-water.json"
+      },
+      "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:5fd784abc6a40913f55cdf015383cec2faab12fc400b97dd627d6cc0af5fc269",
+        "id": "cold-brew-maker-seed",
+        "path": "primitives/tools/cold-brew-maker.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:4c574228f7878cb4c61804c3beac8b397aeb78df26ea81e028202de7fe28ada0",
+        "id": "brew-scale-seed",
+        "path": "primitives/tools/brew-scale.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "cold-brew",
+  "tags": [
+    "coffee",
+    "brew-project",
+    "production"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,113 @@
+{
+  "content_hash": "sha256:974990142cf62814170287c95c1b56c213c45b6a5ddc831b99e865cc381e9261",
+  "created": "2026-06-13",
+  "description": "A long cold steep for a smooth, low-acid concentrate: combine coarse grounds and cold water, steep for many hours, then filter out the grounds.",
+  "emitter": "opg://commons-seed",
+  "id": "cold-brew-steep-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "cold brew steep",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "beginner",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "cold brew steep"
+      ]
+    },
+    "steps": [
+      {
+        "description": "Weigh and grind to a coarse grind.",
+        "position": 1
+      },
+      {
+        "description": "Combine grounds and cold water in the vessel.",
+        "position": 2
+      },
+      {
+        "description": "Steep 12 to 24 hours, refrigerated or at room temperature.",
+        "position": 3
+      },
+      {
+        "description": "Filter out the grounds.",
+        "position": 4
+      },
+      {
+        "description": "Dilute to taste and serve over ice.",
+        "position": 5
+      }
+    ],
+    "taxonomy": "brew-procedure"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:6f1ad4b23c0c4ca7f84684ab5993839b72659747bac1f0245afc4d89132d90cf",
+        "id": "dosing-and-weighing-seed",
+        "path": "primitives/techniques/dosing-and-weighing.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:6626ac238a0a91dc2ef09bfd92a09d96729f345ea3125e0cfa083c3ebad72942",
+        "id": "grind-size-selection-seed",
+        "path": "primitives/techniques/grind-size-selection.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:05b687ef4fd11ff72c9738379ddd047e12c1939adeb2cb9ca6ff640270b6915d",
+        "id": "immersion-steeping-seed",
+        "path": "primitives/techniques/immersion-steeping.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:5fd784abc6a40913f55cdf015383cec2faab12fc400b97dd627d6cc0af5fc269",
+        "id": "cold-brew-maker-seed",
+        "path": "primitives/tools/cold-brew-maker.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:4c574228f7878cb4c61804c3beac8b397aeb78df26ea81e028202de7fe28ada0",
+        "id": "brew-scale-seed",
+        "path": "primitives/tools/brew-scale.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:5d6b811d2eab461ced8e9060fb00a0e8003eae7fd86972c61dd89dd2e599d154",
+        "id": "whole-bean-coffee-seed",
+        "path": "primitives/materials/whole-bean-coffee.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:4eeb5eaf3487d334da7c51915d08c2ce290bbf95a95d4853763fc773286511da",
+        "id": "brew-water-seed",
+        "path": "primitives/materials/brew-water.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "cold-brew-steep",
+  "tags": [
+    "coffee",
+    "brew-procedure",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

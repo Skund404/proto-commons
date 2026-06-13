@@ -1,0 +1,47 @@
+{
+  "content_hash": "sha256:93015694841b35c7fa026a02f46a6365727d8886dbe7feba6769105e7f387fda",
+  "description": {
+    "en": "A compact, power-free brewing set for the road: a hand grinder, an immersion press, and a small scale."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:6f3654deabb78d3708ada2b5ccdb4d180e23c9429417799927ff9dd426aee2bc",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "hand-grinder"
+    },
+    {
+      "hash": "sha256:a01acdb3560b764e78ab7acea464153622677f5856eec103b54ffbb3431e5598",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "immersion-press"
+    },
+    {
+      "hash": "sha256:4c574228f7878cb4c61804c3beac8b397aeb78df26ea81e028202de7fe28ada0",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "brew-scale"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Hand-grind travel kit"
+  },
+  "record_class": "bundle",
+  "slug": "hand-grind-travel-kit",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "coffee",
+    "kit"
+  ]
+}

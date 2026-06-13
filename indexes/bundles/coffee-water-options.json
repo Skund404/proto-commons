@@ -1,0 +1,61 @@
+{
+  "content_hash": "sha256:107bcb5739885da043cb9ae310bd267700e9d7ee7e6a15901528bb85fd898fd3",
+  "description": {
+    "en": "A catalogue of brewing water choices, from filtered tap to a remineralized recipe."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:4eeb5eaf3487d334da7c51915d08c2ce290bbf95a95d4853763fc773286511da",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "brew-water"
+    },
+    {
+      "hash": "sha256:e80970c3a6c2feed8176022a53f6b517e75f9156ab26b8ae9fc131626e7b868d",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "filtered-water"
+    },
+    {
+      "hash": "sha256:b522f77fcb27022f05837ab05b97b11986f5905cb21e144eac75266d49562c29",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "remineralized-water"
+    },
+    {
+      "hash": "sha256:613c2fbc888e5cddcbd8817cbd690f012f860d2071033074b53b51fe62019d1d",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "distilled-water"
+    },
+    {
+      "hash": "sha256:c5f5cf2c4c0f5887b7a7f5c3dd4aed445b6dc4da8fafa0d9c62e19f9f82ac46f",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "third-wave-water"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Coffee water options"
+  },
+  "record_class": "bundle",
+  "slug": "coffee-water-options",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "coffee",
+    "catalogue"
+  ]
+}

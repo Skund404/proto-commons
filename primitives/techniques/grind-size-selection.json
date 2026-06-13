@@ -1,0 +1,59 @@
+{
+  "content_hash": "sha256:6626ac238a0a91dc2ef09bfd92a09d96729f345ea3125e0cfa083c3ebad72942",
+  "created": "2026-06-13",
+  "description": "Pick a grind size to match the method: coarse for press and cold brew, medium for drip, fine for espresso. Finer grinds extract faster, so grind is the main lever you turn when a brew tastes weak or harsh.",
+  "emitter": "opg://commons-seed",
+  "id": "grind-size-selection-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "grind size selection",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "grind size selection"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "grinding-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:6f3654deabb78d3708ada2b5ccdb4d180e23c9429417799927ff9dd426aee2bc",
+        "id": "hand-grinder-seed",
+        "path": "primitives/tools/hand-grinder.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:d4a40160a416da5aa913b38b2dcd86cedb5d765b435b5c2da2c494ecc8509e28",
+        "id": "electric-grinder-seed",
+        "path": "primitives/tools/electric-grinder.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:5d6b811d2eab461ced8e9060fb00a0e8003eae7fd86972c61dd89dd2e599d154",
+        "id": "whole-bean-coffee-seed",
+        "path": "primitives/materials/whole-bean-coffee.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "grind-size-selection",
+  "tags": [
+    "coffee",
+    "grinding-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

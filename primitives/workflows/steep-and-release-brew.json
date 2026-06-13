@@ -1,0 +1,137 @@
+{
+  "content_hash": "sha256:fbae2196f8efb14d57de26453373d2de02fa7584cc58837f8c5bfe575a8bec74",
+  "created": "2026-06-13",
+  "description": "Immersion plus a clean finish: steep in a valved dripper, then open the valve to release the brew through a paper filter.",
+  "emitter": "opg://commons-seed",
+  "id": "steep-and-release-brew-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "steep-and-release brew",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "beginner",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "steep-and-release brew"
+      ]
+    },
+    "steps": [
+      {
+        "description": "Weigh and grind to a medium drip grind.",
+        "position": 1
+      },
+      {
+        "description": "Close the valve, add filter and grounds.",
+        "position": 2
+      },
+      {
+        "description": "Pour to target and steep.",
+        "position": 3
+      },
+      {
+        "description": "Set on a cup to open the valve and release.",
+        "position": 4
+      },
+      {
+        "description": "Taste and record.",
+        "position": 5
+      }
+    ],
+    "taxonomy": "brew-procedure"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:6f1ad4b23c0c4ca7f84684ab5993839b72659747bac1f0245afc4d89132d90cf",
+        "id": "dosing-and-weighing-seed",
+        "path": "primitives/techniques/dosing-and-weighing.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:6626ac238a0a91dc2ef09bfd92a09d96729f345ea3125e0cfa083c3ebad72942",
+        "id": "grind-size-selection-seed",
+        "path": "primitives/techniques/grind-size-selection.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:eee1f7f1cdbea7e8fedd0a699ae11fa510c4ad9306fc0407f3de80100ea9373f",
+        "id": "water-temperature-selection-seed",
+        "path": "primitives/techniques/water-temperature-selection.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:05b687ef4fd11ff72c9738379ddd047e12c1939adeb2cb9ca6ff640270b6915d",
+        "id": "immersion-steeping-seed",
+        "path": "primitives/techniques/immersion-steeping.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:3b864b3b6277d627c187a61044b9059b154f8b2da64d9c9331a979217dc460a2",
+        "id": "steep-and-release-dripper-seed",
+        "path": "primitives/tools/steep-and-release-dripper.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:a97cf118997f150b3bd927d17935263c60d11983f6e800a39836cf1ddecdedd9",
+        "id": "gooseneck-kettle-seed",
+        "path": "primitives/tools/gooseneck-kettle.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:4c574228f7878cb4c61804c3beac8b397aeb78df26ea81e028202de7fe28ada0",
+        "id": "brew-scale-seed",
+        "path": "primitives/tools/brew-scale.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:5d6b811d2eab461ced8e9060fb00a0e8003eae7fd86972c61dd89dd2e599d154",
+        "id": "whole-bean-coffee-seed",
+        "path": "primitives/materials/whole-bean-coffee.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:4eeb5eaf3487d334da7c51915d08c2ce290bbf95a95d4853763fc773286511da",
+        "id": "brew-water-seed",
+        "path": "primitives/materials/brew-water.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:5810eb7effee9ff0afd600ca611086a8563e34d7079c685b9e7cfbc6986945ad",
+        "id": "paper-filter-seed",
+        "path": "primitives/materials/paper-filter.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "steep-and-release-brew",
+  "tags": [
+    "coffee",
+    "brew-procedure",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

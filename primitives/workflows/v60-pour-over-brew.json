@@ -1,0 +1,173 @@
+{
+  "content_hash": "sha256:820013ba5ea5147cf41761e6562d63a4fb4c27710859044c7cbd3c6eaf94be19",
+  "created": "2026-06-13",
+  "description": "A single-cup cone pour-over: dose and grind, heat the water to the roast, bloom, then build the brew in pulses with a gentle swirl, and taste the result.",
+  "emitter": "opg://commons-seed",
+  "id": "v60-pour-over-brew-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "V60 pour-over brew",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "beginner",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "V60 pour-over brew"
+      ]
+    },
+    "steps": [
+      {
+        "description": "Weigh and grind the beans to a medium drip grind.",
+        "position": 1
+      },
+      {
+        "description": "Heat the water to the temperature for your roast.",
+        "position": 2
+      },
+      {
+        "description": "Rinse the paper filter and add the grounds.",
+        "position": 3
+      },
+      {
+        "description": "Bloom with a small pour, then wait 30 to 45 seconds.",
+        "position": 4
+      },
+      {
+        "description": "Pour in pulses to the target weight, swirling gently.",
+        "position": 5
+      },
+      {
+        "description": "Let it draw down, then taste and record the result.",
+        "position": 6
+      }
+    ],
+    "taxonomy": "brew-procedure"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:6f1ad4b23c0c4ca7f84684ab5993839b72659747bac1f0245afc4d89132d90cf",
+        "id": "dosing-and-weighing-seed",
+        "path": "primitives/techniques/dosing-and-weighing.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:6626ac238a0a91dc2ef09bfd92a09d96729f345ea3125e0cfa083c3ebad72942",
+        "id": "grind-size-selection-seed",
+        "path": "primitives/techniques/grind-size-selection.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:eee1f7f1cdbea7e8fedd0a699ae11fa510c4ad9306fc0407f3de80100ea9373f",
+        "id": "water-temperature-selection-seed",
+        "path": "primitives/techniques/water-temperature-selection.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:630765f64f1bd2a4ad1e13a335a0e2b15d6a6a33d47b85e8d3aeea7dde29e8b6",
+        "id": "blooming-seed",
+        "path": "primitives/techniques/blooming.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:87ec5ec5af42336d33091d1384cdd1b715e0004424564d3507b93399e3e8aa29",
+        "id": "pulse-pouring-seed",
+        "path": "primitives/techniques/pulse-pouring.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:8f9fac87353e273bb403a61018ef4ae8b292569acc3e5890be0a87b424355ca8",
+        "id": "swirl-and-agitation-seed",
+        "path": "primitives/techniques/swirl-and-agitation.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:3b6d468a254571bbe400aea26b35919a98c7d6d82851c469bf33e2c60bb677c1",
+        "id": "tasting-and-evaluation-seed",
+        "path": "primitives/techniques/tasting-and-evaluation.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:5227ec331bac862b2a831cf00cc5ea77a50969989a7c54cf7453bd95e5585949",
+        "id": "pour-over-dripper-seed",
+        "path": "primitives/tools/pour-over-dripper.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:a97cf118997f150b3bd927d17935263c60d11983f6e800a39836cf1ddecdedd9",
+        "id": "gooseneck-kettle-seed",
+        "path": "primitives/tools/gooseneck-kettle.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:4c574228f7878cb4c61804c3beac8b397aeb78df26ea81e028202de7fe28ada0",
+        "id": "brew-scale-seed",
+        "path": "primitives/tools/brew-scale.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:6f3654deabb78d3708ada2b5ccdb4d180e23c9429417799927ff9dd426aee2bc",
+        "id": "hand-grinder-seed",
+        "path": "primitives/tools/hand-grinder.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:5d6b811d2eab461ced8e9060fb00a0e8003eae7fd86972c61dd89dd2e599d154",
+        "id": "whole-bean-coffee-seed",
+        "path": "primitives/materials/whole-bean-coffee.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:4eeb5eaf3487d334da7c51915d08c2ce290bbf95a95d4853763fc773286511da",
+        "id": "brew-water-seed",
+        "path": "primitives/materials/brew-water.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:5810eb7effee9ff0afd600ca611086a8563e34d7079c685b9e7cfbc6986945ad",
+        "id": "paper-filter-seed",
+        "path": "primitives/materials/paper-filter.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "v60-pour-over-brew",
+  "tags": [
+    "coffee",
+    "brew-procedure",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

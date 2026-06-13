@@ -1,0 +1,51 @@
+{
+  "content_hash": "sha256:b07aadb357ec2b699216eff11c5d4cfc160260cd7e25e40b92fbcde803253e5c",
+  "created": "2026-06-13",
+  "description": "Steam milk with the wand to stretch and texture it into glossy microfoam, then swirl it smooth for pouring into espresso drinks.",
+  "emitter": "opg://commons-seed",
+  "id": "milk-steaming-and-frothing-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "milk steaming and frothing",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "milk steaming and frothing"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "taxonomy": "extraction-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:c8103be781d080f47e45d6a5bc3da5b1ef7d28780a2f26a634b0c5a06795138b",
+        "id": "espresso-machine-seed",
+        "path": "primitives/tools/espresso-machine.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:c49ed267cc85ea4b59c44df4041ba5e616fb67fac6b8c578483c77cb0448a111",
+        "id": "milk-pitcher-seed",
+        "path": "primitives/tools/milk-pitcher.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "milk-steaming-and-frothing",
+  "tags": [
+    "coffee",
+    "extraction-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

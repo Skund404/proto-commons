@@ -1,0 +1,52 @@
+{
+  "content_hash": "sha256:3b6d468a254571bbe400aea26b35919a98c7d6d82851c469bf33e2c60bb677c1",
+  "created": "2026-06-13",
+  "description": "Taste the brew against its parameters and note aroma, acidity, sweetness, body, and finish. Add a refractometer reading to compare cups by number as well as by palate.",
+  "emitter": "opg://commons-seed",
+  "id": "tasting-and-evaluation-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "tasting and evaluation",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "tasting and evaluation",
+        "cupping"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "tasting-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:c69ec511097492d3b5f78828e1288bdcc5cbc50c055d22085b00cc2c83be174f",
+        "id": "cupping-bowl-seed",
+        "path": "primitives/tools/cupping-bowl.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:e66ef6c7c31963022a041681dd4f91af398598aa9836090eff360a81f00c9029",
+        "id": "refractometer-seed",
+        "path": "primitives/tools/refractometer.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "tasting-and-evaluation",
+  "tags": [
+    "coffee",
+    "tasting-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

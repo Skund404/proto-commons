@@ -1,0 +1,105 @@
+{
+  "content_hash": "sha256:4a3189f8b4c678474855df5db0aa7ff263a1df8d48cc1108705c04dbc746c050",
+  "created": "2026-06-13",
+  "description": "A stovetop moka brew: fill the base, load the basket, and heat until steam pressure pushes a strong, concentrated coffee up into the top.",
+  "emitter": "opg://commons-seed",
+  "id": "moka-pot-brew-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "moka pot brew",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "beginner",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "moka pot brew"
+      ]
+    },
+    "steps": [
+      {
+        "description": "Fill the base with hot water to the valve.",
+        "position": 1
+      },
+      {
+        "description": "Fill the basket with finely ground coffee, level, no tamp.",
+        "position": 2
+      },
+      {
+        "description": "Assemble and heat on a moderate flame.",
+        "position": 3
+      },
+      {
+        "description": "Pull it off when the flow turns pale and gurgles.",
+        "position": 4
+      },
+      {
+        "description": "Pour and taste.",
+        "position": 5
+      }
+    ],
+    "taxonomy": "brew-procedure"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:6f1ad4b23c0c4ca7f84684ab5993839b72659747bac1f0245afc4d89132d90cf",
+        "id": "dosing-and-weighing-seed",
+        "path": "primitives/techniques/dosing-and-weighing.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:6626ac238a0a91dc2ef09bfd92a09d96729f345ea3125e0cfa083c3ebad72942",
+        "id": "grind-size-selection-seed",
+        "path": "primitives/techniques/grind-size-selection.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:576dd201785b811ff9b2883b0db84d34089fe87ae35833ab3b7c4ebcc2789453",
+        "id": "moka-pot-seed",
+        "path": "primitives/tools/moka-pot.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:3b79598d171ac217aff99799fc191fc69b3563313167623a175601d03387f2b1",
+        "id": "stovetop-kettle-seed",
+        "path": "primitives/tools/stovetop-kettle.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:5d6b811d2eab461ced8e9060fb00a0e8003eae7fd86972c61dd89dd2e599d154",
+        "id": "whole-bean-coffee-seed",
+        "path": "primitives/materials/whole-bean-coffee.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:4eeb5eaf3487d334da7c51915d08c2ce290bbf95a95d4853763fc773286511da",
+        "id": "brew-water-seed",
+        "path": "primitives/materials/brew-water.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "moka-pot-brew",
+  "tags": [
+    "coffee",
+    "brew-procedure",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

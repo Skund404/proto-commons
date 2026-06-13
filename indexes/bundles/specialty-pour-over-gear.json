@@ -1,0 +1,82 @@
+{
+  "content_hash": "sha256:3aead8b46ba33e9d342c373e2cf9e283557943d6d4564e06679c9b8ce349f231",
+  "description": {
+    "en": "A catalogue of widely used pour-over brewers and the kettles and scales that pair with them."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:d3d9bf9a101a34d0e414e1f5115decf65d840a9365100ab58fd90ac2eb67b2e1",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "hario-v60"
+    },
+    {
+      "hash": "sha256:925204fd99af26427df8f5bfb4d048d9126d098c6e633628c23ad0bc37604678",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "kalita-wave-185"
+    },
+    {
+      "hash": "sha256:98698fef086ad29f712310ea5d550e603775c90fd104d9f6fcd5741870d96d5a",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "origami-dripper"
+    },
+    {
+      "hash": "sha256:7291330e7da309a60f26ab6cfcf4ec5aca6706339b0302cdca45d9c5c4a01779",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "chemex-classic"
+    },
+    {
+      "hash": "sha256:1acf27637045eb844895b3906f1be432ffc0110b18734cbf427fdbf33f5b25ca",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "hario-switch"
+    },
+    {
+      "hash": "sha256:ef053d032e0941b856a94f3f7cbafa4caddffd01128d4f499314df7e5f2ae617",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "clever-dripper"
+    },
+    {
+      "hash": "sha256:6abe3c4aa97ae74aa5c10d8a5c16791cbe8ed6e2a78ef04c58a69823b60d5e5a",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "fellow-stagg-ekg"
+    },
+    {
+      "hash": "sha256:0911ee9a26df055650c14be3188b82b682d7b5a453eeaef512470d76d188255b",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "hario-buono"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Specialty pour-over gear"
+  },
+  "record_class": "bundle",
+  "slug": "specialty-pour-over-gear",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "coffee",
+    "catalogue"
+  ]
+}

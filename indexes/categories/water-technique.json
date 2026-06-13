@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "water-technique",
+  "names": {
+    "en": [
+      "water technique"
+    ]
+  },
+  "specializes": "brewing-technique"
+}

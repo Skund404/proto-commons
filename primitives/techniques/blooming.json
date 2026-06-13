@@ -1,0 +1,52 @@
+{
+  "content_hash": "sha256:630765f64f1bd2a4ad1e13a335a0e2b15d6a6a33d47b85e8d3aeea7dde29e8b6",
+  "created": "2026-06-13",
+  "description": "Wet the dry grounds with a small first pour and wait, letting trapped gas escape so the following pours extract evenly. A short bloom of about 30 to 45 seconds is typical.",
+  "emitter": "opg://commons-seed",
+  "id": "blooming-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "blooming",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "blooming",
+        "pre-infusion"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "brewing-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:a97cf118997f150b3bd927d17935263c60d11983f6e800a39836cf1ddecdedd9",
+        "id": "gooseneck-kettle-seed",
+        "path": "primitives/tools/gooseneck-kettle.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:4eeb5eaf3487d334da7c51915d08c2ce290bbf95a95d4853763fc773286511da",
+        "id": "brew-water-seed",
+        "path": "primitives/materials/brew-water.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "blooming",
+  "tags": [
+    "coffee",
+    "brewing-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

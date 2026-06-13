@@ -1,0 +1,51 @@
+{
+  "content_hash": "sha256:6f1ad4b23c0c4ca7f84684ab5993839b72659747bac1f0245afc4d89132d90cf",
+  "created": "2026-06-13",
+  "description": "Weigh the beans before grinding so every brew starts from the same dose. Weighing rather than scooping is the first step to a result you can repeat and compare.",
+  "emitter": "opg://commons-seed",
+  "id": "dosing-and-weighing-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "dosing and weighing",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "dosing and weighing"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "grinding-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:4c574228f7878cb4c61804c3beac8b397aeb78df26ea81e028202de7fe28ada0",
+        "id": "brew-scale-seed",
+        "path": "primitives/tools/brew-scale.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:5d6b811d2eab461ced8e9060fb00a0e8003eae7fd86972c61dd89dd2e599d154",
+        "id": "whole-bean-coffee-seed",
+        "path": "primitives/materials/whole-bean-coffee.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "dosing-and-weighing",
+  "tags": [
+    "coffee",
+    "grinding-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

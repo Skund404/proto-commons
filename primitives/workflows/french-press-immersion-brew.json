@@ -1,0 +1,129 @@
+{
+  "content_hash": "sha256:dc0c6c8650406a4c744f40ac4817ba817cb0a5c8ce5758a3fb320b544b6f2840",
+  "created": "2026-06-13",
+  "description": "A full-immersion press for a heavy, full-bodied cup: steep coarse grounds, then plunge to separate them from the brew.",
+  "emitter": "opg://commons-seed",
+  "id": "french-press-immersion-brew-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "French press immersion brew",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "beginner",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "French press immersion brew"
+      ]
+    },
+    "steps": [
+      {
+        "description": "Weigh and grind to a coarse grind.",
+        "position": 1
+      },
+      {
+        "description": "Add grounds and hot water and stir.",
+        "position": 2
+      },
+      {
+        "description": "Steep for about four minutes.",
+        "position": 3
+      },
+      {
+        "description": "Skim or stir, then plunge slowly.",
+        "position": 4
+      },
+      {
+        "description": "Pour off and taste.",
+        "position": 5
+      }
+    ],
+    "taxonomy": "brew-procedure"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:6f1ad4b23c0c4ca7f84684ab5993839b72659747bac1f0245afc4d89132d90cf",
+        "id": "dosing-and-weighing-seed",
+        "path": "primitives/techniques/dosing-and-weighing.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:6626ac238a0a91dc2ef09bfd92a09d96729f345ea3125e0cfa083c3ebad72942",
+        "id": "grind-size-selection-seed",
+        "path": "primitives/techniques/grind-size-selection.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:05b687ef4fd11ff72c9738379ddd047e12c1939adeb2cb9ca6ff640270b6915d",
+        "id": "immersion-steeping-seed",
+        "path": "primitives/techniques/immersion-steeping.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:1eea9c42d7d4e008786935eb286ff3134686941acc9768adfc205eab0c4c63d6",
+        "id": "plunging-and-pressing-seed",
+        "path": "primitives/techniques/plunging-and-pressing.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:631a14240938e496a92fcd91cb00b8a85db2ebdb26729a06231fe34744c98523",
+        "id": "french-press-seed",
+        "path": "primitives/tools/french-press.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:4c574228f7878cb4c61804c3beac8b397aeb78df26ea81e028202de7fe28ada0",
+        "id": "brew-scale-seed",
+        "path": "primitives/tools/brew-scale.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:3b79598d171ac217aff99799fc191fc69b3563313167623a175601d03387f2b1",
+        "id": "stovetop-kettle-seed",
+        "path": "primitives/tools/stovetop-kettle.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:5d6b811d2eab461ced8e9060fb00a0e8003eae7fd86972c61dd89dd2e599d154",
+        "id": "whole-bean-coffee-seed",
+        "path": "primitives/materials/whole-bean-coffee.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:4eeb5eaf3487d334da7c51915d08c2ce290bbf95a95d4853763fc773286511da",
+        "id": "brew-water-seed",
+        "path": "primitives/materials/brew-water.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "french-press-immersion-brew",
+  "tags": [
+    "coffee",
+    "brew-procedure",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

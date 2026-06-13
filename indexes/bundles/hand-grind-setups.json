@@ -1,0 +1,47 @@
+{
+  "content_hash": "sha256:c164d4c8621b6bce27d21fa07085817ec57b69b43343cae078a0c887af3d1ccd",
+  "description": {
+    "en": "A catalogue of well-regarded manual grinders for filter and espresso."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:8d0adc297813b2b197a2b7ada53a63286579dbb6ccd794cd8339c3809f7081d7",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "comandante-c40"
+    },
+    {
+      "hash": "sha256:05edbee723e9722750f44e1135201f7cc9e8597db209f456314958b604c36ffa",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "1zpresso-jmax"
+    },
+    {
+      "hash": "sha256:1ef2dad3d61f026fea3fb83d2d0879d221e5df485bcdbe3f5c424d200a4f6eab",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "timemore-c2"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Hand-grind setups"
+  },
+  "record_class": "bundle",
+  "slug": "hand-grind-setups",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "coffee",
+    "catalogue"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "extraction-technique",
+  "names": {
+    "en": [
+      "extraction technique"
+    ]
+  },
+  "specializes": "brewing-technique"
+}

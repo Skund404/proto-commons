@@ -1,0 +1,105 @@
+{
+  "content_hash": "sha256:a97c2d81b255708d7139d7bab401e49d6bdb4b6c48f07e0ac19308dcba9c2be9",
+  "created": "2026-06-13",
+  "description": "An espresso brew run: dose, distribution, and tamp are protocol, while grind setting and yield bind per shot. The run captures dose in, yield out, time, and taste.",
+  "emitter": "opg://commons-seed",
+  "id": "espresso-brew-seed",
+  "kind": "project",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "espresso brew",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "espresso brew"
+      ]
+    },
+    "projectType": "production",
+    "project_decl": {
+      "consumes": [
+        {
+          "kind_ann": "material[espresso-roast-coffee]",
+          "name": "coffee"
+        },
+        {
+          "kind_ann": "material[brew-water]",
+          "name": "water"
+        }
+      ],
+      "on_fail": "propagate",
+      "produces": "material[espresso]"
+    },
+    "taxonomy": "brew-project"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:2dc767890ba8461d4134c73c69052a6a7050f261ad5a65b432d8acbafbf16469",
+        "id": "espresso-shot-pull-seed",
+        "path": "primitives/workflows/espresso-shot-pull.json"
+      },
+      "type": "based_on"
+    },
+    {
+      "target": {
+        "hash": "sha256:2cc7aa69e3c69c945ccdeaab03b4b56b22cd8c1d1581485e3b98a985407e8a34",
+        "id": "espresso-roast-coffee-seed",
+        "path": "primitives/materials/espresso-roast-coffee.json"
+      },
+      "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:4eeb5eaf3487d334da7c51915d08c2ce290bbf95a95d4853763fc773286511da",
+        "id": "brew-water-seed",
+        "path": "primitives/materials/brew-water.json"
+      },
+      "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:c8103be781d080f47e45d6a5bc3da5b1ef7d28780a2f26a634b0c5a06795138b",
+        "id": "espresso-machine-seed",
+        "path": "primitives/tools/espresso-machine.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:9d50e5a1c96edba820201a187101adb42d7c1de8dca68bdcfc66fd8709900d26",
+        "id": "espresso-grinder-seed",
+        "path": "primitives/tools/espresso-grinder.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:64c744d4859a0a2c903a185b96bbd7d21bbd27d3b59f6701db405b63d77d0ef4",
+        "id": "espresso-scale-seed",
+        "path": "primitives/tools/espresso-scale.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:7333500055bd85c7968d30f98736a7f66b7e6ac7fd748a93e256b2ac72a451f0",
+        "id": "tamper-seed",
+        "path": "primitives/tools/tamper.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "espresso-brew",
+  "tags": [
+    "coffee",
+    "brew-project",
+    "production"
+  ],
+  "visibility": "commons"
+}

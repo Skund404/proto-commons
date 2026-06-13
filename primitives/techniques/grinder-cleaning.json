@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:5b5d2b03cc4dff3bf9a3f37f92e35e4813354607e0e8a10f72e1000bcd47e986",
+  "created": "2026-06-13",
+  "description": "Brush out and wipe down the burrs and chamber so stale grounds and oils do not taint fresh coffee or clog the path.",
+  "emitter": "opg://commons-seed",
+  "id": "grinder-cleaning-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "grinder cleaning",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "grinder cleaning"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "maintenance-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:d4a40160a416da5aa913b38b2dcd86cedb5d765b435b5c2da2c494ecc8509e28",
+        "id": "electric-grinder-seed",
+        "path": "primitives/tools/electric-grinder.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "grinder-cleaning",
+  "tags": [
+    "coffee",
+    "maintenance-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

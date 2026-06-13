@@ -1,0 +1,51 @@
+{
+  "content_hash": "sha256:10803d93c82f2c9f25da90ac67b68598e423afc82d88d4ba03156d6d85523256",
+  "created": "2026-06-13",
+  "description": "Lock in the portafilter and run the pump, watching dose in, yield out, and shot time together. Adjust grind to bring the shot into the target window.",
+  "emitter": "opg://commons-seed",
+  "id": "pulling-an-espresso-shot-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "pulling an espresso shot",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "pulling an espresso shot"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "taxonomy": "extraction-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:c8103be781d080f47e45d6a5bc3da5b1ef7d28780a2f26a634b0c5a06795138b",
+        "id": "espresso-machine-seed",
+        "path": "primitives/tools/espresso-machine.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:64c744d4859a0a2c903a185b96bbd7d21bbd27d3b59f6701db405b63d77d0ef4",
+        "id": "espresso-scale-seed",
+        "path": "primitives/tools/espresso-scale.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "pulling-an-espresso-shot",
+  "tags": [
+    "coffee",
+    "extraction-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:7c9615c32d7c3335641035eda8c83fb9f66759de3101b6d07aeedf4180a6b8b6",
+  "created": "2026-06-13",
+  "description": "Compress the leveled bed into a firm, flat puck with steady, square pressure so the water cannot channel around it.",
+  "emitter": "opg://commons-seed",
+  "id": "tamping-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "tamping",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "tamping"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "taxonomy": "extraction-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:7333500055bd85c7968d30f98736a7f66b7e6ac7fd748a93e256b2ac72a451f0",
+        "id": "tamper-seed",
+        "path": "primitives/tools/tamper.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "tamping",
+  "tags": [
+    "coffee",
+    "extraction-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

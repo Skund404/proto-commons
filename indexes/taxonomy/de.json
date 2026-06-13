@@ -61,6 +61,114 @@
         }
       ]
     },
+    "category/brew-procedure": {
+      "id": "brew-procedure",
+      "name": "brew procedure",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/workflows/aeropress-brew.json",
+          "slug": "aeropress-brew",
+          "kind": "workflow",
+          "name": "AeroPress brew"
+        },
+        {
+          "ref": "primitives/workflows/chemex-brew.json",
+          "slug": "chemex-brew",
+          "kind": "workflow",
+          "name": "Chemex brew"
+        },
+        {
+          "ref": "primitives/workflows/cold-brew-steep.json",
+          "slug": "cold-brew-steep",
+          "kind": "workflow",
+          "name": "cold brew steep"
+        },
+        {
+          "ref": "primitives/workflows/espresso-shot-pull.json",
+          "slug": "espresso-shot-pull",
+          "kind": "workflow",
+          "name": "espresso shot pull"
+        },
+        {
+          "ref": "primitives/workflows/french-press-immersion-brew.json",
+          "slug": "french-press-immersion-brew",
+          "kind": "workflow",
+          "name": "French press immersion brew"
+        },
+        {
+          "ref": "primitives/workflows/kalita-flat-bottom-brew.json",
+          "slug": "kalita-flat-bottom-brew",
+          "kind": "workflow",
+          "name": "Kalita flat-bottom brew"
+        },
+        {
+          "ref": "primitives/workflows/milk-drink-build.json",
+          "slug": "milk-drink-build",
+          "kind": "workflow",
+          "name": "milk drink build"
+        },
+        {
+          "ref": "primitives/workflows/moka-pot-brew.json",
+          "slug": "moka-pot-brew",
+          "kind": "workflow",
+          "name": "moka pot brew"
+        },
+        {
+          "ref": "primitives/workflows/steep-and-release-brew.json",
+          "slug": "steep-and-release-brew",
+          "kind": "workflow",
+          "name": "steep-and-release brew"
+        },
+        {
+          "ref": "primitives/workflows/v60-pour-over-brew.json",
+          "slug": "v60-pour-over-brew",
+          "kind": "workflow",
+          "name": "V60 pour-over brew"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/brew-project": {
+      "id": "brew-project",
+      "name": "brew project",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/projects/cold-brew.json",
+          "slug": "cold-brew",
+          "kind": "project",
+          "name": "cold brew"
+        },
+        {
+          "ref": "primitives/projects/espresso-brew.json",
+          "slug": "espresso-brew",
+          "kind": "project",
+          "name": "espresso brew"
+        },
+        {
+          "ref": "primitives/projects/immersion-brew.json",
+          "slug": "immersion-brew",
+          "kind": "project",
+          "name": "immersion brew"
+        },
+        {
+          "ref": "primitives/projects/milk-drink.json",
+          "slug": "milk-drink",
+          "kind": "project",
+          "name": "milk drink"
+        },
+        {
+          "ref": "primitives/projects/pour-over-brew.json",
+          "slug": "pour-over-brew",
+          "kind": "project",
+          "name": "pour-over brew"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
     "category/brewer": {
       "id": "brewer",
       "name": "brewer",
@@ -363,6 +471,175 @@
       ],
       "related": [],
       "children": []
+    },
+    "category/brewing-technique": {
+      "id": "brewing-technique",
+      "name": "brewing technique",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/techniques/blooming.json",
+          "slug": "blooming",
+          "kind": "technique",
+          "name": "blooming"
+        },
+        {
+          "ref": "primitives/techniques/brew-ratio-selection.json",
+          "slug": "brew-ratio-selection",
+          "kind": "technique",
+          "name": "brew ratio selection"
+        },
+        {
+          "ref": "primitives/techniques/continuous-pouring.json",
+          "slug": "continuous-pouring",
+          "kind": "technique",
+          "name": "continuous pouring"
+        },
+        {
+          "ref": "primitives/techniques/immersion-steeping.json",
+          "slug": "immersion-steeping",
+          "kind": "technique",
+          "name": "immersion steeping"
+        },
+        {
+          "ref": "primitives/techniques/pulse-pouring.json",
+          "slug": "pulse-pouring",
+          "kind": "technique",
+          "name": "pulse pouring"
+        },
+        {
+          "ref": "primitives/techniques/swirl-and-agitation.json",
+          "slug": "swirl-and-agitation",
+          "kind": "technique",
+          "name": "swirl and agitation"
+        }
+      ],
+      "related": [],
+      "children": [
+        {
+          "id": "extraction-technique",
+          "name": "extraction technique",
+          "parent": "brewing-technique",
+          "members": [
+            {
+              "ref": "primitives/techniques/espresso-dosing-and-distribution.json",
+              "slug": "espresso-dosing-and-distribution",
+              "kind": "technique",
+              "name": "espresso dosing and distribution"
+            },
+            {
+              "ref": "primitives/techniques/milk-steaming-and-frothing.json",
+              "slug": "milk-steaming-and-frothing",
+              "kind": "technique",
+              "name": "milk steaming and frothing"
+            },
+            {
+              "ref": "primitives/techniques/plunging-and-pressing.json",
+              "slug": "plunging-and-pressing",
+              "kind": "technique",
+              "name": "plunging and pressing"
+            },
+            {
+              "ref": "primitives/techniques/pulling-an-espresso-shot.json",
+              "slug": "pulling-an-espresso-shot",
+              "kind": "technique",
+              "name": "pulling an espresso shot"
+            },
+            {
+              "ref": "primitives/techniques/tamping.json",
+              "slug": "tamping",
+              "kind": "technique",
+              "name": "tamping"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "grinding-technique",
+          "name": "grinding technique",
+          "parent": "brewing-technique",
+          "members": [
+            {
+              "ref": "primitives/techniques/dosing-and-weighing.json",
+              "slug": "dosing-and-weighing",
+              "kind": "technique",
+              "name": "dosing and weighing"
+            },
+            {
+              "ref": "primitives/techniques/grind-size-selection.json",
+              "slug": "grind-size-selection",
+              "kind": "technique",
+              "name": "grind size selection"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "maintenance-technique",
+          "name": "maintenance technique",
+          "parent": "brewing-technique",
+          "members": [
+            {
+              "ref": "primitives/techniques/backflushing.json",
+              "slug": "backflushing",
+              "kind": "technique",
+              "name": "backflushing"
+            },
+            {
+              "ref": "primitives/techniques/descaling.json",
+              "slug": "descaling",
+              "kind": "technique",
+              "name": "descaling"
+            },
+            {
+              "ref": "primitives/techniques/grinder-cleaning.json",
+              "slug": "grinder-cleaning",
+              "kind": "technique",
+              "name": "grinder cleaning"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "tasting-technique",
+          "name": "tasting technique",
+          "parent": "brewing-technique",
+          "members": [
+            {
+              "ref": "primitives/techniques/tasting-and-evaluation.json",
+              "slug": "tasting-and-evaluation",
+              "kind": "technique",
+              "name": "tasting and evaluation"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "water-technique",
+          "name": "water technique",
+          "parent": "brewing-technique",
+          "members": [
+            {
+              "ref": "primitives/techniques/water-preparation.json",
+              "slug": "water-preparation",
+              "kind": "technique",
+              "name": "water preparation"
+            },
+            {
+              "ref": "primitives/techniques/water-temperature-selection.json",
+              "slug": "water-temperature-selection",
+              "kind": "technique",
+              "name": "water temperature selection"
+            }
+          ],
+          "related": [],
+          "children": []
+        }
+      ]
     },
     "category/cleaning-agent": {
       "id": "cleaning-agent",

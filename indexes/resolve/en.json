@@ -81,6 +81,16 @@
         "canonical": true
       }
     ],
+    "aeropress brew": [
+      {
+        "ref": "primitives/workflows/aeropress-brew.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "AeroPress brew",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "aeropress paper filter": [
       {
         "ref": "primitives/materials/aeropress-filter.json",
@@ -199,6 +209,16 @@
         "name": "backflush detergent",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "backflushing": [
+      {
+        "ref": "primitives/techniques/backflushing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "backflushing",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "banana": [
@@ -351,6 +371,16 @@
         "canonical": false
       }
     ],
+    "blooming": [
+      {
+        "ref": "primitives/techniques/blooming.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "blooming",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "blueberry": [
       {
         "ref": "primitives/materials/blueberry.json",
@@ -421,6 +451,36 @@
         "canonical": true
       }
     ],
+    "brew procedure": [
+      {
+        "ref": "categories/brew-procedure",
+        "class": "category",
+        "kind": null,
+        "name": "brew procedure",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "brew project": [
+      {
+        "ref": "categories/brew-project",
+        "class": "category",
+        "kind": null,
+        "name": "brew project",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "brew ratio selection": [
+      {
+        "ref": "primitives/techniques/brew-ratio-selection.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "brew ratio selection",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "brew scale": [
       {
         "ref": "primitives/tools/brew-scale.json",
@@ -467,6 +527,16 @@
         "class": "category",
         "kind": null,
         "name": "brewing accessory",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "brewing technique": [
+      {
+        "ref": "categories/brewing-technique",
+        "class": "category",
+        "kind": null,
+        "name": "brewing technique",
         "lang": "en",
         "canonical": true
       }
@@ -749,6 +819,16 @@
         "canonical": false
       }
     ],
+    "chemex brew": [
+      {
+        "ref": "primitives/workflows/chemex-brew.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "Chemex brew",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "chemex classic": [
       {
         "ref": "primitives/tools/chemex-classic.json",
@@ -1003,6 +1083,16 @@
         "canonical": false
       }
     ],
+    "cold brew": [
+      {
+        "ref": "primitives/projects/cold-brew.json",
+        "class": "primitive",
+        "kind": "project",
+        "name": "cold brew",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "cold brew brewer": [
       {
         "ref": "categories/cold-brew-brewer",
@@ -1019,6 +1109,16 @@
         "class": "primitive",
         "kind": "tool",
         "name": "cold brew maker",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "cold brew steep": [
+      {
+        "ref": "primitives/workflows/cold-brew-steep.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "cold brew steep",
         "lang": "en",
         "canonical": true
       }
@@ -1069,6 +1169,16 @@
         "class": "primitive",
         "kind": "material",
         "name": "contact cement",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "continuous pouring": [
+      {
+        "ref": "primitives/techniques/continuous-pouring.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "continuous pouring",
         "lang": "en",
         "canonical": true
       }
@@ -1149,6 +1259,16 @@
         "class": "primitive",
         "kind": "tool",
         "name": "cup",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "cupping": [
+      {
+        "ref": "primitives/techniques/tasting-and-evaluation.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "cupping",
         "lang": "en",
         "canonical": false
       }
@@ -1309,6 +1429,16 @@
         "canonical": true
       }
     ],
+    "descaling": [
+      {
+        "ref": "primitives/techniques/descaling.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "descaling",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "descaling solution": [
       {
         "ref": "primitives/materials/descaler.json",
@@ -1391,6 +1521,16 @@
         "class": "primitive",
         "kind": "tool",
         "name": "distribution tool",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "dosing and weighing": [
+      {
+        "ref": "primitives/techniques/dosing-and-weighing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "dosing and weighing",
         "lang": "en",
         "canonical": true
       }
@@ -1701,6 +1841,26 @@
         "canonical": true
       }
     ],
+    "espresso brew": [
+      {
+        "ref": "primitives/projects/espresso-brew.json",
+        "class": "primitive",
+        "kind": "project",
+        "name": "espresso brew",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "espresso dosing and distribution": [
+      {
+        "ref": "primitives/techniques/espresso-dosing-and-distribution.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "espresso dosing and distribution",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "espresso grinder": [
       {
         "ref": "categories/espresso-grinder",
@@ -1773,6 +1933,26 @@
         "class": "primitive",
         "kind": "tool",
         "name": "espresso scale",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "espresso shot pull": [
+      {
+        "ref": "primitives/workflows/espresso-shot-pull.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "espresso shot pull",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "extraction technique": [
+      {
+        "ref": "categories/extraction-technique",
+        "class": "category",
+        "kind": null,
+        "name": "extraction technique",
         "lang": "en",
         "canonical": true
       }
@@ -1951,6 +2131,16 @@
         "class": "primitive",
         "kind": "tool",
         "name": "French press",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "french press immersion brew": [
+      {
+        "ref": "primitives/workflows/french-press-immersion-brew.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "French press immersion brew",
         "lang": "en",
         "canonical": true
       }
@@ -2171,12 +2361,42 @@
         "canonical": false
       }
     ],
+    "grind size selection": [
+      {
+        "ref": "primitives/techniques/grind-size-selection.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "grind size selection",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "grinder": [
       {
         "ref": "categories/grinder",
         "class": "category",
         "kind": null,
         "name": "grinder",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "grinder cleaning": [
+      {
+        "ref": "primitives/techniques/grinder-cleaning.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "grinder cleaning",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "grinding technique": [
+      {
+        "ref": "categories/grinding-technique",
+        "class": "category",
+        "kind": null,
+        "name": "grinding technique",
         "lang": "en",
         "canonical": true
       }
@@ -2387,6 +2607,16 @@
         "canonical": false
       }
     ],
+    "immersion brew": [
+      {
+        "ref": "primitives/projects/immersion-brew.json",
+        "class": "primitive",
+        "kind": "project",
+        "name": "immersion brew",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "immersion brewer": [
       {
         "ref": "categories/immersion-brewer",
@@ -2407,12 +2637,32 @@
         "canonical": true
       }
     ],
+    "immersion steeping": [
+      {
+        "ref": "primitives/techniques/immersion-steeping.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "immersion steeping",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "kale": [
       {
         "ref": "primitives/materials/kale.json",
         "class": "primitive",
         "kind": "material",
         "name": "kale",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "kalita flat-bottom brew": [
+      {
+        "ref": "primitives/workflows/kalita-flat-bottom-brew.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "Kalita flat-bottom brew",
         "lang": "en",
         "canonical": true
       }
@@ -2837,6 +3087,16 @@
         "canonical": true
       }
     ],
+    "maintenance technique": [
+      {
+        "ref": "categories/maintenance-technique",
+        "class": "category",
+        "kind": null,
+        "name": "maintenance technique",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "maize": [
       {
         "ref": "primitives/materials/sweetcorn.json",
@@ -3031,12 +3291,42 @@
         "canonical": false
       }
     ],
+    "milk drink": [
+      {
+        "ref": "primitives/projects/milk-drink.json",
+        "class": "primitive",
+        "kind": "project",
+        "name": "milk drink",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "milk drink build": [
+      {
+        "ref": "primitives/workflows/milk-drink-build.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "milk drink build",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "milk pitcher": [
       {
         "ref": "primitives/tools/milk-pitcher.json",
         "class": "primitive",
         "kind": "tool",
         "name": "milk pitcher",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "milk steaming and frothing": [
+      {
+        "ref": "primitives/techniques/milk-steaming-and-frothing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "milk steaming and frothing",
         "lang": "en",
         "canonical": true
       }
@@ -3065,6 +3355,16 @@
         "class": "primitive",
         "kind": "tool",
         "name": "moka pot",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "moka pot brew": [
+      {
+        "ref": "primitives/workflows/moka-pot-brew.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "moka pot brew",
         "lang": "en",
         "canonical": true
       }
@@ -3425,6 +3725,16 @@
         "canonical": true
       }
     ],
+    "plunging and pressing": [
+      {
+        "ref": "primitives/techniques/plunging-and-pressing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "plunging and pressing",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "pome fruit": [
       {
         "ref": "categories/pome-fruit",
@@ -3475,6 +3785,16 @@
         "canonical": true
       }
     ],
+    "pour-over brew": [
+      {
+        "ref": "primitives/projects/pour-over-brew.json",
+        "class": "primitive",
+        "kind": "project",
+        "name": "pour-over brew",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "pour-over brewer": [
       {
         "ref": "categories/pour-over-brewer",
@@ -3503,6 +3823,16 @@
         "name": "pour-over dripper",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "pre-infusion": [
+      {
+        "ref": "primitives/techniques/blooming.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "pre-infusion",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "press pot": [
@@ -3573,6 +3903,16 @@
         "canonical": true
       }
     ],
+    "pulling an espresso shot": [
+      {
+        "ref": "primitives/techniques/pulling-an-espresso-shot.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "pulling an espresso shot",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "pulse": [
       {
         "ref": "categories/legume",
@@ -3581,6 +3921,16 @@
         "name": "pulse",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "pulse pouring": [
+      {
+        "ref": "primitives/techniques/pulse-pouring.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "pulse pouring",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "pumpkin": [
@@ -4307,6 +4657,16 @@
         "canonical": true
       }
     ],
+    "steep-and-release brew": [
+      {
+        "ref": "primitives/workflows/steep-and-release-brew.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "steep-and-release brew",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "steep-and-release brewer": [
       {
         "ref": "categories/steep-and-release-brewer",
@@ -4575,6 +4935,16 @@
         "canonical": true
       }
     ],
+    "swirl and agitation": [
+      {
+        "ref": "primitives/techniques/swirl-and-agitation.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "swirl and agitation",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "swiss chard": [
       {
         "ref": "primitives/materials/swiss-chard.json",
@@ -4601,6 +4971,36 @@
         "class": "primitive",
         "kind": "tool",
         "name": "tamper",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "tamping": [
+      {
+        "ref": "primitives/techniques/tamping.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "tamping",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "tasting and evaluation": [
+      {
+        "ref": "primitives/techniques/tasting-and-evaluation.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "tasting and evaluation",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "tasting technique": [
+      {
+        "ref": "categories/tasting-technique",
+        "class": "category",
+        "kind": null,
+        "name": "tasting technique",
         "lang": "en",
         "canonical": true
       }
@@ -4795,6 +5195,16 @@
         "canonical": true
       }
     ],
+    "v60 pour-over brew": [
+      {
+        "ref": "primitives/workflows/v60-pour-over-brew.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "V60 pour-over brew",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "vacuum brewer": [
       {
         "ref": "categories/siphon-brewer",
@@ -4929,6 +5339,36 @@
         "canonical": true
       }
     ],
+    "water preparation": [
+      {
+        "ref": "primitives/techniques/water-preparation.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "water preparation",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "water technique": [
+      {
+        "ref": "categories/water-technique",
+        "class": "category",
+        "kind": null,
+        "name": "water technique",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "water temperature selection": [
+      {
+        "ref": "primitives/techniques/water-temperature-selection.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "water temperature selection",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "water tool": [
       {
         "ref": "categories/water-tool",
@@ -4977,6 +5417,16 @@
         "name": "waxed polyester thread",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "wdt": [
+      {
+        "ref": "primitives/techniques/espresso-dosing-and-distribution.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "WDT",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "wdt tool": [

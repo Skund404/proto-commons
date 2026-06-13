@@ -1,0 +1,54 @@
+{
+  "content_hash": "sha256:42a9ba0f90bdea927b4c616c97d1aca06d563e039bd093f856abb2526d2b18da",
+  "description": {
+    "en": "A full-immersion setup for a heavy-bodied cup: the press, a coarse-capable grinder, a scale, and beans."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:631a14240938e496a92fcd91cb00b8a85db2ebdb26729a06231fe34744c98523",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "french-press"
+    },
+    {
+      "hash": "sha256:6f3654deabb78d3708ada2b5ccdb4d180e23c9429417799927ff9dd426aee2bc",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "hand-grinder"
+    },
+    {
+      "hash": "sha256:4c574228f7878cb4c61804c3beac8b397aeb78df26ea81e028202de7fe28ada0",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "brew-scale"
+    },
+    {
+      "hash": "sha256:5d6b811d2eab461ced8e9060fb00a0e8003eae7fd86972c61dd89dd2e599d154",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "whole-bean-coffee"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "French press kit"
+  },
+  "record_class": "bundle",
+  "slug": "french-press-kit",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "coffee",
+    "kit"
+  ]
+}

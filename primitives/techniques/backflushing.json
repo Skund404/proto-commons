@@ -1,0 +1,51 @@
+{
+  "content_hash": "sha256:15dfe3e859e1016ed8253e47ab9f759d2faef5391cc4f475496ae4e48f888f3c",
+  "created": "2026-06-13",
+  "description": "Clean an espresso machine's group by running water back through a blind basket with detergent, clearing oils that would otherwise turn the next shots bitter.",
+  "emitter": "opg://commons-seed",
+  "id": "backflushing-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "backflushing",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "backflushing"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "taxonomy": "maintenance-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:c8103be781d080f47e45d6a5bc3da5b1ef7d28780a2f26a634b0c5a06795138b",
+        "id": "espresso-machine-seed",
+        "path": "primitives/tools/espresso-machine.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:d977cb98cf86b9b07ebc7d07cf6dad7cef655ec640a1d216a2eb738f49ba06cf",
+        "id": "espresso-machine-cleaner-seed",
+        "path": "primitives/materials/espresso-machine-cleaner.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "backflushing",
+  "tags": [
+    "coffee",
+    "maintenance-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

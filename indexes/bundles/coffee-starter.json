@@ -1,0 +1,44 @@
+{
+  "content_hash": "sha256:68a745467eff6bd4f0ff655bb20bf0db005dd6ddd5251aceac0375136087ad0e",
+  "description": {
+    "en": "A complete first coffee bench, assembled from the pour-over starter and dialing-in kits, with the French press kit as an alternative method."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:c7a90a04b414aa27ffd4f75a69c25d68cd1fcf00d41f09a1733cdd1d54f485ad",
+      "record_class": "bundle",
+      "role": "required",
+      "slug": "pour-over-starter-kit"
+    },
+    {
+      "hash": "sha256:6c25576d8376ec76cc69b823b07bdad2fc315aee47cd4b6c6047f386fa43bd39",
+      "record_class": "bundle",
+      "role": "recommended",
+      "slug": "dialing-in-kit"
+    },
+    {
+      "hash": "sha256:42a9ba0f90bdea927b4c616c97d1aca06d563e039bd093f856abb2526d2b18da",
+      "record_class": "bundle",
+      "role": "optional",
+      "slug": "french-press-kit"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Coffee starter (kit of kits)"
+  },
+  "record_class": "bundle",
+  "slug": "coffee-starter",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "coffee",
+    "kit"
+  ]
+}

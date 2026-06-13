@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:8f9fac87353e273bb403a61018ef4ae8b292569acc3e5890be0a87b424355ca8",
+  "created": "2026-06-13",
+  "description": "Gently swirl or stir the slurry to settle the grounds and even out the bed. Swirling instead of stabbing keeps the bed flat for a cleaner draw.",
+  "emitter": "opg://commons-seed",
+  "id": "swirl-and-agitation-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "swirl and agitation",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "swirl and agitation"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "brewing-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:5227ec331bac862b2a831cf00cc5ea77a50969989a7c54cf7453bd95e5585949",
+        "id": "pour-over-dripper-seed",
+        "path": "primitives/tools/pour-over-dripper.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "swirl-and-agitation",
+  "tags": [
+    "coffee",
+    "brewing-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

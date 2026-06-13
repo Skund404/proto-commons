@@ -1,0 +1,61 @@
+{
+  "content_hash": "sha256:7dc12204155572c18464f0e12fd531cbf197ededc8689d2b46fa5cc0c18ab64d",
+  "description": {
+    "en": "The espresso brew project with the machine, grinder, and tools to run it."
+  },
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:a97c2d81b255708d7139d7bab401e49d6bdb4b6c48f07e0ac19308dcba9c2be9",
+      "kind": "project",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "espresso-brew"
+    },
+    {
+      "hash": "sha256:c8103be781d080f47e45d6a5bc3da5b1ef7d28780a2f26a634b0c5a06795138b",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "espresso-machine"
+    },
+    {
+      "hash": "sha256:9d50e5a1c96edba820201a187101adb42d7c1de8dca68bdcfc66fd8709900d26",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "espresso-grinder"
+    },
+    {
+      "hash": "sha256:7333500055bd85c7968d30f98736a7f66b7e6ac7fd748a93e256b2ac72a451f0",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "tamper"
+    },
+    {
+      "hash": "sha256:2cc7aa69e3c69c945ccdeaab03b4b56b22cd8c1d1581485e3b98a985407e8a34",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "espresso-roast-coffee"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Espresso project kit"
+  },
+  "record_class": "bundle",
+  "slug": "espresso-project-kit",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "coffee",
+    "kit"
+  ]
+}

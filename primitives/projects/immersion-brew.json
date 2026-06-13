@@ -1,0 +1,105 @@
+{
+  "content_hash": "sha256:7ed9fe10b69f603cbe98cd9a5e0e9fe3242cfb00e2f4d213b05da5c0f8d4cc16",
+  "created": "2026-06-13",
+  "description": "An immersion brew run, such as a French press: steep time and grind bind per brew, and the run records the cup against them.",
+  "emitter": "opg://commons-seed",
+  "id": "immersion-brew-seed",
+  "kind": "project",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "immersion brew",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "immersion brew"
+      ]
+    },
+    "projectType": "production",
+    "project_decl": {
+      "consumes": [
+        {
+          "kind_ann": "material[whole-bean-coffee]",
+          "name": "coffee"
+        },
+        {
+          "kind_ann": "material[brew-water]",
+          "name": "water"
+        }
+      ],
+      "on_fail": "propagate",
+      "produces": "material[brewed-coffee]"
+    },
+    "taxonomy": "brew-project"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:dc0c6c8650406a4c744f40ac4817ba817cb0a5c8ce5758a3fb320b544b6f2840",
+        "id": "french-press-immersion-brew-seed",
+        "path": "primitives/workflows/french-press-immersion-brew.json"
+      },
+      "type": "based_on"
+    },
+    {
+      "target": {
+        "hash": "sha256:5d6b811d2eab461ced8e9060fb00a0e8003eae7fd86972c61dd89dd2e599d154",
+        "id": "whole-bean-coffee-seed",
+        "path": "primitives/materials/whole-bean-coffee.json"
+      },
+      "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:4eeb5eaf3487d334da7c51915d08c2ce290bbf95a95d4853763fc773286511da",
+        "id": "brew-water-seed",
+        "path": "primitives/materials/brew-water.json"
+      },
+      "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:631a14240938e496a92fcd91cb00b8a85db2ebdb26729a06231fe34744c98523",
+        "id": "french-press-seed",
+        "path": "primitives/tools/french-press.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:6f3654deabb78d3708ada2b5ccdb4d180e23c9429417799927ff9dd426aee2bc",
+        "id": "hand-grinder-seed",
+        "path": "primitives/tools/hand-grinder.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:3b79598d171ac217aff99799fc191fc69b3563313167623a175601d03387f2b1",
+        "id": "stovetop-kettle-seed",
+        "path": "primitives/tools/stovetop-kettle.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:4c574228f7878cb4c61804c3beac8b397aeb78df26ea81e028202de7fe28ada0",
+        "id": "brew-scale-seed",
+        "path": "primitives/tools/brew-scale.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "immersion-brew",
+  "tags": [
+    "coffee",
+    "brew-project",
+    "production"
+  ],
+  "visibility": "commons"
+}

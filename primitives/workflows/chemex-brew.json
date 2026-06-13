@@ -1,0 +1,137 @@
+{
+  "content_hash": "sha256:f8867d1afed2ce00a4543a58ab08d68cb77d2c6a5bfe9d6054a184d279a4a8fd",
+  "created": "2026-06-13",
+  "description": "A carafe pour-over through a thick bonded filter for a very clean, bright cup: bloom, then pour continuously to the target weight.",
+  "emitter": "opg://commons-seed",
+  "id": "chemex-brew-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "Chemex brew",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "intermediate",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "Chemex brew"
+      ]
+    },
+    "steps": [
+      {
+        "description": "Weigh and grind to a medium-coarse grind.",
+        "position": 1
+      },
+      {
+        "description": "Rinse the thick filter and add grounds.",
+        "position": 2
+      },
+      {
+        "description": "Bloom, then pour in a steady continuous spiral.",
+        "position": 3
+      },
+      {
+        "description": "Let the full brew draw through.",
+        "position": 4
+      },
+      {
+        "description": "Swirl the carafe and taste.",
+        "position": 5
+      }
+    ],
+    "taxonomy": "brew-procedure"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:6f1ad4b23c0c4ca7f84684ab5993839b72659747bac1f0245afc4d89132d90cf",
+        "id": "dosing-and-weighing-seed",
+        "path": "primitives/techniques/dosing-and-weighing.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:6626ac238a0a91dc2ef09bfd92a09d96729f345ea3125e0cfa083c3ebad72942",
+        "id": "grind-size-selection-seed",
+        "path": "primitives/techniques/grind-size-selection.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:630765f64f1bd2a4ad1e13a335a0e2b15d6a6a33d47b85e8d3aeea7dde29e8b6",
+        "id": "blooming-seed",
+        "path": "primitives/techniques/blooming.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:dcb892c99c1810f5e1cefeb703abd136f9cc15082f2baaad21b8caa65d3bfde1",
+        "id": "continuous-pouring-seed",
+        "path": "primitives/techniques/continuous-pouring.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:0d5d97aabe957bcda6b40d8e08991b6393062f7fa687d2bb3a0f612be17dbf69",
+        "id": "carafe-brewer-seed",
+        "path": "primitives/tools/carafe-brewer.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:a97cf118997f150b3bd927d17935263c60d11983f6e800a39836cf1ddecdedd9",
+        "id": "gooseneck-kettle-seed",
+        "path": "primitives/tools/gooseneck-kettle.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:4c574228f7878cb4c61804c3beac8b397aeb78df26ea81e028202de7fe28ada0",
+        "id": "brew-scale-seed",
+        "path": "primitives/tools/brew-scale.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:5d6b811d2eab461ced8e9060fb00a0e8003eae7fd86972c61dd89dd2e599d154",
+        "id": "whole-bean-coffee-seed",
+        "path": "primitives/materials/whole-bean-coffee.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:4eeb5eaf3487d334da7c51915d08c2ce290bbf95a95d4853763fc773286511da",
+        "id": "brew-water-seed",
+        "path": "primitives/materials/brew-water.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:5810eb7effee9ff0afd600ca611086a8563e34d7079c685b9e7cfbc6986945ad",
+        "id": "paper-filter-seed",
+        "path": "primitives/materials/paper-filter.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "chemex-brew",
+  "tags": [
+    "coffee",
+    "brew-procedure",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

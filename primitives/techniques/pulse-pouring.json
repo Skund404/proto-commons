@@ -1,0 +1,51 @@
+{
+  "content_hash": "sha256:87ec5ec5af42336d33091d1384cdd1b715e0004424564d3507b93399e3e8aa29",
+  "created": "2026-06-13",
+  "description": "Add the water in several measured pours rather than one, keeping the bed topped up and the extraction even. Track each pour on the scale.",
+  "emitter": "opg://commons-seed",
+  "id": "pulse-pouring-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-13",
+  "name": "pulse pouring",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "pulse pouring"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "taxonomy": "brewing-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:a97cf118997f150b3bd927d17935263c60d11983f6e800a39836cf1ddecdedd9",
+        "id": "gooseneck-kettle-seed",
+        "path": "primitives/tools/gooseneck-kettle.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:4c574228f7878cb4c61804c3beac8b397aeb78df26ea81e028202de7fe28ada0",
+        "id": "brew-scale-seed",
+        "path": "primitives/tools/brew-scale.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "pulse-pouring",
+  "tags": [
+    "coffee",
+    "brewing-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

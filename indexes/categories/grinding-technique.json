@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "grinding-technique",
+  "names": {
+    "en": [
+      "grinding technique"
+    ]
+  },
+  "specializes": "brewing-technique"
+}
