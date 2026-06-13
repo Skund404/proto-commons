@@ -102,6 +102,12 @@ def validate_bundle(where: str, rec: dict) -> None:
                 err(where, f"items[{i}].slug: required")
             if it.get("hash") and not HASH_RE.match(str(it["hash"])):
                 warn(where, f"items[{i}].hash is not sha256:<64 hex>")
+        elif rc == "bundle":
+            # Nested bundle (kit-of-kits) — pinned by slug + hash, no kind.
+            if not valid_slug(it.get("slug")):
+                err(where, f"items[{i}].slug {it.get('slug')!r} must be kebab-case (nested bundle ref)")
+            if it.get("hash") and not HASH_RE.match(str(it["hash"])):
+                warn(where, f"items[{i}].hash is not sha256:<64 hex>")
         elif "target" in it:
             # HideSync authoring shape (nested target + note); the maintainer
             # intake maps it to the canonical flat item.
