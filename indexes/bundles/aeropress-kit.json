@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:2082aec35f81a2cb625595a02bd530fc49697388343ef405b586a71ac581da1b",
+  "content_hash": "sha256:ce54308f5857b2c7baa0027d33c4d8bec0ac2cfa1fc1e167857662c4ef24439f",
   "description": {
     "en": "A quick, portable immersion-press setup: the press, a grinder and scale, filters, and beans."
   },
+  "domain": "coffee",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -64,5 +65,6 @@
   "tags": [
     "coffee",
     "kit"
-  ]
+  ],
+  "taxonomy": "immersion-brewer"
 }

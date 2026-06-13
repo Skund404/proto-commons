@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:c482d13b1691cec9cb20cdf6532833a484c86f5565d7ba6c30c67e388964315d",
+  "content_hash": "sha256:d7c41ad18476b9a549942c2227ce5d467ee453ca389d1d2c67fce16730d3e99a",
   "description": {
     "en": "A catalogue of dyes, oils, conditioners, and edge agents."
   },
+  "domain": "leatherwork",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -85,5 +86,6 @@
   "tags": [
     "leatherwork",
     "catalogue"
-  ]
+  ],
+  "taxonomy": "leather-finish"
 }

@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:6c25576d8376ec76cc69b823b07bdad2fc315aee47cd4b6c6047f386fa43bd39",
+  "content_hash": "sha256:11de2f4520ecfedc7f541cd0bdaf2914af686599dc10ede3cddbc3db3dc4aae1",
   "description": {
     "en": "The measurement set for tightening a recipe: a scale and timer, a thermometer, and a refractometer to read extraction."
   },
+  "domain": "coffee",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -50,5 +51,6 @@
   "tags": [
     "coffee",
     "kit"
-  ]
+  ],
+  "taxonomy": "brewing-accessory"
 }

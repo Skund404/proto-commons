@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:94165396a9a2ec03bbfe0c6ef3a25b09bc6aaf466d4908e0b6164ad9b15edfbd",
+  "content_hash": "sha256:522ce8ae6384a3c940fc9c5e4caaacb0365f681cb64e017da1ee81760d0baec2",
   "description": {
     "en": "Everything to hand-stitch a seam the traditional way: punch, sew, and finish."
   },
+  "domain": "leatherwork",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -71,5 +72,6 @@
   "tags": [
     "leatherwork",
     "kit"
-  ]
+  ],
+  "taxonomy": "stitching-tool"
 }

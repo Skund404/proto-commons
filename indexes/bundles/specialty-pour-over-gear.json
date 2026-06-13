@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:3aead8b46ba33e9d342c373e2cf9e283557943d6d4564e06679c9b8ce349f231",
+  "content_hash": "sha256:a4d6e0c23ae48792eab826668e91f32fc0ba7632cf53fc24bbe00d9ce20641e8",
   "description": {
     "en": "A catalogue of widely used pour-over brewers and the kettles and scales that pair with them."
   },
+  "domain": "coffee",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -78,5 +79,6 @@
   "tags": [
     "coffee",
     "catalogue"
-  ]
+  ],
+  "taxonomy": "pour-over-brewer"
 }

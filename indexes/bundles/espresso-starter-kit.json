@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:67025e29f5598abb9308a4261cc0620d3255bd02c88bfb920249dc81b34c99bf",
+  "content_hash": "sha256:45fa9fa6026ca8812e948de451dd38818cdf0e6221b0256a5a8bb96eb13e62d8",
   "description": {
     "en": "A first home-espresso bench: a machine, an espresso grinder, a scale, and the distribution and tamping tools."
   },
+  "domain": "coffee",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -64,5 +65,6 @@
   "tags": [
     "coffee",
     "kit"
-  ]
+  ],
+  "taxonomy": "espresso-machine"
 }

@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:c164d4c8621b6bce27d21fa07085817ec57b69b43343cae078a0c887af3d1ccd",
+  "content_hash": "sha256:4585a00865415a5df943d4aeb62611033c606fc74740fc43157d50b870760ac3",
   "description": {
     "en": "A catalogue of well-regarded manual grinders for filter and espresso."
   },
+  "domain": "coffee",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -43,5 +44,6 @@
   "tags": [
     "coffee",
     "catalogue"
-  ]
+  ],
+  "taxonomy": "hand-grinder"
 }

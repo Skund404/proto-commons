@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:5bb346fd372739aff2104920951f4d09522b9e011300fe5f7e5b4999db12b5a7",
+  "content_hash": "sha256:bb8655ba9310312839e951b32a88b70423b393cb5c111f22fc9cc8bb69862d35",
   "description": {
     "en": "A catalogue of common citrus fruit in the commons."
   },
+  "domain": "cooking-and-baking",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -82,5 +83,6 @@
     "cooking-and-baking",
     "produce",
     "catalogue"
-  ]
+  ],
+  "taxonomy": "citrus"
 }

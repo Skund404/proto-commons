@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:107bcb5739885da043cb9ae310bd267700e9d7ee7e6a15901528bb85fd898fd3",
+  "content_hash": "sha256:0f1c818f8b2b23c8d36edb670a572ac0571a4a7262566c04430d11a7540b6a6d",
   "description": {
     "en": "A catalogue of brewing water choices, from filtered tap to a remineralized recipe."
   },
+  "domain": "coffee",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -57,5 +58,6 @@
   "tags": [
     "coffee",
     "catalogue"
-  ]
+  ],
+  "taxonomy": "water"
 }

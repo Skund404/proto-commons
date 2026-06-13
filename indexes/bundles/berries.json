@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:51bfc822d4d0037c43c7c608f319dc58d6a500043552fe927f5f122b44283432",
+  "content_hash": "sha256:f7f6184120738f54b71e62973259576ee1af5b60e06ef2fd222d41fe74134f02",
   "description": {
     "en": "A catalogue of common berries in the commons."
   },
+  "domain": "cooking-and-baking",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -82,5 +83,6 @@
     "cooking-and-baking",
     "produce",
     "catalogue"
-  ]
+  ],
+  "taxonomy": "berry"
 }

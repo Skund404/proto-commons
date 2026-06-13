@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:142b66cfc50f24e4fed5008f5d78c3db7b2e8a7b4e8b7f15884ad9dcc6646b62",
+  "content_hash": "sha256:17f7531a1849af3e201c96e87cda64ee8ba4c0dcc0f116a19b0d0dc3f3539c0f",
   "description": {
     "en": "A catalogue of common nightshades in the commons."
   },
+  "domain": "cooking-and-baking",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -54,5 +55,6 @@
     "cooking-and-baking",
     "produce",
     "catalogue"
-  ]
+  ],
+  "taxonomy": "nightshade"
 }

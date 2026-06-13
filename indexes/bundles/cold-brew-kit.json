@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:de77854d235dca1304737d561025d5e6a9fa445edd007bc1b2385684b4e43397",
+  "content_hash": "sha256:c00026d9f72eb5537d38236c117f72a89f7d69e7596bba6ea4e8b21925d129db",
   "description": {
     "en": "A no-heat setup for smooth concentrate: a cold-brew maker, a grinder, a scale, and beans."
   },
+  "domain": "coffee",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -57,5 +58,6 @@
   "tags": [
     "coffee",
     "kit"
-  ]
+  ],
+  "taxonomy": "cold-brew-brewer"
 }

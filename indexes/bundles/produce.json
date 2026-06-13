@@ -1,19 +1,20 @@
 {
-  "content_hash": "sha256:3cd7f84724d4db9b2e20b9ef9848ff00824e16131c88ca581465a96c50eefd1a",
+  "content_hash": "sha256:2c158f588f4b85c34c92568bf0e64261803ce026b4e04bd27fa07d957602d5ca",
   "description": {
     "en": "Master catalogue of all common produce in the commons: every fruit and vegetable, reached through the fruits and vegetables sub-catalogues."
   },
+  "domain": "cooking-and-baking",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:832437045242b7a1dea3fda8e405a37ac5a6549d374924194a6e8431915532c4",
+      "hash": "sha256:bbbb48b79980a315d09412c35a274ac7fab3019f1f9646afb567ee61f33c3e79",
       "record_class": "bundle",
       "role": "optional",
       "slug": "fruits"
     },
     {
-      "hash": "sha256:fbe4c59cf3fd96f74b9df2fe09768f38ae9a824907cca96a8ca92534f7ffc73b",
+      "hash": "sha256:ed7c3bce1b70ec5794517a672620823c4bc52735178de66c88531d674e9209f4",
       "record_class": "bundle",
       "role": "optional",
       "slug": "vegetables"
@@ -38,5 +39,6 @@
     "cooking-and-baking",
     "produce",
     "catalogue"
-  ]
+  ],
+  "taxonomy": "produce"
 }

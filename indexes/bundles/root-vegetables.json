@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:422ceae9c3fcf32e52c23ef5d2d82875a6b6c208639ceb7f9b2f1a208317dd6d",
+  "content_hash": "sha256:1730c0b75d98ffb2774d9f49f0471f70fa80e33e45e804737ef09de8aae426b9",
   "description": {
     "en": "A catalogue of common root vegetables in the commons."
   },
+  "domain": "cooking-and-baking",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -103,5 +104,6 @@
     "cooking-and-baking",
     "produce",
     "catalogue"
-  ]
+  ],
+  "taxonomy": "root-vegetable"
 }

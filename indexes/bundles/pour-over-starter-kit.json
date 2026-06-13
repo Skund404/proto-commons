@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:c7a90a04b414aa27ffd4f75a69c25d68cd1fcf00d41f09a1733cdd1d54f485ad",
+  "content_hash": "sha256:9faf887d342a15e8c57017644727c603c3afd0140ed8986dcca3ac5d443e0a86",
   "description": {
     "en": "Everything to brew a clean single cup by pour-over: a dripper, a precise kettle, a scale, filters, and fresh beans."
   },
+  "domain": "coffee",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -71,5 +72,6 @@
   "tags": [
     "coffee",
     "kit"
-  ]
+  ],
+  "taxonomy": "pour-over-brewer"
 }

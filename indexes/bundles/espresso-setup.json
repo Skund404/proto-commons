@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:77dd510f7a594f47ab487701c20364161b65557ccb1af7d7b5c1d0c5b076e450",
+  "content_hash": "sha256:2910846b115e88fb6c449b9edba526513e245df4f7c74dd758d6ad5e40bc3442",
   "description": {
     "en": "A catalogue of popular home espresso machines and the grinder and accessories that support them."
   },
+  "domain": "coffee",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -71,5 +72,6 @@
   "tags": [
     "coffee",
     "catalogue"
-  ]
+  ],
+  "taxonomy": "espresso-machine"
 }

@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:6b83948c7649fa189abd87993fc6f5209236f2233db90fe2e61dc89205953aea",
+  "content_hash": "sha256:5a3a80080374314255161ca12435c2bd77de7bf13a6a02206a816a722e9e92e2",
   "description": {
     "en": "The key-fob project with the tools and materials to make it — a complete first build."
   },
+  "domain": "leatherwork",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -78,5 +79,6 @@
   "tags": [
     "leatherwork",
     "kit"
-  ]
+  ],
+  "taxonomy": "leatherwork-project"
 }

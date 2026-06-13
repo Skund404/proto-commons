@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:35e1fda91467feeb16a2a6467aad92597ae9493a59ac8f948999b0fe79cb2bed",
+  "content_hash": "sha256:4f0334ce45beb575046f9011802505bb81e14b0807deffc71b4645ed34e7ebd7",
   "description": {
     "en": "A catalogue of common melons in the commons."
   },
+  "domain": "cooking-and-baking",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -47,5 +48,6 @@
     "cooking-and-baking",
     "produce",
     "catalogue"
-  ]
+  ],
+  "taxonomy": "melon"
 }

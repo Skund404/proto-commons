@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:6ed2770b233d6de80996b93aa6a62d94ce29d3fa867d05d500296716aaa40d5b",
+  "content_hash": "sha256:9dd926861c1138f3ad2892be9dfff917a121fd47f13e4e84853c62a9607fc8ca",
   "description": {
     "en": "Punch and set the common closures and fasteners: rivets, snaps, and eyelets."
   },
+  "domain": "leatherwork",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -64,5 +65,6 @@
   "tags": [
     "leatherwork",
     "kit"
-  ]
+  ],
+  "taxonomy": "setting-tool"
 }

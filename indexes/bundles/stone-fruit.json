@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:ff847b5869b2dab18a8b138d06059979cdbc60af42339ba02afdf6c15929519b",
+  "content_hash": "sha256:86d9a925c792d7e201c2248f3dc46748cfade8493389a3268d735b8ae00e11e2",
   "description": {
     "en": "A catalogue of common stone fruit in the commons."
   },
+  "domain": "cooking-and-baking",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -61,5 +62,6 @@
     "cooking-and-baking",
     "produce",
     "catalogue"
-  ]
+  ],
+  "taxonomy": "stone-fruit"
 }

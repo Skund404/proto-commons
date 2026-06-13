@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:7dc12204155572c18464f0e12fd531cbf197ededc8689d2b46fa5cc0c18ab64d",
+  "content_hash": "sha256:1699e368adeda806a2e3b2b59345ee355e48c896557443ce61af4dae7bf8615d",
   "description": {
     "en": "The espresso brew project with the machine, grinder, and tools to run it."
   },
+  "domain": "coffee",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -57,5 +58,6 @@
   "tags": [
     "coffee",
     "kit"
-  ]
+  ],
+  "taxonomy": "brew-project"
 }

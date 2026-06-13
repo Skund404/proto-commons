@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:875b82fda7c6703de50a0a1bababb5c062130c9450d4a42e7ab553e1ffd89b35",
+  "content_hash": "sha256:5f2c9108599ec972097b304b097161eae73206108cf97818cf4ecbb4732ab4c3",
   "description": {
     "en": "Take a raw edge to a smooth, sealed finish: bevel, sand, gum, and slick."
   },
+  "domain": "leatherwork",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -57,5 +58,6 @@
   "tags": [
     "leatherwork",
     "kit"
-  ]
+  ],
+  "taxonomy": "edgework-tool"
 }

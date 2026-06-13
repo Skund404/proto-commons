@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:5b0019a948c8085d26051a49a7a8cd2fd790660084919939b72d27d3b835e7e9",
+  "content_hash": "sha256:daf07026212e3b7a6eeb240b49551edea69a60c07890cc5b20b3346152ce4a62",
   "description": {
     "en": "A catalogue of common squashes \u0026 gourds in the commons."
   },
+  "domain": "cooking-and-baking",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -61,5 +62,6 @@
     "cooking-and-baking",
     "produce",
     "catalogue"
-  ]
+  ],
+  "taxonomy": "squash"
 }

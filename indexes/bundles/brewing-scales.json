@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:f6003473b7cda5911a08b71ba77052508084dc6e75359b3d522f073c605b6d2b",
+  "content_hash": "sha256:c0bf29f4930d0fce8428bdfb141302a23cbda320302dc92f8fd6ac163e53657b",
   "description": {
     "en": "A catalogue of brewing and espresso scales, generic and branded."
   },
+  "domain": "coffee",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -64,5 +65,6 @@
   "tags": [
     "coffee",
     "catalogue"
-  ]
+  ],
+  "taxonomy": "scale"
 }

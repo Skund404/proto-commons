@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:93015694841b35c7fa026a02f46a6365727d8886dbe7feba6769105e7f387fda",
+  "content_hash": "sha256:797b82e80577f67fe085d04e2ab284d8fc177edcc246856f7de1f03f28f9f726",
   "description": {
     "en": "A compact, power-free brewing set for the road: a hand grinder, an immersion press, and a small scale."
   },
+  "domain": "coffee",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -43,5 +44,6 @@
   "tags": [
     "coffee",
     "kit"
-  ]
+  ],
+  "taxonomy": "hand-grinder"
 }

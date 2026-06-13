@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:1e87009d461b8e232072ecf3ae2f71d283c72871bbb19f404babe40c545b6ec3",
+  "content_hash": "sha256:8eda8e18a2ffd2c9a17908a70e9128de57fc73c239c67c7407b9289ee8ceeb7e",
   "description": {
     "en": "A catalogue of common tropical fruit in the commons."
   },
+  "domain": "cooking-and-baking",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -131,5 +132,6 @@
     "cooking-and-baking",
     "produce",
     "catalogue"
-  ]
+  ],
+  "taxonomy": "tropical-fruit"
 }

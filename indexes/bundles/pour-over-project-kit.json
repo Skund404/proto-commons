@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:1de6a11106f89d27dc1f19ddd215d25d08b823d67cb9d4888dc7f21a07db58ea",
+  "content_hash": "sha256:d3f1baae67b6263a4ec5e3da750b098a8124dec996386a352705cf347b4d9ad4",
   "description": {
     "en": "The pour-over brew project with the gear and consumables to run it, a complete first brew."
   },
+  "domain": "coffee",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -71,5 +72,6 @@
   "tags": [
     "coffee",
     "kit"
-  ]
+  ],
+  "taxonomy": "brew-project"
 }

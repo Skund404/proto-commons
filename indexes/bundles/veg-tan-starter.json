@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:61716bf8ca5853f2f41205854d4a853ad641a989ed391d8ca4968f9b736fbd3c",
+  "content_hash": "sha256:52c45f2b1aa53d54a5c0c1dfd63a7fe2c82da66da1da901e285606c8380b2773",
   "description": {
     "en": "A starter set of consumables for a first veg-tan project: leather, glue, thread, dye, and edge gum."
   },
+  "domain": "leatherwork",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -57,5 +58,6 @@
   "tags": [
     "leatherwork",
     "kit"
-  ]
+  ],
+  "taxonomy": "vegetable-tanned-leather"
 }

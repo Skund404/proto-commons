@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:4f24708145b57b8e0ec00549c77dd606fb6658432357effcd0e47854c3ca87ca",
+  "content_hash": "sha256:0fd3e6cd20ea0174b30f3b2f63dd216ec335cdce65f61a2ddf4aaaef1079c743",
   "description": {
     "en": "A catalogue of common stem vegetables in the commons."
   },
+  "domain": "cooking-and-baking",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -61,5 +62,6 @@
     "cooking-and-baking",
     "produce",
     "catalogue"
-  ]
+  ],
+  "taxonomy": "stem-vegetable"
 }

@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:0b9c5b7f201068e845079ac1eeae00c1cb0cb8e94d4b4d4462614a9fc0a39f6e",
+  "content_hash": "sha256:9eb5ba25d65d3749e4088cfed7ce685ffb35d6ec85e2a110e17fd1d58f7ec35f",
   "description": {
     "en": "A catalogue of common grapes in the commons."
   },
+  "domain": "cooking-and-baking",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -33,5 +34,6 @@
     "cooking-and-baking",
     "produce",
     "catalogue"
-  ]
+  ],
+  "taxonomy": "grape"
 }

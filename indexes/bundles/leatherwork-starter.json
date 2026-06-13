@@ -1,37 +1,38 @@
 {
-  "content_hash": "sha256:2cc9622df66750079b00abf45cd1ad2084b55b915a555cb1b7a30b937b794f7f",
+  "content_hash": "sha256:841e6daa6e48c0965b6244e95456f81c289a21264da8594e36d0f761fc06ada3",
   "description": {
     "en": "The complete beginner's bench, assembled from the marking/cutting, saddle-stitch, edge-finishing, and hardware kits plus veg-tan starter materials."
   },
+  "domain": "leatherwork",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
     {
-      "hash": "sha256:51756c6a1095cb8fcb97184a2af29a6eda76769aa2d6f6eb509b6f1ba3bd8290",
+      "hash": "sha256:46774a62e1cca1dfc1240e9b5ebce682e2c0c514b07899b5b583de8c1be138da",
       "record_class": "bundle",
       "role": "required",
       "slug": "marking-and-cutting-kit"
     },
     {
-      "hash": "sha256:94165396a9a2ec03bbfe0c6ef3a25b09bc6aaf466d4908e0b6164ad9b15edfbd",
+      "hash": "sha256:522ce8ae6384a3c940fc9c5e4caaacb0365f681cb64e017da1ee81760d0baec2",
       "record_class": "bundle",
       "role": "required",
       "slug": "saddle-stitch-essentials"
     },
     {
-      "hash": "sha256:875b82fda7c6703de50a0a1bababb5c062130c9450d4a42e7ab553e1ffd89b35",
+      "hash": "sha256:5f2c9108599ec972097b304b097161eae73206108cf97818cf4ecbb4732ab4c3",
       "record_class": "bundle",
       "role": "recommended",
       "slug": "edge-finishing-kit"
     },
     {
-      "hash": "sha256:6ed2770b233d6de80996b93aa6a62d94ce29d3fa867d05d500296716aaa40d5b",
+      "hash": "sha256:9dd926861c1138f3ad2892be9dfff917a121fd47f13e4e84853c62a9607fc8ca",
       "record_class": "bundle",
       "role": "recommended",
       "slug": "hardware-setting-kit"
     },
     {
-      "hash": "sha256:61716bf8ca5853f2f41205854d4a853ad641a989ed391d8ca4968f9b736fbd3c",
+      "hash": "sha256:52c45f2b1aa53d54a5c0c1dfd63a7fe2c82da66da1da901e285606c8380b2773",
       "record_class": "bundle",
       "role": "required",
       "slug": "veg-tan-starter"
@@ -52,5 +53,6 @@
   "tags": [
     "leatherwork",
     "kit"
-  ]
+  ],
+  "taxonomy": null
 }

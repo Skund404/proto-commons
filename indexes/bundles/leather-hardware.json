@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:1b464c46764e92ebf1094f3109a3626eaf16fe9ee1bb56039796f3ff45565a0a",
+  "content_hash": "sha256:fe5efb6dd71316ebd0f15ecb0e6085e0cf26c6d59f1e32ed76c056d85613823f",
   "description": {
     "en": "A catalogue of common closures, rings, hooks, and fasteners."
   },
+  "domain": "leatherwork",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -113,5 +114,6 @@
   "tags": [
     "leatherwork",
     "catalogue"
-  ]
+  ],
+  "taxonomy": "hardware"
 }

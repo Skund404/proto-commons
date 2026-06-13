@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:dd82778b34123ca65042b6f00c13db2cb3bd7fba7e7c70ea2c66ccffe6a0a90e",
+  "content_hash": "sha256:845a84d027b1b34c4decf763207b06d82c52e012340ebefef09c5c769668648e",
   "description": {
     "en": "A catalogue of common leafy greens in the commons."
   },
+  "domain": "cooking-and-baking",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -82,5 +83,6 @@
     "cooking-and-baking",
     "produce",
     "catalogue"
-  ]
+  ],
+  "taxonomy": "leafy-green"
 }

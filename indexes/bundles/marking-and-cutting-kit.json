@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:51756c6a1095cb8fcb97184a2af29a6eda76769aa2d6f6eb509b6f1ba3bd8290",
+  "content_hash": "sha256:46774a62e1cca1dfc1240e9b5ebce682e2c0c514b07899b5b583de8c1be138da",
   "description": {
     "en": "The layout-and-cut bench set: mark patterns, measure, and cut clean pieces."
   },
+  "domain": "leatherwork",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -64,5 +65,6 @@
   "tags": [
     "leatherwork",
     "kit"
-  ]
+  ],
+  "taxonomy": null
 }

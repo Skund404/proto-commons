@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:85c732213d2aa4860a9151c18aa28a739004165940ea6cfaf9ee924803470fb9",
+  "content_hash": "sha256:5a4a7d97218e3e68616f21bf2d665dc842e71b9899d1b22d8f5c26947311eb36",
   "description": {
     "en": "A catalogue of common alliums in the commons."
   },
+  "domain": "cooking-and-baking",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -68,5 +69,6 @@
     "cooking-and-baking",
     "produce",
     "catalogue"
-  ]
+  ],
+  "taxonomy": "allium"
 }

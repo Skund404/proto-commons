@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:a68e44b39b969e8187aea5bfb9e393d90a78ee8dad31a95f15146fe7bbf3e428",
+  "content_hash": "sha256:230014ba06e6edcd911fa77a0e1fd930d9f6e427765b86591e12095cf9c9a2a2",
   "description": {
     "en": "A catalogue of common brassicas in the commons."
   },
+  "domain": "cooking-and-baking",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -68,5 +69,6 @@
     "cooking-and-baking",
     "produce",
     "catalogue"
-  ]
+  ],
+  "taxonomy": "brassica"
 }

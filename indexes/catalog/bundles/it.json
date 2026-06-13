@@ -1,0 +1,634 @@
+{
+  "version": 1,
+  "count": 43,
+  "bundles": [
+    {
+      "slug": "aeropress-kit",
+      "name": "AeroPress kit",
+      "descSnippet": "A quick, portable immersion-press setup: the press, a grinder and scale, filters, and beans.",
+      "domain": "coffee",
+      "taxonomy": "immersion-brewer",
+      "itemCount": 6,
+      "state": "open",
+      "roles": {
+        "required": 3,
+        "recommended": 2,
+        "optional": 1
+      },
+      "updated": null,
+      "hash": "sha256:ce54308f5857b2c7baa0027d33c4d8bec0ac2cfa1fc1e167857662c4ef24439f"
+    },
+    {
+      "slug": "alliums",
+      "name": "Aglio e cipolle",
+      "descSnippet": "A catalogue of common alliums in the commons.",
+      "domain": "cooking-and-baking",
+      "taxonomy": "allium",
+      "itemCount": 6,
+      "state": "open",
+      "roles": {
+        "optional": 6
+      },
+      "updated": null,
+      "hash": "sha256:5a4a7d97218e3e68616f21bf2d665dc842e71b9899d1b22d8f5c26947311eb36"
+    },
+    {
+      "slug": "berries",
+      "name": "Bacche",
+      "descSnippet": "A catalogue of common berries in the commons.",
+      "domain": "cooking-and-baking",
+      "taxonomy": "berry",
+      "itemCount": 8,
+      "state": "open",
+      "roles": {
+        "optional": 8
+      },
+      "updated": null,
+      "hash": "sha256:f7f6184120738f54b71e62973259576ee1af5b60e06ef2fd222d41fe74134f02"
+    },
+    {
+      "slug": "brassicas",
+      "name": "Brassicacee",
+      "descSnippet": "A catalogue of common brassicas in the commons.",
+      "domain": "cooking-and-baking",
+      "taxonomy": "brassica",
+      "itemCount": 6,
+      "state": "open",
+      "roles": {
+        "optional": 6
+      },
+      "updated": null,
+      "hash": "sha256:230014ba06e6edcd911fa77a0e1fd930d9f6e427765b86591e12095cf9c9a2a2"
+    },
+    {
+      "slug": "brewing-scales",
+      "name": "Brewing scales",
+      "descSnippet": "A catalogue of brewing and espresso scales, generic and branded.",
+      "domain": "coffee",
+      "taxonomy": "scale",
+      "itemCount": 6,
+      "state": "open",
+      "roles": {
+        "optional": 6
+      },
+      "updated": null,
+      "hash": "sha256:c0bf29f4930d0fce8428bdfb141302a23cbda320302dc92f8fd6ac163e53657b"
+    },
+    {
+      "slug": "citrus-fruit",
+      "name": "Agrumi",
+      "descSnippet": "A catalogue of common citrus fruit in the commons.",
+      "domain": "cooking-and-baking",
+      "taxonomy": "citrus",
+      "itemCount": 8,
+      "state": "open",
+      "roles": {
+        "optional": 8
+      },
+      "updated": null,
+      "hash": "sha256:bb8655ba9310312839e951b32a88b70423b393cb5c111f22fc9cc8bb69862d35"
+    },
+    {
+      "slug": "coffee-starter",
+      "name": "Coffee starter (kit of kits)",
+      "descSnippet": "A complete first coffee bench, assembled from the pour-over starter and dialing-in kits, with the French press kit as an alternative method.",
+      "domain": "coffee",
+      "taxonomy": null,
+      "itemCount": 3,
+      "state": "open",
+      "roles": {
+        "required": 1,
+        "recommended": 1,
+        "optional": 1
+      },
+      "updated": null,
+      "hash": "sha256:d181c211bf7056d3941522a63b050c2d286756eea686afc3f458a015d7fb30e2"
+    },
+    {
+      "slug": "coffee-water-options",
+      "name": "Coffee water options",
+      "descSnippet": "A catalogue of brewing water choices, from filtered tap to a remineralized recipe.",
+      "domain": "coffee",
+      "taxonomy": "water",
+      "itemCount": 5,
+      "state": "open",
+      "roles": {
+        "optional": 5
+      },
+      "updated": null,
+      "hash": "sha256:0f1c818f8b2b23c8d36edb670a572ac0571a4a7262566c04430d11a7540b6a6d"
+    },
+    {
+      "slug": "cold-brew-kit",
+      "name": "Cold brew kit",
+      "descSnippet": "A no-heat setup for smooth concentrate: a cold-brew maker, a grinder, a scale, and beans.",
+      "domain": "coffee",
+      "taxonomy": "cold-brew-brewer",
+      "itemCount": 5,
+      "state": "open",
+      "roles": {
+        "required": 2,
+        "recommended": 2,
+        "optional": 1
+      },
+      "updated": null,
+      "hash": "sha256:c00026d9f72eb5537d38236c117f72a89f7d69e7596bba6ea4e8b21925d129db"
+    },
+    {
+      "slug": "dialing-in-kit",
+      "name": "Dialing-in kit",
+      "descSnippet": "The measurement set for tightening a recipe: a scale and timer, a thermometer, and a refractometer to read extraction.",
+      "domain": "coffee",
+      "taxonomy": "brewing-accessory",
+      "itemCount": 4,
+      "state": "open",
+      "roles": {
+        "required": 1,
+        "recommended": 2,
+        "optional": 1
+      },
+      "updated": null,
+      "hash": "sha256:11de2f4520ecfedc7f541cd0bdaf2914af686599dc10ede3cddbc3db3dc4aae1"
+    },
+    {
+      "slug": "edge-finishing-kit",
+      "name": "Edge-finishing kit",
+      "descSnippet": "Take a raw edge to a smooth, sealed finish: bevel, sand, gum, and slick.",
+      "domain": "leatherwork",
+      "taxonomy": "edgework-tool",
+      "itemCount": 5,
+      "state": "open",
+      "roles": {
+        "required": 3,
+        "recommended": 1,
+        "optional": 1
+      },
+      "updated": null,
+      "hash": "sha256:5f2c9108599ec972097b304b097161eae73206108cf97818cf4ecbb4732ab4c3"
+    },
+    {
+      "slug": "espresso-project-kit",
+      "name": "Espresso project kit",
+      "descSnippet": "The espresso brew project with the machine, grinder, and tools to run it.",
+      "domain": "coffee",
+      "taxonomy": "brew-project",
+      "itemCount": 5,
+      "state": "open",
+      "roles": {
+        "required": 5
+      },
+      "updated": null,
+      "hash": "sha256:1699e368adeda806a2e3b2b59345ee355e48c896557443ce61af4dae7bf8615d"
+    },
+    {
+      "slug": "espresso-setup",
+      "name": "Espresso setup",
+      "descSnippet": "A catalogue of popular home espresso machines and the grinder and accessories that support them.",
+      "domain": "coffee",
+      "taxonomy": "espresso-machine",
+      "itemCount": 7,
+      "state": "open",
+      "roles": {
+        "optional": 7
+      },
+      "updated": null,
+      "hash": "sha256:2910846b115e88fb6c449b9edba526513e245df4f7c74dd758d6ad5e40bc3442"
+    },
+    {
+      "slug": "espresso-starter-kit",
+      "name": "Espresso starter kit",
+      "descSnippet": "A first home-espresso bench: a machine, an espresso grinder, a scale, and the distribution and tamping tools.",
+      "domain": "coffee",
+      "taxonomy": "espresso-machine",
+      "itemCount": 6,
+      "state": "open",
+      "roles": {
+        "required": 4,
+        "recommended": 2
+      },
+      "updated": null,
+      "hash": "sha256:45fa9fa6026ca8812e948de451dd38818cdf0e6221b0256a5a8bb96eb13e62d8"
+    },
+    {
+      "slug": "french-press-kit",
+      "name": "French press kit",
+      "descSnippet": "A full-immersion setup for a heavy-bodied cup: the press, a coarse-capable grinder, a scale, and beans.",
+      "domain": "coffee",
+      "taxonomy": "immersion-brewer",
+      "itemCount": 4,
+      "state": "open",
+      "roles": {
+        "required": 2,
+        "recommended": 2
+      },
+      "updated": null,
+      "hash": "sha256:fc197e29d2f2f9d7d0731a25e80f13b06ca3720a11f9f1b3e6a174c4b5762981"
+    },
+    {
+      "slug": "fruits",
+      "name": "Frutta",
+      "descSnippet": "Master catalogue of common fruits, grouped by family (citrus, berries, stone fruit, pome fruit, melons, tropical fruit, grapes).",
+      "domain": "cooking-and-baking",
+      "taxonomy": "fruit",
+      "itemCount": 7,
+      "state": "open",
+      "roles": {
+        "optional": 7
+      },
+      "updated": null,
+      "hash": "sha256:bbbb48b79980a315d09412c35a274ac7fab3019f1f9646afb567ee61f33c3e79"
+    },
+    {
+      "slug": "grapes",
+      "name": "Uva",
+      "descSnippet": "A catalogue of common grapes in the commons.",
+      "domain": "cooking-and-baking",
+      "taxonomy": "grape",
+      "itemCount": 1,
+      "state": "open",
+      "roles": {
+        "optional": 1
+      },
+      "updated": null,
+      "hash": "sha256:9eb5ba25d65d3749e4088cfed7ce685ffb35d6ec85e2a110e17fd1d58f7ec35f"
+    },
+    {
+      "slug": "hand-grind-setups",
+      "name": "Hand-grind setups",
+      "descSnippet": "A catalogue of well-regarded manual grinders for filter and espresso.",
+      "domain": "coffee",
+      "taxonomy": "hand-grinder",
+      "itemCount": 3,
+      "state": "open",
+      "roles": {
+        "optional": 3
+      },
+      "updated": null,
+      "hash": "sha256:4585a00865415a5df943d4aeb62611033c606fc74740fc43157d50b870760ac3"
+    },
+    {
+      "slug": "hand-grind-travel-kit",
+      "name": "Hand-grind travel kit",
+      "descSnippet": "A compact, power-free brewing set for the road: a hand grinder, an immersion press, and a small scale.",
+      "domain": "coffee",
+      "taxonomy": "hand-grinder",
+      "itemCount": 3,
+      "state": "open",
+      "roles": {
+        "required": 1,
+        "recommended": 1,
+        "optional": 1
+      },
+      "updated": null,
+      "hash": "sha256:797b82e80577f67fe085d04e2ab284d8fc177edcc246856f7de1f03f28f9f726"
+    },
+    {
+      "slug": "hardware-setting-kit",
+      "name": "Hardware-setting kit",
+      "descSnippet": "Punch and set the common closures and fasteners: rivets, snaps, and eyelets.",
+      "domain": "leatherwork",
+      "taxonomy": "setting-tool",
+      "itemCount": 6,
+      "state": "open",
+      "roles": {
+        "required": 3,
+        "recommended": 2,
+        "optional": 1
+      },
+      "updated": null,
+      "hash": "sha256:9dd926861c1138f3ad2892be9dfff917a121fd47f13e4e84853c62a9607fc8ca"
+    },
+    {
+      "slug": "key-fob-kit",
+      "name": "Key fob project kit",
+      "descSnippet": "The key-fob project with the tools and materials to make it — a complete first build.",
+      "domain": "leatherwork",
+      "taxonomy": "leatherwork-project",
+      "itemCount": 8,
+      "state": "open",
+      "roles": {
+        "required": 7,
+        "recommended": 1
+      },
+      "updated": null,
+      "hash": "sha256:5a3a80080374314255161ca12435c2bd77de7bf13a6a02206a816a722e9e92e2"
+    },
+    {
+      "slug": "leafy-greens",
+      "name": "Verdure a foglia",
+      "descSnippet": "A catalogue of common leafy greens in the commons.",
+      "domain": "cooking-and-baking",
+      "taxonomy": "leafy-green",
+      "itemCount": 8,
+      "state": "open",
+      "roles": {
+        "optional": 8
+      },
+      "updated": null,
+      "hash": "sha256:845a84d027b1b34c4decf763207b06d82c52e012340ebefef09c5c769668648e"
+    },
+    {
+      "slug": "leather-finishes",
+      "name": "Leather finishes & care",
+      "descSnippet": "A catalogue of dyes, oils, conditioners, and edge agents.",
+      "domain": "leatherwork",
+      "taxonomy": "leather-finish",
+      "itemCount": 9,
+      "state": "open",
+      "roles": {
+        "optional": 9
+      },
+      "updated": null,
+      "hash": "sha256:d7c41ad18476b9a549942c2227ce5d467ee453ca389d1d2c67fce16730d3e99a"
+    },
+    {
+      "slug": "leather-hardware",
+      "name": "Leather hardware",
+      "descSnippet": "A catalogue of common closures, rings, hooks, and fasteners.",
+      "domain": "leatherwork",
+      "taxonomy": "hardware",
+      "itemCount": 13,
+      "state": "open",
+      "roles": {
+        "optional": 13
+      },
+      "updated": null,
+      "hash": "sha256:fe5efb6dd71316ebd0f15ecb0e6085e0cf26c6d59f1e32ed76c056d85613823f"
+    },
+    {
+      "slug": "leather-tannages",
+      "name": "Leather tannages",
+      "descSnippet": "A catalogue of the common leather tannages a beginner will meet.",
+      "domain": "leatherwork",
+      "taxonomy": "leather",
+      "itemCount": 5,
+      "state": "open",
+      "roles": {
+        "optional": 5
+      },
+      "updated": null,
+      "hash": "sha256:0a2e252f44628c774bc1dcefb177196df900ed8bbf38db203b0ab3fcf194a7cb"
+    },
+    {
+      "slug": "leatherwork-starter",
+      "name": "Leatherwork starter (kit of kits)",
+      "descSnippet": "The complete beginner's bench, assembled from the marking/cutting, saddle-stitch, edge-finishing, and hardware kits plus veg-tan starter materials.",
+      "domain": "leatherwork",
+      "taxonomy": null,
+      "itemCount": 5,
+      "state": "open",
+      "roles": {
+        "required": 3,
+        "recommended": 2
+      },
+      "updated": null,
+      "hash": "sha256:841e6daa6e48c0965b6244e95456f81c289a21264da8594e36d0f761fc06ada3"
+    },
+    {
+      "slug": "legumes",
+      "name": "Legumi",
+      "descSnippet": "A catalogue of common legumes in the commons.",
+      "domain": "cooking-and-baking",
+      "taxonomy": "legume",
+      "itemCount": 7,
+      "state": "open",
+      "roles": {
+        "optional": 7
+      },
+      "updated": null,
+      "hash": "sha256:c97af7f6b7eb9e139fb2e0da79a34136e000908bb5220b6874ec51087675b80b"
+    },
+    {
+      "slug": "marking-and-cutting-kit",
+      "name": "Marking & cutting kit",
+      "descSnippet": "The layout-and-cut bench set: mark patterns, measure, and cut clean pieces.",
+      "domain": "leatherwork",
+      "taxonomy": null,
+      "itemCount": 6,
+      "state": "open",
+      "roles": {
+        "required": 2,
+        "recommended": 3,
+        "optional": 1
+      },
+      "updated": null,
+      "hash": "sha256:46774a62e1cca1dfc1240e9b5ebce682e2c0c514b07899b5b583de8c1be138da"
+    },
+    {
+      "slug": "melons",
+      "name": "Meloni",
+      "descSnippet": "A catalogue of common melons in the commons.",
+      "domain": "cooking-and-baking",
+      "taxonomy": "melon",
+      "itemCount": 3,
+      "state": "open",
+      "roles": {
+        "optional": 3
+      },
+      "updated": null,
+      "hash": "sha256:4f0334ce45beb575046f9011802505bb81e14b0807deffc71b4645ed34e7ebd7"
+    },
+    {
+      "slug": "nightshades",
+      "name": "Solanacee",
+      "descSnippet": "A catalogue of common nightshades in the commons.",
+      "domain": "cooking-and-baking",
+      "taxonomy": "nightshade",
+      "itemCount": 4,
+      "state": "open",
+      "roles": {
+        "optional": 4
+      },
+      "updated": null,
+      "hash": "sha256:17f7531a1849af3e201c96e87cda64ee8ba4c0dcc0f116a19b0d0dc3f3539c0f"
+    },
+    {
+      "slug": "pome-fruit",
+      "name": "Pomacee",
+      "descSnippet": "A catalogue of common pome fruit in the commons.",
+      "domain": "cooking-and-baking",
+      "taxonomy": "pome-fruit",
+      "itemCount": 3,
+      "state": "open",
+      "roles": {
+        "optional": 3
+      },
+      "updated": null,
+      "hash": "sha256:101ba3902d11711d0edbc0dd0b825acd7e93bca411de54a91cba12b111ba0c40"
+    },
+    {
+      "slug": "pour-over-project-kit",
+      "name": "Pour-over project kit",
+      "descSnippet": "The pour-over brew project with the gear and consumables to run it, a complete first brew.",
+      "domain": "coffee",
+      "taxonomy": "brew-project",
+      "itemCount": 7,
+      "state": "open",
+      "roles": {
+        "required": 6,
+        "recommended": 1
+      },
+      "updated": null,
+      "hash": "sha256:d3f1baae67b6263a4ec5e3da750b098a8124dec996386a352705cf347b4d9ad4"
+    },
+    {
+      "slug": "pour-over-starter-kit",
+      "name": "Pour-over starter kit",
+      "descSnippet": "Everything to brew a clean single cup by pour-over: a dripper, a precise kettle, a scale, filters, and fresh beans.",
+      "domain": "coffee",
+      "taxonomy": "pour-over-brewer",
+      "itemCount": 7,
+      "state": "open",
+      "roles": {
+        "required": 5,
+        "recommended": 2
+      },
+      "updated": null,
+      "hash": "sha256:9faf887d342a15e8c57017644727c603c3afd0140ed8986dcca3ac5d443e0a86"
+    },
+    {
+      "slug": "produce",
+      "name": "Frutta e verdura",
+      "descSnippet": "Master catalogue of all common produce in the commons: every fruit and vegetable, reached through the fruits and vegetables sub-catalogues.",
+      "domain": "cooking-and-baking",
+      "taxonomy": "produce",
+      "itemCount": 2,
+      "state": "open",
+      "roles": {
+        "optional": 2
+      },
+      "updated": null,
+      "hash": "sha256:2c158f588f4b85c34c92568bf0e64261803ce026b4e04bd27fa07d957602d5ca"
+    },
+    {
+      "slug": "root-vegetables",
+      "name": "Ortaggi da radice",
+      "descSnippet": "A catalogue of common root vegetables in the commons.",
+      "domain": "cooking-and-baking",
+      "taxonomy": "root-vegetable",
+      "itemCount": 11,
+      "state": "open",
+      "roles": {
+        "optional": 11
+      },
+      "updated": null,
+      "hash": "sha256:1730c0b75d98ffb2774d9f49f0471f70fa80e33e45e804737ef09de8aae426b9"
+    },
+    {
+      "slug": "saddle-stitch-essentials",
+      "name": "Saddle-stitch essentials",
+      "descSnippet": "Everything to hand-stitch a seam the traditional way: punch, sew, and finish.",
+      "domain": "leatherwork",
+      "taxonomy": "stitching-tool",
+      "itemCount": 7,
+      "state": "open",
+      "roles": {
+        "required": 4,
+        "recommended": 1,
+        "optional": 2
+      },
+      "updated": null,
+      "hash": "sha256:522ce8ae6384a3c940fc9c5e4caaacb0365f681cb64e017da1ee81760d0baec2"
+    },
+    {
+      "slug": "specialty-pour-over-gear",
+      "name": "Specialty pour-over gear",
+      "descSnippet": "A catalogue of widely used pour-over brewers and the kettles and scales that pair with them.",
+      "domain": "coffee",
+      "taxonomy": "pour-over-brewer",
+      "itemCount": 8,
+      "state": "open",
+      "roles": {
+        "optional": 8
+      },
+      "updated": null,
+      "hash": "sha256:a4d6e0c23ae48792eab826668e91f32fc0ba7632cf53fc24bbe00d9ce20641e8"
+    },
+    {
+      "slug": "squashes",
+      "name": "Zucche e cucurbitacee",
+      "descSnippet": "A catalogue of common squashes & gourds in the commons.",
+      "domain": "cooking-and-baking",
+      "taxonomy": "squash",
+      "itemCount": 5,
+      "state": "open",
+      "roles": {
+        "optional": 5
+      },
+      "updated": null,
+      "hash": "sha256:daf07026212e3b7a6eeb240b49551edea69a60c07890cc5b20b3346152ce4a62"
+    },
+    {
+      "slug": "stem-vegetables",
+      "name": "Ortaggi da fusto",
+      "descSnippet": "A catalogue of common stem vegetables in the commons.",
+      "domain": "cooking-and-baking",
+      "taxonomy": "stem-vegetable",
+      "itemCount": 5,
+      "state": "open",
+      "roles": {
+        "optional": 5
+      },
+      "updated": null,
+      "hash": "sha256:0fd3e6cd20ea0174b30f3b2f63dd216ec335cdce65f61a2ddf4aaaef1079c743"
+    },
+    {
+      "slug": "stone-fruit",
+      "name": "Drupe",
+      "descSnippet": "A catalogue of common stone fruit in the commons.",
+      "domain": "cooking-and-baking",
+      "taxonomy": "stone-fruit",
+      "itemCount": 5,
+      "state": "open",
+      "roles": {
+        "optional": 5
+      },
+      "updated": null,
+      "hash": "sha256:86d9a925c792d7e201c2248f3dc46748cfade8493389a3268d735b8ae00e11e2"
+    },
+    {
+      "slug": "tropical-fruit",
+      "name": "Frutta tropicale",
+      "descSnippet": "A catalogue of common tropical fruit in the commons.",
+      "domain": "cooking-and-baking",
+      "taxonomy": "tropical-fruit",
+      "itemCount": 15,
+      "state": "open",
+      "roles": {
+        "optional": 15
+      },
+      "updated": null,
+      "hash": "sha256:8eda8e18a2ffd2c9a17908a70e9128de57fc73c239c67c7407b9289ee8ceeb7e"
+    },
+    {
+      "slug": "veg-tan-starter",
+      "name": "Veg-tan starter materials",
+      "descSnippet": "A starter set of consumables for a first veg-tan project: leather, glue, thread, dye, and edge gum.",
+      "domain": "leatherwork",
+      "taxonomy": "vegetable-tanned-leather",
+      "itemCount": 5,
+      "state": "open",
+      "roles": {
+        "required": 2,
+        "recommended": 2,
+        "optional": 1
+      },
+      "updated": null,
+      "hash": "sha256:52c45f2b1aa53d54a5c0c1dfd63a7fe2c82da66da1da901e285606c8380b2773"
+    },
+    {
+      "slug": "vegetables",
+      "name": "Verdura",
+      "descSnippet": "Master catalogue of common vegetables, grouped by family (root, leafy greens, alliums, brassicas, nightshades, squashes, legumes, stem vegetables), plus sweetcorn and okra.",
+      "domain": "cooking-and-baking",
+      "taxonomy": "vegetable",
+      "itemCount": 10,
+      "state": "open",
+      "roles": {
+        "optional": 10
+      },
+      "updated": null,
+      "hash": "sha256:ed7c3bce1b70ec5794517a672620823c4bc52735178de66c88531d674e9209f4"
+    }
+  ]
+}

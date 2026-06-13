@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:5227ecd63efe99b5c2470ba349d23fdc4555962e270885ec0917c6ddf9d5052f",
+  "content_hash": "sha256:0a2e252f44628c774bc1dcefb177196df900ed8bbf38db203b0ab3fcf194a7cb",
   "description": {
     "en": "A catalogue of the common leather tannages a beginner will meet."
   },
+  "domain": "leatherwork",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -57,5 +58,6 @@
   "tags": [
     "leatherwork",
     "catalogue"
-  ]
+  ],
+  "taxonomy": "leather"
 }

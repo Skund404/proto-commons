@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:eac0141ac099537f59cd4ccef60488d2968e0c6d3bac541c274a0914ac7c1d79",
+  "content_hash": "sha256:c97af7f6b7eb9e139fb2e0da79a34136e000908bb5220b6874ec51087675b80b",
   "description": {
     "en": "A catalogue of common legumes in the commons."
   },
+  "domain": "cooking-and-baking",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -75,5 +76,6 @@
     "cooking-and-baking",
     "produce",
     "catalogue"
-  ]
+  ],
+  "taxonomy": "legume"
 }

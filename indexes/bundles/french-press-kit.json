@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:42a9ba0f90bdea927b4c616c97d1aca06d563e039bd093f856abb2526d2b18da",
+  "content_hash": "sha256:fc197e29d2f2f9d7d0731a25e80f13b06ca3720a11f9f1b3e6a174c4b5762981",
   "description": {
     "en": "A full-immersion setup for a heavy-bodied cup: the press, a coarse-capable grinder, a scale, and beans."
   },
+  "domain": "coffee",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -50,5 +51,6 @@
   "tags": [
     "coffee",
     "kit"
-  ]
+  ],
+  "taxonomy": "immersion-brewer"
 }

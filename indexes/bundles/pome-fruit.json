@@ -1,8 +1,9 @@
 {
-  "content_hash": "sha256:bf775c600515dea04e26c4e65bc8d6f774c3f1405e0c10c3dc40796db71a68d4",
+  "content_hash": "sha256:101ba3902d11711d0edbc0dd0b825acd7e93bca411de54a91cba12b111ba0c40",
   "description": {
     "en": "A catalogue of common pome fruit in the commons."
   },
+  "domain": "cooking-and-baking",
   "emitter": "opg://commons-seed",
   "format_version": "1.0",
   "items": [
@@ -47,5 +48,6 @@
     "cooking-and-baking",
     "produce",
     "catalogue"
-  ]
+  ],
+  "taxonomy": "pome-fruit"
 }
