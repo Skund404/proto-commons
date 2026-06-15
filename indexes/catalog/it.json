@@ -853,7 +853,8 @@
       "updated": "2026-06-15",
       "hash": "sha256:1d0b8b423e434ef707768570307361ef6c51f7ea38e1d60e48d9934132a9c6e7",
       "path": "primitives/tools/brewing-america-proof-tralle-hydrometer.json",
-      "lineageState": "unasserted"
+      "lineageState": "unasserted",
+      "imageUrl": "https://brewingamerica.com/cdn/shop/products/ProofandTralleHydrometerBlue1_600x.jpg?v=1588922438"
     },
     {
       "slug": "bridle-leather",
@@ -1678,7 +1679,8 @@
       "updated": "2026-06-15",
       "hash": "sha256:0118dcaba0ba83c50991668530b2e56b5d00b8f9c635c1303e0c13ae35084980",
       "path": "primitives/tools/copperholic-alembic.json",
-      "lineageState": "unasserted"
+      "lineageState": "unasserted",
+      "imageUrl": "https://copperholic.com/cdn/shop/files/handcrafted-copper-alembic-distillation-still-kit-801421.webp"
     },
     {
       "slug": "coriander-seed",
@@ -3573,7 +3575,8 @@
       "updated": "2026-06-15",
       "hash": "sha256:66b6b82ebadec4a3017ad1b826792f78c25fa297f2db9d671724165ba996f1ec",
       "path": "primitives/tools/hooloo-eo-still.json",
-      "lineageState": "unasserted"
+      "lineageState": "unasserted",
+      "imageUrl": "https://hooloodistill.com/cdn/shop/files/1_45345090-571e-45e4-a5d8-87d1c4c0a435.jpg?v=1718870105&width=1946"
     },
     {
       "slug": "horseradish",
@@ -3756,7 +3759,8 @@
       "updated": "2026-06-15",
       "hash": "sha256:05597e3875ea05edf49670b56823f4e2a3cd53bdb4f13a751f808c13a1e84daf",
       "path": "primitives/tools/istill-mini.json",
-      "lineageState": "unasserted"
+      "lineageState": "unasserted",
+      "imageUrl": "https://istill.com/images/mini/ortho-mini-10/0001.png"
     },
     {
       "slug": "joseph-flach-gin-botanicals",
@@ -4487,7 +4491,8 @@
       "updated": "2026-06-15",
       "hash": "sha256:b13a27964ad19dbad78ef5228ef1d14951081231563d6891bab9a1f6a3b1f948",
       "path": "primitives/tools/midwest-small-cask.json",
-      "lineageState": "unasserted"
+      "lineageState": "unasserted",
+      "imageUrl": "https://midwestbarrelco.com/cdn/shop/files/small-format_1.jpg?v=1626208357"
     },
     {
       "slug": "milk-drink",
@@ -4723,7 +4728,8 @@
       "updated": "2026-06-15",
       "hash": "sha256:42612487c4933be1ee59716d9259c3c4e2eb2e9adb050cca415ee4e6730df055",
       "path": "primitives/tools/north-mountain-alcoholmeter.json",
-      "lineageState": "unasserted"
+      "lineageState": "unasserted",
+      "imageUrl": "https://www.northmountainsupply.com/var/images/product/366.366/NMS_Proof__Tralle.jpg"
     },
     {
       "slug": "o-ring",
@@ -6637,7 +6643,8 @@
       "updated": "2026-06-15",
       "hash": "sha256:549733d4469821c54aabe4067a75e3e1a5eb9aee2e9f6970785b78816c1693dd",
       "path": "primitives/tools/still-spirits-air-still-pro.json",
-      "lineageState": "unasserted"
+      "lineageState": "unasserted",
+      "imageUrl": "https://www.stillspirits.com/cdn/shop/files/Air_Still_Pro_Side.jpg?v=1696884902&width=1000"
     },
     {
       "slug": "still-thermometer",
@@ -6674,7 +6681,8 @@
       "updated": "2026-06-15",
       "hash": "sha256:ea85f3ad0c7fa3c8568f46cb716770ff796983d9bc7389249eb3198bf54f01bf",
       "path": "primitives/tools/stilldragon-bubble-cap-plate.json",
-      "lineageState": "unasserted"
+      "lineageState": "unasserted",
+      "imageUrl": "https://stilldragon.com/wp-content/uploads/2025/09/pl8bc.jpg"
     },
     {
       "slug": "stitch-groover",
@@ -7312,7 +7320,8 @@
       "updated": "2026-06-15",
       "hash": "sha256:c74b20f194c6cec652790770fab53c79f725bd48b6987ca695d29aa3abf3d346",
       "path": "primitives/tools/vengeance-copper-parrot.json",
-      "lineageState": "unasserted"
+      "lineageState": "unasserted",
+      "imageUrl": "https://vengeancestills.com/wp-content/uploads/2016/09/New-Parrot-2024-without-alcoholmeter-Reduced-Rez.jpg"
     },
     {
       "slug": "vst-lab-coffee",

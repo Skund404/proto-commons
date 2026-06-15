@@ -329,7 +329,7 @@ def build_catalog(corpus: list[dict], langs: list[str]) -> dict[str, dict]:
             p = item["primitive"]
             names = p.get("properties", {}).get("names", {})
             tags = p.get("tags", []) or []
-            rows.append({
+            row = {
                 "slug": p["slug"],
                 "kind": p["kind"],
                 "name": localized(names, p.get("name"), p["slug"], lang),
@@ -342,7 +342,12 @@ def build_catalog(corpus: list[dict], langs: list[str]) -> dict[str, dict]:
                 "hash": p.get("content_hash"),
                 "path": item["path"],
                 "lineageState": (p.get("lineage") or {}).get("provenance_state"),
-            })
+            }
+            # Linked product image (top-level imageUrl; branded exemplars only).
+            # Hotlinked URL, included only when present so other rows stay thin.
+            if p.get("imageUrl"):
+                row["imageUrl"] = p["imageUrl"]
+            rows.append(row)
         out[lang] = {"version": CATALOG_VERSION, "generated_at": gen_at,
                      "count": len(rows), "shards": None, "records": rows}
     return out
