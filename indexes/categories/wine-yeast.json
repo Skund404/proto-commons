@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "wine-yeast",
+  "names": {
+    "en": [
+      "wine yeast"
+    ]
+  },
+  "specializes": "yeast"
+}

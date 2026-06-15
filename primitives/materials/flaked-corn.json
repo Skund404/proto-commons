@@ -1,0 +1,35 @@
+{
+  "content_hash": "sha256:418af1cad03c771c193b1454ffdf58a10321ea3c6c7efc8ae44bf71336df6312",
+  "created": "2026-06-15",
+  "description": "Corn in a form that gels and releases its starch in the mash. It ferments to a soft, sweet spirit and is the dominant grain in bourbon-style whiskey.",
+  "emitter": "opg://commons-seed",
+  "id": "flaked-corn-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "flaked corn",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fermentable",
+    "names": {
+      "en": [
+        "flaked corn",
+        "maize"
+      ]
+    },
+    "taxonomy": "grain",
+    "unit": "kg"
+  },
+  "slug": "flaked-corn",
+  "tags": [
+    "distilling",
+    "fermentable",
+    "grain"
+  ],
+  "visibility": "commons"
+}

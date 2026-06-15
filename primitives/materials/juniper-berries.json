@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:72f466db1a3b1a2f83d6f4007ee067a9cc62b9629f4c7d9043bced33c533c0bc",
+  "created": "2026-06-15",
+  "description": "The piney, resinous berries that define gin. Macerated in the wash or held in a vapor basket, they are the one botanical a spirit must lead with to be called gin.",
+  "emitter": "opg://commons-seed",
+  "id": "juniper-berries-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "juniper berries",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "botanical",
+    "names": {
+      "en": [
+        "juniper berries"
+      ]
+    },
+    "taxonomy": "botanical",
+    "unit": "g"
+  },
+  "slug": "juniper-berries",
+  "tags": [
+    "distilling",
+    "botanical"
+  ],
+  "visibility": "commons"
+}

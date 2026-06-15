@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:05597e3875ea05edf49670b56823f4e2a3cd53bdb4f13a751f808c13a1e84daf",
+  "created": "2026-06-15",
+  "description": "The iStill Mini is a fully automated hybrid still that runs software-driven recipes managing heat, reflux, and cuts. It works as both a pot and a column still and is aimed at serious hobby and small craft work. See [iStill Mini](https://istill.com/mini/).",
+  "emitter": "opg://commons-seed",
+  "id": "istill-mini-seed",
+  "imageUrl": "https://istill.com/images/mini/ortho-mini-10/0001.png",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "iStill Mini",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "manufacturer": "iStill",
+    "model": "Mini",
+    "names": {
+      "en": [
+        "iStill Mini"
+      ]
+    },
+    "origin": "Netherlands",
+    "sourceUrl": "https://istill.com/mini/",
+    "taxonomy": "hybrid-still"
+  },
+  "slug": "istill-mini",
+  "tags": [
+    "distilling",
+    "still",
+    "hybrid-still",
+    "brand"
+  ],
+  "visibility": "commons"
+}

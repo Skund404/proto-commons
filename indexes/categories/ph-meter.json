@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "ph-meter",
+  "names": {
+    "en": [
+      "pH meter"
+    ]
+  },
+  "specializes": "measurement-tool"
+}

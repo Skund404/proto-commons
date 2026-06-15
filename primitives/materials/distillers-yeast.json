@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:ccd2ec2b4baebc9a8b7fe7fd864664a5d0e77c9335cdd7bb85284a3fac09bda5",
+  "created": "2026-06-15",
+  "description": "A yeast strain selected for spirit washes, fermenting cleanly and tolerating a fair amount of alcohol. It gives a neutral-to-characterful base depending on the strain.",
+  "emitter": "opg://commons-seed",
+  "id": "distillers-yeast-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "distillers yeast",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "yeast",
+    "names": {
+      "en": [
+        "distillers yeast"
+      ]
+    },
+    "taxonomy": "distillers-yeast",
+    "unit": "g"
+  },
+  "slug": "distillers-yeast",
+  "tags": [
+    "distilling",
+    "yeast",
+    "distillers-yeast"
+  ],
+  "visibility": "commons"
+}

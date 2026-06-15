@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:c2f282f52cdbe585f291f62c71e97caea082e8e5d43b8c77eb25cffca84b5ae7",
+  "created": "2026-06-15",
+  "description": "The vertical column above a still where vapor and returning liquid meet. The taller and better packed it is, the more times that exchange repeats, and the cleaner and stronger the spirit that reaches the top.",
+  "emitter": "opg://commons-seed",
+  "id": "reflux-column-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "reflux column",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "reflux column"
+      ]
+    },
+    "taxonomy": "reflux-column"
+  },
+  "slug": "reflux-column",
+  "tags": [
+    "distilling",
+    "still",
+    "reflux-column"
+  ],
+  "visibility": "commons"
+}

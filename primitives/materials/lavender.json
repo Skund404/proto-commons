@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:d423d6ee96303ccf042b8ffb815bf0a7bf9bb46da1075a29c513223ff892623b",
+  "created": "2026-06-15",
+  "description": "Fragrant lavender flowers, distilled with steam for their essential oil and floral hydrosol and used in small amounts as a gin botanical.",
+  "emitter": "opg://commons-seed",
+  "id": "lavender-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "lavender",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "botanical",
+    "names": {
+      "en": [
+        "lavender"
+      ]
+    },
+    "taxonomy": "botanical",
+    "unit": "g"
+  },
+  "slug": "lavender",
+  "tags": [
+    "distilling",
+    "botanical"
+  ],
+  "visibility": "commons"
+}

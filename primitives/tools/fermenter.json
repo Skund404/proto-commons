@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:aa1573cf1f97a5894c774b5d99fe96e1df5d0b59e6e6705451d0aab4d49f4f1d",
+  "created": "2026-06-15",
+  "description": "A food-grade vessel where yeast turns sugars into alcohol. It holds the wash under an airlock that lets carbon dioxide out while keeping air and contaminants from getting in.",
+  "emitter": "opg://commons-seed",
+  "id": "fermenter-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "fermenter",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "vessel",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "fermenter",
+        "fermentation bucket"
+      ]
+    },
+    "taxonomy": "fermenter"
+  },
+  "slug": "fermenter",
+  "tags": [
+    "distilling",
+    "vessel",
+    "fermenter"
+  ],
+  "visibility": "commons"
+}

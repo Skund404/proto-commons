@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "grape-must",
+  "names": {
+    "en": [
+      "grape must"
+    ]
+  },
+  "specializes": "fermentable"
+}

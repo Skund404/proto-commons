@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:14ed7c53d0ba2b63225974ae2ea14a09d733e8fa1c1895ec523db44eea1c6405",
+  "created": "2026-06-15",
+  "description": "A fresh or dried kitchen herb such as rosemary, thyme, or mint, distilled for its aromatic oil and water or used to flavor a spirit.",
+  "emitter": "opg://commons-seed",
+  "id": "culinary-herb-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "culinary herb",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "botanical",
+    "names": {
+      "en": [
+        "culinary herb"
+      ]
+    },
+    "taxonomy": "botanical",
+    "unit": "g"
+  },
+  "slug": "culinary-herb",
+  "tags": [
+    "distilling",
+    "botanical"
+  ],
+  "visibility": "commons"
+}

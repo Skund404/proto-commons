@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:32410439a8bc79e4de98fab3f9247e0fee0818a79a9a1232a9c0cedb12cb72c8",
+  "created": "2026-06-15",
+  "description": "A traditional onion-shaped copper pot with a swan neck and a coil condenser. The copper reacts with sulfur compounds to clean the spirit, and the same form serves spirits, essential oils, and hydrosols.",
+  "emitter": "opg://commons-seed",
+  "id": "copper-alembic-still-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "copper alembic",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "copper alembic",
+        "alembic still"
+      ]
+    },
+    "taxonomy": "copper-alembic"
+  },
+  "slug": "copper-alembic-still",
+  "tags": [
+    "distilling",
+    "still",
+    "copper-alembic"
+  ],
+  "visibility": "commons"
+}

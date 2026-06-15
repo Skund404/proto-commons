@@ -1,0 +1,11 @@
+{
+  "format_version": "1.0",
+  "id": "worm-condenser",
+  "names": {
+    "en": [
+      "worm condenser",
+      "worm coil"
+    ]
+  },
+  "specializes": "condenser"
+}

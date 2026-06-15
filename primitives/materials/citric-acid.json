@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:da2c69fdfe65d8e12fa0edb9504333d1e6e5b8a37cb4c9dc9868dfc542680c50",
+  "created": "2026-06-15",
+  "description": "A mild acid used to clean and brighten copper and to strip light scale from still parts between runs.",
+  "emitter": "opg://commons-seed",
+  "id": "citric-acid-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "citric acid",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "cleaning-agent",
+    "names": {
+      "en": [
+        "citric acid"
+      ]
+    },
+    "taxonomy": "cleaning-agent",
+    "unit": "g"
+  },
+  "slug": "citric-acid",
+  "tags": [
+    "distilling",
+    "cleaning-agent"
+  ],
+  "visibility": "commons"
+}

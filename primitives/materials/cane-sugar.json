@@ -1,0 +1,35 @@
+{
+  "content_hash": "sha256:a60683e7c8e426a0a643f110fbdbd7bacaf09c02707d1720309f8b3a465a6202",
+  "created": "2026-06-15",
+  "description": "Refined sugar that dissolves straight into water for a clean, simple wash. It needs no mashing and ferments fast, the usual base for a neutral sugar-wash spirit.",
+  "emitter": "opg://commons-seed",
+  "id": "cane-sugar-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "cane sugar",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fermentable",
+    "names": {
+      "en": [
+        "cane sugar",
+        "white sugar"
+      ]
+    },
+    "taxonomy": "sugar",
+    "unit": "kg"
+  },
+  "slug": "cane-sugar",
+  "tags": [
+    "distilling",
+    "fermentable",
+    "sugar"
+  ],
+  "visibility": "commons"
+}

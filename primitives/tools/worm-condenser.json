@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:24647342c2cdf42c78c95dcd41f73532de05f034126a513285b5240bb6a93547",
+  "created": "2026-06-15",
+  "description": "A coiled tube, the worm, submerged in a tub of cold water. Vapor winding through the coil gives up its heat slowly, the oldest condenser form and still valued for the heavier, fuller spirit it tends to produce.",
+  "emitter": "opg://commons-seed",
+  "id": "worm-condenser-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "worm condenser",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "worm condenser",
+        "worm coil"
+      ]
+    },
+    "taxonomy": "worm-condenser"
+  },
+  "slug": "worm-condenser",
+  "tags": [
+    "distilling",
+    "still",
+    "worm-condenser"
+  ],
+  "visibility": "commons"
+}

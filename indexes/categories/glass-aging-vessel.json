@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "glass-aging-vessel",
+  "names": {
+    "en": [
+      "glass aging vessel"
+    ]
+  },
+  "specializes": "aging-vessel"
+}

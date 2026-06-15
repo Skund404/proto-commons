@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:42612487c4933be1ee59716d9259c3c4e2eb2e9adb050cca415ee4e6730df055",
+  "created": "2026-06-15",
+  "description": "North Mountain Supply's glass alcoholmeter carries proof and Tralle scales for reading the strength of a finished distillate. See [North Mountain Supply Alcoholmeter](https://www.northmountainsupply.com/north-mountain-supply-glass-hydrometer-alcoholmeter-0-200-proof-and-0-100-tralle.html).",
+  "emitter": "opg://commons-seed",
+  "id": "north-mountain-alcoholmeter-seed",
+  "imageUrl": "https://www.northmountainsupply.com/var/images/product/366.366/NMS_Proof__Tralle.jpg",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "North Mountain Supply Alcoholmeter",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "measurement",
+    "license": "CC-BY-4.0",
+    "manufacturer": "North Mountain Supply",
+    "model": "Glass Alcoholmeter 0-200 Proof / 0-100 Tralle",
+    "names": {
+      "en": [
+        "North Mountain Supply Alcoholmeter"
+      ]
+    },
+    "origin": "USA",
+    "sourceUrl": "https://www.northmountainsupply.com/north-mountain-supply-glass-hydrometer-alcoholmeter-0-200-proof-and-0-100-tralle.html",
+    "taxonomy": "hydrometer"
+  },
+  "slug": "north-mountain-alcoholmeter",
+  "tags": [
+    "distilling",
+    "measurement",
+    "hydrometer",
+    "brand"
+  ],
+  "visibility": "commons"
+}

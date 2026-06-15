@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "liebig-condenser",
+  "names": {
+    "en": [
+      "Liebig condenser"
+    ]
+  },
+  "specializes": "condenser"
+}

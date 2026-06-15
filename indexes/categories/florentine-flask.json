@@ -1,0 +1,11 @@
+{
+  "format_version": "1.0",
+  "id": "florentine-flask",
+  "names": {
+    "en": [
+      "Florentine flask",
+      "essencier"
+    ]
+  },
+  "specializes": "separator"
+}

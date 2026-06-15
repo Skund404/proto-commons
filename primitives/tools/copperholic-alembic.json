@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:0118dcaba0ba83c50991668530b2e56b5d00b8f9c635c1303e0c13ae35084980",
+  "created": "2026-06-15",
+  "description": "CopperHolic sells hand-hammered copper alembic still kits for essential oils, hydrosols, and distilled water, in several sizes for hobby and small-batch use. See [CopperHolic](https://copperholic.com/products/copper-alembic-distillation-still).",
+  "emitter": "opg://commons-seed",
+  "id": "copperholic-alembic-seed",
+  "imageUrl": "https://copperholic.com/cdn/shop/files/handcrafted-copper-alembic-distillation-still-kit-801421.webp",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "CopperHolic Copper Alembic",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "manufacturer": "CopperHolic",
+    "model": "Copper Alembic Still Kit",
+    "names": {
+      "en": [
+        "CopperHolic Copper Alembic"
+      ]
+    },
+    "origin": "USA",
+    "sourceUrl": "https://copperholic.com/products/copper-alembic-distillation-still",
+    "taxonomy": "copper-alembic"
+  },
+  "slug": "copperholic-alembic",
+  "tags": [
+    "distilling",
+    "still",
+    "copper-alembic",
+    "brand"
+  ],
+  "visibility": "commons"
+}

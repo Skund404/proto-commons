@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:c2a84a599689db07770cea72dfc9f7a5e55b95bdee2eed3a1e48589db8547739",
+  "created": "2026-06-15",
+  "description": "A still with a tall packed column above the pot. Rising vapor meets liquid running back down, and that repeated contact strips out flavor and water to give a high, clean strength, the route to vodka and neutral spirit.",
+  "emitter": "opg://commons-seed",
+  "id": "reflux-still-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "reflux still",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "reflux still",
+        "column still"
+      ]
+    },
+    "taxonomy": "reflux-still"
+  },
+  "slug": "reflux-still",
+  "tags": [
+    "distilling",
+    "still",
+    "reflux-still"
+  ],
+  "visibility": "commons"
+}

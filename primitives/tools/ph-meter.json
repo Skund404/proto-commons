@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:8ad1d59081646b2f33d4d65fd577fa7120eaa0092f2d0f4cff8d1f55325540a1",
+  "created": "2026-06-15",
+  "description": "A meter that reads how acidic or alkaline a wash is. Holding fermentation in the right pH range keeps the yeast healthy and the flavors clean.",
+  "emitter": "opg://commons-seed",
+  "id": "ph-meter-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "pH meter",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "measurement",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "pH meter"
+      ]
+    },
+    "taxonomy": "ph-meter"
+  },
+  "slug": "ph-meter",
+  "tags": [
+    "distilling",
+    "measurement",
+    "ph-meter"
+  ],
+  "visibility": "commons"
+}

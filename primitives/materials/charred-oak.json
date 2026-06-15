@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:918251075b8c576d61117db677178814d085d81d94fc4a18726ab98d36f8fb73",
+  "created": "2026-06-15",
+  "description": "Oak whose surface has been burned to a layer of char. The char filters harsher notes and releases vanilla and caramel flavors, the inside of a bourbon barrel in chip or stave form.",
+  "emitter": "opg://commons-seed",
+  "id": "charred-oak-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "charred oak",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "wood",
+    "names": {
+      "en": [
+        "charred oak"
+      ]
+    },
+    "taxonomy": "wood",
+    "unit": "g"
+  },
+  "slug": "charred-oak",
+  "tags": [
+    "distilling",
+    "wood"
+  ],
+  "visibility": "commons"
+}

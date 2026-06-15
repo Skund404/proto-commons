@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:2e1da6897d1cd959781d744e2aeae4149f2da235972dd81c62074673e52ad754",
+  "created": "2026-06-15",
+  "description": "Dried lemon, orange, or grapefruit peel that brings bright citrus oils to a gin or a distilled aromatic. The pith is left off to avoid bitterness.",
+  "emitter": "opg://commons-seed",
+  "id": "citrus-peel-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "citrus peel",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "botanical",
+    "names": {
+      "en": [
+        "citrus peel",
+        "lemon and orange peel"
+      ]
+    },
+    "taxonomy": "botanical",
+    "unit": "g"
+  },
+  "slug": "citrus-peel",
+  "tags": [
+    "distilling",
+    "botanical"
+  ],
+  "visibility": "commons"
+}

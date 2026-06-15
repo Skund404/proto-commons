@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:64e54daf4e6c45b7bc3dd0f9430a6f73cd78db7f3ea57459c0b7d156fa9d84e2",
+  "created": "2026-06-15",
+  "description": "Starspice supplies gin botanicals including juniper, angelica, and coriander for craft and home distillers. See [Starspice](https://starspice.co.uk/).",
+  "emitter": "opg://commons-seed",
+  "id": "starspice-gin-botanicals-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "Starspice Gin Botanicals",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "manufacturer": "Starspice",
+    "materialType": "botanical",
+    "model": "Gin Botanicals",
+    "names": {
+      "en": [
+        "Starspice Gin Botanicals"
+      ]
+    },
+    "origin": "UK",
+    "sourceUrl": "https://starspice.co.uk/",
+    "taxonomy": "botanical",
+    "unit": "g"
+  },
+  "slug": "starspice-gin-botanicals",
+  "tags": [
+    "distilling",
+    "botanical",
+    "brand"
+  ],
+  "visibility": "commons"
+}

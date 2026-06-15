@@ -1,0 +1,11 @@
+{
+  "format_version": "1.0",
+  "id": "plated-column",
+  "names": {
+    "en": [
+      "plated column",
+      "bubble-cap still"
+    ]
+  },
+  "specializes": "still"
+}

@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:8a6123c982374bc2bdc77b1f812bc1aa6c378d8d89a11bcba8f2c2c75ebadc02",
+  "created": "2026-06-15",
+  "description": "A tank with a cone-shaped bottom so spent yeast and solids settle into the tip and can be drawn off, leaving cleaner wash above. The shape makes it easy to harvest sediment between batches.",
+  "emitter": "opg://commons-seed",
+  "id": "conical-fermenter-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "conical fermenter",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "vessel",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "conical fermenter"
+      ]
+    },
+    "taxonomy": "conical-fermenter"
+  },
+  "slug": "conical-fermenter",
+  "tags": [
+    "distilling",
+    "vessel",
+    "conical-fermenter"
+  ],
+  "visibility": "commons"
+}

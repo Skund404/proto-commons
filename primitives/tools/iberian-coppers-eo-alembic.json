@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:77598a79649cf15be6c9050d16d11b04c51c14a7678d15a8c2cd588ee5820e68",
+  "created": "2026-06-15",
+  "description": "Iberian Coppers, of Portugal, hand-hammers copper alembic still kits for essential oils, hydrosols, distilled water, and spirits, in a long alembic-making tradition. See [Iberian Coppers](https://www.copper-alembic.com/en/).",
+  "emitter": "opg://commons-seed",
+  "id": "iberian-coppers-eo-alembic-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "Iberian Coppers Essential Oil Alembic",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Iberian Coppers (Al-Ambiq)",
+    "model": "10 L Essential Oil Copper Alembic Kit",
+    "names": {
+      "en": [
+        "Iberian Coppers Essential Oil Alembic"
+      ]
+    },
+    "origin": "Portugal",
+    "sourceUrl": "https://www.copper-alembic.com/en/essential-oil-hydrosol-distillation-kits/10-l-essential-oil-copper-alembic-still-kit.html",
+    "taxonomy": "copper-alembic"
+  },
+  "slug": "iberian-coppers-eo-alembic",
+  "tags": [
+    "distilling",
+    "still",
+    "copper-alembic",
+    "brand"
+  ],
+  "visibility": "commons"
+}

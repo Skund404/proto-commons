@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:1440f12e1ba574ce85f8183c122934acc3044ec10588904204dde236572b4a4a",
+  "created": "2026-06-15",
+  "description": "Aromatic rose petals, a classic charge for steam distillation into rose essential oil and rose water, and an occasional delicate gin botanical.",
+  "emitter": "opg://commons-seed",
+  "id": "rose-petal-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "rose petals",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "botanical",
+    "names": {
+      "en": [
+        "rose petals"
+      ]
+    },
+    "taxonomy": "botanical",
+    "unit": "g"
+  },
+  "slug": "rose-petal",
+  "tags": [
+    "distilling",
+    "botanical"
+  ],
+  "visibility": "commons"
+}

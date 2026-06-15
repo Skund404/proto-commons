@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "fermenter",
+  "names": {
+    "en": [
+      "fermenter"
+    ]
+  },
+  "specializes": "fermentation-vessel"
+}

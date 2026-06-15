@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:2c20e4b088ae615a3fdf0637924568f80ef791e4aa9b5d0f23f1674f578e98ae",
+  "created": "2026-06-15",
+  "description": "Hillbilly Stills' Flute is a plated reflux column you can run at different plate counts for anything from flavorful whiskey to near-neutral spirit, a popular US-made modular still. See [Hillbilly Stills](https://www.hillbillystills.com/).",
+  "emitter": "opg://commons-seed",
+  "id": "hillbilly-flute-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "Hillbilly Flute",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Hillbilly Stills",
+    "model": "Hillbilly Flute",
+    "names": {
+      "en": [
+        "Hillbilly Flute"
+      ]
+    },
+    "origin": "USA",
+    "sourceUrl": "https://www.hillbillystills.com/",
+    "taxonomy": "reflux-still"
+  },
+  "slug": "hillbilly-flute",
+  "tags": [
+    "distilling",
+    "still",
+    "reflux-still",
+    "brand"
+  ],
+  "visibility": "commons"
+}

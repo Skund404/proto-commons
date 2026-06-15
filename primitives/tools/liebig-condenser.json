@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:136d8aa50359b14acad849093ae44256cc26a44840265f5a21ccf4c946064747",
+  "created": "2026-06-15",
+  "description": "A straight inner tube carrying vapor inside an outer water jacket. Cold water flows counter to the vapor and cools it back to liquid. Simple and reliable, it is the default condenser on many small stills.",
+  "emitter": "opg://commons-seed",
+  "id": "liebig-condenser-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "Liebig condenser",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "Liebig condenser"
+      ]
+    },
+    "taxonomy": "liebig-condenser"
+  },
+  "slug": "liebig-condenser",
+  "tags": [
+    "distilling",
+    "still",
+    "liebig-condenser"
+  ],
+  "visibility": "commons"
+}

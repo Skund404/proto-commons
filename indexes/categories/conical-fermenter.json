@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "conical-fermenter",
+  "names": {
+    "en": [
+      "conical fermenter"
+    ]
+  },
+  "specializes": "fermentation-vessel"
+}

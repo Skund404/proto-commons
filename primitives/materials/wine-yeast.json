@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:3d68dac2203bb696eb66bec02b9dcdfae06ca0ff3b57f94e93a4c4f13db9e39d",
+  "created": "2026-06-15",
+  "description": "A yeast bred for fruit and grape musts, tolerant of higher alcohol and chosen to preserve fruit aromatics. It ferments the wash behind brandy and fruit spirits.",
+  "emitter": "opg://commons-seed",
+  "id": "wine-yeast-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "wine yeast",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "yeast",
+    "names": {
+      "en": [
+        "wine yeast"
+      ]
+    },
+    "taxonomy": "wine-yeast",
+    "unit": "g"
+  },
+  "slug": "wine-yeast",
+  "tags": [
+    "distilling",
+    "yeast",
+    "wine-yeast"
+  ],
+  "visibility": "commons"
+}

@@ -101,6 +101,110 @@
         "canonical": true
       }
     ],
+    "aging jar with staves": [
+      {
+        "ref": "primitives/tools/glass-aging-vessel.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "aging jar with staves",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "aging vessel": [
+      {
+        "ref": "categories/aging-vessel",
+        "class": "category",
+        "kind": null,
+        "name": "aging vessel",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "air still": [
+      {
+        "ref": "categories/air-still",
+        "class": "category",
+        "kind": null,
+        "name": "air still",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/air-still.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "air still",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "alcoholmeter": [
+      {
+        "ref": "categories/hydrometer",
+        "class": "category",
+        "kind": null,
+        "name": "alcoholmeter",
+        "lang": "en",
+        "canonical": false
+      },
+      {
+        "ref": "primitives/tools/hydrometer.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "alcoholmeter",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "ale yeast": [
+      {
+        "ref": "categories/ale-yeast",
+        "class": "category",
+        "kind": null,
+        "name": "ale yeast",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/ale-yeast.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "ale yeast",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "alembic": [
+      {
+        "ref": "categories/copper-alembic",
+        "class": "category",
+        "kind": null,
+        "name": "alembic",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "alembic pot still": [
+      {
+        "ref": "primitives/tools/pot-still.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "alembic pot still",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "alembic still": [
+      {
+        "ref": "primitives/tools/copper-alembic-still.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "alembic still",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "allium": [
       {
         "ref": "categories/allium",
@@ -421,6 +525,44 @@
         "canonical": true
       }
     ],
+    "botanical": [
+      {
+        "ref": "categories/botanical",
+        "class": "category",
+        "kind": null,
+        "name": "botanical",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "botanical grinder": [
+      {
+        "ref": "categories/botanical-grinder",
+        "class": "category",
+        "kind": null,
+        "name": "botanical grinder",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/botanical-grinder.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "botanical grinder",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "botanical prep tool": [
+      {
+        "ref": "categories/botanical-prep-tool",
+        "class": "category",
+        "kind": null,
+        "name": "botanical prep tool",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "box cutter": [
       {
         "ref": "primitives/tools/utility-knife.json",
@@ -521,12 +663,32 @@
         "canonical": true
       }
     ],
+    "brewery wash": [
+      {
+        "ref": "primitives/materials/brewery-wash.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "brewery wash",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "brewing accessory": [
       {
         "ref": "categories/brewing-accessory",
         "class": "category",
         "kind": null,
         "name": "brewing accessory",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "brewing america proof and tralle hydrometer": [
+      {
+        "ref": "primitives/tools/brewing-america-proof-tralle-hydrometer.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Brewing America Proof and Tralle Hydrometer",
         "lang": "en",
         "canonical": true
       }
@@ -587,6 +749,24 @@
         "name": "brussels sprouts",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "bubble-cap still": [
+      {
+        "ref": "categories/plated-column",
+        "class": "category",
+        "kind": null,
+        "name": "bubble-cap still",
+        "lang": "en",
+        "canonical": false
+      },
+      {
+        "ref": "primitives/tools/plated-column-still.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "bubble-cap still",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "buckle": [
@@ -699,6 +879,16 @@
         "canonical": false
       }
     ],
+    "cane sugar": [
+      {
+        "ref": "primitives/materials/cane-sugar.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "cane sugar",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "cantaloupe": [
       {
         "ref": "primitives/materials/cantaloupe.json",
@@ -749,6 +939,24 @@
         "canonical": true
       }
     ],
+    "carboy": [
+      {
+        "ref": "categories/carboy",
+        "class": "category",
+        "kind": null,
+        "name": "carboy",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/carboy.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "carboy",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "card holder": [
       {
         "ref": "primitives/projects/card-holder.json",
@@ -767,6 +975,42 @@
         "name": "carrot",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "carter-head still": [
+      {
+        "ref": "categories/carter-head-still",
+        "class": "category",
+        "kind": null,
+        "name": "Carter-head still",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/carter-head-still.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Carter-head still",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "cask": [
+      {
+        "ref": "categories/oak-barrel",
+        "class": "category",
+        "kind": null,
+        "name": "cask",
+        "lang": "en",
+        "canonical": false
+      },
+      {
+        "ref": "primitives/tools/oak-barrel.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "cask",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "cauliflower": [
@@ -817,6 +1061,16 @@
         "name": "chard",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "charred oak": [
+      {
+        "ref": "primitives/materials/charred-oak.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "charred oak",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "chemex brew": [
@@ -957,12 +1211,32 @@
         "canonical": true
       }
     ],
+    "citric acid": [
+      {
+        "ref": "primitives/materials/citric-acid.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "citric acid",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "citrus": [
       {
         "ref": "categories/citrus",
         "class": "category",
         "kind": null,
         "name": "citrus",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "citrus peel": [
+      {
+        "ref": "primitives/materials/citrus-peel.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "citrus peel",
         "lang": "en",
         "canonical": true
       }
@@ -1123,6 +1397,42 @@
         "canonical": true
       }
     ],
+    "column packing": [
+      {
+        "ref": "categories/column-packing",
+        "class": "category",
+        "kind": null,
+        "name": "column packing",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/column-packing.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "column packing",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "column still": [
+      {
+        "ref": "categories/reflux-still",
+        "class": "category",
+        "kind": null,
+        "name": "column still",
+        "lang": "en",
+        "canonical": false
+      },
+      {
+        "ref": "primitives/tools/reflux-still.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "column still",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "comandante c40 mk4": [
       {
         "ref": "primitives/tools/comandante-c40.json",
@@ -1143,6 +1453,16 @@
         "canonical": false
       }
     ],
+    "condenser": [
+      {
+        "ref": "categories/condenser",
+        "class": "category",
+        "kind": null,
+        "name": "condenser",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "cone dripper": [
       {
         "ref": "primitives/tools/pour-over-dripper.json",
@@ -1151,6 +1471,24 @@
         "name": "cone dripper",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "conical fermenter": [
+      {
+        "ref": "categories/conical-fermenter",
+        "class": "category",
+        "kind": null,
+        "name": "conical fermenter",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/conical-fermenter.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "conical fermenter",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "contact adhesive": [
@@ -1183,6 +1521,44 @@
         "canonical": true
       }
     ],
+    "copper alembic": [
+      {
+        "ref": "categories/copper-alembic",
+        "class": "category",
+        "kind": null,
+        "name": "copper alembic",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/copper-alembic-still.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "copper alembic",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "copperholic copper alembic": [
+      {
+        "ref": "primitives/tools/copperholic-alembic.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "CopperHolic Copper Alembic",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "coriander seed": [
+      {
+        "ref": "primitives/materials/coriander-seed.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "coriander seed",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "corn": [
       {
         "ref": "primitives/materials/sweetcorn.json",
@@ -1199,6 +1575,16 @@
         "class": "primitive",
         "kind": "material",
         "name": "cos lettuce",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "countertop still": [
+      {
+        "ref": "primitives/tools/air-still.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "countertop still",
         "lang": "en",
         "canonical": false
       }
@@ -1251,6 +1637,16 @@
         "name": "cucurbit",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "culinary herb": [
+      {
+        "ref": "primitives/materials/culinary-herb.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "culinary herb",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "cup": [
@@ -1419,6 +1815,42 @@
         "canonical": false
       }
     ],
+    "demijohn": [
+      {
+        "ref": "categories/demijohn",
+        "class": "category",
+        "kind": null,
+        "name": "demijohn",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/demijohn.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "demijohn",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "dephlegmator": [
+      {
+        "ref": "categories/dephlegmator",
+        "class": "category",
+        "kind": null,
+        "name": "dephlegmator",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/dephlegmator.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "dephlegmator",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "descaler": [
       {
         "ref": "primitives/materials/descaler.json",
@@ -1505,6 +1937,34 @@
         "canonical": true
       }
     ],
+    "distilled water for proofing": [
+      {
+        "ref": "primitives/materials/proofing-water.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "distilled water for proofing",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "distillers yeast": [
+      {
+        "ref": "categories/distillers-yeast",
+        "class": "category",
+        "kind": null,
+        "name": "distillers yeast",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/distillers-yeast.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "distillers yeast",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "distribution needles": [
       {
         "ref": "primitives/tools/wdt-tool.json",
@@ -1563,6 +2023,24 @@
         "name": "double-cap rivet",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "doubler": [
+      {
+        "ref": "categories/thumper",
+        "class": "category",
+        "kind": null,
+        "name": "doubler",
+        "lang": "en",
+        "canonical": false
+      },
+      {
+        "ref": "primitives/tools/thumper.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "doubler",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "dragon fruit": [
@@ -1813,6 +2291,26 @@
         "canonical": false
       }
     ],
+    "electric element controller": [
+      {
+        "ref": "categories/electric-element-controller",
+        "class": "category",
+        "kind": null,
+        "name": "electric element controller",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "electric element with controller": [
+      {
+        "ref": "primitives/tools/electric-element-controller.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "electric element with controller",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "electric grinder": [
       {
         "ref": "categories/electric-grinder",
@@ -1947,6 +2445,24 @@
         "canonical": true
       }
     ],
+    "essencier": [
+      {
+        "ref": "categories/florentine-flask",
+        "class": "category",
+        "kind": null,
+        "name": "essencier",
+        "lang": "en",
+        "canonical": false
+      },
+      {
+        "ref": "primitives/tools/florentine-flask.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "essencier",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "extraction technique": [
       {
         "ref": "categories/extraction-technique",
@@ -2013,6 +2529,54 @@
         "class": "primitive",
         "kind": "material",
         "name": "fennel",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "fermentable": [
+      {
+        "ref": "categories/fermentable",
+        "class": "category",
+        "kind": null,
+        "name": "fermentable",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "fermentation bucket": [
+      {
+        "ref": "primitives/tools/fermenter.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "fermentation bucket",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "fermentation vessel": [
+      {
+        "ref": "categories/fermentation-vessel",
+        "class": "category",
+        "kind": null,
+        "name": "fermentation vessel",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "fermenter": [
+      {
+        "ref": "categories/fermenter",
+        "class": "category",
+        "kind": null,
+        "name": "fermenter",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/fermenter.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "fermenter",
         "lang": "en",
         "canonical": true
       }
@@ -2105,12 +2669,40 @@
         "canonical": true
       }
     ],
+    "flaked corn": [
+      {
+        "ref": "primitives/materials/flaked-corn.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "flaked corn",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "flat-bottom dripper": [
       {
         "ref": "primitives/tools/flat-bottom-dripper.json",
         "class": "primitive",
         "kind": "tool",
         "name": "flat-bottom dripper",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "florentine flask": [
+      {
+        "ref": "categories/florentine-flask",
+        "class": "category",
+        "kind": null,
+        "name": "Florentine flask",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/florentine-flask.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Florentine flask",
         "lang": "en",
         "canonical": true
       }
@@ -2175,6 +2767,26 @@
         "canonical": false
       }
     ],
+    "fruit mash": [
+      {
+        "ref": "primitives/materials/fruit-mash.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "fruit mash",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "fruit pulp": [
+      {
+        "ref": "primitives/materials/fruit-mash.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "fruit pulp",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "fruiting vegetable": [
       {
         "ref": "categories/nightshade",
@@ -2225,12 +2837,66 @@
         "canonical": true
       }
     ],
+    "gas burner": [
+      {
+        "ref": "categories/gas-burner",
+        "class": "category",
+        "kind": null,
+        "name": "gas burner",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/gas-burner.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "gas burner",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "gin basket": [
+      {
+        "ref": "categories/gin-basket",
+        "class": "category",
+        "kind": null,
+        "name": "gin basket",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/gin-basket.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "gin basket",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "ginger": [
       {
         "ref": "primitives/materials/ginger.json",
         "class": "primitive",
         "kind": "material",
         "name": "ginger",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "glass aging vessel": [
+      {
+        "ref": "categories/glass-aging-vessel",
+        "class": "category",
+        "kind": null,
+        "name": "glass aging vessel",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/glass-aging-vessel.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "glass aging vessel",
         "lang": "en",
         "canonical": true
       }
@@ -2313,6 +2979,16 @@
         "canonical": false
       }
     ],
+    "grain": [
+      {
+        "ref": "categories/grain",
+        "class": "category",
+        "kind": null,
+        "name": "grain",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "grape": [
       {
         "ref": "categories/grape",
@@ -2327,6 +3003,24 @@
         "class": "primitive",
         "kind": "material",
         "name": "grape",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "grape must": [
+      {
+        "ref": "categories/grape-must",
+        "class": "category",
+        "kind": null,
+        "name": "grape must",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/grape-must.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "grape must",
         "lang": "en",
         "canonical": true
       }
@@ -2567,12 +3261,50 @@
         "canonical": true
       }
     ],
+    "heat source": [
+      {
+        "ref": "categories/heat-source",
+        "class": "category",
+        "kind": null,
+        "name": "heat source",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "hillbilly flute": [
+      {
+        "ref": "primitives/tools/hillbilly-flute.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Hillbilly Flute",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "hole punch": [
       {
         "ref": "primitives/tools/hole-punch.json",
         "class": "primitive",
         "kind": "tool",
         "name": "hole punch",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "honey": [
+      {
+        "ref": "categories/honey",
+        "class": "category",
+        "kind": null,
+        "name": "honey",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/honey.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "honey",
         "lang": "en",
         "canonical": true
       }
@@ -2597,6 +3329,16 @@
         "canonical": false
       }
     ],
+    "hooloo 8 l essential oil still": [
+      {
+        "ref": "primitives/tools/hooloo-eo-still.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "HOOLOO 8 L Essential Oil Still",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "horseradish": [
       {
         "ref": "primitives/materials/horseradish.json",
@@ -2615,6 +3357,52 @@
         "name": "hot pepper",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "hybrid still": [
+      {
+        "ref": "categories/hybrid-still",
+        "class": "category",
+        "kind": null,
+        "name": "hybrid still",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/hybrid-still.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "hybrid still",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "hydrometer": [
+      {
+        "ref": "categories/hydrometer",
+        "class": "category",
+        "kind": null,
+        "name": "hydrometer",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/hydrometer.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "hydrometer",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "iberian coppers essential oil alembic": [
+      {
+        "ref": "primitives/tools/iberian-coppers-eo-alembic.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Iberian Coppers Essential Oil Alembic",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "immersion brew": [
@@ -2653,6 +3441,36 @@
         "class": "primitive",
         "kind": "technique",
         "name": "immersion steeping",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "istill mini": [
+      {
+        "ref": "primitives/tools/istill-mini.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "iStill Mini",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "joseph flach & sons gin botanicals": [
+      {
+        "ref": "primitives/materials/joseph-flach-gin-botanicals.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "Joseph Flach & Sons Gin Botanicals",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "juniper berries": [
+      {
+        "ref": "primitives/materials/juniper-berries.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "juniper berries",
         "lang": "en",
         "canonical": true
       }
@@ -2795,6 +3613,16 @@
         "name": "lady's finger",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "lavender": [
+      {
+        "ref": "primitives/materials/lavender.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "lavender",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "leaf vegetable": [
@@ -2987,6 +3815,16 @@
         "canonical": true
       }
     ],
+    "lemon and orange peel": [
+      {
+        "ref": "primitives/materials/citrus-peel.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "lemon and orange peel",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "lentil": [
       {
         "ref": "primitives/materials/lentil.json",
@@ -3035,6 +3873,24 @@
         "name": "lever snap",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "liebig condenser": [
+      {
+        "ref": "categories/liebig-condenser",
+        "class": "category",
+        "kind": null,
+        "name": "Liebig condenser",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/liebig-condenser.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Liebig condenser",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "light roast": [
@@ -3087,6 +3943,24 @@
         "canonical": true
       }
     ],
+    "lyne arm": [
+      {
+        "ref": "categories/lyne-arm",
+        "class": "category",
+        "kind": null,
+        "name": "lyne arm",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/lyne-arm.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "lyne arm",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "magnetic snap": [
       {
         "ref": "primitives/materials/magnetic-snap.json",
@@ -3108,6 +3982,14 @@
       }
     ],
     "maize": [
+      {
+        "ref": "primitives/materials/flaked-corn.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "maize",
+        "lang": "en",
+        "canonical": false
+      },
       {
         "ref": "primitives/materials/sweetcorn.json",
         "class": "primitive",
@@ -3131,6 +4013,16 @@
         "class": "primitive",
         "kind": "tool",
         "name": "mallet",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "malted barley": [
+      {
+        "ref": "primitives/materials/malted-barley.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "malted barley",
         "lang": "en",
         "canonical": true
       }
@@ -3233,6 +4125,16 @@
         "canonical": true
       }
     ],
+    "measurement tool": [
+      {
+        "ref": "categories/measurement-tool",
+        "class": "category",
+        "kind": null,
+        "name": "measurement tool",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "medium roast": [
       {
         "ref": "categories/medium-roast",
@@ -3259,6 +4161,24 @@
         "class": "category",
         "kind": null,
         "name": "melon",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "mesh bag": [
+      {
+        "ref": "categories/mesh-bag",
+        "class": "category",
+        "kind": null,
+        "name": "mesh bag",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/mesh-bag.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "mesh bag",
         "lang": "en",
         "canonical": true
       }
@@ -3299,6 +4219,16 @@
         "name": "metal straightedge",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "midwest barrel co. small-format cask": [
+      {
+        "ref": "primitives/tools/midwest-small-cask.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Midwest Barrel Co. Small-Format Cask",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "milk drink": [
@@ -3379,6 +4309,24 @@
         "canonical": true
       }
     ],
+    "molasses": [
+      {
+        "ref": "categories/molasses",
+        "class": "category",
+        "kind": null,
+        "name": "molasses",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/molasses.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "molasses",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "mug": [
       {
         "ref": "primitives/tools/mug.json",
@@ -3387,6 +4335,16 @@
         "name": "mug",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "muslin bag": [
+      {
+        "ref": "primitives/tools/mesh-bag.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "muslin bag",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "natural paper filter": [
@@ -3439,6 +4397,16 @@
         "canonical": true
       }
     ],
+    "north mountain supply alcoholmeter": [
+      {
+        "ref": "primitives/tools/north-mountain-alcoholmeter.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "North Mountain Supply Alcoholmeter",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "o-ring": [
       {
         "ref": "primitives/materials/o-ring.json",
@@ -3449,12 +4417,50 @@
         "canonical": true
       }
     ],
+    "oak barrel": [
+      {
+        "ref": "categories/oak-barrel",
+        "class": "category",
+        "kind": null,
+        "name": "oak barrel",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/oak-barrel.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "oak barrel",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "oak chips": [
+      {
+        "ref": "primitives/materials/oak-chips.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "oak chips",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "offcuts": [
       {
         "ref": "primitives/materials/scrap-leather.json",
         "class": "primitive",
         "kind": "material",
         "name": "offcuts",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "oil separator": [
+      {
+        "ref": "primitives/tools/florentine-flask.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "oil separator",
         "lang": "en",
         "canonical": false
       }
@@ -3615,6 +4621,24 @@
         "canonical": false
       }
     ],
+    "parrot": [
+      {
+        "ref": "categories/parrot",
+        "class": "category",
+        "kind": null,
+        "name": "parrot",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/parrot.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "parrot",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "parsnip": [
       {
         "ref": "primitives/materials/parsnip.json",
@@ -3641,6 +4665,16 @@
         "class": "primitive",
         "kind": "material",
         "name": "pawpaw",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "pbw": [
+      {
+        "ref": "primitives/materials/brewery-wash.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "PBW",
         "lang": "en",
         "canonical": false
       }
@@ -3685,6 +4719,24 @@
         "canonical": true
       }
     ],
+    "ph meter": [
+      {
+        "ref": "categories/ph-meter",
+        "class": "category",
+        "kind": null,
+        "name": "pH meter",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/ph-meter.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "pH meter",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "phone pouch": [
       {
         "ref": "primitives/projects/phone-sling.json",
@@ -3723,6 +4775,26 @@
         "name": "pitaya",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "plated column": [
+      {
+        "ref": "categories/plated-column",
+        "class": "category",
+        "kind": null,
+        "name": "plated column",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "plated column still": [
+      {
+        "ref": "primitives/tools/plated-column-still.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "plated column still",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "plum": [
@@ -3771,6 +4843,24 @@
         "class": "primitive",
         "kind": "material",
         "name": "pomelo",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "pot still": [
+      {
+        "ref": "categories/pot-still",
+        "class": "category",
+        "kind": null,
+        "name": "pot still",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/pot-still.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "pot still",
         "lang": "en",
         "canonical": true
       }
@@ -3913,6 +5003,62 @@
         "canonical": true
       }
     ],
+    "proof and tralle hydrometer": [
+      {
+        "ref": "categories/proof-and-tralle-hydrometer",
+        "class": "category",
+        "kind": null,
+        "name": "proof and tralle hydrometer",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/proof-and-tralle-hydrometer.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "proof and tralle hydrometer",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "proofing parrot": [
+      {
+        "ref": "categories/parrot",
+        "class": "category",
+        "kind": null,
+        "name": "proofing parrot",
+        "lang": "en",
+        "canonical": false
+      },
+      {
+        "ref": "primitives/tools/parrot.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "proofing parrot",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "proofing water": [
+      {
+        "ref": "primitives/materials/proofing-water.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "proofing water",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "propane burner": [
+      {
+        "ref": "primitives/tools/gas-burner.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "propane burner",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "puck screen": [
       {
         "ref": "primitives/tools/puck-screen.json",
@@ -4043,9 +5189,79 @@
         "canonical": true
       }
     ],
+    "reflux column": [
+      {
+        "ref": "categories/reflux-column",
+        "class": "category",
+        "kind": null,
+        "name": "reflux column",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/reflux-column.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "reflux column",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "reflux condenser": [
+      {
+        "ref": "categories/dephlegmator",
+        "class": "category",
+        "kind": null,
+        "name": "reflux condenser",
+        "lang": "en",
+        "canonical": false
+      },
+      {
+        "ref": "primitives/tools/dephlegmator.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "reflux condenser",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "reflux still": [
+      {
+        "ref": "categories/reflux-still",
+        "class": "category",
+        "kind": null,
+        "name": "reflux still",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/reflux-still.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "reflux still",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "refractometer": [
       {
+        "ref": "categories/refractometer",
+        "class": "category",
+        "kind": null,
+        "name": "refractometer",
+        "lang": "en",
+        "canonical": true
+      },
+      {
         "ref": "primitives/tools/refractometer.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "refractometer",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/wash-refractometer.json",
         "class": "primitive",
         "kind": "tool",
         "name": "refractometer",
@@ -4181,6 +5397,16 @@
         "canonical": true
       }
     ],
+    "rose petals": [
+      {
+        "ref": "primitives/materials/rose-petal.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "rose petals",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "rotary cutter": [
       {
         "ref": "primitives/tools/rotary-cutter.json",
@@ -4217,6 +5443,16 @@
         "class": "primitive",
         "kind": "material",
         "name": "rutabaga",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "rye": [
+      {
+        "ref": "primitives/materials/rye-grain.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "rye",
         "lang": "en",
         "canonical": true
       }
@@ -4379,6 +5615,16 @@
         "canonical": true
       }
     ],
+    "separator": [
+      {
+        "ref": "categories/separator",
+        "class": "category",
+        "kind": null,
+        "name": "separator",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "server": [
       {
         "ref": "primitives/tools/server.json",
@@ -4465,6 +5711,24 @@
         "class": "category",
         "kind": null,
         "name": "sharpening tool",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "shotgun condenser": [
+      {
+        "ref": "categories/shotgun-condenser",
+        "class": "category",
+        "kind": null,
+        "name": "shotgun condenser",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/shotgun-condenser.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "shotgun condenser",
         "lang": "en",
         "canonical": true
       }
@@ -4607,12 +5871,32 @@
         "canonical": false
       }
     ],
+    "sodium percarbonate": [
+      {
+        "ref": "primitives/materials/sodium-percarbonate.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "sodium percarbonate",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "soybean": [
       {
         "ref": "primitives/materials/edamame.json",
         "class": "primitive",
         "kind": "material",
         "name": "soybean",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "spice grinder": [
+      {
+        "ref": "primitives/tools/botanical-grinder.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "spice grinder",
         "lang": "en",
         "canonical": false
       }
@@ -4653,6 +5937,34 @@
         "class": "category",
         "kind": null,
         "name": "squash",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "starspice gin botanicals": [
+      {
+        "ref": "primitives/materials/starspice-gin-botanicals.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "Starspice Gin Botanicals",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "steam distillation still": [
+      {
+        "ref": "categories/steam-distillation-still",
+        "class": "category",
+        "kind": null,
+        "name": "steam distillation still",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/steam-distillation-still.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "steam distillation still",
         "lang": "en",
         "canonical": true
       }
@@ -4713,6 +6025,56 @@
         "class": "category",
         "kind": null,
         "name": "stem vegetable",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "still": [
+      {
+        "ref": "categories/still",
+        "class": "category",
+        "kind": null,
+        "name": "still",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "still cleaner": [
+      {
+        "ref": "primitives/materials/still-cleaner.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "still cleaner",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "still component": [
+      {
+        "ref": "categories/still-component",
+        "class": "category",
+        "kind": null,
+        "name": "still component",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "still spirits air still pro": [
+      {
+        "ref": "primitives/tools/still-spirits-air-still-pro.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Still Spirits Air Still Pro",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "stilldragon bubble cap plate": [
+      {
+        "ref": "primitives/tools/stilldragon-bubble-cap-plate.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "StillDragon Bubble Cap Plate",
         "lang": "en",
         "canonical": true
       }
@@ -4877,6 +6239,16 @@
         "canonical": false
       }
     ],
+    "structured packing": [
+      {
+        "ref": "primitives/tools/column-packing.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "structured packing",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "suede": [
       {
         "ref": "categories/suede",
@@ -4891,6 +6263,16 @@
         "class": "primitive",
         "kind": "material",
         "name": "suede",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "sugar": [
+      {
+        "ref": "categories/sugar",
+        "class": "category",
+        "kind": null,
+        "name": "sugar",
         "lang": "en",
         "canonical": true
       }
@@ -5047,6 +6429,22 @@
     ],
     "thermometer": [
       {
+        "ref": "categories/thermometer",
+        "class": "category",
+        "kind": null,
+        "name": "thermometer",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/still-thermometer.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "thermometer",
+        "lang": "en",
+        "canonical": true
+      },
+      {
         "ref": "primitives/tools/thermometer.json",
         "class": "primitive",
         "kind": "tool",
@@ -5095,6 +6493,24 @@
         "canonical": true
       }
     ],
+    "thumper": [
+      {
+        "ref": "categories/thumper",
+        "class": "category",
+        "kind": null,
+        "name": "thumper",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/thumper.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "thumper",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "tiger thread": [
       {
         "ref": "primitives/materials/ritza-tiger-thread.json",
@@ -5133,6 +6549,16 @@
         "name": "timer",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "toasted oak": [
+      {
+        "ref": "primitives/materials/toasted-oak.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "toasted oak",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "tokonole": [
@@ -5181,6 +6607,24 @@
         "class": "category",
         "kind": null,
         "name": "tropical fruit",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "turbo yeast": [
+      {
+        "ref": "categories/turbo-yeast",
+        "class": "category",
+        "kind": null,
+        "name": "turbo yeast",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/turbo-yeast.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "turbo yeast",
         "lang": "en",
         "canonical": true
       }
@@ -5241,6 +6685,24 @@
         "class": "primitive",
         "kind": "tool",
         "name": "vacuum pot",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "vapor basket": [
+      {
+        "ref": "categories/gin-basket",
+        "class": "category",
+        "kind": null,
+        "name": "vapor basket",
+        "lang": "en",
+        "canonical": false
+      },
+      {
+        "ref": "primitives/tools/gin-basket.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "vapor basket",
         "lang": "en",
         "canonical": false
       }
@@ -5315,6 +6777,16 @@
         "class": "primitive",
         "kind": "material",
         "name": "vegetable-tanned leather",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "vengeance stills copper proofing parrot": [
+      {
+        "ref": "primitives/tools/vengeance-copper-parrot.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "Vengeance Stills Copper Proofing Parrot",
         "lang": "en",
         "canonical": true
       }
@@ -5479,6 +6951,16 @@
         "canonical": true
       }
     ],
+    "wheat": [
+      {
+        "ref": "primitives/materials/wheat-grain.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "wheat",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "whetstone": [
       {
         "ref": "primitives/tools/whetstone.json",
@@ -5487,6 +6969,16 @@
         "name": "whetstone",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "white sugar": [
+      {
+        "ref": "primitives/materials/cane-sugar.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "white sugar",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "whole bean coffee": [
@@ -5507,12 +6999,86 @@
         "canonical": true
       }
     ],
+    "wine yeast": [
+      {
+        "ref": "categories/wine-yeast",
+        "class": "category",
+        "kind": null,
+        "name": "wine yeast",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/materials/wine-yeast.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "wine yeast",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "wing divider": [
       {
         "ref": "primitives/tools/wing-divider.json",
         "class": "primitive",
         "kind": "tool",
         "name": "wing divider",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "wood": [
+      {
+        "ref": "categories/wood",
+        "class": "category",
+        "kind": null,
+        "name": "wood",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "worm coil": [
+      {
+        "ref": "categories/worm-condenser",
+        "class": "category",
+        "kind": null,
+        "name": "worm coil",
+        "lang": "en",
+        "canonical": false
+      },
+      {
+        "ref": "primitives/tools/worm-condenser.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "worm coil",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "worm condenser": [
+      {
+        "ref": "categories/worm-condenser",
+        "class": "category",
+        "kind": null,
+        "name": "worm condenser",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/worm-condenser.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "worm condenser",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "yeast": [
+      {
+        "ref": "categories/yeast",
+        "class": "category",
+        "kind": null,
+        "name": "yeast",
         "lang": "en",
         "canonical": true
       }

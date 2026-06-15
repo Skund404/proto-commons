@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "thermometer",
+  "names": {
+    "en": [
+      "thermometer"
+    ]
+  },
+  "specializes": "measurement-tool"
+}

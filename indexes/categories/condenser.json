@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "condenser",
+  "names": {
+    "en": [
+      "condenser"
+    ]
+  },
+  "specializes": "still-component"
+}

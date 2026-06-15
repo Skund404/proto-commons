@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "mesh-bag",
+  "names": {
+    "en": [
+      "mesh bag"
+    ]
+  },
+  "specializes": "botanical-prep-tool"
+}

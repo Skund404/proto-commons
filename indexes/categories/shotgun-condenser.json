@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "shotgun-condenser",
+  "names": {
+    "en": [
+      "shotgun condenser"
+    ]
+  },
+  "specializes": "condenser"
+}

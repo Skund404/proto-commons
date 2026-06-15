@@ -1,0 +1,11 @@
+{
+  "format_version": "1.0",
+  "id": "copper-alembic",
+  "names": {
+    "en": [
+      "copper alembic",
+      "alembic"
+    ]
+  },
+  "specializes": "still"
+}

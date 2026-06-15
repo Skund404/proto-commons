@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:72c3e1213b246c04cdc6c13094b30b98ded999abe287aa779ac23f5d022df137",
+  "created": "2026-06-15",
+  "description": "Freshly pressed grape juice with its skins and pulp. Fermented to wine and then distilled, it is the starting point for grape brandy and pomace spirits.",
+  "emitter": "opg://commons-seed",
+  "id": "grape-must-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "grape must",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fermentable",
+    "names": {
+      "en": [
+        "grape must"
+      ]
+    },
+    "taxonomy": "grape-must",
+    "unit": "L"
+  },
+  "slug": "grape-must",
+  "tags": [
+    "distilling",
+    "fermentable",
+    "grape-must"
+  ],
+  "visibility": "commons"
+}

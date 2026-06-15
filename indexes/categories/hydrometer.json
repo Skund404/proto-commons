@@ -1,0 +1,11 @@
+{
+  "format_version": "1.0",
+  "id": "hydrometer",
+  "names": {
+    "en": [
+      "hydrometer",
+      "alcoholmeter"
+    ]
+  },
+  "specializes": "measurement-tool"
+}

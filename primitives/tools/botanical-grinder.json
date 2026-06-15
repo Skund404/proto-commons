@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:5676002881111ed5ee09154fce55f88f8cb11469f76ece56e5d7974f32d8582d",
+  "created": "2026-06-15",
+  "description": "A grinder that cracks or coarsely mills seeds, roots, and dried botanicals to open up their surface before they are macerated or loaded into a basket, releasing more aroma into the spirit.",
+  "emitter": "opg://commons-seed",
+  "id": "botanical-grinder-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "botanical grinder",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "botanical",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "botanical grinder",
+        "spice grinder"
+      ]
+    },
+    "taxonomy": "botanical-grinder"
+  },
+  "slug": "botanical-grinder",
+  "tags": [
+    "distilling",
+    "botanical",
+    "botanical-grinder"
+  ],
+  "visibility": "commons"
+}

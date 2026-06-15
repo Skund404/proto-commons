@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "steam-distillation-still",
+  "names": {
+    "en": [
+      "steam distillation still"
+    ]
+  },
+  "specializes": "still"
+}

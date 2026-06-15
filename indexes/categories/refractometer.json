@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "refractometer",
+  "names": {
+    "en": [
+      "refractometer"
+    ]
+  },
+  "specializes": "measurement-tool"
+}

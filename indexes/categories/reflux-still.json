@@ -1,0 +1,11 @@
+{
+  "format_version": "1.0",
+  "id": "reflux-still",
+  "names": {
+    "en": [
+      "reflux still",
+      "column still"
+    ]
+  },
+  "specializes": "still"
+}

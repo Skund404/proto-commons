@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:1d0b8b423e434ef707768570307361ef6c51f7ea38e1d60e48d9934132a9c6e7",
+  "created": "2026-06-15",
+  "description": "Brewing America's proof-and-tralle hydrometer reads US proof and percent alcohol on the clear distillate, a traceable, US-made instrument for setting a spirit's strength. See [Brewing America Proof \u0026 Tralle Hydrometer](https://brewingamerica.com/products/american-made-alcohol-hydrometer-tester-0-200-proof-tralle-pro-series-traceable-distilling-moonshine-alcoholmeter).",
+  "emitter": "opg://commons-seed",
+  "id": "brewing-america-proof-tralle-hydrometer-seed",
+  "imageUrl": "https://brewingamerica.com/cdn/shop/products/ProofandTralleHydrometerBlue1_600x.jpg?v=1588922438",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "Brewing America Proof and Tralle Hydrometer",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "measurement",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Brewing America",
+    "model": "0-200 Proof / 0-100 Tralle Hydrometer",
+    "names": {
+      "en": [
+        "Brewing America Proof and Tralle Hydrometer"
+      ]
+    },
+    "origin": "USA",
+    "sourceUrl": "https://brewingamerica.com/products/american-made-alcohol-hydrometer-tester-0-200-proof-tralle-pro-series-traceable-distilling-moonshine-alcoholmeter",
+    "taxonomy": "proof-and-tralle-hydrometer"
+  },
+  "slug": "brewing-america-proof-tralle-hydrometer",
+  "tags": [
+    "distilling",
+    "measurement",
+    "proof-and-tralle-hydrometer",
+    "brand"
+  ],
+  "visibility": "commons"
+}

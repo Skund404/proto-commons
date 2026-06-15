@@ -1,0 +1,35 @@
+{
+  "content_hash": "sha256:5e60decb408698ca0e35ba8b7149f711ea689b615b18262d3ef560ce7f91e644",
+  "created": "2026-06-15",
+  "description": "Crushed ripe fruit whose natural sugars ferment on their own or with added yeast. The fermented fruit is distilled into brandy or eau de vie.",
+  "emitter": "opg://commons-seed",
+  "id": "fruit-mash-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "fruit mash",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fermentable",
+    "names": {
+      "en": [
+        "fruit mash",
+        "fruit pulp"
+      ]
+    },
+    "taxonomy": "fruit",
+    "unit": "kg"
+  },
+  "slug": "fruit-mash",
+  "tags": [
+    "distilling",
+    "fermentable",
+    "fruit"
+  ],
+  "visibility": "commons"
+}

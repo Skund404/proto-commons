@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:bcd9de3e0e161cf5dcef27ef676f6a32e0eb92498e0a1b16db551bb575ad44b0",
+  "created": "2026-06-15",
+  "description": "A still that can run as a pot or as a column, usually by switching a valve or bypassing the plates. One vessel covers flavorful spirit runs and high-proof neutral runs, which is why small distilleries favor it.",
+  "emitter": "opg://commons-seed",
+  "id": "hybrid-still-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "hybrid still",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "hybrid still"
+      ]
+    },
+    "taxonomy": "hybrid-still"
+  },
+  "slug": "hybrid-still",
+  "tags": [
+    "distilling",
+    "still",
+    "hybrid-still"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:549733d4469821c54aabe4067a75e3e1a5eb9aee2e9f6970785b78816c1693dd",
+  "created": "2026-06-15",
+  "description": "Still Spirits' Air Still Pro is a countertop electric still that can run as a pot or a reflux still, used at home for spirits, essences, and purified water. See [Still Spirits Air Still Pro](https://www.stillspirits.com/products/air-still-pro).",
+  "emitter": "opg://commons-seed",
+  "id": "still-spirits-air-still-pro-seed",
+  "imageUrl": "https://www.stillspirits.com/cdn/shop/files/Air_Still_Pro_Side.jpg?v=1696884902\u0026width=1000",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "Still Spirits Air Still Pro",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Still Spirits (Bevie Handcraft)",
+    "model": "Air Still Pro",
+    "names": {
+      "en": [
+        "Still Spirits Air Still Pro"
+      ]
+    },
+    "origin": "New Zealand",
+    "sourceUrl": "https://www.stillspirits.com/products/air-still-pro",
+    "taxonomy": "air-still"
+  },
+  "slug": "still-spirits-air-still-pro",
+  "tags": [
+    "distilling",
+    "still",
+    "air-still",
+    "brand"
+  ],
+  "visibility": "commons"
+}

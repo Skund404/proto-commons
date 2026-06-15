@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:66b6b82ebadec4a3017ad1b826792f78c25fa297f2db9d671724165ba996f1ec",
+  "created": "2026-06-15",
+  "description": "HOOLOO's 8 L copper still is built for essential oils and hydrosols, passing steam through a botanical chamber and parting the oil and water at a separator. See [HOOLOO Essential Oil Still](https://hooloodistill.com/products/hooloo-8l-copper-essential-oil-hydrosol-still-distiller).",
+  "emitter": "opg://commons-seed",
+  "id": "hooloo-eo-still-seed",
+  "imageUrl": "https://hooloodistill.com/cdn/shop/files/1_45345090-571e-45e4-a5d8-87d1c4c0a435.jpg?v=1718870105\u0026width=1946",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "HOOLOO 8 L Essential Oil Still",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "manufacturer": "HOOLOO",
+    "model": "8 L Copper Essential Oil/Hydrosol Still",
+    "names": {
+      "en": [
+        "HOOLOO 8 L Essential Oil Still"
+      ]
+    },
+    "origin": "China",
+    "sourceUrl": "https://hooloodistill.com/products/hooloo-8l-copper-essential-oil-hydrosol-still-distiller",
+    "taxonomy": "steam-distillation-still"
+  },
+  "slug": "hooloo-eo-still",
+  "tags": [
+    "distilling",
+    "still",
+    "steam-distillation-still",
+    "brand"
+  ],
+  "visibility": "commons"
+}

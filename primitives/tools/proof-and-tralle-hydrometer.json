@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:db9a9a5afcfeed86ff0488b39539a6535b2af14016a4e89b122f2bf2b387062a",
+  "created": "2026-06-15",
+  "description": "A spirit hydrometer carrying both the US proof scale and the Tralle percent-alcohol scale. It reads accurately only on pure water-and-alcohol mixes, so it is used on the clear distillate, not on a sugary wash.",
+  "emitter": "opg://commons-seed",
+  "id": "proof-and-tralle-hydrometer-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "proof and tralle hydrometer",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "measurement",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "proof and tralle hydrometer"
+      ]
+    },
+    "taxonomy": "proof-and-tralle-hydrometer"
+  },
+  "slug": "proof-and-tralle-hydrometer",
+  "tags": [
+    "distilling",
+    "measurement",
+    "proof-and-tralle-hydrometer"
+  ],
+  "visibility": "commons"
+}

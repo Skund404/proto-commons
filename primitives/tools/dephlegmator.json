@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:bdb65e9b9dcebc5b953569478cdfdf56b14e30db76851699040b93efa09ff7ad",
+  "created": "2026-06-15",
+  "description": "A partial condenser at the top of a column that knocks some vapor back down as liquid. By adjusting its cooling water the operator dials how much reflux the column runs, trading flavor for purity in real time.",
+  "emitter": "opg://commons-seed",
+  "id": "dephlegmator-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "dephlegmator",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "dephlegmator",
+        "reflux condenser"
+      ]
+    },
+    "taxonomy": "dephlegmator"
+  },
+  "slug": "dephlegmator",
+  "tags": [
+    "distilling",
+    "still",
+    "dephlegmator"
+  ],
+  "visibility": "commons"
+}

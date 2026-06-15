@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "proof-and-tralle-hydrometer",
+  "names": {
+    "en": [
+      "proof and tralle hydrometer"
+    ]
+  },
+  "specializes": "hydrometer"
+}

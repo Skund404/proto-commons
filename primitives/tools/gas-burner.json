@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:0b46cc98c880159262fb0ccb028e8562b39627e20747ff003133599e5326d30a",
+  "created": "2026-06-15",
+  "description": "An open gas flame under the still pot. Powerful and cheap, it heats fast but is harder to hold steady, so many operators move to electric for the slow, even heat a careful spirit run wants.",
+  "emitter": "opg://commons-seed",
+  "id": "gas-burner-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "gas burner",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "heat",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "gas burner",
+        "propane burner"
+      ]
+    },
+    "taxonomy": "gas-burner"
+  },
+  "slug": "gas-burner",
+  "tags": [
+    "distilling",
+    "heat",
+    "gas-burner"
+  ],
+  "visibility": "commons"
+}

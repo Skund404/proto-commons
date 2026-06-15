@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:1870e011a0c6ea82c6119fc7984526138a9b354278815587ba7106880528d0ea",
+  "created": "2026-06-15",
+  "description": "Barley that has been germinated and kilned so its starches and the enzymes to convert them are ready. Mashed with hot water it gives a fermentable, malty wash, the base of malt whisky.",
+  "emitter": "opg://commons-seed",
+  "id": "malted-barley-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "malted barley",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fermentable",
+    "names": {
+      "en": [
+        "malted barley"
+      ]
+    },
+    "taxonomy": "grain",
+    "unit": "kg"
+  },
+  "slug": "malted-barley",
+  "tags": [
+    "distilling",
+    "fermentable",
+    "grain"
+  ],
+  "visibility": "commons"
+}

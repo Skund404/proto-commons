@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:d471ee9260d845f9dd5c6322bf9909879f39ef1b2effa3d4ff5ba3de162c641c",
+  "created": "2026-06-15",
+  "description": "A large bulbous bottle, often in a basket, used to ferment or hold a batch of wash or wine. It works much like a carboy at a larger volume.",
+  "emitter": "opg://commons-seed",
+  "id": "demijohn-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "demijohn",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "vessel",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "demijohn"
+      ]
+    },
+    "taxonomy": "demijohn"
+  },
+  "slug": "demijohn",
+  "tags": [
+    "distilling",
+    "vessel",
+    "demijohn"
+  ],
+  "visibility": "commons"
+}

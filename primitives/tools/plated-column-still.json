@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:684b5c434a18283421b18b31d25e47c64efcfeda33869012622862fe3460fa63",
+  "created": "2026-06-15",
+  "description": "A column fitted with horizontal plates instead of loose packing. Each plate is a defined stage where vapor bubbles through a shallow pool of liquid, so the operator can count plates and read the column's progress, prized for repeatable control.",
+  "emitter": "opg://commons-seed",
+  "id": "plated-column-still-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "plated column still",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "plated column still",
+        "bubble-cap still"
+      ]
+    },
+    "taxonomy": "plated-column"
+  },
+  "slug": "plated-column-still",
+  "tags": [
+    "distilling",
+    "still",
+    "plated-column"
+  ],
+  "visibility": "commons"
+}

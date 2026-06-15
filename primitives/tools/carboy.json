@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:c6382f228447a6ceb28c7899e6cb936577fe1b7b0eb3062e4a208343d5cd7ba3",
+  "created": "2026-06-15",
+  "description": "A narrow-necked glass or plastic jug used to ferment and age under an airlock. Its small surface at the top limits the wash's contact with air, which suits longer fermentations like wine and mead.",
+  "emitter": "opg://commons-seed",
+  "id": "carboy-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "carboy",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "vessel",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "carboy"
+      ]
+    },
+    "taxonomy": "carboy"
+  },
+  "slug": "carboy",
+  "tags": [
+    "distilling",
+    "vessel",
+    "carboy"
+  ],
+  "visibility": "commons"
+}

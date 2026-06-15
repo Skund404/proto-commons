@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:a9dc950ea8f61a51d2a3c68c95195e66797181e6eb53828805b1c0ed2b389481",
+  "created": "2026-06-15",
+  "description": "Material loaded into a reflux column to create surface for vapor and liquid to meet, from copper mesh that also scrubs sulfur to ceramic rings or stainless structured packing. More surface means more rectification.",
+  "emitter": "opg://commons-seed",
+  "id": "column-packing-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "column packing",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "column packing",
+        "structured packing"
+      ]
+    },
+    "taxonomy": "column-packing"
+  },
+  "slug": "column-packing",
+  "tags": [
+    "distilling",
+    "still",
+    "column-packing"
+  ],
+  "visibility": "commons"
+}

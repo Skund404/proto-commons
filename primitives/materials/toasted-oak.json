@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:7da4e47eb709168956fa70a3406c6adf2a89820e3378e9964cc8b9daa513f44a",
+  "created": "2026-06-15",
+  "description": "Oak heated more gently than charring, to a toast that brings out spice, nut, and dried-fruit notes without the heavy smoke of char.",
+  "emitter": "opg://commons-seed",
+  "id": "toasted-oak-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "toasted oak",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "wood",
+    "names": {
+      "en": [
+        "toasted oak"
+      ]
+    },
+    "taxonomy": "wood",
+    "unit": "g"
+  },
+  "slug": "toasted-oak",
+  "tags": [
+    "distilling",
+    "wood"
+  ],
+  "visibility": "commons"
+}

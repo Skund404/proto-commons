@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "reflux-column",
+  "names": {
+    "en": [
+      "reflux column"
+    ]
+  },
+  "specializes": "still-component"
+}

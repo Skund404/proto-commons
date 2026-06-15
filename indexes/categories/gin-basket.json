@@ -1,0 +1,11 @@
+{
+  "format_version": "1.0",
+  "id": "gin-basket",
+  "names": {
+    "en": [
+      "gin basket",
+      "vapor basket"
+    ]
+  },
+  "specializes": "botanical-prep-tool"
+}

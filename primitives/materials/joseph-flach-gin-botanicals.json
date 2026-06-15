@@ -1,0 +1,38 @@
+{
+  "content_hash": "sha256:83f46ed27f305d3788e4541129149c029786bce37fff2a26ea2238b19953bb25",
+  "created": "2026-06-15",
+  "description": "Joseph Flach \u0026 Sons, a long-established London spice house, supplies distillers' gin botanicals such as juniper, coriander, and angelica by the grade and lot. See [Joseph Flach \u0026 Sons](https://www.josephflach.co.uk/botanicals/distilling).",
+  "emitter": "opg://commons-seed",
+  "id": "joseph-flach-gin-botanicals-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "Joseph Flach \u0026 Sons Gin Botanicals",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "manufacturer": "Joseph Flach \u0026 Sons",
+    "materialType": "botanical",
+    "model": "Distillers' Gin Botanicals",
+    "names": {
+      "en": [
+        "Joseph Flach \u0026 Sons Gin Botanicals"
+      ]
+    },
+    "origin": "UK",
+    "sourceUrl": "https://www.josephflach.co.uk/botanicals/distilling",
+    "taxonomy": "botanical",
+    "unit": "g"
+  },
+  "slug": "joseph-flach-gin-botanicals",
+  "tags": [
+    "distilling",
+    "botanical",
+    "brand"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:6322a8dc9b80674f2e72ab94f07134de7ecd166e94a60e5c17f9f0ad7eebc068",
+  "created": "2026-06-15",
+  "description": "A cleaning preparation made for stills, used to clear scale and residue from the boiler and column so they do not taint the next run.",
+  "emitter": "opg://commons-seed",
+  "id": "still-cleaner-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "still cleaner",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "cleaning-agent",
+    "names": {
+      "en": [
+        "still cleaner"
+      ]
+    },
+    "taxonomy": "cleaning-agent",
+    "unit": "g"
+  },
+  "slug": "still-cleaner",
+  "tags": [
+    "distilling",
+    "cleaning-agent"
+  ],
+  "visibility": "commons"
+}

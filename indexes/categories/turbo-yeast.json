@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "turbo-yeast",
+  "names": {
+    "en": [
+      "turbo yeast"
+    ]
+  },
+  "specializes": "yeast"
+}

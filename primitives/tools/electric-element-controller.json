@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:b9623ce125d3769ecc178c5d2d8bae6f98c1df756e3681d7fc7e8bc01e48a501",
+  "created": "2026-06-15",
+  "description": "An electric heating element in the pot paired with a power controller. Setting the wattage gives steady, repeatable heat and a controllable vapor speed, which is why it is the common choice for precise runs.",
+  "emitter": "opg://commons-seed",
+  "id": "electric-element-controller-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "electric element with controller",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "heat",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "electric element with controller"
+      ]
+    },
+    "taxonomy": "electric-element-controller"
+  },
+  "slug": "electric-element-controller",
+  "tags": [
+    "distilling",
+    "heat",
+    "electric-element-controller"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:5aa966dcaac6566a67a8b43c581874f1b4133a7190cc49c7c2c0cf147214df12",
+  "created": "2026-06-15",
+  "description": "An instrument that reads sugar content from how much a drop of liquid bends light, letting a brewer or distiller check a wash's starting gravity from a few drops rather than a full sample.",
+  "emitter": "opg://commons-seed",
+  "id": "wash-refractometer-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "refractometer",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "measurement",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "refractometer"
+      ]
+    },
+    "taxonomy": "refractometer"
+  },
+  "slug": "wash-refractometer",
+  "tags": [
+    "distilling",
+    "measurement",
+    "refractometer"
+  ],
+  "visibility": "commons"
+}

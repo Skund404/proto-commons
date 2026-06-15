@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:b1729fcb37e5680e3b834c6e65342c4acb28a0cc320f6407f96c36f679dfb2ca",
+  "created": "2026-06-15",
+  "description": "The sloping tube that carries vapor from the top of the still to the condenser. Its angle and length influence reflux and so the weight of the spirit: an upward arm gives a lighter cut, a downward one a heavier one.",
+  "emitter": "opg://commons-seed",
+  "id": "lyne-arm-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "lyne arm",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "lyne arm"
+      ]
+    },
+    "taxonomy": "lyne-arm"
+  },
+  "slug": "lyne-arm",
+  "tags": [
+    "distilling",
+    "still",
+    "lyne-arm"
+  ],
+  "visibility": "commons"
+}

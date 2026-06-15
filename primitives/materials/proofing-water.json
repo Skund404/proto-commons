@@ -1,0 +1,35 @@
+{
+  "content_hash": "sha256:4aaabea2ed20afd2ac113d066e614cf0e438d423cfb11ce633d026aa978f19cf",
+  "created": "2026-06-15",
+  "description": "Distilled or de-mineralized water used to proof a spirit down to bottling strength without adding any flavor of its own. Consistent and neutral, it is what a maker reaches for to bring a high-proof distillate down to a target alcohol level.",
+  "emitter": "opg://commons-seed",
+  "id": "proofing-water-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "proofing water",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "water",
+    "names": {
+      "en": [
+        "proofing water",
+        "distilled water for proofing"
+      ]
+    },
+    "taxonomy": "distilled-water",
+    "unit": "L"
+  },
+  "slug": "proofing-water",
+  "tags": [
+    "distilling",
+    "water",
+    "distilled-water"
+  ],
+  "visibility": "commons"
+}

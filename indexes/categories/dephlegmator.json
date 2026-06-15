@@ -1,0 +1,11 @@
+{
+  "format_version": "1.0",
+  "id": "dephlegmator",
+  "names": {
+    "en": [
+      "dephlegmator",
+      "reflux condenser"
+    ]
+  },
+  "specializes": "still-component"
+}

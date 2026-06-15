@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:0e824ffe0ea361e8119e714dfeea1f78ba87ed015c3cfb274a53bcdeb35e171a",
+  "created": "2026-06-15",
+  "description": "An alkaline cleaning powder that lifts wash residue and oils from fermenters and still parts without scrubbing, rinsing away clean.",
+  "emitter": "opg://commons-seed",
+  "id": "brewery-wash-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "brewery wash",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "cleaning-agent",
+    "names": {
+      "en": [
+        "brewery wash",
+        "PBW"
+      ]
+    },
+    "taxonomy": "cleaning-agent",
+    "unit": "g"
+  },
+  "slug": "brewery-wash",
+  "tags": [
+    "distilling",
+    "cleaning-agent"
+  ],
+  "visibility": "commons"
+}

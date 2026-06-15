@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:0225bf68a70df018adbd7355860937777ab991e7517b57902e666325700ac915",
+  "created": "2026-06-15",
+  "description": "A sealed pot between the still and the condenser, part charged with liquid. Hot vapor bubbling through it re-distills on the fly, raising strength and adding character in one pass, a traditional fixture on pot stills.",
+  "emitter": "opg://commons-seed",
+  "id": "thumper-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "thumper",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "thumper",
+        "doubler"
+      ]
+    },
+    "taxonomy": "thumper"
+  },
+  "slug": "thumper",
+  "tags": [
+    "distilling",
+    "still",
+    "thumper"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:a851770e749f271bc0b966c7d71eeb7c827ce9ee763fcb6f1347b7015f216685",
+  "created": "2026-06-15",
+  "description": "Distillers yeast blended with nutrients and buffers to ferment a sugar wash fast and to a high alcohol level. Quick and strong, it leans neutral and dry, so it suits vodka more than a full-bodied spirit.",
+  "emitter": "opg://commons-seed",
+  "id": "turbo-yeast-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "turbo yeast",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "yeast",
+    "names": {
+      "en": [
+        "turbo yeast"
+      ]
+    },
+    "taxonomy": "turbo-yeast",
+    "unit": "g"
+  },
+  "slug": "turbo-yeast",
+  "tags": [
+    "distilling",
+    "yeast",
+    "turbo-yeast"
+  ],
+  "visibility": "commons"
+}

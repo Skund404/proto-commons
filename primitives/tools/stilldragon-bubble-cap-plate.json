@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:ea85f3ad0c7fa3c8568f46cb716770ff796983d9bc7389249eb3198bf54f01bf",
+  "created": "2026-06-15",
+  "description": "StillDragon builds modular copper bubble-cap plates for plated reflux columns, each plate a defined contact stage you can stack to tune purity. A staple of the build-your-own still community. See [StillDragon](https://stilldragon.com/).",
+  "emitter": "opg://commons-seed",
+  "id": "stilldragon-bubble-cap-plate-seed",
+  "imageUrl": "https://stilldragon.com/wp-content/uploads/2025/09/pl8bc.jpg",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "StillDragon Bubble Cap Plate",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "manufacturer": "StillDragon",
+    "model": "Copper Bubble Cap Plate",
+    "names": {
+      "en": [
+        "StillDragon Bubble Cap Plate"
+      ]
+    },
+    "origin": "USA (international manufacture)",
+    "sourceUrl": "https://stilldragon.com/",
+    "taxonomy": "plated-column"
+  },
+  "slug": "stilldragon-bubble-cap-plate",
+  "tags": [
+    "distilling",
+    "still",
+    "plated-column",
+    "brand"
+  ],
+  "visibility": "commons"
+}

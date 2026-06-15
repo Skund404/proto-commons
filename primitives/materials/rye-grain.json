@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:c79c0b4304503fda1e14a010b790e01b46670845676b26971efd9c663594d572",
+  "created": "2026-06-15",
+  "description": "A grain that ferments to a spicy, peppery spirit. Used on its own or in a mash bill, it gives rye whiskey its characteristic bite.",
+  "emitter": "opg://commons-seed",
+  "id": "rye-grain-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "rye",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fermentable",
+    "names": {
+      "en": [
+        "rye"
+      ]
+    },
+    "taxonomy": "grain",
+    "unit": "kg"
+  },
+  "slug": "rye-grain",
+  "tags": [
+    "distilling",
+    "fermentable",
+    "grain"
+  ],
+  "visibility": "commons"
+}

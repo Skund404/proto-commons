@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:eddc01b9f60fe185131a4787bfe42493efd988c83e4e17a7c2c21fa45ef6b277",
+  "created": "2026-06-15",
+  "description": "A soft grain that ferments to a gentle, mellow spirit. It rounds out a whiskey mash bill and is the base of wheat vodka.",
+  "emitter": "opg://commons-seed",
+  "id": "wheat-grain-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "wheat",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fermentable",
+    "names": {
+      "en": [
+        "wheat"
+      ]
+    },
+    "taxonomy": "grain",
+    "unit": "kg"
+  },
+  "slug": "wheat-grain",
+  "tags": [
+    "distilling",
+    "fermentable",
+    "grain"
+  ],
+  "visibility": "commons"
+}

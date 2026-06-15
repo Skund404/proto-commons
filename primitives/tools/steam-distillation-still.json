@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:b7bb4aa2c5540ddf307ed92f7013f0af926f81a696f975b7eed5749b96b44ee8",
+  "created": "2026-06-15",
+  "description": "A still where steam from a separate source is passed up through a basket of plant material rather than boiling the plants in water. Gentle on heat-sensitive aromatics, it is the workhorse for essential oils and hydrosols.",
+  "emitter": "opg://commons-seed",
+  "id": "steam-distillation-still-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "steam distillation still",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "steam distillation still"
+      ]
+    },
+    "taxonomy": "steam-distillation-still"
+  },
+  "slug": "steam-distillation-still",
+  "tags": [
+    "distilling",
+    "still",
+    "steam-distillation-still"
+  ],
+  "visibility": "commons"
+}

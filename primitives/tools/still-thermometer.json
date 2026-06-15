@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:fef873a1d1650cc46c2a81e027dd46653ca3eb20f57af09685cce6399df164c9",
+  "created": "2026-06-15",
+  "description": "A probe or dial that reads the temperature of the wash, the vapor at the still head, or the cooling water. Vapor temperature tracks the run's progress and helps the operator judge the cuts.",
+  "emitter": "opg://commons-seed",
+  "id": "still-thermometer-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "thermometer",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "measurement",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "thermometer"
+      ]
+    },
+    "taxonomy": "thermometer"
+  },
+  "slug": "still-thermometer",
+  "tags": [
+    "distilling",
+    "measurement",
+    "thermometer"
+  ],
+  "visibility": "commons"
+}

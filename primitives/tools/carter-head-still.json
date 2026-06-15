@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:2323baa27d096fb00d7033876d6909d4c2d57f8e4fca9f8229735ccdfcc1d5d5",
+  "created": "2026-06-15",
+  "description": "A still whose vapor passes up through a chamber of botanicals held in the head before it reaches the condenser. It is the classic vapor-infusion architecture for delicate gins, lifting aromatics without steeping them in the boiling wash.",
+  "emitter": "opg://commons-seed",
+  "id": "carter-head-still-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "Carter-head still",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "Carter-head still"
+      ]
+    },
+    "taxonomy": "carter-head-still"
+  },
+  "slug": "carter-head-still",
+  "tags": [
+    "distilling",
+    "still",
+    "carter-head-still"
+  ],
+  "visibility": "commons"
+}

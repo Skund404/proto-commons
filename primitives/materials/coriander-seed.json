@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:db549cd23b50e9d7cfd3ef195d6ab1d48ddb9eab2acffea866f19ecb9bef01ed",
+  "created": "2026-06-15",
+  "description": "A warm, citrusy, slightly spicy seed that is gin's usual second botanical after juniper, lifting and rounding the aroma.",
+  "emitter": "opg://commons-seed",
+  "id": "coriander-seed-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "coriander seed",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "botanical",
+    "names": {
+      "en": [
+        "coriander seed"
+      ]
+    },
+    "taxonomy": "botanical",
+    "unit": "g"
+  },
+  "slug": "coriander-seed",
+  "tags": [
+    "distilling",
+    "botanical"
+  ],
+  "visibility": "commons"
+}

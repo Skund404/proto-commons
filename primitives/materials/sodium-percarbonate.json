@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:3a563cecaabfe2d81a3d1da32f5141c489e406aec6766002e8daf368fef18ed8",
+  "created": "2026-06-15",
+  "description": "An oxygen-releasing cleaner that soaks off organic soils and stains from vessels and tubing, a common no-scrub wash for fermentation gear.",
+  "emitter": "opg://commons-seed",
+  "id": "sodium-percarbonate-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "sodium percarbonate",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "cleaning-agent",
+    "names": {
+      "en": [
+        "sodium percarbonate"
+      ]
+    },
+    "taxonomy": "cleaning-agent",
+    "unit": "g"
+  },
+  "slug": "sodium-percarbonate",
+  "tags": [
+    "distilling",
+    "cleaning-agent"
+  ],
+  "visibility": "commons"
+}

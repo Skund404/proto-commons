@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:74d54975003a68c60001f65633d22da0b710dda6b7a411410aa8b61575bf6cb7",
+  "created": "2026-06-15",
+  "description": "A condenser with several narrow inner tubes inside one water jacket, giving far more copper surface and cooling in a shorter body than a single-tube Liebig, useful where output runs fast or space is tight.",
+  "emitter": "opg://commons-seed",
+  "id": "shotgun-condenser-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "shotgun condenser",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "shotgun condenser"
+      ]
+    },
+    "taxonomy": "shotgun-condenser"
+  },
+  "slug": "shotgun-condenser",
+  "tags": [
+    "distilling",
+    "still",
+    "shotgun-condenser"
+  ],
+  "visibility": "commons"
+}

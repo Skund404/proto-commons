@@ -1,0 +1,35 @@
+{
+  "content_hash": "sha256:061db8b0c03fb8ae02591d21720b39b640442f1cefff5cb8f9ecde52370490ad",
+  "created": "2026-06-15",
+  "description": "A vessel fed by the condenser that lets a distillation's oil and water settle and part. The essential oil, usually the lighter layer, floats off while the aromatic water, the hydrosol, is drawn from below.",
+  "emitter": "opg://commons-seed",
+  "id": "florentine-flask-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "Florentine flask",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "separator",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "Florentine flask",
+        "essencier",
+        "oil separator"
+      ]
+    },
+    "taxonomy": "florentine-flask"
+  },
+  "slug": "florentine-flask",
+  "tags": [
+    "distilling",
+    "separator",
+    "florentine-flask"
+  ],
+  "visibility": "commons"
+}

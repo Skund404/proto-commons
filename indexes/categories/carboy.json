@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "carboy",
+  "names": {
+    "en": [
+      "carboy"
+    ]
+  },
+  "specializes": "fermentation-vessel"
+}

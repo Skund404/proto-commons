@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "electric-element-controller",
+  "names": {
+    "en": [
+      "electric element controller"
+    ]
+  },
+  "specializes": "heat-source"
+}

@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:30677c953385fc31fc1131b64895bf48ea162b63144fd24513e6c9157d949ff7",
+  "created": "2026-06-15",
+  "description": "The thick, dark syrup left from refining sugar cane. Rich in residual sugar and flavor, it ferments to the wash that is distilled into rum.",
+  "emitter": "opg://commons-seed",
+  "id": "molasses-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "molasses",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fermentable",
+    "names": {
+      "en": [
+        "molasses"
+      ]
+    },
+    "taxonomy": "molasses",
+    "unit": "kg"
+  },
+  "slug": "molasses",
+  "tags": [
+    "distilling",
+    "fermentable",
+    "molasses"
+  ],
+  "visibility": "commons"
+}

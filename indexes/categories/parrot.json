@@ -1,0 +1,11 @@
+{
+  "format_version": "1.0",
+  "id": "parrot",
+  "names": {
+    "en": [
+      "parrot",
+      "proofing parrot"
+    ]
+  },
+  "specializes": "still-component"
+}

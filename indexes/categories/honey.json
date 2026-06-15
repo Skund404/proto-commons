@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "honey",
+  "names": {
+    "en": [
+      "honey"
+    ]
+  },
+  "specializes": "fermentable"
+}

@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:27a8f91896f39c9347c5f947874e97a43c7a4f6315a8fe6a7523da60081bab05",
+  "created": "2026-06-15",
+  "description": "A charred or toasted oak cask that holds spirit while it matures. The wood adds color, tannin, and flavor and lets a little spirit breathe and oxidize, the traditional home of whiskey, rum, and brandy. Smaller barrels age faster for their volume.",
+  "emitter": "opg://commons-seed",
+  "id": "oak-barrel-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "oak barrel",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "aging",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "oak barrel",
+        "cask"
+      ]
+    },
+    "taxonomy": "oak-barrel"
+  },
+  "slug": "oak-barrel",
+  "tags": [
+    "distilling",
+    "aging",
+    "oak-barrel"
+  ],
+  "visibility": "commons"
+}

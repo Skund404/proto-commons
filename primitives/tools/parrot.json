@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:b0df4adbaa60144d60966ac1fcf48a3e51f4927e30aa0c0ea02b2e842621d577",
+  "created": "2026-06-15",
+  "description": "A small open vessel the spirit runs through on its way to the collection jar, holding a floating hydrometer so the operator can read alcohol strength continuously without stopping the run.",
+  "emitter": "opg://commons-seed",
+  "id": "parrot-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "parrot",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "parrot",
+        "proofing parrot"
+      ]
+    },
+    "taxonomy": "parrot"
+  },
+  "slug": "parrot",
+  "tags": [
+    "distilling",
+    "still",
+    "parrot"
+  ],
+  "visibility": "commons"
+}

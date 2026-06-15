@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:c24e16256b27a95f41802cf86372922d161b1f679634c0f921a5f40e8312fc76",
+  "created": "2026-06-15",
+  "description": "A simple still: a pot that holds the wash, a head, and a condenser. It distills in batches with little reflux, carrying flavor over with the alcohol, so it is the classic choice for whiskey, rum, and brandy where character matters more than neutrality.",
+  "emitter": "opg://commons-seed",
+  "id": "pot-still-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "pot still",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "pot still",
+        "alembic pot still"
+      ]
+    },
+    "taxonomy": "pot-still"
+  },
+  "slug": "pot-still",
+  "tags": [
+    "distilling",
+    "still",
+    "pot-still"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:68e6f7ce66f9391a7f4872240dfe4bffff5b868836ba37ee9bf07757fa22fd30",
+  "created": "2026-06-15",
+  "description": "Diluted in water and fermented, honey makes mead, and a fermented honey wash can be distilled into a honey spirit. Its sugars are fully fermentable.",
+  "emitter": "opg://commons-seed",
+  "id": "honey-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "honey",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "fermentable",
+    "names": {
+      "en": [
+        "honey"
+      ]
+    },
+    "taxonomy": "honey",
+    "unit": "kg"
+  },
+  "slug": "honey",
+  "tags": [
+    "distilling",
+    "fermentable",
+    "honey"
+  ],
+  "visibility": "commons"
+}

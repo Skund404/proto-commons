@@ -1,0 +1,33 @@
+{
+  "content_hash": "sha256:b0f76d4e46ba6d05b4165f4766f9a58761a356a2acdb9cb7fe510c2176b7c92b",
+  "created": "2026-06-15",
+  "description": "Small pieces of oak steeped in spirit to add barrel-like color and flavor quickly, a low-cost alternative to a cask for small batches.",
+  "emitter": "opg://commons-seed",
+  "id": "oak-chips-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "oak chips",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "wood",
+    "names": {
+      "en": [
+        "oak chips"
+      ]
+    },
+    "taxonomy": "wood",
+    "unit": "g"
+  },
+  "slug": "oak-chips",
+  "tags": [
+    "distilling",
+    "wood"
+  ],
+  "visibility": "commons"
+}

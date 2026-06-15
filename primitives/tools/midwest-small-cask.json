@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:b13a27964ad19dbad78ef5228ef1d14951081231563d6891bab9a1f6a3b1f948",
+  "created": "2026-06-15",
+  "description": "Midwest Barrel Co. supplies small-format charred oak barrels, from a liter up to a few liters, that mature spirit quickly for their size thanks to the high wood-to-spirit ratio. See [Midwest Barrel Co. small-format barrels](https://midwestbarrelco.com/pages/barrel-care-brand-new-small-format-barrels).",
+  "emitter": "opg://commons-seed",
+  "id": "midwest-small-cask-seed",
+  "imageUrl": "https://midwestbarrelco.com/cdn/shop/files/small-format_1.jpg?v=1626208357",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "Midwest Barrel Co. Small-Format Cask",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "aging",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Midwest Barrel Co.",
+    "model": "Small-Format Oak Barrel",
+    "names": {
+      "en": [
+        "Midwest Barrel Co. Small-Format Cask"
+      ]
+    },
+    "origin": "USA",
+    "sourceUrl": "https://midwestbarrelco.com/pages/barrel-care-brand-new-small-format-barrels",
+    "taxonomy": "oak-barrel"
+  },
+  "slug": "midwest-small-cask",
+  "tags": [
+    "distilling",
+    "aging",
+    "oak-barrel",
+    "brand"
+  ],
+  "visibility": "commons"
+}

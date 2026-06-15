@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:e21e6e5c8230c8a61fdd8435bb1c7b9a4c401ec251397c0fb9f7a819ceba80d0",
+  "created": "2026-06-15",
+  "description": "A compact electric all-in-one still that heats, distills, and air-cools in a single benchtop unit. Small in capacity and easy to run, it is a common entry point for hobby distilling and for making essences or purified water.",
+  "emitter": "opg://commons-seed",
+  "id": "air-still-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "air still",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "air still",
+        "countertop still"
+      ]
+    },
+    "taxonomy": "air-still"
+  },
+  "slug": "air-still",
+  "tags": [
+    "distilling",
+    "still",
+    "air-still"
+  ],
+  "visibility": "commons"
+}

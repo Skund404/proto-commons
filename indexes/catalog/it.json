@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-06-13T00:00:00Z",
-  "count": 315,
+  "generated_at": "2026-06-15T00:00:00Z",
+  "count": 389,
   "shards": null,
   "records": [
     {
@@ -152,6 +152,42 @@
       "updated": "2026-06-13",
       "hash": "sha256:72d380bd56949cd312310639b882a5a90fc55ac43f4374c25cbb603a36fc359c",
       "path": "primitives/materials/aeropress-filter.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "air-still",
+      "kind": "tool",
+      "name": "air still",
+      "domain": "distilling",
+      "taxonomy": "air-still",
+      "tags": [
+        "distilling",
+        "still",
+        "air-still"
+      ],
+      "descSnippet": "A compact electric all-in-one still that heats, distills, and air-cools in a single benchtop unit. Small in capacity and easy to run, it is a common entry point for hobby distilling and for making…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:e21e6e5c8230c8a61fdd8435bb1c7b9a4c401ec251397c0fb9f7a819ceba80d0",
+      "path": "primitives/tools/air-still.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "ale-yeast",
+      "kind": "material",
+      "name": "ale yeast",
+      "domain": "distilling",
+      "taxonomy": "ale-yeast",
+      "tags": [
+        "distilling",
+        "yeast",
+        "ale-yeast"
+      ],
+      "descSnippet": "A brewer's top-fermenting yeast that brings fruity, estery flavors. Borrowed from beer making, it suits a grain wash where some of that character should carry into the spirit.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:f41f02ece88a40bd9e2f63c62aabde0488a29c92c01e1f382f3f3f68a8a45677",
+      "path": "primitives/materials/ale-yeast.json",
       "lineageState": "unasserted"
     },
     {
@@ -568,6 +604,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "botanical-grinder",
+      "kind": "tool",
+      "name": "botanical grinder",
+      "domain": "distilling",
+      "taxonomy": "botanical-grinder",
+      "tags": [
+        "distilling",
+        "botanical",
+        "botanical-grinder"
+      ],
+      "descSnippet": "A grinder that cracks or coarsely mills seeds, roots, and dried botanicals to open up their surface before they are macerated or loaded into a basket, releasing more aroma into the spirit.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:5676002881111ed5ee09154fce55f88f8cb11469f76ece56e5d7974f32d8582d",
+      "path": "primitives/tools/botanical-grinder.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "breville-bambino-plus",
       "kind": "tool",
       "name": "Breville Bambino Plus",
@@ -655,6 +709,42 @@
       "updated": "2026-06-13",
       "hash": "sha256:4eeb5eaf3487d334da7c51915d08c2ce290bbf95a95d4853763fc773286511da",
       "path": "primitives/materials/brew-water.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "brewery-wash",
+      "kind": "material",
+      "name": "brewery wash",
+      "domain": "distilling",
+      "taxonomy": "cleaning-agent",
+      "tags": [
+        "distilling",
+        "cleaning-agent"
+      ],
+      "descSnippet": "An alkaline cleaning powder that lifts wash residue and oils from fermenters and still parts without scrubbing, rinsing away clean.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:0e824ffe0ea361e8119e714dfeea1f78ba87ed015c3cfb274a53bcdeb35e171a",
+      "path": "primitives/materials/brewery-wash.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "brewing-america-proof-tralle-hydrometer",
+      "kind": "tool",
+      "name": "Brewing America Proof and Tralle Hydrometer",
+      "domain": "distilling",
+      "taxonomy": "proof-and-tralle-hydrometer",
+      "tags": [
+        "distilling",
+        "measurement",
+        "proof-and-tralle-hydrometer",
+        "brand"
+      ],
+      "descSnippet": "Brewing America's proof-and-tralle hydrometer reads US proof and percent alcohol on the clear distillate, a traceable, US-made instrument for setting a spirit's strength. See Brewing America Proof &…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:1d0b8b423e434ef707768570307361ef6c51f7ea38e1d60e48d9934132a9c6e7",
+      "path": "primitives/tools/brewing-america-proof-tralle-hydrometer.json",
       "lineageState": "unasserted"
     },
     {
@@ -807,6 +897,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "cane-sugar",
+      "kind": "material",
+      "name": "cane sugar",
+      "domain": "distilling",
+      "taxonomy": "sugar",
+      "tags": [
+        "distilling",
+        "fermentable",
+        "sugar"
+      ],
+      "descSnippet": "Refined sugar that dissolves straight into water for a clean, simple wash. It needs no mashing and ferments fast, the usual base for a neutral sugar-wash spirit.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:a60683e7c8e426a0a643f110fbdbd7bacaf09c02707d1720309f8b3a465a6202",
+      "path": "primitives/materials/cane-sugar.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "cantaloupe",
       "kind": "material",
       "name": "melone cantalupo",
@@ -844,6 +952,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "carboy",
+      "kind": "tool",
+      "name": "carboy",
+      "domain": "distilling",
+      "taxonomy": "carboy",
+      "tags": [
+        "distilling",
+        "vessel",
+        "carboy"
+      ],
+      "descSnippet": "A narrow-necked glass or plastic jug used to ferment and age under an airlock. Its small surface at the top limits the wash's contact with air, which suits longer fermentations like wine and mead.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:c6382f228447a6ceb28c7899e6cb936577fe1b7b0eb3062e4a208343d5cd7ba3",
+      "path": "primitives/tools/carboy.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "card-holder",
       "kind": "project",
       "name": "card holder",
@@ -878,6 +1004,24 @@
       "updated": "2026-05-31",
       "hash": "sha256:b852b19e1cbffb343aeb02f5f317f00e0bdf0ccde4c6c9bc4e78435f54712d0e",
       "path": "primitives/materials/carrot.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "carter-head-still",
+      "kind": "tool",
+      "name": "Carter-head still",
+      "domain": "distilling",
+      "taxonomy": "carter-head-still",
+      "tags": [
+        "distilling",
+        "still",
+        "carter-head-still"
+      ],
+      "descSnippet": "A still whose vapor passes up through a chamber of botanicals held in the head before it reaches the condenser. It is the classic vapor-infusion architecture for delicate gins, lifting aromatics…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:2323baa27d096fb00d7033876d6909d4c2d57f8e4fca9f8229735ccdfcc1d5d5",
+      "path": "primitives/tools/carter-head-still.json",
       "lineageState": "unasserted"
     },
     {
@@ -935,6 +1079,23 @@
       "updated": "2026-05-31",
       "hash": "sha256:1e6627efba59aea286f7309cbd8a6c4a765e55ea207545e311e469671af495fd",
       "path": "primitives/materials/celery.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "charred-oak",
+      "kind": "material",
+      "name": "charred oak",
+      "domain": "distilling",
+      "taxonomy": "wood",
+      "tags": [
+        "distilling",
+        "wood"
+      ],
+      "descSnippet": "Oak whose surface has been burned to a layer of char. The char filters harsher notes and releases vanilla and caramel flavors, the inside of a bourbon barrel in chip or stave form.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:918251075b8c576d61117db677178814d085d81d94fc4a18726ab98d36f8fb73",
+      "path": "primitives/materials/charred-oak.json",
       "lineageState": "unasserted"
     },
     {
@@ -1105,6 +1266,40 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "citric-acid",
+      "kind": "material",
+      "name": "citric acid",
+      "domain": "distilling",
+      "taxonomy": "cleaning-agent",
+      "tags": [
+        "distilling",
+        "cleaning-agent"
+      ],
+      "descSnippet": "A mild acid used to clean and brighten copper and to strip light scale from still parts between runs.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:da2c69fdfe65d8e12fa0edb9504333d1e6e5b8a37cb4c9dc9868dfc542680c50",
+      "path": "primitives/materials/citric-acid.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "citrus-peel",
+      "kind": "material",
+      "name": "citrus peel",
+      "domain": "distilling",
+      "taxonomy": "botanical",
+      "tags": [
+        "distilling",
+        "botanical"
+      ],
+      "descSnippet": "Dried lemon, orange, or grapefruit peel that brings bright citrus oils to a gin or a distilled aromatic. The pith is left off to avoid bitterness.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:2e1da6897d1cd959781d744e2aeae4149f2da235972dd81c62074673e52ad754",
+      "path": "primitives/materials/citrus-peel.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "clementine",
       "kind": "material",
       "name": "clementina",
@@ -1251,6 +1446,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "column-packing",
+      "kind": "tool",
+      "name": "column packing",
+      "domain": "distilling",
+      "taxonomy": "column-packing",
+      "tags": [
+        "distilling",
+        "still",
+        "column-packing"
+      ],
+      "descSnippet": "Material loaded into a reflux column to create surface for vapor and liquid to meet, from copper mesh that also scrubs sulfur to ceramic rings or stainless structured packing. More surface means more…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:a9dc950ea8f61a51d2a3c68c95195e66797181e6eb53828805b1c0ed2b389481",
+      "path": "primitives/tools/column-packing.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "comandante-c40",
       "kind": "tool",
       "name": "Comandante C40 MK4",
@@ -1267,6 +1480,24 @@
       "updated": "2026-06-13",
       "hash": "sha256:8d0adc297813b2b197a2b7ada53a63286579dbb6ccd794cd8339c3809f7081d7",
       "path": "primitives/tools/comandante-c40.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "conical-fermenter",
+      "kind": "tool",
+      "name": "conical fermenter",
+      "domain": "distilling",
+      "taxonomy": "conical-fermenter",
+      "tags": [
+        "distilling",
+        "vessel",
+        "conical-fermenter"
+      ],
+      "descSnippet": "A tank with a cone-shaped bottom so spent yeast and solids settle into the tip and can be drawn off, leaving cleaner wash above. The shape makes it easy to harvest sediment between batches.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:8a6123c982374bc2bdc77b1f812bc1aa6c378d8d89a11bcba8f2c2c75ebadc02",
+      "path": "primitives/tools/conical-fermenter.json",
       "lineageState": "unasserted"
     },
     {
@@ -1305,6 +1536,60 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "copper-alembic-still",
+      "kind": "tool",
+      "name": "copper alembic",
+      "domain": "distilling",
+      "taxonomy": "copper-alembic",
+      "tags": [
+        "distilling",
+        "still",
+        "copper-alembic"
+      ],
+      "descSnippet": "A traditional onion-shaped copper pot with a swan neck and a coil condenser. The copper reacts with sulfur compounds to clean the spirit, and the same form serves spirits, essential oils, and…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:32410439a8bc79e4de98fab3f9247e0fee0818a79a9a1232a9c0cedb12cb72c8",
+      "path": "primitives/tools/copper-alembic-still.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "copperholic-alembic",
+      "kind": "tool",
+      "name": "CopperHolic Copper Alembic",
+      "domain": "distilling",
+      "taxonomy": "copper-alembic",
+      "tags": [
+        "distilling",
+        "still",
+        "copper-alembic",
+        "brand"
+      ],
+      "descSnippet": "CopperHolic sells hand-hammered copper alembic still kits for essential oils, hydrosols, and distilled water, in several sizes for hobby and small-batch use. See CopperHolic.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:0118dcaba0ba83c50991668530b2e56b5d00b8f9c635c1303e0c13ae35084980",
+      "path": "primitives/tools/copperholic-alembic.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "coriander-seed",
+      "kind": "material",
+      "name": "coriander seed",
+      "domain": "distilling",
+      "taxonomy": "botanical",
+      "tags": [
+        "distilling",
+        "botanical"
+      ],
+      "descSnippet": "A warm, citrusy, slightly spicy seed that is gin's usual second botanical after juniper, lifting and rounding the aroma.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:db549cd23b50e9d7cfd3ef195d6ab1d48ddb9eab2acffea866f19ecb9bef01ed",
+      "path": "primitives/materials/coriander-seed.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "cranberry",
       "kind": "material",
       "name": "mirtillo rosso",
@@ -1340,6 +1625,23 @@
       "updated": "2026-05-31",
       "hash": "sha256:019d4b5d28596567d42b27878ddf568d8cb09a3f86a6bc2cdbf22ca98f0c29ac",
       "path": "primitives/materials/cucumber.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "culinary-herb",
+      "kind": "material",
+      "name": "culinary herb",
+      "domain": "distilling",
+      "taxonomy": "botanical",
+      "tags": [
+        "distilling",
+        "botanical"
+      ],
+      "descSnippet": "A fresh or dried kitchen herb such as rosemary, thyme, or mint, distilled for its aromatic oil and water or used to flavor a spirit.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:14ed7c53d0ba2b63225974ae2ea14a09d733e8fa1c1895ec523db44eea1c6405",
+      "path": "primitives/materials/culinary-herb.json",
       "lineageState": "unasserted"
     },
     {
@@ -1485,6 +1787,42 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "demijohn",
+      "kind": "tool",
+      "name": "demijohn",
+      "domain": "distilling",
+      "taxonomy": "demijohn",
+      "tags": [
+        "distilling",
+        "vessel",
+        "demijohn"
+      ],
+      "descSnippet": "A large bulbous bottle, often in a basket, used to ferment or hold a batch of wash or wine. It works much like a carboy at a larger volume.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:d471ee9260d845f9dd5c6322bf9909879f39ef1b2effa3d4ff5ba3de162c641c",
+      "path": "primitives/tools/demijohn.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "dephlegmator",
+      "kind": "tool",
+      "name": "dephlegmator",
+      "domain": "distilling",
+      "taxonomy": "dephlegmator",
+      "tags": [
+        "distilling",
+        "still",
+        "dephlegmator"
+      ],
+      "descSnippet": "A partial condenser at the top of a column that knocks some vapor back down as liquid. By adjusting its cooling water the operator dials how much reflux the column runs, trading flavor for purity in…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:bdb65e9b9dcebc5b953569478cdfdf56b14e30db76851699040b93efa09ff7ad",
+      "path": "primitives/tools/dephlegmator.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "descaler",
       "kind": "material",
       "name": "descaler",
@@ -1572,6 +1910,24 @@
       "updated": "2026-06-13",
       "hash": "sha256:613c2fbc888e5cddcbd8817cbd690f012f860d2071033074b53b51fe62019d1d",
       "path": "primitives/materials/distilled-water.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "distillers-yeast",
+      "kind": "material",
+      "name": "distillers yeast",
+      "domain": "distilling",
+      "taxonomy": "distillers-yeast",
+      "tags": [
+        "distilling",
+        "yeast",
+        "distillers-yeast"
+      ],
+      "descSnippet": "A yeast strain selected for spirit washes, fermenting cleanly and tolerating a fair amount of alcohol. It gives a neutral-to-characterful base depending on the strain.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:ccd2ec2b4baebc9a8b7fe7fd864664a5d0e77c9335cdd7bb85284a3fac09bda5",
+      "path": "primitives/materials/distillers-yeast.json",
       "lineageState": "unasserted"
     },
     {
@@ -1884,6 +2240,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "electric-element-controller",
+      "kind": "tool",
+      "name": "electric element with controller",
+      "domain": "distilling",
+      "taxonomy": "electric-element-controller",
+      "tags": [
+        "distilling",
+        "heat",
+        "electric-element-controller"
+      ],
+      "descSnippet": "An electric heating element in the pot paired with a power controller. Setting the wattage gives steady, repeatable heat and a controllable vapor speed, which is why it is the common choice for…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:b9623ce125d3769ecc178c5d2d8bae6f98c1df756e3681d7fc7e8bc01e48a501",
+      "path": "primitives/tools/electric-element-controller.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "electric-grinder",
       "kind": "tool",
       "name": "electric grinder",
@@ -2157,6 +2531,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "fermenter",
+      "kind": "tool",
+      "name": "fermenter",
+      "domain": "distilling",
+      "taxonomy": "fermenter",
+      "tags": [
+        "distilling",
+        "vessel",
+        "fermenter"
+      ],
+      "descSnippet": "A food-grade vessel where yeast turns sugars into alcohol. It holds the wash under an airlock that lets carbon dioxide out while keeping air and contaminants from getting in.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:aa1573cf1f97a5894c774b5d99fe96e1df5d0b59e6e6705451d0aab4d49f4f1d",
+      "path": "primitives/tools/fermenter.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "fiebings-pro-dye",
       "kind": "material",
       "name": "Fiebing's Pro Dye",
@@ -2250,6 +2642,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "flaked-corn",
+      "kind": "material",
+      "name": "flaked corn",
+      "domain": "distilling",
+      "taxonomy": "grain",
+      "tags": [
+        "distilling",
+        "fermentable",
+        "grain"
+      ],
+      "descSnippet": "Corn in a form that gels and releases its starch in the mash. It ferments to a soft, sweet spirit and is the dominant grain in bourbon-style whiskey.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:418af1cad03c771c193b1454ffdf58a10321ea3c6c7efc8ae44bf71336df6312",
+      "path": "primitives/materials/flaked-corn.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "flat-bottom-dripper",
       "kind": "tool",
       "name": "flat-bottom dripper",
@@ -2265,6 +2675,24 @@
       "updated": "2026-06-13",
       "hash": "sha256:cba5f961420c215dfc0a69ebb7b483560a52461dde442e7700a8cf13445cd76b",
       "path": "primitives/tools/flat-bottom-dripper.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "florentine-flask",
+      "kind": "tool",
+      "name": "Florentine flask",
+      "domain": "distilling",
+      "taxonomy": "florentine-flask",
+      "tags": [
+        "distilling",
+        "separator",
+        "florentine-flask"
+      ],
+      "descSnippet": "A vessel fed by the condenser that lets a distillation's oil and water settle and part. The essential oil, usually the lighter layer, floats off while the aromatic water, the hydrosol, is drawn from…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:061db8b0c03fb8ae02591d21720b39b640442f1cefff5cb8f9ecde52370490ad",
+      "path": "primitives/tools/florentine-flask.json",
       "lineageState": "unasserted"
     },
     {
@@ -2301,6 +2729,24 @@
       "updated": "2026-06-13",
       "hash": "sha256:dc0c6c8650406a4c744f40ac4817ba817cb0a5c8ce5758a3fb320b544b6f2840",
       "path": "primitives/workflows/french-press-immersion-brew.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "fruit-mash",
+      "kind": "material",
+      "name": "fruit mash",
+      "domain": "distilling",
+      "taxonomy": "fruit",
+      "tags": [
+        "distilling",
+        "fermentable",
+        "fruit"
+      ],
+      "descSnippet": "Crushed ripe fruit whose natural sugars ferment on their own or with added yeast. The fermented fruit is distilled into brandy or eau de vie.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:5e60decb408698ca0e35ba8b7149f711ea689b615b18262d3ef560ce7f91e644",
+      "path": "primitives/materials/fruit-mash.json",
       "lineageState": "unasserted"
     },
     {
@@ -2342,6 +2788,42 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "gas-burner",
+      "kind": "tool",
+      "name": "gas burner",
+      "domain": "distilling",
+      "taxonomy": "gas-burner",
+      "tags": [
+        "distilling",
+        "heat",
+        "gas-burner"
+      ],
+      "descSnippet": "An open gas flame under the still pot. Powerful and cheap, it heats fast but is harder to hold steady, so many operators move to electric for the slow, even heat a careful spirit run wants.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:0b46cc98c880159262fb0ccb028e8562b39627e20747ff003133599e5326d30a",
+      "path": "primitives/tools/gas-burner.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "gin-basket",
+      "kind": "tool",
+      "name": "gin basket",
+      "domain": "distilling",
+      "taxonomy": "gin-basket",
+      "tags": [
+        "distilling",
+        "botanical",
+        "gin-basket"
+      ],
+      "descSnippet": "A perforated basket that holds botanicals in the vapor path above the wash. Alcohol vapor rising through it picks up the lighter, brighter aromatics, the vapor-infusion route to a delicate gin.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:cfbfd0832c3ad88b540ca3ba8aeb8b01bf32d8f9ab37e34b6e21df7d32ad1f71",
+      "path": "primitives/tools/gin-basket.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "ginger",
       "kind": "material",
       "name": "zenzero",
@@ -2358,6 +2840,24 @@
       "updated": "2026-05-31",
       "hash": "sha256:985820953295ab9c2bfe2ce13521fe98cae7871f900cbc14e4746a487eed9017",
       "path": "primitives/materials/ginger.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "glass-aging-vessel",
+      "kind": "tool",
+      "name": "glass aging vessel",
+      "domain": "distilling",
+      "taxonomy": "glass-aging-vessel",
+      "tags": [
+        "distilling",
+        "aging",
+        "glass-aging-vessel"
+      ],
+      "descSnippet": "A glass jar or bottle aged with oak chips, staves, or spirals inside. It mimics barrel character at small scale and lets the maker taste the wood's effect over time without committing a whole cask.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:79af2fbfc820a4a86434719439ecd7357d1b6d2d79d21a0db1548166bdc559a4",
+      "path": "primitives/tools/glass-aging-vessel.json",
       "lineageState": "unasserted"
     },
     {
@@ -2432,6 +2932,24 @@
       "updated": "2026-05-31",
       "hash": "sha256:339e5afeff6d9552e9b21003423430f031c7c7e9ba4ecb7678d20e81fd83fd0d",
       "path": "primitives/materials/grape.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "grape-must",
+      "kind": "material",
+      "name": "grape must",
+      "domain": "distilling",
+      "taxonomy": "grape-must",
+      "tags": [
+        "distilling",
+        "fermentable",
+        "grape-must"
+      ],
+      "descSnippet": "Freshly pressed grape juice with its skins and pulp. Fermented to wine and then distilled, it is the starting point for grape brandy and pomace spirits.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:72c3e1213b246c04cdc6c13094b30b98ded999abe287aa779ac23f5d022df137",
+      "path": "primitives/materials/grape-must.json",
       "lineageState": "unasserted"
     },
     {
@@ -2731,6 +3249,25 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "hillbilly-flute",
+      "kind": "tool",
+      "name": "Hillbilly Flute",
+      "domain": "distilling",
+      "taxonomy": "reflux-still",
+      "tags": [
+        "distilling",
+        "still",
+        "reflux-still",
+        "brand"
+      ],
+      "descSnippet": "Hillbilly Stills' Flute is a plated reflux column you can run at different plate counts for anything from flavorful whiskey to near-neutral spirit, a popular US-made modular still. See Hillbilly…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:2c20e4b088ae615a3fdf0637924568f80ef791e4aa9b5d0f23f1674f578e98ae",
+      "path": "primitives/tools/hillbilly-flute.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "hole-punch",
       "kind": "tool",
       "name": "hole punch",
@@ -2746,6 +3283,24 @@
       "updated": "2026-06-09",
       "hash": "sha256:7791e46fc92af1a2ec3fe7939a6f2d436e0c9f09d8a24c55e14dfe4c32bbf742",
       "path": "primitives/tools/hole-punch.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "honey",
+      "kind": "material",
+      "name": "honey",
+      "domain": "distilling",
+      "taxonomy": "honey",
+      "tags": [
+        "distilling",
+        "fermentable",
+        "honey"
+      ],
+      "descSnippet": "Diluted in water and fermented, honey makes mead, and a fermented honey wash can be distilled into a honey spirit. Its sugars are fully fermentable.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:68e6f7ce66f9391a7f4872240dfe4bffff5b868836ba37ee9bf07757fa22fd30",
+      "path": "primitives/materials/honey.json",
       "lineageState": "unasserted"
     },
     {
@@ -2768,6 +3323,25 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "hooloo-eo-still",
+      "kind": "tool",
+      "name": "HOOLOO 8 L Essential Oil Still",
+      "domain": "distilling",
+      "taxonomy": "steam-distillation-still",
+      "tags": [
+        "distilling",
+        "still",
+        "steam-distillation-still",
+        "brand"
+      ],
+      "descSnippet": "HOOLOO's 8 L copper still is built for essential oils and hydrosols, passing steam through a botanical chamber and parting the oil and water at a separator. See HOOLOO Essential Oil Still.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:66b6b82ebadec4a3017ad1b826792f78c25fa297f2db9d671724165ba996f1ec",
+      "path": "primitives/tools/hooloo-eo-still.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "horseradish",
       "kind": "material",
       "name": "rafano",
@@ -2784,6 +3358,61 @@
       "updated": "2026-05-31",
       "hash": "sha256:336a3a84877953a6997155dbeae81d4514dc5f544ec36ae0b69347064918b9c6",
       "path": "primitives/materials/horseradish.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "hybrid-still",
+      "kind": "tool",
+      "name": "hybrid still",
+      "domain": "distilling",
+      "taxonomy": "hybrid-still",
+      "tags": [
+        "distilling",
+        "still",
+        "hybrid-still"
+      ],
+      "descSnippet": "A still that can run as a pot or as a column, usually by switching a valve or bypassing the plates. One vessel covers flavorful spirit runs and high-proof neutral runs, which is why small…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:bcd9de3e0e161cf5dcef27ef676f6a32e0eb92498e0a1b16db551bb575ad44b0",
+      "path": "primitives/tools/hybrid-still.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "hydrometer",
+      "kind": "tool",
+      "name": "hydrometer",
+      "domain": "distilling",
+      "taxonomy": "hydrometer",
+      "tags": [
+        "distilling",
+        "measurement",
+        "hydrometer"
+      ],
+      "descSnippet": "A weighted float that sits lower in lighter liquid, read against a scale. A spirit hydrometer or alcoholmeter reads alcohol by volume directly, the basic instrument for telling how strong a…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:65a6a7a3e3d3b7000a6c44c2240cfa486d7324a93d80f413bcf481b092a4ce4e",
+      "path": "primitives/tools/hydrometer.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "iberian-coppers-eo-alembic",
+      "kind": "tool",
+      "name": "Iberian Coppers Essential Oil Alembic",
+      "domain": "distilling",
+      "taxonomy": "copper-alembic",
+      "tags": [
+        "distilling",
+        "still",
+        "copper-alembic",
+        "brand"
+      ],
+      "descSnippet": "Iberian Coppers, of Portugal, hand-hammers copper alembic still kits for essential oils, hydrosols, distilled water, and spirits, in a long alembic-making tradition. See Iberian Coppers.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:77598a79649cf15be6c9050d16d11b04c51c14a7678d15a8c2cd588ee5820e68",
+      "path": "primitives/tools/iberian-coppers-eo-alembic.json",
       "lineageState": "unasserted"
     },
     {
@@ -2838,6 +3467,60 @@
       "updated": "2026-06-13",
       "hash": "sha256:05b687ef4fd11ff72c9738379ddd047e12c1939adeb2cb9ca6ff640270b6915d",
       "path": "primitives/techniques/immersion-steeping.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "istill-mini",
+      "kind": "tool",
+      "name": "iStill Mini",
+      "domain": "distilling",
+      "taxonomy": "hybrid-still",
+      "tags": [
+        "distilling",
+        "still",
+        "hybrid-still",
+        "brand"
+      ],
+      "descSnippet": "The iStill Mini is a fully automated hybrid still that runs software-driven recipes managing heat, reflux, and cuts. It works as both a pot and a column still and is aimed at serious hobby and small…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:05597e3875ea05edf49670b56823f4e2a3cd53bdb4f13a751f808c13a1e84daf",
+      "path": "primitives/tools/istill-mini.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "joseph-flach-gin-botanicals",
+      "kind": "material",
+      "name": "Joseph Flach & Sons Gin Botanicals",
+      "domain": "distilling",
+      "taxonomy": "botanical",
+      "tags": [
+        "distilling",
+        "botanical",
+        "brand"
+      ],
+      "descSnippet": "Joseph Flach & Sons, a long-established London spice house, supplies distillers' gin botanicals such as juniper, coriander, and angelica by the grade and lot. See Joseph Flach & Sons.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:83f46ed27f305d3788e4541129149c029786bce37fff2a26ea2238b19953bb25",
+      "path": "primitives/materials/joseph-flach-gin-botanicals.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "juniper-berries",
+      "kind": "material",
+      "name": "juniper berries",
+      "domain": "distilling",
+      "taxonomy": "botanical",
+      "tags": [
+        "distilling",
+        "botanical"
+      ],
+      "descSnippet": "The piney, resinous berries that define gin. Macerated in the wash or held in a vapor basket, they are the one botanical a spirit must lead with to be called gin.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:72f466db1a3b1a2f83d6f4007ee067a9cc62b9629f4c7d9043bced33c533c0bc",
+      "path": "primitives/materials/juniper-berries.json",
       "lineageState": "unasserted"
     },
     {
@@ -3009,6 +3692,23 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "lavender",
+      "kind": "material",
+      "name": "lavender",
+      "domain": "distilling",
+      "taxonomy": "botanical",
+      "tags": [
+        "distilling",
+        "botanical"
+      ],
+      "descSnippet": "Fragrant lavender flowers, distilled with steam for their essential oil and floral hydrosol and used in small amounts as a gin botanical.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:d423d6ee96303ccf042b8ffb815bf0a7bf9bb46da1075a29c513223ff892623b",
+      "path": "primitives/materials/lavender.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "leather-cementing",
       "kind": "technique",
       "name": "leather cementing",
@@ -3175,6 +3875,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "liebig-condenser",
+      "kind": "tool",
+      "name": "Liebig condenser",
+      "domain": "distilling",
+      "taxonomy": "liebig-condenser",
+      "tags": [
+        "distilling",
+        "still",
+        "liebig-condenser"
+      ],
+      "descSnippet": "A straight inner tube carrying vapor inside an outer water jacket. Cold water flows counter to the vapor and cools it back to liquid. Simple and reliable, it is the default condenser on many small…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:136d8aa50359b14acad849093ae44256cc26a44840265f5a21ccf4c946064747",
+      "path": "primitives/tools/liebig-condenser.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "light-roast-coffee",
       "kind": "material",
       "name": "light roast coffee",
@@ -3230,6 +3948,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "lyne-arm",
+      "kind": "tool",
+      "name": "lyne arm",
+      "domain": "distilling",
+      "taxonomy": "lyne-arm",
+      "tags": [
+        "distilling",
+        "still",
+        "lyne-arm"
+      ],
+      "descSnippet": "The sloping tube that carries vapor from the top of the still to the condenser. Its angle and length influence reflux and so the weight of the spirit: an upward arm gives a lighter cut, a downward…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:b1729fcb37e5680e3b834c6e65342c4acb28a0cc320f6407f96c36f679dfb2ca",
+      "path": "primitives/tools/lyne-arm.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "magnetic-snap",
       "kind": "material",
       "name": "magnetic snap",
@@ -3263,6 +3999,24 @@
       "updated": "2026-06-09",
       "hash": "sha256:650fcb86d523ffd3c6cb6b326388212b6921ba33a9916e910b11eb74561f8fe5",
       "path": "primitives/tools/mallet.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "malted-barley",
+      "kind": "material",
+      "name": "malted barley",
+      "domain": "distilling",
+      "taxonomy": "grain",
+      "tags": [
+        "distilling",
+        "fermentable",
+        "grain"
+      ],
+      "descSnippet": "Barley that has been germinated and kilned so its starches and the enzymes to convert them are ready. Mashed with hot water it gives a fermentable, malty wash, the base of malt whisky.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:1870e011a0c6ea82c6119fc7984526138a9b354278815587ba7106880528d0ea",
+      "path": "primitives/materials/malted-barley.json",
       "lineageState": "unasserted"
     },
     {
@@ -3375,6 +4129,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "mesh-bag",
+      "kind": "tool",
+      "name": "mesh bag",
+      "domain": "distilling",
+      "taxonomy": "mesh-bag",
+      "tags": [
+        "distilling",
+        "botanical",
+        "mesh-bag"
+      ],
+      "descSnippet": "A fine cloth or mesh bag that holds botanicals or grains in the liquid so they can steep and then be lifted out cleanly, keeping loose solids out of the wash or the still.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:10c7ece8d5108fd4a0c5b7f64028970cb0dac6bba28e52e98c4e4d96f2789a1e",
+      "path": "primitives/tools/mesh-bag.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "metal-mesh-filter",
       "kind": "material",
       "name": "metal mesh filter",
@@ -3390,6 +4162,25 @@
       "updated": "2026-06-13",
       "hash": "sha256:777d87fe5738aa1fcffddb97f273c4b7ef7f3e21921be46b192009d56dbd7038",
       "path": "primitives/materials/metal-mesh-filter.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "midwest-small-cask",
+      "kind": "tool",
+      "name": "Midwest Barrel Co. Small-Format Cask",
+      "domain": "distilling",
+      "taxonomy": "oak-barrel",
+      "tags": [
+        "distilling",
+        "aging",
+        "oak-barrel",
+        "brand"
+      ],
+      "descSnippet": "Midwest Barrel Co. supplies small-format charred oak barrels, from a liter up to a few liters, that mature spirit quickly for their size thanks to the high wood-to-spirit ratio. See Midwest Barrel…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:b13a27964ad19dbad78ef5228ef1d14951081231563d6891bab9a1f6a3b1f948",
+      "path": "primitives/tools/midwest-small-cask.json",
       "lineageState": "unasserted"
     },
     {
@@ -3519,6 +4310,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "molasses",
+      "kind": "material",
+      "name": "molasses",
+      "domain": "distilling",
+      "taxonomy": "molasses",
+      "tags": [
+        "distilling",
+        "fermentable",
+        "molasses"
+      ],
+      "descSnippet": "The thick, dark syrup left from refining sugar cane. Rich in residual sugar and flavor, it ferments to the wash that is distilled into rum.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:30677c953385fc31fc1131b64895bf48ea162b63144fd24513e6c9157d949ff7",
+      "path": "primitives/materials/molasses.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "mug",
       "kind": "tool",
       "name": "mug",
@@ -3592,6 +4401,25 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "north-mountain-alcoholmeter",
+      "kind": "tool",
+      "name": "North Mountain Supply Alcoholmeter",
+      "domain": "distilling",
+      "taxonomy": "hydrometer",
+      "tags": [
+        "distilling",
+        "measurement",
+        "hydrometer",
+        "brand"
+      ],
+      "descSnippet": "North Mountain Supply's glass alcoholmeter carries proof and Tralle scales for reading the strength of a finished distillate. See North Mountain Supply Alcoholmeter.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:42612487c4933be1ee59716d9259c3c4e2eb2e9adb050cca415ee4e6730df055",
+      "path": "primitives/tools/north-mountain-alcoholmeter.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "o-ring",
       "kind": "material",
       "name": "O-ring",
@@ -3607,6 +4435,41 @@
       "updated": "2026-06-09",
       "hash": "sha256:dfc19168495c4ae84553c24f4cf726d03a6d53720bc810d99f12451ab540ed40",
       "path": "primitives/materials/o-ring.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "oak-barrel",
+      "kind": "tool",
+      "name": "oak barrel",
+      "domain": "distilling",
+      "taxonomy": "oak-barrel",
+      "tags": [
+        "distilling",
+        "aging",
+        "oak-barrel"
+      ],
+      "descSnippet": "A charred or toasted oak cask that holds spirit while it matures. The wood adds color, tannin, and flavor and lets a little spirit breathe and oxidize, the traditional home of whiskey, rum, and…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:27a8f91896f39c9347c5f947874e97a43c7a4f6315a8fe6a7523da60081bab05",
+      "path": "primitives/tools/oak-barrel.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "oak-chips",
+      "kind": "material",
+      "name": "oak chips",
+      "domain": "distilling",
+      "taxonomy": "wood",
+      "tags": [
+        "distilling",
+        "wood"
+      ],
+      "descSnippet": "Small pieces of oak steeped in spirit to add barrel-like color and flavor quickly, a low-cost alternative to a cask for small batches.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:b0f76d4e46ba6d05b4165f4766f9a58761a356a2acdb9cb7fe510c2176b7c92b",
+      "path": "primitives/materials/oak-chips.json",
       "lineageState": "unasserted"
     },
     {
@@ -3778,6 +4641,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "parrot",
+      "kind": "tool",
+      "name": "parrot",
+      "domain": "distilling",
+      "taxonomy": "parrot",
+      "tags": [
+        "distilling",
+        "still",
+        "parrot"
+      ],
+      "descSnippet": "A small open vessel the spirit runs through on its way to the collection jar, holding a floating hydrometer so the operator can read alcohol strength continuously without stopping the run.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:b0df4adbaa60144d60966ac1fcf48a3e51f4927e30aa0c0ea02b2e842621d577",
+      "path": "primitives/tools/parrot.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "parsnip",
       "kind": "material",
       "name": "pastinaca",
@@ -3892,6 +4773,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "ph-meter",
+      "kind": "tool",
+      "name": "pH meter",
+      "domain": "distilling",
+      "taxonomy": "ph-meter",
+      "tags": [
+        "distilling",
+        "measurement",
+        "ph-meter"
+      ],
+      "descSnippet": "A meter that reads how acidic or alkaline a wash is. Holding fermentation in the right pH range keeps the yeast healthy and the flavors clean.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:8ad1d59081646b2f33d4d65fd577fa7120eaa0092f2d0f4cff8d1f55325540a1",
+      "path": "primitives/tools/ph-meter.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "phone-sling",
       "kind": "project",
       "name": "phone sling",
@@ -3926,6 +4825,24 @@
       "updated": "2026-05-31",
       "hash": "sha256:83d8e6dbbfecd143ac1a90a1277635215ca816a87af50515e0021f36af398050",
       "path": "primitives/materials/pineapple.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "plated-column-still",
+      "kind": "tool",
+      "name": "plated column still",
+      "domain": "distilling",
+      "taxonomy": "plated-column",
+      "tags": [
+        "distilling",
+        "still",
+        "plated-column"
+      ],
+      "descSnippet": "A column fitted with horizontal plates instead of loose packing. Each plate is a defined stage where vapor bubbles through a shallow pool of liquid, so the operator can count plates and read the…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:684b5c434a18283421b18b31d25e47c64efcfeda33869012622862fe3460fa63",
+      "path": "primitives/tools/plated-column-still.json",
       "lineageState": "unasserted"
     },
     {
@@ -4001,6 +4918,24 @@
       "updated": "2026-05-31",
       "hash": "sha256:ee0378ce81dd3893cf8ae881567e05cd5380ef11fb044ec3f1836e96f7f24622",
       "path": "primitives/materials/pomelo.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "pot-still",
+      "kind": "tool",
+      "name": "pot still",
+      "domain": "distilling",
+      "taxonomy": "pot-still",
+      "tags": [
+        "distilling",
+        "still",
+        "pot-still"
+      ],
+      "descSnippet": "A simple still: a pot that holds the wash, a head, and a condenser. It distills in batches with little reflux, carrying flavor over with the alcohol, so it is the classic choice for whiskey, rum, and…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:c24e16256b27a95f41802cf86372922d161b1f679634c0f921a5f40e8312fc76",
+      "path": "primitives/tools/pot-still.json",
       "lineageState": "unasserted"
     },
     {
@@ -4110,6 +5045,42 @@
       "updated": "2026-06-09",
       "hash": "sha256:7a660efbb4fa42c9747c6f29a4837f33ffa43d5b5178c8713f55354f8c6af94a",
       "path": "primitives/tools/pricking-iron.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "proof-and-tralle-hydrometer",
+      "kind": "tool",
+      "name": "proof and tralle hydrometer",
+      "domain": "distilling",
+      "taxonomy": "proof-and-tralle-hydrometer",
+      "tags": [
+        "distilling",
+        "measurement",
+        "proof-and-tralle-hydrometer"
+      ],
+      "descSnippet": "A spirit hydrometer carrying both the US proof scale and the Tralle percent-alcohol scale. It reads accurately only on pure water-and-alcohol mixes, so it is used on the clear distillate, not on a…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:db9a9a5afcfeed86ff0488b39539a6535b2af14016a4e89b122f2bf2b387062a",
+      "path": "primitives/tools/proof-and-tralle-hydrometer.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "proofing-water",
+      "kind": "material",
+      "name": "proofing water",
+      "domain": "distilling",
+      "taxonomy": "distilled-water",
+      "tags": [
+        "distilling",
+        "water",
+        "distilled-water"
+      ],
+      "descSnippet": "Distilled or de-mineralized water used to proof a spirit down to bottling strength without adding any flavor of its own. Consistent and neutral, it is what a maker reaches for to bring a high-proof…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:4aaabea2ed20afd2ac113d066e614cf0e438d423cfb11ce633d026aa978f19cf",
+      "path": "primitives/materials/proofing-water.json",
       "lineageState": "unasserted"
     },
     {
@@ -4281,6 +5252,42 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "reflux-column",
+      "kind": "tool",
+      "name": "reflux column",
+      "domain": "distilling",
+      "taxonomy": "reflux-column",
+      "tags": [
+        "distilling",
+        "still",
+        "reflux-column"
+      ],
+      "descSnippet": "The vertical column above a still where vapor and returning liquid meet. The taller and better packed it is, the more times that exchange repeats, and the cleaner and stronger the spirit that reaches…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:c2f282f52cdbe585f291f62c71e97caea082e8e5d43b8c77eb25cffca84b5ae7",
+      "path": "primitives/tools/reflux-column.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "reflux-still",
+      "kind": "tool",
+      "name": "reflux still",
+      "domain": "distilling",
+      "taxonomy": "reflux-still",
+      "tags": [
+        "distilling",
+        "still",
+        "reflux-still"
+      ],
+      "descSnippet": "A still with a tall packed column above the pot. Rising vapor meets liquid running back down, and that repeated contact strips out flavor and water to give a high, clean strength, the route to vodka…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:c2a84a599689db07770cea72dfc9f7a5e55b95bdee2eed3a1e48589db8547739",
+      "path": "primitives/tools/reflux-still.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "refractometer",
       "kind": "tool",
       "name": "refractometer",
@@ -4409,6 +5416,23 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "rose-petal",
+      "kind": "material",
+      "name": "rose petals",
+      "domain": "distilling",
+      "taxonomy": "botanical",
+      "tags": [
+        "distilling",
+        "botanical"
+      ],
+      "descSnippet": "Aromatic rose petals, a classic charge for steam distillation into rose essential oil and rose water, and an occasional delicate gin botanical.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:1440f12e1ba574ce85f8183c122934acc3044ec10588904204dde236572b4a4a",
+      "path": "primitives/materials/rose-petal.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "rotary-cutter",
       "kind": "tool",
       "name": "rotary cutter",
@@ -4479,6 +5503,24 @@
       "updated": "2026-05-31",
       "hash": "sha256:2e61319b5eb9a32317ce4436279bf8101b00ba933d8bdb1ee559c8701b7344f3",
       "path": "primitives/materials/rutabaga.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "rye-grain",
+      "kind": "material",
+      "name": "rye",
+      "domain": "distilling",
+      "taxonomy": "grain",
+      "tags": [
+        "distilling",
+        "fermentable",
+        "grain"
+      ],
+      "descSnippet": "A grain that ferments to a spicy, peppery spirit. Used on its own or in a mash bill, it gives rye whiskey its characteristic bite.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:c79c0b4304503fda1e14a010b790e01b46670845676b26971efd9c663594d572",
+      "path": "primitives/materials/rye-grain.json",
       "lineageState": "unasserted"
     },
     {
@@ -4734,6 +5776,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "shotgun-condenser",
+      "kind": "tool",
+      "name": "shotgun condenser",
+      "domain": "distilling",
+      "taxonomy": "shotgun-condenser",
+      "tags": [
+        "distilling",
+        "still",
+        "shotgun-condenser"
+      ],
+      "descSnippet": "A condenser with several narrow inner tubes inside one water jacket, giving far more copper surface and cooling in a shorter body than a single-tube Liebig, useful where output runs fast or space is…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:74d54975003a68c60001f65633d22da0b710dda6b7a411410aa8b61575bf6cb7",
+      "path": "primitives/tools/shotgun-condenser.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "single-origin-coffee",
       "kind": "material",
       "name": "single-origin coffee",
@@ -4896,6 +5956,23 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "sodium-percarbonate",
+      "kind": "material",
+      "name": "sodium percarbonate",
+      "domain": "distilling",
+      "taxonomy": "cleaning-agent",
+      "tags": [
+        "distilling",
+        "cleaning-agent"
+      ],
+      "descSnippet": "An oxygen-releasing cleaner that soaks off organic soils and stains from vessels and tubing, a common no-scrub wash for fermentation gear.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:3a563cecaabfe2d81a3d1da32f5141c489e406aec6766002e8daf368fef18ed8",
+      "path": "primitives/materials/sodium-percarbonate.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "spinach",
       "kind": "material",
       "name": "spinaci",
@@ -4930,6 +6007,42 @@
       "updated": "2026-06-09",
       "hash": "sha256:699dbd9c94826c8464363f30578fae9021bb46cca7cb14b9b8f42b1851181fed",
       "path": "primitives/materials/split-ring.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "starspice-gin-botanicals",
+      "kind": "material",
+      "name": "Starspice Gin Botanicals",
+      "domain": "distilling",
+      "taxonomy": "botanical",
+      "tags": [
+        "distilling",
+        "botanical",
+        "brand"
+      ],
+      "descSnippet": "Starspice supplies gin botanicals including juniper, angelica, and coriander for craft and home distillers. See Starspice.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:64e54daf4e6c45b7bc3dd0f9430a6f73cd78db7f3ea57459c0b7d156fa9d84e2",
+      "path": "primitives/materials/starspice-gin-botanicals.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "steam-distillation-still",
+      "kind": "tool",
+      "name": "steam distillation still",
+      "domain": "distilling",
+      "taxonomy": "steam-distillation-still",
+      "tags": [
+        "distilling",
+        "still",
+        "steam-distillation-still"
+      ],
+      "descSnippet": "A still where steam from a separate source is passed up through a basket of plant material rather than boiling the plants in water. Gentle on heat-sensitive aromatics, it is the workhorse for…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:b7bb4aa2c5540ddf307ed92f7013f0af926f81a696f975b7eed5749b96b44ee8",
+      "path": "primitives/tools/steam-distillation-still.json",
       "lineageState": "unasserted"
     },
     {
@@ -4984,6 +6097,79 @@
       "updated": "2026-06-13",
       "hash": "sha256:3b864b3b6277d627c187a61044b9059b154f8b2da64d9c9331a979217dc460a2",
       "path": "primitives/tools/steep-and-release-dripper.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "still-cleaner",
+      "kind": "material",
+      "name": "still cleaner",
+      "domain": "distilling",
+      "taxonomy": "cleaning-agent",
+      "tags": [
+        "distilling",
+        "cleaning-agent"
+      ],
+      "descSnippet": "A cleaning preparation made for stills, used to clear scale and residue from the boiler and column so they do not taint the next run.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:6322a8dc9b80674f2e72ab94f07134de7ecd166e94a60e5c17f9f0ad7eebc068",
+      "path": "primitives/materials/still-cleaner.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "still-spirits-air-still-pro",
+      "kind": "tool",
+      "name": "Still Spirits Air Still Pro",
+      "domain": "distilling",
+      "taxonomy": "air-still",
+      "tags": [
+        "distilling",
+        "still",
+        "air-still",
+        "brand"
+      ],
+      "descSnippet": "Still Spirits' Air Still Pro is a countertop electric still that can run as a pot or a reflux still, used at home for spirits, essences, and purified water. See Still Spirits Air Still Pro.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:549733d4469821c54aabe4067a75e3e1a5eb9aee2e9f6970785b78816c1693dd",
+      "path": "primitives/tools/still-spirits-air-still-pro.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "still-thermometer",
+      "kind": "tool",
+      "name": "thermometer",
+      "domain": "distilling",
+      "taxonomy": "thermometer",
+      "tags": [
+        "distilling",
+        "measurement",
+        "thermometer"
+      ],
+      "descSnippet": "A probe or dial that reads the temperature of the wash, the vapor at the still head, or the cooling water. Vapor temperature tracks the run's progress and helps the operator judge the cuts.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:fef873a1d1650cc46c2a81e027dd46653ca3eb20f57af09685cce6399df164c9",
+      "path": "primitives/tools/still-thermometer.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "stilldragon-bubble-cap-plate",
+      "kind": "tool",
+      "name": "StillDragon Bubble Cap Plate",
+      "domain": "distilling",
+      "taxonomy": "plated-column",
+      "tags": [
+        "distilling",
+        "still",
+        "plated-column",
+        "brand"
+      ],
+      "descSnippet": "StillDragon builds modular copper bubble-cap plates for plated reflux columns, each plate a defined contact stage you can stack to tune purity. A staple of the build-your-own still community. See…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:ea85f3ad0c7fa3c8568f46cb716770ff796983d9bc7389249eb3198bf54f01bf",
+      "path": "primitives/tools/stilldragon-bubble-cap-plate.json",
       "lineageState": "unasserted"
     },
     {
@@ -5332,6 +6518,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "thumper",
+      "kind": "tool",
+      "name": "thumper",
+      "domain": "distilling",
+      "taxonomy": "thumper",
+      "tags": [
+        "distilling",
+        "still",
+        "thumper"
+      ],
+      "descSnippet": "A sealed pot between the still and the condenser, part charged with liquid. Hot vapor bubbling through it re-distills on the fly, raising strength and adding character in one pass, a traditional…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:0225bf68a70df018adbd7355860937777ab991e7517b57902e666325700ac915",
+      "path": "primitives/tools/thumper.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "timemore-black-mirror",
       "kind": "tool",
       "name": "Timemore Black Mirror",
@@ -5370,6 +6574,23 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "toasted-oak",
+      "kind": "material",
+      "name": "toasted oak",
+      "domain": "distilling",
+      "taxonomy": "wood",
+      "tags": [
+        "distilling",
+        "wood"
+      ],
+      "descSnippet": "Oak heated more gently than charring, to a toast that brings out spice, nut, and dried-fruit notes without the heavy smoke of char.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:7da4e47eb709168956fa70a3406c6adf2a89820e3378e9964cc8b9daa513f44a",
+      "path": "primitives/materials/toasted-oak.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "tokonole",
       "kind": "material",
       "name": "Tokonole",
@@ -5405,6 +6626,24 @@
       "updated": "2026-05-31",
       "hash": "sha256:97496b96bd70344d53e3a70cb641b484e3bd6ab8ddee285e7b1cf9bb290218bd",
       "path": "primitives/materials/tomato.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "turbo-yeast",
+      "kind": "material",
+      "name": "turbo yeast",
+      "domain": "distilling",
+      "taxonomy": "turbo-yeast",
+      "tags": [
+        "distilling",
+        "yeast",
+        "turbo-yeast"
+      ],
+      "descSnippet": "Distillers yeast blended with nutrients and buffers to ferment a sugar wash fast and to a high alcohol level. Quick and strong, it leans neutral and dry, so it suits vodka more than a full-bodied…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:a851770e749f271bc0b966c7d71eeb7c827ce9ee763fcb6f1347b7015f216685",
+      "path": "primitives/materials/turbo-yeast.json",
       "lineageState": "unasserted"
     },
     {
@@ -5517,6 +6756,25 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "vengeance-copper-parrot",
+      "kind": "tool",
+      "name": "Vengeance Stills Copper Proofing Parrot",
+      "domain": "distilling",
+      "taxonomy": "parrot",
+      "tags": [
+        "distilling",
+        "still",
+        "parrot",
+        "brand"
+      ],
+      "descSnippet": "Vengeance Stills' copper proofing parrot holds a hydrometer in the running stream so the operator can read strength continuously through the spirit run. See Vengeance Stills Copper Proofing Parrot.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:c74b20f194c6cec652790770fab53c79f725bd48b6987ca695d29aa3abf3d346",
+      "path": "primitives/tools/vengeance-copper-parrot.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "vst-lab-coffee",
       "kind": "tool",
       "name": "VST LAB Coffee III",
@@ -5533,6 +6791,24 @@
       "updated": "2026-06-13",
       "hash": "sha256:12a99d7a5a936996704761347752ed046883d834f1bfcf1c63f945be987a5dca",
       "path": "primitives/tools/vst-lab-coffee.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "wash-refractometer",
+      "kind": "tool",
+      "name": "refractometer",
+      "domain": "distilling",
+      "taxonomy": "refractometer",
+      "tags": [
+        "distilling",
+        "measurement",
+        "refractometer"
+      ],
+      "descSnippet": "An instrument that reads sugar content from how much a drop of liquid bends light, letting a brewer or distiller check a wash's starting gravity from a few drops rather than a full sample.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:5aa966dcaac6566a67a8b43c581874f1b4133a7190cc49c7c2c0cf147214df12",
+      "path": "primitives/tools/wash-refractometer.json",
       "lineageState": "unasserted"
     },
     {
@@ -5698,6 +6974,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "wheat-grain",
+      "kind": "material",
+      "name": "wheat",
+      "domain": "distilling",
+      "taxonomy": "grain",
+      "tags": [
+        "distilling",
+        "fermentable",
+        "grain"
+      ],
+      "descSnippet": "A soft grain that ferments to a gentle, mellow spirit. It rounds out a whiskey mash bill and is the base of wheat vodka.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:eddc01b9f60fe185131a4787bfe42493efd988c83e4e17a7c2c21fa45ef6b277",
+      "path": "primitives/materials/wheat-grain.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "whetstone",
       "kind": "tool",
       "name": "whetstone",
@@ -5733,6 +7027,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "wine-yeast",
+      "kind": "material",
+      "name": "wine yeast",
+      "domain": "distilling",
+      "taxonomy": "wine-yeast",
+      "tags": [
+        "distilling",
+        "yeast",
+        "wine-yeast"
+      ],
+      "descSnippet": "A yeast bred for fruit and grape musts, tolerant of higher alcohol and chosen to preserve fruit aromatics. It ferments the wash behind brandy and fruit spirits.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:3d68dac2203bb696eb66bec02b9dcdfae06ca0ff3b57f94e93a4c4f13db9e39d",
+      "path": "primitives/materials/wine-yeast.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "wing-divider",
       "kind": "tool",
       "name": "wing divider",
@@ -5748,6 +7060,24 @@
       "updated": "2026-06-09",
       "hash": "sha256:86de3709771335e0fdd5b2dcb4c9cfa5734f7af296e9686ec1a7bca9a4d41b08",
       "path": "primitives/tools/wing-divider.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "worm-condenser",
+      "kind": "tool",
+      "name": "worm condenser",
+      "domain": "distilling",
+      "taxonomy": "worm-condenser",
+      "tags": [
+        "distilling",
+        "still",
+        "worm-condenser"
+      ],
+      "descSnippet": "A coiled tube, the worm, submerged in a tub of cold water. Vapor winding through the coil gives up its heat slowly, the oldest condenser form and still valued for the heavier, fuller spirit it tends…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:24647342c2cdf42c78c95dcd41f73532de05f034126a513285b5240bb6a93547",
+      "path": "primitives/tools/worm-condenser.json",
       "lineageState": "unasserted"
     },
     {

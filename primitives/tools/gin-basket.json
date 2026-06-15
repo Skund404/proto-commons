@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:cfbfd0832c3ad88b540ca3ba8aeb8b01bf32d8f9ab37e34b6e21df7d32ad1f71",
+  "created": "2026-06-15",
+  "description": "A perforated basket that holds botanicals in the vapor path above the wash. Alcohol vapor rising through it picks up the lighter, brighter aromatics, the vapor-infusion route to a delicate gin.",
+  "emitter": "opg://commons-seed",
+  "id": "gin-basket-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "gin basket",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "botanical",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "gin basket",
+        "vapor basket"
+      ]
+    },
+    "taxonomy": "gin-basket"
+  },
+  "slug": "gin-basket",
+  "tags": [
+    "distilling",
+    "botanical",
+    "gin-basket"
+  ],
+  "visibility": "commons"
+}

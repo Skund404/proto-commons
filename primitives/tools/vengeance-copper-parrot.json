@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:c74b20f194c6cec652790770fab53c79f725bd48b6987ca695d29aa3abf3d346",
+  "created": "2026-06-15",
+  "description": "Vengeance Stills' copper proofing parrot holds a hydrometer in the running stream so the operator can read strength continuously through the spirit run. See [Vengeance Stills Copper Proofing Parrot](https://vengeancestills.com/product/copper-proofing-parrot/).",
+  "emitter": "opg://commons-seed",
+  "id": "vengeance-copper-parrot-seed",
+  "imageUrl": "https://vengeancestills.com/wp-content/uploads/2016/09/New-Parrot-2024-without-alcoholmeter-Reduced-Rez.jpg",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "Vengeance Stills Copper Proofing Parrot",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "still",
+    "license": "CC-BY-4.0",
+    "manufacturer": "Vengeance Stills",
+    "model": "Copper Proofing Parrot",
+    "names": {
+      "en": [
+        "Vengeance Stills Copper Proofing Parrot"
+      ]
+    },
+    "origin": "USA",
+    "sourceUrl": "https://vengeancestills.com/product/copper-proofing-parrot/",
+    "taxonomy": "parrot"
+  },
+  "slug": "vengeance-copper-parrot",
+  "tags": [
+    "distilling",
+    "still",
+    "parrot",
+    "brand"
+  ],
+  "visibility": "commons"
+}

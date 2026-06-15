@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:f41f02ece88a40bd9e2f63c62aabde0488a29c92c01e1f382f3f3f68a8a45677",
+  "created": "2026-06-15",
+  "description": "A brewer's top-fermenting yeast that brings fruity, estery flavors. Borrowed from beer making, it suits a grain wash where some of that character should carry into the spirit.",
+  "emitter": "opg://commons-seed",
+  "id": "ale-yeast-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "ale yeast",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "yeast",
+    "names": {
+      "en": [
+        "ale yeast"
+      ]
+    },
+    "taxonomy": "ale-yeast",
+    "unit": "g"
+  },
+  "slug": "ale-yeast",
+  "tags": [
+    "distilling",
+    "yeast",
+    "ale-yeast"
+  ],
+  "visibility": "commons"
+}

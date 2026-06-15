@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "botanical-grinder",
+  "names": {
+    "en": [
+      "botanical grinder"
+    ]
+  },
+  "specializes": "botanical-prep-tool"
+}

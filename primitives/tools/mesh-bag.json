@@ -1,0 +1,34 @@
+{
+  "content_hash": "sha256:10c7ece8d5108fd4a0c5b7f64028970cb0dac6bba28e52e98c4e4d96f2789a1e",
+  "created": "2026-06-15",
+  "description": "A fine cloth or mesh bag that holds botanicals or grains in the liquid so they can steep and then be lifted out cleanly, keeping loose solids out of the wash or the still.",
+  "emitter": "opg://commons-seed",
+  "id": "mesh-bag-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "mesh bag",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "botanical",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "mesh bag",
+        "muslin bag"
+      ]
+    },
+    "taxonomy": "mesh-bag"
+  },
+  "slug": "mesh-bag",
+  "tags": [
+    "distilling",
+    "botanical",
+    "mesh-bag"
+  ],
+  "visibility": "commons"
+}
