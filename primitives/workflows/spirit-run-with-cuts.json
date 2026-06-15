@@ -1,0 +1,125 @@
+{
+  "content_hash": "sha256:8dc40acfd60e176da2085eabd4189ba6d2a22ed3765bfea096350273435b05e7",
+  "created": "2026-06-15",
+  "description": "The defining distillation: redistill the low wines slowly, collect in fractions, and place the foreshots, heads, hearts, and tails cuts by nose, taste, and strength, keeping only the clean hearts.",
+  "emitter": "opg://commons-seed",
+  "id": "spirit-run-with-cuts-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "spirit run with cuts",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "advanced",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "spirit run with cuts"
+      ]
+    },
+    "steps": [
+      {
+        "description": "Charge the still with the low wines.",
+        "position": 1
+      },
+      {
+        "description": "Heat slowly toward a gentle, steady drip.",
+        "position": 2
+      },
+      {
+        "description": "Discard the first foreshots, then collect heads in small jars.",
+        "position": 3
+      },
+      {
+        "description": "Read the parrot and taste each jar to find where hearts begin.",
+        "position": 4
+      },
+      {
+        "description": "Collect the hearts, then switch to tails as the character fades.",
+        "position": 5
+      },
+      {
+        "description": "Keep the hearts; set heads and tails aside to redistill.",
+        "position": 6
+      }
+    ],
+    "taxonomy": "distilling-procedure"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:3b4eabea14a8b293d2d0c99f9b00a2cb0e2f3f9ddb6a0769f3d9506b1340eea7",
+        "id": "spirit-run-seed",
+        "path": "primitives/techniques/spirit-run.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:55d4ff6f39563e8c7afc2c3811b6b127f7c467bc624615e8281872ec95496460",
+        "id": "fraction-collection-seed",
+        "path": "primitives/techniques/fraction-collection.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:a95df4c7f5ae5726f68d1f7cc188a582050ba8c0992f5da7735db2d03af235ab",
+        "id": "making-cuts-seed",
+        "path": "primitives/techniques/making-cuts.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:7edd0834779be0a28e5b0a898c063396658b3fcd6ba645ae6a1906a3a9b5e923",
+        "id": "parrot-reading-seed",
+        "path": "primitives/techniques/parrot-reading.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:c24e16256b27a95f41802cf86372922d161b1f679634c0f921a5f40e8312fc76",
+        "id": "pot-still-seed",
+        "path": "primitives/tools/pot-still.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:b0df4adbaa60144d60966ac1fcf48a3e51f4927e30aa0c0ea02b2e842621d577",
+        "id": "parrot-seed",
+        "path": "primitives/tools/parrot.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:db9a9a5afcfeed86ff0488b39539a6535b2af14016a4e89b122f2bf2b387062a",
+        "id": "proof-and-tralle-hydrometer-seed",
+        "path": "primitives/tools/proof-and-tralle-hydrometer.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:b9623ce125d3769ecc178c5d2d8bae6f98c1df756e3681d7fc7e8bc01e48a501",
+        "id": "electric-element-controller-seed",
+        "path": "primitives/tools/electric-element-controller.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "spirit-run-with-cuts",
+  "tags": [
+    "distilling",
+    "distilling-procedure",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

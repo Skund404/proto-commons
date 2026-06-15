@@ -1,0 +1,51 @@
+{
+  "content_hash": "sha256:798855ee9ffcf324e628354204569698e9846ea79192c4dcc4c032d45e3aff99",
+  "created": "2026-06-15",
+  "description": "Run the wash fast through the still to pull all the alcohol off the spent grain and yeast into a rough low-strength spirit called low wines. It is a quick first pass that concentrates the alcohol for a careful second distillation.",
+  "emitter": "opg://commons-seed",
+  "id": "stripping-run-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "stripping run",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "stripping run"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "taxonomy": "distillation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:c24e16256b27a95f41802cf86372922d161b1f679634c0f921a5f40e8312fc76",
+        "id": "pot-still-seed",
+        "path": "primitives/tools/pot-still.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:b9623ce125d3769ecc178c5d2d8bae6f98c1df756e3681d7fc7e8bc01e48a501",
+        "id": "electric-element-controller-seed",
+        "path": "primitives/tools/electric-element-controller.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "stripping-run",
+  "tags": [
+    "distilling",
+    "distillation-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

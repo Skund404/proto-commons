@@ -1,0 +1,46 @@
+{
+  "content_hash": "sha256:32d655ff065d37525fbed87389b94dc024245eab54de7882aa525a5e10846949",
+  "description": {
+    "en": "A complete first distilling bench, assembled from the pot still spirit run kit and the measurement kit, with the aging kit for maturing what you make."
+  },
+  "domain": "distilling",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:dbb5e0c0b15063096ff3112f9c2cd38958e2e4abccb6ccb58ecdbfc9b84d5e28",
+      "record_class": "bundle",
+      "role": "required",
+      "slug": "pot-still-spirit-run-kit"
+    },
+    {
+      "hash": "sha256:bd686f1ab5b65c86b1605ed889b50c48030bdb67d0b3a2ed6374b0c421c535b0",
+      "record_class": "bundle",
+      "role": "recommended",
+      "slug": "measurement-kit"
+    },
+    {
+      "hash": "sha256:01fc271ad932b2a687e0dd9dc36a6270089d76bc0fe07bdf167b3dd9ae37d950",
+      "record_class": "bundle",
+      "role": "optional",
+      "slug": "aging-kit"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Distilling starter (kit of kits)"
+  },
+  "record_class": "bundle",
+  "slug": "distilling-starter",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "distilling",
+    "kit"
+  ],
+  "taxonomy": null
+}

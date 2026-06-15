@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "distillation-technique",
+  "names": {
+    "en": [
+      "distillation technique"
+    ]
+  },
+  "specializes": "distilling-technique"
+}

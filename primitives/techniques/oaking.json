@@ -1,0 +1,60 @@
+{
+  "content_hash": "sha256:f1441383991436bc160c7c3d6c73e37b442970cb64783cd0539c55cf7ae733ba",
+  "created": "2026-06-15",
+  "description": "Mature a small batch with oak chips, staves, or spirals in a jar instead of a cask, tasting as it goes. A fast, low-cost way to add barrel character at home.",
+  "emitter": "opg://commons-seed",
+  "id": "oaking-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "oaking",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "oaking",
+        "chip aging"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "aging-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:79af2fbfc820a4a86434719439ecd7357d1b6d2d79d21a0db1548166bdc559a4",
+        "id": "glass-aging-vessel-seed",
+        "path": "primitives/tools/glass-aging-vessel.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:b0f76d4e46ba6d05b4165f4766f9a58761a356a2acdb9cb7fe510c2176b7c92b",
+        "id": "oak-chips-seed",
+        "path": "primitives/materials/oak-chips.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:918251075b8c576d61117db677178814d085d81d94fc4a18726ab98d36f8fb73",
+        "id": "charred-oak-seed",
+        "path": "primitives/materials/charred-oak.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "oaking",
+  "tags": [
+    "distilling",
+    "aging-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

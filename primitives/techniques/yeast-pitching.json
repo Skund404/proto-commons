@@ -1,0 +1,51 @@
+{
+  "content_hash": "sha256:a9f26e8850113ada80ac0053f73b77607e0a62a095b0ebba5aac20654670c500",
+  "created": "2026-06-15",
+  "description": "Add a healthy dose of yeast to the cooled wash so fermentation starts cleanly and finishes fully. Pitching enough yeast at the right temperature keeps off-flavors down.",
+  "emitter": "opg://commons-seed",
+  "id": "yeast-pitching-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "yeast pitching",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "yeast pitching"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "ferment-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:ccd2ec2b4baebc9a8b7fe7fd864664a5d0e77c9335cdd7bb85284a3fac09bda5",
+        "id": "distillers-yeast-seed",
+        "path": "primitives/materials/distillers-yeast.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:aa1573cf1f97a5894c774b5d99fe96e1df5d0b59e6e6705451d0aab4d49f4f1d",
+        "id": "fermenter-seed",
+        "path": "primitives/tools/fermenter.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "yeast-pitching",
+  "tags": [
+    "distilling",
+    "ferment-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

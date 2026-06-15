@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generated_at": "2026-06-15T00:00:00Z",
-  "count": 389,
+  "count": 422,
   "shards": null,
   "records": [
     {
@@ -361,6 +361,42 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "barrel-aging",
+      "kind": "technique",
+      "name": "barrel aging",
+      "domain": "distilling",
+      "taxonomy": "aging-technique",
+      "tags": [
+        "distilling",
+        "aging-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Hold the spirit in an oak cask for months or years so the wood gives color, tannin, and flavor and a little air rounds the spirit off. Smaller barrels and warmer stores age faster.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:c60dc59074688f337a4b09a5af7849293c7e095bb7a654de50e108d6289d2476",
+      "path": "primitives/techniques/barrel-aging.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "barrel-aging-cycle",
+      "kind": "workflow",
+      "name": "barrel aging cycle",
+      "domain": "distilling",
+      "taxonomy": "distilling-procedure",
+      "tags": [
+        "distilling",
+        "distilling-procedure",
+        "intermediate"
+      ],
+      "descSnippet": "Mature new-make spirit in oak: fill the cask, store it, and taste it down over time until it reaches the character you want, then draw it off.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:fbbae036a976aa1f6369d3041363457cdffdae536363f98f1c1f7107714b099c",
+      "path": "primitives/workflows/barrel-aging-cycle.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "barry-king-maul",
       "kind": "tool",
       "name": "Barry King maul",
@@ -511,6 +547,42 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "blend-batch",
+      "kind": "project",
+      "name": "blend batch",
+      "domain": "distilling",
+      "taxonomy": "distilling-project",
+      "tags": [
+        "distilling",
+        "distilling-project",
+        "production"
+      ],
+      "descSnippet": "The showcase: a composed run that marries several separately aged spirits into one blend. It is built from its component aging runs, and the finished blend records the components, their proportions,…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:8fa22153ca48bd921046b90dfe812d0275d12bc3b04083acc2e6a8c6672b9df6",
+      "path": "primitives/projects/blend-batch.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "blending-session",
+      "kind": "workflow",
+      "name": "blending session",
+      "domain": "distilling",
+      "taxonomy": "distilling-procedure",
+      "tags": [
+        "distilling",
+        "distilling-procedure",
+        "advanced"
+      ],
+      "descSnippet": "Marry several aged spirits into one: taste the components, trial small blends to a target profile, then combine at scale and rest the blend before proofing and bottling.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:6dba4305939927b24b002ca0c9a96f60e4b381fbc0a45967db5203094e8631bf",
+      "path": "primitives/workflows/blending-session.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "blooming",
       "kind": "technique",
       "name": "blooming",
@@ -601,6 +673,42 @@
       "updated": "2026-06-09",
       "hash": "sha256:68db1f2d4d6c4381bcb5c398309b87c3fd5370527f74207b00af53f146167fb4",
       "path": "primitives/tools/bone-folder.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "botanical-basket-loading",
+      "kind": "technique",
+      "name": "botanical basket loading",
+      "domain": "distilling",
+      "taxonomy": "botanical-technique",
+      "tags": [
+        "distilling",
+        "botanical-technique",
+        "beginner"
+      ],
+      "descSnippet": "Pack the vapor basket evenly with the right amount of each botanical, cracking seeds first to open them up, so the vapor draws a balanced aroma through the charge.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:2e41bea8824152ea15fbb22d0b151b987b05d1ccc1ca71ad522f7dbf57554e7b",
+      "path": "primitives/techniques/botanical-basket-loading.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "botanical-charge",
+      "kind": "technique",
+      "name": "botanical charge",
+      "domain": "distilling",
+      "taxonomy": "hydrosol-technique",
+      "tags": [
+        "distilling",
+        "hydrosol-technique",
+        "beginner"
+      ],
+      "descSnippet": "Load the still with fresh or dried plant material for an essential-oil run, judging the amount and packing so steam can pass through without channeling.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:3d4a1e18f986d00f37d616f79a7accbdf4ef084e300a99cf61abfcfb698bafc7",
+      "path": "primitives/techniques/botanical-charge.json",
       "lineageState": "unasserted"
     },
     {
@@ -2531,6 +2639,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "fermentation-temperature-control",
+      "kind": "technique",
+      "name": "fermentation temperature control",
+      "domain": "distilling",
+      "taxonomy": "ferment-technique",
+      "tags": [
+        "distilling",
+        "ferment-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Hold the fermenting wash in the yeast's preferred temperature band. Too warm and it throws harsh, solventy notes; too cool and it stalls. Steady temperature is what keeps the wash clean.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:fa772d47faf9507f9c1137932d9624994eaef61b76e41e779dcf22ef69502c1b",
+      "path": "primitives/techniques/fermentation-temperature-control.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "fermenter",
       "kind": "tool",
       "name": "fermenter",
@@ -2696,6 +2822,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "fraction-collection",
+      "kind": "technique",
+      "name": "fraction collection",
+      "domain": "distilling",
+      "taxonomy": "distillation-technique",
+      "tags": [
+        "distilling",
+        "distillation-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Collect the distillate into separate jars as it runs, rather than one vessel, so each part of the run can be judged on its own and the cuts placed by taste and smell.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:55d4ff6f39563e8c7afc2c3811b6b127f7c467bc624615e8281872ec95496460",
+      "path": "primitives/techniques/fraction-collection.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "french-press",
       "kind": "tool",
       "name": "French press",
@@ -2821,6 +2965,78 @@
       "updated": "2026-06-15",
       "hash": "sha256:cfbfd0832c3ad88b540ca3ba8aeb8b01bf32d8f9ab37e34b6e21df7d32ad1f71",
       "path": "primitives/tools/gin-basket.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "gin-batch",
+      "kind": "project",
+      "name": "gin batch",
+      "domain": "distilling",
+      "taxonomy": "distilling-project",
+      "tags": [
+        "distilling",
+        "distilling-project",
+        "production"
+      ],
+      "descSnippet": "A gin batch run: the botanical bill and the method, macerate or vapor, are protocol, while the exact botanical weights and the cut points bind per run. The run records the recipe, the cuts, and the…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:0d52ba64f92d795218bf8f646ec4f9d27e7c50ee0d4e15091ca0db7e5c51794c",
+      "path": "primitives/projects/gin-batch.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "gin-botanical-run",
+      "kind": "workflow",
+      "name": "gin botanical run",
+      "domain": "distilling",
+      "taxonomy": "distilling-procedure",
+      "tags": [
+        "distilling",
+        "distilling-procedure",
+        "advanced"
+      ],
+      "descSnippet": "Distill a neutral base with botanicals into gin: macerate the heavier botanicals, load the lighter ones in the vapor basket, then run and cut for a clean, aromatic hearts.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:bc7ac9eb250b7cc1527b19a3a838ff61af65afdbeec059152b9283c9827a948e",
+      "path": "primitives/workflows/gin-botanical-run.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "gin-maceration",
+      "kind": "technique",
+      "name": "gin maceration",
+      "domain": "distilling",
+      "taxonomy": "botanical-technique",
+      "tags": [
+        "distilling",
+        "botanical-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Steep gin botanicals in the spirit before distilling so their oils dissolve into the liquid. Maceration gives a bigger, heavier gin than vapor infusion alone.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:8a76e8eb66f0b9d11658f48ed85cf9e8c28e6c303d9d889d2c67f8eceb85303e",
+      "path": "primitives/techniques/gin-maceration.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "gin-vapor-infusion",
+      "kind": "technique",
+      "name": "gin vapor infusion",
+      "domain": "distilling",
+      "taxonomy": "botanical-technique",
+      "tags": [
+        "distilling",
+        "botanical-technique",
+        "advanced"
+      ],
+      "descSnippet": "Hold the botanicals in a basket in the vapor path so rising alcohol vapor carries over only their lighter aromatics. Vapor infusion gives a brighter, more delicate gin.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:1cbee20a2d510a605ae596706b22fb7d5139bcb7af85881ad61b8dffd6adbd0c",
+      "path": "primitives/techniques/gin-vapor-infusion.json",
       "lineageState": "unasserted"
     },
     {
@@ -2969,6 +3185,24 @@
       "updated": "2026-05-31",
       "hash": "sha256:252141e04469aeae7626b0d84f0df9184e83c1464e9b0193c4b54a4d250db5a5",
       "path": "primitives/materials/grapefruit.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "gravity-tracking",
+      "kind": "technique",
+      "name": "gravity tracking",
+      "domain": "distilling",
+      "taxonomy": "ferment-technique",
+      "tags": [
+        "distilling",
+        "ferment-technique",
+        "beginner"
+      ],
+      "descSnippet": "Read the wash's gravity with a hydrometer or refractometer at the start and end of fermentation. The drop from original to final gravity tells you how much sugar fermented and roughly how much…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:2450f0849492b9f112aee47ab537fa6c1c0730b93479a952d4c954875fffd3e3",
+      "path": "primitives/techniques/gravity-tracking.json",
       "lineageState": "unasserted"
     },
     {
@@ -3394,6 +3628,42 @@
       "updated": "2026-06-15",
       "hash": "sha256:65a6a7a3e3d3b7000a6c44c2240cfa486d7324a93d80f413bcf481b092a4ce4e",
       "path": "primitives/tools/hydrometer.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "hydrosol-run",
+      "kind": "project",
+      "name": "hydrosol and essential oil run",
+      "domain": "distilling",
+      "taxonomy": "distilling-project",
+      "tags": [
+        "distilling",
+        "distilling-project",
+        "production"
+      ],
+      "descSnippet": "A hydrosol and essential-oil run: the plant, the method, and the still are protocol, while the charge weight and the run time bind per batch. The run records the oil and hydrosol yields and the yield…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:e3cc318201e93991ee55b8867587da6f405ae7e1a6c6b2cfccfcb7625c27f9ee",
+      "path": "primitives/projects/hydrosol-run.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "hydrosol-steam-distillation",
+      "kind": "workflow",
+      "name": "hydrosol steam distillation",
+      "domain": "distilling",
+      "taxonomy": "distilling-procedure",
+      "tags": [
+        "distilling",
+        "distilling-procedure",
+        "intermediate"
+      ],
+      "descSnippet": "Distill botanicals for essential oil and hydrosol: charge the still, pass steam through the plant material, and separate the oil from the aromatic water at the collector, recording the yield.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:42014426e821664b200110770dfee109efe003566024eb07d004daf673445817",
+      "path": "primitives/workflows/hydrosol-steam-distillation.json",
       "lineageState": "unasserted"
     },
     {
@@ -3984,6 +4254,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "making-cuts",
+      "kind": "technique",
+      "name": "making cuts",
+      "domain": "distilling",
+      "taxonomy": "cut-technique",
+      "tags": [
+        "distilling",
+        "cut-technique",
+        "advanced"
+      ],
+      "descSnippet": "Divide the spirit run into foreshots, heads, hearts, and tails by smell, taste, and strength. Discard the harsh foreshots and heads, keep the clean hearts, and set the tails aside to redistill. The…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:a95df4c7f5ae5726f68d1f7cc188a582050ba8c0992f5da7735db2d03af235ab",
+      "path": "primitives/techniques/making-cuts.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "mallet",
       "kind": "tool",
       "name": "mallet",
@@ -4091,6 +4379,24 @@
       "updated": "2026-06-09",
       "hash": "sha256:91e6e83370c5c491c66c2b588ee4cbafd2e8d489c34fab400bfe75e5a146542b",
       "path": "primitives/techniques/marking-a-stitch-line.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "mashing",
+      "kind": "technique",
+      "name": "mashing",
+      "domain": "distilling",
+      "taxonomy": "ferment-technique",
+      "tags": [
+        "distilling",
+        "ferment-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Mix milled grain with hot water and hold it at a warm rest so enzymes convert the starch to fermentable sugar. The resulting sweet liquid is the mash that yeast will ferment.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:ec3edb390045f214c03e6e1c1a05411c9e288c7ff1bd500e4311feffa8572b1c",
+      "path": "primitives/techniques/mashing.json",
       "lineageState": "unasserted"
     },
     {
@@ -4473,6 +4779,42 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "oaking",
+      "kind": "technique",
+      "name": "oaking",
+      "domain": "distilling",
+      "taxonomy": "aging-technique",
+      "tags": [
+        "distilling",
+        "aging-technique",
+        "beginner"
+      ],
+      "descSnippet": "Mature a small batch with oak chips, staves, or spirals in a jar instead of a cask, tasting as it goes. A fast, low-cost way to add barrel character at home.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:f1441383991436bc160c7c3d6c73e37b442970cb64783cd0539c55cf7ae733ba",
+      "path": "primitives/techniques/oaking.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "oil-hydrosol-separation",
+      "kind": "technique",
+      "name": "oil and hydrosol separation",
+      "domain": "distilling",
+      "taxonomy": "hydrosol-technique",
+      "tags": [
+        "distilling",
+        "hydrosol-technique",
+        "beginner"
+      ],
+      "descSnippet": "Let the distillate settle in a separator so the essential oil and the aromatic water part. Draw off the oil from the top and the hydrosol from below.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:2036e4890dd4e440aad3cf84827c44ae4299668d87c2a66a713cc4a58510e3cf",
+      "path": "primitives/techniques/oil-hydrosol-separation.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "oil-tanned-leather",
       "kind": "material",
       "name": "oil-tanned leather",
@@ -4656,6 +4998,24 @@
       "updated": "2026-06-15",
       "hash": "sha256:b0df4adbaa60144d60966ac1fcf48a3e51f4927e30aa0c0ea02b2e842621d577",
       "path": "primitives/tools/parrot.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "parrot-reading",
+      "kind": "technique",
+      "name": "parrot reading",
+      "domain": "distilling",
+      "taxonomy": "distilling-measurement-technique",
+      "tags": [
+        "distilling",
+        "distilling-measurement-technique",
+        "beginner"
+      ],
+      "descSnippet": "Read the alcohol strength continuously from the hydrometer floating in the parrot as the spirit runs, so you can watch the proof fall through the run and time the cuts without stopping.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:7edd0834779be0a28e5b0a898c063396658b3fcd6ba645ae6a1906a3a9b5e923",
+      "path": "primitives/techniques/parrot-reading.json",
       "lineageState": "unasserted"
     },
     {
@@ -5066,6 +5426,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "proofing-and-dilution",
+      "kind": "technique",
+      "name": "proofing and dilution",
+      "domain": "distilling",
+      "taxonomy": "cut-technique",
+      "tags": [
+        "distilling",
+        "cut-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Bring a high-strength distillate down to bottling strength by adding measured water, checking the result with an alcoholmeter. Add the water slowly and let it settle before the final reading.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:b9ecbaa49d26cbc7ccbf4a3a10f7a1474ba0646a8f2abd61e42c401a4c7f167d",
+      "path": "primitives/techniques/proofing-and-dilution.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "proofing-water",
       "kind": "material",
       "name": "proofing water",
@@ -5267,6 +5645,24 @@
       "updated": "2026-06-15",
       "hash": "sha256:c2f282f52cdbe585f291f62c71e97caea082e8e5d43b8c77eb25cffca84b5ae7",
       "path": "primitives/tools/reflux-column.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "reflux-management",
+      "kind": "technique",
+      "name": "reflux management",
+      "domain": "distilling",
+      "taxonomy": "reflux-technique",
+      "tags": [
+        "distilling",
+        "reflux-technique",
+        "advanced"
+      ],
+      "descSnippet": "On a column still, adjust the cooling at the dephlegmator to control how much vapor falls back as liquid. More reflux gives a cleaner, stronger spirit; less keeps more flavor.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:72f32f4dde1df34d535b6fb7112127daed0617fd879862b969a7e9768dfd6eb0",
+      "path": "primitives/techniques/reflux-management.json",
       "lineageState": "unasserted"
     },
     {
@@ -5992,6 +6388,78 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "spirit-batch",
+      "kind": "project",
+      "name": "spirit batch",
+      "domain": "distilling",
+      "taxonomy": "distilling-project",
+      "tags": [
+        "distilling",
+        "distilling-project",
+        "production"
+      ],
+      "descSnippet": "A spirit batch run: the recipe fixes the mash, the ferment, and the still method, while your grain, yeast, cut points, and strength bind when you run it. Each run records the cuts, the yield, and the…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:9447d22cc0fecf168da83a8b4ea99173ecbc0b618e853c2c81e4e8eba3dc3150",
+      "path": "primitives/projects/spirit-batch.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "spirit-maturation",
+      "kind": "project",
+      "name": "spirit maturation",
+      "domain": "distilling",
+      "taxonomy": "distilling-project",
+      "tags": [
+        "distilling",
+        "distilling-project",
+        "production"
+      ],
+      "descSnippet": "A maturation run: a new-make spirit goes into oak and comes out aged. The cask, the entry strength, and the time bind per run, and the aged spirit it produces carries its lineage back to the batch it…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:7712a111706dbd2f76867ea3057160b1ac89a66f135d3132e90193172667d0cb",
+      "path": "primitives/projects/spirit-maturation.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "spirit-run",
+      "kind": "technique",
+      "name": "spirit run",
+      "domain": "distilling",
+      "taxonomy": "distillation-technique",
+      "tags": [
+        "distilling",
+        "distillation-technique",
+        "advanced"
+      ],
+      "descSnippet": "Distill the low wines a second time, slowly, so you can separate the run into fractions and keep only the clean middle. This is where the character and the strength of the final spirit are made.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:3b4eabea14a8b293d2d0c99f9b00a2cb0e2f3f9ddb6a0769f3d9506b1340eea7",
+      "path": "primitives/techniques/spirit-run.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "spirit-run-with-cuts",
+      "kind": "workflow",
+      "name": "spirit run with cuts",
+      "domain": "distilling",
+      "taxonomy": "distilling-procedure",
+      "tags": [
+        "distilling",
+        "distilling-procedure",
+        "advanced"
+      ],
+      "descSnippet": "The defining distillation: redistill the low wines slowly, collect in fractions, and place the foreshots, heads, hearts, and tails cuts by nose, taste, and strength, keeping only the clean hearts.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:8dc40acfd60e176da2085eabd4189ba6d2a22ed3765bfea096350273435b05e7",
+      "path": "primitives/workflows/spirit-run-with-cuts.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "split-ring",
       "kind": "material",
       "name": "split ring",
@@ -6025,6 +6493,24 @@
       "updated": "2026-06-15",
       "hash": "sha256:64e54daf4e6c45b7bc3dd0f9430a6f73cd78db7f3ea57459c0b7d156fa9d84e2",
       "path": "primitives/materials/starspice-gin-botanicals.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "steam-distillation-method",
+      "kind": "technique",
+      "name": "steam distillation",
+      "domain": "distilling",
+      "taxonomy": "hydrosol-technique",
+      "tags": [
+        "distilling",
+        "hydrosol-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Pass steam up through the plant material, not boiling it in water, so the heat-sensitive aromatic oils lift off gently. The standard method for most essential oils and hydrosols.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:50d11e74ca880023f72623e2b7e070c691ef5760eb0453f7ded9f1595b6b4430",
+      "path": "primitives/techniques/steam-distillation-method.json",
       "lineageState": "unasserted"
     },
     {
@@ -6114,6 +6600,24 @@
       "updated": "2026-06-15",
       "hash": "sha256:6322a8dc9b80674f2e72ab94f07134de7ecd166e94a60e5c17f9f0ad7eebc068",
       "path": "primitives/materials/still-cleaner.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "still-cleaning",
+      "kind": "technique",
+      "name": "still cleaning",
+      "domain": "distilling",
+      "taxonomy": "distilling-maintenance-technique",
+      "tags": [
+        "distilling",
+        "distilling-maintenance-technique",
+        "beginner"
+      ],
+      "descSnippet": "Clean the boiler, column, and condenser between runs so scale and residue do not carry into the next spirit. Copper especially needs a clean to keep doing its sulfur-scrubbing job.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:a51e9ce496f924d34e7200f7b1b6fa0092b033e5a4982931abac8f9daf7e1ac8",
+      "path": "primitives/techniques/still-cleaning.json",
       "lineageState": "unasserted"
     },
     {
@@ -6278,6 +6782,42 @@
       "updated": "2026-05-31",
       "hash": "sha256:8e2f89e5d8c38b697135c6c5a200e5a212e69af54c0c7e5317fb68cb5f0ff140",
       "path": "primitives/materials/strawberry.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "stripping-run",
+      "kind": "technique",
+      "name": "stripping run",
+      "domain": "distilling",
+      "taxonomy": "distillation-technique",
+      "tags": [
+        "distilling",
+        "distillation-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Run the wash fast through the still to pull all the alcohol off the spent grain and yeast into a rough low-strength spirit called low wines. It is a quick first pass that concentrates the alcohol for…",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:798855ee9ffcf324e628354204569698e9846ea79192c4dcc4c032d45e3aff99",
+      "path": "primitives/techniques/stripping-run.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "stripping-run-workflow",
+      "kind": "workflow",
+      "name": "stripping run",
+      "domain": "distilling",
+      "taxonomy": "distilling-procedure",
+      "tags": [
+        "distilling",
+        "distilling-procedure",
+        "intermediate"
+      ],
+      "descSnippet": "A fast first distillation of a fermented wash into low wines: charge the still, heat it, and collect everything down to low strength to concentrate the alcohol for a careful spirit run.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:249179bf6ded653938352f9c4350d63728075a44e0f30d8310fa8329b646ce60",
+      "path": "primitives/workflows/stripping-run-workflow.json",
       "lineageState": "unasserted"
     },
     {
@@ -6812,6 +7352,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "water-distillation-method",
+      "kind": "technique",
+      "name": "water distillation",
+      "domain": "distilling",
+      "taxonomy": "hydrosol-technique",
+      "tags": [
+        "distilling",
+        "hydrosol-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Immerse the plant material in boiling water so the steam it raises carries the oil over. Suited to tougher material like roots and some flowers that would scorch in direct steam.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:442818da63516fb5e330ada5c0dcdd3e9d6908a1ae06c17c038fc4e4c30fdfcb",
+      "path": "primitives/techniques/water-distillation-method.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "water-filter-pitcher",
       "kind": "tool",
       "name": "water filter pitcher",
@@ -7078,6 +7636,42 @@
       "updated": "2026-06-15",
       "hash": "sha256:24647342c2cdf42c78c95dcd41f73532de05f034126a513285b5240bb6a93547",
       "path": "primitives/tools/worm-condenser.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "yeast-pitching",
+      "kind": "technique",
+      "name": "yeast pitching",
+      "domain": "distilling",
+      "taxonomy": "ferment-technique",
+      "tags": [
+        "distilling",
+        "ferment-technique",
+        "beginner"
+      ],
+      "descSnippet": "Add a healthy dose of yeast to the cooled wash so fermentation starts cleanly and finishes fully. Pitching enough yeast at the right temperature keeps off-flavors down.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:a9f26e8850113ada80ac0053f73b77607e0a62a095b0ebba5aac20654670c500",
+      "path": "primitives/techniques/yeast-pitching.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "yield-measurement",
+      "kind": "technique",
+      "name": "yield measurement",
+      "domain": "distilling",
+      "taxonomy": "distilling-measurement-technique",
+      "tags": [
+        "distilling",
+        "distilling-measurement-technique",
+        "beginner"
+      ],
+      "descSnippet": "Weigh the plant charge in and measure the oil and hydrosol out, so each run records its yield ratio and you can compare material, season, and method over time.",
+      "forks": 0,
+      "updated": "2026-06-15",
+      "hash": "sha256:4a99c6b1d18fd0c28c04ffba993d57f2df6c1177207a48e0daf21e30d060ba10",
+      "path": "primitives/techniques/yield-measurement.json",
       "lineageState": "unasserted"
     },
     {

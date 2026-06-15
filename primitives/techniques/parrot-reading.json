@@ -1,0 +1,51 @@
+{
+  "content_hash": "sha256:7edd0834779be0a28e5b0a898c063396658b3fcd6ba645ae6a1906a3a9b5e923",
+  "created": "2026-06-15",
+  "description": "Read the alcohol strength continuously from the hydrometer floating in the parrot as the spirit runs, so you can watch the proof fall through the run and time the cuts without stopping.",
+  "emitter": "opg://commons-seed",
+  "id": "parrot-reading-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "parrot reading",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "parrot reading"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "distilling-measurement-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:b0df4adbaa60144d60966ac1fcf48a3e51f4927e30aa0c0ea02b2e842621d577",
+        "id": "parrot-seed",
+        "path": "primitives/tools/parrot.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:db9a9a5afcfeed86ff0488b39539a6535b2af14016a4e89b122f2bf2b387062a",
+        "id": "proof-and-tralle-hydrometer-seed",
+        "path": "primitives/tools/proof-and-tralle-hydrometer.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "parrot-reading",
+  "tags": [
+    "distilling",
+    "distilling-measurement-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

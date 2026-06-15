@@ -1,0 +1,63 @@
+{
+  "content_hash": "sha256:44801d5482cde8b1268551ef4f2be0628a8d1c8a952e4d86152d9b23516f1f8a",
+  "description": {
+    "en": "A catalogue of hydrometers and parrots, generic and branded, for reading spirit strength."
+  },
+  "domain": "distilling",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:db9a9a5afcfeed86ff0488b39539a6535b2af14016a4e89b122f2bf2b387062a",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "proof-and-tralle-hydrometer"
+    },
+    {
+      "hash": "sha256:65a6a7a3e3d3b7000a6c44c2240cfa486d7324a93d80f413bcf481b092a4ce4e",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "hydrometer"
+    },
+    {
+      "hash": "sha256:1d0b8b423e434ef707768570307361ef6c51f7ea38e1d60e48d9934132a9c6e7",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "brewing-america-proof-tralle-hydrometer"
+    },
+    {
+      "hash": "sha256:42612487c4933be1ee59716d9259c3c4e2eb2e9adb050cca415ee4e6730df055",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "north-mountain-alcoholmeter"
+    },
+    {
+      "hash": "sha256:c74b20f194c6cec652790770fab53c79f725bd48b6987ca695d29aa3abf3d346",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "vengeance-copper-parrot"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Measurement gear catalogue"
+  },
+  "record_class": "bundle",
+  "slug": "measurement-catalogue",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "distilling",
+    "catalogue"
+  ],
+  "taxonomy": "measurement-tool"
+}

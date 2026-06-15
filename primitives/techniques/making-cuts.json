@@ -1,0 +1,52 @@
+{
+  "content_hash": "sha256:a95df4c7f5ae5726f68d1f7cc188a582050ba8c0992f5da7735db2d03af235ab",
+  "created": "2026-06-15",
+  "description": "Divide the spirit run into foreshots, heads, hearts, and tails by smell, taste, and strength. Discard the harsh foreshots and heads, keep the clean hearts, and set the tails aside to redistill. The cut points define the spirit.",
+  "emitter": "opg://commons-seed",
+  "id": "making-cuts-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "making cuts",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "making cuts",
+        "foreshots heads hearts tails"
+      ]
+    },
+    "skillLevel": "advanced",
+    "taxonomy": "cut-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:b0df4adbaa60144d60966ac1fcf48a3e51f4927e30aa0c0ea02b2e842621d577",
+        "id": "parrot-seed",
+        "path": "primitives/tools/parrot.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:db9a9a5afcfeed86ff0488b39539a6535b2af14016a4e89b122f2bf2b387062a",
+        "id": "proof-and-tralle-hydrometer-seed",
+        "path": "primitives/tools/proof-and-tralle-hydrometer.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "making-cuts",
+  "tags": [
+    "distilling",
+    "cut-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

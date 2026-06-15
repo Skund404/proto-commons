@@ -1,0 +1,44 @@
+{
+  "content_hash": "sha256:442818da63516fb5e330ada5c0dcdd3e9d6908a1ae06c17c038fc4e4c30fdfcb",
+  "created": "2026-06-15",
+  "description": "Immerse the plant material in boiling water so the steam it raises carries the oil over. Suited to tougher material like roots and some flowers that would scorch in direct steam.",
+  "emitter": "opg://commons-seed",
+  "id": "water-distillation-method-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "water distillation",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "water distillation",
+        "hydrodistillation"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "taxonomy": "hydrosol-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:32410439a8bc79e4de98fab3f9247e0fee0818a79a9a1232a9c0cedb12cb72c8",
+        "id": "copper-alembic-still-seed",
+        "path": "primitives/tools/copper-alembic-still.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "water-distillation-method",
+  "tags": [
+    "distilling",
+    "hydrosol-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

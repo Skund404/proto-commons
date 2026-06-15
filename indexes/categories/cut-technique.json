@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "cut-technique",
+  "names": {
+    "en": [
+      "cut technique"
+    ]
+  },
+  "specializes": "distilling-technique"
+}

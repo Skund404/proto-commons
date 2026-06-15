@@ -1,0 +1,49 @@
+{
+  "content_hash": "sha256:1f409c68e0742e538bd362217c7dd917d9c680da6e9914dbf10bda77273a7abc",
+  "description": {
+    "en": "A catalogue of copper alembics and essential-oil stills for hydrosol and oil work."
+  },
+  "domain": "distilling",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:77598a79649cf15be6c9050d16d11b04c51c14a7678d15a8c2cd588ee5820e68",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "iberian-coppers-eo-alembic"
+    },
+    {
+      "hash": "sha256:0118dcaba0ba83c50991668530b2e56b5d00b8f9c635c1303e0c13ae35084980",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "copperholic-alembic"
+    },
+    {
+      "hash": "sha256:66b6b82ebadec4a3017ad1b826792f78c25fa297f2db9d671724165ba996f1ec",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "hooloo-eo-still"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Hydrosol maker setup"
+  },
+  "record_class": "bundle",
+  "slug": "hydrosol-maker-setup",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "distilling",
+    "catalogue"
+  ],
+  "taxonomy": "copper-alembic"
+}

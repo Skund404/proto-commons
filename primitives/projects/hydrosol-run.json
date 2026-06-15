@@ -1,0 +1,81 @@
+{
+  "content_hash": "sha256:e3cc318201e93991ee55b8867587da6f405ae7e1a6c6b2cfccfcb7625c27f9ee",
+  "created": "2026-06-15",
+  "description": "A hydrosol and essential-oil run: the plant, the method, and the still are protocol, while the charge weight and the run time bind per batch. The run records the oil and hydrosol yields and the yield ratio.",
+  "emitter": "opg://commons-seed",
+  "id": "hydrosol-run-seed",
+  "kind": "project",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "hydrosol and essential oil run",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "hydrosol and essential oil run"
+      ]
+    },
+    "projectType": "production",
+    "project_decl": {
+      "consumes": [
+        {
+          "kind_ann": "material[lavender]",
+          "name": "botanical"
+        },
+        {
+          "kind_ann": "material[proofing-water]",
+          "name": "water"
+        }
+      ],
+      "on_fail": "propagate",
+      "produces": "material[hydrosol]"
+    },
+    "taxonomy": "distilling-project"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:42014426e821664b200110770dfee109efe003566024eb07d004daf673445817",
+        "id": "hydrosol-steam-distillation-seed",
+        "path": "primitives/workflows/hydrosol-steam-distillation.json"
+      },
+      "type": "based_on"
+    },
+    {
+      "target": {
+        "hash": "sha256:d423d6ee96303ccf042b8ffb815bf0a7bf9bb46da1075a29c513223ff892623b",
+        "id": "lavender-seed",
+        "path": "primitives/materials/lavender.json"
+      },
+      "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:b7bb4aa2c5540ddf307ed92f7013f0af926f81a696f975b7eed5749b96b44ee8",
+        "id": "steam-distillation-still-seed",
+        "path": "primitives/tools/steam-distillation-still.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:061db8b0c03fb8ae02591d21720b39b640442f1cefff5cb8f9ecde52370490ad",
+        "id": "florentine-flask-seed",
+        "path": "primitives/tools/florentine-flask.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "hydrosol-run",
+  "tags": [
+    "distilling",
+    "distilling-project",
+    "production"
+  ],
+  "visibility": "commons"
+}

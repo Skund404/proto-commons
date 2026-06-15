@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:2036e4890dd4e440aad3cf84827c44ae4299668d87c2a66a713cc4a58510e3cf",
+  "created": "2026-06-15",
+  "description": "Let the distillate settle in a separator so the essential oil and the aromatic water part. Draw off the oil from the top and the hydrosol from below.",
+  "emitter": "opg://commons-seed",
+  "id": "oil-hydrosol-separation-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "oil and hydrosol separation",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "oil and hydrosol separation"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "hydrosol-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:061db8b0c03fb8ae02591d21720b39b640442f1cefff5cb8f9ecde52370490ad",
+        "id": "florentine-flask-seed",
+        "path": "primitives/tools/florentine-flask.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "oil-hydrosol-separation",
+  "tags": [
+    "distilling",
+    "hydrosol-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

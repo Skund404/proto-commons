@@ -1,0 +1,70 @@
+{
+  "content_hash": "sha256:7712a111706dbd2f76867ea3057160b1ac89a66f135d3132e90193172667d0cb",
+  "created": "2026-06-15",
+  "description": "A maturation run: a new-make spirit goes into oak and comes out aged. The cask, the entry strength, and the time bind per run, and the aged spirit it produces carries its lineage back to the batch it came from.",
+  "emitter": "opg://commons-seed",
+  "id": "spirit-maturation-seed",
+  "kind": "project",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "spirit maturation",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "spirit maturation",
+        "barrel aging run"
+      ]
+    },
+    "projectType": "production",
+    "project_decl": {
+      "consumes": [
+        {
+          "kind_ann": "material[new-make-spirit]",
+          "name": "new make spirit"
+        }
+      ],
+      "on_fail": "propagate",
+      "produces": "material[aged-spirit]"
+    },
+    "taxonomy": "distilling-project"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:fbbae036a976aa1f6369d3041363457cdffdae536363f98f1c1f7107714b099c",
+        "id": "barrel-aging-cycle-seed",
+        "path": "primitives/workflows/barrel-aging-cycle.json"
+      },
+      "type": "based_on"
+    },
+    {
+      "target": {
+        "hash": "sha256:918251075b8c576d61117db677178814d085d81d94fc4a18726ab98d36f8fb73",
+        "id": "charred-oak-seed",
+        "path": "primitives/materials/charred-oak.json"
+      },
+      "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:27a8f91896f39c9347c5f947874e97a43c7a4f6315a8fe6a7523da60081bab05",
+        "id": "oak-barrel-seed",
+        "path": "primitives/tools/oak-barrel.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "spirit-maturation",
+  "tags": [
+    "distilling",
+    "distilling-project",
+    "production"
+  ],
+  "visibility": "commons"
+}

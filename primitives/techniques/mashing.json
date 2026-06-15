@@ -1,0 +1,59 @@
+{
+  "content_hash": "sha256:ec3edb390045f214c03e6e1c1a05411c9e288c7ff1bd500e4311feffa8572b1c",
+  "created": "2026-06-15",
+  "description": "Mix milled grain with hot water and hold it at a warm rest so enzymes convert the starch to fermentable sugar. The resulting sweet liquid is the mash that yeast will ferment.",
+  "emitter": "opg://commons-seed",
+  "id": "mashing-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "mashing",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "mashing"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "taxonomy": "ferment-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:1870e011a0c6ea82c6119fc7984526138a9b354278815587ba7106880528d0ea",
+        "id": "malted-barley-seed",
+        "path": "primitives/materials/malted-barley.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:418af1cad03c771c193b1454ffdf58a10321ea3c6c7efc8ae44bf71336df6312",
+        "id": "flaked-corn-seed",
+        "path": "primitives/materials/flaked-corn.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:fef873a1d1650cc46c2a81e027dd46653ca3eb20f57af09685cce6399df164c9",
+        "id": "still-thermometer-seed",
+        "path": "primitives/tools/still-thermometer.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "mashing",
+  "tags": [
+    "distilling",
+    "ferment-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

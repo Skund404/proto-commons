@@ -1,0 +1,56 @@
+{
+  "content_hash": "sha256:1fb9cf2e561ae9be070858daaa00f01be1cf49348c5f239af7eae602768e79d4",
+  "description": {
+    "en": "The hydrosol run project with the steam still, separator, and a botanical to run it."
+  },
+  "domain": "distilling",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:e3cc318201e93991ee55b8867587da6f405ae7e1a6c6b2cfccfcb7625c27f9ee",
+      "kind": "project",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "hydrosol-run"
+    },
+    {
+      "hash": "sha256:b7bb4aa2c5540ddf307ed92f7013f0af926f81a696f975b7eed5749b96b44ee8",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "steam-distillation-still"
+    },
+    {
+      "hash": "sha256:061db8b0c03fb8ae02591d21720b39b640442f1cefff5cb8f9ecde52370490ad",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "florentine-flask"
+    },
+    {
+      "hash": "sha256:d423d6ee96303ccf042b8ffb815bf0a7bf9bb46da1075a29c513223ff892623b",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "lavender"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Hydrosol project kit"
+  },
+  "record_class": "bundle",
+  "slug": "hydrosol-project-kit",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "distilling",
+    "kit"
+  ],
+  "taxonomy": "distilling-project"
+}

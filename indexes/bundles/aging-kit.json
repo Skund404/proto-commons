@@ -1,0 +1,56 @@
+{
+  "content_hash": "sha256:01fc271ad932b2a687e0dd9dc36a6270089d76bc0fe07bdf167b3dd9ae37d950",
+  "description": {
+    "en": "A small-batch maturation set: a small oak cask or a glass vessel with oak, plus charred oak to taste the wood's effect."
+  },
+  "domain": "distilling",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:27a8f91896f39c9347c5f947874e97a43c7a4f6315a8fe6a7523da60081bab05",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "oak-barrel"
+    },
+    {
+      "hash": "sha256:79af2fbfc820a4a86434719439ecd7357d1b6d2d79d21a0db1548166bdc559a4",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "glass-aging-vessel"
+    },
+    {
+      "hash": "sha256:918251075b8c576d61117db677178814d085d81d94fc4a18726ab98d36f8fb73",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "charred-oak"
+    },
+    {
+      "hash": "sha256:b0f76d4e46ba6d05b4165f4766f9a58761a356a2acdb9cb7fe510c2176b7c92b",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "oak-chips"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Barrel aging kit"
+  },
+  "record_class": "bundle",
+  "slug": "aging-kit",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "distilling",
+    "kit"
+  ],
+  "taxonomy": "aging-vessel"
+}

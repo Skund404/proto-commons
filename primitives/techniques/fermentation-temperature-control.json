@@ -1,0 +1,51 @@
+{
+  "content_hash": "sha256:fa772d47faf9507f9c1137932d9624994eaef61b76e41e779dcf22ef69502c1b",
+  "created": "2026-06-15",
+  "description": "Hold the fermenting wash in the yeast's preferred temperature band. Too warm and it throws harsh, solventy notes; too cool and it stalls. Steady temperature is what keeps the wash clean.",
+  "emitter": "opg://commons-seed",
+  "id": "fermentation-temperature-control-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "fermentation temperature control",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "fermentation temperature control"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "taxonomy": "ferment-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:fef873a1d1650cc46c2a81e027dd46653ca3eb20f57af09685cce6399df164c9",
+        "id": "still-thermometer-seed",
+        "path": "primitives/tools/still-thermometer.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:aa1573cf1f97a5894c774b5d99fe96e1df5d0b59e6e6705451d0aab4d49f4f1d",
+        "id": "fermenter-seed",
+        "path": "primitives/tools/fermenter.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "fermentation-temperature-control",
+  "tags": [
+    "distilling",
+    "ferment-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,51 @@
+{
+  "content_hash": "sha256:2e41bea8824152ea15fbb22d0b151b987b05d1ccc1ca71ad522f7dbf57554e7b",
+  "created": "2026-06-15",
+  "description": "Pack the vapor basket evenly with the right amount of each botanical, cracking seeds first to open them up, so the vapor draws a balanced aroma through the charge.",
+  "emitter": "opg://commons-seed",
+  "id": "botanical-basket-loading-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "botanical basket loading",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "botanical basket loading"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "botanical-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:cfbfd0832c3ad88b540ca3ba8aeb8b01bf32d8f9ab37e34b6e21df7d32ad1f71",
+        "id": "gin-basket-seed",
+        "path": "primitives/tools/gin-basket.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:5676002881111ed5ee09154fce55f88f8cb11469f76ece56e5d7974f32d8582d",
+        "id": "botanical-grinder-seed",
+        "path": "primitives/tools/botanical-grinder.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "botanical-basket-loading",
+  "tags": [
+    "distilling",
+    "botanical-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

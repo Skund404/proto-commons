@@ -1,0 +1,113 @@
+{
+  "content_hash": "sha256:42014426e821664b200110770dfee109efe003566024eb07d004daf673445817",
+  "created": "2026-06-15",
+  "description": "Distill botanicals for essential oil and hydrosol: charge the still, pass steam through the plant material, and separate the oil from the aromatic water at the collector, recording the yield.",
+  "emitter": "opg://commons-seed",
+  "id": "hydrosol-steam-distillation-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "hydrosol steam distillation",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "intermediate",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "hydrosol steam distillation"
+      ]
+    },
+    "steps": [
+      {
+        "description": "Load the still with the prepared plant charge.",
+        "position": 1
+      },
+      {
+        "description": "Raise gentle steam through the botanicals.",
+        "position": 2
+      },
+      {
+        "description": "Collect the distillate into the separator.",
+        "position": 3
+      },
+      {
+        "description": "Let the oil and hydrosol settle and part.",
+        "position": 4
+      },
+      {
+        "description": "Draw off the oil and the hydrosol and record the yields.",
+        "position": 5
+      }
+    ],
+    "taxonomy": "distilling-procedure"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:3d4a1e18f986d00f37d616f79a7accbdf4ef084e300a99cf61abfcfb698bafc7",
+        "id": "botanical-charge-seed",
+        "path": "primitives/techniques/botanical-charge.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:50d11e74ca880023f72623e2b7e070c691ef5760eb0453f7ded9f1595b6b4430",
+        "id": "steam-distillation-method-seed",
+        "path": "primitives/techniques/steam-distillation-method.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:2036e4890dd4e440aad3cf84827c44ae4299668d87c2a66a713cc4a58510e3cf",
+        "id": "oil-hydrosol-separation-seed",
+        "path": "primitives/techniques/oil-hydrosol-separation.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:4a99c6b1d18fd0c28c04ffba993d57f2df6c1177207a48e0daf21e30d060ba10",
+        "id": "yield-measurement-seed",
+        "path": "primitives/techniques/yield-measurement.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:b7bb4aa2c5540ddf307ed92f7013f0af926f81a696f975b7eed5749b96b44ee8",
+        "id": "steam-distillation-still-seed",
+        "path": "primitives/tools/steam-distillation-still.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:061db8b0c03fb8ae02591d21720b39b640442f1cefff5cb8f9ecde52370490ad",
+        "id": "florentine-flask-seed",
+        "path": "primitives/tools/florentine-flask.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:d423d6ee96303ccf042b8ffb815bf0a7bf9bb46da1075a29c513223ff892623b",
+        "id": "lavender-seed",
+        "path": "primitives/materials/lavender.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "hydrosol-steam-distillation",
+  "tags": [
+    "distilling",
+    "distilling-procedure",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

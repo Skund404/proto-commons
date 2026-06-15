@@ -1,0 +1,63 @@
+{
+  "content_hash": "sha256:094b967a17fe868d23360a419be15a3f96929408e7b9aec1a7e8a19c0a559531",
+  "description": {
+    "en": "A catalogue of widely used stills, from countertop and hybrid units to modular columns and alembics."
+  },
+  "domain": "distilling",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:549733d4469821c54aabe4067a75e3e1a5eb9aee2e9f6970785b78816c1693dd",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "still-spirits-air-still-pro"
+    },
+    {
+      "hash": "sha256:05597e3875ea05edf49670b56823f4e2a3cd53bdb4f13a751f808c13a1e84daf",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "istill-mini"
+    },
+    {
+      "hash": "sha256:ea85f3ad0c7fa3c8568f46cb716770ff796983d9bc7389249eb3198bf54f01bf",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "stilldragon-bubble-cap-plate"
+    },
+    {
+      "hash": "sha256:2c20e4b088ae615a3fdf0637924568f80ef791e4aa9b5d0f23f1674f578e98ae",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "hillbilly-flute"
+    },
+    {
+      "hash": "sha256:0118dcaba0ba83c50991668530b2e56b5d00b8f9c635c1303e0c13ae35084980",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "copperholic-alembic"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Still maker setup"
+  },
+  "record_class": "bundle",
+  "slug": "still-maker-setup",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "distilling",
+    "catalogue"
+  ],
+  "taxonomy": "still"
+}

@@ -1,0 +1,129 @@
+{
+  "content_hash": "sha256:bc7ac9eb250b7cc1527b19a3a838ff61af65afdbeec059152b9283c9827a948e",
+  "created": "2026-06-15",
+  "description": "Distill a neutral base with botanicals into gin: macerate the heavier botanicals, load the lighter ones in the vapor basket, then run and cut for a clean, aromatic hearts.",
+  "emitter": "opg://commons-seed",
+  "id": "gin-botanical-run-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "gin botanical run",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "advanced",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "gin botanical run"
+      ]
+    },
+    "steps": [
+      {
+        "description": "Dilute the neutral base spirit to running strength.",
+        "position": 1
+      },
+      {
+        "description": "Macerate juniper and the heavier botanicals in the pot.",
+        "position": 2
+      },
+      {
+        "description": "Load the vapor basket with the lighter, brighter botanicals.",
+        "position": 3
+      },
+      {
+        "description": "Run slowly, discarding foreshots and heads.",
+        "position": 4
+      },
+      {
+        "description": "Collect the aromatic hearts and stop before the tails turn vegetal.",
+        "position": 5
+      }
+    ],
+    "taxonomy": "distilling-procedure"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:8a76e8eb66f0b9d11658f48ed85cf9e8c28e6c303d9d889d2c67f8eceb85303e",
+        "id": "gin-maceration-seed",
+        "path": "primitives/techniques/gin-maceration.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:1cbee20a2d510a605ae596706b22fb7d5139bcb7af85881ad61b8dffd6adbd0c",
+        "id": "gin-vapor-infusion-seed",
+        "path": "primitives/techniques/gin-vapor-infusion.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:2e41bea8824152ea15fbb22d0b151b987b05d1ccc1ca71ad522f7dbf57554e7b",
+        "id": "botanical-basket-loading-seed",
+        "path": "primitives/techniques/botanical-basket-loading.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:a95df4c7f5ae5726f68d1f7cc188a582050ba8c0992f5da7735db2d03af235ab",
+        "id": "making-cuts-seed",
+        "path": "primitives/techniques/making-cuts.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:32410439a8bc79e4de98fab3f9247e0fee0818a79a9a1232a9c0cedb12cb72c8",
+        "id": "copper-alembic-still-seed",
+        "path": "primitives/tools/copper-alembic-still.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:cfbfd0832c3ad88b540ca3ba8aeb8b01bf32d8f9ab37e34b6e21df7d32ad1f71",
+        "id": "gin-basket-seed",
+        "path": "primitives/tools/gin-basket.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:72f466db1a3b1a2f83d6f4007ee067a9cc62b9629f4c7d9043bced33c533c0bc",
+        "id": "juniper-berries-seed",
+        "path": "primitives/materials/juniper-berries.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:db549cd23b50e9d7cfd3ef195d6ab1d48ddb9eab2acffea866f19ecb9bef01ed",
+        "id": "coriander-seed-seed",
+        "path": "primitives/materials/coriander-seed.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:2e1da6897d1cd959781d744e2aeae4149f2da235972dd81c62074673e52ad754",
+        "id": "citrus-peel-seed",
+        "path": "primitives/materials/citrus-peel.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "gin-botanical-run",
+  "tags": [
+    "distilling",
+    "distilling-procedure",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

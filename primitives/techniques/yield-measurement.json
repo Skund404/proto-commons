@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:4a99c6b1d18fd0c28c04ffba993d57f2df6c1177207a48e0daf21e30d060ba10",
+  "created": "2026-06-15",
+  "description": "Weigh the plant charge in and measure the oil and hydrosol out, so each run records its yield ratio and you can compare material, season, and method over time.",
+  "emitter": "opg://commons-seed",
+  "id": "yield-measurement-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "yield measurement",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "yield measurement"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "distilling-measurement-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:061db8b0c03fb8ae02591d21720b39b640442f1cefff5cb8f9ecde52370490ad",
+        "id": "florentine-flask-seed",
+        "path": "primitives/tools/florentine-flask.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "yield-measurement",
+  "tags": [
+    "distilling",
+    "distilling-measurement-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

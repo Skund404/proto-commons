@@ -1,0 +1,51 @@
+{
+  "content_hash": "sha256:50d11e74ca880023f72623e2b7e070c691ef5760eb0453f7ded9f1595b6b4430",
+  "created": "2026-06-15",
+  "description": "Pass steam up through the plant material, not boiling it in water, so the heat-sensitive aromatic oils lift off gently. The standard method for most essential oils and hydrosols.",
+  "emitter": "opg://commons-seed",
+  "id": "steam-distillation-method-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "steam distillation",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "steam distillation"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "taxonomy": "hydrosol-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:b7bb4aa2c5540ddf307ed92f7013f0af926f81a696f975b7eed5749b96b44ee8",
+        "id": "steam-distillation-still-seed",
+        "path": "primitives/tools/steam-distillation-still.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:32410439a8bc79e4de98fab3f9247e0fee0818a79a9a1232a9c0cedb12cb72c8",
+        "id": "copper-alembic-still-seed",
+        "path": "primitives/tools/copper-alembic-still.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "steam-distillation-method",
+  "tags": [
+    "distilling",
+    "hydrosol-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,59 @@
+{
+  "content_hash": "sha256:3b4eabea14a8b293d2d0c99f9b00a2cb0e2f3f9ddb6a0769f3d9506b1340eea7",
+  "created": "2026-06-15",
+  "description": "Distill the low wines a second time, slowly, so you can separate the run into fractions and keep only the clean middle. This is where the character and the strength of the final spirit are made.",
+  "emitter": "opg://commons-seed",
+  "id": "spirit-run-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "spirit run",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "spirit run"
+      ]
+    },
+    "skillLevel": "advanced",
+    "taxonomy": "distillation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:c24e16256b27a95f41802cf86372922d161b1f679634c0f921a5f40e8312fc76",
+        "id": "pot-still-seed",
+        "path": "primitives/tools/pot-still.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:b0df4adbaa60144d60966ac1fcf48a3e51f4927e30aa0c0ea02b2e842621d577",
+        "id": "parrot-seed",
+        "path": "primitives/tools/parrot.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:db9a9a5afcfeed86ff0488b39539a6535b2af14016a4e89b122f2bf2b387062a",
+        "id": "proof-and-tralle-hydrometer-seed",
+        "path": "primitives/tools/proof-and-tralle-hydrometer.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "spirit-run",
+  "tags": [
+    "distilling",
+    "distillation-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

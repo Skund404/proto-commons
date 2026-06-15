@@ -1,0 +1,70 @@
+{
+  "content_hash": "sha256:dbb5e0c0b15063096ff3112f9c2cd38958e2e4abccb6ccb58ecdbfc9b84d5e28",
+  "description": {
+    "en": "The core gear for a flavorful spirit run: a pot still, a heat source, a parrot and alcoholmeter to read the run, and a thermometer."
+  },
+  "domain": "distilling",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:c24e16256b27a95f41802cf86372922d161b1f679634c0f921a5f40e8312fc76",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "pot-still"
+    },
+    {
+      "hash": "sha256:b9623ce125d3769ecc178c5d2d8bae6f98c1df756e3681d7fc7e8bc01e48a501",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "electric-element-controller"
+    },
+    {
+      "hash": "sha256:b0df4adbaa60144d60966ac1fcf48a3e51f4927e30aa0c0ea02b2e842621d577",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "parrot"
+    },
+    {
+      "hash": "sha256:db9a9a5afcfeed86ff0488b39539a6535b2af14016a4e89b122f2bf2b387062a",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "proof-and-tralle-hydrometer"
+    },
+    {
+      "hash": "sha256:fef873a1d1650cc46c2a81e027dd46653ca3eb20f57af09685cce6399df164c9",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "still-thermometer"
+    },
+    {
+      "hash": "sha256:ccd2ec2b4baebc9a8b7fe7fd864664a5d0e77c9335cdd7bb85284a3fac09bda5",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "distillers-yeast"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Pot still spirit run kit"
+  },
+  "record_class": "bundle",
+  "slug": "pot-still-spirit-run-kit",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "distilling",
+    "kit"
+  ],
+  "taxonomy": "pot-still"
+}

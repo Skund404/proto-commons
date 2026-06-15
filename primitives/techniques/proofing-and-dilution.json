@@ -1,0 +1,51 @@
+{
+  "content_hash": "sha256:b9ecbaa49d26cbc7ccbf4a3a10f7a1474ba0646a8f2abd61e42c401a4c7f167d",
+  "created": "2026-06-15",
+  "description": "Bring a high-strength distillate down to bottling strength by adding measured water, checking the result with an alcoholmeter. Add the water slowly and let it settle before the final reading.",
+  "emitter": "opg://commons-seed",
+  "id": "proofing-and-dilution-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "proofing and dilution",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "proofing and dilution"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "taxonomy": "cut-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:db9a9a5afcfeed86ff0488b39539a6535b2af14016a4e89b122f2bf2b387062a",
+        "id": "proof-and-tralle-hydrometer-seed",
+        "path": "primitives/tools/proof-and-tralle-hydrometer.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:4aaabea2ed20afd2ac113d066e614cf0e438d423cfb11ce633d026aa978f19cf",
+        "id": "proofing-water-seed",
+        "path": "primitives/materials/proofing-water.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "proofing-and-dilution",
+  "tags": [
+    "distilling",
+    "cut-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

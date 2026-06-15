@@ -1,0 +1,44 @@
+{
+  "content_hash": "sha256:c60dc59074688f337a4b09a5af7849293c7e095bb7a654de50e108d6289d2476",
+  "created": "2026-06-15",
+  "description": "Hold the spirit in an oak cask for months or years so the wood gives color, tannin, and flavor and a little air rounds the spirit off. Smaller barrels and warmer stores age faster.",
+  "emitter": "opg://commons-seed",
+  "id": "barrel-aging-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "barrel aging",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "barrel aging",
+        "maturation"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "taxonomy": "aging-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:27a8f91896f39c9347c5f947874e97a43c7a4f6315a8fe6a7523da60081bab05",
+        "id": "oak-barrel-seed",
+        "path": "primitives/tools/oak-barrel.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "barrel-aging",
+  "tags": [
+    "distilling",
+    "aging-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,81 @@
+{
+  "content_hash": "sha256:6dba4305939927b24b002ca0c9a96f60e4b381fbc0a45967db5203094e8631bf",
+  "created": "2026-06-15",
+  "description": "Marry several aged spirits into one: taste the components, trial small blends to a target profile, then combine at scale and rest the blend before proofing and bottling.",
+  "emitter": "opg://commons-seed",
+  "id": "blending-session-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "blending session",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "advanced",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "blending session"
+      ]
+    },
+    "steps": [
+      {
+        "description": "Taste each aged component and note its character.",
+        "position": 1
+      },
+      {
+        "description": "Trial small measured blends toward the target profile.",
+        "position": 2
+      },
+      {
+        "description": "Scale up the chosen ratio and combine the components.",
+        "position": 3
+      },
+      {
+        "description": "Rest the blend so the components marry.",
+        "position": 4
+      },
+      {
+        "description": "Proof to bottling strength and record the recipe.",
+        "position": 5
+      }
+    ],
+    "taxonomy": "distilling-procedure"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:b9ecbaa49d26cbc7ccbf4a3a10f7a1474ba0646a8f2abd61e42c401a4c7f167d",
+        "id": "proofing-and-dilution-seed",
+        "path": "primitives/techniques/proofing-and-dilution.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:db9a9a5afcfeed86ff0488b39539a6535b2af14016a4e89b122f2bf2b387062a",
+        "id": "proof-and-tralle-hydrometer-seed",
+        "path": "primitives/tools/proof-and-tralle-hydrometer.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:4aaabea2ed20afd2ac113d066e614cf0e438d423cfb11ce633d026aa978f19cf",
+        "id": "proofing-water-seed",
+        "path": "primitives/materials/proofing-water.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "blending-session",
+  "tags": [
+    "distilling",
+    "distilling-procedure",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,43 @@
+{
+  "content_hash": "sha256:55d4ff6f39563e8c7afc2c3811b6b127f7c467bc624615e8281872ec95496460",
+  "created": "2026-06-15",
+  "description": "Collect the distillate into separate jars as it runs, rather than one vessel, so each part of the run can be judged on its own and the cuts placed by taste and smell.",
+  "emitter": "opg://commons-seed",
+  "id": "fraction-collection-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "fraction collection",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "fraction collection"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "taxonomy": "distillation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:b0df4adbaa60144d60966ac1fcf48a3e51f4927e30aa0c0ea02b2e842621d577",
+        "id": "parrot-seed",
+        "path": "primitives/tools/parrot.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "fraction-collection",
+  "tags": [
+    "distilling",
+    "distillation-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

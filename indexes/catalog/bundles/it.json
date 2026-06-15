@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 43,
+  "count": 54,
   "bundles": [
     {
       "slug": "aeropress-kit",
@@ -17,6 +17,21 @@
       },
       "updated": null,
       "hash": "sha256:ce54308f5857b2c7baa0027d33c4d8bec0ac2cfa1fc1e167857662c4ef24439f"
+    },
+    {
+      "slug": "aging-kit",
+      "name": "Barrel aging kit",
+      "descSnippet": "A small-batch maturation set: a small oak cask or a glass vessel with oak, plus charred oak to taste the wood's effect.",
+      "domain": "distilling",
+      "taxonomy": "aging-vessel",
+      "itemCount": 4,
+      "state": "open",
+      "roles": {
+        "recommended": 2,
+        "optional": 2
+      },
+      "updated": null,
+      "hash": "sha256:01fc271ad932b2a687e0dd9dc36a6270089d76bc0fe07bdf167b3dd9ae37d950"
     },
     {
       "slug": "alliums",
@@ -151,6 +166,22 @@
       "hash": "sha256:11de2f4520ecfedc7f541cd0bdaf2914af686599dc10ede3cddbc3db3dc4aae1"
     },
     {
+      "slug": "distilling-starter",
+      "name": "Distilling starter (kit of kits)",
+      "descSnippet": "A complete first distilling bench, assembled from the pot still spirit run kit and the measurement kit, with the aging kit for maturing what you make.",
+      "domain": "distilling",
+      "taxonomy": null,
+      "itemCount": 3,
+      "state": "open",
+      "roles": {
+        "required": 1,
+        "recommended": 1,
+        "optional": 1
+      },
+      "updated": null,
+      "hash": "sha256:32d655ff065d37525fbed87389b94dc024245eab54de7882aa525a5e10846949"
+    },
+    {
       "slug": "edge-finishing-kit",
       "name": "Edge-finishing kit",
       "descSnippet": "Take a raw edge to a smooth, sealed finish: bevel, sand, gum, and slick.",
@@ -239,6 +270,21 @@
       "hash": "sha256:bbbb48b79980a315d09412c35a274ac7fab3019f1f9646afb567ee61f33c3e79"
     },
     {
+      "slug": "gin-kit",
+      "name": "Gin kit",
+      "descSnippet": "A setup for distilling gin: an alembic, a vapor basket, a botanical grinder, and the core botanicals.",
+      "domain": "distilling",
+      "taxonomy": "copper-alembic",
+      "itemCount": 6,
+      "state": "open",
+      "roles": {
+        "required": 3,
+        "recommended": 3
+      },
+      "updated": null,
+      "hash": "sha256:0ada0526a31b75125d5b193bcc3fb0c827e4c7b69aa4b1020a4932a3f9c243a0"
+    },
+    {
       "slug": "grapes",
       "name": "Uva",
       "descSnippet": "A catalogue of common grapes in the commons.",
@@ -297,6 +343,50 @@
       },
       "updated": null,
       "hash": "sha256:9dd926861c1138f3ad2892be9dfff917a121fd47f13e4e84853c62a9607fc8ca"
+    },
+    {
+      "slug": "hydrosol-maker-setup",
+      "name": "Hydrosol maker setup",
+      "descSnippet": "A catalogue of copper alembics and essential-oil stills for hydrosol and oil work.",
+      "domain": "distilling",
+      "taxonomy": "copper-alembic",
+      "itemCount": 3,
+      "state": "open",
+      "roles": {
+        "optional": 3
+      },
+      "updated": null,
+      "hash": "sha256:1f409c68e0742e538bd362217c7dd917d9c680da6e9914dbf10bda77273a7abc"
+    },
+    {
+      "slug": "hydrosol-project-kit",
+      "name": "Hydrosol project kit",
+      "descSnippet": "The hydrosol run project with the steam still, separator, and a botanical to run it.",
+      "domain": "distilling",
+      "taxonomy": "distilling-project",
+      "itemCount": 4,
+      "state": "open",
+      "roles": {
+        "required": 4
+      },
+      "updated": null,
+      "hash": "sha256:1fb9cf2e561ae9be070858daaa00f01be1cf49348c5f239af7eae602768e79d4"
+    },
+    {
+      "slug": "hydrosol-starter-kit",
+      "name": "Hydrosol starter kit",
+      "descSnippet": "A first essential-oil and hydrosol setup: a steam still, a separator to part the oil and water, and a fragrant botanical to start with.",
+      "domain": "distilling",
+      "taxonomy": "steam-distillation-still",
+      "itemCount": 4,
+      "state": "open",
+      "roles": {
+        "required": 2,
+        "recommended": 1,
+        "optional": 1
+      },
+      "updated": null,
+      "hash": "sha256:04dae70baab4012281bd305e5e1c6286f242456f91dfcae64c31de59df9093b0"
     },
     {
       "slug": "key-fob-kit",
@@ -415,6 +505,36 @@
       "hash": "sha256:46774a62e1cca1dfc1240e9b5ebce682e2c0c514b07899b5b583de8c1be138da"
     },
     {
+      "slug": "measurement-catalogue",
+      "name": "Measurement gear catalogue",
+      "descSnippet": "A catalogue of hydrometers and parrots, generic and branded, for reading spirit strength.",
+      "domain": "distilling",
+      "taxonomy": "measurement-tool",
+      "itemCount": 5,
+      "state": "open",
+      "roles": {
+        "optional": 5
+      },
+      "updated": null,
+      "hash": "sha256:44801d5482cde8b1268551ef4f2be0628a8d1c8a952e4d86152d9b23516f1f8a"
+    },
+    {
+      "slug": "measurement-kit",
+      "name": "Distilling measurement kit",
+      "descSnippet": "The instruments for reading a run and a wash: a proof and tralle hydrometer, a wash hydrometer, a thermometer, and a refractometer.",
+      "domain": "distilling",
+      "taxonomy": "measurement-tool",
+      "itemCount": 4,
+      "state": "open",
+      "roles": {
+        "required": 1,
+        "recommended": 2,
+        "optional": 1
+      },
+      "updated": null,
+      "hash": "sha256:bd686f1ab5b65c86b1605ed889b50c48030bdb67d0b3a2ed6374b0c421c535b0"
+    },
+    {
       "slug": "melons",
       "name": "Meloni",
       "descSnippet": "A catalogue of common melons in the commons.",
@@ -455,6 +575,21 @@
       },
       "updated": null,
       "hash": "sha256:101ba3902d11711d0edbc0dd0b825acd7e93bca411de54a91cba12b111ba0c40"
+    },
+    {
+      "slug": "pot-still-spirit-run-kit",
+      "name": "Pot still spirit run kit",
+      "descSnippet": "The core gear for a flavorful spirit run: a pot still, a heat source, a parrot and alcoholmeter to read the run, and a thermometer.",
+      "domain": "distilling",
+      "taxonomy": "pot-still",
+      "itemCount": 6,
+      "state": "open",
+      "roles": {
+        "required": 4,
+        "recommended": 2
+      },
+      "updated": null,
+      "hash": "sha256:dbb5e0c0b15063096ff3112f9c2cd38958e2e4abccb6ccb58ecdbfc9b84d5e28"
     },
     {
       "slug": "pour-over-project-kit",
@@ -545,6 +680,20 @@
       "hash": "sha256:a4d6e0c23ae48792eab826668e91f32fc0ba7632cf53fc24bbe00d9ce20641e8"
     },
     {
+      "slug": "spirit-batch-project-kit",
+      "name": "Spirit batch project kit",
+      "descSnippet": "The spirit batch project with the still, fermenter, and instruments to run it end to end.",
+      "domain": "distilling",
+      "taxonomy": "distilling-project",
+      "itemCount": 7,
+      "state": "open",
+      "roles": {
+        "required": 7
+      },
+      "updated": null,
+      "hash": "sha256:9bc04c3650706ce5bef5a48ddba7ccde2dfb80b556f08b944e60c78e9f731fff"
+    },
+    {
       "slug": "squashes",
       "name": "Zucche e cucurbitacee",
       "descSnippet": "A catalogue of common squashes & gourds in the commons.",
@@ -571,6 +720,20 @@
       },
       "updated": null,
       "hash": "sha256:0fd3e6cd20ea0174b30f3b2f63dd216ec335cdce65f61a2ddf4aaaef1079c743"
+    },
+    {
+      "slug": "still-maker-setup",
+      "name": "Still maker setup",
+      "descSnippet": "A catalogue of widely used stills, from countertop and hybrid units to modular columns and alembics.",
+      "domain": "distilling",
+      "taxonomy": "still",
+      "itemCount": 5,
+      "state": "open",
+      "roles": {
+        "optional": 5
+      },
+      "updated": null,
+      "hash": "sha256:094b967a17fe868d23360a419be15a3f96929408e7b9aec1a7e8a19c0a559531"
     },
     {
       "slug": "stone-fruit",

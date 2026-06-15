@@ -1,0 +1,52 @@
+{
+  "content_hash": "sha256:2450f0849492b9f112aee47ab537fa6c1c0730b93479a952d4c954875fffd3e3",
+  "created": "2026-06-15",
+  "description": "Read the wash's gravity with a hydrometer or refractometer at the start and end of fermentation. The drop from original to final gravity tells you how much sugar fermented and roughly how much alcohol is there.",
+  "emitter": "opg://commons-seed",
+  "id": "gravity-tracking-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "gravity tracking",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "gravity tracking",
+        "OG and FG"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "ferment-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:65a6a7a3e3d3b7000a6c44c2240cfa486d7324a93d80f413bcf481b092a4ce4e",
+        "id": "hydrometer-seed",
+        "path": "primitives/tools/hydrometer.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:5aa966dcaac6566a67a8b43c581874f1b4133a7190cc49c7c2c0cf147214df12",
+        "id": "wash-refractometer-seed",
+        "path": "primitives/tools/wash-refractometer.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "gravity-tracking",
+  "tags": [
+    "distilling",
+    "ferment-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

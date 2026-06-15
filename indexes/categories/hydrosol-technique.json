@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "hydrosol-technique",
+  "names": {
+    "en": [
+      "hydrosol technique"
+    ]
+  },
+  "specializes": "distilling-technique"
+}

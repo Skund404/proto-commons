@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "aging-technique",
+  "names": {
+    "en": [
+      "aging technique"
+    ]
+  },
+  "specializes": "distilling-technique"
+}

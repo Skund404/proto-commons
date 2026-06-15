@@ -1,0 +1,72 @@
+{
+  "content_hash": "sha256:8fa22153ca48bd921046b90dfe812d0275d12bc3b04083acc2e6a8c6672b9df6",
+  "created": "2026-06-15",
+  "description": "The showcase: a composed run that marries several separately aged spirits into one blend. It is built from its component aging runs, and the finished blend records the components, their proportions, and the final strength. This is the run that a still log cannot hold in a single row, and the maturation chain behind it cannot be a spreadsheet.",
+  "emitter": "opg://commons-seed",
+  "id": "blend-batch-seed",
+  "kind": "project",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "blend batch",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "blend batch"
+      ]
+    },
+    "projectType": "production",
+    "project_decl": {
+      "composed_of": [
+        "project[spirit-maturation]"
+      ],
+      "consumes": [
+        {
+          "kind_ann": "material[aged-spirit]",
+          "name": "aged spirit one"
+        },
+        {
+          "kind_ann": "material[aged-spirit]",
+          "name": "aged spirit two"
+        },
+        {
+          "kind_ann": "material[proofing-water]",
+          "name": "water"
+        }
+      ],
+      "on_fail": "propagate",
+      "produces": "material[blended-spirit]"
+    },
+    "taxonomy": "distilling-project"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:6dba4305939927b24b002ca0c9a96f60e4b381fbc0a45967db5203094e8631bf",
+        "id": "blending-session-seed",
+        "path": "primitives/workflows/blending-session.json"
+      },
+      "type": "based_on"
+    },
+    {
+      "target": {
+        "hash": "sha256:db9a9a5afcfeed86ff0488b39539a6535b2af14016a4e89b122f2bf2b387062a",
+        "id": "proof-and-tralle-hydrometer-seed",
+        "path": "primitives/tools/proof-and-tralle-hydrometer.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "blend-batch",
+  "tags": [
+    "distilling",
+    "distilling-project",
+    "production"
+  ],
+  "visibility": "commons"
+}

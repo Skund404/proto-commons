@@ -1,0 +1,51 @@
+{
+  "content_hash": "sha256:a51e9ce496f924d34e7200f7b1b6fa0092b033e5a4982931abac8f9daf7e1ac8",
+  "created": "2026-06-15",
+  "description": "Clean the boiler, column, and condenser between runs so scale and residue do not carry into the next spirit. Copper especially needs a clean to keep doing its sulfur-scrubbing job.",
+  "emitter": "opg://commons-seed",
+  "id": "still-cleaning-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "still cleaning",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "still cleaning"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "distilling-maintenance-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:da2c69fdfe65d8e12fa0edb9504333d1e6e5b8a37cb4c9dc9868dfc542680c50",
+        "id": "citric-acid-seed",
+        "path": "primitives/materials/citric-acid.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:6322a8dc9b80674f2e72ab94f07134de7ecd166e94a60e5c17f9f0ad7eebc068",
+        "id": "still-cleaner-seed",
+        "path": "primitives/materials/still-cleaner.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "still-cleaning",
+  "tags": [
+    "distilling",
+    "distilling-maintenance-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

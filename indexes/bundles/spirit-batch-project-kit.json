@@ -1,0 +1,77 @@
+{
+  "content_hash": "sha256:9bc04c3650706ce5bef5a48ddba7ccde2dfb80b556f08b944e60c78e9f731fff",
+  "description": {
+    "en": "The spirit batch project with the still, fermenter, and instruments to run it end to end."
+  },
+  "domain": "distilling",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:9447d22cc0fecf168da83a8b4ea99173ecbc0b618e853c2c81e4e8eba3dc3150",
+      "kind": "project",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "spirit-batch"
+    },
+    {
+      "hash": "sha256:c24e16256b27a95f41802cf86372922d161b1f679634c0f921a5f40e8312fc76",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "pot-still"
+    },
+    {
+      "hash": "sha256:aa1573cf1f97a5894c774b5d99fe96e1df5d0b59e6e6705451d0aab4d49f4f1d",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "fermenter"
+    },
+    {
+      "hash": "sha256:b0df4adbaa60144d60966ac1fcf48a3e51f4927e30aa0c0ea02b2e842621d577",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "parrot"
+    },
+    {
+      "hash": "sha256:db9a9a5afcfeed86ff0488b39539a6535b2af14016a4e89b122f2bf2b387062a",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "proof-and-tralle-hydrometer"
+    },
+    {
+      "hash": "sha256:1870e011a0c6ea82c6119fc7984526138a9b354278815587ba7106880528d0ea",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "malted-barley"
+    },
+    {
+      "hash": "sha256:ccd2ec2b4baebc9a8b7fe7fd864664a5d0e77c9335cdd7bb85284a3fac09bda5",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "distillers-yeast"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Spirit batch project kit"
+  },
+  "record_class": "bundle",
+  "slug": "spirit-batch-project-kit",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "distilling",
+    "kit"
+  ],
+  "taxonomy": "distilling-project"
+}

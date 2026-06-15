@@ -1,0 +1,60 @@
+{
+  "content_hash": "sha256:3d4a1e18f986d00f37d616f79a7accbdf4ef084e300a99cf61abfcfb698bafc7",
+  "created": "2026-06-15",
+  "description": "Load the still with fresh or dried plant material for an essential-oil run, judging the amount and packing so steam can pass through without channeling.",
+  "emitter": "opg://commons-seed",
+  "id": "botanical-charge-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "botanical charge",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "botanical charge",
+        "loading the still"
+      ]
+    },
+    "skillLevel": "beginner",
+    "taxonomy": "hydrosol-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:d423d6ee96303ccf042b8ffb815bf0a7bf9bb46da1075a29c513223ff892623b",
+        "id": "lavender-seed",
+        "path": "primitives/materials/lavender.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:1440f12e1ba574ce85f8183c122934acc3044ec10588904204dde236572b4a4a",
+        "id": "rose-petal-seed",
+        "path": "primitives/materials/rose-petal.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:b7bb4aa2c5540ddf307ed92f7013f0af926f81a696f975b7eed5749b96b44ee8",
+        "id": "steam-distillation-still-seed",
+        "path": "primitives/tools/steam-distillation-still.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "botanical-charge",
+  "tags": [
+    "distilling",
+    "hydrosol-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

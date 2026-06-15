@@ -1,0 +1,59 @@
+{
+  "content_hash": "sha256:8a76e8eb66f0b9d11658f48ed85cf9e8c28e6c303d9d889d2c67f8eceb85303e",
+  "created": "2026-06-15",
+  "description": "Steep gin botanicals in the spirit before distilling so their oils dissolve into the liquid. Maceration gives a bigger, heavier gin than vapor infusion alone.",
+  "emitter": "opg://commons-seed",
+  "id": "gin-maceration-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "gin maceration",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "gin maceration"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "taxonomy": "botanical-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:72f466db1a3b1a2f83d6f4007ee067a9cc62b9629f4c7d9043bced33c533c0bc",
+        "id": "juniper-berries-seed",
+        "path": "primitives/materials/juniper-berries.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:db549cd23b50e9d7cfd3ef195d6ab1d48ddb9eab2acffea866f19ecb9bef01ed",
+        "id": "coriander-seed-seed",
+        "path": "primitives/materials/coriander-seed.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:10c7ece8d5108fd4a0c5b7f64028970cb0dac6bba28e52e98c4e4d96f2789a1e",
+        "id": "mesh-bag-seed",
+        "path": "primitives/tools/mesh-bag.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "gin-maceration",
+  "tags": [
+    "distilling",
+    "botanical-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

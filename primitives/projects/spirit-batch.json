@@ -1,0 +1,113 @@
+{
+  "content_hash": "sha256:9447d22cc0fecf168da83a8b4ea99173ecbc0b618e853c2c81e4e8eba3dc3150",
+  "created": "2026-06-15",
+  "description": "A spirit batch run: the recipe fixes the mash, the ferment, and the still method, while your grain, yeast, cut points, and strength bind when you run it. Each run records the cuts, the yield, and the tasting as a comparable, citable batch.",
+  "emitter": "opg://commons-seed",
+  "id": "spirit-batch-seed",
+  "kind": "project",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "spirit batch",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "spirit batch"
+      ]
+    },
+    "projectType": "production",
+    "project_decl": {
+      "consumes": [
+        {
+          "kind_ann": "material[malted-barley]",
+          "name": "grain"
+        },
+        {
+          "kind_ann": "material[distillers-yeast]",
+          "name": "yeast"
+        }
+      ],
+      "on_fail": "propagate",
+      "produces": "material[new-make-spirit]"
+    },
+    "taxonomy": "distilling-project"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:8dc40acfd60e176da2085eabd4189ba6d2a22ed3765bfea096350273435b05e7",
+        "id": "spirit-run-with-cuts-seed",
+        "path": "primitives/workflows/spirit-run-with-cuts.json"
+      },
+      "type": "based_on"
+    },
+    {
+      "target": {
+        "hash": "sha256:1870e011a0c6ea82c6119fc7984526138a9b354278815587ba7106880528d0ea",
+        "id": "malted-barley-seed",
+        "path": "primitives/materials/malted-barley.json"
+      },
+      "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:ccd2ec2b4baebc9a8b7fe7fd864664a5d0e77c9335cdd7bb85284a3fac09bda5",
+        "id": "distillers-yeast-seed",
+        "path": "primitives/materials/distillers-yeast.json"
+      },
+      "type": "consumes"
+    },
+    {
+      "target": {
+        "hash": "sha256:c24e16256b27a95f41802cf86372922d161b1f679634c0f921a5f40e8312fc76",
+        "id": "pot-still-seed",
+        "path": "primitives/tools/pot-still.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:aa1573cf1f97a5894c774b5d99fe96e1df5d0b59e6e6705451d0aab4d49f4f1d",
+        "id": "fermenter-seed",
+        "path": "primitives/tools/fermenter.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:b0df4adbaa60144d60966ac1fcf48a3e51f4927e30aa0c0ea02b2e842621d577",
+        "id": "parrot-seed",
+        "path": "primitives/tools/parrot.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:db9a9a5afcfeed86ff0488b39539a6535b2af14016a4e89b122f2bf2b387062a",
+        "id": "proof-and-tralle-hydrometer-seed",
+        "path": "primitives/tools/proof-and-tralle-hydrometer.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:b9623ce125d3769ecc178c5d2d8bae6f98c1df756e3681d7fc7e8bc01e48a501",
+        "id": "electric-element-controller-seed",
+        "path": "primitives/tools/electric-element-controller.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "spirit-batch",
+  "tags": [
+    "distilling",
+    "distilling-project",
+    "production"
+  ],
+  "visibility": "commons"
+}

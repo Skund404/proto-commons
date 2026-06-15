@@ -1,0 +1,97 @@
+{
+  "content_hash": "sha256:fbbae036a976aa1f6369d3041363457cdffdae536363f98f1c1f7107714b099c",
+  "created": "2026-06-15",
+  "description": "Mature new-make spirit in oak: fill the cask, store it, and taste it down over time until it reaches the character you want, then draw it off.",
+  "emitter": "opg://commons-seed",
+  "id": "barrel-aging-cycle-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "barrel aging cycle",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "intermediate",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "barrel aging cycle"
+      ]
+    },
+    "steps": [
+      {
+        "description": "Proof the new-make spirit to entry strength.",
+        "position": 1
+      },
+      {
+        "description": "Fill the prepared oak cask and seal it.",
+        "position": 2
+      },
+      {
+        "description": "Store it in steady conditions and let it breathe.",
+        "position": 3
+      },
+      {
+        "description": "Taste it periodically and track color and flavor.",
+        "position": 4
+      },
+      {
+        "description": "Draw off the aged spirit when it is ready.",
+        "position": 5
+      }
+    ],
+    "taxonomy": "distilling-procedure"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:c60dc59074688f337a4b09a5af7849293c7e095bb7a654de50e108d6289d2476",
+        "id": "barrel-aging-seed",
+        "path": "primitives/techniques/barrel-aging.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:b9ecbaa49d26cbc7ccbf4a3a10f7a1474ba0646a8f2abd61e42c401a4c7f167d",
+        "id": "proofing-and-dilution-seed",
+        "path": "primitives/techniques/proofing-and-dilution.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:27a8f91896f39c9347c5f947874e97a43c7a4f6315a8fe6a7523da60081bab05",
+        "id": "oak-barrel-seed",
+        "path": "primitives/tools/oak-barrel.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:918251075b8c576d61117db677178814d085d81d94fc4a18726ab98d36f8fb73",
+        "id": "charred-oak-seed",
+        "path": "primitives/materials/charred-oak.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:4aaabea2ed20afd2ac113d066e614cf0e438d423cfb11ce633d026aa978f19cf",
+        "id": "proofing-water-seed",
+        "path": "primitives/materials/proofing-water.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "barrel-aging-cycle",
+  "tags": [
+    "distilling",
+    "distilling-procedure",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

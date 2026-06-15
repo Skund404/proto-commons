@@ -111,6 +111,16 @@
         "canonical": false
       }
     ],
+    "aging technique": [
+      {
+        "ref": "categories/aging-technique",
+        "class": "category",
+        "kind": null,
+        "name": "aging technique",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "aging vessel": [
       {
         "ref": "categories/aging-vessel",
@@ -345,6 +355,36 @@
         "canonical": true
       }
     ],
+    "barrel aging": [
+      {
+        "ref": "primitives/techniques/barrel-aging.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "barrel aging",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "barrel aging cycle": [
+      {
+        "ref": "primitives/workflows/barrel-aging-cycle.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "barrel aging cycle",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "barrel aging run": [
+      {
+        "ref": "primitives/projects/spirit-maturation.json",
+        "class": "primitive",
+        "kind": "project",
+        "name": "barrel aging run",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "barry king maul": [
       {
         "ref": "primitives/tools/barry-king-maul.json",
@@ -475,6 +515,26 @@
         "canonical": false
       }
     ],
+    "blend batch": [
+      {
+        "ref": "primitives/projects/blend-batch.json",
+        "class": "primitive",
+        "kind": "project",
+        "name": "blend batch",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "blending session": [
+      {
+        "ref": "primitives/workflows/blending-session.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "blending session",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "blooming": [
       {
         "ref": "primitives/techniques/blooming.json",
@@ -535,6 +595,26 @@
         "canonical": true
       }
     ],
+    "botanical basket loading": [
+      {
+        "ref": "primitives/techniques/botanical-basket-loading.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "botanical basket loading",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "botanical charge": [
+      {
+        "ref": "primitives/techniques/botanical-charge.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "botanical charge",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "botanical grinder": [
       {
         "ref": "categories/botanical-grinder",
@@ -559,6 +639,16 @@
         "class": "category",
         "kind": null,
         "name": "botanical prep tool",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "botanical technique": [
+      {
+        "ref": "categories/botanical-technique",
+        "class": "category",
+        "kind": null,
+        "name": "botanical technique",
         "lang": "en",
         "canonical": true
       }
@@ -1153,6 +1243,16 @@
         "canonical": false
       }
     ],
+    "chip aging": [
+      {
+        "ref": "primitives/techniques/oaking.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "chip aging",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "chisel-punching stitch holes": [
       {
         "ref": "primitives/techniques/chisel-punching-stitch-holes.json",
@@ -1689,6 +1789,16 @@
         "canonical": true
       }
     ],
+    "cut technique": [
+      {
+        "ref": "categories/cut-technique",
+        "class": "category",
+        "kind": null,
+        "name": "cut technique",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "cutting knife": [
       {
         "ref": "categories/cutting-knife",
@@ -1919,6 +2029,16 @@
         "canonical": true
       }
     ],
+    "distillation technique": [
+      {
+        "ref": "categories/distillation-technique",
+        "class": "category",
+        "kind": null,
+        "name": "distillation technique",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "distilled water": [
       {
         "ref": "categories/distilled-water",
@@ -1961,6 +2081,56 @@
         "class": "primitive",
         "kind": "material",
         "name": "distillers yeast",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "distilling maintenance technique": [
+      {
+        "ref": "categories/distilling-maintenance-technique",
+        "class": "category",
+        "kind": null,
+        "name": "distilling maintenance technique",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "distilling measurement technique": [
+      {
+        "ref": "categories/distilling-measurement-technique",
+        "class": "category",
+        "kind": null,
+        "name": "distilling measurement technique",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "distilling procedure": [
+      {
+        "ref": "categories/distilling-procedure",
+        "class": "category",
+        "kind": null,
+        "name": "distilling procedure",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "distilling project": [
+      {
+        "ref": "categories/distilling-project",
+        "class": "category",
+        "kind": null,
+        "name": "distilling project",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "distilling technique": [
+      {
+        "ref": "categories/distilling-technique",
+        "class": "category",
+        "kind": null,
+        "name": "distilling technique",
         "lang": "en",
         "canonical": true
       }
@@ -2553,6 +2723,26 @@
         "canonical": false
       }
     ],
+    "fermentation technique": [
+      {
+        "ref": "categories/ferment-technique",
+        "class": "category",
+        "kind": null,
+        "name": "fermentation technique",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "fermentation temperature control": [
+      {
+        "ref": "primitives/techniques/fermentation-temperature-control.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "fermentation temperature control",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "fermentation vessel": [
       {
         "ref": "categories/fermentation-vessel",
@@ -2703,6 +2893,26 @@
         "class": "primitive",
         "kind": "tool",
         "name": "Florentine flask",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "foreshots heads hearts tails": [
+      {
+        "ref": "primitives/techniques/making-cuts.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "foreshots heads hearts tails",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "fraction collection": [
+      {
+        "ref": "primitives/techniques/fraction-collection.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "fraction collection",
         "lang": "en",
         "canonical": true
       }
@@ -2873,6 +3083,46 @@
         "canonical": true
       }
     ],
+    "gin batch": [
+      {
+        "ref": "primitives/projects/gin-batch.json",
+        "class": "primitive",
+        "kind": "project",
+        "name": "gin batch",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "gin botanical run": [
+      {
+        "ref": "primitives/workflows/gin-botanical-run.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "gin botanical run",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "gin maceration": [
+      {
+        "ref": "primitives/techniques/gin-maceration.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "gin maceration",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "gin vapor infusion": [
+      {
+        "ref": "primitives/techniques/gin-vapor-infusion.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "gin vapor infusion",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "ginger": [
       {
         "ref": "primitives/materials/ginger.json",
@@ -3031,6 +3281,16 @@
         "class": "primitive",
         "kind": "material",
         "name": "grapefruit",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "gravity tracking": [
+      {
+        "ref": "primitives/techniques/gravity-tracking.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "gravity tracking",
         "lang": "en",
         "canonical": true
       }
@@ -3377,6 +3637,16 @@
         "canonical": true
       }
     ],
+    "hydrodistillation": [
+      {
+        "ref": "primitives/techniques/water-distillation-method.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "hydrodistillation",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "hydrometer": [
       {
         "ref": "categories/hydrometer",
@@ -3391,6 +3661,36 @@
         "class": "primitive",
         "kind": "tool",
         "name": "hydrometer",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "hydrosol and essential oil run": [
+      {
+        "ref": "primitives/projects/hydrosol-run.json",
+        "class": "primitive",
+        "kind": "project",
+        "name": "hydrosol and essential oil run",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "hydrosol steam distillation": [
+      {
+        "ref": "primitives/workflows/hydrosol-steam-distillation.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "hydrosol steam distillation",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "hydrosol technique": [
+      {
+        "ref": "categories/hydrosol-technique",
+        "class": "category",
+        "kind": null,
+        "name": "hydrosol technique",
         "lang": "en",
         "canonical": true
       }
@@ -3933,6 +4233,16 @@
         "canonical": false
       }
     ],
+    "loading the still": [
+      {
+        "ref": "primitives/techniques/botanical-charge.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "loading the still",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "lychee": [
       {
         "ref": "primitives/materials/lychee.json",
@@ -3997,6 +4307,16 @@
         "name": "maize",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "making cuts": [
+      {
+        "ref": "primitives/techniques/making-cuts.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "making cuts",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "mallet": [
@@ -4105,6 +4425,26 @@
         "name": "marking tool",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "mashing": [
+      {
+        "ref": "primitives/techniques/mashing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "mashing",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "maturation": [
+      {
+        "ref": "primitives/techniques/barrel-aging.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "maturation",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "maul": [
@@ -4445,6 +4785,16 @@
         "canonical": true
       }
     ],
+    "oaking": [
+      {
+        "ref": "primitives/techniques/oaking.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "oaking",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "offcuts": [
       {
         "ref": "primitives/materials/scrap-leather.json",
@@ -4453,6 +4803,26 @@
         "name": "offcuts",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "og and fg": [
+      {
+        "ref": "primitives/techniques/gravity-tracking.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "OG and FG",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "oil and hydrosol separation": [
+      {
+        "ref": "primitives/techniques/oil-hydrosol-separation.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "oil and hydrosol separation",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "oil separator": [
@@ -4635,6 +5005,16 @@
         "class": "primitive",
         "kind": "tool",
         "name": "parrot",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "parrot reading": [
+      {
+        "ref": "primitives/techniques/parrot-reading.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "parrot reading",
         "lang": "en",
         "canonical": true
       }
@@ -5021,6 +5401,16 @@
         "canonical": true
       }
     ],
+    "proofing and dilution": [
+      {
+        "ref": "primitives/techniques/proofing-and-dilution.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "proofing and dilution",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "proofing parrot": [
       {
         "ref": "categories/parrot",
@@ -5225,6 +5615,16 @@
         "canonical": false
       }
     ],
+    "reflux management": [
+      {
+        "ref": "primitives/techniques/reflux-management.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "reflux management",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "reflux still": [
       {
         "ref": "categories/reflux-still",
@@ -5239,6 +5639,16 @@
         "class": "primitive",
         "kind": "tool",
         "name": "reflux still",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "reflux technique": [
+      {
+        "ref": "categories/reflux-technique",
+        "class": "category",
+        "kind": null,
+        "name": "reflux technique",
         "lang": "en",
         "canonical": true
       }
@@ -5911,6 +6321,46 @@
         "canonical": true
       }
     ],
+    "spirit batch": [
+      {
+        "ref": "primitives/projects/spirit-batch.json",
+        "class": "primitive",
+        "kind": "project",
+        "name": "spirit batch",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "spirit maturation": [
+      {
+        "ref": "primitives/projects/spirit-maturation.json",
+        "class": "primitive",
+        "kind": "project",
+        "name": "spirit maturation",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "spirit run": [
+      {
+        "ref": "primitives/techniques/spirit-run.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "spirit run",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "spirit run with cuts": [
+      {
+        "ref": "primitives/workflows/spirit-run-with-cuts.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "spirit run with cuts",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "split ring": [
       {
         "ref": "primitives/materials/split-ring.json",
@@ -5947,6 +6397,16 @@
         "class": "primitive",
         "kind": "material",
         "name": "Starspice Gin Botanicals",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "steam distillation": [
+      {
+        "ref": "primitives/techniques/steam-distillation-method.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "steam distillation",
         "lang": "en",
         "canonical": true
       }
@@ -6045,6 +6505,16 @@
         "class": "primitive",
         "kind": "material",
         "name": "still cleaner",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "still cleaning": [
+      {
+        "ref": "primitives/techniques/still-cleaning.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "still cleaning",
         "lang": "en",
         "canonical": true
       }
@@ -6217,6 +6687,24 @@
         "name": "string bean",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "stripping run": [
+      {
+        "ref": "primitives/techniques/stripping-run.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "stripping run",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/workflows/stripping-run-workflow.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "stripping run",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "strop": [
@@ -6821,6 +7309,16 @@
         "canonical": true
       }
     ],
+    "water distillation": [
+      {
+        "ref": "primitives/techniques/water-distillation-method.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "water distillation",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "water filter pitcher": [
       {
         "ref": "primitives/tools/water-filter-pitcher.json",
@@ -7079,6 +7577,26 @@
         "class": "category",
         "kind": null,
         "name": "yeast",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "yeast pitching": [
+      {
+        "ref": "primitives/techniques/yeast-pitching.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "yeast pitching",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "yield measurement": [
+      {
+        "ref": "primitives/techniques/yield-measurement.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "yield measurement",
         "lang": "en",
         "canonical": true
       }

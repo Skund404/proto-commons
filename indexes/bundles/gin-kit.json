@@ -1,0 +1,70 @@
+{
+  "content_hash": "sha256:0ada0526a31b75125d5b193bcc3fb0c827e4c7b69aa4b1020a4932a3f9c243a0",
+  "description": {
+    "en": "A setup for distilling gin: an alembic, a vapor basket, a botanical grinder, and the core botanicals."
+  },
+  "domain": "distilling",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:32410439a8bc79e4de98fab3f9247e0fee0818a79a9a1232a9c0cedb12cb72c8",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "copper-alembic-still"
+    },
+    {
+      "hash": "sha256:cfbfd0832c3ad88b540ca3ba8aeb8b01bf32d8f9ab37e34b6e21df7d32ad1f71",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "gin-basket"
+    },
+    {
+      "hash": "sha256:5676002881111ed5ee09154fce55f88f8cb11469f76ece56e5d7974f32d8582d",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "botanical-grinder"
+    },
+    {
+      "hash": "sha256:72f466db1a3b1a2f83d6f4007ee067a9cc62b9629f4c7d9043bced33c533c0bc",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "juniper-berries"
+    },
+    {
+      "hash": "sha256:db549cd23b50e9d7cfd3ef195d6ab1d48ddb9eab2acffea866f19ecb9bef01ed",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "coriander-seed"
+    },
+    {
+      "hash": "sha256:2e1da6897d1cd959781d744e2aeae4149f2da235972dd81c62074673e52ad754",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "citrus-peel"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Gin kit"
+  },
+  "record_class": "bundle",
+  "slug": "gin-kit",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "distilling",
+    "kit"
+  ],
+  "taxonomy": "copper-alembic"
+}

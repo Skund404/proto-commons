@@ -1,0 +1,59 @@
+{
+  "content_hash": "sha256:72f32f4dde1df34d535b6fb7112127daed0617fd879862b969a7e9768dfd6eb0",
+  "created": "2026-06-15",
+  "description": "On a column still, adjust the cooling at the dephlegmator to control how much vapor falls back as liquid. More reflux gives a cleaner, stronger spirit; less keeps more flavor.",
+  "emitter": "opg://commons-seed",
+  "id": "reflux-management-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "reflux management",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "reflux management"
+      ]
+    },
+    "skillLevel": "advanced",
+    "taxonomy": "reflux-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:bdb65e9b9dcebc5b953569478cdfdf56b14e30db76851699040b93efa09ff7ad",
+        "id": "dephlegmator-seed",
+        "path": "primitives/tools/dephlegmator.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:c2f282f52cdbe585f291f62c71e97caea082e8e5d43b8c77eb25cffca84b5ae7",
+        "id": "reflux-column-seed",
+        "path": "primitives/tools/reflux-column.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:a9dc950ea8f61a51d2a3c68c95195e66797181e6eb53828805b1c0ed2b389481",
+        "id": "column-packing-seed",
+        "path": "primitives/tools/column-packing.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "reflux-management",
+  "tags": [
+    "distilling",
+    "reflux-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

@@ -1050,6 +1050,312 @@
         }
       ]
     },
+    "category/distilling-procedure": {
+      "id": "distilling-procedure",
+      "name": "distilling procedure",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/workflows/barrel-aging-cycle.json",
+          "slug": "barrel-aging-cycle",
+          "kind": "workflow",
+          "name": "barrel aging cycle"
+        },
+        {
+          "ref": "primitives/workflows/blending-session.json",
+          "slug": "blending-session",
+          "kind": "workflow",
+          "name": "blending session"
+        },
+        {
+          "ref": "primitives/workflows/gin-botanical-run.json",
+          "slug": "gin-botanical-run",
+          "kind": "workflow",
+          "name": "gin botanical run"
+        },
+        {
+          "ref": "primitives/workflows/hydrosol-steam-distillation.json",
+          "slug": "hydrosol-steam-distillation",
+          "kind": "workflow",
+          "name": "hydrosol steam distillation"
+        },
+        {
+          "ref": "primitives/workflows/spirit-run-with-cuts.json",
+          "slug": "spirit-run-with-cuts",
+          "kind": "workflow",
+          "name": "spirit run with cuts"
+        },
+        {
+          "ref": "primitives/workflows/stripping-run-workflow.json",
+          "slug": "stripping-run-workflow",
+          "kind": "workflow",
+          "name": "stripping run"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/distilling-project": {
+      "id": "distilling-project",
+      "name": "distilling project",
+      "parent": null,
+      "members": [
+        {
+          "ref": "primitives/projects/blend-batch.json",
+          "slug": "blend-batch",
+          "kind": "project",
+          "name": "blend batch"
+        },
+        {
+          "ref": "primitives/projects/gin-batch.json",
+          "slug": "gin-batch",
+          "kind": "project",
+          "name": "gin batch"
+        },
+        {
+          "ref": "primitives/projects/hydrosol-run.json",
+          "slug": "hydrosol-run",
+          "kind": "project",
+          "name": "hydrosol and essential oil run"
+        },
+        {
+          "ref": "primitives/projects/spirit-batch.json",
+          "slug": "spirit-batch",
+          "kind": "project",
+          "name": "spirit batch"
+        },
+        {
+          "ref": "primitives/projects/spirit-maturation.json",
+          "slug": "spirit-maturation",
+          "kind": "project",
+          "name": "spirit maturation"
+        }
+      ],
+      "related": [],
+      "children": []
+    },
+    "category/distilling-technique": {
+      "id": "distilling-technique",
+      "name": "distilling technique",
+      "parent": null,
+      "members": [],
+      "related": [],
+      "children": [
+        {
+          "id": "aging-technique",
+          "name": "aging technique",
+          "parent": "distilling-technique",
+          "members": [
+            {
+              "ref": "primitives/techniques/barrel-aging.json",
+              "slug": "barrel-aging",
+              "kind": "technique",
+              "name": "barrel aging"
+            },
+            {
+              "ref": "primitives/techniques/oaking.json",
+              "slug": "oaking",
+              "kind": "technique",
+              "name": "oaking"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "botanical-technique",
+          "name": "botanical technique",
+          "parent": "distilling-technique",
+          "members": [
+            {
+              "ref": "primitives/techniques/botanical-basket-loading.json",
+              "slug": "botanical-basket-loading",
+              "kind": "technique",
+              "name": "botanical basket loading"
+            },
+            {
+              "ref": "primitives/techniques/gin-maceration.json",
+              "slug": "gin-maceration",
+              "kind": "technique",
+              "name": "gin maceration"
+            },
+            {
+              "ref": "primitives/techniques/gin-vapor-infusion.json",
+              "slug": "gin-vapor-infusion",
+              "kind": "technique",
+              "name": "gin vapor infusion"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "cut-technique",
+          "name": "cut technique",
+          "parent": "distilling-technique",
+          "members": [
+            {
+              "ref": "primitives/techniques/making-cuts.json",
+              "slug": "making-cuts",
+              "kind": "technique",
+              "name": "making cuts"
+            },
+            {
+              "ref": "primitives/techniques/proofing-and-dilution.json",
+              "slug": "proofing-and-dilution",
+              "kind": "technique",
+              "name": "proofing and dilution"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "distillation-technique",
+          "name": "distillation technique",
+          "parent": "distilling-technique",
+          "members": [
+            {
+              "ref": "primitives/techniques/fraction-collection.json",
+              "slug": "fraction-collection",
+              "kind": "technique",
+              "name": "fraction collection"
+            },
+            {
+              "ref": "primitives/techniques/spirit-run.json",
+              "slug": "spirit-run",
+              "kind": "technique",
+              "name": "spirit run"
+            },
+            {
+              "ref": "primitives/techniques/stripping-run.json",
+              "slug": "stripping-run",
+              "kind": "technique",
+              "name": "stripping run"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "distilling-maintenance-technique",
+          "name": "distilling maintenance technique",
+          "parent": "distilling-technique",
+          "members": [
+            {
+              "ref": "primitives/techniques/still-cleaning.json",
+              "slug": "still-cleaning",
+              "kind": "technique",
+              "name": "still cleaning"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "distilling-measurement-technique",
+          "name": "distilling measurement technique",
+          "parent": "distilling-technique",
+          "members": [
+            {
+              "ref": "primitives/techniques/parrot-reading.json",
+              "slug": "parrot-reading",
+              "kind": "technique",
+              "name": "parrot reading"
+            },
+            {
+              "ref": "primitives/techniques/yield-measurement.json",
+              "slug": "yield-measurement",
+              "kind": "technique",
+              "name": "yield measurement"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "ferment-technique",
+          "name": "fermentation technique",
+          "parent": "distilling-technique",
+          "members": [
+            {
+              "ref": "primitives/techniques/fermentation-temperature-control.json",
+              "slug": "fermentation-temperature-control",
+              "kind": "technique",
+              "name": "fermentation temperature control"
+            },
+            {
+              "ref": "primitives/techniques/gravity-tracking.json",
+              "slug": "gravity-tracking",
+              "kind": "technique",
+              "name": "gravity tracking"
+            },
+            {
+              "ref": "primitives/techniques/mashing.json",
+              "slug": "mashing",
+              "kind": "technique",
+              "name": "mashing"
+            },
+            {
+              "ref": "primitives/techniques/yeast-pitching.json",
+              "slug": "yeast-pitching",
+              "kind": "technique",
+              "name": "yeast pitching"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "hydrosol-technique",
+          "name": "hydrosol technique",
+          "parent": "distilling-technique",
+          "members": [
+            {
+              "ref": "primitives/techniques/botanical-charge.json",
+              "slug": "botanical-charge",
+              "kind": "technique",
+              "name": "botanical charge"
+            },
+            {
+              "ref": "primitives/techniques/oil-hydrosol-separation.json",
+              "slug": "oil-hydrosol-separation",
+              "kind": "technique",
+              "name": "oil and hydrosol separation"
+            },
+            {
+              "ref": "primitives/techniques/steam-distillation-method.json",
+              "slug": "steam-distillation-method",
+              "kind": "technique",
+              "name": "steam distillation"
+            },
+            {
+              "ref": "primitives/techniques/water-distillation-method.json",
+              "slug": "water-distillation-method",
+              "kind": "technique",
+              "name": "water distillation"
+            }
+          ],
+          "related": [],
+          "children": []
+        },
+        {
+          "id": "reflux-technique",
+          "name": "reflux technique",
+          "parent": "distilling-technique",
+          "members": [
+            {
+              "ref": "primitives/techniques/reflux-management.json",
+              "slug": "reflux-management",
+              "kind": "technique",
+              "name": "reflux management"
+            }
+          ],
+          "related": [],
+          "children": []
+        }
+      ]
+    },
     "category/edge-burnishing-gum": {
       "id": "edge-burnishing-gum",
       "name": "edge burnishing gum",

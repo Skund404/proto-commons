@@ -1,0 +1,56 @@
+{
+  "content_hash": "sha256:04dae70baab4012281bd305e5e1c6286f242456f91dfcae64c31de59df9093b0",
+  "description": {
+    "en": "A first essential-oil and hydrosol setup: a steam still, a separator to part the oil and water, and a fragrant botanical to start with."
+  },
+  "domain": "distilling",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:b7bb4aa2c5540ddf307ed92f7013f0af926f81a696f975b7eed5749b96b44ee8",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "steam-distillation-still"
+    },
+    {
+      "hash": "sha256:061db8b0c03fb8ae02591d21720b39b640442f1cefff5cb8f9ecde52370490ad",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "florentine-flask"
+    },
+    {
+      "hash": "sha256:d423d6ee96303ccf042b8ffb815bf0a7bf9bb46da1075a29c513223ff892623b",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "lavender"
+    },
+    {
+      "hash": "sha256:1440f12e1ba574ce85f8183c122934acc3044ec10588904204dde236572b4a4a",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "rose-petal"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Hydrosol starter kit"
+  },
+  "record_class": "bundle",
+  "slug": "hydrosol-starter-kit",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "distilling",
+    "kit"
+  ],
+  "taxonomy": "steam-distillation-still"
+}

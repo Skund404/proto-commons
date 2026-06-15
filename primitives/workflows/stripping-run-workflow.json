@@ -1,0 +1,97 @@
+{
+  "content_hash": "sha256:249179bf6ded653938352f9c4350d63728075a44e0f30d8310fa8329b646ce60",
+  "created": "2026-06-15",
+  "description": "A fast first distillation of a fermented wash into low wines: charge the still, heat it, and collect everything down to low strength to concentrate the alcohol for a careful spirit run.",
+  "emitter": "opg://commons-seed",
+  "id": "stripping-run-workflow-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-15",
+  "name": "stripping run",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "intermediate",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "stripping run"
+      ]
+    },
+    "steps": [
+      {
+        "description": "Charge the still with the fermented, cleared wash.",
+        "position": 1
+      },
+      {
+        "description": "Heat steadily and bring the still up to distilling temperature.",
+        "position": 2
+      },
+      {
+        "description": "Collect the distillate quickly, making only a small foreshots cut.",
+        "position": 3
+      },
+      {
+        "description": "Run until the strength in the parrot drops near zero.",
+        "position": 4
+      },
+      {
+        "description": "Set the combined low wines aside for the spirit run.",
+        "position": 5
+      }
+    ],
+    "taxonomy": "distilling-procedure"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:798855ee9ffcf324e628354204569698e9846ea79192c4dcc4c032d45e3aff99",
+        "id": "stripping-run-seed",
+        "path": "primitives/techniques/stripping-run.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:55d4ff6f39563e8c7afc2c3811b6b127f7c467bc624615e8281872ec95496460",
+        "id": "fraction-collection-seed",
+        "path": "primitives/techniques/fraction-collection.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:c24e16256b27a95f41802cf86372922d161b1f679634c0f921a5f40e8312fc76",
+        "id": "pot-still-seed",
+        "path": "primitives/tools/pot-still.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:b9623ce125d3769ecc178c5d2d8bae6f98c1df756e3681d7fc7e8bc01e48a501",
+        "id": "electric-element-controller-seed",
+        "path": "primitives/tools/electric-element-controller.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:b0df4adbaa60144d60966ac1fcf48a3e51f4927e30aa0c0ea02b2e842621d577",
+        "id": "parrot-seed",
+        "path": "primitives/tools/parrot.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "stripping-run-workflow",
+  "tags": [
+    "distilling",
+    "distilling-procedure",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

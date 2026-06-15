@@ -1,0 +1,56 @@
+{
+  "content_hash": "sha256:bd686f1ab5b65c86b1605ed889b50c48030bdb67d0b3a2ed6374b0c421c535b0",
+  "description": {
+    "en": "The instruments for reading a run and a wash: a proof and tralle hydrometer, a wash hydrometer, a thermometer, and a refractometer."
+  },
+  "domain": "distilling",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:db9a9a5afcfeed86ff0488b39539a6535b2af14016a4e89b122f2bf2b387062a",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "proof-and-tralle-hydrometer"
+    },
+    {
+      "hash": "sha256:65a6a7a3e3d3b7000a6c44c2240cfa486d7324a93d80f413bcf481b092a4ce4e",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "hydrometer"
+    },
+    {
+      "hash": "sha256:fef873a1d1650cc46c2a81e027dd46653ca3eb20f57af09685cce6399df164c9",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "still-thermometer"
+    },
+    {
+      "hash": "sha256:5aa966dcaac6566a67a8b43c581874f1b4133a7190cc49c7c2c0cf147214df12",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "optional",
+      "slug": "wash-refractometer"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Distilling measurement kit"
+  },
+  "record_class": "bundle",
+  "slug": "measurement-kit",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "distilling",
+    "kit"
+  ],
+  "taxonomy": "measurement-tool"
+}

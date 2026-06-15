@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "reflux-technique",
+  "names": {
+    "en": [
+      "reflux technique"
+    ]
+  },
+  "specializes": "distilling-technique"
+}
