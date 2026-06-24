@@ -2127,7 +2127,7 @@
       "descSnippet": "Building a decorative scheme out of repeated impressions of a small stock of finishing tools rather than drawing a picture first and cutting tools to fit it. The maker develops a personal style by…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:49c33da219d0fcb12c077610ad66fbf00b3e5deb60ae189e9ef16ac17a8030ef",
+      "hash": "sha256:74d4ff94fa9e634df5067143f7bab909aeefd185b51f01d96831d82e4371baa1",
       "path": "primitives/techniques/combining-tools.json",
       "lineageState": "unasserted"
     },
@@ -2145,7 +2145,7 @@
       "descSnippet": "A pair of compasses used to step off or carry a fixed measurement, for example when setting the squares and judging how far a board should project beyond the leaves. The author lists it as a tool…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:8aeca05fe2f8e50146c7d555057cb733a9db4a1b9a52c8e06d39d1238e9dab0a",
+      "hash": "sha256:ea57624e26eb4da55e393b94fd35f3c4e31c08d3959216cd85e0c662ec942247",
       "path": "primitives/tools/compasses.json",
       "lineageState": "unasserted"
     },
@@ -3154,7 +3154,7 @@
       "descSnippet": "Laying gold leaf onto the trimmed edges of a book held tight in the press. The edge is scraped smooth, optionally sized, grounded with chalk or blacklead, glaired, then covered with cut gold and left…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:8fe9a8cdbf0ee8a688a56f39f77727a2cba91c74c92f5b750816f31b93ed11b3",
+      "hash": "sha256:2d53db8d7d805938071d17eeb2620f9d66f8deb5c0a927876718897622c60cbe",
       "path": "primitives/techniques/edge-gilding.json",
       "lineageState": "unasserted"
     },
@@ -3844,7 +3844,7 @@
       "descSnippet": "A metal stamp carrying an engraved or sunk device on its face, set in a wooden handle and heated for impressing patterns into a cover. Blind versions are cut like a seal so the recessed area prints…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:3bff5799411f0ada5a78623ebe54424d50a9c64f7c7e89c53c860a97be7f3c8f",
+      "hash": "sha256:138a244c5db6a468297070a8db7e85fc22a75c40652f0192535884b7b446c742",
       "path": "primitives/tools/finishing-tool.json",
       "lineageState": "unasserted"
     },
@@ -3971,7 +3971,7 @@
       "descSnippet": "Sewing the sections of a book onto raised supports so the thread passes around each cord; this produces a flexible back that opens well and supports that can be laced into the boards.",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:8bebdc144332bd1abae864344e8b8a8a1feee393cbdeb290ada6aade3b27ad73",
+      "hash": "sha256:6c1599615362b56e3577ae36547eaa29f6640c2922c85cc26a95544764f2f338",
       "path": "primitives/techniques/flexible-sewing.json",
       "lineageState": "unasserted"
     },
@@ -4043,7 +4043,7 @@
       "descSnippet": "Folding flat printed sheets into ordered sections, registering the headlines so each page falls over its neighbour and margins stay even, cutting each fold slightly past centre to avoid creasing at…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:177a5ff34ce053cca2b7af66919ef546cc3b2a7db0554f114bccc295d38fc366",
+      "hash": "sha256:9f4857ce709a1492655a40a6628ba41fd51be52dd692f7a163bdd6833a4a2173",
       "path": "primitives/techniques/folding.json",
       "lineageState": "unasserted"
     },
@@ -4640,7 +4640,7 @@
       "descSnippet": "Decorating a cover so the tool impression is left bright in gold: the leather is washed and sized, glaired, gold leaf laid on, and the heated tools struck through the gold before loose gold is…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:8b9cabb151e5bc6a175eb95ef2be3a51f729f3f97755ba08d820d71bcd96a00c",
+      "hash": "sha256:d7946030fb9751531f4806be888d7b6b4eeb32b21583d49b2e82cc7665508db7",
       "path": "primitives/techniques/gold-tooling.json",
       "lineageState": "unasserted"
     },
@@ -4860,7 +4860,7 @@
       "descSnippet": "Reinforcing or joining leaves and plates by pasting a narrow strip along the fold. Cockerell prefers the guard inside an outer pair to catch ragged edges and outside an inner pair to ease sewing, and…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:871f7b8e11d020586c4533e92300ff52eb462bc2d39fc9c92ca194a72110b286",
+      "hash": "sha256:aeb5d67d72dbe346dd93aaec5f1b8498d59dd4b54ef827e7648755f28e5c3e1a",
       "path": "primitives/techniques/guarding.json",
       "lineageState": "unasserted"
     },
@@ -6449,7 +6449,7 @@
       "descSnippet": "Building a zigzag end paper so every leaf opens to the back and the structure yields to the drag of the cover. A folded sheet is marked and pasted up, folded back over the paste-down, and a further…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:ded92d0434ba0e2ebe13cda2851be5e0c25d57270245f6d884ab8e22c111be28",
+      "hash": "sha256:6c5d597190a957c98df03b1d156ef1f5374c2007cd85c6f55b0e98a29cd2a4a9",
       "path": "primitives/workflows/making-end-papers.json",
       "lineageState": "unasserted"
     },
@@ -6974,7 +6974,7 @@
       "descSnippet": "Cutting and folding the leather at each board corner into a clean diagonal join with no overlap. Both thicknesses are sliced from the board corner toward the inner margin, the surplus removed while…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:58966af58f60eb4e1b5eff151ee40d632ca3ee54f75dc49fc9925c8dc899ac16",
+      "hash": "sha256:260a77141ba41cbdec09ba6a9043fb01572624334648b98366c6f242676548a3",
       "path": "primitives/techniques/mitring-corners.json",
       "lineageState": "unasserted"
     },
@@ -10769,7 +10769,7 @@
       "descSnippet": "Mounting a frequently consulted map or diagram on a wide guard, often placed at the end of the book, so it opens clear of the text and stays readable while the book is in use. Large folded sheets are…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:63914b42b13519e90490038eb6372af8b773f9b4f924946e2aef222dd920fa92",
+      "hash": "sha256:aa9a95264faceb594d48b32e5daea1c98df9fc1dfca17787c33d2ee73e6ea0f2",
       "path": "primitives/techniques/throwing-out.json",
       "lineageState": "unasserted"
     },

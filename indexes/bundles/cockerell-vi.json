@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:52933c3d816418f369f89ed4bc643122dd0530387a76bc841016dcb9e0cbb819",
+  "content_hash": "sha256:7cb94dafaa54974838f319ca30d48981478393f9eb43f11a92d04715d36e91e9",
   "description": {
     "en": "Chapter VI (Trimming Edges before Sewing Edge Gilding) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901)."
   },
@@ -37,7 +37,7 @@
       "slug": "carpenter-square"
     },
     {
-      "hash": "sha256:8fe9a8cdbf0ee8a688a56f39f77727a2cba91c74c92f5b750816f31b93ed11b3",
+      "hash": "sha256:2d53db8d7d805938071d17eeb2620f9d66f8deb5c0a927876718897622c60cbe",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",

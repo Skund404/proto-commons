@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:8fe9a8cdbf0ee8a688a56f39f77727a2cba91c74c92f5b750816f31b93ed11b3",
+  "content_hash": "sha256:2d53db8d7d805938071d17eeb2620f9d66f8deb5c0a927876718897622c60cbe",
   "created": "2026-06-24",
   "description": "Laying gold leaf onto the trimmed edges of a book held tight in the press. The edge is scraped smooth, optionally sized, grounded with chalk or blacklead, glaired, then covered with cut gold and left to dry before being waxed and burnished to a bright finish, fore-edge first and head and tail after.",
   "emitter": "opg://commons-seed",
@@ -14,7 +14,15 @@
   "opgl_version": "0.6",
   "persistent": false,
   "properties": {
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$103/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$103/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "edge-gilding-fig26"
+      }
+    ],
     "names": {
       "en": [
         "edge gilding",

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:dd127f754b66223f12f0004dfd4fd50549adcd4ea77911c0349993c23128b6d6",
+  "content_hash": "sha256:36fe13d51f026b6b47027588474c4457321bfc9b1e85ac2b208a9470e07be800",
   "description": {
     "en": "Chapter XII (Preparing for Covering Paring Leather Cov ering Mitring Coiners Filling in Boards) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901)."
   },
@@ -86,7 +86,7 @@
       "slug": "lying-press"
     },
     {
-      "hash": "sha256:58966af58f60eb4e1b5eff151ee40d632ca3ee54f75dc49fc9925c8dc899ac16",
+      "hash": "sha256:260a77141ba41cbdec09ba6a9043fb01572624334648b98366c6f242676548a3",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",

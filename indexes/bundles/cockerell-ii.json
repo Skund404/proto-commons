@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:32df61e5c69a544b54d3f84e917be775b36a864401ea15a03809f4ecc55c15e7",
+  "content_hash": "sha256:f1c20d3c5bdb473509c09d4bd9763259bac14516e7c3a57b761adc85a3085976",
   "description": {
     "en": "Chapter II (Entering Books in Sheets Folding Collating Pulling to Pieces Refolding Knocking out Joints) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901)."
   },
@@ -51,7 +51,7 @@
       "slug": "folder"
     },
     {
-      "hash": "sha256:177a5ff34ce053cca2b7af66919ef546cc3b2a7db0554f114bccc295d38fc366",
+      "hash": "sha256:9f4857ce709a1492655a40a6628ba41fd51be52dd692f7a163bdd6833a4a2173",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
@@ -72,7 +72,7 @@
       "slug": "guard"
     },
     {
-      "hash": "sha256:871f7b8e11d020586c4533e92300ff52eb462bc2d39fc9c92ca194a72110b286",
+      "hash": "sha256:aeb5d67d72dbe346dd93aaec5f1b8498d59dd4b54ef827e7648755f28e5c3e1a",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:63914b42b13519e90490038eb6372af8b773f9b4f924946e2aef222dd920fa92",
+  "content_hash": "sha256:aa9a95264faceb594d48b32e5daea1c98df9fc1dfca17787c33d2ee73e6ea0f2",
   "created": "2026-06-24",
   "description": "Mounting a frequently consulted map or diagram on a wide guard, often placed at the end of the book, so it opens clear of the text and stays readable while the book is in use. Large folded sheets are backed with cloth and matched by guards in the spine so the volume still shuts.",
   "emitter": "opg://commons-seed",
@@ -14,7 +14,15 @@
   "opgl_version": "0.6",
   "persistent": false,
   "properties": {
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$66/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$66/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "throwing-out-fig14"
+      }
+    ],
     "names": {
       "en": [
         "throwing out"

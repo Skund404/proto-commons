@@ -2,11 +2,11 @@
   "book": {
     "author": "Douglas Cockerell",
     "metafile": {
-      "hash": "sha256:4a986d22365a79bc523843cfe84f5fd8cdc2a4029304ca337fd895c46728b54c",
+      "hash": "sha256:24c62bfabc6067a8570cbda5e0b69832adc85ef2c4a498328b072b53801d4e06",
       "path": "books/cockerell/metafile.json"
     }
   },
-  "content_hash": "sha256:00fc09f28601be926c6df1cb58a3e757a727efb61f674fdcca63c9bc4fb80527",
+  "content_hash": "sha256:903500bccbf0a2002c4df50d76d8672ed0c27ebd6caaa1ad9f57e445d0251397",
   "description": {
     "en": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901). Public domain. Full book, all chapters."
   },
@@ -21,13 +21,13 @@
       "slug": "cockerell-i"
     },
     {
-      "hash": "sha256:32df61e5c69a544b54d3f84e917be775b36a864401ea15a03809f4ecc55c15e7",
+      "hash": "sha256:f1c20d3c5bdb473509c09d4bd9763259bac14516e7c3a57b761adc85a3085976",
       "record_class": "bundle",
       "role": "required",
       "slug": "cockerell-ii"
     },
     {
-      "hash": "sha256:87bb6acdf0622b002cd6410a09a6f17bfdd0e9f2a77611dc4dc9f9fae5a6e036",
+      "hash": "sha256:0b1e8938d901ce99483b27b426097ffe8c53ca7c910d66a323516452837c4be0",
       "record_class": "bundle",
       "role": "required",
       "slug": "cockerell-iii"
@@ -39,19 +39,19 @@
       "slug": "cockerell-iv"
     },
     {
-      "hash": "sha256:69496d6f76d5f2c33804dd5e463397931a349458560f073429e9d5ed08ddd5ce",
+      "hash": "sha256:e3e6d734263fabf7ad80ee08329f4dc7fa134508955f7131ff2f82908dcdefee",
       "record_class": "bundle",
       "role": "required",
       "slug": "cockerell-v"
     },
     {
-      "hash": "sha256:52933c3d816418f369f89ed4bc643122dd0530387a76bc841016dcb9e0cbb819",
+      "hash": "sha256:7cb94dafaa54974838f319ca30d48981478393f9eb43f11a92d04715d36e91e9",
       "record_class": "bundle",
       "role": "required",
       "slug": "cockerell-vi"
     },
     {
-      "hash": "sha256:eb4c1d3dc17ac70bea6ed6588e2dca30ebdf8966c1ccdc382e2c86d3814aa664",
+      "hash": "sha256:92507e79dea6ca6a1831219ebbfd6e7b640d61f97bc271a002ac11d6c986449f",
       "record_class": "bundle",
       "role": "required",
       "slug": "cockerell-vii-sewing"
@@ -63,13 +63,13 @@
       "slug": "cockerell-viii"
     },
     {
-      "hash": "sha256:22c11053327d013a2bf06a0ff8be68d3a5171e2edb70d144d5644b23df20d976",
+      "hash": "sha256:cb8d13c9e4757b9715a6e1b6a2c5169ad25702fc2b559ed021117d6fb9d0a36d",
       "record_class": "bundle",
       "role": "required",
       "slug": "cockerell-ix"
     },
     {
-      "hash": "sha256:ce6fb4a04488d5373c09dab8ebfa932c8fe9aa52dd614d0e596a1d4c8fa7602c",
+      "hash": "sha256:e7caeecd10447fba84b699d11c33897e873b7b022fa5c15045cab47232185036",
       "record_class": "bundle",
       "role": "required",
       "slug": "cockerell-x"
@@ -81,7 +81,7 @@
       "slug": "cockerell-xi"
     },
     {
-      "hash": "sha256:dd127f754b66223f12f0004dfd4fd50549adcd4ea77911c0349993c23128b6d6",
+      "hash": "sha256:36fe13d51f026b6b47027588474c4457321bfc9b1e85ac2b208a9470e07be800",
       "record_class": "bundle",
       "role": "required",
       "slug": "cockerell-xii"
@@ -93,7 +93,7 @@
       "slug": "cockerell-xiii"
     },
     {
-      "hash": "sha256:4bda6ed71f845243c6cb8a455fad128c139b60908ca883d45a244c905afcee6d",
+      "hash": "sha256:4eb0ced730521fdf787ed4754dc6b0603827bccb884e5fe66848412cde32513a",
       "record_class": "bundle",
       "role": "required",
       "slug": "cockerell-xiv"
@@ -105,7 +105,7 @@
       "slug": "cockerell-xv"
     },
     {
-      "hash": "sha256:3b0c0acb713713654320903730a04ce63e325d67876508159d0a554649b2c56c",
+      "hash": "sha256:30c888f09dbcf5deaab6fc5cf1c7032fe4ec4da66af5fb89c6bb10c8e1706c30",
       "record_class": "bundle",
       "role": "required",
       "slug": "cockerell-xvi"

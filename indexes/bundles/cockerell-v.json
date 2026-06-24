@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:69496d6f76d5f2c33804dd5e463397931a349458560f073429e9d5ed08ddd5ce",
+  "content_hash": "sha256:e3e6d734263fabf7ad80ee08329f4dc7fa134508955f7131ff2f82908dcdefee",
   "description": {
     "en": "Chapter V (End Papers Leather Joints Pressing) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901)."
   },
@@ -37,7 +37,7 @@
       "slug": "leather-joint"
     },
     {
-      "hash": "sha256:ded92d0434ba0e2ebe13cda2851be5e0c25d57270245f6d884ab8e22c111be28",
+      "hash": "sha256:6c5d597190a957c98df03b1d156ef1f5374c2007cd85c6f55b0e98a29cd2a4a9",
       "kind": "workflow",
       "record_class": "primitive",
       "role": "required",

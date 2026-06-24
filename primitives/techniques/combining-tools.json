@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:49c33da219d0fcb12c077610ad66fbf00b3e5deb60ae189e9ef16ac17a8030ef",
+  "content_hash": "sha256:74d4ff94fa9e634df5067143f7bab909aeefd185b51f01d96831d82e4371baa1",
   "created": "2026-06-24",
   "description": "Building a decorative scheme out of repeated impressions of a small stock of finishing tools rather than drawing a picture first and cutting tools to fit it. The maker develops a personal style by evolving a pattern through small changes, favouring geometric repetition, symmetry, and even distribution across the cover, with arrangements such as diapers, borders, centres, and panels.",
   "emitter": "opg://commons-seed",
@@ -14,7 +14,15 @@
   "opgl_version": "0.6",
   "persistent": false,
   "properties": {
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$257/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$257/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "combining-tools-fig115"
+      }
+    ],
     "names": {
       "en": [
         "combining tools to form patterns"

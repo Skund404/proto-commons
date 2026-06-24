@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:177a5ff34ce053cca2b7af66919ef546cc3b2a7db0554f114bccc295d38fc366",
+  "content_hash": "sha256:9f4857ce709a1492655a40a6628ba41fd51be52dd692f7a163bdd6833a4a2173",
   "created": "2026-06-24",
   "description": "Folding flat printed sheets into ordered sections, registering the headlines so each page falls over its neighbour and margins stay even, cutting each fold slightly past centre to avoid creasing at the joined edge.",
   "emitter": "opg://commons-seed",
@@ -14,7 +14,15 @@
   "opgl_version": "0.6",
   "persistent": false,
   "properties": {
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$45/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$45/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "folding-fig3"
+      }
+    ],
     "names": {
       "en": [
         "folding"

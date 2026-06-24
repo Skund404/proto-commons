@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:8b9cabb151e5bc6a175eb95ef2be3a51f729f3f97755ba08d820d71bcd96a00c",
+  "content_hash": "sha256:d7946030fb9751531f4806be888d7b6b4eeb32b21583d49b2e82cc7665508db7",
   "created": "2026-06-24",
   "description": "Decorating a cover so the tool impression is left bright in gold: the leather is washed and sized, glaired, gold leaf laid on, and the heated tools struck through the gold before loose gold is cleaned off.",
   "emitter": "opg://commons-seed",
@@ -14,7 +14,15 @@
   "opgl_version": "0.6",
   "persistent": false,
   "properties": {
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$207/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$207/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "gold-tooling-fig87"
+      }
+    ],
     "names": {
       "en": [
         "gold tooling"

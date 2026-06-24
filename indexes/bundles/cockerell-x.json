@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:ce6fb4a04488d5373c09dab8ebfa932c8fe9aa52dd614d0e596a1d4c8fa7602c",
+  "content_hash": "sha256:e7caeecd10447fba84b699d11c33897e873b7b022fa5c15045cab47232185036",
   "description": {
     "en": "Chapter X (Cutting in Boards Gilding and Colouring Edges) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901)."
   },
@@ -44,7 +44,7 @@
       "slug": "edge-colouring"
     },
     {
-      "hash": "sha256:8fe9a8cdbf0ee8a688a56f39f77727a2cba91c74c92f5b750816f31b93ed11b3",
+      "hash": "sha256:2d53db8d7d805938071d17eeb2620f9d66f8deb5c0a927876718897622c60cbe",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",

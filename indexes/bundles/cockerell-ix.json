@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:22c11053327d013a2bf06a0ff8be68d3a5171e2edb70d144d5644b23df20d976",
+  "content_hash": "sha256:cb8d13c9e4757b9715a6e1b6a2c5169ad25702fc2b559ed021117d6fb9d0a36d",
   "description": {
     "en": "Chapter IX (Cutting and Attaching Boards Cleaning off Back Pressing) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901)."
   },
@@ -51,7 +51,7 @@
       "slug": "cutting-boards"
     },
     {
-      "hash": "sha256:8aeca05fe2f8e50146c7d555057cb733a9db4a1b9a52c8e06d39d1238e9dab0a",
+      "hash": "sha256:ea57624e26eb4da55e393b94fd35f3c4e31c08d3959216cd85e0c662ec942247",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",

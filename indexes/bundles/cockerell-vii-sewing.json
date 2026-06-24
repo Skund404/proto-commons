@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:eb4c1d3dc17ac70bea6ed6588e2dca30ebdf8966c1ccdc382e2c86d3814aa664",
+  "content_hash": "sha256:92507e79dea6ca6a1831219ebbfd6e7b640d61f97bc271a002ac11d6c986449f",
   "description": {
     "en": "Chapter VII (Making up; Sewing; Materials for Sewing) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901)."
   },
@@ -86,7 +86,7 @@
       "slug": "marking-up"
     },
     {
-      "hash": "sha256:8bebdc144332bd1abae864344e8b8a8a1feee393cbdeb290ada6aade3b27ad73",
+      "hash": "sha256:6c1599615362b56e3577ae36547eaa29f6640c2922c85cc26a95544764f2f338",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",

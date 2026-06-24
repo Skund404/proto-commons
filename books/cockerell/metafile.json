@@ -98,7 +98,7 @@
             "fold up the sheets"
           ],
           "primitive": {
-            "hash": "sha256:177a5ff34ce053cca2b7af66919ef546cc3b2a7db0554f114bccc295d38fc366",
+            "hash": "sha256:9f4857ce709a1492655a40a6628ba41fd51be52dd692f7a163bdd6833a4a2173",
             "kind": "technique",
             "path": "primitives/techniques/folding.json",
             "slug": "folding"
@@ -127,7 +127,7 @@
             "guard"
           ],
           "primitive": {
-            "hash": "sha256:871f7b8e11d020586c4533e92300ff52eb462bc2d39fc9c92ca194a72110b286",
+            "hash": "sha256:aeb5d67d72dbe346dd93aaec5f1b8498d59dd4b54ef827e7648755f28e5c3e1a",
             "kind": "technique",
             "path": "primitives/techniques/guarding.json",
             "slug": "guarding"
@@ -394,7 +394,7 @@
             "guarding plates"
           ],
           "primitive": {
-            "hash": "sha256:871f7b8e11d020586c4533e92300ff52eb462bc2d39fc9c92ca194a72110b286",
+            "hash": "sha256:aeb5d67d72dbe346dd93aaec5f1b8498d59dd4b54ef827e7648755f28e5c3e1a",
             "kind": "technique",
             "path": "primitives/techniques/guarding.json",
             "slug": "guarding"
@@ -530,7 +530,7 @@
             "throwing out"
           ],
           "primitive": {
-            "hash": "sha256:63914b42b13519e90490038eb6372af8b773f9b4f924946e2aef222dd920fa92",
+            "hash": "sha256:aa9a95264faceb594d48b32e5daea1c98df9fc1dfca17787c33d2ee73e6ea0f2",
             "kind": "technique",
             "path": "primitives/techniques/throwing-out.json",
             "slug": "throwing-out"
@@ -1073,7 +1073,7 @@
             "zigzag"
           ],
           "primitive": {
-            "hash": "sha256:ded92d0434ba0e2ebe13cda2851be5e0c25d57270245f6d884ab8e22c111be28",
+            "hash": "sha256:6c5d597190a957c98df03b1d156ef1f5374c2007cd85c6f55b0e98a29cd2a4a9",
             "kind": "workflow",
             "path": "primitives/workflows/making-end-papers.json",
             "slug": "making-end-papers"
@@ -1335,7 +1335,7 @@
             "gilt"
           ],
           "primitive": {
-            "hash": "sha256:8fe9a8cdbf0ee8a688a56f39f77727a2cba91c74c92f5b750816f31b93ed11b3",
+            "hash": "sha256:2d53db8d7d805938071d17eeb2620f9d66f8deb5c0a927876718897622c60cbe",
             "kind": "technique",
             "path": "primitives/techniques/edge-gilding.json",
             "slug": "edge-gilding"
@@ -1567,7 +1567,7 @@
             "sewing"
           ],
           "primitive": {
-            "hash": "sha256:8bebdc144332bd1abae864344e8b8a8a1feee393cbdeb290ada6aade3b27ad73",
+            "hash": "sha256:6c1599615362b56e3577ae36547eaa29f6640c2922c85cc26a95544764f2f338",
             "kind": "technique",
             "path": "primitives/techniques/flexible-sewing.json",
             "slug": "flexible-sewing"
@@ -2104,7 +2104,7 @@
             "pair of compasses"
           ],
           "primitive": {
-            "hash": "sha256:8aeca05fe2f8e50146c7d555057cb733a9db4a1b9a52c8e06d39d1238e9dab0a",
+            "hash": "sha256:ea57624e26eb4da55e393b94fd35f3c4e31c08d3959216cd85e0c662ec942247",
             "kind": "tool",
             "path": "primitives/tools/compasses.json",
             "slug": "compasses"
@@ -2418,7 +2418,7 @@
             "gild the edges"
           ],
           "primitive": {
-            "hash": "sha256:8fe9a8cdbf0ee8a688a56f39f77727a2cba91c74c92f5b750816f31b93ed11b3",
+            "hash": "sha256:2d53db8d7d805938071d17eeb2620f9d66f8deb5c0a927876718897622c60cbe",
             "kind": "technique",
             "path": "primitives/techniques/edge-gilding.json",
             "slug": "edge-gilding"
@@ -2943,7 +2943,7 @@
             "mitred"
           ],
           "primitive": {
-            "hash": "sha256:58966af58f60eb4e1b5eff151ee40d632ca3ee54f75dc49fc9925c8dc899ac16",
+            "hash": "sha256:260a77141ba41cbdec09ba6a9043fb01572624334648b98366c6f242676548a3",
             "kind": "technique",
             "path": "primitives/techniques/mitring-corners.json",
             "slug": "mitring-corners"
@@ -3279,7 +3279,7 @@
             "gold tools"
           ],
           "primitive": {
-            "hash": "sha256:3bff5799411f0ada5a78623ebe54424d50a9c64f7c7e89c53c860a97be7f3c8f",
+            "hash": "sha256:138a244c5db6a468297070a8db7e85fc22a75c40652f0192535884b7b446c742",
             "kind": "tool",
             "path": "primitives/tools/finishing-tool.json",
             "slug": "finishing-tool"
@@ -3308,7 +3308,7 @@
             "gold tooling"
           ],
           "primitive": {
-            "hash": "sha256:8b9cabb151e5bc6a175eb95ef2be3a51f729f3f97755ba08d820d71bcd96a00c",
+            "hash": "sha256:d7946030fb9751531f4806be888d7b6b4eeb32b21583d49b2e82cc7665508db7",
             "kind": "technique",
             "path": "primitives/techniques/gold-tooling.json",
             "slug": "gold-tooling"
@@ -3595,7 +3595,7 @@
             "worked through the gold"
           ],
           "primitive": {
-            "hash": "sha256:8b9cabb151e5bc6a175eb95ef2be3a51f729f3f97755ba08d820d71bcd96a00c",
+            "hash": "sha256:d7946030fb9751531f4806be888d7b6b4eeb32b21583d49b2e82cc7665508db7",
             "kind": "technique",
             "path": "primitives/techniques/gold-tooling.json",
             "slug": "gold-tooling"
@@ -4055,7 +4055,7 @@
             "centre"
           ],
           "primitive": {
-            "hash": "sha256:49c33da219d0fcb12c077610ad66fbf00b3e5deb60ae189e9ef16ac17a8030ef",
+            "hash": "sha256:74d4ff94fa9e634df5067143f7bab909aeefd185b51f01d96831d82e4371baa1",
             "kind": "technique",
             "path": "primitives/techniques/combining-tools.json",
             "slug": "combining-tools"
@@ -4151,7 +4151,7 @@
             "grow up from panel to panel"
           ],
           "primitive": {
-            "hash": "sha256:49c33da219d0fcb12c077610ad66fbf00b3e5deb60ae189e9ef16ac17a8030ef",
+            "hash": "sha256:74d4ff94fa9e634df5067143f7bab909aeefd185b51f01d96831d82e4371baa1",
             "kind": "technique",
             "path": "primitives/techniques/combining-tools.json",
             "slug": "combining-tools"
@@ -4171,7 +4171,7 @@
             "tooled"
           ],
           "primitive": {
-            "hash": "sha256:49c33da219d0fcb12c077610ad66fbf00b3e5deb60ae189e9ef16ac17a8030ef",
+            "hash": "sha256:74d4ff94fa9e634df5067143f7bab909aeefd185b51f01d96831d82e4371baa1",
             "kind": "technique",
             "path": "primitives/techniques/combining-tools.json",
             "slug": "combining-tools"

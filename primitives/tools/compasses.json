@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:8aeca05fe2f8e50146c7d555057cb733a9db4a1b9a52c8e06d39d1238e9dab0a",
+  "content_hash": "sha256:ea57624e26eb4da55e393b94fd35f3c4e31c08d3959216cd85e0c662ec942247",
   "created": "2026-06-24",
   "description": "A pair of compasses used to step off or carry a fixed measurement, for example when setting the squares and judging how far a board should project beyond the leaves. The author lists it as a tool separate from dividers.",
   "emitter": "opg://commons-seed",
@@ -15,7 +15,15 @@
   "persistent": true,
   "properties": {
     "category": "marking",
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$137/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$137/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "compasses-fig48"
+      }
+    ],
     "names": {
       "en": [
         "compasses"

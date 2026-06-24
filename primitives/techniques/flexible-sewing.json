@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:8bebdc144332bd1abae864344e8b8a8a1feee393cbdeb290ada6aade3b27ad73",
+  "content_hash": "sha256:6c1599615362b56e3577ae36547eaa29f6640c2922c85cc26a95544764f2f338",
   "created": "2026-06-24",
   "description": "Sewing the sections of a book onto raised supports so the thread passes around each cord; this produces a flexible back that opens well and supports that can be laced into the boards.",
   "emitter": "opg://commons-seed",
@@ -14,7 +14,15 @@
   "opgl_version": "0.6",
   "persistent": false,
   "properties": {
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$110/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$110/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "flexible-sewing-fig29"
+      }
+    ],
     "names": {
       "en": [
         "flexible sewing",

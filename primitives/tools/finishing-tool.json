@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:3bff5799411f0ada5a78623ebe54424d50a9c64f7c7e89c53c860a97be7f3c8f",
+  "content_hash": "sha256:138a244c5db6a468297070a8db7e85fc22a75c40652f0192535884b7b446c742",
   "created": "2026-06-24",
   "description": "A metal stamp carrying an engraved or sunk device on its face, set in a wooden handle and heated for impressing patterns into a cover. Blind versions are cut like a seal so the recessed area prints the design, while gold versions print from the raised surface.",
   "emitter": "opg://commons-seed",
@@ -15,7 +15,15 @@
   "persistent": true,
   "properties": {
     "category": "finishing",
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$194/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$194/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "finishing-tool-fig79"
+      }
+    ],
     "names": {
       "en": [
         "finishing tool"

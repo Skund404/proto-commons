@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:871f7b8e11d020586c4533e92300ff52eb462bc2d39fc9c92ca194a72110b286",
+  "content_hash": "sha256:aeb5d67d72dbe346dd93aaec5f1b8498d59dd4b54ef827e7648755f28e5c3e1a",
   "created": "2026-06-24",
   "description": "Reinforcing or joining leaves and plates by pasting a narrow strip along the fold. Cockerell prefers the guard inside an outer pair to catch ragged edges and outside an inner pair to ease sewing, and he warns that stretching a pasted guard makes the sheet crinkle as it dries. Thick plates are pared at the back so the guards do not swell the spine.",
   "emitter": "opg://commons-seed",
@@ -14,7 +14,15 @@
   "opgl_version": "0.6",
   "persistent": false,
   "properties": {
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$64/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$64/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "guarding-fig13"
+      }
+    ],
     "names": {
       "en": [
         "guarding"

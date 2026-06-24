@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:ded92d0434ba0e2ebe13cda2851be5e0c25d57270245f6d884ab8e22c111be28",
+  "content_hash": "sha256:6c5d597190a957c98df03b1d156ef1f5374c2007cd85c6f55b0e98a29cd2a4a9",
   "created": "2026-06-24",
   "description": "Building a zigzag end paper so every leaf opens to the back and the structure yields to the drag of the cover. A folded sheet is marked and pasted up, folded back over the paste-down, and a further sheet inserted through which the sewing passes; a leather or cloth joint can be worked in at the same stage.",
   "emitter": "opg://commons-seed",
@@ -15,7 +15,15 @@
   "persistent": false,
   "properties": {
     "difficulty": "intermediate",
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$88/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$88/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "making-end-papers-fig19"
+      }
+    ],
     "names": {
       "en": [
         "making end papers"

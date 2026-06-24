@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:4bda6ed71f845243c6cb8a455fad128c139b60908ca883d45a244c905afcee6d",
+  "content_hash": "sha256:4eb0ced730521fdf787ed4754dc6b0603827bccb884e5fe66848412cde32513a",
   "description": {
     "en": "Chapter XIV (Decoration Tools Finishing Tooling on Vellum Inlaying on Leather) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901)."
   },
@@ -65,7 +65,7 @@
       "slug": "finishing-stove"
     },
     {
-      "hash": "sha256:3bff5799411f0ada5a78623ebe54424d50a9c64f7c7e89c53c860a97be7f3c8f",
+      "hash": "sha256:138a244c5db6a468297070a8db7e85fc22a75c40652f0192535884b7b446c742",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
@@ -107,7 +107,7 @@
       "slug": "gold-leaf"
     },
     {
-      "hash": "sha256:8b9cabb151e5bc6a175eb95ef2be3a51f729f3f97755ba08d820d71bcd96a00c",
+      "hash": "sha256:d7946030fb9751531f4806be888d7b6b4eeb32b21583d49b2e82cc7665508db7",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",

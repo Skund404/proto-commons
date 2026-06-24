@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:3b0c0acb713713654320903730a04ce63e325d67876508159d0a554649b2c56c",
+  "content_hash": "sha256:30c888f09dbcf5deaab6fc5cf1c7032fe4ec4da66af5fb89c6bb10c8e1706c30",
   "description": {
     "en": "Chapter XVI (Designing for Gold Tooled Decoration) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901)."
   },
@@ -16,7 +16,7 @@
       "slug": "building-a-diaper-pattern"
     },
     {
-      "hash": "sha256:49c33da219d0fcb12c077610ad66fbf00b3e5deb60ae189e9ef16ac17a8030ef",
+      "hash": "sha256:74d4ff94fa9e634df5067143f7bab909aeefd185b51f01d96831d82e4371baa1",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
