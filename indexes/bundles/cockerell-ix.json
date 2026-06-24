@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f538f9d745175cfb4d0c107861b8a557c0f98316e5ea9eaea2167e6b5aaefcec",
+  "content_hash": "sha256:03215e09d78515bea0ccda5d838676dd65cf0e906f24310ef1cb6f6cb2b8239f",
   "description": {
     "en": "Chapter IX (Cutting and Attaching Boards Cleaning off Back Pressing) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
   },
@@ -86,7 +86,7 @@
       "slug": "lining-paper"
     },
     {
-      "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+      "hash": "sha256:25b1741a4ed1ce17a34a00964a92f10ab5ae4fb6ec61aa080dac3d4ddb6b304c",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",

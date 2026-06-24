@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:5b9f1764fa701a7a7e14c1d352189b0d39de8b04c5500c864b0650ec826cb8cf",
+  "content_hash": "sha256:755ec144e29d5d5d9569e1fb127b505f9c471423418ed7708c0acb52b058dbd4",
   "created": "2026-06-24",
   "description": "Tapping the glued spine with a hammer while drawing it over the edge of the press, working both sides so the back takes an even convex curve. The aim is to distribute the swelling from the sewing thread into a permanent rounded form, judged to the needs of the particular book.",
   "emitter": "opg://commons-seed",
@@ -14,7 +14,15 @@
   "opgl_version": "0.6",
   "persistent": false,
   "properties": {
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$126/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$126/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "rounding-fig38"
+      }
+    ],
     "names": {
       "en": [
         "rounding"

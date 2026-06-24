@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:5a62fbccc918332aa5c6cb510f3e8ce9d90da1bdcf4154859a17fc6b1968e479",
+  "content_hash": "sha256:a0620d1518f85362e5f4ce371903c5e794ebcce9b2059a34b29f704eaab3f93e",
   "description": {
     "en": "Chapter VI (Trimming Edges before Sewing Edge Gilding) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
   },
@@ -93,7 +93,7 @@
       "slug": "gold-leaf"
     },
     {
-      "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+      "hash": "sha256:25b1741a4ed1ce17a34a00964a92f10ab5ae4fb6ec61aa080dac3d4ddb6b304c",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",

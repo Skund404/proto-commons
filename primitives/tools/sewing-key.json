@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:e269e4508c990e3a21f2514a1b7e43cef460cc55ce2dc70bb98f6350668c6712",
+  "content_hash": "sha256:1848c4d0295317b1584f88f8953e64bbf6911a38cfa302b29043904d6c3bb4e4",
   "created": "2026-06-24",
   "description": "A small slotted device that grips a sewing cord from beneath the bed of the sewing frame and anchors it under tension, so each support stays vertical and evenly strained during sewing.",
   "emitter": "opg://commons-seed",
@@ -15,7 +15,15 @@
   "persistent": true,
   "properties": {
     "category": "binding",
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$107/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$107/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "sewing-key-fig28"
+      }
+    ],
     "names": {
       "en": [
         "sewing key"

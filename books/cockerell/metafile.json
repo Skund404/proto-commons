@@ -372,7 +372,7 @@
             "lying press"
           ],
           "primitive": {
-            "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+            "hash": "sha256:25b1741a4ed1ce17a34a00964a92f10ab5ae4fb6ec61aa080dac3d4ddb6b304c",
             "kind": "tool",
             "path": "primitives/tools/lying-press.json",
             "slug": "lying-press"
@@ -872,7 +872,7 @@
             "lying press"
           ],
           "primitive": {
-            "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+            "hash": "sha256:25b1741a4ed1ce17a34a00964a92f10ab5ae4fb6ec61aa080dac3d4ddb6b304c",
             "kind": "tool",
             "path": "primitives/tools/lying-press.json",
             "slug": "lying-press"
@@ -1349,7 +1349,7 @@
             "lying press"
           ],
           "primitive": {
-            "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+            "hash": "sha256:25b1741a4ed1ce17a34a00964a92f10ab5ae4fb6ec61aa080dac3d4ddb6b304c",
             "kind": "tool",
             "path": "primitives/tools/lying-press.json",
             "slug": "lying-press"
@@ -1532,7 +1532,7 @@
             "lying press"
           ],
           "primitive": {
-            "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+            "hash": "sha256:25b1741a4ed1ce17a34a00964a92f10ab5ae4fb6ec61aa080dac3d4ddb6b304c",
             "kind": "tool",
             "path": "primitives/tools/lying-press.json",
             "slug": "lying-press"
@@ -1599,7 +1599,7 @@
             "key"
           ],
           "primitive": {
-            "hash": "sha256:e269e4508c990e3a21f2514a1b7e43cef460cc55ce2dc70bb98f6350668c6712",
+            "hash": "sha256:1848c4d0295317b1584f88f8953e64bbf6911a38cfa302b29043904d6c3bb4e4",
             "kind": "tool",
             "path": "primitives/tools/sewing-key.json",
             "slug": "sewing-key"
@@ -1646,7 +1646,7 @@
             "weavers knot"
           ],
           "primitive": {
-            "hash": "sha256:02abc50926bc93d31e3a5e370314ea2f3af2d814167f97e1bb4868460d4f7b33",
+            "hash": "sha256:2cc735c47ec904ab96d107399d925b852bc809950224e298fb7466931138c555",
             "kind": "technique",
             "path": "primitives/techniques/weavers-knot.json",
             "slug": "weavers-knot"
@@ -1834,7 +1834,7 @@
             "the press"
           ],
           "primitive": {
-            "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+            "hash": "sha256:25b1741a4ed1ce17a34a00964a92f10ab5ae4fb6ec61aa080dac3d4ddb6b304c",
             "kind": "tool",
             "path": "primitives/tools/lying-press.json",
             "slug": "lying-press"
@@ -1900,7 +1900,7 @@
             "convex"
           ],
           "primitive": {
-            "hash": "sha256:5b9f1764fa701a7a7e14c1d352189b0d39de8b04c5500c864b0650ec826cb8cf",
+            "hash": "sha256:755ec144e29d5d5d9569e1fb127b505f9c471423418ed7708c0acb52b058dbd4",
             "kind": "technique",
             "path": "primitives/techniques/rounding.json",
             "slug": "rounding"
@@ -1916,7 +1916,7 @@
             "groove"
           ],
           "primitive": {
-            "hash": "sha256:a63937971f0877e868db57814f3c01c4e98cb046c23c3297ecbc800451b08f61",
+            "hash": "sha256:5be6e9cd80e53308c179193806565e07f6f0b0595ef9357871ec9b09a8f1cbff",
             "kind": "technique",
             "path": "primitives/techniques/backing.json",
             "slug": "backing"
@@ -1961,7 +1961,7 @@
             "the press"
           ],
           "primitive": {
-            "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+            "hash": "sha256:25b1741a4ed1ce17a34a00964a92f10ab5ae4fb6ec61aa080dac3d4ddb6b304c",
             "kind": "tool",
             "path": "primitives/tools/lying-press.json",
             "slug": "lying-press"
@@ -2075,7 +2075,7 @@
             "press"
           ],
           "primitive": {
-            "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+            "hash": "sha256:25b1741a4ed1ce17a34a00964a92f10ab5ae4fb6ec61aa080dac3d4ddb6b304c",
             "kind": "tool",
             "path": "primitives/tools/lying-press.json",
             "slug": "lying-press"
@@ -2314,7 +2314,7 @@
             "lying  press"
           ],
           "primitive": {
-            "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+            "hash": "sha256:25b1741a4ed1ce17a34a00964a92f10ab5ae4fb6ec61aa080dac3d4ddb6b304c",
             "kind": "tool",
             "path": "primitives/tools/lying-press.json",
             "slug": "lying-press"
@@ -2715,7 +2715,7 @@
             "press"
           ],
           "primitive": {
-            "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+            "hash": "sha256:25b1741a4ed1ce17a34a00964a92f10ab5ae4fb6ec61aa080dac3d4ddb6b304c",
             "kind": "tool",
             "path": "primitives/tools/lying-press.json",
             "slug": "lying-press"
@@ -3322,7 +3322,7 @@
             "gouges"
           ],
           "primitive": {
-            "hash": "sha256:a7af2dcd470738bc5bf0dddc71c1b85ff17d57be08d9e1022f64c6451f94bcf0",
+            "hash": "sha256:be62a55fbde45b906e6cd835ba45fcbfc3f93ead1e2068e660fed61e88ce4fd1",
             "kind": "tool",
             "path": "primitives/tools/gouge.json",
             "slug": "gouge"
@@ -3433,7 +3433,7 @@
             "press"
           ],
           "primitive": {
-            "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+            "hash": "sha256:25b1741a4ed1ce17a34a00964a92f10ab5ae4fb6ec61aa080dac3d4ddb6b304c",
             "kind": "tool",
             "path": "primitives/tools/lying-press.json",
             "slug": "lying-press"
@@ -3870,7 +3870,7 @@
             "gouges"
           ],
           "primitive": {
-            "hash": "sha256:a7af2dcd470738bc5bf0dddc71c1b85ff17d57be08d9e1022f64c6451f94bcf0",
+            "hash": "sha256:be62a55fbde45b906e6cd835ba45fcbfc3f93ead1e2068e660fed61e88ce4fd1",
             "kind": "tool",
             "path": "primitives/tools/gouge.json",
             "slug": "gouge"
@@ -4002,7 +4002,7 @@
             "gouge"
           ],
           "primitive": {
-            "hash": "sha256:a7af2dcd470738bc5bf0dddc71c1b85ff17d57be08d9e1022f64c6451f94bcf0",
+            "hash": "sha256:be62a55fbde45b906e6cd835ba45fcbfc3f93ead1e2068e660fed61e88ce4fd1",
             "kind": "tool",
             "path": "primitives/tools/gouge.json",
             "slug": "gouge"
@@ -4101,7 +4101,7 @@
             "gouge"
           ],
           "primitive": {
-            "hash": "sha256:a7af2dcd470738bc5bf0dddc71c1b85ff17d57be08d9e1022f64c6451f94bcf0",
+            "hash": "sha256:be62a55fbde45b906e6cd835ba45fcbfc3f93ead1e2068e660fed61e88ce4fd1",
             "kind": "tool",
             "path": "primitives/tools/gouge.json",
             "slug": "gouge"

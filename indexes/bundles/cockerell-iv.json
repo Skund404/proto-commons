@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:b2f8a9a32cfe642f239a94ca8f0b4c26531130a315310daa79f31296c47e9882",
+  "content_hash": "sha256:54befefe426f1fe0bb82add7a84cdfd0b6006db74d90229af66bca2a8549ee2c",
   "description": {
     "en": "Chapter IV (Sizing Washing Mending) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
   },
@@ -23,7 +23,7 @@
       "slug": "gelatine-size"
     },
     {
-      "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+      "hash": "sha256:25b1741a4ed1ce17a34a00964a92f10ab5ae4fb6ec61aa080dac3d4ddb6b304c",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",

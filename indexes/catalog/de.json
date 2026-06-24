@@ -408,7 +408,7 @@
       "descSnippet": "Forming the joint shoulder by clamping the rounded textblock between bevelled boards in the press and fanning the section folds outward from the centre with glancing hammer blows. This riveting…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:a63937971f0877e868db57814f3c01c4e98cb046c23c3297ecbc800451b08f61",
+      "hash": "sha256:5be6e9cd80e53308c179193806565e07f6f0b0595ef9357871ec9b09a8f1cbff",
       "path": "primitives/techniques/backing.json",
       "lineageState": "unasserted"
     },
@@ -4695,7 +4695,7 @@
       "descSnippet": "A curved-line finishing tool made in graduated sets matching arcs of concentric circles, used to tool curved segments of a design.",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:a7af2dcd470738bc5bf0dddc71c1b85ff17d57be08d9e1022f64c6451f94bcf0",
+      "hash": "sha256:be62a55fbde45b906e6cd835ba45fcbfc3f93ead1e2068e660fed61e88ce4fd1",
       "path": "primitives/tools/gouge.json",
       "lineageState": "unasserted"
     },
@@ -6359,7 +6359,7 @@
       "descSnippet": "A large screw-operated press that holds a book firmly between its cheeks for edge work and for marking up the back; here it steadies the book square while the band positions are laid out.",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+      "hash": "sha256:25b1741a4ed1ce17a34a00964a92f10ab5ae4fb6ec61aa080dac3d4ddb6b304c",
       "path": "primitives/tools/lying-press.json",
       "lineageState": "unasserted"
     },
@@ -9016,7 +9016,7 @@
       "descSnippet": "Tapping the glued spine with a hammer while drawing it over the edge of the press, working both sides so the back takes an even convex curve. The aim is to distribute the swelling from the sewing…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:5b9f1764fa701a7a7e14c1d352189b0d39de8b04c5500c864b0650ec826cb8cf",
+      "hash": "sha256:755ec144e29d5d5d9569e1fb127b505f9c471423418ed7708c0acb52b058dbd4",
       "path": "primitives/techniques/rounding.json",
       "lineageState": "unasserted"
     },
@@ -9430,7 +9430,7 @@
       "descSnippet": "A small slotted device that grips a sewing cord from beneath the bed of the sewing frame and anchors it under tension, so each support stays vertical and evenly strained during sewing.",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:e269e4508c990e3a21f2514a1b7e43cef460cc55ce2dc70bb98f6350668c6712",
+      "hash": "sha256:1848c4d0295317b1584f88f8953e64bbf6911a38cfa302b29043904d6c3bb4e4",
       "path": "primitives/tools/sewing-key.json",
       "lineageState": "unasserted"
     },
@@ -11496,7 +11496,7 @@
       "descSnippet": "A compact, secure knot used to join a new length of sewing thread to the old without slipping, so a sewing run continues without a weak point.",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:02abc50926bc93d31e3a5e370314ea2f3af2d814167f97e1bb4868460d4f7b33",
+      "hash": "sha256:2cc735c47ec904ab96d107399d925b852bc809950224e298fb7466931138c555",
       "path": "primitives/techniques/weavers-knot.json",
       "lineageState": "unasserted"
     },

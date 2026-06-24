@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:801b79e293187372bd97b018f2485292548bfcb0a96eababe4bb0e50a5434584",
+  "content_hash": "sha256:3d6c5b33a1dbd8f6f36745beda81c157d3926efed203e49be994e066f9d7eb17",
   "description": {
     "en": "Chapter XV (Lettering Blind Tooling Heraldic Ornament) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
   },
@@ -72,7 +72,7 @@
       "slug": "gold-leaf"
     },
     {
-      "hash": "sha256:a7af2dcd470738bc5bf0dddc71c1b85ff17d57be08d9e1022f64c6451f94bcf0",
+      "hash": "sha256:be62a55fbde45b906e6cd835ba45fcbfc3f93ead1e2068e660fed61e88ce4fd1",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:07ef4e5d7456b315178b9c0737599d44079f316ec326d896c8f0ba8f08eb6bba",
+  "content_hash": "sha256:c768a9a8911195ddb01cbd76e4d6408cb3f43d7aafb3350d7652edc47a3deea5",
   "description": {
     "en": "Chapter VII (Making up; Sewing; Materials for Sewing) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
   },
@@ -16,14 +16,14 @@
       "slug": "sewing-frame"
     },
     {
-      "hash": "sha256:e269e4508c990e3a21f2514a1b7e43cef460cc55ce2dc70bb98f6350668c6712",
+      "hash": "sha256:1848c4d0295317b1584f88f8953e64bbf6911a38cfa302b29043904d6c3bb4e4",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "sewing-key"
     },
     {
-      "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+      "hash": "sha256:25b1741a4ed1ce17a34a00964a92f10ab5ae4fb6ec61aa080dac3d4ddb6b304c",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
@@ -114,7 +114,7 @@
       "slug": "kettle-stitch"
     },
     {
-      "hash": "sha256:02abc50926bc93d31e3a5e370314ea2f3af2d814167f97e1bb4868460d4f7b33",
+      "hash": "sha256:2cc735c47ec904ab96d107399d925b852bc809950224e298fb7466931138c555",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",

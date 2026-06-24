@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:02abc50926bc93d31e3a5e370314ea2f3af2d814167f97e1bb4868460d4f7b33",
+  "content_hash": "sha256:2cc735c47ec904ab96d107399d925b852bc809950224e298fb7466931138c555",
   "created": "2026-06-24",
   "description": "A compact, secure knot used to join a new length of sewing thread to the old without slipping, so a sewing run continues without a weak point.",
   "emitter": "opg://commons-seed",
@@ -14,7 +14,15 @@
   "opgl_version": "0.6",
   "persistent": false,
   "properties": {
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$107/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$107/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "weavers-knot-fig28"
+      }
+    ],
     "names": {
       "en": [
         "weaver's knot"

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:a7af2dcd470738bc5bf0dddc71c1b85ff17d57be08d9e1022f64c6451f94bcf0",
+  "content_hash": "sha256:be62a55fbde45b906e6cd835ba45fcbfc3f93ead1e2068e660fed61e88ce4fd1",
   "created": "2026-06-24",
   "description": "A curved-line finishing tool made in graduated sets matching arcs of concentric circles, used to tool curved segments of a design.",
   "emitter": "opg://commons-seed",
@@ -15,7 +15,15 @@
   "persistent": true,
   "properties": {
     "category": "finishing",
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$195/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$195/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "gouge-fig80"
+      }
+    ],
     "names": {
       "en": [
         "gouge",

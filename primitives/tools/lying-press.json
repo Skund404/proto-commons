@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+  "content_hash": "sha256:25b1741a4ed1ce17a34a00964a92f10ab5ae4fb6ec61aa080dac3d4ddb6b304c",
   "created": "2026-06-24",
   "description": "A large screw-operated press that holds a book firmly between its cheeks for edge work and for marking up the back; here it steadies the book square while the band positions are laid out.",
   "emitter": "opg://commons-seed",
@@ -15,7 +15,15 @@
   "persistent": true,
   "properties": {
     "category": "binding",
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$134/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$134/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "lying-press-fig46"
+      }
+    ],
     "names": {
       "en": [
         "lying press"
