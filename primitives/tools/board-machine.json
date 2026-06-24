@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:50d459982aa5026fcb8e6765be7484b402598464322248d7d931a11461f5864b",
+  "content_hash": "sha256:b8516684ccd55ec996f8a23e7206820339e7b1953249053efbd53d71fb50d60f",
   "created": "2026-06-24",
   "description": "Machine for quickly squaring many boards at once. Cockerell notes its edge is less true than one cut by the plough, so it suits only cheaper work.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter IX, p.124. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/124"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

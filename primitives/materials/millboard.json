@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:6fe26284e0a5ba509fb6bc9b3eef4090b08f4f4ac4d4503fcf682d0bbabcb21d",
+  "content_hash": "sha256:3f4a8036d4684d96ec4b2f0e4f3a69029a7d7437725ab229f832cfd47aafa785",
   "created": "2026-06-24",
   "description": "Dense compressed board, the better grades pressed from old rope fibre, used as the stiff cover support of a bound book. Valued for hardness and resistance to bending or cracking at the corners, with thickness chosen to suit the size and weight of the volume.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter IX, p.124. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/124"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

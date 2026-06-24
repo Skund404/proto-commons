@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f0be46b427eacd6bbcc5741945c5f92eafb7abbad196c8c7b60908028c55aa9a",
+  "content_hash": "sha256:cbacb88ece1bc626763ca351311777b87be0f68340f1e28c06bd37029cad9e3f",
   "created": "2026-06-24",
   "description": "A clear sizing solution made by dissolving isinglass or good gelatine in water, used warm to re-strengthen weakened paper and to carry staining colour. Cockerell notes that quality matters: pure gelatine yields a clear, odourless solution, while impure stock smells foul and turns gluey.",
   "emitter": "opg://commons-seed",
@@ -24,6 +24,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter IV, p.67. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/67"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

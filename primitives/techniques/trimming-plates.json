@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:9df9bb5c80d86c545956b3b9a61f252ce9b65e60a94182c15359b93b6e0e7eeb",
+  "content_hash": "sha256:5ebc87fcb8d9ce66114591682177cd5c658fad629aee4a5a64a745684a93bec0",
   "created": "2026-06-24",
   "description": "Cutting the margins of plates with judgment so they sit square and their proportions match the printed pages they face, leaving a plate short rather than crooked.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
     },
     "skillLevel": "intermediate",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter II, p.40. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/40"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

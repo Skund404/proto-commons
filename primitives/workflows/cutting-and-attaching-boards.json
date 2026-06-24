@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:4432c1b602c7f5948696e39b3782ea8b16b5f96d4d429a78a038f8f8ed784284",
+  "content_hash": "sha256:3bfc378abe5dce12f9bd7aec61d48f81787ca3f166818f0e7b1cb46577b0d4f1",
   "created": "2026-06-24",
   "description": "End-to-end procedure for fitting cover boards to a sewn book: cutting the boards square, lining them, marking and punching for the cords, lacing them in and hammering flat, then cleaning off the back and pressing the volume to set its shape.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter IX, p.124. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/124"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

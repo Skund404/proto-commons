@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:ae47da940085fc119bc1458f887f323b8dbcb82b6db94ece9fa062801af5572e",
+  "content_hash": "sha256:fb79d317912094389bb68b6f124d9f55d2ceac5a423b776a116c2541def14b1b",
   "created": "2026-06-24",
   "description": "A heavy fixed press, screwed down by hand, in which piles of sections or finished books are left under sustained pressure to set them solid. The iron form is tightened with a short then a long bar; the French form drives the screw with a weighted spinning wheel that also hammers the work tight.",
   "emitter": "opg://commons-seed",
@@ -30,6 +30,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter V, p.89. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/89"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

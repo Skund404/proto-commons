@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:8702c903d5dd194d066c639f4e64fd3ad16efc490925e8de77aa0ba3fa852d32",
+  "content_hash": "sha256:c00a565e88602a18ff9811da97165151b712969d9bb56e1d9965e16275dc9a1c",
   "created": "2026-06-24",
   "description": "A light grease wiped sparingly on cover and hand so cotton wool will pick up and release gold leaf. Cockerell found it stains leather less than other greases bookbinders use and washes out readily with benzine.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIV, p.188. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/188"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

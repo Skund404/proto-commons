@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:c393e2adf085eeb87583454dd8c2ddabe97fbd35b17cac38fbb4bb96d7173bbe",
+  "content_hash": "sha256:c8021a6d5872a2ffb390ca697f0e830dec06163a264ca47e7fbcfa0995b6a50a",
   "created": "2026-06-24",
   "description": "A weak adhesive sizing made from beaten egg white thinned with water, left to settle and strained before use. Floated onto a prepared edge, it provides the tack that fixes gold leaf in place; one part egg white to four parts water is a typical proportion.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VI, p.96. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/96"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

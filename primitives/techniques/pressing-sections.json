@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:0d3dde0d32aa1b61360aef4fde244a96c1bca856b6ba14542f198cb87d067e81",
+  "content_hash": "sha256:ee8c9bf178bedcf0389e32add53ede72a4c0a173696362a3e764cb40e09db18e",
   "created": "2026-06-24",
   "description": "Stacking the gathered sections between tins and boards and leaving them under heavy pressure, often overnight, so the leaves lie flat and close and the book becomes solid. Freshly printed plates and vellum leaves are protected or left unpressed to avoid set-off.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
     },
     "skillLevel": "beginner",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter V, p.80. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/80"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

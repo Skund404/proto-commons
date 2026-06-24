@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:c16f9df6e3d863a3685a88e708258dc52076ea2b408d17bb116cfeff7d72a680",
+  "content_hash": "sha256:c0408a8c70af2f410378014c28464a04db6e9da126f9955f93a471cf3b830903",
   "created": "2026-06-24",
   "description": "A clay-loaded, glazed printing paper that takes fine halftone impressions but handles poorly: Cockerell records it as fragile, prone to flaking and staining, and unsuitable for books meant to last.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter II, p.48. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/48"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

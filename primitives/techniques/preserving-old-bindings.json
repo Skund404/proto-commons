@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:3ad41b1ef4c1185fe8dcf35c626f246f42be77245d4ec173e946447bc1fb199f",
+  "content_hash": "sha256:57e3d332deacaac8da4ff269256f6d65d6cbc7e575acc522f784b312e3eb10ab",
   "created": "2026-06-24",
   "description": "Routine maintenance dressing applied to aged leather bindings to keep the covering supple and slow deterioration. A light, non-staining, non-tacky preservative is worked sparingly into the surface with a soft cloth, concentrating on the spine and hinge areas where flexing is greatest. Cockerell argues that frequent handling and a thin oily film prolong leather life far better than hard coatings, which crack at the joint.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
     },
     "skillLevel": "beginner",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XXII, p.303. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/303"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

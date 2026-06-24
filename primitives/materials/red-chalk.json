@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:21004f66e14700e6673fd2c75007cd4150e547c8161622246af81f49555d1f77",
+  "content_hash": "sha256:2665d237120d51b6c2fa7c1d09b116aa170c5fb6369851ee4c7f0c202b38e2a2",
   "created": "2026-06-24",
   "description": "A reddish chalk ground with water into a thick paste and brushed over an edge before gilding. It fills minor irregularities and gives a smooth even ground that helps the gold lie flat and burnish to a solid colour.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VI, p.96. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/96"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

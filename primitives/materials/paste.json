@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+  "content_hash": "sha256:3aa5fe58004f1bcc81f08154128863a3a38d720d332461f11771cc103f7cbcd8",
   "created": "2026-06-24",
   "description": "A water-thinned flour adhesive used for covering and for sticking down paper and leather. A little alum extends its life and corrosive sublimate may be added in tiny proportion to deter insects. It is mixed thin like cream for paper and thicker for leather, and must never be used once it has soured.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XX, p.280. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/280"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

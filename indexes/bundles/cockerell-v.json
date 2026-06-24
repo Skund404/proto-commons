@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:5741446f140e58140430883693ecee8e91268c602b22c16d74c8aea9a1686487",
+  "content_hash": "sha256:524722a419c418a30585223ff86a191399cce9fd32584dcda0a5b13f2368b26c",
   "description": {
     "en": "Chapter V (End Papers Leather Joints Pressing) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
   },
@@ -9,84 +9,84 @@
   "ia_item": "bookbindingcareo00cockrich",
   "items": [
     {
-      "hash": "sha256:1a3cbc241c2d49b8a42350bc23550118b68a985b7cc136d916d39500783f70f5",
+      "hash": "sha256:a1742e5949bbf5b4f37a8e3436002b6844bb1f544283a1744258d0895f3f2169",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "beating"
     },
     {
-      "hash": "sha256:ccb60343bc1a07579a24398aeae65f02a3fbe6d0e8777561b6f636dcc39a3ef2",
+      "hash": "sha256:cf09ee5d49371e8a89755e4244c36234b7a3e97b7599571cb9d8ddc313d6f31f",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "cloth-joint"
     },
     {
-      "hash": "sha256:6eb3ee82e0a4d97ff5a8df7ac17a75f26712deb6b6aec5d3905cd0ef048f3e58",
+      "hash": "sha256:bbb75482e59a4ac5a3d28cdf10b8225104abaac5f5cfd7155b60d4615dd82072",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "end-paper"
     },
     {
-      "hash": "sha256:65d86011558ce47e26496489300954d2322bb92669d364bba43927be4f7c4eab",
+      "hash": "sha256:949d5d421b10810df341b3bf11dcffdf785a84326dfd5f3c9d9801b040fe253b",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "leather-joint"
     },
     {
-      "hash": "sha256:94673b3b041176a3d01f0ea8c1e9a5c1d3686d5b545f4e4c426d23cc0f1bc2d3",
+      "hash": "sha256:22efdee89cf1a0d04bdfc1a17cdb85e96a5995a9ed91683fdc53188d3eeb4b74",
       "kind": "workflow",
       "record_class": "primitive",
       "role": "required",
       "slug": "making-end-papers"
     },
     {
-      "hash": "sha256:c55a770ebc42780067a979ef66b21eabc8fae5be8b4364bd17a2ab76b6164a24",
+      "hash": "sha256:83866b4a1ebcb6e6052956fc472c9b6ff76b7e64d05f1ed74ab18614ac16a322",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "marbled-paper"
     },
     {
-      "hash": "sha256:00d3fda3d4f816530033fdd964958b6ce3b5eca3b56db29adc6f82fa2d115d14",
+      "hash": "sha256:5b4a3d280e7a45e146146f35bda7f0eabdf48d44f44328198afa8c53a3b332fb",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "pressing-board"
     },
     {
-      "hash": "sha256:0d3dde0d32aa1b61360aef4fde244a96c1bca856b6ba14542f198cb87d067e81",
+      "hash": "sha256:ee8c9bf178bedcf0389e32add53ede72a4c0a173696362a3e764cb40e09db18e",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "pressing-sections"
     },
     {
-      "hash": "sha256:c2f779ec3d32d4e808003e73ed486b451852f08f9d1dab7085a6deb9f73de555",
+      "hash": "sha256:3e4e140dc350534173d245c23226a9d53f4da5f3cb2018482799628fad3658ca",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "pressing-tin"
     },
     {
-      "hash": "sha256:6b1467879500fe8766675841cd140a0e58bdd6612238274b3274874fd6f0ffcb",
+      "hash": "sha256:a76f9de2e8aea7a13c396a1b8a20f16b31d31bea075b7e78c56e16dd80f0e61f",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "silk-end"
     },
     {
-      "hash": "sha256:ae47da940085fc119bc1458f887f323b8dbcb82b6db94ece9fa062801af5572e",
+      "hash": "sha256:fb79d317912094389bb68b6f124d9f55d2ceac5a423b776a116c2541def14b1b",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "standing-press"
     },
     {
-      "hash": "sha256:b00688cd422fa30ddd66b290f2af9b0684e005f74893a3c7b18827920313e6ff",
+      "hash": "sha256:a6f1f66055cf79ec37094b57e140dcf94b46c8677f7b75431c83c7cf39928392",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",

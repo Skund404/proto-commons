@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:7d85142fecd86c3ddd0ac8f39de29d1d3525e58458c6c1205be4b4cc0716ec08",
+  "content_hash": "sha256:3d43c3f081a63ec671c64dbe63996b080596efb6776576e05b7b93d01ac7de65",
   "created": "2026-06-24",
   "description": "A smooth flat hand implement, traditionally of bone, used to crease folds sharply, smooth paper, and tease sections apart without tearing the paper.",
   "emitter": "opg://commons-seed",
@@ -31,6 +31,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter II, p.38. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/38"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

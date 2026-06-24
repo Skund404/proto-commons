@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:05269bcaf6395d68800d012bdda89691fc79076a071058345ff922f7bcb9258a",
+  "content_hash": "sha256:85da299747c4cda7ca2981efd41aed1e1362a600c5ca9337324c69db0f26dbcd",
   "created": "2026-06-24",
   "description": "Measures for protecting shelved books from boring larvae and other vermin that feed on the glue, paste, and leather of bindings. Repellent substances are kept in the bookcase, infested volumes are isolated and treated to kill any hatched insects, and the treatment is repeated at intervals because eggs survive a single application. Cockerell warns that reusing old worm-bearing boards in re-covering reintroduces the infestation.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
     },
     "skillLevel": "intermediate",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XXI, p.298. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/298"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

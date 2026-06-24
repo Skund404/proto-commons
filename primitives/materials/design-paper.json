@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:0bf99959a8b0add521455ee4b738c2ab5057d86fec267cc1c65eb1b1fd1678ad",
+  "content_hash": "sha256:a8ec3b12cf862f9bf3867407b96d57c1011549092fc6390397431c7885598c0d",
   "created": "2026-06-24",
   "description": "Thin white paper used to draft and lay out a tooling design at the size of the cover. Construction lines are creased into it by folding, motifs are pencilled or transferred by rubbing, and the finished layout guides where tools are impressed on the leather.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XVI, p.230. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/230"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

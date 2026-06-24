@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:fd937e70aed5783972b6136ac5d7acbc2e14aa9ba3e716049a6e6a8d2682a057",
+  "content_hash": "sha256:0843bfebfb0c2da5d1c3d64f0f13a042835331161e8ada85bc3c9cd7ae924eb9",
   "created": "2026-06-24",
   "description": "A soft handheld brush of feathers used to flick dust from the exterior of a closed volume without abrading the covering. Its gentle action lifts surface grit while avoiding the friction that would mark delicate leather or cloth.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XXI, p.291. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/291"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

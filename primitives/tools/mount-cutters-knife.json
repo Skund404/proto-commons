@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:1987312410f3405c6cf62f03f73b52b3d32f2bed9e0be5e5b86c23a8071895b6",
+  "content_hash": "sha256:30e293352a05a6270dc945e05b548c2af3799375bd32f6176ba14ec9fb2a87d5",
   "created": "2026-06-24",
   "description": "A short rigid blade set in a handle, designed for slicing card and paper cleanly against a straight-edge. The shape lets the worker bear down on the guide while keeping a controlled, shallow cut.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter III, p.53. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/53"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:ec935fa8c7fcd2caf9ee6e4e4dadaeb4387668cc8ffcd35d06d71bb4c6429fc4",
+  "content_hash": "sha256:d448b9b127b2a394d12f3627f498590f418433435d445643b9d5f06490fc1166",
   "created": "2026-06-24",
   "description": "A short segment of a roll or fillet mounted in a handle, used mainly to run lines or small ornaments across the back of a book.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIV, p.189. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/189"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

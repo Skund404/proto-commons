@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:607632ea26fa91c30171ca006f380ec5463ff2e0f5b25b58fc7f983964866f1e",
+  "content_hash": "sha256:82ba78d37ebc24da489ef2fc0cb053d076a30b8ff66abb6debf8d15dfdc59dda",
   "created": "2026-06-24",
   "description": "Attaching loose items such as letters, prints, or drawings into a blank book. Items may be inlaid, hinged on paper guards, or pasted at the edges only; pencil work is fixed with size and torn edges reinforced with thin tissue.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
     },
     "skillLevel": "intermediate",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIII, p.175. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/175"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

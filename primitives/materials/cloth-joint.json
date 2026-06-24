@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:ccb60343bc1a07579a24398aeae65f02a3fbe6d0e8777561b6f636dcc39a3ef2",
+  "content_hash": "sha256:cf09ee5d49371e8a89755e4244c36234b7a3e97b7599571cb9d8ddc313d6f31f",
   "created": "2026-06-24",
   "description": "A strip of linen or cloth set into the inner hinge in place of leather. Because it can be thinner while still holding, it gives a stronger joint than a leather one, though with a plainer appearance.",
   "emitter": "opg://commons-seed",
@@ -24,6 +24,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter V, p.88. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/88"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

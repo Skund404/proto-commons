@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:54e248fae41073f7ffd2b90493f4fcec41e85de0fea73ec8d053c08229fdf0b3",
+  "content_hash": "sha256:feb6f7104c9e53355cdcb88f725d04ffeacd58def74014216dd3f1379023a28b",
   "created": "2026-06-24",
   "description": "The hand process of building a sewn headband by looping coloured silk over a vellum, gut, or string core and crossing the strands to form a beaded ridge at the head and tail of a book. The worker keeps the bead tight and low on the leaves, tying the band down into the sections at intervals so it grips the spine and resists strain.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
     },
     "skillLevel": "advanced",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XI, p.147. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/147"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

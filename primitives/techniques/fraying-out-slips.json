@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:ff47f015dd4abd9ce2bde238e366c0df58cbdca6aa5cc71bbda2c9018524b616",
+  "content_hash": "sha256:d8a7f1bedab366516d99608a1cee7f776830cae2b2eada9b86798ed31e935363",
   "created": "2026-06-24",
   "description": "Trimming the cord ends that project from a sewn book to a couple of inches and teasing the strands apart into a fan of loose fibres. The spread fibres later attach smoothly to the boards. Tape and vellum bands are simply cut to length instead.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
     },
     "skillLevel": "beginner",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VIII, p.114. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/114"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

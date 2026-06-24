@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:8ec445696dbad2c1e359fd23e9b8b41e85f38dd01cc02fc32b0ced9fa899e11a",
+  "content_hash": "sha256:bcf1d16a7a5b7d52150976efa58473a1837614f5c603498dde79903aeae5e4ce",
   "created": "2026-06-24",
   "description": "A very sharp thin-bladed knife used to shave the edge of paper or a plate down to a feathered thinness. Drawing the edge along a surface raises a burr that lets the blade skim almost flat while removing a fine shaving.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter III, p.53. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/53"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

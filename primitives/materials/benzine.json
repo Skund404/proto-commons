@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:2ad6fc3cefcd5dbf27544a4824575bca3d24460f850a3c27c2809dfbebba40cc",
+  "content_hash": "sha256:0f8317292bf43497999164ba7e704132215234296cd47e06c44a66e03e63efd0",
   "created": "2026-06-24",
   "description": "A volatile solvent used to wash grease and loose gold from a finished cover, and as a brief tack medium for laying gold during patching.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIV, p.201. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/201"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:5a812805e9c759f02854675aed7e19c9655a2dd623a8409af342a02e627d16af",
+  "content_hash": "sha256:e87e517f0e58ca1cee9993413c69b8614b54e54ae2bdb3d2e87cc1075a9704f7",
   "created": "2026-06-24",
   "description": "Gold beaten into extremely thin sheets, applied to the trimmed edges of a book to give a bright protective surface. The fragile leaf is cut to width on a cushion, lifted with a tip, and laid onto an edge that has been prepared with size and glaire.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VI, p.96. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/96"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

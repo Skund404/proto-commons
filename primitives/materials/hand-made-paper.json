@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:940a692ab1992a19fd9994ed80bd664f9fa27d6f5301a54671fe9f4c85bdca50",
+  "content_hash": "sha256:8d16efffd9916cfa940934bc8f6140fdd32e5b0d5c4b2aa70a84e47a535f76c2",
   "created": "2026-06-24",
   "description": "Sheet formed individually on a wire mould, carrying a ragged untrimmed deckle edge and usually a high rag-fibre content. Cockerell treats the hand process as a rough guarantee of fibre quality and notes a fashion for leaving such sheets fully untrimmed.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XX, p.280. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/280"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:9470422f0178d58241808cbb996e1ac59db06385645b91c4aad5a23fcde06e6d",
+  "content_hash": "sha256:8c27cde3557b0f4f67a433ad56bddb7650e36d189175dea718202e8aa65dd1c1",
   "description": {
     "en": "Chapter XIX (Leather) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
   },
@@ -9,63 +9,63 @@
   "ia_item": "bookbindingcareo00cockrich",
   "items": [
     {
-      "hash": "sha256:a87f4d408741826690f886671747035cb42a3b41d723ca8ba1bce669a4e525e6",
+      "hash": "sha256:95e90e982cb41e2b33f2034556604a4e8c5611dab1be73cec9c47f7510362a5b",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "calf"
     },
     {
-      "hash": "sha256:3a44502949f9fbeaf13ae30fba843c30441e230f70df294abf22bcaad817377d",
+      "hash": "sha256:349119aa07c0da621430b37c03e8dfc899a53c06d98ca370b8df74ce755b14b0",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "chrome-leather"
     },
     {
-      "hash": "sha256:ba762a61f0c473a535b4e9d36a00c417cee805100423bc1d2caa6c6cd5abe9a4",
+      "hash": "sha256:a869a358b94b8bb1ecaf98af248aa7ecaac1859d4ee6900dcd30102ba8a31bba",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "cover-leather"
     },
     {
-      "hash": "sha256:062b93180181d7626bed0dd0345144a6e213dacd05613b9eda9672943aa8d9fd",
+      "hash": "sha256:35036e3d027790b22188e463363de1d30f5b4eaab3f8556380fe91e50ebca8f9",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "goatskin"
     },
     {
-      "hash": "sha256:f553d0976291ae880d304b61a50d076a8b2c0eaae5f745fa005878f5d5fb2e7b",
+      "hash": "sha256:93fb21b40a943f5ba53a489c34f13c028c3e332633a0047cc661ee8ee21ca872",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "pigskin"
     },
     {
-      "hash": "sha256:64d378c93abbcc347872c9ad7edc3e77a423bd835f214a6cbe0096267bd1df21",
+      "hash": "sha256:55e2435aeeeb0a05c59add329b9399fc459e3688375e5aa4432ceeb124d990d0",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "sealskin"
     },
     {
-      "hash": "sha256:d5baab303b2eb04af9462833940500de1a5b034350ca5c6091c7fda593e6cde6",
+      "hash": "sha256:2f46fc3fec5a2b5596035678b5dda871322bfa9ad7eeb15d5bc62408884633a4",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "sheepskin"
     },
     {
-      "hash": "sha256:820ed5b90eb8ee20e41b5702633f776d6e53c2711b2b924d1f78ed217449f356",
+      "hash": "sha256:2cefa579d74cecb974f20c765ff5e5ad233ac22550f9c65ef42e678f372c07ee",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "sprinkling-leather"
     },
     {
-      "hash": "sha256:c182c06f198f73e4d51a051b03e62b197ea5ebeb8fec3e4e75f783ca5dc168b3",
+      "hash": "sha256:4bcaf87aa18ca0680b1f54cbe15b5ccf1b85f583b81ef073c183965552a717a6",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",

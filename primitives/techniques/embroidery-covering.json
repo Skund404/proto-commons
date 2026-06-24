@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:5e77b9fd3063c9faf2431d84a77075841e8b03aa3ff737e3b5b9332cb3c4bf8e",
+  "content_hash": "sha256:781ccd995163a50df90e432d4ae367a8d072097133aae7d2e462fc11b3f030a6",
   "created": "2026-06-24",
   "description": "Covering a board-and-hollow-back volume in a worked textile. The fabric is glued to the spine first, then to each board in turn, with edges turned in and inside corners sewn; thin fabrics are attached only at the turn-ins to avoid staining.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
     },
     "skillLevel": "advanced",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIII, p.173. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/173"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

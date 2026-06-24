@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:1ec670893beee5f09b9f81ff6b76182f2923f9573cefa1b4c8dafd702e9f1ffa",
+  "content_hash": "sha256:67823cf59715591854ccf36dee32bbfc885952c72bca84dc31aeec4d219bb6a9",
   "created": "2026-06-24",
   "description": "Drawing the pasted leather over the back and boards and working it down everywhere so it adheres at every point. The skin is stretched lengthwise to seat the bands, the turn-ins folded over the edges, and surplus leather coaxed into the panels.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
     },
     "skillLevel": "advanced",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XII, p.152. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/152"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

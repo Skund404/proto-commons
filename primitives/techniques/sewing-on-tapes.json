@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:b49cf71def4d7d1e2d4186d9ad900ff945205519446fc719d4fa2a975661f6d9",
+  "content_hash": "sha256:9f49c85341ed2058e6758a022f5cffff4ff718a3a80967493e203ef1e724498b",
   "created": "2026-06-24",
   "description": "A variant of book sewing in which the sections are sewn onto flat woven tapes rather than round cords, giving a flatter back for hollow or cased work.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
     },
     "skillLevel": "advanced",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VII, p.98. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/98"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

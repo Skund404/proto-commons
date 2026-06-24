@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f0f72a365bde9ccc422d22c9b633fb8b6fb5ef3cf472e8fbc7b454e998e91a7c",
+  "content_hash": "sha256:a46c620bd70815b3dbd14596af9af5a7bb87a47faa0770873b9e00486fb9cc5b",
   "created": "2026-06-24",
   "description": "A simple shelf protector that shields a fragile or metal-fitted binding and its neighbours from abrasion. Lined millboard is placed beside the book, or a piece is bent round it and reinforced at the folds with linen, then slipped onto the shelf with the open end outward so it is barely visible. For valuable volumes a lettered case may be built to carry the title on its back.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
     },
     "skillLevel": "beginner",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XXII, p.302. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/302"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

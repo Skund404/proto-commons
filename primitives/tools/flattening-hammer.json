@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:076e4cb7c5afd6fd35260cb8be1280e3db83c7c896c819787adf62facfd79546",
+  "content_hash": "sha256:de7fcf6c930e0b9461df4a341c91d28e1d5c16502ce220b0d0f591a2dc055150",
   "created": "2026-06-24",
   "description": "A broad-faced binder's hammer used to strike sections squarely, here to drive old joints flat without cutting or bruising the paper. Its flat crushing blow contrasts with the small-faced glancing strokes of the dedicated backing hammer used to shape the spine.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter II, p.53. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/53"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

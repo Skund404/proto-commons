@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:1040f14d89032b4d66c2d2614852e5c769fb5991b9ea7495c291d299a84301ca",
+  "content_hash": "sha256:75662d8451e5e568acf16a8c7efd67efc0f165cef64feb44b836c7616b5f8ef1",
   "created": "2026-06-24",
   "description": "Folding flat printed sheets into ordered sections, registering the headlines so each page falls over its neighbour and margins stay even, cutting each fold slightly past centre to avoid creasing at the joined edge.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
     },
     "skillLevel": "intermediate",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter II, p.33. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/33"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

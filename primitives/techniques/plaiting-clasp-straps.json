@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:19f921d1ea639a61a4c55d85a201057d8cf518e67d05f8636be7f22f4195d98e",
+  "content_hash": "sha256:ae765324166a1b09ce2def71f9b5b30fdba213d948a249cd345ebdce020f78bf",
   "created": "2026-06-24",
   "description": "Forming the flexible strap of a clasp by threading several thin leather strips through the fitting's ring, pasting each strip's ends together, then braiding the doubled strips into a plait. The finished end is led through a hole near the board edge and glued down inside, often into a cut groove so it lies flush.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
     },
     "skillLevel": "intermediate",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XVIII, p.260. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/260"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

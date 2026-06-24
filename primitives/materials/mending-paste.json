@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:6666fdc9d501e772fac19c7321844a62e62a873440e5304425b43cc1af307f87",
+  "content_hash": "sha256:2c533886eacde270012fbef397ee55a5950ece002a08c935dbfdcf30b9e04a56",
   "created": "2026-06-24",
   "description": "A clean flour or starch paste used to join pared edges in paper and vellum repair. Cockerell insists the paste, brushes, and pasting paper all be kept perfectly clean so the joint stays invisible; it sits on the mending side of his paste vocabulary rather than the general covering paste.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter IV, p.78. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/78"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

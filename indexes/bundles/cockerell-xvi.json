@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:586fd3a298496310ef6262b70393da55b7248943b8628f3a0723e63f5ed57693",
+  "content_hash": "sha256:f556d84bc72e6120511fc9d19e12568a6603ed9ef4569e3eabb54ca54c9bf5ef",
   "description": {
     "en": "Chapter XVI (Designing for Gold Tooled Decoration) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
   },
@@ -9,49 +9,49 @@
   "ia_item": "bookbindingcareo00cockrich",
   "items": [
     {
-      "hash": "sha256:e073fb6e79534b344d1d6c18a9a5cc9c8524f1c78246a6b23cb10f480a9e41d0",
+      "hash": "sha256:547096ca778f6861bc4e31344d78d7cadc9d4ac2ab0928269c9146ab9a9b1c4b",
       "kind": "workflow",
       "record_class": "primitive",
       "role": "required",
       "slug": "building-a-diaper-pattern"
     },
     {
-      "hash": "sha256:4446cc722e29488d36da94cbab0bd5c6c0e1e2570cdd829a557548c34eb464ce",
+      "hash": "sha256:8456c8f6a9388e981f25e8f637ea0e1865ce573a90e26ec849b695d821c4a505",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "combining-tools"
     },
     {
-      "hash": "sha256:0bf99959a8b0add521455ee4b738c2ab5057d86fec267cc1c65eb1b1fd1678ad",
+      "hash": "sha256:a8ec3b12cf862f9bf3867407b96d57c1011549092fc6390397431c7885598c0d",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "design-paper"
     },
     {
-      "hash": "sha256:c48bdf414b0e85c8fabf4868652bd51e58a2ab9531f426676566bc79b467ffbb",
+      "hash": "sha256:d0456cdc4d984795b40c1df9b8fdf0d477197597daca7d798b965b50ad04b6cd",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "designing-finishing-tools"
     },
     {
-      "hash": "sha256:c2f44d1fb5e1566dfb7d04fde804a94926c02a4090d1cdfaf9275f4b28088c15",
+      "hash": "sha256:7e1c8f7023525f3b7379faa5593cb3bbb473c1d58efbfbd9f3cc56e53354cf6b",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "fillet"
     },
     {
-      "hash": "sha256:7d85142fecd86c3ddd0ac8f39de29d1d3525e58458c6c1205be4b4cc0716ec08",
+      "hash": "sha256:3d43c3f081a63ec671c64dbe63996b080596efb6776576e05b7b93d01ac7de65",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "folder"
     },
     {
-      "hash": "sha256:be62a55fbde45b906e6cd835ba45fcbfc3f93ead1e2068e660fed61e88ce4fd1",
+      "hash": "sha256:b2852d1a959b72187a3bc02a397dc135f907cb8e303b1aecac582b9427543aa0",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",

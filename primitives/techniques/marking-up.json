@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:a36c4ff96c026e8babf45c22e4ac5cd0f497404e381f929ae02ac8dbf284bea9",
+  "content_hash": "sha256:eb88dddcdd0d49a7d32fa2ef5b8b8f19b89278520d99a8a5b21279f27dd23f02",
   "created": "2026-06-24",
   "description": "Laying out the positions of the sewing supports and of the head and tail (kettle) stitches across the back of the gathered sections, so the bands fall square and evenly spaced when the book is sewn.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
     },
     "skillLevel": "intermediate",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VII, p.98. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/98"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

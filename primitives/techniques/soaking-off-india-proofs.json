@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:bd44f28fc4def0406ca30cf316320d020025bb5ad8df6b3db4f8a1aec90e0bd3",
+  "content_hash": "sha256:31e39dea7c6de1aa64227165677633e9a861e1a38903b78a3039c4a37581379b",
   "created": "2026-06-24",
   "description": "Releasing a mounted India proof from its old backing by floating it face down in warm water over a sized support sheet until it lifts free. The freed proof is carried out on the under sheet and dried between absorbent paper.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
     },
     "skillLevel": "intermediate",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter III, p.53. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/53"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

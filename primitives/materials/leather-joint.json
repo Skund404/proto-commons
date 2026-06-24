@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:65d86011558ce47e26496489300954d2322bb92669d364bba43927be4f7c4eab",
+  "content_hash": "sha256:949d5d421b10810df341b3bf11dcffdf785a84326dfd5f3c9d9801b040fe253b",
   "created": "2026-06-24",
   "description": "A strip of very thin leather worked into the inner hinge to face the joint where board meets textblock. It adds little strength but gives a refined finish to the inside of the board, and must be pared down so the board still closes properly.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter V, p.80. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/80"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

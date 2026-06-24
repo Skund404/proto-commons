@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:1901efa1eb6005a9eb915b6af2a14015a1dc442cd75e5b011dc2ac7491dc20ba",
+  "content_hash": "sha256:eb50814668de68d7792a85097cf3a0ba69c4adc7a1752e4b21935f97457cd4d1",
   "created": "2026-06-24",
   "description": "A binding detail in which the board is set a small distance back from the spine, leaving an open groove at the hinge. The gap lets the cover flex freely and permits the use of heavier leather than a closed joint would allow.",
   "emitter": "opg://commons-seed",
@@ -30,6 +30,10 @@
     },
     "skillLevel": "intermediate",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIII, p.173. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/173"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

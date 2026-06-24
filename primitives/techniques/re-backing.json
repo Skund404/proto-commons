@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f36c603cf89be0b8ef785bd6689bd20221d063c369ed984689bf0d0f87b3cf72",
+  "content_hash": "sha256:37dabc617dbdad53af7cf4162bf7e22d63cd5f82f74083b88c27bc064c74b8b3",
   "created": "2026-06-24",
   "description": "Repair of a binding whose joints have broken by fitting a fresh spine covering while keeping as much of the original as possible. The remaining old back leather is eased off and saved, the cover leather on each board is cut back along a slanting line to a thin feather edge and lifted, and a matching new piece is pasted to the spine and tucked beneath the lifted old leather. The salvaged original spine is pared down and re-laid over the new work and tied tight while drying.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
     },
     "skillLevel": "advanced",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XXII, p.302. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/302"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:17822039e652ae9cbe61a4600287009591cfcb18cb24efc95456be643db8250c",
+  "content_hash": "sha256:0312a0498f9f660260deb324ec1530a89c22b8fea07fde02b616c9eb1ffec100",
   "created": "2026-06-24",
   "description": "A thin spirit varnish rubbed sparingly over polished leather as a protective finish. Cockerell warns that thick or excess varnish browns with age, dulls the gold, and makes the surface brittle at the joints.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIV, p.193. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/193"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

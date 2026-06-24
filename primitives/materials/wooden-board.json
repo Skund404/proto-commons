@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:c43ccc67e2964d5460fa511e671dbfc9ea8574e8ae7370b616bb595b358c6938",
+  "content_hash": "sha256:3b6711dab63602217a586a324cbc0c595591aeff342de373127238b549f267a6",
   "created": "2026-06-24",
   "description": "Solid timber cover board, often clasped, used chiefly for heavy volumes and books written on vellum. Its rigidity acts as a constant press that keeps moisture-sensitive leaves flat and prevents them from cockling.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter IX, p.124. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/124"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

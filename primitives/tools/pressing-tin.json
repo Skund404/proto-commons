@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:c2f779ec3d32d4e808003e73ed486b451852f08f9d1dab7085a6deb9f73de555",
+  "content_hash": "sha256:3e4e140dc350534173d245c23226a9d53f4da5f3cb2018482799628fad3658ca",
   "created": "2026-06-24",
   "description": "A smooth metal plate, usually covered with paper, interleaved between groups of sections during pressing to give a flat surface and to shield delicate plates or maps from indenting their neighbours.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter V, p.89. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/89"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

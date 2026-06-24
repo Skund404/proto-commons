@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:2cc735c47ec904ab96d107399d925b852bc809950224e298fb7466931138c555",
+  "content_hash": "sha256:34891c52b81b93d0b5118f2118ae5d256220ddc1c437f8263ef950782b070bb1",
   "created": "2026-06-24",
   "description": "A compact, secure knot used to join a new length of sewing thread to the old without slipping, so a sewing run continues without a weak point.",
   "emitter": "opg://commons-seed",
@@ -30,6 +30,10 @@
     },
     "skillLevel": "beginner",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VII, p.98. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/98"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

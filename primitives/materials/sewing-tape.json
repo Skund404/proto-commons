@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:086ef048d15920f3a491a642f3c56212378fd6af6e209d4f20678fd01f13adbe",
+  "content_hash": "sha256:0d068a5405b9af42967e7bdbabe66dbff2313e7de9d6ec5561284d45d687ee29",
   "created": "2026-06-24",
   "description": "A woven linen tape used as a flat sewing support in place of round cords, giving a flatter back suited to hollow-backed and cased work.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VII, p.100. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/100"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

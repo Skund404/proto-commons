@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:936c3e9ea0ae3d1889c7933b1fdb9f2d85b70f67d9e6e7c1898c689d51b1dba7",
+  "content_hash": "sha256:b007ec9136f200f4c4e441a4c75fb4c8ba158e4580feef76ea22090aeca9d397",
   "description": {
     "en": "Chapter XIV (Decoration Tools Finishing Tooling on Vellum Inlaying on Leather) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
   },
@@ -9,196 +9,196 @@
   "ia_item": "bookbindingcareo00cockrich",
   "items": [
     {
-      "hash": "sha256:2ad6fc3cefcd5dbf27544a4824575bca3d24460f850a3c27c2809dfbebba40cc",
+      "hash": "sha256:0f8317292bf43497999164ba7e704132215234296cd47e06c44a66e03e63efd0",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "benzine"
     },
     {
-      "hash": "sha256:e33b31ad97b20f8972a6f0de1fad8e00f2e5388cdf3f07ea451f321adac3159e",
+      "hash": "sha256:24074392b207eb6f3a3880f96a948652c35ff23ceed1b3a73aa5165b05725b1c",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "blind-tooling"
     },
     {
-      "hash": "sha256:8702c903d5dd194d066c639f4e64fd3ad16efc490925e8de77aa0ba3fa852d32",
+      "hash": "sha256:c00a565e88602a18ff9811da97165151b712969d9bb56e1d9965e16275dc9a1c",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "cocoanut-oil"
     },
     {
-      "hash": "sha256:60b86070d17ec3b0072cc743488ae754ae16e130471882f14ab47f8f8b8bd127",
+      "hash": "sha256:8a1b3bcab847ee96a25d1f6ef2f69009b5a96f07441b454242f8324cc3a4b56c",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "crushing-grain"
     },
     {
-      "hash": "sha256:c2f44d1fb5e1566dfb7d04fde804a94926c02a4090d1cdfaf9275f4b28088c15",
+      "hash": "sha256:7e1c8f7023525f3b7379faa5593cb3bbb473c1d58efbfbd9f3cc56e53354cf6b",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "fillet"
     },
     {
-      "hash": "sha256:b79b15c308d4d28d578179bcadbf10ec47fbda86725e6cf32edb12467e46c18b",
+      "hash": "sha256:7b66949435f48b7d0e16994d06ff3a832e06c61509e2cd593b86a944a231dba3",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "finishing-press"
     },
     {
-      "hash": "sha256:5dc7f7aefd9527f7250b28e46a936eb9ad597aa32db17f3f2b4c10bd2afb308a",
+      "hash": "sha256:6fd27d1a413ab5cc12c65c1438b05671e957ef721d1c70beb258c470329de948",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "finishing-roll"
     },
     {
-      "hash": "sha256:94ffd6c73ff6b486bd30eca8bc334c48e5b8705e009d81d9f73cb6015949e5ec",
+      "hash": "sha256:3d3cf5062df8d3a5d8e5408649eccff8d93ef939721445b8f18e0fe9d2eb3274",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "finishing-stove"
     },
     {
-      "hash": "sha256:2cfefbc755210baf5f9571e7f34de1c77e7569eed27663d3a0ebb708b3c61253",
+      "hash": "sha256:e0b876d8e3cc6abde3ac3fd24d733e2dc8fe61fb03674e91f778dfce41c212f6",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "finishing-tool"
     },
     {
-      "hash": "sha256:c393e2adf085eeb87583454dd8c2ddabe97fbd35b17cac38fbb4bb96d7173bbe",
+      "hash": "sha256:c8021a6d5872a2ffb390ca697f0e830dec06163a264ca47e7fbcfa0995b6a50a",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "glaire"
     },
     {
-      "hash": "sha256:20bb081ea16bc86b1014538438b546f9226d6fd07dc055218fba0171149a7649",
+      "hash": "sha256:cde579ca094b0110c8fe20d05b7b4280aa9965005af8f47065cdf3441238713c",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "gold-cushion"
     },
     {
-      "hash": "sha256:ecea7b1a8b8c41ac7acb09809840814aba9a387fbf22634050e915dcdf35462d",
+      "hash": "sha256:23b9e7caa5e1e0d7bfed69a516681dcd8eb2236862b513c30bcbc35e3c9ece36",
       "kind": "workflow",
       "record_class": "primitive",
       "role": "required",
       "slug": "gold-finishing"
     },
     {
-      "hash": "sha256:658759ce1e9bb393b73aef819e709ea49777799a8b7c8137756d7e66bdfb6a02",
+      "hash": "sha256:90a1a2f0cffbee65910f1135a5315a6700d95ca92e5ec66c5be922d0758e528b",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "gold-knife"
     },
     {
-      "hash": "sha256:5a812805e9c759f02854675aed7e19c9655a2dd623a8409af342a02e627d16af",
+      "hash": "sha256:e87e517f0e58ca1cee9993413c69b8614b54e54ae2bdb3d2e87cc1075a9704f7",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "gold-leaf"
     },
     {
-      "hash": "sha256:5d17a5de6a9bcd95ec528f0cb62eb79918df3dc1a6acfa68c5f83ebdf4c6a716",
+      "hash": "sha256:f79c7511ed75e91e20338d7d2b5404e4c96d53b4d0f57e781d0b23b96c5a48f9",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "gold-tooling"
     },
     {
-      "hash": "sha256:be62a55fbde45b906e6cd835ba45fcbfc3f93ead1e2068e660fed61e88ce4fd1",
+      "hash": "sha256:b2852d1a959b72187a3bc02a397dc135f907cb8e303b1aecac582b9427543aa0",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "gouge"
     },
     {
-      "hash": "sha256:947d39c82fd5d4092e7948fd1881274fc4b5aa93fcc244a93083ea4d1a0a1539",
+      "hash": "sha256:e61217a4fe5e310e14756d1c657b95c81e7578c9c26d28387c0921936d7d75c0",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "inlaying-on-leather"
     },
     {
-      "hash": "sha256:25b1741a4ed1ce17a34a00964a92f10ab5ae4fb6ec61aa080dac3d4ddb6b304c",
+      "hash": "sha256:263b5f6fa642e9f45f328e7ec38b8e4e668afbf812e36517e43c03dd7df42884",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "lying-press"
     },
     {
-      "hash": "sha256:dc929a2db8b9f0c09368248d999510ab92ee8d0beec0bd730df0f6fe970db3a5",
+      "hash": "sha256:decce54b37f8aca645c6ab94fc1e43f123b01d5c83654ef7c56d646445259072",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "mending-tooling"
     },
     {
-      "hash": "sha256:7015756c7acc4c52caa658a3a26173b7a1035bf702c243229c71af321cbaaf74",
+      "hash": "sha256:d18ef1f72bd46a81da609037de7055f71fd84c1678304aae634edff8f385302a",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "nipping-press"
     },
     {
-      "hash": "sha256:ec935fa8c7fcd2caf9ee6e4e4dadaeb4387668cc8ffcd35d06d71bb4c6429fc4",
+      "hash": "sha256:d448b9b127b2a394d12f3627f498590f418433435d445643b9d5f06490fc1166",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "pallet"
     },
     {
-      "hash": "sha256:1e9a95113194b5d4acb0eaaa5fe915710fb0fa648836fcb970f4def340fdb907",
+      "hash": "sha256:d326b9289a0c2b3d18a105609bd8b5e066e6ffb77a15f53c45c381acda5676fe",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "paste-water"
     },
     {
-      "hash": "sha256:73d205dbea8517e63fc7315eeb2b9c2546c855d9baff3f1cc11b44ee9f727c61",
+      "hash": "sha256:d0646f977d5949317357268758ccb41fb0b9182b4db6330e3cdd09e503be3a00",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "polisher"
     },
     {
-      "hash": "sha256:7f156b360e2f6fa36585f2fe6f75ab6713de19ce08095771d3b1d7374158f11c",
+      "hash": "sha256:02d41405a1a3813fc3ca181670a8e2f98e1aa610ef3fb588390286eb6e8de208",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "polishing"
     },
     {
-      "hash": "sha256:8fc75b59efa2bbcab0857ed539e2284bdf3f65bc07cfc389c95f029bd95b9ef5",
+      "hash": "sha256:3fbc8515894e47db8bb5c02ac4b669b4ffd88599a22396b46eeb2e17dc3b22d3",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "leather-size"
     },
     {
-      "hash": "sha256:9ca096123041b26c6f2c6c17319facdeb080ca128217ce25eb454abf3cf18d75",
+      "hash": "sha256:4e91553222c0dc0a62550c6a541d01b8bde31fca433ac6a1801fabbee7570c2a",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "sizing-leather"
     },
     {
-      "hash": "sha256:dd939e87c68511d5e9564f1fb4a659eba97e759979ef19e8f955fad01264d7bd",
+      "hash": "sha256:9944641edc7606c795fb3dd568f1227d5dcd0ac02a618a38b8badd7472ef3dce",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "tooling-on-vellum"
     },
     {
-      "hash": "sha256:17822039e652ae9cbe61a4600287009591cfcb18cb24efc95456be643db8250c",
+      "hash": "sha256:0312a0498f9f660260deb324ec1530a89c22b8fea07fde02b616c9eb1ffec100",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:199e25c7b9d8b7a49d1cf66e3c7477cafb10dac1c5d250c8566a942a952a0d43",
+  "content_hash": "sha256:eb4e812a04868b78d075edc419754c1e36367d3890906b26ab8eef6a70fd2e7e",
   "created": "2026-06-24",
   "description": "Hot animal glue, with hide glue rated the strongest and most economical for binding. It is broken up, soaked overnight, then gently simmered until fluid, and is best made in small batches since repeated heating degrades it.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XX, p.280. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/280"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

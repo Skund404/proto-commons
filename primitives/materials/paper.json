@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:3fe470fcea48b8cf1f54b3239b30fb8ee1cdb9c9697ed28400c7d62835b57d90",
+  "content_hash": "sha256:6ecfdfb0273c4c0557e2c507d8293dbc4a024ba503998673182c01a306a42394",
   "created": "2026-06-24",
   "description": "General sheet stock formed from matted plant fibre, the primary substrate of the text block. Quality tracks the proportion and grade of fibre used, with rag content giving the most durable sheets and heavily loaded or mechanical-pulp sheets ranking lowest for permanent work.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XX, p.280. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/280"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

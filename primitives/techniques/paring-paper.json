@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:5d99fcb8feab95b0bab54ad90d63dd83da378a093a12bc1860ffeec20fc98af1",
+  "content_hash": "sha256:84f23815907fe58ea6e51e4979009923314d1fe98fcc7e82566a0035ee318eab",
   "created": "2026-06-24",
   "description": "Shaving the edge of paper or a plate to a feather so a join does not show as a ridge. The blade is first drawn along the work to raise a burr, then held nearly flat against a hard surface; a well-pared straight edge gives off a long continuous shaving, and the correct angle comes only with practice.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
     },
     "skillLevel": "advanced",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter III, p.53. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/53"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:e430b13830b58db0f01b4fdf4bf7c33d5221ef7c352e1377e68d573346713f3e",
+  "content_hash": "sha256:4271729faa4e5186a580534ff02e67d63e1dcd18d020713f903e7157b7acb4e6",
   "created": "2026-06-24",
   "description": "A slender pointed hand tool used to separate and tease apart the twisted strands of a cord so its fibres can be spread flat. It is pushed between strands and then through each strand to straighten the threads.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VIII, p.115. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/115"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

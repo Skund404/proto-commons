@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:e3405889c8d87eae8c829854ec9352f6fd430d0b2a52e92010b2e744e00b2cb5",
+  "content_hash": "sha256:f19aaf9e2cc0483166b330b82abff505a570e2dc10c8c8dec4e8cff6773a56d1",
   "created": "2026-06-24",
   "description": "Levelling the inside of each board by pasting in a paper cut to match the recess left by the leather turn-ins. The piece is fitted just shy of the margins so the inner surface lies flush, and the open board is left to dry so the paper draws it slightly inward against the leather's pull.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
     },
     "skillLevel": "intermediate",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XII, p.152. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/152"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:fa42311b8586e60386d70ffc9ec9e270293c79df57ff84c2e544230b3be9d6d1",
+  "content_hash": "sha256:988954d339a32694f68c2e75ed24e84a9444aab5bdd3bf121cb8b69ca7454963",
   "created": "2026-06-24",
   "description": "A very soft brush, such as a hog's hair brush, used to work cleaning soaps and solvents over stained areas without abrading the paper surface.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter IV, p.71. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/71"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

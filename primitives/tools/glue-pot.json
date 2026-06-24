@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:637ef675f81865397e0799a5b84dc6e51148628f022d0030338e873214240cfd",
+  "content_hash": "sha256:2f9d2eab565aa0ba733ec8c2fdef143c09bd97d06aa1ba071b0fa2b0e81f85d3",
   "created": "2026-06-24",
   "description": "A heated vessel in which soaked glue is simmered to a working fluid. It is scoured clean before fresh glue is added, and a stringy batch can be loosened by spinning the brush rapidly in the pot.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XX, p.290. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/290"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

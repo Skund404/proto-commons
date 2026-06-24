@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:2c12025e8796a3702adbb9a1b4040fc54608e5e111fa0f37dc8996dcd2ae9bb2",
+  "content_hash": "sha256:8c99b3af8c4448f68611c42888b8f69189e5f687318e52c28d3815395c4509b2",
   "created": "2026-06-24",
   "description": "A pair of compasses used to step off or carry a fixed measurement, for example when setting the squares and judging how far a board should project beyond the leaves. The author lists it as a tool separate from dividers.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter IX, p.131. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/131"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

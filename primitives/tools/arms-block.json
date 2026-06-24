@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:acd5daa7195c5a80f775bf55f5fb1c5c988b3caedbcf48cbd64cfc5500e0f9fa",
+  "content_hash": "sha256:56f15cd45f2f5d5ff8faeb0e0a87f55e59b9aff5256b58727c0e00c4630e670c",
   "created": "2026-06-24",
   "description": "An engraved metal plate cut with a coat of arms or device, struck under heat and pressure to stamp the whole image at once. Because the gold lies in a single plane it reads as a flat solid figure rather than the catch-light texture of hand tooling.",
   "emitter": "opg://commons-seed",
@@ -24,6 +24,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XV, p.227. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/227"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

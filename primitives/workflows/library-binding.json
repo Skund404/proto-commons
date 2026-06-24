@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:a930e6c2d1f402cf4fcf68d49aa5defd163ab5a7a1244f26a8be7d6f0a9a0098",
+  "content_hash": "sha256:e5abfc615d53c56348aad33811ce06beadf738dac14f789559356359b7a1e6bd",
   "created": "2026-06-24",
   "description": "An economical binding routine that trades some appearance for strength: sections are made sound, sewn on tapes, fitted into split boards with a French joint, and covered in thick leather with paper sides. It is built for hard use in large collections.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIII, p.173. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/173"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

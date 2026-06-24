@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:826b561a42531ce020f377c9c73448da3b80759c3d9b34953cd1c8b5b145c2e2",
+  "content_hash": "sha256:ec3a6c0b8a9a75e19ff39606f9fd5d7c7b9bfc82043d6062907c6cec97f3bc9a",
   "created": "2026-06-24",
   "description": "A two-legged measuring instrument set to a fixed span and used to step off equal distances, here to mark consistent margins across leaves before squaring them.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter II, p.51. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/51"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

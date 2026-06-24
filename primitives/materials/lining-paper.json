@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:12db05a22761d0cc96a7ac502a44240b86914b0fc035c50d15c0abfdc25376e3",
+  "content_hash": "sha256:24967ef396c3a40bfed520ef2fbf72b5fd5339e535e520c4a8a99de24c6f0b2d",
   "created": "2026-06-24",
   "description": "Plain paper pasted over the faces of a cut board to seal its edges and control its warp. Applied with one straight edge laid exactly to the cut edge of the board.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter IX, p.124. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/124"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

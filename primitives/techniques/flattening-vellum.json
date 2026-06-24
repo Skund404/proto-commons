@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:8b05c05ff8c0ef8fb6ab5ee18892ff8886899a17d8516deadabab3743f4cb5fa",
+  "content_hash": "sha256:dcf94fa3bce44dc4f620243c6855d1b95588f5049e9169b9d3f4c72fa8e5897f",
   "created": "2026-06-24",
   "description": "Restoring cockled vellum leaves to flatness by gently raising their humidity and drying them under light restraint. Leaves are interleaved with slightly damp blotting paper until soft, then pressed lightly with frequent paper changes until fully dry; Cockerell stresses that too much damp can ruin a manuscript and too little leaves it cockled.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
     },
     "skillLevel": "advanced",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter III, p.65. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/65"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

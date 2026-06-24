@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:99b60a2e4dcf1b6372ecb45b05df04f74110331e5de96399df8fd188246bca7f",
+  "content_hash": "sha256:9bcfba3ad61859bad2fa73c44195cc23e825ecc0ada792d1f8fc67775d859eb5",
   "created": "2026-06-24",
   "description": "Volatile or pungent substances placed in or behind a bookcase to deter and kill insects that attack bindings. Examples include camphor, naphthaline, proprietary insect powder, and linen soaked in turpentine; their effect lasts only while the odour persists, so they must be renewed regularly.",
   "emitter": "opg://commons-seed",
@@ -24,6 +24,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XXI, p.298. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/298"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

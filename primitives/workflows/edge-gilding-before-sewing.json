@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:bcb576097d6f6bd5a1395e1e147c22a9d4216221f66aee8c622d38d2a822e519",
+  "content_hash": "sha256:353526e6d5028d61022ae5a85b9fb7c43b70b2c3eaae35bb5d7288e4e330e375",
   "created": "2026-06-24",
   "description": "The full sequence for gilding the edges of a book in sheets, from trimming the leaves through scraping, grounding, glairing, laying gold, and burnishing each of the three edges.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VI, p.97. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/97"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

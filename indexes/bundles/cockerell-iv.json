@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:cb9688390a646aa1667ac89d0ebc2fd4bec667aba1b8f47cac936648dd9201f0",
+  "content_hash": "sha256:f011e11ffacd6f4ca17bdee64d8c3fc8b226e88cf0e36fb2bb18ecd3244a4f60",
   "description": {
     "en": "Chapter IV (Sizing Washing Mending) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
   },
@@ -9,91 +9,91 @@
   "ia_item": "bookbindingcareo00cockrich",
   "items": [
     {
-      "hash": "sha256:7d85142fecd86c3ddd0ac8f39de29d1d3525e58458c6c1205be4b4cc0716ec08",
+      "hash": "sha256:3d43c3f081a63ec671c64dbe63996b080596efb6776576e05b7b93d01ac7de65",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "folder"
     },
     {
-      "hash": "sha256:f0be46b427eacd6bbcc5741945c5f92eafb7abbad196c8c7b60908028c55aa9a",
+      "hash": "sha256:cbacb88ece1bc626763ca351311777b87be0f68340f1e28c06bd37029cad9e3f",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "gelatine-size"
     },
     {
-      "hash": "sha256:25b1741a4ed1ce17a34a00964a92f10ab5ae4fb6ec61aa080dac3d4ddb6b304c",
+      "hash": "sha256:263b5f6fa642e9f45f328e7ec38b8e4e668afbf812e36517e43c03dd7df42884",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "lying-press"
     },
     {
-      "hash": "sha256:7cf97840bae356ee4f6a1bae0cc5e65703ae96b6956d3270c79b46a1acdc5b5f",
+      "hash": "sha256:29d970d4e73b67dfc5fb0a1363bf93e116862f31edebbb4ce5a3551c97cba9b7",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "mending"
     },
     {
-      "hash": "sha256:53ed8c675936f6ce423d2abe781a4e318e6f31a99bd73e44cb866e41d3f2698a",
+      "hash": "sha256:839c027b6a6326794df60042b407d9e790ea8a2929e04f41a2a6cba48618c122",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "mending-paper"
     },
     {
-      "hash": "sha256:85bcb61696a665d0aab4368308397ba54b2ac77e42be09cdb0fc86e9dd416e64",
+      "hash": "sha256:f4b7b52319ae019936453be4fca2753ce07995e1b496f715a7a6473d94d6f19c",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "mending-vellum"
     },
     {
-      "hash": "sha256:e60761c375f79f2843aa82daa8e023ff18d11e8e6260a3dec70d9246d66ce31c",
+      "hash": "sha256:d68c1a81e47676d48774541ebafb734a69d5445bd8d4651b1450913c91385a02",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "paper-cleaning-agent"
     },
     {
-      "hash": "sha256:8ec445696dbad2c1e359fd23e9b8b41e85f38dd01cc02fc32b0ced9fa899e11a",
+      "hash": "sha256:bcf1d16a7a5b7d52150976efa58473a1837614f5c603498dde79903aeae5e4ce",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "paring-knife"
     },
     {
-      "hash": "sha256:6666fdc9d501e772fac19c7321844a62e62a873440e5304425b43cc1af307f87",
+      "hash": "sha256:2c533886eacde270012fbef397ee55a5950ece002a08c935dbfdcf30b9e04a56",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "mending-paste"
     },
     {
-      "hash": "sha256:a71739bd0febd360366456075a991ea7bcc8d7d74ad5bd9ba38441e296d29edc",
+      "hash": "sha256:1322471942c4e195b65e575da3e3df0c845966dca3faa9c58152ec1e3f003ebb",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "sewing-silk"
     },
     {
-      "hash": "sha256:3716157ad61fae1b0759ca4922aeb562e625b991ef302a25088b9d5a3123174c",
+      "hash": "sha256:1cd42d00325d3a1be6e74235179955e8e6141ef0df392922ac1755956b6ed5a7",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "sizing"
     },
     {
-      "hash": "sha256:fa42311b8586e60386d70ffc9ec9e270293c79df57ff84c2e544230b3be9d6d1",
+      "hash": "sha256:988954d339a32694f68c2e75ed24e84a9444aab5bdd3bf121cb8b69ca7454963",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "soft-brush"
     },
     {
-      "hash": "sha256:48c0edd5af601fdd348c4e97838bf30c4ce7df9a5bd09c18a07366bdec86ea42",
+      "hash": "sha256:f5c3e2e94c81f12bf46053109881ae7a10f5c7a6d9c2a116e0ad4ad4d93c1e90",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",

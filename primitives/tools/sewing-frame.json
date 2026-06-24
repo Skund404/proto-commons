@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:44c7be85d184d49ac6992abe02316295137b5c406896c1172863d1439af636d2",
+  "content_hash": "sha256:cf004bc19648c2a57b9e967952c253e4b786f5d6c78ce987bcc4ae95bfb111ab",
   "created": "2026-06-24",
   "description": "An upright wooden appliance with two posts and an adjustable crossbar that holds the sewing supports (cords or tapes) taut and vertical while the sections of a book are sewn to them by hand.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VII, p.98. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/98"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

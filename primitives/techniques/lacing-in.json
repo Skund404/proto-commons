@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:2551682b5a5770d83356d9a93679a682f1d49ffa90257f925cdeaf23f669e185",
+  "content_hash": "sha256:9e8cbb4b7f598620ac48edc4469199d2d7df0a69b63da0e57b06746d1946d8ca",
   "created": "2026-06-24",
   "description": "Attaching the boards by threading the frayed and pasted cord ends through punched holes in the board, front to back, drawing them to the right tension, cutting them flush, and hammering them flat on a knocking-down iron so they rivet into the board.",
   "emitter": "opg://commons-seed",
@@ -30,6 +30,10 @@
     },
     "skillLevel": "advanced",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter IX, p.135. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/135"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

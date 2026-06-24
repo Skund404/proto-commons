@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:0dfa915652a0d8a1d2d8073b3314a53460bf702ed6362ef271d92127c0662daa",
+  "content_hash": "sha256:35aaa200583a831c3c4655f201c9ffc8a4a364596f67939e25304643b827efc0",
   "created": "2026-06-24",
   "description": "Graphite used in place of or mixed with red chalk as a ground for edge gilding. It darkens and smooths the edge so the gold polishes to a deep lustre; some gilders prefer it alone, others combine it with chalk.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VI, p.96. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/96"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

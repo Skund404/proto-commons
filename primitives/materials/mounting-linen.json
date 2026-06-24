@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:7143b4533a62b964918d79d9f1e90ce2e08b748b99a0934da646afcbf4576189",
+  "content_hash": "sha256:fba50254c29300fdf7d0fb669025089aef3e6fa2578c3b6902e9484858525a3a",
   "created": "2026-06-24",
   "description": "A fine soft cotton or linen cloth used as a flexible backing for maps, plates, and split paper. It is pinned flat and pasted so a folded sheet gains a hinge and resists tearing.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter III, p.53. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/53"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

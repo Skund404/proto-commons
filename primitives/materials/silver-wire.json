@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:612eb44af2539cc58f28ab56e2db698c2b58ee0de0b1fb04cbdc69dfc18b855f",
+  "content_hash": "sha256:8b475a9e870960588f6d172660a0163b8ee1d310e9b3005c75662186ab9b351e",
   "created": "2026-06-24",
   "description": "Heavy-gauge silver drawn into wire and worked into the catch and ring of a clasp. Its flattened ends are bedded between the two leaves of a split board so the fitting anchors invisibly within the cover.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XVIII, p.259. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/259"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:62fabd2c9954c5a555d2318fb4bca4fda0243ac7645329ad7f076acff5664372",
+  "content_hash": "sha256:7b131109dbe87bb9de1fe4e16e104610b17c770f30f680f794795912922b5bfd",
   "description": {
     "en": "Chapter XXII (To Preserve Old Bindings Re backing) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
   },
@@ -9,98 +9,98 @@
   "ia_item": "bookbindingcareo00cockrich",
   "items": [
     {
-      "hash": "sha256:125070e4b693c17755074ea281c6ed1ee6bb9664cd648f4659e5d47bda5e011d",
+      "hash": "sha256:c364d17bd6c8133d0d90be55fa3517e2cc10f0604b192fdb324f15e83452493b",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "backing-hammer"
     },
     {
-      "hash": "sha256:4581267e8235e2345b70f081beeb9967bbfe42101c743d3f927aa08025af5f36",
+      "hash": "sha256:70c68d5c0f112f11e677be92ec6952589834b28f8492f45cbc97ae7f466dc774",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "castor-oil"
     },
     {
-      "hash": "sha256:0637dda7a47010323ec935678131d9711313a904ab0ebfdb5418d8058637992f",
+      "hash": "sha256:6b0c63221feba1367af192d3617361ab88640426ee0e6a595070bfeababf98e7",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "corner-repair"
     },
     {
-      "hash": "sha256:ba762a61f0c473a535b4e9d36a00c417cee805100423bc1d2caa6c6cd5abe9a4",
+      "hash": "sha256:a869a358b94b8bb1ecaf98af248aa7ecaac1859d4ee6900dcd30102ba8a31bba",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "cover-leather"
     },
     {
-      "hash": "sha256:7d85142fecd86c3ddd0ac8f39de29d1d3525e58458c6c1205be4b4cc0716ec08",
+      "hash": "sha256:3d43c3f081a63ec671c64dbe63996b080596efb6776576e05b7b93d01ac7de65",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "folder"
     },
     {
-      "hash": "sha256:199e25c7b9d8b7a49d1cf66e3c7477cafb10dac1c5d250c8566a942a952a0d43",
+      "hash": "sha256:eb4e812a04868b78d075edc419754c1e36367d3890906b26ab8eef6a70fd2e7e",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "glue"
     },
     {
-      "hash": "sha256:8dbb4e15cd80a56d5996e838ab3b979210e24e0bc3224edd6ffc9075db08e178",
+      "hash": "sha256:849318c322edab8f2ed909e32bd76430f9d0675e44dc03b00cce5f1ab2bf1836",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "leather-dressing"
     },
     {
-      "hash": "sha256:6fe26284e0a5ba509fb6bc9b3eef4090b08f4f4ac4d4503fcf682d0bbabcb21d",
+      "hash": "sha256:3f4a8036d4684d96ec4b2f0e4f3a69029a7d7437725ab229f832cfd47aafa785",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "millboard"
     },
     {
-      "hash": "sha256:3ef5a3576202ed50664a10ee54eb01bbcc211262a555029322d83589f65051ea",
+      "hash": "sha256:704f7793693fb6ba1438de94dcc9f77bcd71e0303df87dade2da49bcd6b70619",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "paraffin-wax"
     },
     {
-      "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+      "hash": "sha256:3aa5fe58004f1bcc81f08154128863a3a38d720d332461f11771cc103f7cbcd8",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "paste"
     },
     {
-      "hash": "sha256:3ad41b1ef4c1185fe8dcf35c626f246f42be77245d4ec173e946447bc1fb199f",
+      "hash": "sha256:57e3d332deacaac8da4ff269256f6d65d6cbc7e575acc522f784b312e3eb10ab",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "preserving-old-bindings"
     },
     {
-      "hash": "sha256:f0f72a365bde9ccc422d22c9b633fb8b6fb5ef3cf472e8fbc7b454e998e91a7c",
+      "hash": "sha256:a46c620bd70815b3dbd14596af9af5a7bb87a47faa0770873b9e00486fb9cc5b",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "protective-shelf-case"
     },
     {
-      "hash": "sha256:f36c603cf89be0b8ef785bd6689bd20221d063c369ed984689bf0d0f87b3cf72",
+      "hash": "sha256:37dabc617dbdad53af7cf4162bf7e22d63cd5f82f74083b88c27bc064c74b8b3",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "re-backing"
     },
     {
-      "hash": "sha256:086ef048d15920f3a491a642f3c56212378fd6af6e209d4f20678fd01f13adbe",
+      "hash": "sha256:0d068a5405b9af42967e7bdbabe66dbff2313e7de9d6ec5561284d45d687ee29",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",

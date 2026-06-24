@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:2a8b50e5acbcb37d5327bb73ae3fbc37a1df8b3a4ff0c74f0a21966ff05e850a",
+  "content_hash": "sha256:eec6094af1ea9c569ff0611b3b6e182a90217d07012ddb3000102d075508eaec",
   "created": "2026-06-24",
   "description": "A small reinforcing band worked or attached at the head and tail of a textblock to take the strain of pulling a volume from a shelf. It is built up from a core of vellum, gut, or cord wrapped with coloured silk or thread, and is set so that it sits slightly below the level of the boards.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XI, p.147. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/147"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

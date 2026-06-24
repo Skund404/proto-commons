@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:b00688cd422fa30ddd66b290f2af9b0684e005f74893a3c7b18827920313e6ff",
+  "content_hash": "sha256:a6f1f66055cf79ec37094b57e140dcf94b46c8677f7b75431c83c7cf39928392",
   "created": "2026-06-24",
   "description": "Thin calf or sheep skin prepared as a writing-grade sheet, used in place of paper end leaves for a richer effect. Vellum ends must be sewn rather than trusted to paste, and they tend to curl and draw the boards if heated, so thicker stock suits heavy clasped volumes.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter V, p.80. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/80"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

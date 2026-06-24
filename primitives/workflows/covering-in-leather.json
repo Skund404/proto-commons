@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:a6db066d6bcb2bb8644e372eee8c3a1a3f1cbdb8ecbd70b2159b4d02f4a62bc0",
+  "content_hash": "sha256:edbd32ffdc8ee327f380b42d4848e31ec3f92708227360eb74eb50ba2a3cd469",
   "created": "2026-06-24",
   "description": "The full sequence of clothing a forwarded book in pared leather, from preparing the back through covering, shaping the caps and corners, and finishing the inside of the boards, leaving the volume ready for decoration.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XII, p.152. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/152"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

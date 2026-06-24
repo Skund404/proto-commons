@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:3716157ad61fae1b0759ca4922aeb562e625b991ef302a25088b9d5a3123174c",
+  "content_hash": "sha256:1cd42d00325d3a1be6e74235179955e8e6141ef0df392922ac1755956b6ed5a7",
   "created": "2026-06-24",
   "description": "Restoring body and surface strength to soft or perished paper by immersing each sheet in a warm gelatine or isinglass solution, then pressing and drying the treated leaves flat. Sizing also lifts many discolourations and is required again after any aggressive cleaning step. Cockerell warns that the bath must be heated slowly so it stays clear rather than scorching.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
     },
     "skillLevel": "intermediate",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter IV, p.67. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/67"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

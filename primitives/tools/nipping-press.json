@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:7015756c7acc4c52caa658a3a26173b7a1035bf702c243229c71af321cbaaf74",
+  "content_hash": "sha256:d18ef1f72bd46a81da609037de7055f71fd84c1678304aae634edff8f385302a",
   "created": "2026-06-24",
   "description": "A small screw press for giving comparatively light, even pressure, used to nip a book or its boards after tooling and varnishing.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIV, p.212. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/212"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

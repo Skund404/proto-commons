@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:2cfefbc755210baf5f9571e7f34de1c77e7569eed27663d3a0ebb708b3c61253",
+  "content_hash": "sha256:e0b876d8e3cc6abde3ac3fd24d733e2dc8fe61fb03674e91f778dfce41c212f6",
   "created": "2026-06-24",
   "description": "A metal stamp carrying an engraved or sunk device on its face, set in a wooden handle and heated for impressing patterns into a cover. Blind versions are cut like a seal so the recessed area prints the design, while gold versions print from the raised surface.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIV, p.188. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/188"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

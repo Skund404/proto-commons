@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:b6f3db642945f62f90c4490783c3bf102b7f528a1a8497e0eaa38d996292b26b",
+  "content_hash": "sha256:946bf42e9fa5257dfa1ab195b6c4981f402156b92a3b78ad98b9f9251f191424",
   "description": {
     "en": "Chapter X (Cutting in Boards Gilding and Colouring Edges) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
   },
@@ -16,70 +16,70 @@
       "slug": "beeswax"
     },
     {
-      "hash": "sha256:e47eec32b4216cfe082eccb63500143dd5c458080ab3816a679fc504185480f5",
+      "hash": "sha256:4bcb84887fa165810fc175395068d88968818c607693e61c251c900e8e50b2dd",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "cutting-board"
     },
     {
-      "hash": "sha256:7a1bf76994081427fafc8bf77f04b76f11db81d9cfa618e56b50d17b1f1b8c69",
+      "hash": "sha256:e01ccdfb91b91f689f3b0036f942d8cd747c249f68e5960df2bc4b192f69dec8",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "cutting-in-boards"
     },
     {
-      "hash": "sha256:49b43c8cab97dae5db786b5f3523524e96139ff994a000f88542a05bb33d53c6",
+      "hash": "sha256:ed1c98d8d5fa34dbd6a8a1a1bc94888e77b2eaae924dab23f9705fd617178ef2",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "edge-colour"
     },
     {
-      "hash": "sha256:7f4236143bf69825590da231422dd2e9ae27c16640d4a24e396130f8cd16cfcd",
+      "hash": "sha256:35bedee546f667ccd5d716ca27158ba8ba5e79e23c4e107d282dee1037c32e01",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "edge-colouring"
     },
     {
-      "hash": "sha256:988a6ab8a9f7203e04821d3d36765933b1b2c88c29a82e459f6e6de8cd32dfa5",
+      "hash": "sha256:7a15a751cac44d838340e51a36bfb2818f3dde932fc1c31014ada8a898f7bd7e",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "edge-gilding"
     },
     {
-      "hash": "sha256:adf1738df1133dbc1459aff18ba1e347e7a637b93fa6c15eb5401506c209126d",
+      "hash": "sha256:cf35b316ad0b5a5a196dd15d4c70e2909214ec7fa7f975b182dd130a5222b44a",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "fore-edge-painting"
     },
     {
-      "hash": "sha256:a4778a674b656ccea4039a1899b7306b4350feab8e44d0fe66b06a4a9d48acb2",
+      "hash": "sha256:fbab65e57e7720ac4e9f0a21c951f72102246f8c47ffac176f3ef2a4eb9ac9b4",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "gauffering"
     },
     {
-      "hash": "sha256:2459d3a8c9486cd498dd85f548f0321cd51d0340cb6ea761f97d312902210c41",
+      "hash": "sha256:9a3b335366c5c1b25d275785d14ef6fee07e3ee6c979ac3cef182ec7a5830687",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "plough"
     },
     {
-      "hash": "sha256:e3e904a3deaf2e708d32c1ec9ad7c07d0e44a91ca466fca35ca00ef83cec76bb",
+      "hash": "sha256:7c5daea2b4674a5977b8c418a45c980dec687a744d2b17b5c852f9ae6bc1e307",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "tooth-burnisher"
     },
     {
-      "hash": "sha256:ab4aea4ab27e94d2c753a38328749a6a33384f7ea9e828094bb971337ef5483f",
+      "hash": "sha256:37bc5211770fddbae94e59adec7ccd5893f54af60d2e47c7aba9b60d82534aa3",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",

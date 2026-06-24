@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:d71d73298ab4b391eaad3626982f45eca3913cef0df9666d233153961596d29f",
+  "content_hash": "sha256:fea35f77b0aac143d41545f0cb376f3f9effa1842bcf2c8b7f95eb7e0b4a5bbb",
   "created": "2026-06-24",
   "description": "Loose metal characters locked into a holder so that a whole line of lettering can be set and struck across a panel in one operation, much like a pallet. It trades the flexibility of single letters for regularity and speed, useful when many identical copies must be lettered.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XV, p.215. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/215"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

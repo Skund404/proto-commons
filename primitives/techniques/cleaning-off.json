@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:030605e990d7d3b5aee4092632c758ee537845a298430dac2adad8084822cd1f",
+  "content_hash": "sha256:f19e1b57ec4c1ba0cfcdda876c3df64d505f96e42cfba4944bb4a2787bea6275",
   "created": "2026-06-24",
   "description": "Softening the old glue on the spine with paste and scraping away the surplus with a shaped piece of wood, so the back is clean before pressing. Done in the press for important work to keep the spine true.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
     },
     "skillLevel": "intermediate",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter IX, p.124. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/124"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

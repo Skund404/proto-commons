@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:73d205dbea8517e63fc7315eeb2b9c2546c855d9baff3f1cc11b44ee9f727c61",
+  "content_hash": "sha256:d0646f977d5949317357268758ccb41fb0b9182b4db6330e3cdd09e503be3a00",
   "created": "2026-06-24",
   "description": "A heated burnishing iron run warm over a cover to smooth irregularities, with forms shaped for backs, inside margins, or sides. It is kept moving so the leather is not scorched and its edges are filed smooth before use.",
   "emitter": "opg://commons-seed",
@@ -30,6 +30,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIV, p.191. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/191"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

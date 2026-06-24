@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:ffd7b52904345dbf50579523cc39128033aa86b739f62e175fad59095017ee5a",
+  "content_hash": "sha256:7fc4f92e138d6053a80a3f3203e43ca4baaf19aaaeb96768b46645f0ccbc4064",
   "created": "2026-06-24",
   "description": "Shaving the cut cover down to graded thickness so it bends cleanly over the boards. The skin is thinned at the joints, edges, and head-caps while left fuller over back and panels; the work must run smooth and start gradually so no ridge shows once polished.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
     },
     "skillLevel": "advanced",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XII, p.152. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/152"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

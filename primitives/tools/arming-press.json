@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:94225d6d0793ab46924a533669f44d396d8005949e51d1fd5b71d303a109772d",
+  "content_hash": "sha256:015e48aef73b758a072af75cdfefa1a3d0a26a4bbf7fcb59dc15ee1168e9e944",
   "created": "2026-06-24",
   "description": "A heated platen press used to strike engraved blocks onto covers. The block is glued to a movable plate fixed in a heating box, and an adjustable bed lets the finisher land the impression in the same spot across books of differing sizes.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XV, p.229. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/229"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

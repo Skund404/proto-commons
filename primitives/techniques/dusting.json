@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:7d5c1ccc3821ad1291265a1be32a43d9a3ddd62e0d2d61d02c8c0753404187f1",
+  "content_hash": "sha256:a4797afc89d9634dbb3f0df0777ec608be99fb9084bd8ddf72317bd9616e25a1",
   "created": "2026-06-24",
   "description": "Routine removal of accumulated dust from shelved volumes as part of regular library upkeep. Each book is taken down, kept closed, inverted, and brushed off so loose particles fall clear instead of settling between the leaves; afterwards the volume is left slightly open to air. Best carried out in dry conditions, with the bindings inspected for damage at the same time.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
     },
     "skillLevel": "beginner",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XXI, p.292. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/292"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

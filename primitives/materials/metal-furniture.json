@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:85d75475af652267e92eca402fd9529f23833ce3e085d0e62f19969468f49a07",
+  "content_hash": "sha256:c83963cf0b7d338317500586d7e6658d6e88330968ea72f6503663c603b50252",
   "created": "2026-06-24",
   "description": "Protective and ornamental metalwork fixed to a binding: corner pieces, raised bosses, edge shoes, centres, and full plaques. Flat smooth pieces guard shelved volumes, while raised bosses suit books that rest on lecterns; the metal may be enamelled, jewelled, embossed, or chased.",
   "emitter": "opg://commons-seed",
@@ -24,6 +24,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XVIII, p.262. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/262"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

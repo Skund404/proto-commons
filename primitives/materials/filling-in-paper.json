@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:2b43884c9c577c84920292e767599ca1facfb841cb8e2a1ab85a70e12de77098",
+  "content_hash": "sha256:8e98e9cd3e49797fa8fc3b98d39d0c7c1dde7b5ad453b890bce2356cad60f324",
   "created": "2026-06-24",
   "description": "A stiff paper cut to fill the recess left inside a board after the leather turn-ins, so the inner surface sits level. A grade as thick as the turn-in, such as engineer's cartridge, suits the purpose and helps draw the board flat as it dries.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XII, p.152. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/152"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

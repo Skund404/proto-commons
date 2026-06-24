@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:6db21f21954a9e08407f9ba4e23e04ea43d1ecd981b08a770ab132d14b71e4db",
+  "content_hash": "sha256:bd2781a524d47e20c673de5c2fdf10ffa73af72ea5262f11b77b4d00c94bbd02",
   "description": {
     "en": "Chapter I (Introduction) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
   },
@@ -9,28 +9,28 @@
   "ia_item": "bookbindingcareo00cockrich",
   "items": [
     {
-      "hash": "sha256:ba762a61f0c473a535b4e9d36a00c417cee805100423bc1d2caa6c6cd5abe9a4",
+      "hash": "sha256:a869a358b94b8bb1ecaf98af248aa7ecaac1859d4ee6900dcd30102ba8a31bba",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "cover-leather"
     },
     {
-      "hash": "sha256:01d3e5832a6f4dd4013ee91d1460c50bf71e59d6cd213b3563e7c8665a28ae26",
+      "hash": "sha256:115686bbfb840afd2534614286ef129a3b3143fe55fd1fe21b1ee49b3db4f022",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "hollow-back"
     },
     {
-      "hash": "sha256:cc86fd1876367b7f41ecfe5c5254cf1c0ebbd88f890ca16151821e3ed415bf44",
+      "hash": "sha256:843d39613a8ee560b616890c6586061a176ab4076b67d016e21af8ca34ebc7a5",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "sawing-in"
     },
     {
-      "hash": "sha256:b49cf71def4d7d1e2d4186d9ad900ff945205519446fc719d4fa2a975661f6d9",
+      "hash": "sha256:9f49c85341ed2058e6758a022f5cffff4ff718a3a80967493e203ef1e724498b",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",

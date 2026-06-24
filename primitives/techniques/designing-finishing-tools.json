@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:c48bdf414b0e85c8fabf4868652bd51e58a2ab9531f426676566bc79b467ffbb",
+  "content_hash": "sha256:d0456cdc4d984795b40c1df9b8fdf0d477197597daca7d798b965b50ad04b6cd",
   "created": "2026-06-24",
   "description": "Drawing simple, conventionalised motifs in ink so a tool-cutter can engrave matching brass finishing tools. Because a single tool is impressed many times across a cover, forms are kept simple and balanced; one drawing can yield several tools at graded sizes, and leaves are usually cut in mirrored and straight variants so a pattern does not read as restless.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
     },
     "skillLevel": "advanced",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XVI, p.232. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/232"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

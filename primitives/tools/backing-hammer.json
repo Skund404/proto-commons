@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:125070e4b693c17755074ea281c6ed1ee6bb9664cd648f4659e5d47bda5e011d",
+  "content_hash": "sha256:c364d17bd6c8133d0d90be55fa3517e2cc10f0604b192fdb324f15e83452493b",
   "created": "2026-06-24",
   "description": "A specialised hammer used to shape the back of a textblock by rounding it and fanning the sections outward to form the joint groove. A face of moderate size lets a glancing blow move the sections without flattening raised bands.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VIII, p.116. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/116"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

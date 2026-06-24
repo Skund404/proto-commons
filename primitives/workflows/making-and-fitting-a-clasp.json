@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:52283c130e054e33dcee0871a84945c2ff26fad6479aa96f4261284fe2bdf17e",
+  "content_hash": "sha256:cafd782b3c6e9ac0cb39e592e93c3303bd1b16ce9e560354089a2755a2057bdd",
   "created": "2026-06-24",
   "description": "End-to-end procedure for furnishing a book with a working clasp: preparing the metal catch, anchoring it in the boards, plaiting the leather strap, and dressing the leather around the fitting so the closed cover holds the leaves flat.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XVIII, p.259. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/259"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

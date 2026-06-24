@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:88fae84e1d579e22086a15aaf4333c304c41ab1384fb49a2686f68a6540abe67",
+  "content_hash": "sha256:bc7c79d0657604aef708861a24b7d236333f92c8928c3b7d7757b2316aa6539c",
   "created": "2026-06-24",
   "description": "A hard polished stone or steel tool drawn across a gilded edge to compress and brighten the gold to a mirror finish. The working face is ground smooth and free of sharp corners so it cannot scratch the leaf; agate or bloodstone are common heads.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VI, p.97. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/97"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

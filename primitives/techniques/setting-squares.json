@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f38c8c9d4cec3ccf7bffe7cb6afe4f8a7b2d697a43502b2e474574ecd7ac340c",
+  "content_hash": "sha256:4806d1eab666c6a533018d0f5d61e92f5294f2ce93ec366b8797a4b9f6246f32",
   "created": "2026-06-24",
   "description": "Fixing the boards so the margin they project beyond the leaves is equal at head and tail on both covers. The book is adjusted until it stands square and upright, with a slightly deeper square sometimes left at the tail to lift the head-cap clear of the shelf.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
     },
     "skillLevel": "intermediate",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XII, p.153. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/153"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

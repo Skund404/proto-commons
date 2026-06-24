@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:36f1825cd133d55ac1871fd709acf30d7152e7eda9fbc0a269a3626a756bc5a2",
+  "content_hash": "sha256:7a24e8636f8c11bd791ede1af3c1e2a8f214ad4123b7653daa51068881d8514c",
   "created": "2026-06-24",
   "description": "Coloured window glazing used to shield shelved books from the disintegrating action of direct sunlight. Pale yellow and olive-green shades filter the most damaging rays and protect leather, whereas blue and violet glass pass nearly as harmful a light as clear glass.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XXI, p.291. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/291"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

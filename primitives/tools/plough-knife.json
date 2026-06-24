@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:28129169b601a3c12b861d26c81b984b25b5765209f0cde0aabd474065af99f1",
+  "content_hash": "sha256:4e18d4362e4df876c9c13ae9e8cae7dd069f82552f351134568677b968c4c86f",
   "created": "2026-06-24",
   "description": "Replaceable blade fitted to the plough that does the actual cutting. For hard board it is ground to a less acute angle so the edge does not chip, and it is sharpened often to keep cutting effort low.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
       ]
     },
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter IX, p.127. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/127"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

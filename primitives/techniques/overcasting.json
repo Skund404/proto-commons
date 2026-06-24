@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:5a0d7151c4bad59e53dfe6c6d923923825bee39edbf7722eb96ec7c211d5e472",
+  "content_hash": "sha256:9adb8e6a300cd115f6de6eedefe4d458f1a3416d558a582f2470191433c17712",
   "created": "2026-06-24",
   "description": "Over-sewing the back edges of loose single leaves grouped into sections so they hold together: Cockerell notes it makes a stiff back that cannot open freely, used only as a last resort.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
     },
     "skillLevel": "intermediate",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter II, p.51. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/51"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

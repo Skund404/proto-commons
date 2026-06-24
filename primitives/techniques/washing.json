@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:48c0edd5af601fdd348c4e97838bf30c4ce7df9a5bd09c18a07366bdec86ea42",
+  "content_hash": "sha256:f5c3e2e94c81f12bf46053109881ae7a10f5c7a6d9c2a116e0ad4ad4d93c1e90",
   "created": "2026-06-24",
   "description": "Removing stubborn stains and ink from book leaves with chemical baths, most safely a sequence of permanganate of potash followed by dilute sulphurous acid and thorough rinsing. Milder marks may yield to warm water with alum, curd soap, or dilute hydrochloric acid. Cockerell stresses that most washing methods in common use are dangerous and have destroyed fine books, and that washed sheets always need re-sizing afterward.",
   "emitter": "opg://commons-seed",
@@ -23,6 +23,10 @@
     },
     "skillLevel": "advanced",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter IV, p.67. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/67"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:645ad2599498d3909292a28d0560ffe01c5d84bcb9429efc18020d6a8b058186",
+  "content_hash": "sha256:961b4eb65cdcc6b65b19615b265910bc8c2ee12961b7bb99af278c31c374e680",
   "created": "2026-06-24",
   "description": "Securing the free leaf of an end-paper unit flat against the inside face of a finished cover board. The paper is trimmed to fit the space left by the leather turn-in, coated with a smooth lump-free adhesive over protective waste sheet, then drawn onto the board and worked down so it sits exactly to the board edges and beds cleanly into the joint. Rubbing is always done through a protective sheet so the surface is not soiled or glazed.",
   "emitter": "opg://commons-seed",
@@ -22,6 +22,10 @@
     },
     "skillLevel": "advanced",
     "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XVII, p.255. Internet Archive.",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich/page/255"
+      },
       {
         "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
