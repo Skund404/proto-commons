@@ -1,6 +1,1500 @@
 {
   "anchors": [
     {
+      "anchor": "i",
+      "passages": [
+        {
+          "match": [
+            "hollow back",
+            "hollow backs",
+            "hollow",
+            "the \"hollow\""
+          ],
+          "primitive": {
+            "hash": "sha256:01d3e5832a6f4dd4013ee91d1460c50bf71e59d6cd213b3563e7c8665a28ae26",
+            "kind": "technique",
+            "path": "primitives/techniques/hollow-back.json",
+            "slug": "hollow-back"
+          },
+          "render": {
+            "en": "hollow back"
+          }
+        },
+        {
+          "match": [
+            "sawing in",
+            "saw cuts",
+            "sunk in saw cuts"
+          ],
+          "primitive": {
+            "hash": "sha256:cc86fd1876367b7f41ecfe5c5254cf1c0ebbd88f890ca16151821e3ed415bf44",
+            "kind": "technique",
+            "path": "primitives/techniques/sawing-in.json",
+            "slug": "sawing-in"
+          },
+          "render": {
+            "en": "sawing in"
+          }
+        },
+        {
+          "match": [
+            "sewn on tapes",
+            "sewing on tapes"
+          ],
+          "primitive": {
+            "hash": "sha256:b49cf71def4d7d1e2d4186d9ad900ff945205519446fc719d4fa2a975661f6d9",
+            "kind": "technique",
+            "path": "primitives/techniques/sewing-on-tapes.json",
+            "slug": "sewing-on-tapes"
+          },
+          "render": {
+            "en": "sewing on tapes"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "ii-sheets",
+      "passages": [
+        {
+          "match": [
+            "gathered",
+            "gathering"
+          ],
+          "primitive": {
+            "hash": "sha256:6274d4bf780d8fd72ba138cb079a8bf6f0fc52f595ec35d1c2e225b02f3ce5fb",
+            "kind": "technique",
+            "path": "primitives/techniques/gathering.json",
+            "slug": "gathering"
+          },
+          "render": {
+            "en": "gathering"
+          }
+        },
+        {
+          "match": [
+            "Art Paper",
+            "plate papers"
+          ],
+          "primitive": {
+            "hash": "sha256:c16f9df6e3d863a3685a88e708258dc52076ea2b408d17bb116cfeff7d72a680",
+            "kind": "material",
+            "path": "primitives/materials/art-paper.json",
+            "slug": "art-paper"
+          },
+          "render": {
+            "en": "art paper"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "ii-folding",
+      "passages": [
+        {
+          "match": [
+            "folding",
+            "folded",
+            "fold up the sheets"
+          ],
+          "primitive": {
+            "hash": "sha256:1040f14d89032b4d66c2d2614852e5c769fb5991b9ea7495c291d299a84301ca",
+            "kind": "technique",
+            "path": "primitives/techniques/folding.json",
+            "slug": "folding"
+          },
+          "render": {
+            "en": "folding"
+          }
+        },
+        {
+          "match": [
+            "folder"
+          ],
+          "primitive": {
+            "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+            "kind": "tool",
+            "path": "primitives/tools/folder.json",
+            "slug": "folder"
+          },
+          "render": {
+            "en": "folder"
+          }
+        },
+        {
+          "match": [
+            "guarded",
+            "guard"
+          ],
+          "primitive": {
+            "hash": "sha256:62aaf4519ee70a19209a41e03c6e3e7f8e8caa41183ae9b8b997eae655283204",
+            "kind": "technique",
+            "path": "primitives/techniques/guarding.json",
+            "slug": "guarding"
+          },
+          "render": {
+            "en": "guarding"
+          }
+        },
+        {
+          "match": [
+            "guard",
+            "guards"
+          ],
+          "primitive": {
+            "hash": "sha256:707c70bd01d1f001740926bbb3b8dbb8d532e86db2bc60839f2aceca05416aee",
+            "kind": "material",
+            "path": "primitives/materials/guard.json",
+            "slug": "guard"
+          },
+          "render": {
+            "en": "guard"
+          }
+        },
+        {
+          "match": [
+            "trimming",
+            "trimmed"
+          ],
+          "primitive": {
+            "hash": "sha256:9df9bb5c80d86c545956b3b9a61f252ce9b65e60a94182c15359b93b6e0e7eeb",
+            "kind": "technique",
+            "path": "primitives/techniques/trimming-plates.json",
+            "slug": "trimming-plates"
+          },
+          "render": {
+            "en": "trimming plates"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "ii-collating",
+      "passages": [
+        {
+          "match": [
+            "collated",
+            "collating",
+            "collate",
+            "paged through in pencil"
+          ],
+          "primitive": {
+            "hash": "sha256:1b86ae1c4117c444bb1d767dceefc2cfaf7e7191021488c323657306f19c5e64",
+            "kind": "technique",
+            "path": "primitives/techniques/collating.json",
+            "slug": "collating"
+          },
+          "render": {
+            "en": "collating"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "ii-pulling",
+      "passages": [
+        {
+          "match": [
+            "pulled",
+            "pulling",
+            "taken to pieces"
+          ],
+          "primitive": {
+            "hash": "sha256:efd31e6c20b443c92d91dc4c6527b59bc0f46384693e029386d851c1d344eeb3",
+            "kind": "technique",
+            "path": "primitives/techniques/pulling.json",
+            "slug": "pulling"
+          },
+          "render": {
+            "en": "pulling to pieces"
+          }
+        },
+        {
+          "match": [
+            "mending",
+            "mended"
+          ],
+          "primitive": {
+            "hash": "sha256:7cf97840bae356ee4f6a1bae0cc5e65703ae96b6956d3270c79b46a1acdc5b5f",
+            "kind": "technique",
+            "path": "primitives/techniques/mending.json",
+            "slug": "mending"
+          },
+          "render": {
+            "en": "mending"
+          }
+        },
+        {
+          "match": [
+            "overcast",
+            "overcasting"
+          ],
+          "primitive": {
+            "hash": "sha256:5a0d7151c4bad59e53dfe6c6d923923825bee39edbf7722eb96ec7c211d5e472",
+            "kind": "technique",
+            "path": "primitives/techniques/overcasting.json",
+            "slug": "overcasting"
+          },
+          "render": {
+            "en": "overcasting"
+          }
+        },
+        {
+          "match": [
+            "Art Paper"
+          ],
+          "primitive": {
+            "hash": "sha256:c16f9df6e3d863a3685a88e708258dc52076ea2b408d17bb116cfeff7d72a680",
+            "kind": "material",
+            "path": "primitives/materials/art-paper.json",
+            "slug": "art-paper"
+          },
+          "render": {
+            "en": "art paper"
+          }
+        },
+        {
+          "match": [
+            "folder",
+            "fine folder"
+          ],
+          "primitive": {
+            "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+            "kind": "tool",
+            "path": "primitives/tools/folder.json",
+            "slug": "folder"
+          },
+          "render": {
+            "en": "folder"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "ii-refolding",
+      "passages": [
+        {
+          "match": [
+            "refolding",
+            "re-folding",
+            "re-adjustment"
+          ],
+          "primitive": {
+            "hash": "sha256:76695c4735dc39f14ec1f773a2b30f108b7c4f8e60e45c199aa04d2e2762fbdd",
+            "kind": "technique",
+            "path": "primitives/techniques/refolding.json",
+            "slug": "refolding"
+          },
+          "render": {
+            "en": "refolding"
+          }
+        },
+        {
+          "match": [
+            "dividers",
+            "pair of dividers"
+          ],
+          "primitive": {
+            "hash": "sha256:826b561a42531ce020f377c9c73448da3b80759c3d9b34953cd1c8b5b145c2e2",
+            "kind": "tool",
+            "path": "primitives/tools/dividers.json",
+            "slug": "dividers"
+          },
+          "render": {
+            "en": "dividers"
+          }
+        },
+        {
+          "match": [
+            "carpenter's square"
+          ],
+          "primitive": {
+            "hash": "sha256:216cc80aeb64f2435abaff5ae80afa59a9a6f2d8242df9d39c8c81b55161ccbb",
+            "kind": "tool",
+            "path": "primitives/tools/carpenter-square.json",
+            "slug": "carpenter-square"
+          },
+          "render": {
+            "en": "carpenter's square"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "ii-joints",
+      "passages": [
+        {
+          "match": [
+            "knocked out",
+            "old joints"
+          ],
+          "primitive": {
+            "hash": "sha256:d7990fc69cdd05d720100e5001b2444bf7230265c83cd9825ebad61317810715",
+            "kind": "technique",
+            "path": "primitives/techniques/knocking-out-joints.json",
+            "slug": "knocking-out-joints"
+          },
+          "render": {
+            "en": "knocking out joints"
+          }
+        },
+        {
+          "match": [
+            "hammer",
+            "hammer face"
+          ],
+          "primitive": {
+            "hash": "sha256:076e4cb7c5afd6fd35260cb8be1280e3db83c7c896c819787adf62facfd79546",
+            "kind": "tool",
+            "path": "primitives/tools/flattening-hammer.json",
+            "slug": "flattening-hammer"
+          },
+          "render": {
+            "en": "hammer"
+          }
+        },
+        {
+          "match": [
+            "knocking-down iron"
+          ],
+          "primitive": {
+            "hash": "sha256:6439aa0b076370331e4a7148618e2891b0b4e035ccff9193a4d38c1e3837abff",
+            "kind": "tool",
+            "path": "primitives/tools/knocking-down-iron.json",
+            "slug": "knocking-down-iron"
+          },
+          "render": {
+            "en": "knocking-down iron"
+          }
+        },
+        {
+          "match": [
+            "lying press"
+          ],
+          "primitive": {
+            "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+            "kind": "tool",
+            "path": "primitives/tools/lying-press.json",
+            "slug": "lying-press"
+          },
+          "render": {
+            "en": "lying press"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "iii-guarding",
+      "passages": [
+        {
+          "match": [
+            "guarding",
+            "guarded",
+            "guards",
+            "guarding plates"
+          ],
+          "primitive": {
+            "hash": "sha256:62aaf4519ee70a19209a41e03c6e3e7f8e8caa41183ae9b8b997eae655283204",
+            "kind": "technique",
+            "path": "primitives/techniques/guarding.json",
+            "slug": "guarding"
+          },
+          "render": {
+            "en": "guarding"
+          }
+        },
+        {
+          "match": [
+            "hinged",
+            "hinging"
+          ],
+          "primitive": {
+            "hash": "sha256:f98eb89480dcbba48df901343987643fff708b4cb7516b9f3c8f6e301a100db6",
+            "kind": "technique",
+            "path": "primitives/techniques/hinging-plates.json",
+            "slug": "hinging-plates"
+          },
+          "render": {
+            "en": "hinging plates"
+          }
+        },
+        {
+          "match": [
+            "guard",
+            "guards"
+          ],
+          "primitive": {
+            "hash": "sha256:707c70bd01d1f001740926bbb3b8dbb8d532e86db2bc60839f2aceca05416aee",
+            "kind": "material",
+            "path": "primitives/materials/guard.json",
+            "slug": "guard"
+          },
+          "render": {
+            "en": "guard"
+          }
+        },
+        {
+          "match": [
+            "linen",
+            "jaconet"
+          ],
+          "primitive": {
+            "hash": "sha256:7143b4533a62b964918d79d9f1e90ce2e08b748b99a0934da646afcbf4576189",
+            "kind": "material",
+            "path": "primitives/materials/mounting-linen.json",
+            "slug": "mounting-linen"
+          },
+          "render": {
+            "en": "linen"
+          }
+        },
+        {
+          "match": [
+            "paste",
+            "white paste"
+          ],
+          "primitive": {
+            "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+            "kind": "material",
+            "path": "primitives/materials/paste.json",
+            "slug": "paste"
+          },
+          "render": {
+            "en": "paste"
+          }
+        },
+        {
+          "match": [
+            "blotting-paper"
+          ],
+          "primitive": {
+            "hash": "sha256:1f9edeb2da3af3ba10236514c0cbf4d331945ef467545fde65996f8ec262d490",
+            "kind": "material",
+            "path": "primitives/materials/blotting-paper.json",
+            "slug": "blotting-paper"
+          },
+          "render": {
+            "en": "blotting-paper"
+          }
+        },
+        {
+          "match": [
+            "mount cutter's knife"
+          ],
+          "primitive": {
+            "hash": "sha256:1987312410f3405c6cf62f03f73b52b3d32f2bed9e0be5e5b86c23a8071895b6",
+            "kind": "tool",
+            "path": "primitives/tools/mount-cutters-knife.json",
+            "slug": "mount-cutters-knife"
+          },
+          "render": {
+            "en": "mount-cutter's knife"
+          }
+        },
+        {
+          "match": [
+            "dividers"
+          ],
+          "primitive": {
+            "hash": "sha256:826b561a42531ce020f377c9c73448da3b80759c3d9b34953cd1c8b5b145c2e2",
+            "kind": "tool",
+            "path": "primitives/tools/dividers.json",
+            "slug": "dividers"
+          },
+          "render": {
+            "en": "dividers"
+          }
+        },
+        {
+          "match": [
+            "straight-edge"
+          ],
+          "primitive": {
+            "hash": "sha256:4d99452f5c91ece8b538549ea4ba623ee0988db4b6d9cb792426a88661cfdfb2",
+            "kind": "tool",
+            "path": "primitives/tools/straight-edge.json",
+            "slug": "straight-edge"
+          },
+          "render": {
+            "en": "straight-edge"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "iii-throwing-out",
+      "passages": [
+        {
+          "match": [
+            "thrown out",
+            "throwing out"
+          ],
+          "primitive": {
+            "hash": "sha256:ed521687864119dc48199859ecf8247fe0f899067090ada3010fd313a57e752b",
+            "kind": "technique",
+            "path": "primitives/techniques/throwing-out.json",
+            "slug": "throwing-out"
+          },
+          "render": {
+            "en": "throwing out"
+          }
+        },
+        {
+          "match": [
+            "linen",
+            "jaconet"
+          ],
+          "primitive": {
+            "hash": "sha256:7143b4533a62b964918d79d9f1e90ce2e08b748b99a0934da646afcbf4576189",
+            "kind": "material",
+            "path": "primitives/materials/mounting-linen.json",
+            "slug": "mounting-linen"
+          },
+          "render": {
+            "en": "linen"
+          }
+        },
+        {
+          "match": [
+            "guard",
+            "guards"
+          ],
+          "primitive": {
+            "hash": "sha256:707c70bd01d1f001740926bbb3b8dbb8d532e86db2bc60839f2aceca05416aee",
+            "kind": "material",
+            "path": "primitives/materials/guard.json",
+            "slug": "guard"
+          },
+          "render": {
+            "en": "guard"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "iii-paring-paper",
+      "passages": [
+        {
+          "match": [
+            "paring",
+            "pared"
+          ],
+          "primitive": {
+            "hash": "sha256:5d99fcb8feab95b0bab54ad90d63dd83da378a093a12bc1860ffeec20fc98af1",
+            "kind": "technique",
+            "path": "primitives/techniques/paring-paper.json",
+            "slug": "paring-paper"
+          },
+          "render": {
+            "en": "paring paper"
+          }
+        },
+        {
+          "match": [
+            "very sharp knife",
+            "knife"
+          ],
+          "primitive": {
+            "hash": "sha256:8ec445696dbad2c1e359fd23e9b8b41e85f38dd01cc02fc32b0ced9fa899e11a",
+            "kind": "tool",
+            "path": "primitives/tools/paring-knife.json",
+            "slug": "paring-knife"
+          },
+          "render": {
+            "en": "paring knife"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "iii-india-proofs",
+      "passages": [
+        {
+          "match": [
+            "soak",
+            "India proof"
+          ],
+          "primitive": {
+            "hash": "sha256:bd44f28fc4def0406ca30cf316320d020025bb5ad8df6b3db4f8a1aec90e0bd3",
+            "kind": "technique",
+            "path": "primitives/techniques/soaking-off-india-proofs.json",
+            "slug": "soaking-off-india-proofs"
+          },
+          "render": {
+            "en": "soaking off India proofs"
+          }
+        },
+        {
+          "match": [
+            "mounted",
+            "thin paper"
+          ],
+          "primitive": {
+            "hash": "sha256:3a91edd907a7f07fd95b8967db87a53eb9abaa85b9507a7fdd004c2b0e6b7b4f",
+            "kind": "technique",
+            "path": "primitives/techniques/mounting-thin-paper.json",
+            "slug": "mounting-thin-paper"
+          },
+          "render": {
+            "en": "mounting very thin paper"
+          }
+        },
+        {
+          "match": [
+            "paste",
+            "thin, white paste"
+          ],
+          "primitive": {
+            "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+            "kind": "material",
+            "path": "primitives/materials/paste.json",
+            "slug": "paste"
+          },
+          "render": {
+            "en": "paste"
+          }
+        },
+        {
+          "match": [
+            "blotting-paper"
+          ],
+          "primitive": {
+            "hash": "sha256:1f9edeb2da3af3ba10236514c0cbf4d331945ef467545fde65996f8ec262d490",
+            "kind": "material",
+            "path": "primitives/materials/blotting-paper.json",
+            "slug": "blotting-paper"
+          },
+          "render": {
+            "en": "blotting-paper"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "iii-splitting-paper",
+      "passages": [
+        {
+          "match": [
+            "split",
+            "splitting"
+          ],
+          "primitive": {
+            "hash": "sha256:297e25a1d7e02d65106e817ba79b11a45f7e8bec6c0b08f14386d0cbe6bed64e",
+            "kind": "technique",
+            "path": "primitives/techniques/splitting-paper.json",
+            "slug": "splitting-paper"
+          },
+          "render": {
+            "en": "splitting paper"
+          }
+        },
+        {
+          "match": [
+            "jaconet",
+            "linen"
+          ],
+          "primitive": {
+            "hash": "sha256:7143b4533a62b964918d79d9f1e90ce2e08b748b99a0934da646afcbf4576189",
+            "kind": "material",
+            "path": "primitives/materials/mounting-linen.json",
+            "slug": "mounting-linen"
+          },
+          "render": {
+            "en": "linen"
+          }
+        },
+        {
+          "match": [
+            "paste"
+          ],
+          "primitive": {
+            "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+            "kind": "material",
+            "path": "primitives/materials/paste.json",
+            "slug": "paste"
+          },
+          "render": {
+            "en": "paste"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "iii-inlaying",
+      "passages": [
+        {
+          "match": [
+            "inlay",
+            "inlaid",
+            "inlaying"
+          ],
+          "primitive": {
+            "hash": "sha256:dcdc564a35fbd9196e3a3cb72f9f6624c73396e0bf98eee2275c204f76b88d66",
+            "kind": "technique",
+            "path": "primitives/techniques/inlaying.json",
+            "slug": "inlaying"
+          },
+          "render": {
+            "en": "inlaying"
+          }
+        },
+        {
+          "match": [
+            "folder"
+          ],
+          "primitive": {
+            "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+            "kind": "tool",
+            "path": "primitives/tools/folder.json",
+            "slug": "folder"
+          },
+          "render": {
+            "en": "folder"
+          }
+        },
+        {
+          "match": [
+            "knife"
+          ],
+          "primitive": {
+            "hash": "sha256:8ec445696dbad2c1e359fd23e9b8b41e85f38dd01cc02fc32b0ced9fa899e11a",
+            "kind": "tool",
+            "path": "primitives/tools/paring-knife.json",
+            "slug": "paring-knife"
+          },
+          "render": {
+            "en": "paring knife"
+          }
+        },
+        {
+          "match": [
+            "pasted"
+          ],
+          "primitive": {
+            "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+            "kind": "material",
+            "path": "primitives/materials/paste.json",
+            "slug": "paste"
+          },
+          "render": {
+            "en": "paste"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "iii-flattening-vellum",
+      "passages": [
+        {
+          "match": [
+            "flattened",
+            "cockled",
+            "flattening"
+          ],
+          "primitive": {
+            "hash": "sha256:8b05c05ff8c0ef8fb6ab5ee18892ff8886899a17d8516deadabab3743f4cb5fa",
+            "kind": "technique",
+            "path": "primitives/techniques/flattening-vellum.json",
+            "slug": "flattening-vellum"
+          },
+          "render": {
+            "en": "flattening vellum"
+          }
+        },
+        {
+          "match": [
+            "vellum"
+          ],
+          "primitive": {
+            "hash": "sha256:4ab7df86b5a08ecbe4964b9ee0e65d6f589a751ce056a70394e88a0d25e1a415",
+            "kind": "material",
+            "path": "primitives/materials/vellum.json",
+            "slug": "vellum"
+          },
+          "render": {
+            "en": "vellum"
+          }
+        },
+        {
+          "match": [
+            "blotting-paper"
+          ],
+          "primitive": {
+            "hash": "sha256:1f9edeb2da3af3ba10236514c0cbf4d331945ef467545fde65996f8ec262d490",
+            "kind": "material",
+            "path": "primitives/materials/blotting-paper.json",
+            "slug": "blotting-paper"
+          },
+          "render": {
+            "en": "blotting-paper"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "iv-sizing",
+      "passages": [
+        {
+          "match": [
+            "Sizing",
+            "sizing",
+            "re-sizing",
+            "sized"
+          ],
+          "primitive": {
+            "hash": "sha256:3716157ad61fae1b0759ca4922aeb562e625b991ef302a25088b9d5a3123174c",
+            "kind": "technique",
+            "path": "primitives/techniques/sizing.json",
+            "slug": "sizing"
+          },
+          "render": {
+            "en": "sizing"
+          }
+        },
+        {
+          "match": [
+            "gelatine",
+            "isinglass",
+            "size"
+          ],
+          "primitive": {
+            "hash": "sha256:f0be46b427eacd6bbcc5741945c5f92eafb7abbad196c8c7b60908028c55aa9a",
+            "kind": "material",
+            "path": "primitives/materials/gelatine-size.json",
+            "slug": "gelatine-size"
+          },
+          "render": {
+            "en": "gelatine size"
+          }
+        },
+        {
+          "match": [
+            "lying press"
+          ],
+          "primitive": {
+            "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+            "kind": "tool",
+            "path": "primitives/tools/lying-press.json",
+            "slug": "lying-press"
+          },
+          "render": {
+            "en": "lying press"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "iv-washing",
+      "passages": [
+        {
+          "match": [
+            "Washing",
+            "washing",
+            "washed"
+          ],
+          "primitive": {
+            "hash": "sha256:48c0edd5af601fdd348c4e97838bf30c4ce7df9a5bd09c18a07366bdec86ea42",
+            "kind": "technique",
+            "path": "primitives/techniques/washing.json",
+            "slug": "washing"
+          },
+          "render": {
+            "en": "washing"
+          }
+        },
+        {
+          "match": [
+            "permanganate of potash",
+            "sulphurous acid",
+            "alum",
+            "ether"
+          ],
+          "primitive": {
+            "hash": "sha256:e60761c375f79f2843aa82daa8e023ff18d11e8e6260a3dec70d9246d66ce31c",
+            "kind": "material",
+            "path": "primitives/materials/paper-cleaning-agent.json",
+            "slug": "paper-cleaning-agent"
+          },
+          "render": {
+            "en": "paper cleaning agent"
+          }
+        },
+        {
+          "match": [
+            "soft brush",
+            "hog's hair brush"
+          ],
+          "primitive": {
+            "hash": "sha256:fa42311b8586e60386d70ffc9ec9e270293c79df57ff84c2e544230b3be9d6d1",
+            "kind": "tool",
+            "path": "primitives/tools/soft-brush.json",
+            "slug": "soft-brush"
+          },
+          "render": {
+            "en": "soft brush"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "iv-mending",
+      "passages": [
+        {
+          "match": [
+            "Mending",
+            "mending",
+            "mended"
+          ],
+          "primitive": {
+            "hash": "sha256:7cf97840bae356ee4f6a1bae0cc5e65703ae96b6956d3270c79b46a1acdc5b5f",
+            "kind": "technique",
+            "path": "primitives/techniques/mending.json",
+            "slug": "mending"
+          },
+          "render": {
+            "en": "mending"
+          }
+        },
+        {
+          "match": [
+            "Mending vellum",
+            "vellum patch"
+          ],
+          "primitive": {
+            "hash": "sha256:85bcb61696a665d0aab4368308397ba54b2ac77e42be09cdb0fc86e9dd416e64",
+            "kind": "technique",
+            "path": "primitives/techniques/mending-vellum.json",
+            "slug": "mending-vellum"
+          },
+          "render": {
+            "en": "mending vellum"
+          }
+        },
+        {
+          "match": [
+            "mending paper",
+            "Japanese paper",
+            "pared paper"
+          ],
+          "primitive": {
+            "hash": "sha256:53ed8c675936f6ce423d2abe781a4e318e6f31a99bd73e44cb866e41d3f2698a",
+            "kind": "material",
+            "path": "primitives/materials/mending-paper.json",
+            "slug": "mending-paper"
+          },
+          "render": {
+            "en": "mending paper"
+          }
+        },
+        {
+          "match": [
+            "paste",
+            "white paste"
+          ],
+          "primitive": {
+            "hash": "sha256:6666fdc9d501e772fac19c7321844a62e62a873440e5304425b43cc1af307f87",
+            "kind": "material",
+            "path": "primitives/materials/mending-paste.json",
+            "slug": "mending-paste"
+          },
+          "render": {
+            "en": "paste"
+          }
+        },
+        {
+          "match": [
+            "folder"
+          ],
+          "primitive": {
+            "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+            "kind": "tool",
+            "path": "primitives/tools/folder.json",
+            "slug": "folder"
+          },
+          "render": {
+            "en": "folder"
+          }
+        },
+        {
+          "match": [
+            "sharp knife",
+            "pared",
+            "pare"
+          ],
+          "primitive": {
+            "hash": "sha256:8ec445696dbad2c1e359fd23e9b8b41e85f38dd01cc02fc32b0ced9fa899e11a",
+            "kind": "tool",
+            "path": "primitives/tools/paring-knife.json",
+            "slug": "paring-knife"
+          },
+          "render": {
+            "en": "paring knife"
+          }
+        },
+        {
+          "match": [
+            "silk",
+            "fine silk"
+          ],
+          "primitive": {
+            "hash": "sha256:a71739bd0febd360366456075a991ea7bcc8d7d74ad5bd9ba38441e296d29edc",
+            "kind": "material",
+            "path": "primitives/materials/sewing-silk.json",
+            "slug": "sewing-silk"
+          },
+          "render": {
+            "en": "silk"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "v-end-papers",
+      "passages": [
+        {
+          "match": [
+            "end paper",
+            "end papers",
+            "paste-down paper"
+          ],
+          "primitive": {
+            "hash": "sha256:6eb3ee82e0a4d97ff5a8df7ac17a75f26712deb6b6aec5d3905cd0ef048f3e58",
+            "kind": "material",
+            "path": "primitives/materials/end-paper.json",
+            "slug": "end-paper"
+          },
+          "render": {
+            "en": "end paper"
+          }
+        },
+        {
+          "match": [
+            "make this end paper",
+            "zigzag"
+          ],
+          "primitive": {
+            "hash": "sha256:94673b3b041176a3d01f0ea8c1e9a5c1d3686d5b545f4e4c426d23cc0f1bc2d3",
+            "kind": "workflow",
+            "path": "primitives/workflows/making-end-papers.json",
+            "slug": "making-end-papers"
+          },
+          "render": {
+            "en": "making end papers"
+          }
+        },
+        {
+          "match": [
+            "marbled paper",
+            "marble paper"
+          ],
+          "primitive": {
+            "hash": "sha256:c55a770ebc42780067a979ef66b21eabc8fae5be8b4364bd17a2ab76b6164a24",
+            "kind": "material",
+            "path": "primitives/materials/marbled-paper.json",
+            "slug": "marbled-paper"
+          },
+          "render": {
+            "en": "marbled paper"
+          }
+        },
+        {
+          "match": [
+            "vellum ends",
+            "thin vellum"
+          ],
+          "primitive": {
+            "hash": "sha256:b00688cd422fa30ddd66b290f2af9b0684e005f74893a3c7b18827920313e6ff",
+            "kind": "material",
+            "path": "primitives/materials/vellum-end.json",
+            "slug": "vellum-end"
+          },
+          "render": {
+            "en": "vellum ends"
+          }
+        },
+        {
+          "match": [
+            "silk ends",
+            "silk"
+          ],
+          "primitive": {
+            "hash": "sha256:6b1467879500fe8766675841cd140a0e58bdd6612238274b3274874fd6f0ffcb",
+            "kind": "material",
+            "path": "primitives/materials/silk-end.json",
+            "slug": "silk-end"
+          },
+          "render": {
+            "en": "silk ends"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "v-leather-joints",
+      "passages": [
+        {
+          "match": [
+            "leather joint",
+            "leather joints"
+          ],
+          "primitive": {
+            "hash": "sha256:65d86011558ce47e26496489300954d2322bb92669d364bba43927be4f7c4eab",
+            "kind": "material",
+            "path": "primitives/materials/leather-joint.json",
+            "slug": "leather-joint"
+          },
+          "render": {
+            "en": "leather joint"
+          }
+        },
+        {
+          "match": [
+            "cloth joint",
+            "linen",
+            "cloth"
+          ],
+          "primitive": {
+            "hash": "sha256:ccb60343bc1a07579a24398aeae65f02a3fbe6d0e8777561b6f636dcc39a3ef2",
+            "kind": "material",
+            "path": "primitives/materials/cloth-joint.json",
+            "slug": "cloth-joint"
+          },
+          "render": {
+            "en": "cloth joint"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "v-pressing",
+      "passages": [
+        {
+          "match": [
+            "pressing",
+            "pressed"
+          ],
+          "primitive": {
+            "hash": "sha256:0d3dde0d32aa1b61360aef4fde244a96c1bca856b6ba14542f198cb87d067e81",
+            "kind": "technique",
+            "path": "primitives/techniques/pressing-sections.json",
+            "slug": "pressing-sections"
+          },
+          "render": {
+            "en": "pressing"
+          }
+        },
+        {
+          "match": [
+            "standing-press",
+            "French standing-press"
+          ],
+          "primitive": {
+            "hash": "sha256:ad8d3a9c1a538aa89270b270a797de51ec8d92734694fb3b42c5b4af6c2e6591",
+            "kind": "tool",
+            "path": "primitives/tools/standing-press.json",
+            "slug": "standing-press"
+          },
+          "render": {
+            "en": "standing press"
+          }
+        },
+        {
+          "match": [
+            "pressing-board"
+          ],
+          "primitive": {
+            "hash": "sha256:00d3fda3d4f816530033fdd964958b6ce3b5eca3b56db29adc6f82fa2d115d14",
+            "kind": "tool",
+            "path": "primitives/tools/pressing-board.json",
+            "slug": "pressing-board"
+          },
+          "render": {
+            "en": "pressing board"
+          }
+        },
+        {
+          "match": [
+            "tin",
+            "tins"
+          ],
+          "primitive": {
+            "hash": "sha256:c2f779ec3d32d4e808003e73ed486b451852f08f9d1dab7085a6deb9f73de555",
+            "kind": "tool",
+            "path": "primitives/tools/pressing-tin.json",
+            "slug": "pressing-tin"
+          },
+          "render": {
+            "en": "pressing tin"
+          }
+        },
+        {
+          "match": [
+            "beat",
+            "stone"
+          ],
+          "primitive": {
+            "hash": "sha256:1a3cbc241c2d49b8a42350bc23550118b68a985b7cc136d916d39500783f70f5",
+            "kind": "technique",
+            "path": "primitives/techniques/beating.json",
+            "slug": "beating"
+          },
+          "render": {
+            "en": "beating"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "vi-trimming",
+      "passages": [
+        {
+          "match": [
+            "trimming",
+            "trimmed",
+            "trimming before sewing",
+            "cut square at the head"
+          ],
+          "primitive": {
+            "hash": "sha256:848643e9a80f48032136443c7ee545ad5dac35a59b58f3c9a1ca509e4e5f3756",
+            "kind": "technique",
+            "path": "primitives/techniques/trimming-edges.json",
+            "slug": "trimming-edges"
+          },
+          "render": {
+            "en": "trimming edges"
+          }
+        },
+        {
+          "match": [
+            "trimming machine",
+            "simple machine",
+            "slides"
+          ],
+          "primitive": {
+            "hash": "sha256:6823f8ac9ef2e6d7df619eb16e4ace53b49f7a9ad4879c25f032628b985a8c59",
+            "kind": "tool",
+            "path": "primitives/tools/edge-trimming-jig.json",
+            "slug": "edge-trimming-jig"
+          },
+          "render": {
+            "en": "trimming jig"
+          }
+        },
+        {
+          "match": [
+            "carpenter's square"
+          ],
+          "primitive": {
+            "hash": "sha256:216cc80aeb64f2435abaff5ae80afa59a9a6f2d8242df9d39c8c81b55161ccbb",
+            "kind": "tool",
+            "path": "primitives/tools/carpenter-square.json",
+            "slug": "carpenter-square"
+          },
+          "render": {
+            "en": "carpenter's square"
+          }
+        },
+        {
+          "match": [
+            "folder"
+          ],
+          "primitive": {
+            "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+            "kind": "tool",
+            "path": "primitives/tools/folder.json",
+            "slug": "folder"
+          },
+          "render": {
+            "en": "folder"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "vi-gilding",
+      "passages": [
+        {
+          "match": [
+            "edge gilding",
+            "gild the edges"
+          ],
+          "primitive": {
+            "hash": "sha256:bcb576097d6f6bd5a1395e1e147c22a9d4216221f66aee8c622d38d2a822e519",
+            "kind": "workflow",
+            "path": "primitives/workflows/edge-gilding-before-sewing.json",
+            "slug": "edge-gilding-before-sewing"
+          },
+          "render": {
+            "en": "edge gilding"
+          }
+        },
+        {
+          "match": [
+            "edge gilding",
+            "gilding",
+            "gilt"
+          ],
+          "primitive": {
+            "hash": "sha256:988a6ab8a9f7203e04821d3d36765933b1b2c88c29a82e459f6e6de8cd32dfa5",
+            "kind": "technique",
+            "path": "primitives/techniques/edge-gilding.json",
+            "slug": "edge-gilding"
+          },
+          "render": {
+            "en": "edge gilding"
+          }
+        },
+        {
+          "match": [
+            "lying press"
+          ],
+          "primitive": {
+            "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+            "kind": "tool",
+            "path": "primitives/tools/lying-press.json",
+            "slug": "lying-press"
+          },
+          "render": {
+            "en": "lying press"
+          }
+        },
+        {
+          "match": [
+            "gilding boards"
+          ],
+          "primitive": {
+            "hash": "sha256:e47eec32b4216cfe082eccb63500143dd5c458080ab3816a679fc504185480f5",
+            "kind": "tool",
+            "path": "primitives/tools/cutting-board.json",
+            "slug": "cutting-board"
+          },
+          "render": {
+            "en": "gilding boards"
+          }
+        },
+        {
+          "match": [
+            "gilder's tip",
+            "net",
+            "greased paper"
+          ],
+          "primitive": {
+            "hash": "sha256:8efec98dd03e28bf590cd3bbe9ddbb27ee1daa3fe44a24279916777c76ca72fd",
+            "kind": "tool",
+            "path": "primitives/tools/gilders-tip.json",
+            "slug": "gilders-tip"
+          },
+          "render": {
+            "en": "gilder's tip"
+          }
+        },
+        {
+          "match": [
+            "burnisher",
+            "burnishing",
+            "bloodstone"
+          ],
+          "primitive": {
+            "hash": "sha256:88fae84e1d579e22086a15aaf4333c304c41ab1384fb49a2686f68a6540abe67",
+            "kind": "tool",
+            "path": "primitives/tools/burnisher.json",
+            "slug": "burnisher"
+          },
+          "render": {
+            "en": "burnisher"
+          }
+        },
+        {
+          "match": [
+            "gold leaf",
+            "gold"
+          ],
+          "primitive": {
+            "hash": "sha256:5a812805e9c759f02854675aed7e19c9655a2dd623a8409af342a02e627d16af",
+            "kind": "material",
+            "path": "primitives/materials/gold-leaf.json",
+            "slug": "gold-leaf"
+          },
+          "render": {
+            "en": "gold leaf"
+          }
+        },
+        {
+          "match": [
+            "glaire",
+            "white of egg"
+          ],
+          "primitive": {
+            "hash": "sha256:c393e2adf085eeb87583454dd8c2ddabe97fbd35b17cac38fbb4bb96d7173bbe",
+            "kind": "material",
+            "path": "primitives/materials/glaire.json",
+            "slug": "glaire"
+          },
+          "render": {
+            "en": "glaire"
+          }
+        },
+        {
+          "match": [
+            "gilder's red chalk",
+            "red chalk"
+          ],
+          "primitive": {
+            "hash": "sha256:21004f66e14700e6673fd2c75007cd4150e547c8161622246af81f49555d1f77",
+            "kind": "material",
+            "path": "primitives/materials/red-chalk.json",
+            "slug": "red-chalk"
+          },
+          "render": {
+            "en": "red chalk"
+          }
+        },
+        {
+          "match": [
+            "blacklead"
+          ],
+          "primitive": {
+            "hash": "sha256:0dfa915652a0d8a1d2d8073b3314a53460bf702ed6362ef271d92127c0662daa",
+            "kind": "material",
+            "path": "primitives/materials/blacklead.json",
+            "slug": "blacklead"
+          },
+          "render": {
+            "en": "blacklead"
+          }
+        },
+        {
+          "match": [
+            "vellum size"
+          ],
+          "primitive": {
+            "hash": "sha256:e01379b3dc11a5dee1a4aeff3e520319a6c453ef20e6c00af6d143fa79dfc11e",
+            "kind": "material",
+            "path": "primitives/materials/size.json",
+            "slug": "size"
+          },
+          "render": {
+            "en": "vellum size"
+          }
+        },
+        {
+          "match": [
+            "beeswax",
+            "waxed paper"
+          ],
+          "primitive": {
+            "hash": "sha256:da26fc3621d63113ba1767e74ba25cd0dc2332456812e95ba14f80d9f751e92d",
+            "kind": "material",
+            "path": "primitives/materials/beeswax.json",
+            "slug": "beeswax"
+          },
+          "render": {
+            "en": "beeswax"
+          }
+        }
+      ]
+    },
+    {
       "anchor": "vii",
       "passages": [
         {
@@ -254,56 +1748,4198 @@
           }
         }
       ]
+    },
+    {
+      "anchor": "viii-glueing",
+      "passages": [
+        {
+          "match": [
+            "fraying out",
+            "frayed out",
+            "fraying out slips"
+          ],
+          "primitive": {
+            "hash": "sha256:ff47f015dd4abd9ce2bde238e366c0df58cbdca6aa5cc71bbda2c9018524b616",
+            "kind": "technique",
+            "path": "primitives/techniques/fraying-out-slips.json",
+            "slug": "fraying-out-slips"
+          },
+          "render": {
+            "en": "fraying out slips"
+          }
+        },
+        {
+          "match": [
+            "glueing up",
+            "glued"
+          ],
+          "primitive": {
+            "hash": "sha256:59b4e4a774da110e4f96d42a6bfc121378e461f0e9a5c9d2d951abde64bfa327",
+            "kind": "technique",
+            "path": "primitives/techniques/glueing-up.json",
+            "slug": "glueing-up"
+          },
+          "render": {
+            "en": "glueing up"
+          }
+        },
+        {
+          "match": [
+            "bodkin",
+            "binder's bodkin"
+          ],
+          "primitive": {
+            "hash": "sha256:e430b13830b58db0f01b4fdf4bf7c33d5221ef7c352e1377e68d573346713f3e",
+            "kind": "tool",
+            "path": "primitives/tools/bodkin.json",
+            "slug": "bodkin"
+          },
+          "render": {
+            "en": "binder's bodkin"
+          }
+        },
+        {
+          "match": [
+            "glue-brush",
+            "glue brush",
+            "brush"
+          ],
+          "primitive": {
+            "hash": "sha256:e94fa7fa6389bd8f62975e71f95cb8354e9c2033f34d9eadde47814305b8c8b6",
+            "kind": "tool",
+            "path": "primitives/tools/glue-brush.json",
+            "slug": "glue-brush"
+          },
+          "render": {
+            "en": "glue brush"
+          }
+        },
+        {
+          "match": [
+            "knocking-down iron"
+          ],
+          "primitive": {
+            "hash": "sha256:6439aa0b076370331e4a7148618e2891b0b4e035ccff9193a4d38c1e3837abff",
+            "kind": "tool",
+            "path": "primitives/tools/knocking-down-iron.json",
+            "slug": "knocking-down-iron"
+          },
+          "render": {
+            "en": "knocking-down iron"
+          }
+        },
+        {
+          "match": [
+            "lying press",
+            "the press"
+          ],
+          "primitive": {
+            "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+            "kind": "tool",
+            "path": "primitives/tools/lying-press.json",
+            "slug": "lying-press"
+          },
+          "render": {
+            "en": "lying press"
+          }
+        },
+        {
+          "match": [
+            "glue",
+            "hot glue"
+          ],
+          "primitive": {
+            "hash": "sha256:199e25c7b9d8b7a49d1cf66e3c7477cafb10dac1c5d250c8566a942a952a0d43",
+            "kind": "material",
+            "path": "primitives/materials/glue.json",
+            "slug": "glue"
+          },
+          "render": {
+            "en": "glue"
+          }
+        },
+        {
+          "match": [
+            "cord",
+            "sewing cord",
+            "the cords"
+          ],
+          "primitive": {
+            "hash": "sha256:aafe9c707dfb9be22048d560ce3e193f18a291491eb8ca690ed37e4899d7deb5",
+            "kind": "material",
+            "path": "primitives/materials/sewing-cord.json",
+            "slug": "sewing-cord"
+          },
+          "render": {
+            "en": "sewing cord"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "viii-rounding-backing",
+      "passages": [
+        {
+          "match": [
+            "rounding and backing"
+          ],
+          "primitive": {
+            "hash": "sha256:e64d636c778da1b114762f2aba6bd3dfce4a4204dddcc7e5dd0a381472014648",
+            "kind": "workflow",
+            "path": "primitives/workflows/rounding-and-backing.json",
+            "slug": "rounding-and-backing"
+          },
+          "render": {
+            "en": "rounding and backing"
+          }
+        },
+        {
+          "match": [
+            "rounding",
+            "round the back",
+            "convex"
+          ],
+          "primitive": {
+            "hash": "sha256:5b9f1764fa701a7a7e14c1d352189b0d39de8b04c5500c864b0650ec826cb8cf",
+            "kind": "technique",
+            "path": "primitives/techniques/rounding.json",
+            "slug": "rounding"
+          },
+          "render": {
+            "en": "rounding"
+          }
+        },
+        {
+          "match": [
+            "backing",
+            "back the book",
+            "groove"
+          ],
+          "primitive": {
+            "hash": "sha256:a63937971f0877e868db57814f3c01c4e98cb046c23c3297ecbc800451b08f61",
+            "kind": "technique",
+            "path": "primitives/techniques/backing.json",
+            "slug": "backing"
+          },
+          "render": {
+            "en": "backing"
+          }
+        },
+        {
+          "match": [
+            "backing hammer",
+            "hammer"
+          ],
+          "primitive": {
+            "hash": "sha256:125070e4b693c17755074ea281c6ed1ee6bb9664cd648f4659e5d47bda5e011d",
+            "kind": "tool",
+            "path": "primitives/tools/backing-hammer.json",
+            "slug": "backing-hammer"
+          },
+          "render": {
+            "en": "backing hammer"
+          }
+        },
+        {
+          "match": [
+            "backing boards",
+            "backing board"
+          ],
+          "primitive": {
+            "hash": "sha256:985d8a3ccaf2601c63189300e6af33b56a1def39a9f1ce8b97a855640c10d2b4",
+            "kind": "tool",
+            "path": "primitives/tools/backing-board.json",
+            "slug": "backing-board"
+          },
+          "render": {
+            "en": "backing boards"
+          }
+        },
+        {
+          "match": [
+            "lying press",
+            "the press"
+          ],
+          "primitive": {
+            "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+            "kind": "tool",
+            "path": "primitives/tools/lying-press.json",
+            "slug": "lying-press"
+          },
+          "render": {
+            "en": "lying press"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "ix",
+      "passages": [
+        {
+          "match": [
+            "millboard",
+            "mill-board",
+            "board",
+            "boards",
+            "made board"
+          ],
+          "primitive": {
+            "hash": "sha256:6fe26284e0a5ba509fb6bc9b3eef4090b08f4f4ac4d4503fcf682d0bbabcb21d",
+            "kind": "material",
+            "path": "primitives/materials/millboard.json",
+            "slug": "millboard"
+          },
+          "render": {
+            "en": "millboard"
+          }
+        },
+        {
+          "match": [
+            "wooden boards",
+            "wooden board"
+          ],
+          "primitive": {
+            "hash": "sha256:c43ccc67e2964d5460fa511e671dbfc9ea8574e8ae7370b616bb595b358c6938",
+            "kind": "material",
+            "path": "primitives/materials/wooden-board.json",
+            "slug": "wooden-board"
+          },
+          "render": {
+            "en": "wooden board"
+          }
+        },
+        {
+          "match": [
+            "millboard shears",
+            "shears"
+          ],
+          "primitive": {
+            "hash": "sha256:aaf69b4a6c7a283c1fbc2de4d0d9bb5b70897d714a360060c01306d619765d5c",
+            "kind": "tool",
+            "path": "primitives/tools/millboard-shears.json",
+            "slug": "millboard-shears"
+          },
+          "render": {
+            "en": "millboard shears"
+          }
+        },
+        {
+          "match": [
+            "board machine",
+            "millboard machine"
+          ],
+          "primitive": {
+            "hash": "sha256:50d459982aa5026fcb8e6765be7484b402598464322248d7d931a11461f5864b",
+            "kind": "tool",
+            "path": "primitives/tools/board-machine.json",
+            "slug": "board-machine"
+          },
+          "render": {
+            "en": "board machine"
+          }
+        },
+        {
+          "match": [
+            "plough"
+          ],
+          "primitive": {
+            "hash": "sha256:2459d3a8c9486cd498dd85f548f0321cd51d0340cb6ea761f97d312902210c41",
+            "kind": "tool",
+            "path": "primitives/tools/plough.json",
+            "slug": "plough"
+          },
+          "render": {
+            "en": "plough"
+          }
+        },
+        {
+          "match": [
+            "plough knife",
+            "plough  knife"
+          ],
+          "primitive": {
+            "hash": "sha256:28129169b601a3c12b861d26c81b984b25b5765209f0cde0aabd474065af99f1",
+            "kind": "tool",
+            "path": "primitives/tools/plough-knife.json",
+            "slug": "plough-knife"
+          },
+          "render": {
+            "en": "plough knife"
+          }
+        },
+        {
+          "match": [
+            "lying press",
+            "lying  press",
+            "cutting press",
+            "press"
+          ],
+          "primitive": {
+            "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+            "kind": "tool",
+            "path": "primitives/tools/lying-press.json",
+            "slug": "lying-press"
+          },
+          "render": {
+            "en": "lying press"
+          }
+        },
+        {
+          "match": [
+            "carpenter's square"
+          ],
+          "primitive": {
+            "hash": "sha256:216cc80aeb64f2435abaff5ae80afa59a9a6f2d8242df9d39c8c81b55161ccbb",
+            "kind": "tool",
+            "path": "primitives/tools/carpenter-square.json",
+            "slug": "carpenter-square"
+          },
+          "render": {
+            "en": "carpenter's square"
+          }
+        },
+        {
+          "match": [
+            "compasses",
+            "pair of compasses"
+          ],
+          "primitive": {
+            "hash": "sha256:2c12025e8796a3702adbb9a1b4040fc54608e5e111fa0f37dc8996dcd2ae9bb2",
+            "kind": "tool",
+            "path": "primitives/tools/compasses.json",
+            "slug": "compasses"
+          },
+          "render": {
+            "en": "compasses"
+          }
+        },
+        {
+          "match": [
+            "binder's bodkin",
+            "bodkin"
+          ],
+          "primitive": {
+            "hash": "sha256:e430b13830b58db0f01b4fdf4bf7c33d5221ef7c352e1377e68d573346713f3e",
+            "kind": "tool",
+            "path": "primitives/tools/bodkin.json",
+            "slug": "bodkin"
+          },
+          "render": {
+            "en": "bodkin"
+          }
+        },
+        {
+          "match": [
+            "knocking-down iron",
+            "knocking  down  iron"
+          ],
+          "primitive": {
+            "hash": "sha256:6439aa0b076370331e4a7148618e2891b0b4e035ccff9193a4d38c1e3837abff",
+            "kind": "tool",
+            "path": "primitives/tools/knocking-down-iron.json",
+            "slug": "knocking-down-iron"
+          },
+          "render": {
+            "en": "knocking-down iron"
+          }
+        },
+        {
+          "match": [
+            "cutting boards",
+            "cutting millboards",
+            "cut straight with the plough"
+          ],
+          "primitive": {
+            "hash": "sha256:57ae8ed29245a085678cf9fd34aba63e88760a02695782cee619b90f875c8726",
+            "kind": "technique",
+            "path": "primitives/techniques/cutting-boards.json",
+            "slug": "cutting-boards"
+          },
+          "render": {
+            "en": "cutting boards"
+          }
+        },
+        {
+          "match": [
+            "lining boards",
+            "lined",
+            "lining paper",
+            "double paper"
+          ],
+          "primitive": {
+            "hash": "sha256:3d6762e3e1d4e882d0bb87a5657d751aefe36d58ec179a69db0d2f680544aeb5",
+            "kind": "technique",
+            "path": "primitives/techniques/lining-boards.json",
+            "slug": "lining-boards"
+          },
+          "render": {
+            "en": "lining boards"
+          }
+        },
+        {
+          "match": [
+            "lacing in",
+            "laced in",
+            "laced-in slips"
+          ],
+          "primitive": {
+            "hash": "sha256:6327f03825bd375d2ae2cd1bd07e838f3d3ca1fb431352417330c2a57eea7e2d",
+            "kind": "technique",
+            "path": "primitives/techniques/lacing-in.json",
+            "slug": "lacing-in"
+          },
+          "render": {
+            "en": "lacing in"
+          }
+        },
+        {
+          "match": [
+            "lining paper",
+            "common paper",
+            "double paper"
+          ],
+          "primitive": {
+            "hash": "sha256:12db05a22761d0cc96a7ac502a44240b86914b0fc035c50d15c0abfdc25376e3",
+            "kind": "material",
+            "path": "primitives/materials/lining-paper.json",
+            "slug": "lining-paper"
+          },
+          "render": {
+            "en": "lining paper"
+          }
+        },
+        {
+          "match": [
+            "paste",
+            "pasted"
+          ],
+          "primitive": {
+            "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+            "kind": "material",
+            "path": "primitives/materials/paste.json",
+            "slug": "paste"
+          },
+          "render": {
+            "en": "paste"
+          }
+        },
+        {
+          "match": [
+            "slips",
+            "cord",
+            "frayed out slips",
+            "silky fibres"
+          ],
+          "primitive": {
+            "hash": "sha256:aafe9c707dfb9be22048d560ce3e193f18a291491eb8ca690ed37e4899d7deb5",
+            "kind": "material",
+            "path": "primitives/materials/sewing-cord.json",
+            "slug": "sewing-cord"
+          },
+          "render": {
+            "en": "slips"
+          }
+        },
+        {
+          "match": [
+            "cutting and attaching boards",
+            "attaching boards"
+          ],
+          "primitive": {
+            "hash": "sha256:4432c1b602c7f5948696e39b3782ea8b16b5f96d4d429a78a038f8f8ed784284",
+            "kind": "workflow",
+            "path": "primitives/workflows/cutting-and-attaching-boards.json",
+            "slug": "cutting-and-attaching-boards"
+          },
+          "render": {
+            "en": "cutting and attaching boards"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "ix-cleaning",
+      "passages": [
+        {
+          "match": [
+            "cleaning off the back",
+            "clean off",
+            "scraped off"
+          ],
+          "primitive": {
+            "hash": "sha256:030605e990d7d3b5aee4092632c758ee537845a298430dac2adad8084822cd1f",
+            "kind": "technique",
+            "path": "primitives/techniques/cleaning-off.json",
+            "slug": "cleaning-off"
+          },
+          "render": {
+            "en": "cleaning off the back"
+          }
+        },
+        {
+          "match": [
+            "pressing",
+            "pressed",
+            "in the press",
+            "nipped in the press"
+          ],
+          "primitive": {
+            "hash": "sha256:0e871bb45654c734ce9dceecabee04538198f0e8f7257acc258caba55c8bcd51",
+            "kind": "technique",
+            "path": "primitives/techniques/pressing.json",
+            "slug": "pressing"
+          },
+          "render": {
+            "en": "pressing"
+          }
+        },
+        {
+          "match": [
+            "standing press",
+            "standing  press"
+          ],
+          "primitive": {
+            "hash": "sha256:ad8d3a9c1a538aa89270b270a797de51ec8d92734694fb3b42c5b4af6c2e6591",
+            "kind": "tool",
+            "path": "primitives/tools/standing-press.json",
+            "slug": "standing-press"
+          },
+          "render": {
+            "en": "standing press"
+          }
+        },
+        {
+          "match": [
+            "lying press",
+            "lying  press"
+          ],
+          "primitive": {
+            "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+            "kind": "tool",
+            "path": "primitives/tools/lying-press.json",
+            "slug": "lying-press"
+          },
+          "render": {
+            "en": "lying press"
+          }
+        },
+        {
+          "match": [
+            "paste",
+            "pasted",
+            "covered with paste"
+          ],
+          "primitive": {
+            "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+            "kind": "material",
+            "path": "primitives/materials/paste.json",
+            "slug": "paste"
+          },
+          "render": {
+            "en": "paste"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "x",
+      "passages": [
+        {
+          "match": [
+            "cutting in boards",
+            "cut in boards",
+            "cutting the fore-edge"
+          ],
+          "primitive": {
+            "hash": "sha256:7a1bf76994081427fafc8bf77f04b76f11db81d9cfa618e56b50d17b1f1b8c69",
+            "kind": "technique",
+            "path": "primitives/techniques/cutting-in-boards.json",
+            "slug": "cutting-in-boards"
+          },
+          "render": {
+            "en": "cutting in boards"
+          }
+        },
+        {
+          "match": [
+            "trindles",
+            "trindle"
+          ],
+          "primitive": {
+            "hash": "sha256:e0a3a216846b4e98473accd67506d0d29bd2ec9921b1d17939cc7f0a188ec0a8",
+            "kind": "tool",
+            "path": "primitives/tools/trindle.json",
+            "slug": "trindle"
+          },
+          "render": {
+            "en": "trindles"
+          }
+        },
+        {
+          "match": [
+            "cutting boards",
+            "cutting board"
+          ],
+          "primitive": {
+            "hash": "sha256:e47eec32b4216cfe082eccb63500143dd5c458080ab3816a679fc504185480f5",
+            "kind": "tool",
+            "path": "primitives/tools/cutting-board.json",
+            "slug": "cutting-board"
+          },
+          "render": {
+            "en": "cutting boards"
+          }
+        },
+        {
+          "match": [
+            "plough",
+            "plough knife",
+            "plough up"
+          ],
+          "primitive": {
+            "hash": "sha256:2459d3a8c9486cd498dd85f548f0321cd51d0340cb6ea761f97d312902210c41",
+            "kind": "tool",
+            "path": "primitives/tools/plough.json",
+            "slug": "plough"
+          },
+          "render": {
+            "en": "plough"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "x-gilding",
+      "passages": [
+        {
+          "match": [
+            "gilding",
+            "gilt",
+            "gild the edges"
+          ],
+          "primitive": {
+            "hash": "sha256:988a6ab8a9f7203e04821d3d36765933b1b2c88c29a82e459f6e6de8cd32dfa5",
+            "kind": "technique",
+            "path": "primitives/techniques/edge-gilding.json",
+            "slug": "edge-gilding"
+          },
+          "render": {
+            "en": "edge gilding"
+          }
+        },
+        {
+          "match": [
+            "colouring",
+            "colour the edges",
+            "coloured"
+          ],
+          "primitive": {
+            "hash": "sha256:7f4236143bf69825590da231422dd2e9ae27c16640d4a24e396130f8cd16cfcd",
+            "kind": "technique",
+            "path": "primitives/techniques/edge-colouring.json",
+            "slug": "edge-colouring"
+          },
+          "render": {
+            "en": "edge colouring"
+          }
+        },
+        {
+          "match": [
+            "gauffering",
+            "gauffered"
+          ],
+          "primitive": {
+            "hash": "sha256:a4778a674b656ccea4039a1899b7306b4350feab8e44d0fe66b06a4a9d48acb2",
+            "kind": "technique",
+            "path": "primitives/techniques/gauffering.json",
+            "slug": "gauffering"
+          },
+          "render": {
+            "en": "gauffering"
+          }
+        },
+        {
+          "match": [
+            "painted in any device",
+            "painting on the fore-edge"
+          ],
+          "primitive": {
+            "hash": "sha256:adf1738df1133dbc1459aff18ba1e347e7a637b93fa6c15eb5401506c209126d",
+            "kind": "technique",
+            "path": "primitives/techniques/fore-edge-painting.json",
+            "slug": "fore-edge-painting"
+          },
+          "render": {
+            "en": "fore-edge painting"
+          }
+        },
+        {
+          "match": [
+            "colour",
+            "stain",
+            "water-colours"
+          ],
+          "primitive": {
+            "hash": "sha256:49b43c8cab97dae5db786b5f3523524e96139ff994a000f88542a05bb33d53c6",
+            "kind": "material",
+            "path": "primitives/materials/edge-colour.json",
+            "slug": "edge-colour"
+          },
+          "render": {
+            "en": "edge colour"
+          }
+        },
+        {
+          "match": [
+            "beeswax"
+          ],
+          "primitive": {
+            "hash": "sha256:da26fc3621d63113ba1767e74ba25cd0dc2332456812e95ba14f80d9f751e92d",
+            "kind": "material",
+            "path": "primitives/materials/beeswax.json",
+            "slug": "beeswax"
+          },
+          "render": {
+            "en": "beeswax"
+          }
+        },
+        {
+          "match": [
+            "tooth burnisher",
+            "burnisher"
+          ],
+          "primitive": {
+            "hash": "sha256:2b2984c0f7b3635884a21b4fa65803e3058cbbf3f1fe523a814821a5e7bed4cb",
+            "kind": "tool",
+            "path": "primitives/tools/tooth-burnisher.json",
+            "slug": "tooth-burnisher"
+          },
+          "render": {
+            "en": "tooth burnisher"
+          }
+        },
+        {
+          "match": [
+            "trindles"
+          ],
+          "primitive": {
+            "hash": "sha256:e0a3a216846b4e98473accd67506d0d29bd2ec9921b1d17939cc7f0a188ec0a8",
+            "kind": "tool",
+            "path": "primitives/tools/trindle.json",
+            "slug": "trindle"
+          },
+          "render": {
+            "en": "trindles"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xi",
+      "passages": [
+        {
+          "match": [
+            "headband",
+            "headbands",
+            "head-band"
+          ],
+          "primitive": {
+            "hash": "sha256:2a8b50e5acbcb37d5327bb73ae3fbc37a1df8b3a4ff0c74f0a21966ff05e850a",
+            "kind": "material",
+            "path": "primitives/materials/headband.json",
+            "slug": "headband"
+          },
+          "render": {
+            "en": "headband"
+          }
+        },
+        {
+          "match": [
+            "gut",
+            "cord",
+            "string",
+            "vellum or string"
+          ],
+          "primitive": {
+            "hash": "sha256:d2b10f51da051f28286a78864edd4ab4d7fbf95b59ac84662096acdd557df060",
+            "kind": "material",
+            "path": "primitives/materials/headband-core.json",
+            "slug": "headband-core"
+          },
+          "render": {
+            "en": "headband core"
+          }
+        },
+        {
+          "match": [
+            "vellum slip",
+            "vellum"
+          ],
+          "primitive": {
+            "hash": "sha256:56012a11d38931f732ac11eaf97ae553275feba5f862f33ef4fbd0a8897a72ae",
+            "kind": "material",
+            "path": "primitives/materials/vellum-slip.json",
+            "slug": "vellum-slip"
+          },
+          "render": {
+            "en": "vellum slip"
+          }
+        },
+        {
+          "match": [
+            "silk"
+          ],
+          "primitive": {
+            "hash": "sha256:a71739bd0febd360366456075a991ea7bcc8d7d74ad5bd9ba38441e296d29edc",
+            "kind": "material",
+            "path": "primitives/materials/sewing-silk.json",
+            "slug": "sewing-silk"
+          },
+          "render": {
+            "en": "silk"
+          }
+        },
+        {
+          "match": [
+            "finishing press"
+          ],
+          "primitive": {
+            "hash": "sha256:b79b15c308d4d28d578179bcadbf10ec47fbda86725e6cf32edb12467e46c18b",
+            "kind": "tool",
+            "path": "primitives/tools/finishing-press.json",
+            "slug": "finishing-press"
+          },
+          "render": {
+            "en": "finishing press"
+          }
+        },
+        {
+          "match": [
+            "needle"
+          ],
+          "primitive": {
+            "hash": "sha256:e943db54b8b4e3056885a6bee7784cb1a8f20f5259727b818a1b4224ebb5067a",
+            "kind": "tool",
+            "path": "primitives/tools/sewing-needle.json",
+            "slug": "sewing-needle"
+          },
+          "render": {
+            "en": "needle"
+          }
+        },
+        {
+          "match": [
+            "headbanding",
+            "bead",
+            "tie down",
+            "tied down",
+            "figure of eight stitch"
+          ],
+          "primitive": {
+            "hash": "sha256:54e248fae41073f7ffd2b90493f4fcec41e85de0fea73ec8d053c08229fdf0b3",
+            "kind": "technique",
+            "path": "primitives/techniques/headbanding.json",
+            "slug": "headbanding"
+          },
+          "render": {
+            "en": "headbanding"
+          }
+        },
+        {
+          "match": [
+            "kettle stitch"
+          ],
+          "primitive": {
+            "hash": "sha256:07bbd4bd2424b7215fda4afe1c0f6fc4309e75f032adf4791b67bb25c431280f",
+            "kind": "technique",
+            "path": "primitives/techniques/kettle-stitch.json",
+            "slug": "kettle-stitch"
+          },
+          "render": {
+            "en": "kettle stitch"
+          }
+        },
+        {
+          "match": [
+            "worked headband"
+          ],
+          "primitive": {
+            "hash": "sha256:d70d89ade0ff44b4e62b34417fb72099126d84f0f6da2b4dc0434115a88e4172",
+            "kind": "workflow",
+            "path": "primitives/workflows/headbanding-on-vellum.json",
+            "slug": "headbanding-on-vellum"
+          },
+          "render": {
+            "en": "working a headband"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xii-preparing",
+      "passages": [
+        {
+          "match": [
+            "lining up",
+            "lined up",
+            "lining up of the back"
+          ],
+          "primitive": {
+            "hash": "sha256:cbabfafb2e56f6c7371c762fc5977336c7593e85477375f825917c900cbd8f86",
+            "kind": "technique",
+            "path": "primitives/techniques/lining-up.json",
+            "slug": "lining-up"
+          },
+          "render": {
+            "en": "lining up"
+          }
+        },
+        {
+          "match": [
+            "set the squares",
+            "squares set",
+            "the squares"
+          ],
+          "primitive": {
+            "hash": "sha256:f38c8c9d4cec3ccf7bffe7cb6afe4f8a7b2d697a43502b2e474574ecd7ac340c",
+            "kind": "technique",
+            "path": "primitives/techniques/setting-squares.json",
+            "slug": "setting-squares"
+          },
+          "render": {
+            "en": "setting the squares"
+          }
+        },
+        {
+          "match": [
+            "press"
+          ],
+          "primitive": {
+            "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+            "kind": "tool",
+            "path": "primitives/tools/lying-press.json",
+            "slug": "lying-press"
+          },
+          "render": {
+            "en": "lying press"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xii-paring",
+      "passages": [
+        {
+          "match": [
+            "paring",
+            "pared",
+            "pare"
+          ],
+          "primitive": {
+            "hash": "sha256:ffd7b52904345dbf50579523cc39128033aa86b739f62e175fad59095017ee5a",
+            "kind": "technique",
+            "path": "primitives/techniques/paring-leather.json",
+            "slug": "paring-leather"
+          },
+          "render": {
+            "en": "paring leather"
+          }
+        },
+        {
+          "match": [
+            "cover",
+            "skin",
+            "leather"
+          ],
+          "primitive": {
+            "hash": "sha256:ba762a61f0c473a535b4e9d36a00c417cee805100423bc1d2caa6c6cd5abe9a4",
+            "kind": "material",
+            "path": "primitives/materials/cover-leather.json",
+            "slug": "cover-leather"
+          },
+          "render": {
+            "en": "cover leather"
+          }
+        },
+        {
+          "match": [
+            "French knife",
+            "French paring knife",
+            "knife"
+          ],
+          "primitive": {
+            "hash": "sha256:12e7abb1a23eca13fd5236132fac99fd0ddcf5e351ba678c6a90659db7eec920",
+            "kind": "tool",
+            "path": "primitives/tools/leather-paring-knife.json",
+            "slug": "leather-paring-knife"
+          },
+          "render": {
+            "en": "paring knife"
+          }
+        },
+        {
+          "match": [
+            "lithographic stone",
+            "stone"
+          ],
+          "primitive": {
+            "hash": "sha256:b7b80737647c29ee62202d2041eed0764594018f0835a4b3c1574a03eeec90f6",
+            "kind": "tool",
+            "path": "primitives/tools/paring-stone.json",
+            "slug": "paring-stone"
+          },
+          "render": {
+            "en": "paring stone"
+          }
+        },
+        {
+          "match": [
+            "leather joints",
+            "leather joint"
+          ],
+          "primitive": {
+            "hash": "sha256:65d86011558ce47e26496489300954d2322bb92669d364bba43927be4f7c4eab",
+            "kind": "material",
+            "path": "primitives/materials/leather-joint.json",
+            "slug": "leather-joint"
+          },
+          "render": {
+            "en": "leather joint"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xii-covering",
+      "passages": [
+        {
+          "match": [
+            "covering",
+            "covered"
+          ],
+          "primitive": {
+            "hash": "sha256:1ec670893beee5f09b9f81ff6b76182f2923f9573cefa1b4c8dafd702e9f1ffa",
+            "kind": "technique",
+            "path": "primitives/techniques/covering.json",
+            "slug": "covering"
+          },
+          "render": {
+            "en": "covering"
+          }
+        },
+        {
+          "match": [
+            "folder"
+          ],
+          "primitive": {
+            "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+            "kind": "tool",
+            "path": "primitives/tools/folder.json",
+            "slug": "folder"
+          },
+          "render": {
+            "en": "folder"
+          }
+        },
+        {
+          "match": [
+            "band nippers",
+            "nickeled band nippers"
+          ],
+          "primitive": {
+            "hash": "sha256:e309b2dda59042c5768ed3790140647a86b0270460f986b8e8a390212cfc6aee",
+            "kind": "tool",
+            "path": "primitives/tools/band-nippers.json",
+            "slug": "band-nippers"
+          },
+          "render": {
+            "en": "band nippers"
+          }
+        },
+        {
+          "match": [
+            "band stick"
+          ],
+          "primitive": {
+            "hash": "sha256:94ea313213507ad9b8a986f419899187e31fb6309fad8fb80c24266eb954b988",
+            "kind": "tool",
+            "path": "primitives/tools/band-stick.json",
+            "slug": "band-stick"
+          },
+          "render": {
+            "en": "band stick"
+          }
+        },
+        {
+          "match": [
+            "leather",
+            "cover"
+          ],
+          "primitive": {
+            "hash": "sha256:ba762a61f0c473a535b4e9d36a00c417cee805100423bc1d2caa6c6cd5abe9a4",
+            "kind": "material",
+            "path": "primitives/materials/cover-leather.json",
+            "slug": "cover-leather"
+          },
+          "render": {
+            "en": "cover leather"
+          }
+        },
+        {
+          "match": [
+            "waterproof sheets",
+            "celluloid"
+          ],
+          "primitive": {
+            "hash": "sha256:3be39f6cda75cb82e64aed961651fda8b5b8fb699a0544f0cc85d3ca735df9f8",
+            "kind": "material",
+            "path": "primitives/materials/waterproof-sheet.json",
+            "slug": "waterproof-sheet"
+          },
+          "render": {
+            "en": "waterproof sheet"
+          }
+        },
+        {
+          "match": [
+            "head-cap",
+            "head-caps"
+          ],
+          "primitive": {
+            "hash": "sha256:4459e7925d2910c42d8894b780238ad92f2ea218f08dd49e90a294bd2b744d2b",
+            "kind": "technique",
+            "path": "primitives/techniques/setting-head-cap.json",
+            "slug": "setting-head-cap"
+          },
+          "render": {
+            "en": "setting the head-cap"
+          }
+        },
+        {
+          "match": [
+            "tying up",
+            "tie it up",
+            "tying up cords"
+          ],
+          "primitive": {
+            "hash": "sha256:cb6c88ef07219c9f215ee47caa6b911127848a19089e68bf071176132f622871",
+            "kind": "technique",
+            "path": "primitives/techniques/tying-up.json",
+            "slug": "tying-up"
+          },
+          "render": {
+            "en": "tying up"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xii-mitring",
+      "passages": [
+        {
+          "match": [
+            "mitring",
+            "mitre",
+            "mitred"
+          ],
+          "primitive": {
+            "hash": "sha256:e03f83084fa05883d2e13116b3b9cbfda729abd9e4cffa1ba00f59f5e5d34c3a",
+            "kind": "technique",
+            "path": "primitives/techniques/mitring-corners.json",
+            "slug": "mitring-corners"
+          },
+          "render": {
+            "en": "mitring corners"
+          }
+        },
+        {
+          "match": [
+            "filling in",
+            "fill in the board",
+            "filling-in"
+          ],
+          "primitive": {
+            "hash": "sha256:e3405889c8d87eae8c829854ec9352f6fd430d0b2a52e92010b2e744e00b2cb5",
+            "kind": "technique",
+            "path": "primitives/techniques/filling-in-boards.json",
+            "slug": "filling-in-boards"
+          },
+          "render": {
+            "en": "filling in boards"
+          }
+        },
+        {
+          "match": [
+            "filling in papers",
+            "cartridge paper"
+          ],
+          "primitive": {
+            "hash": "sha256:2b43884c9c577c84920292e767599ca1facfb841cb8e2a1ab85a70e12de77098",
+            "kind": "material",
+            "path": "primitives/materials/filling-in-paper.json",
+            "slug": "filling-in-paper"
+          },
+          "render": {
+            "en": "filling-in paper"
+          }
+        },
+        {
+          "match": [
+            "leather joint",
+            "leather joints"
+          ],
+          "primitive": {
+            "hash": "sha256:65d86011558ce47e26496489300954d2322bb92669d364bba43927be4f7c4eab",
+            "kind": "material",
+            "path": "primitives/materials/leather-joint.json",
+            "slug": "leather-joint"
+          },
+          "render": {
+            "en": "leather joint"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xiii",
+      "passages": [
+        {
+          "match": [
+            "library binding",
+            "library bindings"
+          ],
+          "primitive": {
+            "hash": "sha256:a930e6c2d1f402cf4fcf68d49aa5defd163ab5a7a1244f26a8be7d6f0a9a0098",
+            "kind": "workflow",
+            "path": "primitives/workflows/library-binding.json",
+            "slug": "library-binding"
+          },
+          "render": {
+            "en": "library binding"
+          }
+        },
+        {
+          "match": [
+            "sewing on tapes",
+            "sewn on to the same tapes"
+          ],
+          "primitive": {
+            "hash": "sha256:b49cf71def4d7d1e2d4186d9ad900ff945205519446fc719d4fa2a975661f6d9",
+            "kind": "technique",
+            "path": "primitives/techniques/sewing-on-tapes.json",
+            "slug": "sewing-on-tapes"
+          },
+          "render": {
+            "en": "sewing on tapes"
+          }
+        },
+        {
+          "match": [
+            "split boards",
+            "split board",
+            "made board"
+          ],
+          "primitive": {
+            "hash": "sha256:7391611e86efd0dd7c1ca47ed75d717b608c191cc997412019749b51d1f1c7fc",
+            "kind": "technique",
+            "path": "primitives/techniques/split-boards.json",
+            "slug": "split-boards"
+          },
+          "render": {
+            "en": "split boards"
+          }
+        },
+        {
+          "match": [
+            "French joint"
+          ],
+          "primitive": {
+            "hash": "sha256:155ed3053b3e6b4ea1b9ec363bebdefa47194e97162174311b5b2039358a5950",
+            "kind": "technique",
+            "path": "primitives/techniques/french-joint.json",
+            "slug": "french-joint"
+          },
+          "render": {
+            "en": "French joint"
+          }
+        },
+        {
+          "match": [
+            "straw-board",
+            "strawboard"
+          ],
+          "primitive": {
+            "hash": "sha256:084655b3dc9042b5542acf16886ebd1b41501da2ebf02875cb0cdc751249f49c",
+            "kind": "material",
+            "path": "primitives/materials/strawboard.json",
+            "slug": "strawboard"
+          },
+          "render": {
+            "en": "strawboard"
+          }
+        },
+        {
+          "match": [
+            "mill-board",
+            "millboard"
+          ],
+          "primitive": {
+            "hash": "sha256:6fe26284e0a5ba509fb6bc9b3eef4090b08f4f4ac4d4503fcf682d0bbabcb21d",
+            "kind": "material",
+            "path": "primitives/materials/millboard.json",
+            "slug": "millboard"
+          },
+          "render": {
+            "en": "millboard"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xiii-thin",
+      "passages": [
+        {
+          "match": [
+            "split board"
+          ],
+          "primitive": {
+            "hash": "sha256:7391611e86efd0dd7c1ca47ed75d717b608c191cc997412019749b51d1f1c7fc",
+            "kind": "technique",
+            "path": "primitives/techniques/split-boards.json",
+            "slug": "split-boards"
+          },
+          "render": {
+            "en": "split boards"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xiii-scrap",
+      "passages": [
+        {
+          "match": [
+            "mounted",
+            "inlaid",
+            "guarded",
+            "guard"
+          ],
+          "primitive": {
+            "hash": "sha256:607632ea26fa91c30171ca006f380ec5463ff2e0f5b25b58fc7f983964866f1e",
+            "kind": "technique",
+            "path": "primitives/techniques/mounting.json",
+            "slug": "mounting"
+          },
+          "render": {
+            "en": "mounting"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xiii-vellum",
+      "passages": [
+        {
+          "match": [
+            "vellum binding",
+            "vellum bindings",
+            "limp vellum binding"
+          ],
+          "primitive": {
+            "hash": "sha256:9fa4ed92b4f11e0407b7c669134c0a0c768e72d04fef18ee4d16f7b55446fae5",
+            "kind": "technique",
+            "path": "primitives/techniques/vellum-covering.json",
+            "slug": "vellum-covering"
+          },
+          "render": {
+            "en": "vellum covering"
+          }
+        },
+        {
+          "match": [
+            "vellum",
+            "limp vellum",
+            "thin vellum"
+          ],
+          "primitive": {
+            "hash": "sha256:4ab7df86b5a08ecbe4964b9ee0e65d6f589a751ce056a70394e88a0d25e1a415",
+            "kind": "material",
+            "path": "primitives/materials/vellum.json",
+            "slug": "vellum"
+          },
+          "render": {
+            "en": "vellum"
+          }
+        },
+        {
+          "match": [
+            "hollow back"
+          ],
+          "primitive": {
+            "hash": "sha256:01d3e5832a6f4dd4013ee91d1460c50bf71e59d6cd213b3563e7c8665a28ae26",
+            "kind": "technique",
+            "path": "primitives/techniques/hollow-back.json",
+            "slug": "hollow-back"
+          },
+          "render": {
+            "en": "hollow back"
+          }
+        },
+        {
+          "match": [
+            "strips of vellum"
+          ],
+          "primitive": {
+            "hash": "sha256:f3087f5b59b28fe0df0091f6afea0a9cf543c1987c7f424aeeab91df65881224",
+            "kind": "technique",
+            "path": "primitives/techniques/sewing-on-vellum-slips.json",
+            "slug": "sewing-on-vellum-slips"
+          },
+          "render": {
+            "en": "sewing on vellum slips"
+          }
+        },
+        {
+          "match": [
+            "silk ribbon",
+            "silk tape"
+          ],
+          "primitive": {
+            "hash": "sha256:44ffbf946b678f777bb8926c2aedc34461386ed4b24ead4d821994224f33818e",
+            "kind": "material",
+            "path": "primitives/materials/silk-ribbon.json",
+            "slug": "silk-ribbon"
+          },
+          "render": {
+            "en": "silk ribbon"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xiii-embroidery",
+      "passages": [
+        {
+          "match": [
+            "embroidered material",
+            "covered with embroidery",
+            "embroidery"
+          ],
+          "primitive": {
+            "hash": "sha256:5e77b9fd3063c9faf2431d84a77075841e8b03aa3ff737e3b5b9332cb3c4bf8e",
+            "kind": "technique",
+            "path": "primitives/techniques/embroidery-covering.json",
+            "slug": "embroidery-covering"
+          },
+          "render": {
+            "en": "embroidery covering"
+          }
+        },
+        {
+          "match": [
+            "embroidered material",
+            "woven material",
+            "velvet"
+          ],
+          "primitive": {
+            "hash": "sha256:ca21e3a164daa2d98c488124834d2aa5a52b2c9a4861569faeabb045d07de54b",
+            "kind": "material",
+            "path": "primitives/materials/embroidered-fabric.json",
+            "slug": "embroidered-fabric"
+          },
+          "render": {
+            "en": "embroidered fabric"
+          }
+        },
+        {
+          "match": [
+            "hollow back"
+          ],
+          "primitive": {
+            "hash": "sha256:01d3e5832a6f4dd4013ee91d1460c50bf71e59d6cd213b3563e7c8665a28ae26",
+            "kind": "technique",
+            "path": "primitives/techniques/hollow-back.json",
+            "slug": "hollow-back"
+          },
+          "render": {
+            "en": "hollow back"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xiv-tools",
+      "passages": [
+        {
+          "match": [
+            "finishing tools",
+            "finishing tool",
+            "hot tools",
+            "blind tools",
+            "gold tools"
+          ],
+          "primitive": {
+            "hash": "sha256:2cfefbc755210baf5f9571e7f34de1c77e7569eed27663d3a0ebb708b3c61253",
+            "kind": "tool",
+            "path": "primitives/tools/finishing-tool.json",
+            "slug": "finishing-tool"
+          },
+          "render": {
+            "en": "finishing tool"
+          }
+        },
+        {
+          "match": [
+            "blind tooling",
+            "die-sunk"
+          ],
+          "primitive": {
+            "hash": "sha256:33859e88d2137599aa3c66be8fa79651a78376f70478893116e2a5de17cabab1",
+            "kind": "technique",
+            "path": "primitives/techniques/blind-tooling.json",
+            "slug": "blind-tooling"
+          },
+          "render": {
+            "en": "blind tooling"
+          }
+        },
+        {
+          "match": [
+            "gold tooling"
+          ],
+          "primitive": {
+            "hash": "sha256:5d17a5de6a9bcd95ec528f0cb62eb79918df3dc1a6acfa68c5f83ebdf4c6a716",
+            "kind": "technique",
+            "path": "primitives/techniques/gold-tooling.json",
+            "slug": "gold-tooling"
+          },
+          "render": {
+            "en": "gold tooling"
+          }
+        },
+        {
+          "match": [
+            "gouges"
+          ],
+          "primitive": {
+            "hash": "sha256:a7af2dcd470738bc5bf0dddc71c1b85ff17d57be08d9e1022f64c6451f94bcf0",
+            "kind": "tool",
+            "path": "primitives/tools/gouge.json",
+            "slug": "gouge"
+          },
+          "render": {
+            "en": "gouge"
+          }
+        },
+        {
+          "match": [
+            "pallet",
+            "pallets"
+          ],
+          "primitive": {
+            "hash": "sha256:ec935fa8c7fcd2caf9ee6e4e4dadaeb4387668cc8ffcd35d06d71bb4c6429fc4",
+            "kind": "tool",
+            "path": "primitives/tools/pallet.json",
+            "slug": "pallet"
+          },
+          "render": {
+            "en": "pallet"
+          }
+        },
+        {
+          "match": [
+            "fillet",
+            "fillets"
+          ],
+          "primitive": {
+            "hash": "sha256:7af84593c66dd62a5e837987f8c88f2407b04919e8bcce8bc97f416a6e23090a",
+            "kind": "tool",
+            "path": "primitives/tools/fillet.json",
+            "slug": "fillet"
+          },
+          "render": {
+            "en": "fillet"
+          }
+        },
+        {
+          "match": [
+            "roll",
+            "rolls",
+            "wheeling"
+          ],
+          "primitive": {
+            "hash": "sha256:5dc7f7aefd9527f7250b28e46a936eb9ad597aa32db17f3f2b4c10bd2afb308a",
+            "kind": "tool",
+            "path": "primitives/tools/finishing-roll.json",
+            "slug": "finishing-roll"
+          },
+          "render": {
+            "en": "roll"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xiv-finishing",
+      "passages": [
+        {
+          "match": [
+            "polisher",
+            "polishing"
+          ],
+          "primitive": {
+            "hash": "sha256:7f156b360e2f6fa36585f2fe6f75ab6713de19ce08095771d3b1d7374158f11c",
+            "kind": "technique",
+            "path": "primitives/techniques/polishing.json",
+            "slug": "polishing"
+          },
+          "render": {
+            "en": "polishing"
+          }
+        },
+        {
+          "match": [
+            "polisher",
+            "polishers"
+          ],
+          "primitive": {
+            "hash": "sha256:c7e56058ba8fef54bc399b0458ff59678749f1142ead85d538aad47a0336e40a",
+            "kind": "tool",
+            "path": "primitives/tools/polisher.json",
+            "slug": "polisher"
+          },
+          "render": {
+            "en": "polisher"
+          }
+        },
+        {
+          "match": [
+            "crushed",
+            "crushing the grain"
+          ],
+          "primitive": {
+            "hash": "sha256:60b86070d17ec3b0072cc743488ae754ae16e130471882f14ab47f8f8b8bd127",
+            "kind": "technique",
+            "path": "primitives/techniques/crushing-grain.json",
+            "slug": "crushing-grain"
+          },
+          "render": {
+            "en": "crushing the grain"
+          }
+        },
+        {
+          "match": [
+            "standing-press",
+            "press"
+          ],
+          "primitive": {
+            "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+            "kind": "tool",
+            "path": "primitives/tools/lying-press.json",
+            "slug": "lying-press"
+          },
+          "render": {
+            "en": "standing press"
+          }
+        },
+        {
+          "match": [
+            "finishing press"
+          ],
+          "primitive": {
+            "hash": "sha256:b79b15c308d4d28d578179bcadbf10ec47fbda86725e6cf32edb12467e46c18b",
+            "kind": "tool",
+            "path": "primitives/tools/finishing-press.json",
+            "slug": "finishing-press"
+          },
+          "render": {
+            "en": "finishing press"
+          }
+        },
+        {
+          "match": [
+            "stove"
+          ],
+          "primitive": {
+            "hash": "sha256:94ffd6c73ff6b486bd30eca8bc334c48e5b8705e009d81d9f73cb6015949e5ec",
+            "kind": "tool",
+            "path": "primitives/tools/finishing-stove.json",
+            "slug": "finishing-stove"
+          },
+          "render": {
+            "en": "finishing stove"
+          }
+        },
+        {
+          "match": [
+            "sized",
+            "paste-water"
+          ],
+          "primitive": {
+            "hash": "sha256:9ca096123041b26c6f2c6c17319facdeb080ca128217ce25eb454abf3cf18d75",
+            "kind": "technique",
+            "path": "primitives/techniques/sizing-leather.json",
+            "slug": "sizing-leather"
+          },
+          "render": {
+            "en": "sizing leather"
+          }
+        },
+        {
+          "match": [
+            "paste-water"
+          ],
+          "primitive": {
+            "hash": "sha256:1e9a95113194b5d4acb0eaaa5fe915710fb0fa648836fcb970f4def340fdb907",
+            "kind": "material",
+            "path": "primitives/materials/paste-water.json",
+            "slug": "paste-water"
+          },
+          "render": {
+            "en": "paste-water"
+          }
+        },
+        {
+          "match": [
+            "size",
+            "vellum size"
+          ],
+          "primitive": {
+            "hash": "sha256:8fc75b59efa2bbcab0857ed539e2284bdf3f65bc07cfc389c95f029bd95b9ef5",
+            "kind": "material",
+            "path": "primitives/materials/leather-size.json",
+            "slug": "leather-size"
+          },
+          "render": {
+            "en": "size"
+          }
+        },
+        {
+          "match": [
+            "glaire",
+            "glairing in"
+          ],
+          "primitive": {
+            "hash": "sha256:c393e2adf085eeb87583454dd8c2ddabe97fbd35b17cac38fbb4bb96d7173bbe",
+            "kind": "material",
+            "path": "primitives/materials/glaire.json",
+            "slug": "glaire"
+          },
+          "render": {
+            "en": "glaire"
+          }
+        },
+        {
+          "match": [
+            "gold leaf",
+            "gold",
+            "book of gold"
+          ],
+          "primitive": {
+            "hash": "sha256:5a812805e9c759f02854675aed7e19c9655a2dd623a8409af342a02e627d16af",
+            "kind": "material",
+            "path": "primitives/materials/gold-leaf.json",
+            "slug": "gold-leaf"
+          },
+          "render": {
+            "en": "gold leaf"
+          }
+        },
+        {
+          "match": [
+            "cushion",
+            "gold cushion"
+          ],
+          "primitive": {
+            "hash": "sha256:20bb081ea16bc86b1014538438b546f9226d6fd07dc055218fba0171149a7649",
+            "kind": "tool",
+            "path": "primitives/tools/gold-cushion.json",
+            "slug": "gold-cushion"
+          },
+          "render": {
+            "en": "gold cushion"
+          }
+        },
+        {
+          "match": [
+            "gold knife",
+            "knife"
+          ],
+          "primitive": {
+            "hash": "sha256:658759ce1e9bb393b73aef819e709ea49777799a8b7c8137756d7e66bdfb6a02",
+            "kind": "tool",
+            "path": "primitives/tools/gold-knife.json",
+            "slug": "gold-knife"
+          },
+          "render": {
+            "en": "gold knife"
+          }
+        },
+        {
+          "match": [
+            "cocoanut oil"
+          ],
+          "primitive": {
+            "hash": "sha256:8702c903d5dd194d066c639f4e64fd3ad16efc490925e8de77aa0ba3fa852d32",
+            "kind": "material",
+            "path": "primitives/materials/cocoanut-oil.json",
+            "slug": "cocoanut-oil"
+          },
+          "render": {
+            "en": "cocoanut oil"
+          }
+        },
+        {
+          "match": [
+            "tool through the gold",
+            "worked through the gold"
+          ],
+          "primitive": {
+            "hash": "sha256:5d17a5de6a9bcd95ec528f0cb62eb79918df3dc1a6acfa68c5f83ebdf4c6a716",
+            "kind": "technique",
+            "path": "primitives/techniques/gold-tooling.json",
+            "slug": "gold-tooling"
+          },
+          "render": {
+            "en": "gold tooling"
+          }
+        },
+        {
+          "match": [
+            "reglaired",
+            "retooled",
+            "imperfect tooling",
+            "doubled"
+          ],
+          "primitive": {
+            "hash": "sha256:dc929a2db8b9f0c09368248d999510ab92ee8d0beec0bd730df0f6fe970db3a5",
+            "kind": "technique",
+            "path": "primitives/techniques/mending-tooling.json",
+            "slug": "mending-tooling"
+          },
+          "render": {
+            "en": "mending tooling"
+          }
+        },
+        {
+          "match": [
+            "benzine"
+          ],
+          "primitive": {
+            "hash": "sha256:2ad6fc3cefcd5dbf27544a4824575bca3d24460f850a3c27c2809dfbebba40cc",
+            "kind": "material",
+            "path": "primitives/materials/benzine.json",
+            "slug": "benzine"
+          },
+          "render": {
+            "en": "benzine"
+          }
+        },
+        {
+          "match": [
+            "varnish",
+            "varnished"
+          ],
+          "primitive": {
+            "hash": "sha256:17822039e652ae9cbe61a4600287009591cfcb18cb24efc95456be643db8250c",
+            "kind": "material",
+            "path": "primitives/materials/varnish.json",
+            "slug": "varnish"
+          },
+          "render": {
+            "en": "varnish"
+          }
+        },
+        {
+          "match": [
+            "nipping-press"
+          ],
+          "primitive": {
+            "hash": "sha256:7015756c7acc4c52caa658a3a26173b7a1035bf702c243229c71af321cbaaf74",
+            "kind": "tool",
+            "path": "primitives/tools/nipping-press.json",
+            "slug": "nipping-press"
+          },
+          "render": {
+            "en": "nipping press"
+          }
+        },
+        {
+          "match": [
+            "finishing"
+          ],
+          "primitive": {
+            "hash": "sha256:ecea7b1a8b8c41ac7acb09809840814aba9a387fbf22634050e915dcdf35462d",
+            "kind": "workflow",
+            "path": "primitives/workflows/gold-finishing.json",
+            "slug": "gold-finishing"
+          },
+          "render": {
+            "en": "gold finishing"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xiv-vellum",
+      "passages": [
+        {
+          "match": [
+            "tooling on vellum",
+            "covering vellum"
+          ],
+          "primitive": {
+            "hash": "sha256:dd939e87c68511d5e9564f1fb4a659eba97e759979ef19e8f955fad01264d7bd",
+            "kind": "technique",
+            "path": "primitives/techniques/tooling-on-vellum.json",
+            "slug": "tooling-on-vellum"
+          },
+          "render": {
+            "en": "tooling on vellum"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xiv-inlaying",
+      "passages": [
+        {
+          "match": [
+            "inlaying",
+            "onlaying",
+            "inlays",
+            "inlaid"
+          ],
+          "primitive": {
+            "hash": "sha256:947d39c82fd5d4092e7948fd1881274fc4b5aa93fcc244a93083ea4d1a0a1539",
+            "kind": "technique",
+            "path": "primitives/techniques/inlaying-on-leather.json",
+            "slug": "inlaying-on-leather"
+          },
+          "render": {
+            "en": "inlaying on leather"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xv-lettering",
+      "passages": [
+        {
+          "match": [
+            "lettering",
+            "lettered",
+            "lettering on the back"
+          ],
+          "primitive": {
+            "hash": "sha256:3d33a4d527b07ecf2a8905e710e81f8a2f58999b6548b214c044b04be6ee6ae7",
+            "kind": "technique",
+            "path": "primitives/techniques/lettering.json",
+            "slug": "lettering"
+          },
+          "render": {
+            "en": "lettering"
+          }
+        },
+        {
+          "match": [
+            "handle letters",
+            "separate letters"
+          ],
+          "primitive": {
+            "hash": "sha256:468782b698d5dca512836eade44db7319f9c19ded0bfc8f16687e87cf6970aa5",
+            "kind": "tool",
+            "path": "primitives/tools/handle-letter.json",
+            "slug": "handle-letter"
+          },
+          "render": {
+            "en": "handle letters"
+          }
+        },
+        {
+          "match": [
+            "type",
+            "type-holder"
+          ],
+          "primitive": {
+            "hash": "sha256:d71d73298ab4b391eaad3626982f45eca3913cef0df9666d233153961596d29f",
+            "kind": "tool",
+            "path": "primitives/tools/binders-type.json",
+            "slug": "binders-type"
+          },
+          "render": {
+            "en": "type"
+          }
+        },
+        {
+          "match": [
+            "dividers"
+          ],
+          "primitive": {
+            "hash": "sha256:826b561a42531ce020f377c9c73448da3b80759c3d9b34953cd1c8b5b145c2e2",
+            "kind": "tool",
+            "path": "primitives/tools/dividers.json",
+            "slug": "dividers"
+          },
+          "render": {
+            "en": "dividers"
+          }
+        },
+        {
+          "match": [
+            "gold"
+          ],
+          "primitive": {
+            "hash": "sha256:5a812805e9c759f02854675aed7e19c9655a2dd623a8409af342a02e627d16af",
+            "kind": "material",
+            "path": "primitives/materials/gold-leaf.json",
+            "slug": "gold-leaf"
+          },
+          "render": {
+            "en": "gold leaf"
+          }
+        },
+        {
+          "match": [
+            "glaired in"
+          ],
+          "primitive": {
+            "hash": "sha256:c393e2adf085eeb87583454dd8c2ddabe97fbd35b17cac38fbb4bb96d7173bbe",
+            "kind": "material",
+            "path": "primitives/materials/glaire.json",
+            "slug": "glaire"
+          },
+          "render": {
+            "en": "glaire"
+          }
+        },
+        {
+          "match": [
+            "make out a lettering paper",
+            "lettering paper"
+          ],
+          "primitive": {
+            "hash": "sha256:772a6e56ea4a624f02c07690510eddf518b878ebd5a850fb58f8148917e57a40",
+            "kind": "workflow",
+            "path": "primitives/workflows/lettering-the-back.json",
+            "slug": "lettering-the-back"
+          },
+          "render": {
+            "en": "lettering the back"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xv-blind-tooling",
+      "passages": [
+        {
+          "match": [
+            "blind tooling",
+            "blind-tooled",
+            "blind-tool work"
+          ],
+          "primitive": {
+            "hash": "sha256:33859e88d2137599aa3c66be8fa79651a78376f70478893116e2a5de17cabab1",
+            "kind": "technique",
+            "path": "primitives/techniques/blind-tooling.json",
+            "slug": "blind-tooling"
+          },
+          "render": {
+            "en": "blind tooling"
+          }
+        },
+        {
+          "match": [
+            "leather work",
+            "leather-work"
+          ],
+          "primitive": {
+            "hash": "sha256:a8278cdb451ee224a87fe64e8bac67e3db7ee78525973b70ab97a5fdb33c82ad",
+            "kind": "technique",
+            "path": "primitives/techniques/leather-work.json",
+            "slug": "leather-work"
+          },
+          "render": {
+            "en": "leather work"
+          }
+        },
+        {
+          "match": [
+            "gouge",
+            "gouges"
+          ],
+          "primitive": {
+            "hash": "sha256:a7af2dcd470738bc5bf0dddc71c1b85ff17d57be08d9e1022f64c6451f94bcf0",
+            "kind": "tool",
+            "path": "primitives/tools/gouge.json",
+            "slug": "gouge"
+          },
+          "render": {
+            "en": "gouge"
+          }
+        },
+        {
+          "match": [
+            "fillet",
+            "small fillet"
+          ],
+          "primitive": {
+            "hash": "sha256:7af84593c66dd62a5e837987f8c88f2407b04919e8bcce8bc97f416a6e23090a",
+            "kind": "tool",
+            "path": "primitives/tools/fillet.json",
+            "slug": "fillet"
+          },
+          "render": {
+            "en": "fillet"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xv-heraldry",
+      "passages": [
+        {
+          "match": [
+            "arms",
+            "heraldry",
+            "armorial bearings"
+          ],
+          "primitive": {
+            "hash": "sha256:48b81fb9d1061be369c058bac1eca2bbaf2341410dc4374e2f3950958d250c54",
+            "kind": "technique",
+            "path": "primitives/techniques/arms-blocking.json",
+            "slug": "arms-blocking"
+          },
+          "render": {
+            "en": "arms blocking"
+          }
+        },
+        {
+          "match": [
+            "arms block",
+            "block",
+            "blocked design"
+          ],
+          "primitive": {
+            "hash": "sha256:acd5daa7195c5a80f775bf55f5fb1c5c988b3caedbcf48cbd64cfc5500e0f9fa",
+            "kind": "tool",
+            "path": "primitives/tools/arms-block.json",
+            "slug": "arms-block"
+          },
+          "render": {
+            "en": "arms block"
+          }
+        },
+        {
+          "match": [
+            "arming or blocking press",
+            "platen",
+            "heating-box"
+          ],
+          "primitive": {
+            "hash": "sha256:94225d6d0793ab46924a533669f44d396d8005949e51d1fd5b71d303a109772d",
+            "kind": "tool",
+            "path": "primitives/tools/arming-press.json",
+            "slug": "arming-press"
+          },
+          "render": {
+            "en": "arming press"
+          }
+        },
+        {
+          "match": [
+            "gold"
+          ],
+          "primitive": {
+            "hash": "sha256:5a812805e9c759f02854675aed7e19c9655a2dd623a8409af342a02e627d16af",
+            "kind": "material",
+            "path": "primitives/materials/gold-leaf.json",
+            "slug": "gold-leaf"
+          },
+          "render": {
+            "en": "gold leaf"
+          }
+        },
+        {
+          "match": [
+            "coat of glaire"
+          ],
+          "primitive": {
+            "hash": "sha256:c393e2adf085eeb87583454dd8c2ddabe97fbd35b17cac38fbb4bb96d7173bbe",
+            "kind": "material",
+            "path": "primitives/materials/glaire.json",
+            "slug": "glaire"
+          },
+          "render": {
+            "en": "glaire"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xvi-designing-tools",
+      "passages": [
+        {
+          "match": [
+            "designing tools",
+            "designing for gold tooling",
+            "tool-cutter"
+          ],
+          "primitive": {
+            "hash": "sha256:c48bdf414b0e85c8fabf4868652bd51e58a2ab9531f426676566bc79b467ffbb",
+            "kind": "technique",
+            "path": "primitives/techniques/designing-finishing-tools.json",
+            "slug": "designing-finishing-tools"
+          },
+          "render": {
+            "en": "designing finishing tools"
+          }
+        },
+        {
+          "match": [
+            "gouges",
+            "gouge"
+          ],
+          "primitive": {
+            "hash": "sha256:a7af2dcd470738bc5bf0dddc71c1b85ff17d57be08d9e1022f64c6451f94bcf0",
+            "kind": "tool",
+            "path": "primitives/tools/gouge.json",
+            "slug": "gouge"
+          },
+          "render": {
+            "en": "gouge"
+          }
+        },
+        {
+          "match": [
+            "fillets",
+            "fillet"
+          ],
+          "primitive": {
+            "hash": "sha256:7af84593c66dd62a5e837987f8c88f2407b04919e8bcce8bc97f416a6e23090a",
+            "kind": "tool",
+            "path": "primitives/tools/fillet.json",
+            "slug": "fillet"
+          },
+          "render": {
+            "en": "fillet"
+          }
+        },
+        {
+          "match": [
+            "Indian ink on white paper",
+            "white paper"
+          ],
+          "primitive": {
+            "hash": "sha256:0bf99959a8b0add521455ee4b738c2ab5057d86fec267cc1c65eb1b1fd1678ad",
+            "kind": "material",
+            "path": "primitives/materials/design-paper.json",
+            "slug": "design-paper"
+          },
+          "render": {
+            "en": "design paper"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xvi-combining-tools",
+      "passages": [
+        {
+          "match": [
+            "combining tools",
+            "form patterns",
+            "diaper",
+            "border",
+            "centre"
+          ],
+          "primitive": {
+            "hash": "sha256:4446cc722e29488d36da94cbab0bd5c6c0e1e2570cdd829a557548c34eb464ce",
+            "kind": "technique",
+            "path": "primitives/techniques/combining-tools.json",
+            "slug": "combining-tools"
+          },
+          "render": {
+            "en": "combining tools to form patterns"
+          }
+        },
+        {
+          "match": [
+            "diaper",
+            "mark up",
+            "all-over pattern"
+          ],
+          "primitive": {
+            "hash": "sha256:e073fb6e79534b344d1d6c18a9a5cc9c8524f1c78246a6b23cb10f480a9e41d0",
+            "kind": "workflow",
+            "path": "primitives/workflows/building-a-diaper-pattern.json",
+            "slug": "building-a-diaper-pattern"
+          },
+          "render": {
+            "en": "building a diaper pattern"
+          }
+        },
+        {
+          "match": [
+            "point of a folder",
+            "folder"
+          ],
+          "primitive": {
+            "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+            "kind": "tool",
+            "path": "primitives/tools/folder.json",
+            "slug": "folder"
+          },
+          "render": {
+            "en": "folder"
+          }
+        },
+        {
+          "match": [
+            "gouges",
+            "gouge"
+          ],
+          "primitive": {
+            "hash": "sha256:a7af2dcd470738bc5bf0dddc71c1b85ff17d57be08d9e1022f64c6451f94bcf0",
+            "kind": "tool",
+            "path": "primitives/tools/gouge.json",
+            "slug": "gouge"
+          },
+          "render": {
+            "en": "gouge"
+          }
+        },
+        {
+          "match": [
+            "small fillet",
+            "fillet"
+          ],
+          "primitive": {
+            "hash": "sha256:7af84593c66dd62a5e837987f8c88f2407b04919e8bcce8bc97f416a6e23090a",
+            "kind": "tool",
+            "path": "primitives/tools/fillet.json",
+            "slug": "fillet"
+          },
+          "render": {
+            "en": "fillet"
+          }
+        },
+        {
+          "match": [
+            "thin paper",
+            "paper to the size of the board"
+          ],
+          "primitive": {
+            "hash": "sha256:0bf99959a8b0add521455ee4b738c2ab5057d86fec267cc1c65eb1b1fd1678ad",
+            "kind": "material",
+            "path": "primitives/materials/design-paper.json",
+            "slug": "design-paper"
+          },
+          "render": {
+            "en": "design paper"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xvi-backs",
+      "passages": [
+        {
+          "match": [
+            "back panel",
+            "grow up from panel to panel"
+          ],
+          "primitive": {
+            "hash": "sha256:4446cc722e29488d36da94cbab0bd5c6c0e1e2570cdd829a557548c34eb464ce",
+            "kind": "technique",
+            "path": "primitives/techniques/combining-tools.json",
+            "slug": "combining-tools"
+          },
+          "render": {
+            "en": "combining tools to form patterns"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xvi-inside-boards",
+      "passages": [
+        {
+          "match": [
+            "inside margins",
+            "tooled"
+          ],
+          "primitive": {
+            "hash": "sha256:4446cc722e29488d36da94cbab0bd5c6c0e1e2570cdd829a557548c34eb464ce",
+            "kind": "technique",
+            "path": "primitives/techniques/combining-tools.json",
+            "slug": "combining-tools"
+          },
+          "render": {
+            "en": "combining tools to form patterns"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xvii",
+      "passages": [
+        {
+          "match": [
+            "pasting down end papers",
+            "paste down",
+            "paste-down",
+            "pasted down"
+          ],
+          "primitive": {
+            "hash": "sha256:645ad2599498d3909292a28d0560ffe01c5d84bcb9429efc18020d6a8b058186",
+            "kind": "technique",
+            "path": "primitives/techniques/pasting-down-end-papers.json",
+            "slug": "pasting-down-end-papers"
+          },
+          "render": {
+            "en": "pasting down end papers"
+          }
+        },
+        {
+          "match": [
+            "pasting down end papers"
+          ],
+          "primitive": {
+            "hash": "sha256:0c371aaf6b2dcbf5a675deaf311c29e6dfb266694f78db8d0fffcfb3d438793e",
+            "kind": "workflow",
+            "path": "primitives/workflows/pasting-down-end-papers-procedure.json",
+            "slug": "pasting-down-end-papers-procedure"
+          },
+          "render": {
+            "en": "pasting-down procedure"
+          }
+        },
+        {
+          "match": [
+            "dividers",
+            "divider points"
+          ],
+          "primitive": {
+            "hash": "sha256:826b561a42531ce020f377c9c73448da3b80759c3d9b34953cd1c8b5b145c2e2",
+            "kind": "tool",
+            "path": "primitives/tools/dividers.json",
+            "slug": "dividers"
+          },
+          "render": {
+            "en": "dividers"
+          }
+        },
+        {
+          "match": [
+            "cutting tin"
+          ],
+          "primitive": {
+            "hash": "sha256:ebf4f9c589d3c427d5c79ad27a176b971fce600aeae889763c6a714253ee47ae",
+            "kind": "tool",
+            "path": "primitives/tools/cutting-tin.json",
+            "slug": "cutting-tin"
+          },
+          "render": {
+            "en": "cutting tin"
+          }
+        },
+        {
+          "match": [
+            "straight-edge"
+          ],
+          "primitive": {
+            "hash": "sha256:4d99452f5c91ece8b538549ea4ba623ee0988db4b6d9cb792426a88661cfdfb2",
+            "kind": "tool",
+            "path": "primitives/tools/straight-edge.json",
+            "slug": "straight-edge"
+          },
+          "render": {
+            "en": "straight-edge"
+          }
+        },
+        {
+          "match": [
+            "paste",
+            "thin paste"
+          ],
+          "primitive": {
+            "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+            "kind": "material",
+            "path": "primitives/materials/paste.json",
+            "slug": "paste"
+          },
+          "render": {
+            "en": "paste"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xvii-opening",
+      "passages": [
+        {
+          "match": [
+            "opening newly-bound books",
+            "ease the back",
+            "broken back"
+          ],
+          "primitive": {
+            "hash": "sha256:570bc33071c25a0ea49226c24da5e6e5e2d25758ca09068adc5ded303f455609",
+            "kind": "technique",
+            "path": "primitives/techniques/opening-newly-bound-books.json",
+            "slug": "opening-newly-bound-books"
+          },
+          "render": {
+            "en": "opening newly bound books"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xviii-clasps",
+      "passages": [
+        {
+          "match": [
+            "clasp",
+            "clasps",
+            "simple clasp"
+          ],
+          "primitive": {
+            "hash": "sha256:3d5e8928bb736be91408aea2b22b821a3f3576729f8376ef7134ee31506596e2",
+            "kind": "material",
+            "path": "primitives/materials/metal-clasp.json",
+            "slug": "metal-clasp"
+          },
+          "render": {
+            "en": "clasp"
+          }
+        },
+        {
+          "match": [
+            "tie",
+            "ties",
+            "silk or leather ties"
+          ],
+          "primitive": {
+            "hash": "sha256:99146d9b89a0efa2791df846256e122205766af5ec4afa69a938bdc3f40d3df8",
+            "kind": "material",
+            "path": "primitives/materials/binding-tie.json",
+            "slug": "binding-tie"
+          },
+          "render": {
+            "en": "tie"
+          }
+        },
+        {
+          "match": [
+            "silver wire",
+            "thick silver wire",
+            "silver catch"
+          ],
+          "primitive": {
+            "hash": "sha256:612eb44af2539cc58f28ab56e2db698c2b58ee0de0b1fb04cbdc69dfc18b855f",
+            "kind": "material",
+            "path": "primitives/materials/silver-wire.json",
+            "slug": "silver-wire"
+          },
+          "render": {
+            "en": "silver wire"
+          }
+        },
+        {
+          "match": [
+            "catgut",
+            "gut",
+            "piece of catgut"
+          ],
+          "primitive": {
+            "hash": "sha256:e912037a50b70cf90b1206f8842179e5d2eb4f7a5d25b67414d1596426217c04",
+            "kind": "material",
+            "path": "primitives/materials/catgut.json",
+            "slug": "catgut"
+          },
+          "render": {
+            "en": "catgut"
+          }
+        },
+        {
+          "match": [
+            "double boards",
+            "riveted on the inside",
+            "worked round the catch"
+          ],
+          "primitive": {
+            "hash": "sha256:20df2ecb68d43ea5e1f321d60a0fd0c045f9ccde75c73f43e25409e01fcb6b9c",
+            "kind": "technique",
+            "path": "primitives/techniques/fitting-clasps.json",
+            "slug": "fitting-clasps"
+          },
+          "render": {
+            "en": "fitting clasps"
+          }
+        },
+        {
+          "match": [
+            "plait",
+            "three plaits",
+            "strips of thin leather"
+          ],
+          "primitive": {
+            "hash": "sha256:19f921d1ea639a61a4c55d85a201057d8cf518e67d05f8636be7f22f4195d98e",
+            "kind": "technique",
+            "path": "primitives/techniques/plaiting-clasp-straps.json",
+            "slug": "plaiting-clasp-straps"
+          },
+          "render": {
+            "en": "plaiting clasp straps"
+          }
+        },
+        {
+          "match": [
+            "simple clasp",
+            "make the plait"
+          ],
+          "primitive": {
+            "hash": "sha256:52283c130e054e33dcee0871a84945c2ff26fad6479aa96f4261284fe2bdf17e",
+            "kind": "workflow",
+            "path": "primitives/workflows/making-and-fitting-a-clasp.json",
+            "slug": "making-and-fitting-a-clasp"
+          },
+          "render": {
+            "en": "making and fitting a clasp"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xviii-metal",
+      "passages": [
+        {
+          "match": [
+            "metal corners",
+            "bosses",
+            "metal shoe",
+            "plaques of metal"
+          ],
+          "primitive": {
+            "hash": "sha256:85d75475af652267e92eca402fd9529f23833ce3e085d0e62f19969468f49a07",
+            "kind": "material",
+            "path": "primitives/materials/metal-furniture.json",
+            "slug": "metal-furniture"
+          },
+          "render": {
+            "en": "metal furniture"
+          }
+        },
+        {
+          "match": [
+            "nailed to the wood",
+            "set with jewels",
+            "embossed or chased"
+          ],
+          "primitive": {
+            "hash": "sha256:dd5fdd6228793d6c000241f3c8308d8d0964bd24d102d90c5fdecf567d18a4ac",
+            "kind": "technique",
+            "path": "primitives/techniques/mounting-metal-furniture.json",
+            "slug": "mounting-metal-furniture"
+          },
+          "render": {
+            "en": "mounting metal furniture"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xix",
+      "passages": [
+        {
+          "match": [
+            "leather",
+            "bookbinding leather"
+          ],
+          "primitive": {
+            "hash": "sha256:ba762a61f0c473a535b4e9d36a00c417cee805100423bc1d2caa6c6cd5abe9a4",
+            "kind": "material",
+            "path": "primitives/materials/cover-leather.json",
+            "slug": "cover-leather"
+          },
+          "render": {
+            "en": "leather"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xix-decay",
+      "passages": [
+        {
+          "match": [
+            "leather",
+            "binding leather"
+          ],
+          "primitive": {
+            "hash": "sha256:ba762a61f0c473a535b4e9d36a00c417cee805100423bc1d2caa6c6cd5abe9a4",
+            "kind": "material",
+            "path": "primitives/materials/cover-leather.json",
+            "slug": "cover-leather"
+          },
+          "render": {
+            "en": "leather"
+          }
+        },
+        {
+          "match": [
+            "calf",
+            "calf bindings",
+            "Russia leather"
+          ],
+          "primitive": {
+            "hash": "sha256:a87f4d408741826690f886671747035cb42a3b41d723ca8ba1bce669a4e525e6",
+            "kind": "material",
+            "path": "primitives/materials/calf.json",
+            "slug": "calf"
+          },
+          "render": {
+            "en": "calf"
+          }
+        },
+        {
+          "match": [
+            "morocco",
+            "red morocco"
+          ],
+          "primitive": {
+            "hash": "sha256:062b93180181d7626bed0dd0345144a6e213dacd05613b9eda9672943aa8d9fd",
+            "kind": "material",
+            "path": "primitives/materials/goatskin.json",
+            "slug": "goatskin"
+          },
+          "render": {
+            "en": "morocco"
+          }
+        },
+        {
+          "match": [
+            "sheepskin",
+            "sheepskin bindings"
+          ],
+          "primitive": {
+            "hash": "sha256:d5baab303b2eb04af9462833940500de1a5b034350ca5c6091c7fda593e6cde6",
+            "kind": "material",
+            "path": "primitives/materials/sheepskin.json",
+            "slug": "sheepskin"
+          },
+          "render": {
+            "en": "sheepskin"
+          }
+        },
+        {
+          "match": [
+            "pigskin",
+            "white pigskin"
+          ],
+          "primitive": {
+            "hash": "sha256:f553d0976291ae880d304b61a50d076a8b2c0eaae5f745fa005878f5d5fb2e7b",
+            "kind": "material",
+            "path": "primitives/materials/pigskin.json",
+            "slug": "pigskin"
+          },
+          "render": {
+            "en": "pigskin"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xix-testing",
+      "passages": [
+        {
+          "match": [
+            "mechanical test",
+            "tearing the leather",
+            "test any leather"
+          ],
+          "primitive": {
+            "hash": "sha256:c182c06f198f73e4d51a051b03e62b197ea5ebeb8fec3e4e75f783ca5dc168b3",
+            "kind": "technique",
+            "path": "primitives/techniques/testing-leather.json",
+            "slug": "testing-leather"
+          },
+          "render": {
+            "en": "testing leather"
+          }
+        },
+        {
+          "match": [
+            "bookbinding leather"
+          ],
+          "primitive": {
+            "hash": "sha256:ba762a61f0c473a535b4e9d36a00c417cee805100423bc1d2caa6c6cd5abe9a4",
+            "kind": "material",
+            "path": "primitives/materials/cover-leather.json",
+            "slug": "cover-leather"
+          },
+          "render": {
+            "en": "leather"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xix-kinds",
+      "passages": [
+        {
+          "match": [
+            "Goatskin",
+            "morocco",
+            "Niger goatskin",
+            "Niger morocco",
+            "Levant morocco"
+          ],
+          "primitive": {
+            "hash": "sha256:062b93180181d7626bed0dd0345144a6e213dacd05613b9eda9672943aa8d9fd",
+            "kind": "material",
+            "path": "primitives/materials/goatskin.json",
+            "slug": "goatskin"
+          },
+          "render": {
+            "en": "goatskin"
+          }
+        },
+        {
+          "match": [
+            "Calf",
+            "russia"
+          ],
+          "primitive": {
+            "hash": "sha256:a87f4d408741826690f886671747035cb42a3b41d723ca8ba1bce669a4e525e6",
+            "kind": "material",
+            "path": "primitives/materials/calf.json",
+            "slug": "calf"
+          },
+          "render": {
+            "en": "calf"
+          }
+        },
+        {
+          "match": [
+            "Sheepskin",
+            "roan",
+            "basil",
+            "skiver"
+          ],
+          "primitive": {
+            "hash": "sha256:d5baab303b2eb04af9462833940500de1a5b034350ca5c6091c7fda593e6cde6",
+            "kind": "material",
+            "path": "primitives/materials/sheepskin.json",
+            "slug": "sheepskin"
+          },
+          "render": {
+            "en": "sheepskin"
+          }
+        },
+        {
+          "match": [
+            "Pigskin"
+          ],
+          "primitive": {
+            "hash": "sha256:f553d0976291ae880d304b61a50d076a8b2c0eaae5f745fa005878f5d5fb2e7b",
+            "kind": "material",
+            "path": "primitives/materials/pigskin.json",
+            "slug": "pigskin"
+          },
+          "render": {
+            "en": "pigskin"
+          }
+        },
+        {
+          "match": [
+            "Sealskin",
+            "seal"
+          ],
+          "primitive": {
+            "hash": "sha256:64d378c93abbcc347872c9ad7edc3e77a423bd835f214a6cbe0096267bd1df21",
+            "kind": "material",
+            "path": "primitives/materials/sealskin.json",
+            "slug": "sealskin"
+          },
+          "render": {
+            "en": "sealskin"
+          }
+        },
+        {
+          "match": [
+            "chrome-tanned calfskin",
+            "Chrome leather"
+          ],
+          "primitive": {
+            "hash": "sha256:3a44502949f9fbeaf13ae30fba843c30441e230f70df294abf22bcaad817377d",
+            "kind": "material",
+            "path": "primitives/materials/chrome-leather.json",
+            "slug": "chrome-leather"
+          },
+          "render": {
+            "en": "chrome leather"
+          }
+        },
+        {
+          "match": [
+            "sprinkling",
+            "sprinkled",
+            "tree calf",
+            "marbling"
+          ],
+          "primitive": {
+            "hash": "sha256:820ed5b90eb8ee20e41b5702633f776d6e53c2711b2b924d1f78ed217449f356",
+            "kind": "technique",
+            "path": "primitives/techniques/sprinkling-leather.json",
+            "slug": "sprinkling-leather"
+          },
+          "render": {
+            "en": "sprinkling leather"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xx",
+      "passages": [
+        {
+          "match": [
+            "paper",
+            "laid",
+            "wove",
+            "machine-made paper"
+          ],
+          "primitive": {
+            "hash": "sha256:3fe470fcea48b8cf1f54b3239b30fb8ee1cdb9c9697ed28400c7d62835b57d90",
+            "kind": "material",
+            "path": "primitives/materials/paper.json",
+            "slug": "paper"
+          },
+          "render": {
+            "en": "paper"
+          }
+        },
+        {
+          "match": [
+            "hand-made paper",
+            "deckle"
+          ],
+          "primitive": {
+            "hash": "sha256:940a692ab1992a19fd9994ed80bd664f9fa27d6f5301a54671fe9f4c85bdca50",
+            "kind": "material",
+            "path": "primitives/materials/hand-made-paper.json",
+            "slug": "hand-made-paper"
+          },
+          "render": {
+            "en": "hand-made paper"
+          }
+        },
+        {
+          "match": [
+            "Japanese Vellum",
+            "Japanese paper"
+          ],
+          "primitive": {
+            "hash": "sha256:bdd64e0fa890fa5ab250fa5db3784838336a05a379ac0b01d30ef4e8b0702b9b",
+            "kind": "material",
+            "path": "primitives/materials/japanese-vellum.json",
+            "slug": "japanese-vellum"
+          },
+          "render": {
+            "en": "Japanese vellum"
+          }
+        },
+        {
+          "match": [
+            "Art papers",
+            "half-toned"
+          ],
+          "primitive": {
+            "hash": "sha256:c16f9df6e3d863a3685a88e708258dc52076ea2b408d17bb116cfeff7d72a680",
+            "kind": "material",
+            "path": "primitives/materials/art-paper.json",
+            "slug": "art-paper"
+          },
+          "render": {
+            "en": "art paper"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xx-pastes",
+      "passages": [
+        {
+          "match": [
+            "paste",
+            "pastes"
+          ],
+          "primitive": {
+            "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+            "kind": "material",
+            "path": "primitives/materials/paste.json",
+            "slug": "paste"
+          },
+          "render": {
+            "en": "paste"
+          }
+        },
+        {
+          "match": [
+            "White Paste",
+            "paste for mending"
+          ],
+          "primitive": {
+            "hash": "sha256:2f9100b8b8bac62c23a33cae3ebe4475527ea6e98d568bf9f451d71bd3c7f334",
+            "kind": "material",
+            "path": "primitives/materials/white-paste.json",
+            "slug": "white-paste"
+          },
+          "render": {
+            "en": "white paste"
+          }
+        },
+        {
+          "match": [
+            "make paste",
+            "paste for covering"
+          ],
+          "primitive": {
+            "hash": "sha256:19dcf398d00c54a07b06fc58437476229b5494a658cfe3772d52a52f2436db9c",
+            "kind": "workflow",
+            "path": "primitives/workflows/paste-making.json",
+            "slug": "paste-making"
+          },
+          "render": {
+            "en": "making paste"
+          }
+        },
+        {
+          "match": [
+            "paste tub"
+          ],
+          "primitive": {
+            "hash": "sha256:095acd651901e7c1bafbd16e974db6945a8e424fcf852b8c6cf043e3d8e84ec3",
+            "kind": "tool",
+            "path": "primitives/tools/paste-tub.json",
+            "slug": "paste-tub"
+          },
+          "render": {
+            "en": "paste tub"
+          }
+        },
+        {
+          "match": [
+            "paste brushes",
+            "paste brush"
+          ],
+          "primitive": {
+            "hash": "sha256:bf828fdfc10a1575efd228dda5344f8ab9597f837b0dc592a7600c5eab69734d",
+            "kind": "tool",
+            "path": "primitives/tools/paste-brush.json",
+            "slug": "paste-brush"
+          },
+          "render": {
+            "en": "paste brush"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xx-glue",
+      "passages": [
+        {
+          "match": [
+            "glue",
+            "hide glue"
+          ],
+          "primitive": {
+            "hash": "sha256:199e25c7b9d8b7a49d1cf66e3c7477cafb10dac1c5d250c8566a942a952a0d43",
+            "kind": "material",
+            "path": "primitives/materials/glue.json",
+            "slug": "glue"
+          },
+          "render": {
+            "en": "glue"
+          }
+        },
+        {
+          "match": [
+            "glue-pot"
+          ],
+          "primitive": {
+            "hash": "sha256:637ef675f81865397e0799a5b84dc6e51148628f022d0030338e873214240cfd",
+            "kind": "tool",
+            "path": "primitives/tools/glue-pot.json",
+            "slug": "glue-pot"
+          },
+          "render": {
+            "en": "glue-pot"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xxi",
+      "passages": [
+        {
+          "match": [
+            "tinted glass",
+            "yellow or olive-green glass"
+          ],
+          "primitive": {
+            "hash": "sha256:36f1825cd133d55ac1871fd709acf30d7152e7eda9fbc0a269a3626a756bc5a2",
+            "kind": "material",
+            "path": "primitives/materials/tinted-glass.json",
+            "slug": "tinted-glass"
+          },
+          "render": {
+            "en": "tinted glass"
+          }
+        },
+        {
+          "match": [
+            "dust",
+            "dusting",
+            "feather duster"
+          ],
+          "primitive": {
+            "hash": "sha256:7d5c1ccc3821ad1291265a1be32a43d9a3ddd62e0d2d61d02c8c0753404187f1",
+            "kind": "technique",
+            "path": "primitives/techniques/dusting.json",
+            "slug": "dusting"
+          },
+          "render": {
+            "en": "dusting"
+          }
+        },
+        {
+          "match": [
+            "feather duster"
+          ],
+          "primitive": {
+            "hash": "sha256:fd937e70aed5783972b6136ac5d7acbc2e14aa9ba3e716049a6e6a8d2682a057",
+            "kind": "tool",
+            "path": "primitives/tools/feather-duster.json",
+            "slug": "feather-duster"
+          },
+          "render": {
+            "en": "feather duster"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xxi-pests",
+      "passages": [
+        {
+          "match": [
+            "Bookworms",
+            "bookworm",
+            "worms"
+          ],
+          "primitive": {
+            "hash": "sha256:05269bcaf6395d68800d012bdda89691fc79076a071058345ff922f7bcb9258a",
+            "kind": "technique",
+            "path": "primitives/techniques/insect-pest-control.json",
+            "slug": "insect-pest-control"
+          },
+          "render": {
+            "en": "insect pest control"
+          }
+        },
+        {
+          "match": [
+            "camphor",
+            "naphthaline",
+            "Insect Powder"
+          ],
+          "primitive": {
+            "hash": "sha256:99b60a2e4dcf1b6372ecb45b05df04f74110331e5de96399df8fd188246bca7f",
+            "kind": "material",
+            "path": "primitives/materials/insect-repellent.json",
+            "slug": "insect-repellent"
+          },
+          "render": {
+            "en": "insect repellent"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xxi-shelving",
+      "passages": []
+    },
+    {
+      "anchor": "xxii",
+      "passages": [
+        {
+          "match": [
+            "Preserving old bindings",
+            "To Preserve Old Bindings",
+            "preservative",
+            "dressing"
+          ],
+          "primitive": {
+            "hash": "sha256:3ad41b1ef4c1185fe8dcf35c626f246f42be77245d4ec173e946447bc1fb199f",
+            "kind": "technique",
+            "path": "primitives/techniques/preserving-old-bindings.json",
+            "slug": "preserving-old-bindings"
+          },
+          "render": {
+            "en": "preserving old bindings"
+          }
+        },
+        {
+          "match": [
+            "preparation",
+            "preservative",
+            "solution of paraffin wax in castor oil"
+          ],
+          "primitive": {
+            "hash": "sha256:8dbb4e15cd80a56d5996e838ab3b979210e24e0bc3224edd6ffc9075db08e178",
+            "kind": "material",
+            "path": "primitives/materials/leather-dressing.json",
+            "slug": "leather-dressing"
+          },
+          "render": {
+            "en": "leather dressing"
+          }
+        },
+        {
+          "match": [
+            "paraffin wax",
+            "wax"
+          ],
+          "primitive": {
+            "hash": "sha256:3ef5a3576202ed50664a10ee54eb01bbcc211262a555029322d83589f65051ea",
+            "kind": "material",
+            "path": "primitives/materials/paraffin-wax.json",
+            "slug": "paraffin-wax"
+          },
+          "render": {
+            "en": "paraffin wax"
+          }
+        },
+        {
+          "match": [
+            "castor oil"
+          ],
+          "primitive": {
+            "hash": "sha256:4581267e8235e2345b70f081beeb9967bbfe42101c743d3f927aa08025af5f36",
+            "kind": "material",
+            "path": "primitives/materials/castor-oil.json",
+            "slug": "castor-oil"
+          },
+          "render": {
+            "en": "castor oil"
+          }
+        },
+        {
+          "match": [
+            "pieces of millboard",
+            "cases may be made",
+            "cover made of a piece of millboard"
+          ],
+          "primitive": {
+            "hash": "sha256:f0f72a365bde9ccc422d22c9b633fb8b6fb5ef3cf472e8fbc7b454e998e91a7c",
+            "kind": "technique",
+            "path": "primitives/techniques/protective-shelf-case.json",
+            "slug": "protective-shelf-case"
+          },
+          "render": {
+            "en": "protective case"
+          }
+        },
+        {
+          "match": [
+            "millboard",
+            "mill-board"
+          ],
+          "primitive": {
+            "hash": "sha256:6fe26284e0a5ba509fb6bc9b3eef4090b08f4f4ac4d4503fcf682d0bbabcb21d",
+            "kind": "material",
+            "path": "primitives/materials/millboard.json",
+            "slug": "millboard"
+          },
+          "render": {
+            "en": "millboard"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "xxii-rebacking",
+      "passages": [
+        {
+          "match": [
+            "Re-backing",
+            "re-backed"
+          ],
+          "primitive": {
+            "hash": "sha256:f36c603cf89be0b8ef785bd6689bd20221d063c369ed984689bf0d0f87b3cf72",
+            "kind": "technique",
+            "path": "primitives/techniques/re-backing.json",
+            "slug": "re-backing"
+          },
+          "render": {
+            "en": "re-backing"
+          }
+        },
+        {
+          "match": [
+            "corners of the board needs repairing",
+            "corner covered"
+          ],
+          "primitive": {
+            "hash": "sha256:0637dda7a47010323ec935678131d9711313a904ab0ebfdb5418d8058637992f",
+            "kind": "technique",
+            "path": "primitives/techniques/corner-repair.json",
+            "slug": "corner-repair"
+          },
+          "render": {
+            "en": "corner repair"
+          }
+        },
+        {
+          "match": [
+            "new leather",
+            "leather",
+            "new of the same colour"
+          ],
+          "primitive": {
+            "hash": "sha256:ba762a61f0c473a535b4e9d36a00c417cee805100423bc1d2caa6c6cd5abe9a4",
+            "kind": "material",
+            "path": "primitives/materials/cover-leather.json",
+            "slug": "cover-leather"
+          },
+          "render": {
+            "en": "cover leather"
+          }
+        },
+        {
+          "match": [
+            "pasted"
+          ],
+          "primitive": {
+            "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+            "kind": "material",
+            "path": "primitives/materials/paste.json",
+            "slug": "paste"
+          },
+          "render": {
+            "en": "paste"
+          }
+        },
+        {
+          "match": [
+            "bound tightly with tape",
+            "tape"
+          ],
+          "primitive": {
+            "hash": "sha256:086ef048d15920f3a491a642f3c56212378fd6af6e209d4f20678fd01f13adbe",
+            "kind": "material",
+            "path": "primitives/materials/sewing-tape.json",
+            "slug": "sewing-tape"
+          },
+          "render": {
+            "en": "tape"
+          }
+        },
+        {
+          "match": [
+            "thin folder",
+            "folder"
+          ],
+          "primitive": {
+            "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+            "kind": "tool",
+            "path": "primitives/tools/folder.json",
+            "slug": "folder"
+          },
+          "render": {
+            "en": "folder"
+          }
+        },
+        {
+          "match": [
+            "hammer",
+            "tapped with a hammer"
+          ],
+          "primitive": {
+            "hash": "sha256:125070e4b693c17755074ea281c6ed1ee6bb9664cd648f4659e5d47bda5e011d",
+            "kind": "tool",
+            "path": "primitives/tools/backing-hammer.json",
+            "slug": "backing-hammer"
+          },
+          "render": {
+            "en": "hammer"
+          }
+        }
+      ]
     }
   ],
   "backlinks": {
+    "material/art-paper": [
+      "ii-sheets",
+      "ii-pulling",
+      "xx"
+    ],
+    "material/beeswax": [
+      "vi-gilding",
+      "x-gilding"
+    ],
+    "material/benzine": [
+      "xiv-finishing"
+    ],
+    "material/binding-tie": [
+      "xviii-clasps"
+    ],
+    "material/blacklead": [
+      "vi-gilding"
+    ],
+    "material/blotting-paper": [
+      "iii-guarding",
+      "iii-india-proofs",
+      "iii-flattening-vellum"
+    ],
+    "material/calf": [
+      "xix-decay",
+      "xix-kinds"
+    ],
+    "material/castor-oil": [
+      "xxii"
+    ],
+    "material/catgut": [
+      "xviii-clasps"
+    ],
+    "material/chrome-leather": [
+      "xix-kinds"
+    ],
+    "material/cloth-joint": [
+      "v-leather-joints"
+    ],
+    "material/cocoanut-oil": [
+      "xiv-finishing"
+    ],
+    "material/cover-leather": [
+      "xii-paring",
+      "xii-covering",
+      "xix",
+      "xix-decay",
+      "xix-testing",
+      "xxii-rebacking"
+    ],
+    "material/design-paper": [
+      "xvi-designing-tools",
+      "xvi-combining-tools"
+    ],
+    "material/edge-colour": [
+      "x-gilding"
+    ],
+    "material/embroidered-fabric": [
+      "xiii-embroidery"
+    ],
+    "material/end-paper": [
+      "v-end-papers"
+    ],
+    "material/filling-in-paper": [
+      "xii-mitring"
+    ],
+    "material/gelatine-size": [
+      "iv-sizing"
+    ],
+    "material/glaire": [
+      "vi-gilding",
+      "xiv-finishing",
+      "xv-lettering",
+      "xv-heraldry"
+    ],
+    "material/glue": [
+      "viii-glueing",
+      "xx-glue"
+    ],
+    "material/goatskin": [
+      "xix-decay",
+      "xix-kinds"
+    ],
+    "material/gold-leaf": [
+      "vi-gilding",
+      "xiv-finishing",
+      "xv-lettering",
+      "xv-heraldry"
+    ],
+    "material/guard": [
+      "ii-folding",
+      "iii-guarding",
+      "iii-throwing-out"
+    ],
+    "material/hand-made-paper": [
+      "xx"
+    ],
+    "material/headband": [
+      "xi"
+    ],
+    "material/headband-core": [
+      "xi"
+    ],
+    "material/insect-repellent": [
+      "xxi-pests"
+    ],
+    "material/japanese-vellum": [
+      "xx"
+    ],
+    "material/leather-dressing": [
+      "xxii"
+    ],
+    "material/leather-joint": [
+      "v-leather-joints",
+      "xii-paring",
+      "xii-mitring"
+    ],
+    "material/leather-size": [
+      "xiv-finishing"
+    ],
+    "material/lining-paper": [
+      "ix"
+    ],
+    "material/marbled-paper": [
+      "v-end-papers"
+    ],
+    "material/mending-paper": [
+      "iv-mending"
+    ],
+    "material/mending-paste": [
+      "iv-mending"
+    ],
+    "material/metal-clasp": [
+      "xviii-clasps"
+    ],
+    "material/metal-furniture": [
+      "xviii-metal"
+    ],
+    "material/millboard": [
+      "ix",
+      "xiii",
+      "xxii"
+    ],
+    "material/mounting-linen": [
+      "iii-guarding",
+      "iii-throwing-out",
+      "iii-splitting-paper"
+    ],
+    "material/paper": [
+      "xx"
+    ],
+    "material/paper-cleaning-agent": [
+      "iv-washing"
+    ],
+    "material/paraffin-wax": [
+      "xxii"
+    ],
+    "material/paste": [
+      "iii-guarding",
+      "iii-india-proofs",
+      "iii-splitting-paper",
+      "iii-inlaying",
+      "ix",
+      "ix-cleaning",
+      "xvii",
+      "xx-pastes",
+      "xxii-rebacking"
+    ],
+    "material/paste-water": [
+      "xiv-finishing"
+    ],
+    "material/pigskin": [
+      "xix-decay",
+      "xix-kinds"
+    ],
+    "material/red-chalk": [
+      "vi-gilding"
+    ],
+    "material/sealskin": [
+      "xix-kinds"
+    ],
     "material/sewing-cord": [
-      "vii-sewing"
+      "vii-sewing",
+      "viii-glueing",
+      "ix"
     ],
     "material/sewing-silk": [
-      "vii-materials"
+      "vii-materials",
+      "iv-mending",
+      "xi"
     ],
     "material/sewing-tape": [
-      "vii-materials"
+      "vii-materials",
+      "xxii-rebacking"
     ],
     "material/sewing-thread": [
       "vii-materials"
     ],
+    "material/sheepskin": [
+      "xix-decay",
+      "xix-kinds"
+    ],
+    "material/silk-end": [
+      "v-end-papers"
+    ],
+    "material/silk-ribbon": [
+      "xiii-vellum"
+    ],
+    "material/silver-wire": [
+      "xviii-clasps"
+    ],
+    "material/size": [
+      "vi-gilding"
+    ],
+    "material/strawboard": [
+      "xiii"
+    ],
+    "material/tinted-glass": [
+      "xxi"
+    ],
+    "material/varnish": [
+      "xiv-finishing"
+    ],
+    "material/vellum": [
+      "iii-flattening-vellum",
+      "xiii-vellum"
+    ],
+    "material/vellum-end": [
+      "v-end-papers"
+    ],
     "material/vellum-slip": [
-      "vii-materials"
+      "vii-materials",
+      "xi"
+    ],
+    "material/waterproof-sheet": [
+      "xii-covering"
+    ],
+    "material/white-paste": [
+      "xx-pastes"
+    ],
+    "material/wooden-board": [
+      "ix"
+    ],
+    "technique/arms-blocking": [
+      "xv-heraldry"
+    ],
+    "technique/backing": [
+      "viii-rounding-backing"
+    ],
+    "technique/beating": [
+      "v-pressing"
+    ],
+    "technique/blind-tooling": [
+      "xiv-tools",
+      "xv-blind-tooling"
+    ],
+    "technique/cleaning-off": [
+      "ix-cleaning"
+    ],
+    "technique/collating": [
+      "ii-collating"
+    ],
+    "technique/combining-tools": [
+      "xvi-combining-tools",
+      "xvi-backs",
+      "xvi-inside-boards"
+    ],
+    "technique/corner-repair": [
+      "xxii-rebacking"
+    ],
+    "technique/covering": [
+      "xii-covering"
+    ],
+    "technique/crushing-grain": [
+      "xiv-finishing"
+    ],
+    "technique/cutting-boards": [
+      "ix"
+    ],
+    "technique/cutting-in-boards": [
+      "x"
+    ],
+    "technique/designing-finishing-tools": [
+      "xvi-designing-tools"
+    ],
+    "technique/dusting": [
+      "xxi"
+    ],
+    "technique/edge-colouring": [
+      "x-gilding"
+    ],
+    "technique/edge-gilding": [
+      "vi-gilding",
+      "x-gilding"
+    ],
+    "technique/embroidery-covering": [
+      "xiii-embroidery"
+    ],
+    "technique/filling-in-boards": [
+      "xii-mitring"
+    ],
+    "technique/fitting-clasps": [
+      "xviii-clasps"
+    ],
+    "technique/flattening-vellum": [
+      "iii-flattening-vellum"
     ],
     "technique/flexible-sewing": [
       "vii-sewing"
     ],
+    "technique/folding": [
+      "ii-folding"
+    ],
+    "technique/fore-edge-painting": [
+      "x-gilding"
+    ],
+    "technique/fraying-out-slips": [
+      "viii-glueing"
+    ],
+    "technique/french-joint": [
+      "xiii"
+    ],
+    "technique/gathering": [
+      "ii-sheets"
+    ],
+    "technique/gauffering": [
+      "x-gilding"
+    ],
+    "technique/glueing-up": [
+      "viii-glueing"
+    ],
+    "technique/gold-tooling": [
+      "xiv-tools",
+      "xiv-finishing"
+    ],
+    "technique/guarding": [
+      "ii-folding",
+      "iii-guarding"
+    ],
+    "technique/headbanding": [
+      "xi"
+    ],
+    "technique/hinging-plates": [
+      "iii-guarding"
+    ],
+    "technique/hollow-back": [
+      "i",
+      "xiii-vellum",
+      "xiii-embroidery"
+    ],
+    "technique/inlaying": [
+      "iii-inlaying"
+    ],
+    "technique/inlaying-on-leather": [
+      "xiv-inlaying"
+    ],
+    "technique/insect-pest-control": [
+      "xxi-pests"
+    ],
     "technique/kettle-stitch": [
-      "vii-sewing"
+      "vii-sewing",
+      "xi"
+    ],
+    "technique/knocking-out-joints": [
+      "ii-joints"
+    ],
+    "technique/lacing-in": [
+      "ix"
+    ],
+    "technique/leather-work": [
+      "xv-blind-tooling"
+    ],
+    "technique/lettering": [
+      "xv-lettering"
+    ],
+    "technique/lining-boards": [
+      "ix"
+    ],
+    "technique/lining-up": [
+      "xii-preparing"
     ],
     "technique/marking-up": [
       "vii"
     ],
+    "technique/mending": [
+      "ii-pulling",
+      "iv-mending"
+    ],
+    "technique/mending-tooling": [
+      "xiv-finishing"
+    ],
+    "technique/mending-vellum": [
+      "iv-mending"
+    ],
+    "technique/mitring-corners": [
+      "xii-mitring"
+    ],
+    "technique/mounting": [
+      "xiii-scrap"
+    ],
+    "technique/mounting-metal-furniture": [
+      "xviii-metal"
+    ],
+    "technique/mounting-thin-paper": [
+      "iii-india-proofs"
+    ],
+    "technique/opening-newly-bound-books": [
+      "xvii-opening"
+    ],
+    "technique/overcasting": [
+      "ii-pulling"
+    ],
+    "technique/paring-leather": [
+      "xii-paring"
+    ],
+    "technique/paring-paper": [
+      "iii-paring-paper"
+    ],
+    "technique/pasting-down-end-papers": [
+      "xvii"
+    ],
+    "technique/plaiting-clasp-straps": [
+      "xviii-clasps"
+    ],
+    "technique/polishing": [
+      "xiv-finishing"
+    ],
+    "technique/preserving-old-bindings": [
+      "xxii"
+    ],
+    "technique/pressing": [
+      "ix-cleaning"
+    ],
+    "technique/pressing-sections": [
+      "v-pressing"
+    ],
+    "technique/protective-shelf-case": [
+      "xxii"
+    ],
+    "technique/pulling": [
+      "ii-pulling"
+    ],
+    "technique/re-backing": [
+      "xxii-rebacking"
+    ],
+    "technique/refolding": [
+      "ii-refolding"
+    ],
+    "technique/rounding": [
+      "viii-rounding-backing"
+    ],
     "technique/sawing-in": [
-      "vii"
+      "vii",
+      "i"
+    ],
+    "technique/setting-head-cap": [
+      "xii-covering"
+    ],
+    "technique/setting-squares": [
+      "xii-preparing"
     ],
     "technique/sewing-on-tapes": [
-      "vii-materials"
+      "vii-materials",
+      "i",
+      "xiii"
     ],
     "technique/sewing-on-vellum-slips": [
-      "vii-materials"
+      "vii-materials",
+      "xiii-vellum"
+    ],
+    "technique/sizing": [
+      "iv-sizing"
+    ],
+    "technique/sizing-leather": [
+      "xiv-finishing"
+    ],
+    "technique/soaking-off-india-proofs": [
+      "iii-india-proofs"
+    ],
+    "technique/split-boards": [
+      "xiii",
+      "xiii-thin"
+    ],
+    "technique/splitting-paper": [
+      "iii-splitting-paper"
+    ],
+    "technique/sprinkling-leather": [
+      "xix-kinds"
+    ],
+    "technique/testing-leather": [
+      "xix-testing"
+    ],
+    "technique/throwing-out": [
+      "iii-throwing-out"
+    ],
+    "technique/tooling-on-vellum": [
+      "xiv-vellum"
+    ],
+    "technique/trimming-edges": [
+      "vi-trimming"
+    ],
+    "technique/trimming-plates": [
+      "ii-folding"
+    ],
+    "technique/tying-up": [
+      "xii-covering"
+    ],
+    "technique/vellum-covering": [
+      "xiii-vellum"
+    ],
+    "technique/washing": [
+      "iv-washing"
     ],
     "technique/weavers-knot": [
       "vii-sewing"
     ],
+    "tool/arming-press": [
+      "xv-heraldry"
+    ],
+    "tool/arms-block": [
+      "xv-heraldry"
+    ],
+    "tool/backing-board": [
+      "viii-rounding-backing"
+    ],
+    "tool/backing-hammer": [
+      "viii-rounding-backing",
+      "xxii-rebacking"
+    ],
+    "tool/band-nippers": [
+      "xii-covering"
+    ],
+    "tool/band-stick": [
+      "xii-covering"
+    ],
+    "tool/binders-type": [
+      "xv-lettering"
+    ],
+    "tool/board-machine": [
+      "ix"
+    ],
+    "tool/bodkin": [
+      "viii-glueing",
+      "ix"
+    ],
+    "tool/burnisher": [
+      "vi-gilding"
+    ],
     "tool/carpenter-square": [
-      "vii"
+      "vii",
+      "ii-refolding",
+      "vi-trimming",
+      "ix"
+    ],
+    "tool/compasses": [
+      "ix"
+    ],
+    "tool/cutting-board": [
+      "vi-gilding",
+      "x"
+    ],
+    "tool/cutting-tin": [
+      "xvii"
+    ],
+    "tool/dividers": [
+      "ii-refolding",
+      "iii-guarding",
+      "xv-lettering",
+      "xvii"
+    ],
+    "tool/edge-trimming-jig": [
+      "vi-trimming"
+    ],
+    "tool/feather-duster": [
+      "xxi"
+    ],
+    "tool/fillet": [
+      "xiv-tools",
+      "xv-blind-tooling",
+      "xvi-designing-tools",
+      "xvi-combining-tools"
+    ],
+    "tool/finishing-press": [
+      "xi",
+      "xiv-finishing"
+    ],
+    "tool/finishing-roll": [
+      "xiv-tools"
+    ],
+    "tool/finishing-stove": [
+      "xiv-finishing"
+    ],
+    "tool/finishing-tool": [
+      "xiv-tools"
+    ],
+    "tool/flattening-hammer": [
+      "ii-joints"
+    ],
+    "tool/folder": [
+      "ii-folding",
+      "ii-pulling",
+      "iii-inlaying",
+      "iv-mending",
+      "vi-trimming",
+      "xii-covering",
+      "xvi-combining-tools",
+      "xxii-rebacking"
+    ],
+    "tool/gilders-tip": [
+      "vi-gilding"
+    ],
+    "tool/glue-brush": [
+      "viii-glueing"
+    ],
+    "tool/glue-pot": [
+      "xx-glue"
+    ],
+    "tool/gold-cushion": [
+      "xiv-finishing"
+    ],
+    "tool/gold-knife": [
+      "xiv-finishing"
+    ],
+    "tool/gouge": [
+      "xiv-tools",
+      "xv-blind-tooling",
+      "xvi-designing-tools",
+      "xvi-combining-tools"
+    ],
+    "tool/handle-letter": [
+      "xv-lettering"
+    ],
+    "tool/knocking-down-iron": [
+      "ii-joints",
+      "viii-glueing",
+      "ix"
+    ],
+    "tool/leather-paring-knife": [
+      "xii-paring"
     ],
     "tool/lying-press": [
-      "vii"
+      "vii",
+      "ii-joints",
+      "iv-sizing",
+      "vi-gilding",
+      "viii-glueing",
+      "viii-rounding-backing",
+      "ix",
+      "ix-cleaning",
+      "xii-preparing",
+      "xiv-finishing"
+    ],
+    "tool/millboard-shears": [
+      "ix"
+    ],
+    "tool/mount-cutters-knife": [
+      "iii-guarding"
+    ],
+    "tool/nipping-press": [
+      "xiv-finishing"
+    ],
+    "tool/pallet": [
+      "xiv-tools"
+    ],
+    "tool/paring-knife": [
+      "iii-paring-paper",
+      "iii-inlaying",
+      "iv-mending"
+    ],
+    "tool/paring-stone": [
+      "xii-paring"
+    ],
+    "tool/paste-brush": [
+      "xx-pastes"
+    ],
+    "tool/paste-tub": [
+      "xx-pastes"
+    ],
+    "tool/plough": [
+      "ix",
+      "x"
+    ],
+    "tool/plough-knife": [
+      "ix"
+    ],
+    "tool/polisher": [
+      "xiv-finishing"
+    ],
+    "tool/pressing-board": [
+      "v-pressing"
+    ],
+    "tool/pressing-tin": [
+      "v-pressing"
     ],
     "tool/sewing-frame": [
       "vii-sewing"
     ],
     "tool/sewing-key": [
       "vii-sewing"
+    ],
+    "tool/sewing-needle": [
+      "xi"
+    ],
+    "tool/soft-brush": [
+      "iv-washing"
+    ],
+    "tool/standing-press": [
+      "v-pressing",
+      "ix-cleaning"
+    ],
+    "tool/straight-edge": [
+      "iii-guarding",
+      "xvii"
+    ],
+    "tool/tooth-burnisher": [
+      "x-gilding"
+    ],
+    "tool/trindle": [
+      "x",
+      "x-gilding"
+    ],
+    "workflow/building-a-diaper-pattern": [
+      "xvi-combining-tools"
+    ],
+    "workflow/cutting-and-attaching-boards": [
+      "ix"
+    ],
+    "workflow/edge-gilding-before-sewing": [
+      "vi-gilding"
+    ],
+    "workflow/gold-finishing": [
+      "xiv-finishing"
+    ],
+    "workflow/headbanding-on-vellum": [
+      "xi"
+    ],
+    "workflow/lettering-the-back": [
+      "xv-lettering"
+    ],
+    "workflow/library-binding": [
+      "xiii"
+    ],
+    "workflow/making-and-fitting-a-clasp": [
+      "xviii-clasps"
+    ],
+    "workflow/making-end-papers": [
+      "v-end-papers"
+    ],
+    "workflow/paste-making": [
+      "xx-pastes"
+    ],
+    "workflow/pasting-down-end-papers-procedure": [
+      "xvii"
+    ],
+    "workflow/rounding-and-backing": [
+      "viii-rounding-backing"
     ]
   },
   "book": "cockerell",
@@ -315,6 +5951,195 @@
     "en"
   ],
   "sections": [
+    {
+      "anchor": "i",
+      "heading": "I. Introduction",
+      "ia_leaf": 30,
+      "ia_leaf_end": 38,
+      "printed_page": 24
+    },
+    {
+      "anchor": "ii",
+      "heading": "II. Entering, Books in Sheets, Folding, Collating, Pulling to Pieces, Refolding, Knocking out Joints",
+      "ia_leaf": 39,
+      "ia_leaf_end": 39,
+      "printed_page": 33
+    },
+    {
+      "anchor": "ii-sheets",
+      "heading": "Books in Sheets",
+      "ia_leaf": 40,
+      "ia_leaf_end": 41,
+      "printed_page": 34
+    },
+    {
+      "anchor": "ii-folding",
+      "heading": "Folding",
+      "ia_leaf": 42,
+      "ia_leaf_end": 48,
+      "printed_page": 36
+    },
+    {
+      "anchor": "ii-collating",
+      "heading": "Collating",
+      "ia_leaf": 49,
+      "ia_leaf_end": 51,
+      "printed_page": 43
+    },
+    {
+      "anchor": "ii-pulling",
+      "heading": "Pulling to Pieces",
+      "ia_leaf": 52,
+      "ia_leaf_end": 56,
+      "printed_page": 46
+    },
+    {
+      "anchor": "ii-refolding",
+      "heading": "Refolding",
+      "ia_leaf": 57,
+      "ia_leaf_end": 58,
+      "printed_page": 51
+    },
+    {
+      "anchor": "ii-joints",
+      "heading": "Knocking out Joints",
+      "ia_leaf": 59,
+      "ia_leaf_end": 59,
+      "printed_page": 53
+    },
+    {
+      "anchor": "iii",
+      "heading": "III. Guarding; Throwing Out; Paring Paper; Inlaying; Flattening Vellum",
+      "ia_leaf": 59,
+      "ia_leaf_end": 59,
+      "printed_page": 53
+    },
+    {
+      "anchor": "iii-guarding",
+      "heading": "Guarding",
+      "ia_leaf": 59,
+      "ia_leaf_end": 65,
+      "printed_page": 53
+    },
+    {
+      "anchor": "iii-throwing-out",
+      "heading": "Throwing Out",
+      "ia_leaf": 66,
+      "ia_leaf_end": 66,
+      "printed_page": 60
+    },
+    {
+      "anchor": "iii-paring-paper",
+      "heading": "Paring Paper",
+      "ia_leaf": 67,
+      "ia_leaf_end": 67,
+      "printed_page": 61
+    },
+    {
+      "anchor": "iii-india-proofs",
+      "heading": "Soaking off India Proofs; Mounting very Thin Paper",
+      "ia_leaf": 68,
+      "ia_leaf_end": 68,
+      "printed_page": 62
+    },
+    {
+      "anchor": "iii-splitting-paper",
+      "heading": "Splitting Paper",
+      "ia_leaf": 69,
+      "ia_leaf_end": 69,
+      "printed_page": 63
+    },
+    {
+      "anchor": "iii-inlaying",
+      "heading": "Inlaying Leaves or Plates",
+      "ia_leaf": 70,
+      "ia_leaf_end": 70,
+      "printed_page": 64
+    },
+    {
+      "anchor": "iii-flattening-vellum",
+      "heading": "Flattening Vellum",
+      "ia_leaf": 71,
+      "ia_leaf_end": 72,
+      "printed_page": 65
+    },
+    {
+      "anchor": "iv",
+      "heading": "IV. Sizing, Washing, Mending",
+      "ia_leaf": 73,
+      "ia_leaf_end": 73,
+      "printed_page": 67
+    },
+    {
+      "anchor": "iv-sizing",
+      "heading": "Sizing",
+      "ia_leaf": 73,
+      "ia_leaf_end": 76,
+      "printed_page": 67
+    },
+    {
+      "anchor": "iv-washing",
+      "heading": "Washing",
+      "ia_leaf": 77,
+      "ia_leaf_end": 81,
+      "printed_page": 71
+    },
+    {
+      "anchor": "iv-mending",
+      "heading": "Mending",
+      "ia_leaf": 82,
+      "ia_leaf_end": 84,
+      "printed_page": 76
+    },
+    {
+      "anchor": "v",
+      "heading": "V. End Papers, Leather Joints, Pressing",
+      "ia_leaf": 85,
+      "ia_leaf_end": 85,
+      "printed_page": 79
+    },
+    {
+      "anchor": "v-end-papers",
+      "heading": "End Papers",
+      "ia_leaf": 86,
+      "ia_leaf_end": 91,
+      "printed_page": 80
+    },
+    {
+      "anchor": "v-leather-joints",
+      "heading": "Leather Joints",
+      "ia_leaf": 92,
+      "ia_leaf_end": 92,
+      "printed_page": 86
+    },
+    {
+      "anchor": "v-pressing",
+      "heading": "Pressing",
+      "ia_leaf": 93,
+      "ia_leaf_end": 97,
+      "printed_page": 87
+    },
+    {
+      "anchor": "vi",
+      "heading": "VI. Trimming Edges before Sewing; Edge Gilding",
+      "ia_leaf": 98,
+      "ia_leaf_end": 98,
+      "printed_page": 92
+    },
+    {
+      "anchor": "vi-trimming",
+      "heading": "Trimming before Sewing",
+      "ia_leaf": 98,
+      "ia_leaf_end": 100,
+      "printed_page": 92
+    },
+    {
+      "anchor": "vi-gilding",
+      "heading": "Edge Gilding",
+      "ia_leaf": 101,
+      "ia_leaf_end": 103,
+      "printed_page": 95
+    },
     {
       "anchor": "vii",
       "heading": "VII. Marking up",
@@ -335,6 +6160,349 @@
       "ia_leaf": 117,
       "ia_leaf_end": 119,
       "printed_page": 111
+    },
+    {
+      "anchor": "viii",
+      "heading": "VIII. Fraying out Slips; Glueing up; Rounding and Backing",
+      "ia_leaf": 120,
+      "ia_leaf_end": 120,
+      "printed_page": 114
+    },
+    {
+      "anchor": "viii-glueing",
+      "heading": "Fraying out Slips and Glueing up",
+      "ia_leaf": 120,
+      "ia_leaf_end": 122,
+      "printed_page": 114
+    },
+    {
+      "anchor": "viii-rounding-backing",
+      "heading": "Rounding and Backing",
+      "ia_leaf": 123,
+      "ia_leaf_end": 129,
+      "printed_page": 117
+    },
+    {
+      "anchor": "ix",
+      "heading": "IX. Cutting and Attaching Boards; Cleaning off the Back; Pressing",
+      "ia_leaf": 130,
+      "ia_leaf_end": 142,
+      "printed_page": 124
+    },
+    {
+      "anchor": "ix-cleaning",
+      "heading": "Cleaning off the Back and Pressing",
+      "ia_leaf": 143,
+      "ia_leaf_end": 144,
+      "printed_page": 137
+    },
+    {
+      "anchor": "x",
+      "heading": "X. Cutting in Boards; Gilding and Colouring Edges",
+      "ia_leaf": 145,
+      "ia_leaf_end": 149,
+      "printed_page": 139
+    },
+    {
+      "anchor": "x-gilding",
+      "heading": "Gilding or Colouring the Edges of a Cut Book",
+      "ia_leaf": 150,
+      "ia_leaf_end": 152,
+      "printed_page": 144
+    },
+    {
+      "anchor": "xi",
+      "heading": "XI. Headbanding",
+      "ia_leaf": 153,
+      "ia_leaf_end": 157,
+      "printed_page": 147
+    },
+    {
+      "anchor": "xii",
+      "heading": "XII. Preparing for Covering; Paring Leather; Covering; Mitring Corners; Filling-in Boards",
+      "ia_leaf": 158,
+      "ia_leaf_end": 158,
+      "printed_page": 152
+    },
+    {
+      "anchor": "xii-preparing",
+      "heading": "Preparing for Covering",
+      "ia_leaf": 158,
+      "ia_leaf_end": 159,
+      "printed_page": 152
+    },
+    {
+      "anchor": "xii-paring",
+      "heading": "Paring Leather",
+      "ia_leaf": 160,
+      "ia_leaf_end": 164,
+      "printed_page": 154
+    },
+    {
+      "anchor": "xii-covering",
+      "heading": "Covering",
+      "ia_leaf": 165,
+      "ia_leaf_end": 173,
+      "printed_page": 159
+    },
+    {
+      "anchor": "xii-mitring",
+      "heading": "Mitring Corners and Filling in",
+      "ia_leaf": 174,
+      "ia_leaf_end": 178,
+      "printed_page": 168
+    },
+    {
+      "anchor": "xiii",
+      "heading": "XIII. Library Binding",
+      "ia_leaf": 179,
+      "ia_leaf_end": 182,
+      "printed_page": 173
+    },
+    {
+      "anchor": "xiii-thin",
+      "heading": "Binding very Thin Books",
+      "ia_leaf": 183,
+      "ia_leaf_end": 183,
+      "printed_page": 177
+    },
+    {
+      "anchor": "xiii-scrap",
+      "heading": "Scrap-Books",
+      "ia_leaf": 184,
+      "ia_leaf_end": 185,
+      "printed_page": 178
+    },
+    {
+      "anchor": "xiii-vellum",
+      "heading": "Vellum Bindings",
+      "ia_leaf": 186,
+      "ia_leaf_end": 191,
+      "printed_page": 180
+    },
+    {
+      "anchor": "xiii-embroidery",
+      "heading": "Books Covered with Embroidery and Woven Material",
+      "ia_leaf": 192,
+      "ia_leaf_end": 193,
+      "printed_page": 186
+    },
+    {
+      "anchor": "xiv",
+      "heading": "XIV. Decoration: Tools, Finishing, Tooling on Vellum, Inlaying on Leather",
+      "ia_leaf": 194,
+      "ia_leaf_end": 194,
+      "printed_page": 188
+    },
+    {
+      "anchor": "xiv-tools",
+      "heading": "Decoration of Binding: Tools",
+      "ia_leaf": 194,
+      "ia_leaf_end": 196,
+      "printed_page": 188
+    },
+    {
+      "anchor": "xiv-finishing",
+      "heading": "Finishing",
+      "ia_leaf": 197,
+      "ia_leaf_end": 217,
+      "printed_page": 191
+    },
+    {
+      "anchor": "xiv-vellum",
+      "heading": "Tooling on Vellum",
+      "ia_leaf": 218,
+      "ia_leaf_end": 218,
+      "printed_page": 212
+    },
+    {
+      "anchor": "xiv-inlaying",
+      "heading": "Inlaying on Leather",
+      "ia_leaf": 219,
+      "ia_leaf_end": 220,
+      "printed_page": 213
+    },
+    {
+      "anchor": "xv",
+      "heading": "XV. Lettering, Blind Tooling, Heraldic Ornament",
+      "ia_leaf": 221,
+      "ia_leaf_end": 221,
+      "printed_page": 215
+    },
+    {
+      "anchor": "xv-lettering",
+      "heading": "Lettering on the Back",
+      "ia_leaf": 221,
+      "ia_leaf_end": 227,
+      "printed_page": 215
+    },
+    {
+      "anchor": "xv-blind-tooling",
+      "heading": "Blind Tooling",
+      "ia_leaf": 228,
+      "ia_leaf_end": 232,
+      "printed_page": 222
+    },
+    {
+      "anchor": "xv-heraldry",
+      "heading": "Heraldry on Book Covers",
+      "ia_leaf": 233,
+      "ia_leaf_end": 235,
+      "printed_page": 227
+    },
+    {
+      "anchor": "xvi",
+      "heading": "XVI. Designing for Gold-Tooled Decoration",
+      "ia_leaf": 236,
+      "ia_leaf_end": 236,
+      "printed_page": 230
+    },
+    {
+      "anchor": "xvi-designing-tools",
+      "heading": "Designing Tools",
+      "ia_leaf": 236,
+      "ia_leaf_end": 237,
+      "printed_page": 230
+    },
+    {
+      "anchor": "xvi-combining-tools",
+      "heading": "Combining Tools to Form Patterns",
+      "ia_leaf": 238,
+      "ia_leaf_end": 257,
+      "printed_page": 232
+    },
+    {
+      "anchor": "xvi-backs",
+      "heading": "Designing for Backs",
+      "ia_leaf": 258,
+      "ia_leaf_end": 258,
+      "printed_page": 252
+    },
+    {
+      "anchor": "xvi-inside-boards",
+      "heading": "Designing for Inside of Boards",
+      "ia_leaf": 259,
+      "ia_leaf_end": 259,
+      "printed_page": 253
+    },
+    {
+      "anchor": "xvii",
+      "heading": "XVII. Pasting down End Papers; Opening Books",
+      "ia_leaf": 260,
+      "ia_leaf_end": 262,
+      "printed_page": 254
+    },
+    {
+      "anchor": "xvii-opening",
+      "heading": "Opening Newly Bound Books",
+      "ia_leaf": 263,
+      "ia_leaf_end": 264,
+      "printed_page": 257
+    },
+    {
+      "anchor": "xviii",
+      "heading": "XVIII. Clasps and Ties; Metal on Bindings",
+      "ia_leaf": 265,
+      "ia_leaf_end": 265,
+      "printed_page": 259
+    },
+    {
+      "anchor": "xviii-clasps",
+      "heading": "Clasps and Ties",
+      "ia_leaf": 265,
+      "ia_leaf_end": 267,
+      "printed_page": 259
+    },
+    {
+      "anchor": "xviii-metal",
+      "heading": "Metal on Bindings",
+      "ia_leaf": 268,
+      "ia_leaf_end": 268,
+      "printed_page": 262
+    },
+    {
+      "anchor": "xix",
+      "heading": "XIX. Leather",
+      "ia_leaf": 269,
+      "ia_leaf_end": 269,
+      "printed_page": 263
+    },
+    {
+      "anchor": "xix-decay",
+      "heading": "XIX. Leather: Durability and Decay",
+      "ia_leaf": 270,
+      "ia_leaf_end": 278,
+      "printed_page": 264
+    },
+    {
+      "anchor": "xix-testing",
+      "heading": "XIX. Leather: Standards and Testing",
+      "ia_leaf": 279,
+      "ia_leaf_end": 281,
+      "printed_page": 273
+    },
+    {
+      "anchor": "xix-kinds",
+      "heading": "XIX. Leather: Kinds in Common Use",
+      "ia_leaf": 282,
+      "ia_leaf_end": 285,
+      "printed_page": 276
+    },
+    {
+      "anchor": "xx",
+      "heading": "XX. Paper; Pastes; Glue",
+      "ia_leaf": 286,
+      "ia_leaf_end": 291,
+      "printed_page": 280
+    },
+    {
+      "anchor": "xx-pastes",
+      "heading": "XX. Pastes",
+      "ia_leaf": 292,
+      "ia_leaf_end": 294,
+      "printed_page": 286
+    },
+    {
+      "anchor": "xx-glue",
+      "heading": "XX. Glue",
+      "ia_leaf": 295,
+      "ia_leaf_end": 296,
+      "printed_page": 289
+    },
+    {
+      "anchor": "xxi",
+      "heading": "XXI. Injurious Influences to which Books are Subjected",
+      "ia_leaf": 297,
+      "ia_leaf_end": 302,
+      "printed_page": 291
+    },
+    {
+      "anchor": "xxi-pests",
+      "heading": "Bookworms, Rats and Mice, Cockroaches",
+      "ia_leaf": 303,
+      "ia_leaf_end": 305,
+      "printed_page": 297
+    },
+    {
+      "anchor": "xxi-shelving",
+      "heading": "Placing the Books in the Shelves",
+      "ia_leaf": 306,
+      "ia_leaf_end": 307,
+      "printed_page": 300
+    },
+    {
+      "anchor": "xxii",
+      "heading": "XXII. To Preserve Old Bindings; Re-backing",
+      "ia_leaf": 308,
+      "ia_leaf_end": 310,
+      "printed_page": 302
+    },
+    {
+      "anchor": "xxii-rebacking",
+      "heading": "Re-backing",
+      "ia_leaf": 311,
+      "ia_leaf_end": 329,
+      "printed_page": 305
     }
   ],
   "source_ref": [

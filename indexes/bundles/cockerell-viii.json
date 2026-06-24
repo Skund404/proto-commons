@@ -1,0 +1,120 @@
+{
+  "content_hash": "sha256:738885dc95bc74f42accc4e736dd0a62005473e919ab275910cf69d271d8b67c",
+  "description": {
+    "en": "Chapter VIII (Fraying out Slips Glueing up Rounding and Backing) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+  },
+  "domain": "bookbinding",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "ia_item": "bookbindingcareo00cockrich",
+  "items": [
+    {
+      "hash": "sha256:a63937971f0877e868db57814f3c01c4e98cb046c23c3297ecbc800451b08f61",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "backing"
+    },
+    {
+      "hash": "sha256:985d8a3ccaf2601c63189300e6af33b56a1def39a9f1ce8b97a855640c10d2b4",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "backing-board"
+    },
+    {
+      "hash": "sha256:125070e4b693c17755074ea281c6ed1ee6bb9664cd648f4659e5d47bda5e011d",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "backing-hammer"
+    },
+    {
+      "hash": "sha256:e430b13830b58db0f01b4fdf4bf7c33d5221ef7c352e1377e68d573346713f3e",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "bodkin"
+    },
+    {
+      "hash": "sha256:ff47f015dd4abd9ce2bde238e366c0df58cbdca6aa5cc71bbda2c9018524b616",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "fraying-out-slips"
+    },
+    {
+      "hash": "sha256:199e25c7b9d8b7a49d1cf66e3c7477cafb10dac1c5d250c8566a942a952a0d43",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "glue"
+    },
+    {
+      "hash": "sha256:e94fa7fa6389bd8f62975e71f95cb8354e9c2033f34d9eadde47814305b8c8b6",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "glue-brush"
+    },
+    {
+      "hash": "sha256:59b4e4a774da110e4f96d42a6bfc121378e461f0e9a5c9d2d951abde64bfa327",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "glueing-up"
+    },
+    {
+      "hash": "sha256:6439aa0b076370331e4a7148618e2891b0b4e035ccff9193a4d38c1e3837abff",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "knocking-down-iron"
+    },
+    {
+      "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "lying-press"
+    },
+    {
+      "hash": "sha256:5b9f1764fa701a7a7e14c1d352189b0d39de8b04c5500c864b0650ec826cb8cf",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "rounding"
+    },
+    {
+      "hash": "sha256:e64d636c778da1b114762f2aba6bd3dfce4a4204dddcc7e5dd0a381472014648",
+      "kind": "workflow",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "rounding-and-backing"
+    },
+    {
+      "hash": "sha256:aafe9c707dfb9be22048d560ce3e193f18a291491eb8ca690ed37e4899d7deb5",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "sewing-cord"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Cockerell, Chapter VIII: Fraying out Slips Glueing up Rounding and Backing"
+  },
+  "record_class": "bundle",
+  "slug": "cockerell-viii",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "bookbinding",
+    "part1",
+    "chapter"
+  ]
+}

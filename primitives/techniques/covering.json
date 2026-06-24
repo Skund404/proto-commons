@@ -1,0 +1,73 @@
+{
+  "content_hash": "sha256:1ec670893beee5f09b9f81ff6b76182f2923f9573cefa1b4c8dafd702e9f1ffa",
+  "created": "2026-06-24",
+  "description": "Drawing the pasted leather over the back and boards and working it down everywhere so it adheres at every point. The skin is stretched lengthwise to seat the bands, the turn-ins folded over the edges, and surplus leather coaxed into the panels.",
+  "emitter": "opg://commons-seed",
+  "id": "covering-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "covering",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "covering"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "covering-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:ba762a61f0c473a535b4e9d36a00c417cee805100423bc1d2caa6c6cd5abe9a4",
+        "id": "cover-leather-seed",
+        "path": "primitives/materials/cover-leather.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+        "id": "folder-seed",
+        "path": "primitives/tools/folder.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:e309b2dda59042c5768ed3790140647a86b0270460f986b8e8a390212cfc6aee",
+        "id": "band-nippers-seed",
+        "path": "primitives/tools/band-nippers.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:94ea313213507ad9b8a986f419899187e31fb6309fad8fb80c24266eb954b988",
+        "id": "band-stick-seed",
+        "path": "primitives/tools/band-stick.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "covering",
+  "tags": [
+    "bookbinding",
+    "covering-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

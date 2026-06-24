@@ -1,0 +1,92 @@
+{
+  "content_hash": "sha256:9470422f0178d58241808cbb996e1ac59db06385645b91c4aad5a23fcde06e6d",
+  "description": {
+    "en": "Chapter XIX (Leather) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+  },
+  "domain": "bookbinding",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "ia_item": "bookbindingcareo00cockrich",
+  "items": [
+    {
+      "hash": "sha256:a87f4d408741826690f886671747035cb42a3b41d723ca8ba1bce669a4e525e6",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "calf"
+    },
+    {
+      "hash": "sha256:3a44502949f9fbeaf13ae30fba843c30441e230f70df294abf22bcaad817377d",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "chrome-leather"
+    },
+    {
+      "hash": "sha256:ba762a61f0c473a535b4e9d36a00c417cee805100423bc1d2caa6c6cd5abe9a4",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "cover-leather"
+    },
+    {
+      "hash": "sha256:062b93180181d7626bed0dd0345144a6e213dacd05613b9eda9672943aa8d9fd",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "goatskin"
+    },
+    {
+      "hash": "sha256:f553d0976291ae880d304b61a50d076a8b2c0eaae5f745fa005878f5d5fb2e7b",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "pigskin"
+    },
+    {
+      "hash": "sha256:64d378c93abbcc347872c9ad7edc3e77a423bd835f214a6cbe0096267bd1df21",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "sealskin"
+    },
+    {
+      "hash": "sha256:d5baab303b2eb04af9462833940500de1a5b034350ca5c6091c7fda593e6cde6",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "sheepskin"
+    },
+    {
+      "hash": "sha256:820ed5b90eb8ee20e41b5702633f776d6e53c2711b2b924d1f78ed217449f356",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "sprinkling-leather"
+    },
+    {
+      "hash": "sha256:c182c06f198f73e4d51a051b03e62b197ea5ebeb8fec3e4e75f783ca5dc168b3",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "testing-leather"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Cockerell, Chapter XIX: Leather"
+  },
+  "record_class": "bundle",
+  "slug": "cockerell-xix",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "bookbinding",
+    "part1",
+    "chapter"
+  ]
+}

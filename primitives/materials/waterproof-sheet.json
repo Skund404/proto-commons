@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:3be39f6cda75cb82e64aed961651fda8b5b8fb699a0544f0cc85d3ca735df9f8",
+  "created": "2026-06-24",
+  "description": "A thin impervious sheet, such as celluloid, laid between the damp cover and the leaves so moisture from pasting cannot cockle the paper while the binding sets.",
+  "emitter": "opg://commons-seed",
+  "id": "waterproof-sheet-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "waterproof sheet",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "celluloid",
+    "names": {
+      "en": [
+        "waterproof sheet",
+        "celluloid sheet"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "covering-material",
+    "unit": "sheet"
+  },
+  "slug": "waterproof-sheet",
+  "tags": [
+    "bookbinding",
+    "celluloid",
+    "covering-material"
+  ],
+  "visibility": "commons"
+}

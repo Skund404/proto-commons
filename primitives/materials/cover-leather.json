@@ -1,0 +1,44 @@
+{
+  "content_hash": "sha256:ba762a61f0c473a535b4e9d36a00c417cee805100423bc1d2caa6c6cd5abe9a4",
+  "created": "2026-06-24",
+  "description": "Tanned animal hide used to cover a book. Quality varies widely by skin source, tanning agent, and finishing, and surface appearance alone is a poor guide to its strength or lasting power. Cockerell records that sulphuric acid retained from dyeing and harsh finishing both shorten the working life of a covering hide.",
+  "emitter": "opg://commons-seed",
+  "id": "cover-leather-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "cover leather",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "leather",
+    "names": {
+      "en": [
+        "cover leather",
+        "covering leather",
+        "skin",
+        "leather",
+        "bookbinding leather"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "covering-material",
+    "unit": "piece"
+  },
+  "slug": "cover-leather",
+  "tags": [
+    "bookbinding",
+    "leather",
+    "covering-material"
+  ],
+  "visibility": "commons"
+}

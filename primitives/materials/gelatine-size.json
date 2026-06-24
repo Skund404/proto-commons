@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:f0be46b427eacd6bbcc5741945c5f92eafb7abbad196c8c7b60908028c55aa9a",
+  "created": "2026-06-24",
+  "description": "A clear sizing solution made by dissolving isinglass or good gelatine in water, used warm to re-strengthen weakened paper and to carry staining colour. Cockerell notes that quality matters: pure gelatine yields a clear, odourless solution, while impure stock smells foul and turns gluey.",
+  "emitter": "opg://commons-seed",
+  "id": "gelatine-size-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "gelatine size",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "size",
+    "names": {
+      "en": [
+        "gelatine size",
+        "isinglass size",
+        "size"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "adhesive-material",
+    "unit": "ml"
+  },
+  "slug": "gelatine-size",
+  "tags": [
+    "bookbinding",
+    "size",
+    "adhesive-material"
+  ],
+  "visibility": "commons"
+}

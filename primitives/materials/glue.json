@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:199e25c7b9d8b7a49d1cf66e3c7477cafb10dac1c5d250c8566a942a952a0d43",
+  "created": "2026-06-24",
+  "description": "Hot animal glue, with hide glue rated the strongest and most economical for binding. It is broken up, soaked overnight, then gently simmered until fluid, and is best made in small batches since repeated heating degrades it.",
+  "emitter": "opg://commons-seed",
+  "id": "glue-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "glue",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "adhesive",
+    "names": {
+      "en": [
+        "glue"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "adhesive-material",
+    "unit": "g"
+  },
+  "slug": "glue",
+  "tags": [
+    "bookbinding",
+    "adhesive",
+    "adhesive-material"
+  ],
+  "visibility": "commons"
+}

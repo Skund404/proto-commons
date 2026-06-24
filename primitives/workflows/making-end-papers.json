@@ -1,0 +1,99 @@
+{
+  "content_hash": "sha256:94673b3b041176a3d01f0ea8c1e9a5c1d3686d5b545f4e4c426d23cc0f1bc2d3",
+  "created": "2026-06-24",
+  "description": "Building a zigzag end paper so every leaf opens to the back and the structure yields to the drag of the cover. A folded sheet is marked and pasted up, folded back over the paste-down, and a further sheet inserted through which the sewing passes; a leather or cloth joint can be worked in at the same stage.",
+  "emitter": "opg://commons-seed",
+  "id": "making-end-papers-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "making end papers",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "intermediate",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "making end papers"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "steps": [
+      {
+        "description": "Take a folded sheet a little larger than the book and mark two points an eighth of an inch from the back with dividers for the fold.",
+        "position": 1
+      },
+      {
+        "description": "Paste the paste-down leaf up to the marked points and let the paste dry.",
+        "position": 2
+      },
+      {
+        "description": "Fold the outer leaf back over the paste-down and turn the next leaf the reverse way to form the zigzag.",
+        "position": 3
+      },
+      {
+        "description": "Insert a further folded sheet at the inner fold so the sewing can pass through it.",
+        "position": 4
+      },
+      {
+        "description": "If joints are wanted, paste the edge of the thin leather or cloth into the fold and fold it over so the sewing catches both the joint and the inserted sheet.",
+        "position": 5
+      },
+      {
+        "description": "After the book is pasted down, tear off the waste leaf and paste the remaining leaf down onto the board.",
+        "position": 6
+      }
+    ],
+    "taxonomy": "preparation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:0d3dde0d32aa1b61360aef4fde244a96c1bca856b6ba14542f198cb87d067e81",
+        "id": "pressing-sections-seed",
+        "path": "primitives/techniques/pressing-sections.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:6eb3ee82e0a4d97ff5a8df7ac17a75f26712deb6b6aec5d3905cd0ef048f3e58",
+        "id": "end-paper-seed",
+        "path": "primitives/materials/end-paper.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:65d86011558ce47e26496489300954d2322bb92669d364bba43927be4f7c4eab",
+        "id": "leather-joint-seed",
+        "path": "primitives/materials/leather-joint.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:ccb60343bc1a07579a24398aeae65f02a3fbe6d0e8777561b6f636dcc39a3ef2",
+        "id": "cloth-joint-seed",
+        "path": "primitives/materials/cloth-joint.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "making-end-papers",
+  "tags": [
+    "bookbinding",
+    "preparation-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

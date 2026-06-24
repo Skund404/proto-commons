@@ -1,0 +1,58 @@
+{
+  "content_hash": "sha256:efd31e6c20b443c92d91dc4c6527b59bc0f46384693e029386d851c1d344eeb3",
+  "created": "2026-06-24",
+  "description": "Taking a bound volume apart into its separate sections: cutting laced slips and bands, removing the old back, softening hardened glue with paste while damp, and detaching plates by tearing or soaking so the leaves can be rebound.",
+  "emitter": "opg://commons-seed",
+  "id": "pulling-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "pulling to pieces",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "pulling to pieces",
+        "pulling"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "preparation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+        "id": "folder-seed",
+        "path": "primitives/tools/folder.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+        "id": "paste-seed",
+        "path": "primitives/materials/paste.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "pulling",
+  "tags": [
+    "bookbinding",
+    "preparation-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

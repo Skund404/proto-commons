@@ -1,0 +1,50 @@
+{
+  "content_hash": "sha256:19f921d1ea639a61a4c55d85a201057d8cf518e67d05f8636be7f22f4195d98e",
+  "created": "2026-06-24",
+  "description": "Forming the flexible strap of a clasp by threading several thin leather strips through the fitting's ring, pasting each strip's ends together, then braiding the doubled strips into a plait. The finished end is led through a hole near the board edge and glued down inside, often into a cut groove so it lies flush.",
+  "emitter": "opg://commons-seed",
+  "id": "plaiting-clasp-straps-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "plaiting clasp straps",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "plaiting clasp straps",
+        "plaiting leather strips"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "covering-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:3d5e8928bb736be91408aea2b22b821a3f3576729f8376ef7134ee31506596e2",
+        "id": "metal-clasp-seed",
+        "path": "primitives/materials/metal-clasp.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "plaiting-clasp-straps",
+  "tags": [
+    "bookbinding",
+    "covering-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

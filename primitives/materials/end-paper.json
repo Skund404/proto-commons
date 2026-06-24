@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:6eb3ee82e0a4d97ff5a8df7ac17a75f26712deb6b6aec5d3905cd0ef048f3e58",
+  "created": "2026-06-24",
+  "description": "Blank leaves added at the front and rear of a textblock to protect the body of the work and to anchor the boards. Treated as a structural part of the binding rather than mere flyleaves, the better forms fold in a zigzag so each leaf opens fully and absorbs the pull of the cover.",
+  "emitter": "opg://commons-seed",
+  "id": "end-paper-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "end paper",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "paper",
+    "names": {
+      "en": [
+        "end paper",
+        "end papers"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "paper-material",
+    "unit": "sheet"
+  },
+  "slug": "end-paper",
+  "tags": [
+    "bookbinding",
+    "paper",
+    "paper-material"
+  ],
+  "visibility": "commons"
+}

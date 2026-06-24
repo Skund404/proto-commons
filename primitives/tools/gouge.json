@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:a7af2dcd470738bc5bf0dddc71c1b85ff17d57be08d9e1022f64c6451f94bcf0",
+  "created": "2026-06-24",
+  "description": "A curved-line finishing tool made in graduated sets matching arcs of concentric circles, used to tool curved segments of a design.",
+  "emitter": "opg://commons-seed",
+  "id": "gouge-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "gouge",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "finishing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "gouge",
+        "gouges"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "finishing-equipment"
+  },
+  "slug": "gouge",
+  "tags": [
+    "bookbinding",
+    "finishing",
+    "finishing-equipment"
+  ],
+  "visibility": "commons"
+}

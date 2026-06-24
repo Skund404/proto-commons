@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:1e9a95113194b5d4acb0eaaa5fe915710fb0fa648836fcb970f4def340fdb907",
+  "created": "2026-06-24",
+  "description": "Paste beaten thin with water into a milky liquid, sponged evenly over porous leather as a first wash before sizing.",
+  "emitter": "opg://commons-seed",
+  "id": "paste-water-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "paste-water",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "paste",
+    "names": {
+      "en": [
+        "paste-water"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "adhesive-material",
+    "unit": "ml"
+  },
+  "slug": "paste-water",
+  "tags": [
+    "bookbinding",
+    "paste",
+    "adhesive-material"
+  ],
+  "visibility": "commons"
+}

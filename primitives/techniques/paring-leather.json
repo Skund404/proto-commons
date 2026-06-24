@@ -1,0 +1,65 @@
+{
+  "content_hash": "sha256:ffd7b52904345dbf50579523cc39128033aa86b739f62e175fad59095017ee5a",
+  "created": "2026-06-24",
+  "description": "Shaving the cut cover down to graded thickness so it bends cleanly over the boards. The skin is thinned at the joints, edges, and head-caps while left fuller over back and panels; the work must run smooth and start gradually so no ridge shows once polished.",
+  "emitter": "opg://commons-seed",
+  "id": "paring-leather-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "paring leather",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "paring leather"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "covering-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:12e7abb1a23eca13fd5236132fac99fd0ddcf5e351ba678c6a90659db7eec920",
+        "id": "leather-paring-knife-seed",
+        "path": "primitives/tools/leather-paring-knife.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:b7b80737647c29ee62202d2041eed0764594018f0835a4b3c1574a03eeec90f6",
+        "id": "paring-stone-seed",
+        "path": "primitives/tools/paring-stone.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:ba762a61f0c473a535b4e9d36a00c417cee805100423bc1d2caa6c6cd5abe9a4",
+        "id": "cover-leather-seed",
+        "path": "primitives/materials/cover-leather.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "paring-leather",
+  "tags": [
+    "bookbinding",
+    "covering-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

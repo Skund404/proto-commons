@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:2c12025e8796a3702adbb9a1b4040fc54608e5e111fa0f37dc8996dcd2ae9bb2",
+  "created": "2026-06-24",
+  "description": "A pair of compasses used to step off or carry a fixed measurement, for example when setting the squares and judging how far a board should project beyond the leaves. The author lists it as a tool separate from dividers.",
+  "emitter": "opg://commons-seed",
+  "id": "compasses-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "compasses",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "marking",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "compasses"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-equipment"
+  },
+  "slug": "compasses",
+  "tags": [
+    "bookbinding",
+    "marking",
+    "forwarding-equipment"
+  ],
+  "visibility": "commons"
+}

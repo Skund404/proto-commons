@@ -1,0 +1,183 @@
+{
+  "content_hash": "sha256:bcb576097d6f6bd5a1395e1e147c22a9d4216221f66aee8c622d38d2a822e519",
+  "created": "2026-06-24",
+  "description": "The full sequence for gilding the edges of a book in sheets, from trimming the leaves through scraping, grounding, glairing, laying gold, and burnishing each of the three edges.",
+  "emitter": "opg://commons-seed",
+  "id": "edge-gilding-before-sewing-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "edge gilding before sewing",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "advanced",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "edge gilding before sewing"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "steps": [
+      {
+        "description": "Trim the gathered sections to size, squaring the head against a try square and paring the fore and tail to a guide board.",
+        "position": 1
+      },
+      {
+        "description": "Open any folds left uncut with a folder so the edge is continuous before gold is laid.",
+        "position": 2
+      },
+      {
+        "description": "Knock the book up to the fore-edge, place it between gilding boards in the lying press, and screw it tight.",
+        "position": 3
+      },
+      {
+        "description": "Scrape and rub the edge smooth with fine sand-paper to remove finger-marks and loose paper; wash absorbent paper with vellum size and let it dry.",
+        "position": 4
+      },
+      {
+        "description": "Brush on a thick paste of red chalk or blacklead ground with water, then dry-brush to polish the surface.",
+        "position": 5
+      },
+      {
+        "description": "Cut the gold to width on the cushion and ready it on a tip or net.",
+        "position": 6
+      },
+      {
+        "description": "Float glaire onto the edge, lay the gold evenly over it, and leave it to dry for roughly an hour.",
+        "position": 7
+      },
+      {
+        "description": "Rub the edge with leather charged with beeswax, then burnish through thin waxed paper before working the burnisher directly on the gold.",
+        "position": 8
+      },
+      {
+        "description": "Repeat the operation at the head and tail, scraping the head more thoroughly for a solid finish.",
+        "position": 9
+      }
+    ],
+    "taxonomy": "edge-decoration-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:848643e9a80f48032136443c7ee545ad5dac35a59b58f3c9a1ca509e4e5f3756",
+        "id": "trimming-edges-seed",
+        "path": "primitives/techniques/trimming-edges.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:988a6ab8a9f7203e04821d3d36765933b1b2c88c29a82e459f6e6de8cd32dfa5",
+        "id": "edge-gilding-seed",
+        "path": "primitives/techniques/edge-gilding.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+        "id": "lying-press-seed",
+        "path": "primitives/tools/lying-press.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:e47eec32b4216cfe082eccb63500143dd5c458080ab3816a679fc504185480f5",
+        "id": "cutting-board-seed",
+        "path": "primitives/tools/cutting-board.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:88fae84e1d579e22086a15aaf4333c304c41ab1384fb49a2686f68a6540abe67",
+        "id": "burnisher-seed",
+        "path": "primitives/tools/burnisher.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:8efec98dd03e28bf590cd3bbe9ddbb27ee1daa3fe44a24279916777c76ca72fd",
+        "id": "gilders-tip-seed",
+        "path": "primitives/tools/gilders-tip.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+        "id": "folder-seed",
+        "path": "primitives/tools/folder.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:5a812805e9c759f02854675aed7e19c9655a2dd623a8409af342a02e627d16af",
+        "id": "gold-leaf-seed",
+        "path": "primitives/materials/gold-leaf.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:c393e2adf085eeb87583454dd8c2ddabe97fbd35b17cac38fbb4bb96d7173bbe",
+        "id": "glaire-seed",
+        "path": "primitives/materials/glaire.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:21004f66e14700e6673fd2c75007cd4150e547c8161622246af81f49555d1f77",
+        "id": "red-chalk-seed",
+        "path": "primitives/materials/red-chalk.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:0dfa915652a0d8a1d2d8073b3314a53460bf702ed6362ef271d92127c0662daa",
+        "id": "blacklead-seed",
+        "path": "primitives/materials/blacklead.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:e01379b3dc11a5dee1a4aeff3e520319a6c453ef20e6c00af6d143fa79dfc11e",
+        "id": "size-seed",
+        "path": "primitives/materials/size.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:da26fc3621d63113ba1767e74ba25cd0dc2332456812e95ba14f80d9f751e92d",
+        "id": "beeswax-seed",
+        "path": "primitives/materials/beeswax.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "edge-gilding-before-sewing",
+  "tags": [
+    "bookbinding",
+    "edge-decoration-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

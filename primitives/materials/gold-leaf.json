@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:5a812805e9c759f02854675aed7e19c9655a2dd623a8409af342a02e627d16af",
+  "created": "2026-06-24",
+  "description": "Gold beaten into extremely thin sheets, applied to the trimmed edges of a book to give a bright protective surface. The fragile leaf is cut to width on a cushion, lifted with a tip, and laid onto an edge that has been prepared with size and glaire.",
+  "emitter": "opg://commons-seed",
+  "id": "gold-leaf-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "gold leaf",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "gold",
+    "names": {
+      "en": [
+        "gold leaf",
+        "gold"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "decoration-material",
+    "unit": "sheet"
+  },
+  "slug": "gold-leaf",
+  "tags": [
+    "bookbinding",
+    "gold",
+    "decoration-material"
+  ],
+  "visibility": "commons"
+}

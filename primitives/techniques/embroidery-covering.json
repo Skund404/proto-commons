@@ -1,0 +1,50 @@
+{
+  "content_hash": "sha256:5e77b9fd3063c9faf2431d84a77075841e8b03aa3ff737e3b5b9332cb3c4bf8e",
+  "created": "2026-06-24",
+  "description": "Covering a board-and-hollow-back volume in a worked textile. The fabric is glued to the spine first, then to each board in turn, with edges turned in and inside corners sewn; thin fabrics are attached only at the turn-ins to avoid staining.",
+  "emitter": "opg://commons-seed",
+  "id": "embroidery-covering-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "covering with embroidery",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "covering with embroidery",
+        "embroidered binding"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "covering-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:ca21e3a164daa2d98c488124834d2aa5a52b2c9a4861569faeabb045d07de54b",
+        "id": "embroidered-fabric-seed",
+        "path": "primitives/materials/embroidered-fabric.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "embroidery-covering",
+  "tags": [
+    "bookbinding",
+    "covering-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

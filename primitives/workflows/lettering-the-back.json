@@ -1,0 +1,112 @@
+{
+  "content_hash": "sha256:772a6e56ea4a624f02c07690510eddf518b878ebd5a850fb58f8148917e57a40",
+  "created": "2026-06-24",
+  "description": "The procedure for laying out and tooling a title on a spine for extra binding: building a folded lettering paper, centring each line, transferring guide lines to the panel, then gilding and striking the letters outward from the centre.",
+  "emitter": "opg://commons-seed",
+  "id": "lettering-the-back-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "lettering the back",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "advanced",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "lettering the back",
+        "making out a lettering paper"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "steps": [
+      {
+        "description": "Cut a strip of thin paper as wide as the height of the panel and fold it to establish a centred line square to the head and tail.",
+        "position": 1
+      },
+      {
+        "description": "Fold to the width of the back and fold again at the exact centre so the strip carries reference folds for the panel.",
+        "position": 2
+      },
+      {
+        "description": "Select a letter size, mark a trial row of the same letter, and lay the folded paper against it to judge how many letters fit per line.",
+        "position": 3
+      },
+      {
+        "description": "Break the title into lines that fit, choosing a smaller letter rather than splitting an awkward word, and avoid mixing letter designs.",
+        "position": 4
+      },
+      {
+        "description": "Set the line positions by stepping off equal spaces with dividers through the folded paper, then join the points against a straight-edge to raise guide lines.",
+        "position": 5
+      },
+      {
+        "description": "Find the centre letter of each line, counting word spaces as letters, and mark it first so the others can be added evenly on each side.",
+        "position": 6
+      },
+      {
+        "description": "Glaire the panel, lay the gold, and strike the letters working outward from the centre to the prepared guide lines.",
+        "position": 7
+      }
+    ],
+    "taxonomy": "decoration-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:3d33a4d527b07ecf2a8905e710e81f8a2f58999b6548b214c044b04be6ee6ae7",
+        "id": "lettering-seed",
+        "path": "primitives/techniques/lettering.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:468782b698d5dca512836eade44db7319f9c19ded0bfc8f16687e87cf6970aa5",
+        "id": "handle-letter-seed",
+        "path": "primitives/tools/handle-letter.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:826b561a42531ce020f377c9c73448da3b80759c3d9b34953cd1c8b5b145c2e2",
+        "id": "dividers-seed",
+        "path": "primitives/tools/dividers.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:5a812805e9c759f02854675aed7e19c9655a2dd623a8409af342a02e627d16af",
+        "id": "gold-leaf-seed",
+        "path": "primitives/materials/gold-leaf.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:c393e2adf085eeb87583454dd8c2ddabe97fbd35b17cac38fbb4bb96d7173bbe",
+        "id": "glaire-seed",
+        "path": "primitives/materials/glaire.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "lettering-the-back",
+  "tags": [
+    "bookbinding",
+    "decoration-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

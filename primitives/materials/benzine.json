@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:2ad6fc3cefcd5dbf27544a4824575bca3d24460f850a3c27c2809dfbebba40cc",
+  "created": "2026-06-24",
+  "description": "A volatile solvent used to wash grease and loose gold from a finished cover, and as a brief tack medium for laying gold during patching.",
+  "emitter": "opg://commons-seed",
+  "id": "benzine-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "benzine",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "solvent",
+    "names": {
+      "en": [
+        "benzine"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "decoration-material",
+    "unit": "ml"
+  },
+  "slug": "benzine",
+  "tags": [
+    "bookbinding",
+    "solvent",
+    "decoration-material"
+  ],
+  "visibility": "commons"
+}

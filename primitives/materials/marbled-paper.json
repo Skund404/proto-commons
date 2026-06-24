@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:c55a770ebc42780067a979ef66b21eabc8fae5be8b4364bd17a2ab76b6164a24",
+  "created": "2026-06-24",
+  "description": "Decorative paper carrying a swirled, multi-coloured pattern, sometimes pasted up as a doubled sheet for paste-downs. Cockerell warns that the stock is usually weak and unfit for end papers unless it is genuinely tough and durable.",
+  "emitter": "opg://commons-seed",
+  "id": "marbled-paper-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "marbled paper",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "paper",
+    "names": {
+      "en": [
+        "marbled paper"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "paper-material",
+    "unit": "sheet"
+  },
+  "slug": "marbled-paper",
+  "tags": [
+    "bookbinding",
+    "paper",
+    "paper-material"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,73 @@
+{
+  "content_hash": "sha256:6327f03825bd375d2ae2cd1bd07e838f3d3ca1fb431352417330c2a57eea7e2d",
+  "created": "2026-06-24",
+  "description": "Attaching the boards by threading the frayed and pasted cord ends through punched holes in the board, front to back, drawing them to the right tension, cutting them flush, and hammering them flat on a knocking-down iron so they rivet into the board.",
+  "emitter": "opg://commons-seed",
+  "id": "lacing-in-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "lacing in",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "lacing in"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:e430b13830b58db0f01b4fdf4bf7c33d5221ef7c352e1377e68d573346713f3e",
+        "id": "bodkin-seed",
+        "path": "primitives/tools/bodkin.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:6439aa0b076370331e4a7148618e2891b0b4e035ccff9193a4d38c1e3837abff",
+        "id": "knocking-down-iron-seed",
+        "path": "primitives/tools/knocking-down-iron.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:aafe9c707dfb9be22048d560ce3e193f18a291491eb8ca690ed37e4899d7deb5",
+        "id": "sewing-cord-seed",
+        "path": "primitives/materials/sewing-cord.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+        "id": "paste-seed",
+        "path": "primitives/materials/paste.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "lacing-in",
+  "tags": [
+    "bookbinding",
+    "forwarding-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

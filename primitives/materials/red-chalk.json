@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:21004f66e14700e6673fd2c75007cd4150e547c8161622246af81f49555d1f77",
+  "created": "2026-06-24",
+  "description": "A reddish chalk ground with water into a thick paste and brushed over an edge before gilding. It fills minor irregularities and gives a smooth even ground that helps the gold lie flat and burnish to a solid colour.",
+  "emitter": "opg://commons-seed",
+  "id": "red-chalk-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "gilder's red chalk",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "colour",
+    "names": {
+      "en": [
+        "gilder's red chalk",
+        "red chalk"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "decoration-material",
+    "unit": "g"
+  },
+  "slug": "red-chalk",
+  "tags": [
+    "bookbinding",
+    "colour",
+    "decoration-material"
+  ],
+  "visibility": "commons"
+}

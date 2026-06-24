@@ -1,0 +1,50 @@
+{
+  "content_hash": "sha256:05269bcaf6395d68800d012bdda89691fc79076a071058345ff922f7bcb9258a",
+  "created": "2026-06-24",
+  "description": "Measures for protecting shelved books from boring larvae and other vermin that feed on the glue, paste, and leather of bindings. Repellent substances are kept in the bookcase, infested volumes are isolated and treated to kill any hatched insects, and the treatment is repeated at intervals because eggs survive a single application. Cockerell warns that reusing old worm-bearing boards in re-covering reintroduces the infestation.",
+  "emitter": "opg://commons-seed",
+  "id": "insect-pest-control-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "bookworm treatment",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "bookworm treatment",
+        "insect pest control"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "conservation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:99b60a2e4dcf1b6372ecb45b05df04f74110331e5de96399df8fd188246bca7f",
+        "id": "insect-repellent-seed",
+        "path": "primitives/materials/insect-repellent.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "insect-pest-control",
+  "tags": [
+    "bookbinding",
+    "conservation-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

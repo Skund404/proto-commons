@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:c2f779ec3d32d4e808003e73ed486b451852f08f9d1dab7085a6deb9f73de555",
+  "created": "2026-06-24",
+  "description": "A smooth metal plate, usually covered with paper, interleaved between groups of sections during pressing to give a flat surface and to shield delicate plates or maps from indenting their neighbours.",
+  "emitter": "opg://commons-seed",
+  "id": "pressing-tin-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "pressing tin",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "pressing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "pressing tin",
+        "tin"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-equipment"
+  },
+  "slug": "pressing-tin",
+  "tags": [
+    "bookbinding",
+    "pressing",
+    "forwarding-equipment"
+  ],
+  "visibility": "commons"
+}

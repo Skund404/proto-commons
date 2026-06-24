@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:076e4cb7c5afd6fd35260cb8be1280e3db83c7c896c819787adf62facfd79546",
+  "created": "2026-06-24",
+  "description": "A broad-faced binder's hammer used to strike sections squarely, here to drive old joints flat without cutting or bruising the paper. Its flat crushing blow contrasts with the small-faced glancing strokes of the dedicated backing hammer used to shape the spine.",
+  "emitter": "opg://commons-seed",
+  "id": "flattening-hammer-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "flattening hammer",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "binding",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "flattening hammer",
+        "hammer"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-equipment"
+  },
+  "slug": "flattening-hammer",
+  "tags": [
+    "bookbinding",
+    "binding",
+    "forwarding-equipment"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:e01379b3dc11a5dee1a4aeff3e520319a6c453ef20e6c00af6d143fa79dfc11e",
+  "created": "2026-06-24",
+  "description": "A thin gelatinous size used to seal an absorbent paper edge before gilding. Washed over the surface and left to dry, it stops the later wet preparations from soaking in and lifting the leaves.",
+  "emitter": "opg://commons-seed",
+  "id": "size-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "vellum size",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "size",
+    "names": {
+      "en": [
+        "vellum size",
+        "size"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "adhesive-material",
+    "unit": "ml"
+  },
+  "slug": "size",
+  "tags": [
+    "bookbinding",
+    "size",
+    "adhesive-material"
+  ],
+  "visibility": "commons"
+}

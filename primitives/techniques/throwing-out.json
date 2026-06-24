@@ -1,0 +1,73 @@
+{
+  "content_hash": "sha256:ed521687864119dc48199859ecf8247fe0f899067090ada3010fd313a57e752b",
+  "created": "2026-06-24",
+  "description": "Mounting a frequently consulted map or diagram on a wide guard, often placed at the end of the book, so it opens clear of the text and stays readable while the book is in use. Large folded sheets are backed with cloth and matched by guards in the spine so the volume still shuts.",
+  "emitter": "opg://commons-seed",
+  "id": "throwing-out-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "throwing out",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "throwing out"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "preparation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:707c70bd01d1f001740926bbb3b8dbb8d532e86db2bc60839f2aceca05416aee",
+        "id": "guard-seed",
+        "path": "primitives/materials/guard.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:7143b4533a62b964918d79d9f1e90ce2e08b748b99a0934da646afcbf4576189",
+        "id": "mounting-linen-seed",
+        "path": "primitives/materials/mounting-linen.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+        "id": "paste-seed",
+        "path": "primitives/materials/paste.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:1f9edeb2da3af3ba10236514c0cbf4d331945ef467545fde65996f8ec262d490",
+        "id": "blotting-paper-seed",
+        "path": "primitives/materials/blotting-paper.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "throwing-out",
+  "tags": [
+    "bookbinding",
+    "preparation-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

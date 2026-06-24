@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:6666fdc9d501e772fac19c7321844a62e62a873440e5304425b43cc1af307f87",
+  "created": "2026-06-24",
+  "description": "A clean flour or starch paste used to join pared edges in paper and vellum repair. Cockerell insists the paste, brushes, and pasting paper all be kept perfectly clean so the joint stays invisible; it sits on the mending side of his paste vocabulary rather than the general covering paste.",
+  "emitter": "opg://commons-seed",
+  "id": "mending-paste-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "mending paste",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "adhesive",
+    "names": {
+      "en": [
+        "mending paste",
+        "paste"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "adhesive-material",
+    "unit": "ml"
+  },
+  "slug": "mending-paste",
+  "tags": [
+    "bookbinding",
+    "adhesive",
+    "adhesive-material"
+  ],
+  "visibility": "commons"
+}

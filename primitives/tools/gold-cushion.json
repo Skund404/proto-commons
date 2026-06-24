@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:20bb081ea16bc86b1014538438b546f9226d6fd07dc055218fba0171149a7649",
+  "created": "2026-06-24",
+  "description": "A flat padded board on which leaves of gold are laid out, breathed flat, and cut to size. It is dusted with a little powdered abrasive so the gold cuts cleanly and must stay grease-free.",
+  "emitter": "opg://commons-seed",
+  "id": "gold-cushion-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "gold cushion",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "finishing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "gold cushion"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "edge-equipment"
+  },
+  "slug": "gold-cushion",
+  "tags": [
+    "bookbinding",
+    "finishing",
+    "edge-equipment"
+  ],
+  "visibility": "commons"
+}

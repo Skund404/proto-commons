@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:f38c8c9d4cec3ccf7bffe7cb6afe4f8a7b2d697a43502b2e474574ecd7ac340c",
+  "created": "2026-06-24",
+  "description": "Fixing the boards so the margin they project beyond the leaves is equal at head and tail on both covers. The book is adjusted until it stands square and upright, with a slightly deeper square sometimes left at the tail to lift the head-cap clear of the shelf.",
+  "emitter": "opg://commons-seed",
+  "id": "setting-squares-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "setting the squares",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "setting the squares"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-technique"
+  },
+  "relationships": [],
+  "slug": "setting-squares",
+  "tags": [
+    "bookbinding",
+    "forwarding-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

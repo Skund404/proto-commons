@@ -1,0 +1,74 @@
+{
+  "content_hash": "sha256:48b81fb9d1061be369c058bac1eca2bbaf2341410dc4374e2f3950958d250c54",
+  "created": "2026-06-24",
+  "description": "Stamping an owner's coat of arms onto a cover using an engraved metal block impressed under heat in a press. The heraldry is rendered simply in solid gold, set toward the upper centre of the side, and brought up with a single wash of glaire under one firm, brief stroke.",
+  "emitter": "opg://commons-seed",
+  "id": "arms-blocking-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "arms blocking",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "arms blocking",
+        "heraldry on book covers"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "decoration-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:acd5daa7195c5a80f775bf55f5fb1c5c988b3caedbcf48cbd64cfc5500e0f9fa",
+        "id": "arms-block-seed",
+        "path": "primitives/tools/arms-block.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:94225d6d0793ab46924a533669f44d396d8005949e51d1fd5b71d303a109772d",
+        "id": "arming-press-seed",
+        "path": "primitives/tools/arming-press.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:5a812805e9c759f02854675aed7e19c9655a2dd623a8409af342a02e627d16af",
+        "id": "gold-leaf-seed",
+        "path": "primitives/materials/gold-leaf.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:c393e2adf085eeb87583454dd8c2ddabe97fbd35b17cac38fbb4bb96d7173bbe",
+        "id": "glaire-seed",
+        "path": "primitives/materials/glaire.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "arms-blocking",
+  "tags": [
+    "bookbinding",
+    "decoration-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

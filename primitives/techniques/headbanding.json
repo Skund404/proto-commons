@@ -1,0 +1,74 @@
+{
+  "content_hash": "sha256:54e248fae41073f7ffd2b90493f4fcec41e85de0fea73ec8d053c08229fdf0b3",
+  "created": "2026-06-24",
+  "description": "The hand process of building a sewn headband by looping coloured silk over a vellum, gut, or string core and crossing the strands to form a beaded ridge at the head and tail of a book. The worker keeps the bead tight and low on the leaves, tying the band down into the sections at intervals so it grips the spine and resists strain.",
+  "emitter": "opg://commons-seed",
+  "id": "headbanding-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "headbanding",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "headbanding",
+        "working a headband"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "sewing-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:e943db54b8b4e3056885a6bee7784cb1a8f20f5259727b818a1b4224ebb5067a",
+        "id": "sewing-needle-seed",
+        "path": "primitives/tools/sewing-needle.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:b79b15c308d4d28d578179bcadbf10ec47fbda86725e6cf32edb12467e46c18b",
+        "id": "finishing-press-seed",
+        "path": "primitives/tools/finishing-press.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:d2b10f51da051f28286a78864edd4ab4d7fbf95b59ac84662096acdd557df060",
+        "id": "headband-core-seed",
+        "path": "primitives/materials/headband-core.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:a71739bd0febd360366456075a991ea7bcc8d7d74ad5bd9ba38441e296d29edc",
+        "id": "sewing-silk-seed",
+        "path": "primitives/materials/sewing-silk.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "headbanding",
+  "tags": [
+    "bookbinding",
+    "sewing-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

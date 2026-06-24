@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:4581267e8235e2345b70f081beeb9967bbfe42101c743d3f927aa08025af5f36",
+  "created": "2026-06-24",
+  "description": "A heavy non-drying vegetable oil used as the liquid base of a leather dressing. It carries the dissolved wax into the leather and supplies the lasting oily film that keeps an old binding supple without going hard.",
+  "emitter": "opg://commons-seed",
+  "id": "castor-oil-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "castor oil",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "oil",
+    "names": {
+      "en": [
+        "castor oil"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "covering-material",
+    "unit": "ml"
+  },
+  "slug": "castor-oil",
+  "tags": [
+    "bookbinding",
+    "oil",
+    "covering-material"
+  ],
+  "visibility": "commons"
+}

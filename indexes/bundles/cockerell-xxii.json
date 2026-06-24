@@ -1,0 +1,127 @@
+{
+  "content_hash": "sha256:fb40ebc796a8f944a07c432394649cefbee66eb33969b5e62ac768c852117f80",
+  "description": {
+    "en": "Chapter XXII (To Preserve Old Bindings Re backing) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+  },
+  "domain": "bookbinding",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "ia_item": "bookbindingcareo00cockrich",
+  "items": [
+    {
+      "hash": "sha256:125070e4b693c17755074ea281c6ed1ee6bb9664cd648f4659e5d47bda5e011d",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "backing-hammer"
+    },
+    {
+      "hash": "sha256:4581267e8235e2345b70f081beeb9967bbfe42101c743d3f927aa08025af5f36",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "castor-oil"
+    },
+    {
+      "hash": "sha256:0637dda7a47010323ec935678131d9711313a904ab0ebfdb5418d8058637992f",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "corner-repair"
+    },
+    {
+      "hash": "sha256:ba762a61f0c473a535b4e9d36a00c417cee805100423bc1d2caa6c6cd5abe9a4",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "cover-leather"
+    },
+    {
+      "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "folder"
+    },
+    {
+      "hash": "sha256:199e25c7b9d8b7a49d1cf66e3c7477cafb10dac1c5d250c8566a942a952a0d43",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "glue"
+    },
+    {
+      "hash": "sha256:8dbb4e15cd80a56d5996e838ab3b979210e24e0bc3224edd6ffc9075db08e178",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "leather-dressing"
+    },
+    {
+      "hash": "sha256:6fe26284e0a5ba509fb6bc9b3eef4090b08f4f4ac4d4503fcf682d0bbabcb21d",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "millboard"
+    },
+    {
+      "hash": "sha256:3ef5a3576202ed50664a10ee54eb01bbcc211262a555029322d83589f65051ea",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "paraffin-wax"
+    },
+    {
+      "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "paste"
+    },
+    {
+      "hash": "sha256:3ad41b1ef4c1185fe8dcf35c626f246f42be77245d4ec173e946447bc1fb199f",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "preserving-old-bindings"
+    },
+    {
+      "hash": "sha256:f0f72a365bde9ccc422d22c9b633fb8b6fb5ef3cf472e8fbc7b454e998e91a7c",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "protective-shelf-case"
+    },
+    {
+      "hash": "sha256:f36c603cf89be0b8ef785bd6689bd20221d063c369ed984689bf0d0f87b3cf72",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "re-backing"
+    },
+    {
+      "hash": "sha256:086ef048d15920f3a491a642f3c56212378fd6af6e209d4f20678fd01f13adbe",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "sewing-tape"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Cockerell, Chapter XXII: To Preserve Old Bindings Re backing"
+  },
+  "record_class": "bundle",
+  "slug": "cockerell-xxii",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "bookbinding",
+    "part2",
+    "chapter"
+  ]
+}

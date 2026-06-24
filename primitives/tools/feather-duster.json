@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:fd937e70aed5783972b6136ac5d7acbc2e14aa9ba3e716049a6e6a8d2682a057",
+  "created": "2026-06-24",
+  "description": "A soft handheld brush of feathers used to flick dust from the exterior of a closed volume without abrading the covering. Its gentle action lifts surface grit while avoiding the friction that would mark delicate leather or cloth.",
+  "emitter": "opg://commons-seed",
+  "id": "feather-duster-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "feather duster",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "cleaning",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "feather duster"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-equipment"
+  },
+  "slug": "feather-duster",
+  "tags": [
+    "bookbinding",
+    "cleaning",
+    "forwarding-equipment"
+  ],
+  "visibility": "commons"
+}

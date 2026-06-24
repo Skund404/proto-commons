@@ -1,0 +1,211 @@
+{
+  "content_hash": "sha256:a6db066d6bcb2bb8644e372eee8c3a1a3f1cbdb8ecbd70b2159b4d02f4a62bc0",
+  "created": "2026-06-24",
+  "description": "The full sequence of clothing a forwarded book in pared leather, from preparing the back through covering, shaping the caps and corners, and finishing the inside of the boards, leaving the volume ready for decoration.",
+  "emitter": "opg://commons-seed",
+  "id": "covering-in-leather-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "covering a book in leather",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "advanced",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "covering a book in leather"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "steps": [
+      {
+        "description": "Line up the back with stout paper, and linen or thin leather on heavy books, then trim and smooth it once dry.",
+        "position": 1
+      },
+      {
+        "description": "Set the squares, nick off the back corners of the boards, paste the slips, and nip the book lightly in the press to flatten them.",
+        "position": 2
+      },
+      {
+        "description": "Cut a cover from the firm part of the skin with a turn-in allowance, then pare it to graded thickness, thin at joints, edges, and caps.",
+        "position": 3
+      },
+      {
+        "description": "Square and nip the bands, paste the back and the cover, and let both soak briefly.",
+        "position": 4
+      },
+      {
+        "description": "Lay the book on the leather to the turn-in marks, draw the skin over the back, nip the bands, and work the surplus into the panels.",
+        "position": 5
+      },
+      {
+        "description": "Turn in the leather at the fore-edges, then the head and tail, rubbing each edge square with a folder.",
+        "position": 6
+      },
+      {
+        "description": "Shape the head-caps, tie up larger books to hold the leather, and set the binding aside to dry under light weight with waterproof sheets inside.",
+        "position": 7
+      },
+      {
+        "description": "Open the boards to true the joints, mitre the four corners, paste in the filling-in papers, and leave the boards open to draw flat.",
+        "position": 8
+      }
+    ],
+    "taxonomy": "covering-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:cbabfafb2e56f6c7371c762fc5977336c7593e85477375f825917c900cbd8f86",
+        "id": "lining-up-seed",
+        "path": "primitives/techniques/lining-up.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:f38c8c9d4cec3ccf7bffe7cb6afe4f8a7b2d697a43502b2e474574ecd7ac340c",
+        "id": "setting-squares-seed",
+        "path": "primitives/techniques/setting-squares.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:ffd7b52904345dbf50579523cc39128033aa86b739f62e175fad59095017ee5a",
+        "id": "paring-leather-seed",
+        "path": "primitives/techniques/paring-leather.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:1ec670893beee5f09b9f81ff6b76182f2923f9573cefa1b4c8dafd702e9f1ffa",
+        "id": "covering-seed",
+        "path": "primitives/techniques/covering.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:4459e7925d2910c42d8894b780238ad92f2ea218f08dd49e90a294bd2b744d2b",
+        "id": "setting-head-cap-seed",
+        "path": "primitives/techniques/setting-head-cap.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:cb6c88ef07219c9f215ee47caa6b911127848a19089e68bf071176132f622871",
+        "id": "tying-up-seed",
+        "path": "primitives/techniques/tying-up.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:e03f83084fa05883d2e13116b3b9cbfda729abd9e4cffa1ba00f59f5e5d34c3a",
+        "id": "mitring-corners-seed",
+        "path": "primitives/techniques/mitring-corners.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:e3405889c8d87eae8c829854ec9352f6fd430d0b2a52e92010b2e744e00b2cb5",
+        "id": "filling-in-boards-seed",
+        "path": "primitives/techniques/filling-in-boards.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:12e7abb1a23eca13fd5236132fac99fd0ddcf5e351ba678c6a90659db7eec920",
+        "id": "leather-paring-knife-seed",
+        "path": "primitives/tools/leather-paring-knife.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:b7b80737647c29ee62202d2041eed0764594018f0835a4b3c1574a03eeec90f6",
+        "id": "paring-stone-seed",
+        "path": "primitives/tools/paring-stone.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+        "id": "folder-seed",
+        "path": "primitives/tools/folder.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:e309b2dda59042c5768ed3790140647a86b0270460f986b8e8a390212cfc6aee",
+        "id": "band-nippers-seed",
+        "path": "primitives/tools/band-nippers.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:94ea313213507ad9b8a986f419899187e31fb6309fad8fb80c24266eb954b988",
+        "id": "band-stick-seed",
+        "path": "primitives/tools/band-stick.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+        "id": "lying-press-seed",
+        "path": "primitives/tools/lying-press.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:ba762a61f0c473a535b4e9d36a00c417cee805100423bc1d2caa6c6cd5abe9a4",
+        "id": "cover-leather-seed",
+        "path": "primitives/materials/cover-leather.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:2b43884c9c577c84920292e767599ca1facfb841cb8e2a1ab85a70e12de77098",
+        "id": "filling-in-paper-seed",
+        "path": "primitives/materials/filling-in-paper.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:3be39f6cda75cb82e64aed961651fda8b5b8fb699a0544f0cc85d3ca735df9f8",
+        "id": "waterproof-sheet-seed",
+        "path": "primitives/materials/waterproof-sheet.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "covering-in-leather",
+  "tags": [
+    "bookbinding",
+    "covering-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

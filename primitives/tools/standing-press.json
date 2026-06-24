@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:ad8d3a9c1a538aa89270b270a797de51ec8d92734694fb3b42c5b4af6c2e6591",
+  "created": "2026-06-24",
+  "description": "A heavy fixed press, screwed down by hand, in which piles of sections or finished books are left under sustained pressure to set them solid. The iron form is tightened with a short then a long bar; the French form drives the screw with a weighted spinning wheel that also hammers the work tight.",
+  "emitter": "opg://commons-seed",
+  "id": "standing-press-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "standing press",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "pressing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "standing press"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-equipment"
+  },
+  "slug": "standing-press",
+  "tags": [
+    "bookbinding",
+    "pressing",
+    "forwarding-equipment"
+  ],
+  "visibility": "commons"
+}

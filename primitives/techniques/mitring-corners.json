@@ -1,0 +1,49 @@
+{
+  "content_hash": "sha256:e03f83084fa05883d2e13116b3b9cbfda729abd9e4cffa1ba00f59f5e5d34c3a",
+  "created": "2026-06-24",
+  "description": "Cutting and folding the leather at each board corner into a clean diagonal join with no overlap. Both thicknesses are sliced from the board corner toward the inner margin, the surplus removed while damp, and any stubborn bulk pared against the thumb before tucking the turn-ins together.",
+  "emitter": "opg://commons-seed",
+  "id": "mitring-corners-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "mitring corners",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "mitring corners"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "covering-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+        "id": "folder-seed",
+        "path": "primitives/tools/folder.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "mitring-corners",
+  "tags": [
+    "bookbinding",
+    "covering-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

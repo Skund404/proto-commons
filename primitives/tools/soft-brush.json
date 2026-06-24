@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:fa42311b8586e60386d70ffc9ec9e270293c79df57ff84c2e544230b3be9d6d1",
+  "created": "2026-06-24",
+  "description": "A very soft brush, such as a hog's hair brush, used to work cleaning soaps and solvents over stained areas without abrading the paper surface.",
+  "emitter": "opg://commons-seed",
+  "id": "soft-brush-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "soft brush",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "cleaning",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "soft brush",
+        "hog's hair brush"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-equipment"
+  },
+  "slug": "soft-brush",
+  "tags": [
+    "bookbinding",
+    "cleaning",
+    "forwarding-equipment"
+  ],
+  "visibility": "commons"
+}

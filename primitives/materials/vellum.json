@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:4ab7df86b5a08ecbe4964b9ee0e65d6f589a751ce056a70394e88a0d25e1a415",
+  "created": "2026-06-24",
+  "description": "A prepared animal skin used for leaves and bindings of older books. It cockles when exposed to damp and must be dried slowly under restraint to lie flat again.",
+  "emitter": "opg://commons-seed",
+  "id": "vellum-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "vellum",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vellum",
+    "names": {
+      "en": [
+        "vellum"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "covering-material",
+    "unit": "sheet"
+  },
+  "slug": "vellum",
+  "tags": [
+    "bookbinding",
+    "vellum",
+    "covering-material"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,195 @@
+{
+  "content_hash": "sha256:4432c1b602c7f5948696e39b3782ea8b16b5f96d4d429a78a038f8f8ed784284",
+  "created": "2026-06-24",
+  "description": "End-to-end procedure for fitting cover boards to a sewn book: cutting the boards square, lining them, marking and punching for the cords, lacing them in and hammering flat, then cleaning off the back and pressing the volume to set its shape.",
+  "emitter": "opg://commons-seed",
+  "id": "cutting-and-attaching-boards-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "cutting and attaching boards",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "advanced",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "cutting and attaching boards"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "steps": [
+      {
+        "description": "Select board of a thickness suited to the size and weight of the volume; for vellum books use clasped wooden boards.",
+        "position": 1
+      },
+      {
+        "description": "Rough-cut the boards to size with the shears in the press, or with a board machine for bulk work.",
+        "position": 2
+      },
+      {
+        "description": "True one edge of each board in the plough, then rub down the burr with a folder.",
+        "position": 3
+      },
+      {
+        "description": "Line the boards with paper, doubling the outer face to bias the warp, and nip in the press; stand to dry.",
+        "position": 4
+      },
+      {
+        "description": "Pair the dried boards, mark them square with a try square and compasses, and cut the remaining edges in the plough.",
+        "position": 5
+      },
+      {
+        "description": "Mark the slip positions, punch two series of holes with a bodkin over a lead plate, and cut V-grooves to recess the slips.",
+        "position": 6
+      },
+      {
+        "description": "Scrape and reduce the frayed slips, paste them, point the ends, and thread them through the holes.",
+        "position": 7
+      },
+      {
+        "description": "Tension the laced slips, cut the ends flush, and hammer them flat on the knocking-down iron from both sides.",
+        "position": 8
+      },
+      {
+        "description": "Paste the back, let it soak, and scrape off the softened surplus glue to clean off the spine.",
+        "position": 9
+      },
+      {
+        "description": "Build the books into the standing press with tins in the joints and leave under even pressure overnight to set the form.",
+        "position": 10
+      }
+    ],
+    "taxonomy": "forwarding-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:57ae8ed29245a085678cf9fd34aba63e88760a02695782cee619b90f875c8726",
+        "id": "cutting-boards-seed",
+        "path": "primitives/techniques/cutting-boards.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:3d6762e3e1d4e882d0bb87a5657d751aefe36d58ec179a69db0d2f680544aeb5",
+        "id": "lining-boards-seed",
+        "path": "primitives/techniques/lining-boards.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:6327f03825bd375d2ae2cd1bd07e838f3d3ca1fb431352417330c2a57eea7e2d",
+        "id": "lacing-in-seed",
+        "path": "primitives/techniques/lacing-in.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:030605e990d7d3b5aee4092632c758ee537845a298430dac2adad8084822cd1f",
+        "id": "cleaning-off-seed",
+        "path": "primitives/techniques/cleaning-off.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:0e871bb45654c734ce9dceecabee04538198f0e8f7257acc258caba55c8bcd51",
+        "id": "pressing-seed",
+        "path": "primitives/techniques/pressing.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:2459d3a8c9486cd498dd85f548f0321cd51d0340cb6ea761f97d312902210c41",
+        "id": "plough-seed",
+        "path": "primitives/tools/plough.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+        "id": "lying-press-seed",
+        "path": "primitives/tools/lying-press.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:ad8d3a9c1a538aa89270b270a797de51ec8d92734694fb3b42c5b4af6c2e6591",
+        "id": "standing-press-seed",
+        "path": "primitives/tools/standing-press.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:6439aa0b076370331e4a7148618e2891b0b4e035ccff9193a4d38c1e3837abff",
+        "id": "knocking-down-iron-seed",
+        "path": "primitives/tools/knocking-down-iron.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:e430b13830b58db0f01b4fdf4bf7c33d5221ef7c352e1377e68d573346713f3e",
+        "id": "bodkin-seed",
+        "path": "primitives/tools/bodkin.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:6fe26284e0a5ba509fb6bc9b3eef4090b08f4f4ac4d4503fcf682d0bbabcb21d",
+        "id": "millboard-seed",
+        "path": "primitives/materials/millboard.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:12db05a22761d0cc96a7ac502a44240b86914b0fc035c50d15c0abfdc25376e3",
+        "id": "lining-paper-seed",
+        "path": "primitives/materials/lining-paper.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+        "id": "paste-seed",
+        "path": "primitives/materials/paste.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:aafe9c707dfb9be22048d560ce3e193f18a291491eb8ca690ed37e4899d7deb5",
+        "id": "sewing-cord-seed",
+        "path": "primitives/materials/sewing-cord.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "cutting-and-attaching-boards",
+  "tags": [
+    "bookbinding",
+    "forwarding-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

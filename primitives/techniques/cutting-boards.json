@@ -1,0 +1,97 @@
+{
+  "content_hash": "sha256:57ae8ed29245a085678cf9fd34aba63e88760a02695782cee619b90f875c8726",
+  "created": "2026-06-24",
+  "description": "Trimming cover boards to a clean square shape: rough-cutting to size, then finishing each edge true in the plough, smoothing the burr with a folder, and marking the remaining edges square with the aid of a try square and compasses.",
+  "emitter": "opg://commons-seed",
+  "id": "cutting-boards-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "cutting boards",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "cutting boards"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:2459d3a8c9486cd498dd85f548f0321cd51d0340cb6ea761f97d312902210c41",
+        "id": "plough-seed",
+        "path": "primitives/tools/plough.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:28129169b601a3c12b861d26c81b984b25b5765209f0cde0aabd474065af99f1",
+        "id": "plough-knife-seed",
+        "path": "primitives/tools/plough-knife.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:aaf69b4a6c7a283c1fbc2de4d0d9bb5b70897d714a360060c01306d619765d5c",
+        "id": "millboard-shears-seed",
+        "path": "primitives/tools/millboard-shears.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+        "id": "lying-press-seed",
+        "path": "primitives/tools/lying-press.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:216cc80aeb64f2435abaff5ae80afa59a9a6f2d8242df9d39c8c81b55161ccbb",
+        "id": "carpenter-square-seed",
+        "path": "primitives/tools/carpenter-square.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:2c12025e8796a3702adbb9a1b4040fc54608e5e111fa0f37dc8996dcd2ae9bb2",
+        "id": "compasses-seed",
+        "path": "primitives/tools/compasses.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:6fe26284e0a5ba509fb6bc9b3eef4090b08f4f4ac4d4503fcf682d0bbabcb21d",
+        "id": "millboard-seed",
+        "path": "primitives/materials/millboard.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "cutting-boards",
+  "tags": [
+    "bookbinding",
+    "forwarding-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

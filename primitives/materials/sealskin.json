@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:64d378c93abbcc347872c9ad7edc3e77a423bd835f214a6cbe0096267bd1df21",
+  "created": "2026-06-24",
+  "description": "Seal hide proposed as a covering material. Cockerell relays that one librarian recommended it highly but records no firsthand experience binding with it.",
+  "emitter": "opg://commons-seed",
+  "id": "sealskin-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "sealskin",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "leather",
+    "names": {
+      "en": [
+        "sealskin"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "covering-material",
+    "unit": "piece"
+  },
+  "slug": "sealskin",
+  "tags": [
+    "bookbinding",
+    "leather",
+    "covering-material"
+  ],
+  "visibility": "commons"
+}

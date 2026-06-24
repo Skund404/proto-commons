@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:d2b10f51da051f28286a78864edd4ab4d7fbf95b59ac84662096acdd557df060",
+  "created": "2026-06-24",
+  "description": "The stiff inner foundation around which a worked headband is sewn. A length of vellum strip, dried gut, or glue-stiffened string supplies the body; for large volumes a thick and a thin core can be paired, and a vellum core is sometimes laminated with linen between two layers so it resists hardening and cracking.",
+  "emitter": "opg://commons-seed",
+  "id": "headband-core-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "headband core",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "binding",
+    "names": {
+      "en": [
+        "headband core",
+        "gut",
+        "cord core"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "sewing-material",
+    "unit": "piece"
+  },
+  "slug": "headband-core",
+  "tags": [
+    "bookbinding",
+    "binding",
+    "sewing-material"
+  ],
+  "visibility": "commons"
+}

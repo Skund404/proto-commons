@@ -1,0 +1,50 @@
+{
+  "content_hash": "sha256:f0f72a365bde9ccc422d22c9b633fb8b6fb5ef3cf472e8fbc7b454e998e91a7c",
+  "created": "2026-06-24",
+  "description": "A simple shelf protector that shields a fragile or metal-fitted binding and its neighbours from abrasion. Lined millboard is placed beside the book, or a piece is bent round it and reinforced at the folds with linen, then slipped onto the shelf with the open end outward so it is barely visible. For valuable volumes a lettered case may be built to carry the title on its back.",
+  "emitter": "opg://commons-seed",
+  "id": "protective-shelf-case-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "protective case",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "protective case",
+        "millboard cover"
+      ]
+    },
+    "skillLevel": "beginner",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "conservation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:6fe26284e0a5ba509fb6bc9b3eef4090b08f4f4ac4d4503fcf682d0bbabcb21d",
+        "id": "millboard-seed",
+        "path": "primitives/materials/millboard.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "protective-shelf-case",
+  "tags": [
+    "bookbinding",
+    "conservation-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

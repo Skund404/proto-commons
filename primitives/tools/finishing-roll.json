@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:5dc7f7aefd9527f7250b28e46a936eb9ad597aa32db17f3f2b4c10bd2afb308a",
+  "created": "2026-06-24",
+  "description": "A wheel engraved with a repeating pattern around its circumference, impressed onto leather by rolling it across the surface. Cockerell judges rolls a time-saver that costs the freedom of a built-up design and warns against their modern overuse.",
+  "emitter": "opg://commons-seed",
+  "id": "finishing-roll-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "roll",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "finishing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "roll"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "finishing-equipment"
+  },
+  "slug": "finishing-roll",
+  "tags": [
+    "bookbinding",
+    "finishing",
+    "finishing-equipment"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,79 @@
+{
+  "content_hash": "sha256:19dcf398d00c54a07b06fc58437476229b5494a658cfe3772d52a52f2436db9c",
+  "created": "2026-06-24",
+  "description": "Procedure for cooking a flour-and-alum paste for covering and pasting. The dry mix is wetted smooth, diluted, then heated and stirred to a thick cookable consistency that can later be let down with warm water.",
+  "emitter": "opg://commons-seed",
+  "id": "paste-making-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "making paste",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "beginner",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "making paste"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "steps": [
+      {
+        "description": "Blend flour with powdered alum and just enough water to make a thin lump-free batter.",
+        "position": 1
+      },
+      {
+        "description": "Stir in a larger volume of cold water and warm the mixture gently in an enamelled pan.",
+        "position": 2
+      },
+      {
+        "description": "Stir steadily as it heats, then keep stirring for several minutes once it reaches the boil.",
+        "position": 3
+      },
+      {
+        "description": "Hold until it sets into a thick paste, ready to be thinned with warm water as needed.",
+        "position": 4
+      },
+      {
+        "description": "Store in a paste tub and beat smooth with a flat stick before each use.",
+        "position": 5
+      }
+    ],
+    "taxonomy": "preparation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+        "id": "paste-seed",
+        "path": "primitives/materials/paste.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:095acd651901e7c1bafbd16e974db6945a8e424fcf852b8c6cf043e3d8e84ec3",
+        "id": "paste-tub-seed",
+        "path": "primitives/tools/paste-tub.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "paste-making",
+  "tags": [
+    "bookbinding",
+    "preparation-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,65 @@
+{
+  "content_hash": "sha256:7f4236143bf69825590da231422dd2e9ae27c16640d4a24e396130f8cd16cfcd",
+  "created": "2026-06-24",
+  "description": "Tinting the trimmed edges of a book by sponging on thin coats of stain from the centre of each edge outward, then waxing and burnishing once dry. Working from the middle prevents a heavy deposit gathering at the corners.",
+  "emitter": "opg://commons-seed",
+  "id": "edge-colouring-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "edge colouring",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "edge colouring"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "edge-decoration-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:49b43c8cab97dae5db786b5f3523524e96139ff994a000f88542a05bb33d53c6",
+        "id": "edge-colour-seed",
+        "path": "primitives/materials/edge-colour.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:da26fc3621d63113ba1767e74ba25cd0dc2332456812e95ba14f80d9f751e92d",
+        "id": "beeswax-seed",
+        "path": "primitives/materials/beeswax.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:2b2984c0f7b3635884a21b4fa65803e3058cbbf3f1fe523a814821a5e7bed4cb",
+        "id": "tooth-burnisher-seed",
+        "path": "primitives/tools/tooth-burnisher.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "edge-colouring",
+  "tags": [
+    "bookbinding",
+    "edge-decoration-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

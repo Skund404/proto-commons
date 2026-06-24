@@ -1,0 +1,58 @@
+{
+  "content_hash": "sha256:3716157ad61fae1b0759ca4922aeb562e625b991ef302a25088b9d5a3123174c",
+  "created": "2026-06-24",
+  "description": "Restoring body and surface strength to soft or perished paper by immersing each sheet in a warm gelatine or isinglass solution, then pressing and drying the treated leaves flat. Sizing also lifts many discolourations and is required again after any aggressive cleaning step. Cockerell warns that the bath must be heated slowly so it stays clear rather than scorching.",
+  "emitter": "opg://commons-seed",
+  "id": "sizing-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "sizing",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "sizing",
+        "re-sizing paper"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "preparation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:f0be46b427eacd6bbcc5741945c5f92eafb7abbad196c8c7b60908028c55aa9a",
+        "id": "gelatine-size-seed",
+        "path": "primitives/materials/gelatine-size.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+        "id": "lying-press-seed",
+        "path": "primitives/tools/lying-press.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "sizing",
+  "tags": [
+    "bookbinding",
+    "preparation-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

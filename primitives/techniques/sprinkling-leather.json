@@ -1,0 +1,49 @@
+{
+  "content_hash": "sha256:820ed5b90eb8ee20e41b5702633f776d6e53c2711b2b924d1f78ed217449f356",
+  "created": "2026-06-24",
+  "description": "Flecking a leather cover with droplets of colour to break up a flat, even tone, as in sprinkled and tree calf. Cockerell finds slight unevenness of colour pleasing but strongly condemns sprinkling with ferrous sulphate, which destroys the tan and frees acid, and suggests safer aniline colours instead.",
+  "emitter": "opg://commons-seed",
+  "id": "sprinkling-leather-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "sprinkling leather",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "sprinkling leather"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "decoration-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:ba762a61f0c473a535b4e9d36a00c417cee805100423bc1d2caa6c6cd5abe9a4",
+        "id": "cover-leather-seed",
+        "path": "primitives/materials/cover-leather.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "sprinkling-leather",
+  "tags": [
+    "bookbinding",
+    "decoration-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

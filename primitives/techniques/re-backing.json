@@ -1,0 +1,73 @@
+{
+  "content_hash": "sha256:f36c603cf89be0b8ef785bd6689bd20221d063c369ed984689bf0d0f87b3cf72",
+  "created": "2026-06-24",
+  "description": "Repair of a binding whose joints have broken by fitting a fresh spine covering while keeping as much of the original as possible. The remaining old back leather is eased off and saved, the cover leather on each board is cut back along a slanting line to a thin feather edge and lifted, and a matching new piece is pasted to the spine and tucked beneath the lifted old leather. The salvaged original spine is pared down and re-laid over the new work and tied tight while drying.",
+  "emitter": "opg://commons-seed",
+  "id": "re-backing-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "re-backing",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "re-backing"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "conservation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+        "id": "folder-seed",
+        "path": "primitives/tools/folder.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:ba762a61f0c473a535b4e9d36a00c417cee805100423bc1d2caa6c6cd5abe9a4",
+        "id": "cover-leather-seed",
+        "path": "primitives/materials/cover-leather.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+        "id": "paste-seed",
+        "path": "primitives/materials/paste.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:086ef048d15920f3a491a642f3c56212378fd6af6e209d4f20678fd01f13adbe",
+        "id": "sewing-tape-seed",
+        "path": "primitives/materials/sewing-tape.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "re-backing",
+  "tags": [
+    "bookbinding",
+    "conservation-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

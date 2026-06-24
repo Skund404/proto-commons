@@ -1,0 +1,58 @@
+{
+  "content_hash": "sha256:48c0edd5af601fdd348c4e97838bf30c4ce7df9a5bd09c18a07366bdec86ea42",
+  "created": "2026-06-24",
+  "description": "Removing stubborn stains and ink from book leaves with chemical baths, most safely a sequence of permanganate of potash followed by dilute sulphurous acid and thorough rinsing. Milder marks may yield to warm water with alum, curd soap, or dilute hydrochloric acid. Cockerell stresses that most washing methods in common use are dangerous and have destroyed fine books, and that washed sheets always need re-sizing afterward.",
+  "emitter": "opg://commons-seed",
+  "id": "washing-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "washing",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "washing",
+        "washing paper"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "preparation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:e60761c375f79f2843aa82daa8e023ff18d11e8e6260a3dec70d9246d66ce31c",
+        "id": "paper-cleaning-agent-seed",
+        "path": "primitives/materials/paper-cleaning-agent.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:fa42311b8586e60386d70ffc9ec9e270293c79df57ff84c2e544230b3be9d6d1",
+        "id": "soft-brush-seed",
+        "path": "primitives/tools/soft-brush.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "washing",
+  "tags": [
+    "bookbinding",
+    "preparation-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

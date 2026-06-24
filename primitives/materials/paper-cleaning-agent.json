@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:e60761c375f79f2843aa82daa8e023ff18d11e8e6260a3dec70d9246d66ce31c",
+  "created": "2026-06-24",
+  "description": "The chemical reagents used to bleach and lift stains from old leaves, chiefly permanganate of potash and sulphurous acid in sequence, with milder options such as alum water, curd or soft soap, dilute hydrochloric acid, ether for grease, and various tinting agents for matching washed sheets to the rest of a book.",
+  "emitter": "opg://commons-seed",
+  "id": "paper-cleaning-agent-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "paper cleaning agent",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "chemical",
+    "names": {
+      "en": [
+        "paper cleaning agent",
+        "stain remover"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "adhesive-material",
+    "unit": "ml"
+  },
+  "slug": "paper-cleaning-agent",
+  "tags": [
+    "bookbinding",
+    "chemical",
+    "adhesive-material"
+  ],
+  "visibility": "commons"
+}

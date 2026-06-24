@@ -1,0 +1,65 @@
+{
+  "content_hash": "sha256:f98eb89480dcbba48df901343987643fff708b4cb7516b9f3c8f6e301a100db6",
+  "created": "2026-06-24",
+  "description": "Making a stiff plate openable by cutting a thin strip from its back and rejoining it with a wide cloth guard, leaving a gap that flexes as a hinge. Substituting thinner paper for the cut-off strip reduces the swelling it would otherwise add.",
+  "emitter": "opg://commons-seed",
+  "id": "hinging-plates-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "hinging plates",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "hinging plates"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "preparation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:7143b4533a62b964918d79d9f1e90ce2e08b748b99a0934da646afcbf4576189",
+        "id": "mounting-linen-seed",
+        "path": "primitives/materials/mounting-linen.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:707c70bd01d1f001740926bbb3b8dbb8d532e86db2bc60839f2aceca05416aee",
+        "id": "guard-seed",
+        "path": "primitives/materials/guard.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:8ec445696dbad2c1e359fd23e9b8b41e85f38dd01cc02fc32b0ced9fa899e11a",
+        "id": "paring-knife-seed",
+        "path": "primitives/tools/paring-knife.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "hinging-plates",
+  "tags": [
+    "bookbinding",
+    "preparation-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

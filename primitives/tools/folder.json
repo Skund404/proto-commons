@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+  "created": "2026-06-24",
+  "description": "A smooth flat hand implement, traditionally of bone, used to crease folds sharply, smooth paper, and tease sections apart without tearing the paper.",
+  "emitter": "opg://commons-seed",
+  "id": "folder-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "folder",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "binding",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "folder",
+        "bone folder"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-equipment"
+  },
+  "slug": "folder",
+  "tags": [
+    "bookbinding",
+    "binding",
+    "forwarding-equipment"
+  ],
+  "visibility": "commons"
+}

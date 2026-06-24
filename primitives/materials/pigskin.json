@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:f553d0976291ae880d304b61a50d076a8b2c0eaae5f745fa005878f5d5fb2e7b",
+  "created": "2026-06-24",
+  "description": "Pig hide, naturally strong and long-lasting, especially when alum dressed. Cockerell notes that undyed and white pigskin wears very well, while many dyed pigskins are spoiled by improper tanning, and that its hardness can limit it on flexible work.",
+  "emitter": "opg://commons-seed",
+  "id": "pigskin-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "pigskin",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "leather",
+    "names": {
+      "en": [
+        "pigskin"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "covering-material",
+    "unit": "piece"
+  },
+  "slug": "pigskin",
+  "tags": [
+    "bookbinding",
+    "leather",
+    "covering-material"
+  ],
+  "visibility": "commons"
+}

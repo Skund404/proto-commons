@@ -1,0 +1,50 @@
+{
+  "content_hash": "sha256:01d3e5832a6f4dd4013ee91d1460c50bf71e59d6cd213b3563e7c8665a28ae26",
+  "created": "2026-06-24",
+  "description": "A spine construction where a folded paper tube is glued between the back of the sections and the covering, so the spine and the visible back move separately. It keeps a stiff cover from binding the volume shut.",
+  "emitter": "opg://commons-seed",
+  "id": "hollow-back-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "hollow back",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "hollow back",
+        "hollow-back"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:ba762a61f0c473a535b4e9d36a00c417cee805100423bc1d2caa6c6cd5abe9a4",
+        "id": "cover-leather-seed",
+        "path": "primitives/materials/cover-leather.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "hollow-back",
+  "tags": [
+    "bookbinding",
+    "forwarding-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,49 @@
+{
+  "content_hash": "sha256:e3405889c8d87eae8c829854ec9352f6fd430d0b2a52e92010b2e744e00b2cb5",
+  "created": "2026-06-24",
+  "description": "Levelling the inside of each board by pasting in a paper cut to match the recess left by the leather turn-ins. The piece is fitted just shy of the margins so the inner surface lies flush, and the open board is left to dry so the paper draws it slightly inward against the leather's pull.",
+  "emitter": "opg://commons-seed",
+  "id": "filling-in-boards-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "filling in boards",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "filling in boards"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "covering-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:2b43884c9c577c84920292e767599ca1facfb841cb8e2a1ab85a70e12de77098",
+        "id": "filling-in-paper-seed",
+        "path": "primitives/materials/filling-in-paper.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "filling-in-boards",
+  "tags": [
+    "bookbinding",
+    "covering-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

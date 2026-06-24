@@ -1,0 +1,127 @@
+{
+  "content_hash": "sha256:801b79e293187372bd97b018f2485292548bfcb0a96eababe4bb0e50a5434584",
+  "description": {
+    "en": "Chapter XV (Lettering Blind Tooling Heraldic Ornament) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+  },
+  "domain": "bookbinding",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "ia_item": "bookbindingcareo00cockrich",
+  "items": [
+    {
+      "hash": "sha256:94225d6d0793ab46924a533669f44d396d8005949e51d1fd5b71d303a109772d",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "arming-press"
+    },
+    {
+      "hash": "sha256:acd5daa7195c5a80f775bf55f5fb1c5c988b3caedbcf48cbd64cfc5500e0f9fa",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "arms-block"
+    },
+    {
+      "hash": "sha256:48b81fb9d1061be369c058bac1eca2bbaf2341410dc4374e2f3950958d250c54",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "arms-blocking"
+    },
+    {
+      "hash": "sha256:d71d73298ab4b391eaad3626982f45eca3913cef0df9666d233153961596d29f",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "binders-type"
+    },
+    {
+      "hash": "sha256:33859e88d2137599aa3c66be8fa79651a78376f70478893116e2a5de17cabab1",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "blind-tooling"
+    },
+    {
+      "hash": "sha256:826b561a42531ce020f377c9c73448da3b80759c3d9b34953cd1c8b5b145c2e2",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "dividers"
+    },
+    {
+      "hash": "sha256:7af84593c66dd62a5e837987f8c88f2407b04919e8bcce8bc97f416a6e23090a",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "fillet"
+    },
+    {
+      "hash": "sha256:c393e2adf085eeb87583454dd8c2ddabe97fbd35b17cac38fbb4bb96d7173bbe",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "glaire"
+    },
+    {
+      "hash": "sha256:5a812805e9c759f02854675aed7e19c9655a2dd623a8409af342a02e627d16af",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "gold-leaf"
+    },
+    {
+      "hash": "sha256:a7af2dcd470738bc5bf0dddc71c1b85ff17d57be08d9e1022f64c6451f94bcf0",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "gouge"
+    },
+    {
+      "hash": "sha256:468782b698d5dca512836eade44db7319f9c19ded0bfc8f16687e87cf6970aa5",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "handle-letter"
+    },
+    {
+      "hash": "sha256:a8278cdb451ee224a87fe64e8bac67e3db7ee78525973b70ab97a5fdb33c82ad",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "leather-work"
+    },
+    {
+      "hash": "sha256:3d33a4d527b07ecf2a8905e710e81f8a2f58999b6548b214c044b04be6ee6ae7",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "lettering"
+    },
+    {
+      "hash": "sha256:772a6e56ea4a624f02c07690510eddf518b878ebd5a850fb58f8148917e57a40",
+      "kind": "workflow",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "lettering-the-back"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Cockerell, Chapter XV: Lettering Blind Tooling Heraldic Ornament"
+  },
+  "record_class": "bundle",
+  "slug": "cockerell-xv",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "bookbinding",
+    "part1",
+    "chapter"
+  ]
+}

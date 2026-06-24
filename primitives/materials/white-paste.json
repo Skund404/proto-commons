@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:2f9100b8b8bac62c23a33cae3ebe4475527ea6e98d568bf9f451d71bd3c7f334",
+  "created": "2026-06-24",
+  "description": "A pale, low-staining adhesive for mending, built mainly from cornflour, rice flour, or starch with a little wheaten flour and alum. The wheaten flour may be dropped entirely for the whitest sheets, since ordinary paste leaves unsightly marks on repairs.",
+  "emitter": "opg://commons-seed",
+  "id": "white-paste-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "white paste",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "adhesive",
+    "names": {
+      "en": [
+        "white paste"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "adhesive-material",
+    "unit": "ml"
+  },
+  "slug": "white-paste",
+  "tags": [
+    "bookbinding",
+    "adhesive",
+    "adhesive-material"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:125070e4b693c17755074ea281c6ed1ee6bb9664cd648f4659e5d47bda5e011d",
+  "created": "2026-06-24",
+  "description": "A specialised hammer used to shape the back of a textblock by rounding it and fanning the sections outward to form the joint groove. A face of moderate size lets a glancing blow move the sections without flattening raised bands.",
+  "emitter": "opg://commons-seed",
+  "id": "backing-hammer-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "hammer",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "binding",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "hammer",
+        "backing hammer"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-equipment"
+  },
+  "slug": "backing-hammer",
+  "tags": [
+    "bookbinding",
+    "binding",
+    "forwarding-equipment"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:155ed3053b3e6b4ea1b9ec363bebdefa47194e97162174311b5b2039358a5950",
+  "created": "2026-06-24",
+  "description": "A binding detail in which the board is set a small distance back from the spine, leaving an open groove at the hinge. The gap lets the cover flex freely and permits the use of heavier leather than a closed joint would allow.",
+  "emitter": "opg://commons-seed",
+  "id": "french-joint-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "French joint",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "French joint"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-technique"
+  },
+  "relationships": [],
+  "slug": "french-joint",
+  "tags": [
+    "bookbinding",
+    "forwarding-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

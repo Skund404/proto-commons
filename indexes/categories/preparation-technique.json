@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "preparation-technique",
+  "names": {
+    "en": [
+      "preparation technique"
+    ]
+  },
+  "specializes": "bookbinding-technique"
+}

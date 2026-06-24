@@ -1,0 +1,50 @@
+{
+  "content_hash": "sha256:7d5c1ccc3821ad1291265a1be32a43d9a3ddd62e0d2d61d02c8c0753404187f1",
+  "created": "2026-06-24",
+  "description": "Routine removal of accumulated dust from shelved volumes as part of regular library upkeep. Each book is taken down, kept closed, inverted, and brushed off so loose particles fall clear instead of settling between the leaves; afterwards the volume is left slightly open to air. Best carried out in dry conditions, with the bindings inspected for damage at the same time.",
+  "emitter": "opg://commons-seed",
+  "id": "dusting-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "dusting",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "dusting",
+        "dusting books"
+      ]
+    },
+    "skillLevel": "beginner",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "conservation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:fd937e70aed5783972b6136ac5d7acbc2e14aa9ba3e716049a6e6a8d2682a057",
+        "id": "feather-duster-seed",
+        "path": "primitives/tools/feather-duster.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "dusting",
+  "tags": [
+    "bookbinding",
+    "conservation-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

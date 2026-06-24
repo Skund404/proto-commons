@@ -1,0 +1,123 @@
+{
+  "content_hash": "sha256:a930e6c2d1f402cf4fcf68d49aa5defd163ab5a7a1244f26a8be7d6f0a9a0098",
+  "created": "2026-06-24",
+  "description": "An economical binding routine that trades some appearance for strength: sections are made sound, sewn on tapes, fitted into split boards with a French joint, and covered in thick leather with paper sides. It is built for hard use in large collections.",
+  "emitter": "opg://commons-seed",
+  "id": "library-binding-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "library binding",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "intermediate",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "library binding"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "steps": [
+      {
+        "description": "Make all sections sound, guard plates and maps, and make end papers with zigzags.",
+        "position": 1
+      },
+      {
+        "description": "Press the sections, then mark up and sew several volumes together on shared tapes.",
+        "position": 2
+      },
+      {
+        "description": "Build split boards from strawboard faced with thin millboard and square them to the book.",
+        "position": 3
+      },
+      {
+        "description": "Glue up the back, round and back the volume, and trim the edges.",
+        "position": 4
+      },
+      {
+        "description": "Glue the tape ends to the waste leaves and lay the slips into the opened split boards, then press.",
+        "position": 5
+      },
+      {
+        "description": "Set the boards back from the spine to form a French joint and cover in thick leather with protected corners and paper sides.",
+        "position": 6
+      }
+    ],
+    "taxonomy": "forwarding-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:b49cf71def4d7d1e2d4186d9ad900ff945205519446fc719d4fa2a975661f6d9",
+        "id": "sewing-on-tapes-seed",
+        "path": "primitives/techniques/sewing-on-tapes.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:7391611e86efd0dd7c1ca47ed75d717b608c191cc997412019749b51d1f1c7fc",
+        "id": "split-boards-seed",
+        "path": "primitives/techniques/split-boards.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:155ed3053b3e6b4ea1b9ec363bebdefa47194e97162174311b5b2039358a5950",
+        "id": "french-joint-seed",
+        "path": "primitives/techniques/french-joint.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:5b9f1764fa701a7a7e14c1d352189b0d39de8b04c5500c864b0650ec826cb8cf",
+        "id": "rounding-seed",
+        "path": "primitives/techniques/rounding.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:a63937971f0877e868db57814f3c01c4e98cb046c23c3297ecbc800451b08f61",
+        "id": "backing-seed",
+        "path": "primitives/techniques/backing.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:084655b3dc9042b5542acf16886ebd1b41501da2ebf02875cb0cdc751249f49c",
+        "id": "strawboard-seed",
+        "path": "primitives/materials/strawboard.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:6fe26284e0a5ba509fb6bc9b3eef4090b08f4f4ac4d4503fcf682d0bbabcb21d",
+        "id": "millboard-seed",
+        "path": "primitives/materials/millboard.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "library-binding",
+  "tags": [
+    "bookbinding",
+    "forwarding-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

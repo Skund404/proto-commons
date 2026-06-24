@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "edge-decoration-technique",
+  "names": {
+    "en": [
+      "edge decoration technique"
+    ]
+  },
+  "specializes": "bookbinding-technique"
+}

@@ -1,0 +1,65 @@
+{
+  "content_hash": "sha256:dcdc564a35fbd9196e3a3cb72f9f6624c73396e0bf98eee2275c204f76b88d66",
+  "created": "2026-06-24",
+  "description": "Letting a small plate or leaf into a window cut in a larger sheet so it sits within a full-size page. The opening is marked from the squared plate and cut slightly undersize so its inner edges overlap; the overlap and the plate are pared and pasted so the join stays no thicker than the surrounding frame.",
+  "emitter": "opg://commons-seed",
+  "id": "inlaying-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "inlaying",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "inlaying"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "preparation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+        "id": "folder-seed",
+        "path": "primitives/tools/folder.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:8ec445696dbad2c1e359fd23e9b8b41e85f38dd01cc02fc32b0ced9fa899e11a",
+        "id": "paring-knife-seed",
+        "path": "primitives/tools/paring-knife.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+        "id": "paste-seed",
+        "path": "primitives/materials/paste.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "inlaying",
+  "tags": [
+    "bookbinding",
+    "preparation-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

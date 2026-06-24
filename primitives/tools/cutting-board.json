@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:e47eec32b4216cfe082eccb63500143dd5c458080ab3816a679fc504185480f5",
+  "created": "2026-06-24",
+  "description": "A matched pair of stiff boards clamped one on each side of the leaves to guide and protect them during edge trimming, gilding, or colouring. One board is set to the line being cut and the other allows for the square.",
+  "emitter": "opg://commons-seed",
+  "id": "cutting-board-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "cutting board",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "cutting",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "cutting board",
+        "cutting boards",
+        "gilding boards"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "edge-equipment"
+  },
+  "slug": "cutting-board",
+  "tags": [
+    "bookbinding",
+    "cutting",
+    "edge-equipment"
+  ],
+  "visibility": "commons"
+}

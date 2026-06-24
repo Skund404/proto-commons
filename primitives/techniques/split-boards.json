@@ -1,0 +1,58 @@
+{
+  "content_hash": "sha256:7391611e86efd0dd7c1ca47ed75d717b608c191cc997412019749b51d1f1c7fc",
+  "created": "2026-06-24",
+  "description": "A method of building covers by gluing two boards together over most of their area while leaving a gap along one edge. The slips and a waste leaf are inserted into this slot and pressed, giving a strong concealed attachment.",
+  "emitter": "opg://commons-seed",
+  "id": "split-boards-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "split boards",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "split boards",
+        "making split boards"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:084655b3dc9042b5542acf16886ebd1b41501da2ebf02875cb0cdc751249f49c",
+        "id": "strawboard-seed",
+        "path": "primitives/materials/strawboard.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:6fe26284e0a5ba509fb6bc9b3eef4090b08f4f4ac4d4503fcf682d0bbabcb21d",
+        "id": "millboard-seed",
+        "path": "primitives/materials/millboard.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "split-boards",
+  "tags": [
+    "bookbinding",
+    "forwarding-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

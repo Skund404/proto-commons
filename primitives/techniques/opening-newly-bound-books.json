@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:570bc33071c25a0ea49226c24da5e6e5e2d25758ca09068adc5ded303f455609",
+  "created": "2026-06-24",
+  "description": "Easing the back of a freshly bound volume before it goes into use, so it will flex evenly rather than crack at one point. The book is opened in stages from front and back toward the centre, each opening pressed gently by hand; for valuable work every leaf is turned and bedded one at a time, working outward from the middle. Cockerell argues that omitting this leaves the first careless reader to break the back at the centre.",
+  "emitter": "opg://commons-seed",
+  "id": "opening-newly-bound-books-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "opening newly bound books",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "opening newly bound books"
+      ]
+    },
+    "skillLevel": "beginner",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-technique"
+  },
+  "relationships": [],
+  "slug": "opening-newly-bound-books",
+  "tags": [
+    "bookbinding",
+    "forwarding-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

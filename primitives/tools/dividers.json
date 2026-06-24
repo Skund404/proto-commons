@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:826b561a42531ce020f377c9c73448da3b80759c3d9b34953cd1c8b5b145c2e2",
+  "created": "2026-06-24",
+  "description": "A two-legged measuring instrument set to a fixed span and used to step off equal distances, here to mark consistent margins across leaves before squaring them.",
+  "emitter": "opg://commons-seed",
+  "id": "dividers-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "dividers",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "marking",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "dividers",
+        "compasses"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-equipment"
+  },
+  "slug": "dividers",
+  "tags": [
+    "bookbinding",
+    "marking",
+    "forwarding-equipment"
+  ],
+  "visibility": "commons"
+}

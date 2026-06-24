@@ -1,0 +1,92 @@
+{
+  "content_hash": "sha256:a902694da382e39abae332c6277b2a5bca8c828ceb5ac7958aff7705cbba1ea7",
+  "description": {
+    "en": "Chapter XVIII (Clasps and Ties Metal on Bindings) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+  },
+  "domain": "bookbinding",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "ia_item": "bookbindingcareo00cockrich",
+  "items": [
+    {
+      "hash": "sha256:99146d9b89a0efa2791df846256e122205766af5ec4afa69a938bdc3f40d3df8",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "binding-tie"
+    },
+    {
+      "hash": "sha256:e912037a50b70cf90b1206f8842179e5d2eb4f7a5d25b67414d1596426217c04",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "catgut"
+    },
+    {
+      "hash": "sha256:20df2ecb68d43ea5e1f321d60a0fd0c045f9ccde75c73f43e25409e01fcb6b9c",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "fitting-clasps"
+    },
+    {
+      "hash": "sha256:52283c130e054e33dcee0871a84945c2ff26fad6479aa96f4261284fe2bdf17e",
+      "kind": "workflow",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "making-and-fitting-a-clasp"
+    },
+    {
+      "hash": "sha256:3d5e8928bb736be91408aea2b22b821a3f3576729f8376ef7134ee31506596e2",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "metal-clasp"
+    },
+    {
+      "hash": "sha256:85d75475af652267e92eca402fd9529f23833ce3e085d0e62f19969468f49a07",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "metal-furniture"
+    },
+    {
+      "hash": "sha256:dd5fdd6228793d6c000241f3c8308d8d0964bd24d102d90c5fdecf567d18a4ac",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "mounting-metal-furniture"
+    },
+    {
+      "hash": "sha256:19f921d1ea639a61a4c55d85a201057d8cf518e67d05f8636be7f22f4195d98e",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "plaiting-clasp-straps"
+    },
+    {
+      "hash": "sha256:612eb44af2539cc58f28ab56e2db698c2b58ee0de0b1fb04cbdc69dfc18b855f",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "silver-wire"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Cockerell, Chapter XVIII: Clasps and Ties Metal on Bindings"
+  },
+  "record_class": "bundle",
+  "slug": "cockerell-xviii",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "bookbinding",
+    "part1",
+    "chapter"
+  ]
+}

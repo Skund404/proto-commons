@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:00d3fda3d4f816530033fdd964958b6ce3b5eca3b56db29adc6f82fa2d115d14",
+  "created": "2026-06-24",
+  "description": "A flat board, slightly larger than the volume, placed above and below a stack of sections so the press can bear evenly across them. Pairs of these boards sandwich the pile that goes into the standing press.",
+  "emitter": "opg://commons-seed",
+  "id": "pressing-board-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "pressing board",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "pressing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "pressing board",
+        "pressing-board"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-equipment"
+  },
+  "slug": "pressing-board",
+  "tags": [
+    "bookbinding",
+    "pressing",
+    "forwarding-equipment"
+  ],
+  "visibility": "commons"
+}

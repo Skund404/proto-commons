@@ -1,0 +1,113 @@
+{
+  "content_hash": "sha256:24ec4e36d8288d3290b1211572cb8e97d63ae367988fd40882c84f61a78942bd",
+  "description": {
+    "en": "Chapter V (End Papers Leather Joints Pressing) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+  },
+  "domain": "bookbinding",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "ia_item": "bookbindingcareo00cockrich",
+  "items": [
+    {
+      "hash": "sha256:1a3cbc241c2d49b8a42350bc23550118b68a985b7cc136d916d39500783f70f5",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "beating"
+    },
+    {
+      "hash": "sha256:ccb60343bc1a07579a24398aeae65f02a3fbe6d0e8777561b6f636dcc39a3ef2",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "cloth-joint"
+    },
+    {
+      "hash": "sha256:6eb3ee82e0a4d97ff5a8df7ac17a75f26712deb6b6aec5d3905cd0ef048f3e58",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "end-paper"
+    },
+    {
+      "hash": "sha256:65d86011558ce47e26496489300954d2322bb92669d364bba43927be4f7c4eab",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "leather-joint"
+    },
+    {
+      "hash": "sha256:94673b3b041176a3d01f0ea8c1e9a5c1d3686d5b545f4e4c426d23cc0f1bc2d3",
+      "kind": "workflow",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "making-end-papers"
+    },
+    {
+      "hash": "sha256:c55a770ebc42780067a979ef66b21eabc8fae5be8b4364bd17a2ab76b6164a24",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "marbled-paper"
+    },
+    {
+      "hash": "sha256:00d3fda3d4f816530033fdd964958b6ce3b5eca3b56db29adc6f82fa2d115d14",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "pressing-board"
+    },
+    {
+      "hash": "sha256:0d3dde0d32aa1b61360aef4fde244a96c1bca856b6ba14542f198cb87d067e81",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "pressing-sections"
+    },
+    {
+      "hash": "sha256:c2f779ec3d32d4e808003e73ed486b451852f08f9d1dab7085a6deb9f73de555",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "pressing-tin"
+    },
+    {
+      "hash": "sha256:6b1467879500fe8766675841cd140a0e58bdd6612238274b3274874fd6f0ffcb",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "silk-end"
+    },
+    {
+      "hash": "sha256:ad8d3a9c1a538aa89270b270a797de51ec8d92734694fb3b42c5b4af6c2e6591",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "standing-press"
+    },
+    {
+      "hash": "sha256:b00688cd422fa30ddd66b290f2af9b0684e005f74893a3c7b18827920313e6ff",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "vellum-end"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Cockerell, Chapter V: End Papers Leather Joints Pressing"
+  },
+  "record_class": "bundle",
+  "slug": "cockerell-v",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "bookbinding",
+    "part1",
+    "chapter"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:12db05a22761d0cc96a7ac502a44240b86914b0fc035c50d15c0abfdc25376e3",
+  "created": "2026-06-24",
+  "description": "Plain paper pasted over the faces of a cut board to seal its edges and control its warp. Applied with one straight edge laid exactly to the cut edge of the board.",
+  "emitter": "opg://commons-seed",
+  "id": "lining-paper-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "lining paper",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "paper",
+    "names": {
+      "en": [
+        "lining paper"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "paper-material",
+    "unit": "sheet"
+  },
+  "slug": "lining-paper",
+  "tags": [
+    "bookbinding",
+    "paper",
+    "paper-material"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "edge-equipment",
+  "names": {
+    "en": [
+      "edge equipment"
+    ]
+  },
+  "specializes": "bookbinding-equipment"
+}

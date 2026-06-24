@@ -1,0 +1,89 @@
+{
+  "content_hash": "sha256:62aaf4519ee70a19209a41e03c6e3e7f8e8caa41183ae9b8b997eae655283204",
+  "created": "2026-06-24",
+  "description": "Reinforcing or joining leaves and plates by pasting a narrow strip along the fold. Cockerell prefers the guard inside an outer pair to catch ragged edges and outside an inner pair to ease sewing, and he warns that stretching a pasted guard makes the sheet crinkle as it dries. Thick plates are pared at the back so the guards do not swell the spine.",
+  "emitter": "opg://commons-seed",
+  "id": "guarding-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "guarding",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "guarding"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "preparation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:707c70bd01d1f001740926bbb3b8dbb8d532e86db2bc60839f2aceca05416aee",
+        "id": "guard-seed",
+        "path": "primitives/materials/guard.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+        "id": "paste-seed",
+        "path": "primitives/materials/paste.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:1f9edeb2da3af3ba10236514c0cbf4d331945ef467545fde65996f8ec262d490",
+        "id": "blotting-paper-seed",
+        "path": "primitives/materials/blotting-paper.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:1987312410f3405c6cf62f03f73b52b3d32f2bed9e0be5e5b86c23a8071895b6",
+        "id": "mount-cutters-knife-seed",
+        "path": "primitives/tools/mount-cutters-knife.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:826b561a42531ce020f377c9c73448da3b80759c3d9b34953cd1c8b5b145c2e2",
+        "id": "dividers-seed",
+        "path": "primitives/tools/dividers.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:4d99452f5c91ece8b538549ea4ba623ee0988db4b6d9cb792426a88661cfdfb2",
+        "id": "straight-edge-seed",
+        "path": "primitives/tools/straight-edge.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "guarding",
+  "tags": [
+    "bookbinding",
+    "preparation-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:b7b80737647c29ee62202d2041eed0764594018f0835a4b3c1574a03eeec90f6",
+  "created": "2026-06-24",
+  "description": "A flat, smooth, hard slab that serves as the working bed for shaving leather. Its even surface lets the blade run level so the skin is reduced uniformly, and it also takes the rubbing that keeps the knife sharp.",
+  "emitter": "opg://commons-seed",
+  "id": "paring-stone-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "paring stone",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "binding",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "paring stone",
+        "lithographic stone"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-equipment"
+  },
+  "slug": "paring-stone",
+  "tags": [
+    "bookbinding",
+    "binding",
+    "forwarding-equipment"
+  ],
+  "visibility": "commons"
+}

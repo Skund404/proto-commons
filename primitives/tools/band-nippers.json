@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:e309b2dda59042c5768ed3790140647a86b0270460f986b8e8a390212cfc6aee",
+  "created": "2026-06-24",
+  "description": "Flat jawed pincers used to pinch the raised bands sharp and crisp through the cover. When pressing damp leather they are best nickel plated so the metal does not mark or stain the skin.",
+  "emitter": "opg://commons-seed",
+  "id": "band-nippers-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "band nippers",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "binding",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "band nippers"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-equipment"
+  },
+  "slug": "band-nippers",
+  "tags": [
+    "bookbinding",
+    "binding",
+    "forwarding-equipment"
+  ],
+  "visibility": "commons"
+}

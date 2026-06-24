@@ -1,0 +1,65 @@
+{
+  "content_hash": "sha256:dd939e87c68511d5e9564f1fb4a659eba97e759979ef19e8f955fad01264d7bd",
+  "created": "2026-06-24",
+  "description": "Adapting tooling for a vellum cover: the sticky surface is washed clean, the pattern blinded through paper held by a band rather than pasted down, gold laid with benzine, and cool tools used because vellum scorches readily. Vellum is left unpolished and unvarnished.",
+  "emitter": "opg://commons-seed",
+  "id": "tooling-on-vellum-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "tooling on vellum",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "tooling on vellum"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "decoration-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:2cfefbc755210baf5f9571e7f34de1c77e7569eed27663d3a0ebb708b3c61253",
+        "id": "finishing-tool-seed",
+        "path": "primitives/tools/finishing-tool.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:5a812805e9c759f02854675aed7e19c9655a2dd623a8409af342a02e627d16af",
+        "id": "gold-leaf-seed",
+        "path": "primitives/materials/gold-leaf.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:2ad6fc3cefcd5dbf27544a4824575bca3d24460f850a3c27c2809dfbebba40cc",
+        "id": "benzine-seed",
+        "path": "primitives/materials/benzine.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "tooling-on-vellum",
+  "tags": [
+    "bookbinding",
+    "decoration-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

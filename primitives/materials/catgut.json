@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:e912037a50b70cf90b1206f8842179e5d2eb4f7a5d25b67414d1596426217c04",
+  "created": "2026-06-24",
+  "description": "A strong cord of twisted animal gut used for a minimal bead-and-loop fastening: a bead is threaded on, the doubled ends are laced into one board, and a matching loop laced into the other catches over the projecting bead.",
+  "emitter": "opg://commons-seed",
+  "id": "catgut-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "catgut",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "cord",
+    "names": {
+      "en": [
+        "catgut",
+        "gut"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "sewing-material",
+    "unit": "m"
+  },
+  "slug": "catgut",
+  "tags": [
+    "bookbinding",
+    "cord",
+    "sewing-material"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:44ffbf946b678f777bb8926c2aedc34461386ed4b24ead4d821994224f33818e",
+  "created": "2026-06-24",
+  "description": "A narrow woven ribbon laced into a cover and left with long ends, providing a soft tie that holds a limp volume closed without hardware.",
+  "emitter": "opg://commons-seed",
+  "id": "silk-ribbon-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "silk ribbon",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "silk",
+    "names": {
+      "en": [
+        "silk ribbon",
+        "silk tape"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "covering-material",
+    "unit": "m"
+  },
+  "slug": "silk-ribbon",
+  "tags": [
+    "bookbinding",
+    "silk",
+    "covering-material"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:bf828fdfc10a1575efd228dda5344f8ab9597f837b0dc592a7600c5eab69734d",
+  "created": "2026-06-24",
+  "description": "A bench brush for applying paste, bound at the ferrule with string or zinc since copper or iron will discolour the paste.",
+  "emitter": "opg://commons-seed",
+  "id": "paste-brush-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "paste brush",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "binding",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "paste brush"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-equipment"
+  },
+  "slug": "paste-brush",
+  "tags": [
+    "bookbinding",
+    "binding",
+    "forwarding-equipment"
+  ],
+  "visibility": "commons"
+}

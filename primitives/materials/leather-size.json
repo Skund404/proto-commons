@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:8fc75b59efa2bbcab0857ed539e2284bdf3f65bc07cfc389c95f029bd95b9ef5",
+  "created": "2026-06-24",
+  "description": "A weak gelatinous wash made by boiling down vellum cuttings or dissolving gelatine or isinglass in warm water, brushed over porous leather to seal it before tooling. Unlike the thin vellum size used to seal a paper edge before gilding, this is a leather-finishing wash applied to the cover.",
+  "emitter": "opg://commons-seed",
+  "id": "leather-size-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "leather size",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "size",
+    "names": {
+      "en": [
+        "leather size",
+        "size"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "adhesive-material",
+    "unit": "ml"
+  },
+  "slug": "leather-size",
+  "tags": [
+    "bookbinding",
+    "size",
+    "adhesive-material"
+  ],
+  "visibility": "commons"
+}

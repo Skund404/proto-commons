@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:88fae84e1d579e22086a15aaf4333c304c41ab1384fb49a2686f68a6540abe67",
+  "created": "2026-06-24",
+  "description": "A hard polished stone or steel tool drawn across a gilded edge to compress and brighten the gold to a mirror finish. The working face is ground smooth and free of sharp corners so it cannot scratch the leaf; agate or bloodstone are common heads.",
+  "emitter": "opg://commons-seed",
+  "id": "burnisher-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "burnisher",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "finishing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "burnisher",
+        "bloodstone burnisher"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "edge-equipment"
+  },
+  "slug": "burnisher",
+  "tags": [
+    "bookbinding",
+    "finishing",
+    "edge-equipment"
+  ],
+  "visibility": "commons"
+}

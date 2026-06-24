@@ -1,0 +1,49 @@
+{
+  "content_hash": "sha256:bd44f28fc4def0406ca30cf316320d020025bb5ad8df6b3db4f8a1aec90e0bd3",
+  "created": "2026-06-24",
+  "description": "Releasing a mounted India proof from its old backing by floating it face down in warm water over a sized support sheet until it lifts free. The freed proof is carried out on the under sheet and dried between absorbent paper.",
+  "emitter": "opg://commons-seed",
+  "id": "soaking-off-india-proofs-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "soaking off India proofs",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "soaking off India proofs"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "preparation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:1f9edeb2da3af3ba10236514c0cbf4d331945ef467545fde65996f8ec262d490",
+        "id": "blotting-paper-seed",
+        "path": "primitives/materials/blotting-paper.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "soaking-off-india-proofs",
+  "tags": [
+    "bookbinding",
+    "preparation-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

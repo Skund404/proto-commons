@@ -1,0 +1,155 @@
+{
+  "content_hash": "sha256:2fcdbbdcda9775d7d9a16043df454ba087291a5cfb39586eaa46dd463506b8a2",
+  "created": "2026-06-24",
+  "description": "The opening sequence of bench preparation that turns received sheets or an old volume into clean ordered sections ready to sew: gather and fold, collate, guard weak leaves and plates, and where the book is being rebound, pull it to pieces, refold, and knock out old joints.",
+  "emitter": "opg://commons-seed",
+  "id": "preparing-sheets-for-binding-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "preparing sheets for binding",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "intermediate",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "preparing sheets for binding"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "steps": [
+      {
+        "description": "Gather one sheet from each pile of signatures to assemble a complete copy.",
+        "position": 1
+      },
+      {
+        "description": "Fold each sheet into ordered sections, registering headlines and cutting each fold slightly past centre.",
+        "position": 2
+      },
+      {
+        "description": "Collate the leaves and plates against the pagination and printed lists to confirm nothing is missing or out of order.",
+        "position": 3
+      },
+      {
+        "description": "Guard plates, single leaves, and weak sections by pasting reinforcing strips along their backs.",
+        "position": 4
+      },
+      {
+        "description": "For a volume being rebound, pull it to pieces: cut the sewing and bands, remove the old back, soften glue while damp, and detach plates.",
+        "position": 5
+      },
+      {
+        "description": "Refold carelessly folded leaves to register and square them, then knock out the old joints flat against a covered iron.",
+        "position": 6
+      }
+    ],
+    "taxonomy": "preparation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:6274d4bf780d8fd72ba138cb079a8bf6f0fc52f595ec35d1c2e225b02f3ce5fb",
+        "id": "gathering-seed",
+        "path": "primitives/techniques/gathering.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:1040f14d89032b4d66c2d2614852e5c769fb5991b9ea7495c291d299a84301ca",
+        "id": "folding-seed",
+        "path": "primitives/techniques/folding.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:1b86ae1c4117c444bb1d767dceefc2cfaf7e7191021488c323657306f19c5e64",
+        "id": "collating-seed",
+        "path": "primitives/techniques/collating.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:62aaf4519ee70a19209a41e03c6e3e7f8e8caa41183ae9b8b997eae655283204",
+        "id": "guarding-seed",
+        "path": "primitives/techniques/guarding.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:efd31e6c20b443c92d91dc4c6527b59bc0f46384693e029386d851c1d344eeb3",
+        "id": "pulling-seed",
+        "path": "primitives/techniques/pulling.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:76695c4735dc39f14ec1f773a2b30f108b7c4f8e60e45c199aa04d2e2762fbdd",
+        "id": "refolding-seed",
+        "path": "primitives/techniques/refolding.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:d7990fc69cdd05d720100e5001b2444bf7230265c83cd9825ebad61317810715",
+        "id": "knocking-out-joints-seed",
+        "path": "primitives/techniques/knocking-out-joints.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+        "id": "folder-seed",
+        "path": "primitives/tools/folder.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:826b561a42531ce020f377c9c73448da3b80759c3d9b34953cd1c8b5b145c2e2",
+        "id": "dividers-seed",
+        "path": "primitives/tools/dividers.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:6439aa0b076370331e4a7148618e2891b0b4e035ccff9193a4d38c1e3837abff",
+        "id": "knocking-down-iron-seed",
+        "path": "primitives/tools/knocking-down-iron.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:076e4cb7c5afd6fd35260cb8be1280e3db83c7c896c819787adf62facfd79546",
+        "id": "flattening-hammer-seed",
+        "path": "primitives/tools/flattening-hammer.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "preparing-sheets-for-binding",
+  "tags": [
+    "bookbinding",
+    "preparation-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

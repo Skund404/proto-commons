@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:8dbb4e15cd80a56d5996e838ab3b979210e24e0bc3224edd6ffc9075db08e178",
+  "created": "2026-06-24",
+  "description": "A soft preparation rubbed into book leather to nourish it and keep it flexible. A serviceable mixture is made by warming a quantity of oil with roughly half its weight of shredded wax until the wax melts. It must not stain, evaporate quickly, harden, or stay sticky; Cockerell prefers a wax-in-oil dressing over plain petroleum jelly, which evaporates slowly.",
+  "emitter": "opg://commons-seed",
+  "id": "leather-dressing-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "leather dressing",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "leather",
+    "names": {
+      "en": [
+        "leather dressing",
+        "leather preservative"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "covering-material",
+    "unit": "ml"
+  },
+  "slug": "leather-dressing",
+  "tags": [
+    "bookbinding",
+    "leather",
+    "covering-material"
+  ],
+  "visibility": "commons"
+}

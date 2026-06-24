@@ -1,0 +1,65 @@
+{
+  "content_hash": "sha256:4446cc722e29488d36da94cbab0bd5c6c0e1e2570cdd829a557548c34eb464ce",
+  "created": "2026-06-24",
+  "description": "Building a decorative scheme out of repeated impressions of a small stock of finishing tools rather than drawing a picture first and cutting tools to fit it. The maker develops a personal style by evolving a pattern through small changes, favouring geometric repetition, symmetry, and even distribution across the cover, with arrangements such as diapers, borders, centres, and panels.",
+  "emitter": "opg://commons-seed",
+  "id": "combining-tools-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "combining tools to form patterns",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "combining tools to form patterns"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "decoration-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:a7af2dcd470738bc5bf0dddc71c1b85ff17d57be08d9e1022f64c6451f94bcf0",
+        "id": "gouge-seed",
+        "path": "primitives/tools/gouge.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:7af84593c66dd62a5e837987f8c88f2407b04919e8bcce8bc97f416a6e23090a",
+        "id": "fillet-seed",
+        "path": "primitives/tools/fillet.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+        "id": "folder-seed",
+        "path": "primitives/tools/folder.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "combining-tools",
+  "tags": [
+    "bookbinding",
+    "decoration-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:7af84593c66dd62a5e837987f8c88f2407b04919e8bcce8bc97f416a6e23090a",
+  "created": "2026-06-24",
+  "description": "A wheel cut with one or more lines on its edge, mounted in a handle and run along the cover to impress straight lines. A notch filed in the rim lets lines meet cleanly at corners.",
+  "emitter": "opg://commons-seed",
+  "id": "fillet-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "fillet",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "finishing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "fillet"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "finishing-equipment"
+  },
+  "slug": "fillet",
+  "tags": [
+    "bookbinding",
+    "finishing",
+    "finishing-equipment"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:85d75475af652267e92eca402fd9529f23833ce3e085d0e62f19969468f49a07",
+  "created": "2026-06-24",
+  "description": "Protective and ornamental metalwork fixed to a binding: corner pieces, raised bosses, edge shoes, centres, and full plaques. Flat smooth pieces guard shelved volumes, while raised bosses suit books that rest on lecterns; the metal may be enamelled, jewelled, embossed, or chased.",
+  "emitter": "opg://commons-seed",
+  "id": "metal-furniture-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "metal furniture",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "metal",
+    "names": {
+      "en": [
+        "metal furniture",
+        "corners",
+        "bosses"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "decoration-material",
+    "unit": "piece"
+  },
+  "slug": "metal-furniture",
+  "tags": [
+    "bookbinding",
+    "metal",
+    "decoration-material"
+  ],
+  "visibility": "commons"
+}

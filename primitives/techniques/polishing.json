@@ -1,0 +1,49 @@
+{
+  "content_hash": "sha256:7f156b360e2f6fa36585f2fe6f75ab6713de19ce08095771d3b1d7374158f11c",
+  "created": "2026-06-24",
+  "description": "Smoothing a leather cover by running a warm polisher over the back, sides, and inside margins to even out irregularities before and after finishing.",
+  "emitter": "opg://commons-seed",
+  "id": "polishing-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "polishing",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "polishing"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "decoration-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:c7e56058ba8fef54bc399b0458ff59678749f1142ead85d538aad47a0336e40a",
+        "id": "polisher-seed",
+        "path": "primitives/tools/polisher.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "polishing",
+  "tags": [
+    "bookbinding",
+    "decoration-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

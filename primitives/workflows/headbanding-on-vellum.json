@@ -1,0 +1,135 @@
+{
+  "content_hash": "sha256:d70d89ade0ff44b4e62b34417fb72099126d84f0f6da2b4dc0434115a88e4172",
+  "created": "2026-06-24",
+  "description": "An ordered procedure for sewing a worked headband onto a vellum or cord core at the head of a book, from setting the boards and book in the press through forming and beading the silk, tying down at intervals, and finishing off the ends.",
+  "emitter": "opg://commons-seed",
+  "id": "headbanding-on-vellum-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "working a headband on a vellum slip",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "advanced",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "working a headband on a vellum slip"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "steps": [
+      {
+        "description": "Ease the boards on the slips and pull them down so the top edges sit flush with the top edge of the leaves, preventing the silk catching on projecting edges.",
+        "position": 1
+      },
+      {
+        "description": "Stand the book in a finishing press, fore-edge toward the worker and tilted forward, with light coming from the left across the work.",
+        "position": 2
+      },
+      {
+        "description": "Pass a silk-threaded needle in at the head through the centre of the first section after the endpapers and out at the back below the kettle stitch, leaving about two-thirds of the silk.",
+        "position": 3
+      },
+      {
+        "description": "Re-insert the needle in the same place and draw through to leave a loop, then seat the core in the loop with its end projecting slightly to the left, pinning it with a second vertical needle.",
+        "position": 4
+      },
+      {
+        "description": "Carry the back strand over the core, cross it with the front strand under the core, and pull tight from the back to form the first crossings of the bead.",
+        "position": 5
+      },
+      {
+        "description": "Repeat the crossings, keeping the bead tight and well down on the leaves, watching that the core does not shift.",
+        "position": 6
+      },
+      {
+        "description": "Tie the band down frequently by passing the needle between the leaves and out at the back below the kettle stitch, then resume the crossings; a tie-down about every third pass keeps it secure.",
+        "position": 7
+      },
+      {
+        "description": "Work the band along to the endpapers, finish with a double tie-down, draw the front strand under the core to the back, then cut, fray, and paste both silk ends flat on the back.",
+        "position": 8
+      },
+      {
+        "description": "Trim the core ends close to the silk and check the length by compressing the sections with thumb and finger; shorten the band if it buckles.",
+        "position": 9
+      }
+    ],
+    "taxonomy": "sewing-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:54e248fae41073f7ffd2b90493f4fcec41e85de0fea73ec8d053c08229fdf0b3",
+        "id": "headbanding-seed",
+        "path": "primitives/techniques/headbanding.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:07bbd4bd2424b7215fda4afe1c0f6fc4309e75f032adf4791b67bb25c431280f",
+        "id": "kettle-stitch-seed",
+        "path": "primitives/techniques/kettle-stitch.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:b79b15c308d4d28d578179bcadbf10ec47fbda86725e6cf32edb12467e46c18b",
+        "id": "finishing-press-seed",
+        "path": "primitives/tools/finishing-press.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:e943db54b8b4e3056885a6bee7784cb1a8f20f5259727b818a1b4224ebb5067a",
+        "id": "sewing-needle-seed",
+        "path": "primitives/tools/sewing-needle.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:d2b10f51da051f28286a78864edd4ab4d7fbf95b59ac84662096acdd557df060",
+        "id": "headband-core-seed",
+        "path": "primitives/materials/headband-core.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:56012a11d38931f732ac11eaf97ae553275feba5f862f33ef4fbd0a8897a72ae",
+        "id": "vellum-slip-seed",
+        "path": "primitives/materials/vellum-slip.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:a71739bd0febd360366456075a991ea7bcc8d7d74ad5bd9ba38441e296d29edc",
+        "id": "sewing-silk-seed",
+        "path": "primitives/materials/sewing-silk.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "headbanding-on-vellum",
+  "tags": [
+    "bookbinding",
+    "sewing-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,65 @@
+{
+  "content_hash": "sha256:c48bdf414b0e85c8fabf4868652bd51e58a2ab9531f426676566bc79b467ffbb",
+  "created": "2026-06-24",
+  "description": "Drawing simple, conventionalised motifs in ink so a tool-cutter can engrave matching brass finishing tools. Because a single tool is impressed many times across a cover, forms are kept simple and balanced; one drawing can yield several tools at graded sizes, and leaves are usually cut in mirrored and straight variants so a pattern does not read as restless.",
+  "emitter": "opg://commons-seed",
+  "id": "designing-finishing-tools-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "designing finishing tools",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "designing finishing tools"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "decoration-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:a7af2dcd470738bc5bf0dddc71c1b85ff17d57be08d9e1022f64c6451f94bcf0",
+        "id": "gouge-seed",
+        "path": "primitives/tools/gouge.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:7af84593c66dd62a5e837987f8c88f2407b04919e8bcce8bc97f416a6e23090a",
+        "id": "fillet-seed",
+        "path": "primitives/tools/fillet.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:0bf99959a8b0add521455ee4b738c2ab5057d86fec267cc1c65eb1b1fd1678ad",
+        "id": "design-paper-seed",
+        "path": "primitives/materials/design-paper.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "designing-finishing-tools",
+  "tags": [
+    "bookbinding",
+    "decoration-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

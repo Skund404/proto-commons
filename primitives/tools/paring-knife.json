@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:8ec445696dbad2c1e359fd23e9b8b41e85f38dd01cc02fc32b0ced9fa899e11a",
+  "created": "2026-06-24",
+  "description": "A very sharp thin-bladed knife used to shave the edge of paper or a plate down to a feathered thinness. Drawing the edge along a surface raises a burr that lets the blade skim almost flat while removing a fine shaving.",
+  "emitter": "opg://commons-seed",
+  "id": "paring-knife-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "paring knife",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "cutting",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "paring knife",
+        "sharp knife"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-equipment"
+  },
+  "slug": "paring-knife",
+  "tags": [
+    "bookbinding",
+    "cutting",
+    "forwarding-equipment"
+  ],
+  "visibility": "commons"
+}

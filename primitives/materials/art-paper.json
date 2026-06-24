@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:c16f9df6e3d863a3685a88e708258dc52076ea2b408d17bb116cfeff7d72a680",
+  "created": "2026-06-24",
+  "description": "A clay-loaded, glazed printing paper that takes fine halftone impressions but handles poorly: Cockerell records it as fragile, prone to flaking and staining, and unsuitable for books meant to last.",
+  "emitter": "opg://commons-seed",
+  "id": "art-paper-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "art paper",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "paper",
+    "names": {
+      "en": [
+        "art paper"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "paper-material",
+    "unit": "sheet"
+  },
+  "slug": "art-paper",
+  "tags": [
+    "bookbinding",
+    "paper",
+    "paper-material"
+  ],
+  "visibility": "commons"
+}

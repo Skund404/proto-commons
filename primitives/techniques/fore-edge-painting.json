@@ -1,0 +1,49 @@
+{
+  "content_hash": "sha256:adf1738df1133dbc1459aff18ba1e347e7a637b93fa6c15eb5401506c209126d",
+  "created": "2026-06-24",
+  "description": "Painting a hidden picture on the fore-edge of a fanned-out text block in water-colour, then gilding over it so the image appears only when the leaves are splayed. The paper must be cut very solid and sized if absorbent, and kept free of grease so the gold adheres.",
+  "emitter": "opg://commons-seed",
+  "id": "fore-edge-painting-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "fore-edge painting",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "fore-edge painting"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "decoration-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:49b43c8cab97dae5db786b5f3523524e96139ff994a000f88542a05bb33d53c6",
+        "id": "edge-colour-seed",
+        "path": "primitives/materials/edge-colour.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "fore-edge-painting",
+  "tags": [
+    "bookbinding",
+    "decoration-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

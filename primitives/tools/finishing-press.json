@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:b79b15c308d4d28d578179bcadbf10ec47fbda86725e6cf32edb12467e46c18b",
+  "created": "2026-06-24",
+  "description": "An upright bench press that grips a volume by its boards and holds it steady and tilted while detailed handwork such as headbanding or tooling is carried out, leaving both hands free and the work well presented to the light.",
+  "emitter": "opg://commons-seed",
+  "id": "finishing-press-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "finishing press",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "finishing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "finishing press"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "finishing-equipment"
+  },
+  "slug": "finishing-press",
+  "tags": [
+    "bookbinding",
+    "finishing",
+    "finishing-equipment"
+  ],
+  "visibility": "commons"
+}

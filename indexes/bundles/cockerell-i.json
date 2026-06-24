@@ -1,0 +1,57 @@
+{
+  "content_hash": "sha256:6db21f21954a9e08407f9ba4e23e04ea43d1ecd981b08a770ab132d14b71e4db",
+  "description": {
+    "en": "Chapter I (Introduction) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+  },
+  "domain": "bookbinding",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "ia_item": "bookbindingcareo00cockrich",
+  "items": [
+    {
+      "hash": "sha256:ba762a61f0c473a535b4e9d36a00c417cee805100423bc1d2caa6c6cd5abe9a4",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "cover-leather"
+    },
+    {
+      "hash": "sha256:01d3e5832a6f4dd4013ee91d1460c50bf71e59d6cd213b3563e7c8665a28ae26",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "hollow-back"
+    },
+    {
+      "hash": "sha256:cc86fd1876367b7f41ecfe5c5254cf1c0ebbd88f890ca16151821e3ed415bf44",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "sawing-in"
+    },
+    {
+      "hash": "sha256:b49cf71def4d7d1e2d4186d9ad900ff945205519446fc719d4fa2a975661f6d9",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "sewing-on-tapes"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Cockerell, Chapter I: Introduction"
+  },
+  "record_class": "bundle",
+  "slug": "cockerell-i",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "bookbinding",
+    "part1",
+    "chapter"
+  ]
+}

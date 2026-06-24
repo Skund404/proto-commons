@@ -1,0 +1,65 @@
+{
+  "content_hash": "sha256:a63937971f0877e868db57814f3c01c4e98cb046c23c3297ecbc800451b08f61",
+  "created": "2026-06-24",
+  "description": "Forming the joint shoulder by clamping the rounded textblock between bevelled boards in the press and fanning the section folds outward from the centre with glancing hammer blows. This riveting action, not a crushing one, creates a groove for the board edges and locks the curve so the spine returns to shape after opening.",
+  "emitter": "opg://commons-seed",
+  "id": "backing-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "backing",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "backing"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:125070e4b693c17755074ea281c6ed1ee6bb9664cd648f4659e5d47bda5e011d",
+        "id": "backing-hammer-seed",
+        "path": "primitives/tools/backing-hammer.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:985d8a3ccaf2601c63189300e6af33b56a1def39a9f1ce8b97a855640c10d2b4",
+        "id": "backing-board-seed",
+        "path": "primitives/tools/backing-board.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+        "id": "lying-press-seed",
+        "path": "primitives/tools/lying-press.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "backing",
+  "tags": [
+    "bookbinding",
+    "forwarding-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

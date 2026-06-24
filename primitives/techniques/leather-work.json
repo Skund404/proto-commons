@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:a8278cdb451ee224a87fe64e8bac67e3db7ee78525973b70ab97a5fdb33c82ad",
+  "created": "2026-06-24",
+  "description": "A form of relief leather decoration extending blind tooling, in which the surface is cut to outline a pattern or the wet leather is embossed from behind. Cockerell warns that embossed work done off the book, or thick skins pared at the joint, weaken the binding, and favours shallow cut work confined to the boards.",
+  "emitter": "opg://commons-seed",
+  "id": "leather-work-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "leather work",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "leather work"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "decoration-technique"
+  },
+  "relationships": [],
+  "slug": "leather-work",
+  "tags": [
+    "bookbinding",
+    "decoration-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

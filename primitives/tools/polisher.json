@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:c7e56058ba8fef54bc399b0458ff59678749f1142ead85d538aad47a0336e40a",
+  "created": "2026-06-24",
+  "description": "A heated burnishing iron run warm over a cover to smooth irregularities, with forms shaped for backs, inside margins, or sides. It is kept moving so the leather is not scorched and its edges are filed smooth before use.",
+  "emitter": "opg://commons-seed",
+  "id": "polisher-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "polisher",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "finishing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "polisher"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "finishing-equipment"
+  },
+  "slug": "polisher",
+  "tags": [
+    "bookbinding",
+    "finishing",
+    "finishing-equipment"
+  ],
+  "visibility": "commons"
+}

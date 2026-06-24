@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:65d86011558ce47e26496489300954d2322bb92669d364bba43927be4f7c4eab",
+  "created": "2026-06-24",
+  "description": "A strip of very thin leather worked into the inner hinge to face the joint where board meets textblock. It adds little strength but gives a refined finish to the inside of the board, and must be pared down so the board still closes properly.",
+  "emitter": "opg://commons-seed",
+  "id": "leather-joint-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "leather joint",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "leather",
+    "names": {
+      "en": [
+        "leather joint",
+        "leather joints"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "covering-material",
+    "unit": "piece"
+  },
+  "slug": "leather-joint",
+  "tags": [
+    "bookbinding",
+    "leather",
+    "covering-material"
+  ],
+  "visibility": "commons"
+}

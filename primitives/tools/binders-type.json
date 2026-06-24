@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:d71d73298ab4b391eaad3626982f45eca3913cef0df9666d233153961596d29f",
+  "created": "2026-06-24",
+  "description": "Loose metal characters locked into a holder so that a whole line of lettering can be set and struck across a panel in one operation, much like a pallet. It trades the flexibility of single letters for regularity and speed, useful when many identical copies must be lettered.",
+  "emitter": "opg://commons-seed",
+  "id": "binders-type-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "type",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "finishing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "type",
+        "type-holder"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "finishing-equipment"
+  },
+  "slug": "binders-type",
+  "tags": [
+    "bookbinding",
+    "finishing",
+    "finishing-equipment"
+  ],
+  "visibility": "commons"
+}

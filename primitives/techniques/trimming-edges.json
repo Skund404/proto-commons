@@ -1,0 +1,66 @@
+{
+  "content_hash": "sha256:848643e9a80f48032136443c7ee545ad5dac35a59b58f3c9a1ca509e4e5f3756",
+  "created": "2026-06-24",
+  "description": "Cutting the leaves of the gathered sections to a chosen size while the book is still in sheets, done when the edges are to be gilt before sewing. The head is first squared against a try square, then the projecting fore and tail edges are pared to a guide board, with judgment used to leave the smaller pages as proof of an uncut book.",
+  "emitter": "opg://commons-seed",
+  "id": "trimming-edges-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "trimming edges",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "trimming edges",
+        "trimming before sewing"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "edge-decoration-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:6823f8ac9ef2e6d7df619eb16e4ace53b49f7a9ad4879c25f032628b985a8c59",
+        "id": "edge-trimming-jig-seed",
+        "path": "primitives/tools/edge-trimming-jig.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:216cc80aeb64f2435abaff5ae80afa59a9a6f2d8242df9d39c8c81b55161ccbb",
+        "id": "carpenter-square-seed",
+        "path": "primitives/tools/carpenter-square.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+        "id": "folder-seed",
+        "path": "primitives/tools/folder.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "trimming-edges",
+  "tags": [
+    "bookbinding",
+    "edge-decoration-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

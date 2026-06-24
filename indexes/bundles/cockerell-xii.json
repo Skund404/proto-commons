@@ -1,0 +1,169 @@
+{
+  "content_hash": "sha256:894c72d14ed586f6772773a0eedf3acc46bc58486ec51dc92d4997b557a7daa8",
+  "description": {
+    "en": "Chapter XII (Preparing for Covering Paring Leather Cov ering Mitring Coiners Filling in Boards) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+  },
+  "domain": "bookbinding",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "ia_item": "bookbindingcareo00cockrich",
+  "items": [
+    {
+      "hash": "sha256:e309b2dda59042c5768ed3790140647a86b0270460f986b8e8a390212cfc6aee",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "band-nippers"
+    },
+    {
+      "hash": "sha256:94ea313213507ad9b8a986f419899187e31fb6309fad8fb80c24266eb954b988",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "band-stick"
+    },
+    {
+      "hash": "sha256:ba762a61f0c473a535b4e9d36a00c417cee805100423bc1d2caa6c6cd5abe9a4",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "cover-leather"
+    },
+    {
+      "hash": "sha256:1ec670893beee5f09b9f81ff6b76182f2923f9573cefa1b4c8dafd702e9f1ffa",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "covering"
+    },
+    {
+      "hash": "sha256:a6db066d6bcb2bb8644e372eee8c3a1a3f1cbdb8ecbd70b2159b4d02f4a62bc0",
+      "kind": "workflow",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "covering-in-leather"
+    },
+    {
+      "hash": "sha256:e3405889c8d87eae8c829854ec9352f6fd430d0b2a52e92010b2e744e00b2cb5",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "filling-in-boards"
+    },
+    {
+      "hash": "sha256:2b43884c9c577c84920292e767599ca1facfb841cb8e2a1ab85a70e12de77098",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "filling-in-paper"
+    },
+    {
+      "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "folder"
+    },
+    {
+      "hash": "sha256:65d86011558ce47e26496489300954d2322bb92669d364bba43927be4f7c4eab",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "leather-joint"
+    },
+    {
+      "hash": "sha256:cbabfafb2e56f6c7371c762fc5977336c7593e85477375f825917c900cbd8f86",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "lining-up"
+    },
+    {
+      "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "lying-press"
+    },
+    {
+      "hash": "sha256:e03f83084fa05883d2e13116b3b9cbfda729abd9e4cffa1ba00f59f5e5d34c3a",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "mitring-corners"
+    },
+    {
+      "hash": "sha256:a89d0fafe3de37d7908b90429dce567b1b617a470c419cf60d739063c25e3c95",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "lining-paper-spine"
+    },
+    {
+      "hash": "sha256:12e7abb1a23eca13fd5236132fac99fd0ddcf5e351ba678c6a90659db7eec920",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "leather-paring-knife"
+    },
+    {
+      "hash": "sha256:ffd7b52904345dbf50579523cc39128033aa86b739f62e175fad59095017ee5a",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "paring-leather"
+    },
+    {
+      "hash": "sha256:b7b80737647c29ee62202d2041eed0764594018f0835a4b3c1574a03eeec90f6",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "paring-stone"
+    },
+    {
+      "hash": "sha256:4459e7925d2910c42d8894b780238ad92f2ea218f08dd49e90a294bd2b744d2b",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "setting-head-cap"
+    },
+    {
+      "hash": "sha256:f38c8c9d4cec3ccf7bffe7cb6afe4f8a7b2d697a43502b2e474574ecd7ac340c",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "setting-squares"
+    },
+    {
+      "hash": "sha256:cb6c88ef07219c9f215ee47caa6b911127848a19089e68bf071176132f622871",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "tying-up"
+    },
+    {
+      "hash": "sha256:3be39f6cda75cb82e64aed961651fda8b5b8fb699a0544f0cc85d3ca735df9f8",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "waterproof-sheet"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Cockerell, Chapter XII: Preparing for Covering Paring Leather Cov ering Mitring Coiners Filling in Boards"
+  },
+  "record_class": "bundle",
+  "slug": "cockerell-xii",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "bookbinding",
+    "part1",
+    "chapter"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "content_hash": "sha256:3a91edd907a7f07fd95b8967db87a53eb9abaa85b9507a7fdd004c2b0e6b7b4f",
+  "created": "2026-06-24",
+  "description": "Fixing a fragile thin sheet to a mount by pasting it face down on glass, wiping away surplus paste, then turning the glass over so the exact position can be seen through it before pressing the sheet down. Working through glass keeps the delicate paper from cockling or tearing.",
+  "emitter": "opg://commons-seed",
+  "id": "mounting-thin-paper-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "mounting very thin paper",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "mounting very thin paper"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "preparation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+        "id": "paste-seed",
+        "path": "primitives/materials/paste.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:1f9edeb2da3af3ba10236514c0cbf4d331945ef467545fde65996f8ec262d490",
+        "id": "blotting-paper-seed",
+        "path": "primitives/materials/blotting-paper.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "mounting-thin-paper",
+  "tags": [
+    "bookbinding",
+    "preparation-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

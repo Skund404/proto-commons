@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:985d8a3ccaf2601c63189300e6af33b56a1def39a9f1ce8b97a855640c10d2b4",
+  "created": "2026-06-24",
+  "description": "Paired wedge-edged boards clamped against each side of a textblock in the press during backing. Their bevelled edges sit a short way below the spine so the projecting sections can be hammered over them to form the shoulder.",
+  "emitter": "opg://commons-seed",
+  "id": "backing-board-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "backing boards",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "binding",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "backing boards"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-equipment"
+  },
+  "slug": "backing-board",
+  "tags": [
+    "bookbinding",
+    "binding",
+    "forwarding-equipment"
+  ],
+  "visibility": "commons"
+}

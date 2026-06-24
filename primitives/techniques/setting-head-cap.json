@@ -1,0 +1,49 @@
+{
+  "content_hash": "sha256:4459e7925d2910c42d8894b780238ad92f2ea218f08dd49e90a294bd2b744d2b",
+  "created": "2026-06-24",
+  "description": "Shaping the small projection of leather at the head and tail of the spine into a neat cap over the headband. The leather is squeezed, pulled out a little, then tapped and rubbed into form; though it carries no structural load it is one of the marks of fine forwarding.",
+  "emitter": "opg://commons-seed",
+  "id": "setting-head-cap-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "setting the head-cap",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "setting the head-cap"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "covering-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+        "id": "folder-seed",
+        "path": "primitives/tools/folder.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "setting-head-cap",
+  "tags": [
+    "bookbinding",
+    "covering-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

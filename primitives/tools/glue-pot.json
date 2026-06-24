@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:637ef675f81865397e0799a5b84dc6e51148628f022d0030338e873214240cfd",
+  "created": "2026-06-24",
+  "description": "A heated vessel in which soaked glue is simmered to a working fluid. It is scoured clean before fresh glue is added, and a stringy batch can be loosened by spinning the brush rapidly in the pot.",
+  "emitter": "opg://commons-seed",
+  "id": "glue-pot-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "glue-pot",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "binding",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "glue-pot"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-equipment"
+  },
+  "slug": "glue-pot",
+  "tags": [
+    "bookbinding",
+    "binding",
+    "forwarding-equipment"
+  ],
+  "visibility": "commons"
+}

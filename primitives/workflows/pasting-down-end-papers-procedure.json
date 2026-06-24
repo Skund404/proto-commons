@@ -1,0 +1,127 @@
+{
+  "content_hash": "sha256:0c371aaf6b2dcbf5a675deaf311c29e6dfb266694f78db8d0fffcfb3d438793e",
+  "created": "2026-06-24",
+  "description": "Full procedure for fixing both end leaves onto the boards of a finished volume so the inside covers are clean, flat, and drawn slightly inward as they dry.",
+  "emitter": "opg://commons-seed",
+  "id": "pasting-down-end-papers-procedure-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "pasting down end papers",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "advanced",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "pasting down end papers"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "steps": [
+      {
+        "description": "Open the board with the book on a block, tear away the waste sheets, clear the joints of dried adhesive, and flatten the boards.",
+        "position": 1
+      },
+      {
+        "description": "Stretch a paste-down leaf over the board, rub it into the joint, and with dividers mark from the board edge the amount to cut off so it fits the space left by the turn-in.",
+        "position": 2
+      },
+      {
+        "description": "Lay a protective tin in the book, fold the leaf over it, and trim to the marked points with knife and straight-edge, leaving small tabs to cover the joint ends.",
+        "position": 3
+      },
+      {
+        "description": "Coat one trimmed leaf with thin lump-free paste over a waste sheet, paste the joints, and rub the surplus in with the finger.",
+        "position": 4
+      },
+      {
+        "description": "Bring the pasted leaf onto the board, set the edges exactly, and rub it down through a protective sheet, taking special care to bed it in the joint.",
+        "position": 5
+      },
+      {
+        "description": "Turn the book without shutting the board, slip clean paper under the damp side, and lay down the second leaf the same way.",
+        "position": 6
+      },
+      {
+        "description": "Re-examine and rub down both joints, then stand the book on end with boards held open until the end papers are dry.",
+        "position": 7
+      }
+    ],
+    "taxonomy": "forwarding-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:645ad2599498d3909292a28d0560ffe01c5d84bcb9429efc18020d6a8b058186",
+        "id": "pasting-down-end-papers-seed",
+        "path": "primitives/techniques/pasting-down-end-papers.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:826b561a42531ce020f377c9c73448da3b80759c3d9b34953cd1c8b5b145c2e2",
+        "id": "dividers-seed",
+        "path": "primitives/tools/dividers.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:ebf4f9c589d3c427d5c79ad27a176b971fce600aeae889763c6a714253ee47ae",
+        "id": "cutting-tin-seed",
+        "path": "primitives/tools/cutting-tin.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:8ec445696dbad2c1e359fd23e9b8b41e85f38dd01cc02fc32b0ced9fa899e11a",
+        "id": "paring-knife-seed",
+        "path": "primitives/tools/paring-knife.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:4d99452f5c91ece8b538549ea4ba623ee0988db4b6d9cb792426a88661cfdfb2",
+        "id": "straight-edge-seed",
+        "path": "primitives/tools/straight-edge.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+        "id": "paste-seed",
+        "path": "primitives/materials/paste.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:6eb3ee82e0a4d97ff5a8df7ac17a75f26712deb6b6aec5d3905cd0ef048f3e58",
+        "id": "end-paper-seed",
+        "path": "primitives/materials/end-paper.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "pasting-down-end-papers-procedure",
+  "tags": [
+    "bookbinding",
+    "forwarding-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

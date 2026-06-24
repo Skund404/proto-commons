@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:c43ccc67e2964d5460fa511e671dbfc9ea8574e8ae7370b616bb595b358c6938",
+  "created": "2026-06-24",
+  "description": "Solid timber cover board, often clasped, used chiefly for heavy volumes and books written on vellum. Its rigidity acts as a constant press that keeps moisture-sensitive leaves flat and prevents them from cockling.",
+  "emitter": "opg://commons-seed",
+  "id": "wooden-board-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "wooden board",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "board",
+    "names": {
+      "en": [
+        "wooden board"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "board-material",
+    "unit": "piece"
+  },
+  "slug": "wooden-board",
+  "tags": [
+    "bookbinding",
+    "board",
+    "board-material"
+  ],
+  "visibility": "commons"
+}

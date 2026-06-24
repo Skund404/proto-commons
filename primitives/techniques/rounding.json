@@ -1,0 +1,49 @@
+{
+  "content_hash": "sha256:5b9f1764fa701a7a7e14c1d352189b0d39de8b04c5500c864b0650ec826cb8cf",
+  "created": "2026-06-24",
+  "description": "Tapping the glued spine with a hammer while drawing it over the edge of the press, working both sides so the back takes an even convex curve. The aim is to distribute the swelling from the sewing thread into a permanent rounded form, judged to the needs of the particular book.",
+  "emitter": "opg://commons-seed",
+  "id": "rounding-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "rounding",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "rounding"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:125070e4b693c17755074ea281c6ed1ee6bb9664cd648f4659e5d47bda5e011d",
+        "id": "backing-hammer-seed",
+        "path": "primitives/tools/backing-hammer.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "rounding",
+  "tags": [
+    "bookbinding",
+    "forwarding-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

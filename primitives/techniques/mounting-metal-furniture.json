@@ -1,0 +1,50 @@
+{
+  "content_hash": "sha256:dd5fdd6228793d6c000241f3c8308d8d0964bd24d102d90c5fdecf567d18a4ac",
+  "created": "2026-06-24",
+  "description": "Securing decorative and protective metalwork to a cover. Corners, shoes, and plaques are nailed to wooden boards over a leather back; Cockerell judges bindings whose metal is confined to the boards as the most successful, and prefers metal settings shown openly rather than jewels hidden beneath the leather.",
+  "emitter": "opg://commons-seed",
+  "id": "mounting-metal-furniture-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "mounting metal furniture",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "mounting metal furniture",
+        "fixing metal on bindings"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "decoration-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:85d75475af652267e92eca402fd9529f23833ce3e085d0e62f19969468f49a07",
+        "id": "metal-furniture-seed",
+        "path": "primitives/materials/metal-furniture.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "mounting-metal-furniture",
+  "tags": [
+    "bookbinding",
+    "decoration-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

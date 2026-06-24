@@ -1,0 +1,58 @@
+{
+  "content_hash": "sha256:ff47f015dd4abd9ce2bde238e366c0df58cbdca6aa5cc71bbda2c9018524b616",
+  "created": "2026-06-24",
+  "description": "Trimming the cord ends that project from a sewn book to a couple of inches and teasing the strands apart into a fan of loose fibres. The spread fibres later attach smoothly to the boards. Tape and vellum bands are simply cut to length instead.",
+  "emitter": "opg://commons-seed",
+  "id": "fraying-out-slips-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "fraying out slips",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "fraying out slips",
+        "fraying out"
+      ]
+    },
+    "skillLevel": "beginner",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:e430b13830b58db0f01b4fdf4bf7c33d5221ef7c352e1377e68d573346713f3e",
+        "id": "bodkin-seed",
+        "path": "primitives/tools/bodkin.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:aafe9c707dfb9be22048d560ce3e193f18a291491eb8ca690ed37e4899d7deb5",
+        "id": "sewing-cord-seed",
+        "path": "primitives/materials/sewing-cord.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "fraying-out-slips",
+  "tags": [
+    "bookbinding",
+    "forwarding-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

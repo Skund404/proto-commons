@@ -1,0 +1,66 @@
+{
+  "content_hash": "sha256:0637dda7a47010323ec935678131d9711313a904ab0ebfdb5418d8058637992f",
+  "created": "2026-06-24",
+  "description": "Mending a worn or frayed board corner on an existing binding. The damaged corner is glued and tapped firm and square with a hammer, allowed to dry hard, and then a small slip of matching new leather is worked in under the lifted old covering before the corner is re-covered. The aim is a sound corner that disappears into the original surface.",
+  "emitter": "opg://commons-seed",
+  "id": "corner-repair-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "corner repair",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "corner repair",
+        "repairing corners"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "conservation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:125070e4b693c17755074ea281c6ed1ee6bb9664cd648f4659e5d47bda5e011d",
+        "id": "backing-hammer-seed",
+        "path": "primitives/tools/backing-hammer.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:ba762a61f0c473a535b4e9d36a00c417cee805100423bc1d2caa6c6cd5abe9a4",
+        "id": "cover-leather-seed",
+        "path": "primitives/materials/cover-leather.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:199e25c7b9d8b7a49d1cf66e3c7477cafb10dac1c5d250c8566a942a952a0d43",
+        "id": "glue-seed",
+        "path": "primitives/materials/glue.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "corner-repair",
+  "tags": [
+    "bookbinding",
+    "conservation-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

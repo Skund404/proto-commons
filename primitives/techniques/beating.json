@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:1a3cbc241c2d49b8a42350bc23550118b68a985b7cc136d916d39500783f70f5",
+  "created": "2026-06-24",
+  "description": "An older method of consolidating a textblock by striking the gathered sections on a stone with a heavy hammer to make the leaves lie closely together. Cockerell records this as a custom now superseded by rolling and pressing.",
+  "emitter": "opg://commons-seed",
+  "id": "beating-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "beating",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "beating"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-technique"
+  },
+  "relationships": [],
+  "slug": "beating",
+  "tags": [
+    "bookbinding",
+    "forwarding-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:53ed8c675936f6ce423d2abe781a4e318e6f31a99bd73e44cb866e41d3f2698a",
+  "created": "2026-06-24",
+  "description": "Stock kept for repairs: scraps of old paper matched to a book in tone and texture, and very thin near-transparent Japanese paper used to bridge tears across printed areas. Where no matching tone exists, similar paper is stained to suit.",
+  "emitter": "opg://commons-seed",
+  "id": "mending-paper-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "mending paper",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "paper",
+    "names": {
+      "en": [
+        "mending paper",
+        "Japanese paper"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "paper-material",
+    "unit": "sheet"
+  },
+  "slug": "mending-paper",
+  "tags": [
+    "bookbinding",
+    "paper",
+    "paper-material"
+  ],
+  "visibility": "commons"
+}

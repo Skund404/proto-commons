@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:bdd64e0fa890fa5ab250fa5db3784838336a05a379ac0b01d30ef4e8b0702b9b",
+  "created": "2026-06-24",
+  "description": "A very tough fibrous paper, despite the name, prized for its strength. The thinnest grades serve to mend the backs of split sections, reinforce weak spots in a leaf, and repair vellum-bound volumes.",
+  "emitter": "opg://commons-seed",
+  "id": "japanese-vellum-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "Japanese vellum",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "paper",
+    "names": {
+      "en": [
+        "Japanese vellum",
+        "Japanese paper"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "paper-material",
+    "unit": "sheet"
+  },
+  "slug": "japanese-vellum",
+  "tags": [
+    "bookbinding",
+    "paper",
+    "paper-material"
+  ],
+  "visibility": "commons"
+}

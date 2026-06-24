@@ -1,0 +1,92 @@
+{
+  "content_hash": "sha256:d36d1642563178a2d801fbd6d7a70113074ec056c2b735e6a73b4a53349093dc",
+  "description": {
+    "en": "Chapter XI (Headbanding) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+  },
+  "domain": "bookbinding",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "ia_item": "bookbindingcareo00cockrich",
+  "items": [
+    {
+      "hash": "sha256:b79b15c308d4d28d578179bcadbf10ec47fbda86725e6cf32edb12467e46c18b",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "finishing-press"
+    },
+    {
+      "hash": "sha256:2a8b50e5acbcb37d5327bb73ae3fbc37a1df8b3a4ff0c74f0a21966ff05e850a",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "headband"
+    },
+    {
+      "hash": "sha256:d2b10f51da051f28286a78864edd4ab4d7fbf95b59ac84662096acdd557df060",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "headband-core"
+    },
+    {
+      "hash": "sha256:54e248fae41073f7ffd2b90493f4fcec41e85de0fea73ec8d053c08229fdf0b3",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "headbanding"
+    },
+    {
+      "hash": "sha256:d70d89ade0ff44b4e62b34417fb72099126d84f0f6da2b4dc0434115a88e4172",
+      "kind": "workflow",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "headbanding-on-vellum"
+    },
+    {
+      "hash": "sha256:07bbd4bd2424b7215fda4afe1c0f6fc4309e75f032adf4791b67bb25c431280f",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "kettle-stitch"
+    },
+    {
+      "hash": "sha256:e943db54b8b4e3056885a6bee7784cb1a8f20f5259727b818a1b4224ebb5067a",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "sewing-needle"
+    },
+    {
+      "hash": "sha256:a71739bd0febd360366456075a991ea7bcc8d7d74ad5bd9ba38441e296d29edc",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "sewing-silk"
+    },
+    {
+      "hash": "sha256:56012a11d38931f732ac11eaf97ae553275feba5f862f33ef4fbd0a8897a72ae",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "vellum-slip"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Cockerell, Chapter XI: Headbanding"
+  },
+  "record_class": "bundle",
+  "slug": "cockerell-xi",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "bookbinding",
+    "part1",
+    "chapter"
+  ]
+}

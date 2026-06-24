@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:468782b698d5dca512836eade44db7319f9c19ded0bfc8f16687e87cf6970aa5",
+  "created": "2026-06-24",
+  "description": "An individual brass letter mounted on its own wooden handle, heated and pressed by hand to impress one character at a time. Working letters singly gives the finisher freedom to arrange spacing and line breaks, at the cost of speed.",
+  "emitter": "opg://commons-seed",
+  "id": "handle-letter-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "handle letter",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "finishing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "handle letter",
+        "handle letters"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "finishing-equipment"
+  },
+  "slug": "handle-letter",
+  "tags": [
+    "bookbinding",
+    "finishing",
+    "finishing-equipment"
+  ],
+  "visibility": "commons"
+}

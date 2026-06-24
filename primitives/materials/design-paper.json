@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:0bf99959a8b0add521455ee4b738c2ab5057d86fec267cc1c65eb1b1fd1678ad",
+  "created": "2026-06-24",
+  "description": "Thin white paper used to draft and lay out a tooling design at the size of the cover. Construction lines are creased into it by folding, motifs are pencilled or transferred by rubbing, and the finished layout guides where tools are impressed on the leather.",
+  "emitter": "opg://commons-seed",
+  "id": "design-paper-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "design paper",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "paper",
+    "names": {
+      "en": [
+        "design paper"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "paper-material",
+    "unit": "sheet"
+  },
+  "slug": "design-paper",
+  "tags": [
+    "bookbinding",
+    "paper",
+    "paper-material"
+  ],
+  "visibility": "commons"
+}

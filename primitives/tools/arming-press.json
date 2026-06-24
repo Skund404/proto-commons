@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:94225d6d0793ab46924a533669f44d396d8005949e51d1fd5b71d303a109772d",
+  "created": "2026-06-24",
+  "description": "A heated platen press used to strike engraved blocks onto covers. The block is glued to a movable plate fixed in a heating box, and an adjustable bed lets the finisher land the impression in the same spot across books of differing sizes.",
+  "emitter": "opg://commons-seed",
+  "id": "arming-press-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "arming press",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "finishing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "arming press",
+        "blocking press"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "finishing-equipment"
+  },
+  "slug": "arming-press",
+  "tags": [
+    "bookbinding",
+    "finishing",
+    "finishing-equipment"
+  ],
+  "visibility": "commons"
+}

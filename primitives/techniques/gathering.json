@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:6274d4bf780d8fd72ba138cb079a8bf6f0fc52f595ec35d1c2e225b02f3ce5fb",
+  "created": "2026-06-24",
+  "description": "Assembling a complete copy by drawing one sheet from each stack of repeated signatures in order, so the binder receives all sections of the book.",
+  "emitter": "opg://commons-seed",
+  "id": "gathering-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "gathering",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "gathering"
+      ]
+    },
+    "skillLevel": "beginner",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "preparation-technique"
+  },
+  "relationships": [],
+  "slug": "gathering",
+  "tags": [
+    "bookbinding",
+    "preparation-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

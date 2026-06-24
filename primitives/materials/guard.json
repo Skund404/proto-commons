@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:707c70bd01d1f001740926bbb3b8dbb8d532e86db2bc60839f2aceca05416aee",
+  "created": "2026-06-24",
+  "description": "A narrow strip of paper or thin cloth pasted along the back fold to reinforce single leaves, plates, or weak two-leaf sections so they survive sewing.",
+  "emitter": "opg://commons-seed",
+  "id": "guard-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "guard",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "paper",
+    "names": {
+      "en": [
+        "guard"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "paper-material",
+    "unit": "piece"
+  },
+  "slug": "guard",
+  "tags": [
+    "bookbinding",
+    "paper",
+    "paper-material"
+  ],
+  "visibility": "commons"
+}

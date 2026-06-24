@@ -1,0 +1,58 @@
+{
+  "content_hash": "sha256:9fa4ed92b4f11e0407b7c669134c0a0c768e72d04fef18ee4d16f7b55446fae5",
+  "created": "2026-06-24",
+  "description": "Covering a volume in vellum, either limp and held only by laced slips or pasted over boards. The skin is marked out, cut at the corners, lined with paper to control its movement, and worked while damp before the corners are mitred.",
+  "emitter": "opg://commons-seed",
+  "id": "vellum-covering-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "vellum binding",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "vellum binding",
+        "covering with vellum"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "covering-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:4ab7df86b5a08ecbe4964b9ee0e65d6f589a751ce056a70394e88a0d25e1a415",
+        "id": "vellum-seed",
+        "path": "primitives/materials/vellum.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:44ffbf946b678f777bb8926c2aedc34461386ed4b24ead4d821994224f33818e",
+        "id": "silk-ribbon-seed",
+        "path": "primitives/materials/silk-ribbon.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "vellum-covering",
+  "tags": [
+    "bookbinding",
+    "covering-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

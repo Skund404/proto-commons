@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:ec935fa8c7fcd2caf9ee6e4e4dadaeb4387668cc8ffcd35d06d71bb4c6429fc4",
+  "created": "2026-06-24",
+  "description": "A short segment of a roll or fillet mounted in a handle, used mainly to run lines or small ornaments across the back of a book.",
+  "emitter": "opg://commons-seed",
+  "id": "pallet-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "pallet",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "finishing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "pallet"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "finishing-equipment"
+  },
+  "slug": "pallet",
+  "tags": [
+    "bookbinding",
+    "finishing",
+    "finishing-equipment"
+  ],
+  "visibility": "commons"
+}

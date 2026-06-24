@@ -1,0 +1,120 @@
+{
+  "content_hash": "sha256:b2f8a9a32cfe642f239a94ca8f0b4c26531130a315310daa79f31296c47e9882",
+  "description": {
+    "en": "Chapter IV (Sizing Washing Mending) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+  },
+  "domain": "bookbinding",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "ia_item": "bookbindingcareo00cockrich",
+  "items": [
+    {
+      "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "folder"
+    },
+    {
+      "hash": "sha256:f0be46b427eacd6bbcc5741945c5f92eafb7abbad196c8c7b60908028c55aa9a",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "gelatine-size"
+    },
+    {
+      "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "lying-press"
+    },
+    {
+      "hash": "sha256:7cf97840bae356ee4f6a1bae0cc5e65703ae96b6956d3270c79b46a1acdc5b5f",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "mending"
+    },
+    {
+      "hash": "sha256:53ed8c675936f6ce423d2abe781a4e318e6f31a99bd73e44cb866e41d3f2698a",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "mending-paper"
+    },
+    {
+      "hash": "sha256:85bcb61696a665d0aab4368308397ba54b2ac77e42be09cdb0fc86e9dd416e64",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "mending-vellum"
+    },
+    {
+      "hash": "sha256:e60761c375f79f2843aa82daa8e023ff18d11e8e6260a3dec70d9246d66ce31c",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "paper-cleaning-agent"
+    },
+    {
+      "hash": "sha256:8ec445696dbad2c1e359fd23e9b8b41e85f38dd01cc02fc32b0ced9fa899e11a",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "paring-knife"
+    },
+    {
+      "hash": "sha256:6666fdc9d501e772fac19c7321844a62e62a873440e5304425b43cc1af307f87",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "mending-paste"
+    },
+    {
+      "hash": "sha256:a71739bd0febd360366456075a991ea7bcc8d7d74ad5bd9ba38441e296d29edc",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "sewing-silk"
+    },
+    {
+      "hash": "sha256:3716157ad61fae1b0759ca4922aeb562e625b991ef302a25088b9d5a3123174c",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "sizing"
+    },
+    {
+      "hash": "sha256:fa42311b8586e60386d70ffc9ec9e270293c79df57ff84c2e544230b3be9d6d1",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "soft-brush"
+    },
+    {
+      "hash": "sha256:48c0edd5af601fdd348c4e97838bf30c4ce7df9a5bd09c18a07366bdec86ea42",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "washing"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Cockerell, Chapter IV: Sizing Washing Mending"
+  },
+  "record_class": "bundle",
+  "slug": "cockerell-iv",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "bookbinding",
+    "part1",
+    "chapter"
+  ]
+}

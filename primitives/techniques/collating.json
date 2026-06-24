@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:1b86ae1c4117c444bb1d767dceefc2cfaf7e7191021488c323657306f19c5e64",
+  "created": "2026-06-24",
+  "description": "Checking that every leaf and plate is present and in correct order by fanning the pages and reading the pagination and signatures, pencilling page numbers into unpaged copies before they are taken apart.",
+  "emitter": "opg://commons-seed",
+  "id": "collating-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "collating",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "collating"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "preparation-technique"
+  },
+  "relationships": [],
+  "slug": "collating",
+  "tags": [
+    "bookbinding",
+    "preparation-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

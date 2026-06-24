@@ -1,0 +1,64 @@
+{
+  "content_hash": "sha256:f55981947750941a349849220b6b64ce7b1b24c5b741e61c81bb0a3d17cc4e76",
+  "description": {
+    "en": "Chapter XXI (Injurious Influences to which Books are Subjected) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+  },
+  "domain": "bookbinding",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "ia_item": "bookbindingcareo00cockrich",
+  "items": [
+    {
+      "hash": "sha256:7d5c1ccc3821ad1291265a1be32a43d9a3ddd62e0d2d61d02c8c0753404187f1",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "dusting"
+    },
+    {
+      "hash": "sha256:fd937e70aed5783972b6136ac5d7acbc2e14aa9ba3e716049a6e6a8d2682a057",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "feather-duster"
+    },
+    {
+      "hash": "sha256:05269bcaf6395d68800d012bdda89691fc79076a071058345ff922f7bcb9258a",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "insect-pest-control"
+    },
+    {
+      "hash": "sha256:99b60a2e4dcf1b6372ecb45b05df04f74110331e5de96399df8fd188246bca7f",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "insect-repellent"
+    },
+    {
+      "hash": "sha256:36f1825cd133d55ac1871fd709acf30d7152e7eda9fbc0a269a3626a756bc5a2",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "tinted-glass"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Cockerell, Chapter XXI: Injurious Influences to which Books are Subjected"
+  },
+  "record_class": "bundle",
+  "slug": "cockerell-xxi",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "bookbinding",
+    "part2",
+    "chapter"
+  ]
+}

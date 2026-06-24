@@ -1,0 +1,49 @@
+{
+  "content_hash": "sha256:cb6c88ef07219c9f215ee47caa6b911127848a19089e68bf071176132f622871",
+  "created": "2026-06-24",
+  "description": "Binding cord around a freshly covered book to hold the leather tight to the spine while it sets. On large work it secures the cover; the cord marks beside the bands can be rubbed out with a band stick if untied after a short time.",
+  "emitter": "opg://commons-seed",
+  "id": "tying-up-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "tying up",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "tying up"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "covering-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:94ea313213507ad9b8a986f419899187e31fb6309fad8fb80c24266eb954b988",
+        "id": "band-stick-seed",
+        "path": "primitives/tools/band-stick.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "tying-up",
+  "tags": [
+    "bookbinding",
+    "covering-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

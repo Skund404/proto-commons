@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "decoration-technique",
+  "names": {
+    "en": [
+      "decoration technique"
+    ]
+  },
+  "specializes": "bookbinding-technique"
+}

@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:50d459982aa5026fcb8e6765be7484b402598464322248d7d931a11461f5864b",
+  "created": "2026-06-24",
+  "description": "Machine for quickly squaring many boards at once. Cockerell notes its edge is less true than one cut by the plough, so it suits only cheaper work.",
+  "emitter": "opg://commons-seed",
+  "id": "board-machine-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "board machine",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "cutting",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "board machine"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-equipment"
+  },
+  "slug": "board-machine",
+  "tags": [
+    "bookbinding",
+    "cutting",
+    "forwarding-equipment"
+  ],
+  "visibility": "commons"
+}

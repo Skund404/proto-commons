@@ -1,0 +1,65 @@
+{
+  "content_hash": "sha256:dc929a2db8b9f0c09368248d999510ab92ee8d0beec0bd730df0f6fe970db3a5",
+  "created": "2026-06-24",
+  "description": "Correcting flawed gold tooling: impressions that fail to take solid are reglaired and retooled, doubled or burnt marks are softened with water and picked out, and badly burnt spots may be patched with new leather before working again.",
+  "emitter": "opg://commons-seed",
+  "id": "mending-tooling-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "mending tooling",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "mending tooling"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "conservation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:c393e2adf085eeb87583454dd8c2ddabe97fbd35b17cac38fbb4bb96d7173bbe",
+        "id": "glaire-seed",
+        "path": "primitives/materials/glaire.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:5a812805e9c759f02854675aed7e19c9655a2dd623a8409af342a02e627d16af",
+        "id": "gold-leaf-seed",
+        "path": "primitives/materials/gold-leaf.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:2ad6fc3cefcd5dbf27544a4824575bca3d24460f850a3c27c2809dfbebba40cc",
+        "id": "benzine-seed",
+        "path": "primitives/materials/benzine.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "mending-tooling",
+  "tags": [
+    "bookbinding",
+    "conservation-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

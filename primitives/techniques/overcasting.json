@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:5a0d7151c4bad59e53dfe6c6d923923825bee39edbf7722eb96ec7c211d5e472",
+  "created": "2026-06-24",
+  "description": "Over-sewing the back edges of loose single leaves grouped into sections so they hold together: Cockerell notes it makes a stiff back that cannot open freely, used only as a last resort.",
+  "emitter": "opg://commons-seed",
+  "id": "overcasting-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "overcasting",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "overcasting"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "sewing-technique"
+  },
+  "relationships": [],
+  "slug": "overcasting",
+  "tags": [
+    "bookbinding",
+    "sewing-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

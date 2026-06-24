@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:a87f4d408741826690f886671747035cb42a3b41d723ca8ba1bce669a4e525e6",
+  "created": "2026-06-24",
+  "description": "Smooth-grained hide of a young cow, traditionally common for covering. Cockerell records that modern vegetable-tanned calf had grown unreliable, often pared too thin and prone to becoming hard and brittle, and he advised against its use until tanning practice improved.",
+  "emitter": "opg://commons-seed",
+  "id": "calf-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "calf",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "leather",
+    "names": {
+      "en": [
+        "calf",
+        "calfskin"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "covering-material",
+    "unit": "piece"
+  },
+  "slug": "calf",
+  "tags": [
+    "bookbinding",
+    "leather",
+    "covering-material"
+  ],
+  "visibility": "commons"
+}

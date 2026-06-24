@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:2459d3a8c9486cd498dd85f548f0321cd51d0340cb6ea761f97d312902210c41",
+  "created": "2026-06-24",
+  "description": "Bench cutting tool that rides on runners along a press and carries an adjustable knife advanced by a screw. Drawn back and forth, it shaves a true square edge on boards and on the edges of a book.",
+  "emitter": "opg://commons-seed",
+  "id": "plough-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "plough",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "cutting",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "plough"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "edge-equipment"
+  },
+  "slug": "plough",
+  "tags": [
+    "bookbinding",
+    "cutting",
+    "edge-equipment"
+  ],
+  "visibility": "commons"
+}

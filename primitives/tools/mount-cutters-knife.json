@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:1987312410f3405c6cf62f03f73b52b3d32f2bed9e0be5e5b86c23a8071895b6",
+  "created": "2026-06-24",
+  "description": "A short rigid blade set in a handle, designed for slicing card and paper cleanly against a straight-edge. The shape lets the worker bear down on the guide while keeping a controlled, shallow cut.",
+  "emitter": "opg://commons-seed",
+  "id": "mount-cutters-knife-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "mount-cutter's knife",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "cutting",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "mount-cutter's knife"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-equipment"
+  },
+  "slug": "mount-cutters-knife",
+  "tags": [
+    "bookbinding",
+    "cutting",
+    "forwarding-equipment"
+  ],
+  "visibility": "commons"
+}

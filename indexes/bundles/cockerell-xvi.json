@@ -1,0 +1,78 @@
+{
+  "content_hash": "sha256:30587bcdd51467eb2c773b7a82aa1badd92747bee7e60f794049a483174ce982",
+  "description": {
+    "en": "Chapter XVI (Designing for Gold Tooled Decoration) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+  },
+  "domain": "bookbinding",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "ia_item": "bookbindingcareo00cockrich",
+  "items": [
+    {
+      "hash": "sha256:e073fb6e79534b344d1d6c18a9a5cc9c8524f1c78246a6b23cb10f480a9e41d0",
+      "kind": "workflow",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "building-a-diaper-pattern"
+    },
+    {
+      "hash": "sha256:4446cc722e29488d36da94cbab0bd5c6c0e1e2570cdd829a557548c34eb464ce",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "combining-tools"
+    },
+    {
+      "hash": "sha256:0bf99959a8b0add521455ee4b738c2ab5057d86fec267cc1c65eb1b1fd1678ad",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "design-paper"
+    },
+    {
+      "hash": "sha256:c48bdf414b0e85c8fabf4868652bd51e58a2ab9531f426676566bc79b467ffbb",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "designing-finishing-tools"
+    },
+    {
+      "hash": "sha256:7af84593c66dd62a5e837987f8c88f2407b04919e8bcce8bc97f416a6e23090a",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "fillet"
+    },
+    {
+      "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "folder"
+    },
+    {
+      "hash": "sha256:a7af2dcd470738bc5bf0dddc71c1b85ff17d57be08d9e1022f64c6451f94bcf0",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "gouge"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Cockerell, Chapter XVI: Designing for Gold Tooled Decoration"
+  },
+  "record_class": "bundle",
+  "slug": "cockerell-xvi",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "bookbinding",
+    "part1",
+    "chapter"
+  ]
+}

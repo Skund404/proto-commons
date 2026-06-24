@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:6fe26284e0a5ba509fb6bc9b3eef4090b08f4f4ac4d4503fcf682d0bbabcb21d",
+  "created": "2026-06-24",
+  "description": "Dense compressed board, the better grades pressed from old rope fibre, used as the stiff cover support of a bound book. Valued for hardness and resistance to bending or cracking at the corners, with thickness chosen to suit the size and weight of the volume.",
+  "emitter": "opg://commons-seed",
+  "id": "millboard-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "millboard",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "board",
+    "names": {
+      "en": [
+        "millboard",
+        "mill-board"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "board-material",
+    "unit": "piece"
+  },
+  "slug": "millboard",
+  "tags": [
+    "bookbinding",
+    "board",
+    "board-material"
+  ],
+  "visibility": "commons"
+}

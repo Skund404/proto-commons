@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:2cfefbc755210baf5f9571e7f34de1c77e7569eed27663d3a0ebb708b3c61253",
+  "created": "2026-06-24",
+  "description": "A metal stamp carrying an engraved or sunk device on its face, set in a wooden handle and heated for impressing patterns into a cover. Blind versions are cut like a seal so the recessed area prints the design, while gold versions print from the raised surface.",
+  "emitter": "opg://commons-seed",
+  "id": "finishing-tool-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "finishing tool",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "finishing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "finishing tool"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "finishing-equipment"
+  },
+  "slug": "finishing-tool",
+  "tags": [
+    "bookbinding",
+    "finishing",
+    "finishing-equipment"
+  ],
+  "visibility": "commons"
+}

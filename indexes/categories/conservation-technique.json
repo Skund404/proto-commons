@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "conservation-technique",
+  "names": {
+    "en": [
+      "conservation technique"
+    ]
+  },
+  "specializes": "bookbinding-technique"
+}

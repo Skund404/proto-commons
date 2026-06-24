@@ -1,0 +1,57 @@
+{
+  "content_hash": "sha256:8b05c05ff8c0ef8fb6ab5ee18892ff8886899a17d8516deadabab3743f4cb5fa",
+  "created": "2026-06-24",
+  "description": "Restoring cockled vellum leaves to flatness by gently raising their humidity and drying them under light restraint. Leaves are interleaved with slightly damp blotting paper until soft, then pressed lightly with frequent paper changes until fully dry; Cockerell stresses that too much damp can ruin a manuscript and too little leaves it cockled.",
+  "emitter": "opg://commons-seed",
+  "id": "flattening-vellum-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "flattening vellum",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "flattening vellum"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "preparation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:4ab7df86b5a08ecbe4964b9ee0e65d6f589a751ce056a70394e88a0d25e1a415",
+        "id": "vellum-seed",
+        "path": "primitives/materials/vellum.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:1f9edeb2da3af3ba10236514c0cbf4d331945ef467545fde65996f8ec262d490",
+        "id": "blotting-paper-seed",
+        "path": "primitives/materials/blotting-paper.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "flattening-vellum",
+  "tags": [
+    "bookbinding",
+    "preparation-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

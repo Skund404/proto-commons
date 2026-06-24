@@ -1,0 +1,74 @@
+{
+  "content_hash": "sha256:3d33a4d527b07ecf2a8905e710e81f8a2f58999b6548b214c044b04be6ee6ae7",
+  "created": "2026-06-24",
+  "description": "Impressing a title in gold along the spine or side of a book, using either single handle letters for freedom of arrangement or set type for regularity. Cockerell stresses that the lettering must remain clearly legible and should comfortably fill its panel.",
+  "emitter": "opg://commons-seed",
+  "id": "lettering-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "lettering",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "lettering",
+        "lettering on the back"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "decoration-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:468782b698d5dca512836eade44db7319f9c19ded0bfc8f16687e87cf6970aa5",
+        "id": "handle-letter-seed",
+        "path": "primitives/tools/handle-letter.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:d71d73298ab4b391eaad3626982f45eca3913cef0df9666d233153961596d29f",
+        "id": "binders-type-seed",
+        "path": "primitives/tools/binders-type.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:5a812805e9c759f02854675aed7e19c9655a2dd623a8409af342a02e627d16af",
+        "id": "gold-leaf-seed",
+        "path": "primitives/materials/gold-leaf.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:c393e2adf085eeb87583454dd8c2ddabe97fbd35b17cac38fbb4bb96d7173bbe",
+        "id": "glaire-seed",
+        "path": "primitives/materials/glaire.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "lettering",
+  "tags": [
+    "bookbinding",
+    "decoration-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

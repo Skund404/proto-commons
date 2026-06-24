@@ -1,0 +1,57 @@
+{
+  "content_hash": "sha256:297e25a1d7e02d65106e817ba79b11a45f7e8bec6c0b08f14386d0cbe6bed64e",
+  "created": "2026-06-24",
+  "description": "Separating a printed sheet into two thin layers so each face can be used independently. Both sides are pasted and faced with cloth, nipped in a press to bond, dried, then peeled apart; the cloth and its attached layer are soaked off in warm water.",
+  "emitter": "opg://commons-seed",
+  "id": "splitting-paper-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "splitting paper",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "splitting paper"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "preparation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:7143b4533a62b964918d79d9f1e90ce2e08b748b99a0934da646afcbf4576189",
+        "id": "mounting-linen-seed",
+        "path": "primitives/materials/mounting-linen.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+        "id": "paste-seed",
+        "path": "primitives/materials/paste.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "splitting-paper",
+  "tags": [
+    "bookbinding",
+    "preparation-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

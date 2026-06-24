@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generated_at": "2026-06-24T00:00:00Z",
-  "count": 440,
+  "count": 645,
   "shards": null,
   "records": [
     {
@@ -229,6 +229,78 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "arming-press",
+      "kind": "tool",
+      "name": "arming press",
+      "domain": "bookbinding",
+      "taxonomy": "finishing-equipment",
+      "tags": [
+        "bookbinding",
+        "finishing",
+        "finishing-equipment"
+      ],
+      "descSnippet": "A heated platen press used to strike engraved blocks onto covers. The block is glued to a movable plate fixed in a heating box, and an adjustable bed lets the finisher land the impression in the same…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:94225d6d0793ab46924a533669f44d396d8005949e51d1fd5b71d303a109772d",
+      "path": "primitives/tools/arming-press.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "arms-block",
+      "kind": "tool",
+      "name": "arms block",
+      "domain": "bookbinding",
+      "taxonomy": "finishing-equipment",
+      "tags": [
+        "bookbinding",
+        "finishing",
+        "finishing-equipment"
+      ],
+      "descSnippet": "An engraved metal plate cut with a coat of arms or device, struck under heat and pressure to stamp the whole image at once. Because the gold lies in a single plane it reads as a flat solid figure…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:acd5daa7195c5a80f775bf55f5fb1c5c988b3caedbcf48cbd64cfc5500e0f9fa",
+      "path": "primitives/tools/arms-block.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "arms-blocking",
+      "kind": "technique",
+      "name": "arms blocking",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-technique",
+      "tags": [
+        "bookbinding",
+        "decoration-technique",
+        "advanced"
+      ],
+      "descSnippet": "Stamping an owner's coat of arms onto a cover using an engraved metal block impressed under heat in a press. The heraldry is rendered simply in solid gold, set toward the upper centre of the side,…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:48b81fb9d1061be369c058bac1eca2bbaf2341410dc4374e2f3950958d250c54",
+      "path": "primitives/techniques/arms-blocking.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "art-paper",
+      "kind": "material",
+      "name": "art paper",
+      "domain": "bookbinding",
+      "taxonomy": "paper-material",
+      "tags": [
+        "bookbinding",
+        "paper",
+        "paper-material"
+      ],
+      "descSnippet": "A clay-loaded, glazed printing paper that takes fine halftone impressions but handles poorly: Cockerell records it as fragile, prone to flaking and staining, and unsuitable for books meant to last.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:c16f9df6e3d863a3685a88e708258dc52076ea2b408d17bb116cfeff7d72a680",
+      "path": "primitives/materials/art-paper.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "artichoke",
       "kind": "material",
       "name": "carciofo",
@@ -323,6 +395,60 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "backing",
+      "kind": "technique",
+      "name": "backing",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-technique",
+      "tags": [
+        "bookbinding",
+        "forwarding-technique",
+        "advanced"
+      ],
+      "descSnippet": "Forming the joint shoulder by clamping the rounded textblock between bevelled boards in the press and fanning the section folds outward from the centre with glancing hammer blows. This riveting…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:a63937971f0877e868db57814f3c01c4e98cb046c23c3297ecbc800451b08f61",
+      "path": "primitives/techniques/backing.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "backing-board",
+      "kind": "tool",
+      "name": "backing boards",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "binding",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "Paired wedge-edged boards clamped against each side of a textblock in the press during backing. Their bevelled edges sit a short way below the spine so the projecting sections can be hammered over…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:985d8a3ccaf2601c63189300e6af33b56a1def39a9f1ce8b97a855640c10d2b4",
+      "path": "primitives/tools/backing-board.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "backing-hammer",
+      "kind": "tool",
+      "name": "hammer",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "binding",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "A specialised hammer used to shape the back of a textblock by rounding it and fanning the sections outward to form the joint groove. A face of moderate size lets a glancing blow move the sections…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:125070e4b693c17755074ea281c6ed1ee6bb9664cd648f4659e5d47bda5e011d",
+      "path": "primitives/tools/backing-hammer.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "banana",
       "kind": "material",
       "name": "banana",
@@ -339,6 +465,42 @@
       "updated": "2026-05-31",
       "hash": "sha256:2e7f3165cde33248a01a163a2d1ee760ae3c7e33cbd5393e7075fdb73ca33948",
       "path": "primitives/materials/banana.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "band-nippers",
+      "kind": "tool",
+      "name": "band nippers",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "binding",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "Flat jawed pincers used to pinch the raised bands sharp and crisp through the cover. When pressing damp leather they are best nickel plated so the metal does not mark or stain the skin.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:e309b2dda59042c5768ed3790140647a86b0270460f986b8e8a390212cfc6aee",
+      "path": "primitives/tools/band-nippers.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "band-stick",
+      "kind": "tool",
+      "name": "band stick",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "binding",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "A strip of smooth hardwood, often boxwood, drawn along the cover between the bands to press the leather down firmly in the panels and to rub out cord marks left by tying up.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:94ea313213507ad9b8a986f419899187e31fb6309fad8fb80c24266eb954b988",
+      "path": "primitives/tools/band-stick.json",
       "lineageState": "unasserted"
     },
     {
@@ -416,6 +578,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "beating",
+      "kind": "technique",
+      "name": "beating",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-technique",
+      "tags": [
+        "bookbinding",
+        "forwarding-technique",
+        "intermediate"
+      ],
+      "descSnippet": "An older method of consolidating a textblock by striking the gathered sections on a stone with a heavy hammer to make the leaves lie closely together. Cockerell records this as a custom now…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:1a3cbc241c2d49b8a42350bc23550118b68a985b7cc136d916d39500783f70f5",
+      "path": "primitives/techniques/beating.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "beeswax",
       "kind": "material",
       "name": "beeswax",
@@ -472,6 +652,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "benzine",
+      "kind": "material",
+      "name": "benzine",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-material",
+      "tags": [
+        "bookbinding",
+        "solvent",
+        "decoration-material"
+      ],
+      "descSnippet": "A volatile solvent used to wash grease and loose gold from a finished cover, and as a brief tack medium for laying gold during patching.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:2ad6fc3cefcd5dbf27544a4824575bca3d24460f850a3c27c2809dfbebba40cc",
+      "path": "primitives/materials/benzine.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "bialetti-moka-express",
       "kind": "tool",
       "name": "Bialetti Moka Express",
@@ -488,6 +686,42 @@
       "updated": "2026-06-13",
       "hash": "sha256:ba642388ccae382d9dfdc753fe2e0e1b2634e28ff79f0806a8f40675b3b55315",
       "path": "primitives/tools/bialetti-moka-express.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "binders-type",
+      "kind": "tool",
+      "name": "type",
+      "domain": "bookbinding",
+      "taxonomy": "finishing-equipment",
+      "tags": [
+        "bookbinding",
+        "finishing",
+        "finishing-equipment"
+      ],
+      "descSnippet": "Loose metal characters locked into a holder so that a whole line of lettering can be set and struck across a panel in one operation, much like a pallet. It trades the flexibility of single letters…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:d71d73298ab4b391eaad3626982f45eca3913cef0df9666d233153961596d29f",
+      "path": "primitives/tools/binders-type.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "binding-tie",
+      "kind": "material",
+      "name": "tie",
+      "domain": "bookbinding",
+      "taxonomy": "covering-material",
+      "tags": [
+        "bookbinding",
+        "textile",
+        "covering-material"
+      ],
+      "descSnippet": "A short ribbon of silk or thin leather laced into both boards and knotted to keep a volume shut. Cockerell notes that such ties are awkward when the book is open and are seldom bothered with in…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:99146d9b89a0efa2791df846256e122205766af5ec4afa69a938bdc3f40d3df8",
+      "path": "primitives/materials/binding-tie.json",
       "lineageState": "unasserted"
     },
     {
@@ -526,6 +760,24 @@
       "updated": "2026-05-31",
       "hash": "sha256:8d5368bc7374635b1f112376df0ee27483f10ff3826f52df0e3fc29be1b74907",
       "path": "primitives/materials/blackcurrant.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "blacklead",
+      "kind": "material",
+      "name": "blacklead",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-material",
+      "tags": [
+        "bookbinding",
+        "colour",
+        "decoration-material"
+      ],
+      "descSnippet": "Graphite used in place of or mixed with red chalk as a ground for edge gilding. It darkens and smooths the edge so the gold polishes to a deep lustre; some gilders prefer it alone, others combine it…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:0dfa915652a0d8a1d2d8073b3314a53460bf702ed6362ef271d92127c0662daa",
+      "path": "primitives/materials/blacklead.json",
       "lineageState": "unasserted"
     },
     {
@@ -583,6 +835,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "blind-tooling",
+      "kind": "technique",
+      "name": "blind tooling",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-technique",
+      "tags": [
+        "bookbinding",
+        "decoration-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Impressing a pattern into a cover with heated tools alone, leaving no gold so the design reads as a recessed mark in the leather.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:33859e88d2137599aa3c66be8fa79651a78376f70478893116e2a5de17cabab1",
+      "path": "primitives/techniques/blind-tooling.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "blooming",
       "kind": "technique",
       "name": "blooming",
@@ -598,6 +868,24 @@
       "updated": "2026-06-13",
       "hash": "sha256:630765f64f1bd2a4ad1e13a335a0e2b15d6a6a33d47b85e8d3aeea7dde29e8b6",
       "path": "primitives/techniques/blooming.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "blotting-paper",
+      "kind": "material",
+      "name": "blotting-paper",
+      "domain": "bookbinding",
+      "taxonomy": "paper-material",
+      "tags": [
+        "bookbinding",
+        "paper",
+        "paper-material"
+      ],
+      "descSnippet": "Soft absorbent paper used to interleave damp work, draw off moisture, and protect a surface while rubbing down. It is changed repeatedly as drying progresses.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:1f9edeb2da3af3ba10236514c0cbf4d331945ef467545fde65996f8ec262d490",
+      "path": "primitives/materials/blotting-paper.json",
       "lineageState": "unasserted"
     },
     {
@@ -617,6 +905,42 @@
       "updated": "2026-05-31",
       "hash": "sha256:0f98f17a45747656b62b06f7e5e098f7af350e8a2895b9ae806f9f22b6b2efb2",
       "path": "primitives/materials/blueberry.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "board-machine",
+      "kind": "tool",
+      "name": "board machine",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "cutting",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "Machine for quickly squaring many boards at once. Cockerell notes its edge is less true than one cut by the plough, so it suits only cheaper work.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:50d459982aa5026fcb8e6765be7484b402598464322248d7d931a11461f5864b",
+      "path": "primitives/tools/board-machine.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "bodkin",
+      "kind": "tool",
+      "name": "binder's bodkin",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "binding",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "A slender pointed hand tool used to separate and tease apart the twisted strands of a cord so its fibres can be spread flat. It is pushed between strands and then through each strand to straighten…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:e430b13830b58db0f01b4fdf4bf7c33d5221ef7c352e1377e68d573346713f3e",
+      "path": "primitives/tools/bodkin.json",
       "lineageState": "unasserted"
     },
     {
@@ -931,6 +1255,42 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "building-a-diaper-pattern",
+      "kind": "workflow",
+      "name": "building a diaper pattern",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-technique",
+      "tags": [
+        "bookbinding",
+        "decoration-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Laying out and filling an all-over repeating ground pattern on paper before tooling. Construction lines are folded and marked into the paper to divide it into equal cells, then a few tools are…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:e073fb6e79534b344d1d6c18a9a5cc9c8524f1c78246a6b23cb10f480a9e41d0",
+      "path": "primitives/workflows/building-a-diaper-pattern.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "burnisher",
+      "kind": "tool",
+      "name": "burnisher",
+      "domain": "bookbinding",
+      "taxonomy": "edge-equipment",
+      "tags": [
+        "bookbinding",
+        "finishing",
+        "edge-equipment"
+      ],
+      "descSnippet": "A hard polished stone or steel tool drawn across a gilded edge to compress and brighten the gold to a mirror finish. The working face is ground smooth and free of sharp corners so it cannot scratch…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:88fae84e1d579e22086a15aaf4333c304c41ab1384fb49a2686f68a6540abe67",
+      "path": "primitives/tools/burnisher.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "butternut-squash",
       "kind": "material",
       "name": "zucca butternut",
@@ -1003,6 +1363,24 @@
       "updated": "2026-06-13",
       "hash": "sha256:f3c15beac5089e91d99e055d64d810c225bfdea6fc1f397bb282f379c8733441",
       "path": "primitives/materials/cafec-abaca-filter.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "calf",
+      "kind": "material",
+      "name": "calf",
+      "domain": "bookbinding",
+      "taxonomy": "covering-material",
+      "tags": [
+        "bookbinding",
+        "leather",
+        "covering-material"
+      ],
+      "descSnippet": "Smooth-grained hide of a young cow, traditionally common for covering. Cockerell records that modern vegetable-tanned calf had grown unreliable, often pared too thin and prone to becoming hard and…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:a87f4d408741826690f886671747035cb42a3b41d723ca8ba1bce669a4e525e6",
+      "path": "primitives/materials/calf.json",
       "lineageState": "unasserted"
     },
     {
@@ -1149,6 +1527,42 @@
       "updated": "2026-06-15",
       "hash": "sha256:2323baa27d096fb00d7033876d6909d4c2d57f8e4fca9f8229735ccdfcc1d5d5",
       "path": "primitives/tools/carter-head-still.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "castor-oil",
+      "kind": "material",
+      "name": "castor oil",
+      "domain": "bookbinding",
+      "taxonomy": "covering-material",
+      "tags": [
+        "bookbinding",
+        "oil",
+        "covering-material"
+      ],
+      "descSnippet": "A heavy non-drying vegetable oil used as the liquid base of a leather dressing. It carries the dissolved wax into the leather and supplies the lasting oily film that keeps an old binding supple…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:4581267e8235e2345b70f081beeb9967bbfe42101c743d3f927aa08025af5f36",
+      "path": "primitives/materials/castor-oil.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "catgut",
+      "kind": "material",
+      "name": "catgut",
+      "domain": "bookbinding",
+      "taxonomy": "sewing-material",
+      "tags": [
+        "bookbinding",
+        "cord",
+        "sewing-material"
+      ],
+      "descSnippet": "A strong cord of twisted animal gut used for a minimal bead-and-loop fastening: a bead is threaded on, the doubled ends are laced into one board, and a matching loop laced into the other catches over…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:e912037a50b70cf90b1206f8842179e5d2eb4f7a5d25b67414d1596426217c04",
+      "path": "primitives/materials/catgut.json",
       "lineageState": "unasserted"
     },
     {
@@ -1375,6 +1789,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "chrome-leather",
+      "kind": "material",
+      "name": "chrome leather",
+      "domain": "bookbinding",
+      "taxonomy": "covering-material",
+      "tags": [
+        "bookbinding",
+        "leather",
+        "covering-material"
+      ],
+      "descSnippet": "Hide tanned with chromium salts rather than vegetable agents. It is mechanically very strong and tolerant of heat but stays stiff and does not soften when wet, which makes it harder to pare and work.…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:3a44502949f9fbeaf13ae30fba843c30441e230f70df294abf22bcaad817377d",
+      "path": "primitives/materials/chrome-leather.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "chrome-tanned-leather",
       "kind": "material",
       "name": "chrome-tanned leather",
@@ -1424,6 +1856,24 @@
       "updated": "2026-06-15",
       "hash": "sha256:2e1da6897d1cd959781d744e2aeae4149f2da235972dd81c62074673e52ad754",
       "path": "primitives/materials/citrus-peel.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "cleaning-off",
+      "kind": "technique",
+      "name": "cleaning off the back",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-technique",
+      "tags": [
+        "bookbinding",
+        "forwarding-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Softening the old glue on the spine with paste and scraping away the surplus with a shaped piece of wood, so the back is clean before pressing. Done in the press for important work to keep the spine…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:030605e990d7d3b5aee4092632c758ee537845a298430dac2adad8084822cd1f",
+      "path": "primitives/techniques/cleaning-off.json",
       "lineageState": "unasserted"
     },
     {
@@ -1480,6 +1930,42 @@
       "updated": "2026-06-13",
       "hash": "sha256:c8a2da388b7107b217e61aa82a3c89fa33dd93446e6cee933e94cb925d1c115d",
       "path": "primitives/materials/cloth-filter.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "cloth-joint",
+      "kind": "material",
+      "name": "cloth joint",
+      "domain": "bookbinding",
+      "taxonomy": "covering-material",
+      "tags": [
+        "bookbinding",
+        "cloth",
+        "covering-material"
+      ],
+      "descSnippet": "A strip of linen or cloth set into the inner hinge in place of leather. Because it can be thinner while still holding, it gives a stronger joint than a leather one, though with a plainer appearance.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:ccb60343bc1a07579a24398aeae65f02a3fbe6d0e8777561b6f636dcc39a3ef2",
+      "path": "primitives/materials/cloth-joint.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "cocoanut-oil",
+      "kind": "material",
+      "name": "cocoanut oil",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-material",
+      "tags": [
+        "bookbinding",
+        "oil",
+        "decoration-material"
+      ],
+      "descSnippet": "A light grease wiped sparingly on cover and hand so cotton wool will pick up and release gold leaf. Cockerell found it stains leather less than other greases bookbinders use and washes out readily…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:8702c903d5dd194d066c639f4e64fd3ad16efc490925e8de77aa0ba3fa852d32",
+      "path": "primitives/materials/cocoanut-oil.json",
       "lineageState": "unasserted"
     },
     {
@@ -1573,6 +2059,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "collating",
+      "kind": "technique",
+      "name": "collating",
+      "domain": "bookbinding",
+      "taxonomy": "preparation-technique",
+      "tags": [
+        "bookbinding",
+        "preparation-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Checking that every leaf and plate is present and in correct order by fanning the pages and reading the pagination and signatures, pencilling page numbers into unpaged copies before they are taken…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:1b86ae1c4117c444bb1d767dceefc2cfaf7e7191021488c323657306f19c5e64",
+      "path": "primitives/techniques/collating.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "column-packing",
       "kind": "tool",
       "name": "column packing",
@@ -1607,6 +2111,42 @@
       "updated": "2026-06-13",
       "hash": "sha256:8d0adc297813b2b197a2b7ada53a63286579dbb6ccd794cd8339c3809f7081d7",
       "path": "primitives/tools/comandante-c40.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "combining-tools",
+      "kind": "technique",
+      "name": "combining tools to form patterns",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-technique",
+      "tags": [
+        "bookbinding",
+        "decoration-technique",
+        "advanced"
+      ],
+      "descSnippet": "Building a decorative scheme out of repeated impressions of a small stock of finishing tools rather than drawing a picture first and cutting tools to fit it. The maker develops a personal style by…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:4446cc722e29488d36da94cbab0bd5c6c0e1e2570cdd829a557548c34eb464ce",
+      "path": "primitives/techniques/combining-tools.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "compasses",
+      "kind": "tool",
+      "name": "compasses",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "marking",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "A pair of compasses used to step off or carry a fixed measurement, for example when setting the squares and judging how far a board should project beyond the leaves. The author lists it as a tool…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:2c12025e8796a3702adbb9a1b4040fc54608e5e111fa0f37dc8996dcd2ae9bb2",
+      "path": "primitives/tools/compasses.json",
       "lineageState": "unasserted"
     },
     {
@@ -1718,6 +2258,78 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "corner-repair",
+      "kind": "technique",
+      "name": "corner repair",
+      "domain": "bookbinding",
+      "taxonomy": "conservation-technique",
+      "tags": [
+        "bookbinding",
+        "conservation-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Mending a worn or frayed board corner on an existing binding. The damaged corner is glued and tapped firm and square with a hammer, allowed to dry hard, and then a small slip of matching new leather…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:0637dda7a47010323ec935678131d9711313a904ab0ebfdb5418d8058637992f",
+      "path": "primitives/techniques/corner-repair.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "cover-leather",
+      "kind": "material",
+      "name": "cover leather",
+      "domain": "bookbinding",
+      "taxonomy": "covering-material",
+      "tags": [
+        "bookbinding",
+        "leather",
+        "covering-material"
+      ],
+      "descSnippet": "Tanned animal hide used to cover a book. Quality varies widely by skin source, tanning agent, and finishing, and surface appearance alone is a poor guide to its strength or lasting power. Cockerell…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:ba762a61f0c473a535b4e9d36a00c417cee805100423bc1d2caa6c6cd5abe9a4",
+      "path": "primitives/materials/cover-leather.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "covering",
+      "kind": "technique",
+      "name": "covering",
+      "domain": "bookbinding",
+      "taxonomy": "covering-technique",
+      "tags": [
+        "bookbinding",
+        "covering-technique",
+        "advanced"
+      ],
+      "descSnippet": "Drawing the pasted leather over the back and boards and working it down everywhere so it adheres at every point. The skin is stretched lengthwise to seat the bands, the turn-ins folded over the…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:1ec670893beee5f09b9f81ff6b76182f2923f9573cefa1b4c8dafd702e9f1ffa",
+      "path": "primitives/techniques/covering.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "covering-in-leather",
+      "kind": "workflow",
+      "name": "covering a book in leather",
+      "domain": "bookbinding",
+      "taxonomy": "covering-technique",
+      "tags": [
+        "bookbinding",
+        "covering-technique",
+        "advanced"
+      ],
+      "descSnippet": "The full sequence of clothing a forwarded book in pared leather, from preparing the back through covering, shaping the caps and corners, and finishing the inside of the boards, leaving the volume…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:a6db066d6bcb2bb8644e372eee8c3a1a3f1cbdb8ecbd70b2159b4d02f4a62bc0",
+      "path": "primitives/workflows/covering-in-leather.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "cranberry",
       "kind": "material",
       "name": "mirtillo rosso",
@@ -1734,6 +2346,24 @@
       "updated": "2026-05-31",
       "hash": "sha256:bb1b7fc4852f278b7307b62c52aba8ad9baa9fb2d5560e4499b3fe47c84e5a16",
       "path": "primitives/materials/cranberry.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "crushing-grain",
+      "kind": "technique",
+      "name": "crushing the grain",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-technique",
+      "tags": [
+        "bookbinding",
+        "decoration-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Flattening the raised grain of leathers such as morocco or seal by damping a board and pressing it against a plate in the standing press, done when a cover is to carry much finishing.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:60b86070d17ec3b0072cc743488ae754ae16e130471882f14ab47f8f8b8bd127",
+      "path": "primitives/techniques/crushing-grain.json",
       "lineageState": "unasserted"
     },
     {
@@ -1808,6 +2438,78 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "cutting-and-attaching-boards",
+      "kind": "workflow",
+      "name": "cutting and attaching boards",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-technique",
+      "tags": [
+        "bookbinding",
+        "forwarding-technique",
+        "advanced"
+      ],
+      "descSnippet": "End-to-end procedure for fitting cover boards to a sewn book: cutting the boards square, lining them, marking and punching for the cords, lacing them in and hammering flat, then cleaning off the back…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:4432c1b602c7f5948696e39b3782ea8b16b5f96d4d429a78a038f8f8ed784284",
+      "path": "primitives/workflows/cutting-and-attaching-boards.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "cutting-board",
+      "kind": "tool",
+      "name": "cutting board",
+      "domain": "bookbinding",
+      "taxonomy": "edge-equipment",
+      "tags": [
+        "bookbinding",
+        "cutting",
+        "edge-equipment"
+      ],
+      "descSnippet": "A matched pair of stiff boards clamped one on each side of the leaves to guide and protect them during edge trimming, gilding, or colouring. One board is set to the line being cut and the other…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:e47eec32b4216cfe082eccb63500143dd5c458080ab3816a679fc504185480f5",
+      "path": "primitives/tools/cutting-board.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "cutting-boards",
+      "kind": "technique",
+      "name": "cutting boards",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-technique",
+      "tags": [
+        "bookbinding",
+        "forwarding-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Trimming cover boards to a clean square shape: rough-cutting to size, then finishing each edge true in the plough, smoothing the burr with a folder, and marking the remaining edges square with the…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:57ae8ed29245a085678cf9fd34aba63e88760a02695782cee619b90f875c8726",
+      "path": "primitives/techniques/cutting-boards.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "cutting-in-boards",
+      "kind": "technique",
+      "name": "cutting in boards",
+      "domain": "bookbinding",
+      "taxonomy": "edge-decoration-technique",
+      "tags": [
+        "bookbinding",
+        "edge-decoration-technique",
+        "advanced"
+      ],
+      "descSnippet": "Trimming the three edges of a book after its boards have been attached, ploughing each edge in turn while the boards are held in their bound position so the squares come out even. The head is cut…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:7a1bf76994081427fafc8bf77f04b76f11db81d9cfa618e56b50d17b1f1b8c69",
+      "path": "primitives/techniques/cutting-in-boards.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "cutting-mat",
       "kind": "tool",
       "name": "self-healing cutting mat",
@@ -1823,6 +2525,24 @@
       "updated": "2026-06-09",
       "hash": "sha256:25185de41b744aba1daf4d894c46522ef89bc548691585516e707264de09b306",
       "path": "primitives/tools/cutting-mat.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "cutting-tin",
+      "kind": "tool",
+      "name": "cutting tin",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "cutting",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "A thin protective metal plate laid between leaves of a book so a sheet folded over it can be trimmed with a knife without cutting or marking the pages beneath.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:ebf4f9c589d3c427d5c79ad27a176b971fce600aeae889763c6a714253ee47ae",
+      "path": "primitives/tools/cutting-tin.json",
       "lineageState": "unasserted"
     },
     {
@@ -1986,6 +2706,42 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "design-paper",
+      "kind": "material",
+      "name": "design paper",
+      "domain": "bookbinding",
+      "taxonomy": "paper-material",
+      "tags": [
+        "bookbinding",
+        "paper",
+        "paper-material"
+      ],
+      "descSnippet": "Thin white paper used to draft and lay out a tooling design at the size of the cover. Construction lines are creased into it by folding, motifs are pencilled or transferred by rubbing, and the…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:0bf99959a8b0add521455ee4b738c2ab5057d86fec267cc1c65eb1b1fd1678ad",
+      "path": "primitives/materials/design-paper.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "designing-finishing-tools",
+      "kind": "technique",
+      "name": "designing finishing tools",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-technique",
+      "tags": [
+        "bookbinding",
+        "decoration-technique",
+        "advanced"
+      ],
+      "descSnippet": "Drawing simple, conventionalised motifs in ink so a tool-cutter can engrave matching brass finishing tools. Because a single tool is impressed many times across a cover, forms are kept simple and…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:c48bdf414b0e85c8fabf4868652bd51e58a2ab9531f426676566bc79b467ffbb",
+      "path": "primitives/techniques/designing-finishing-tools.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "diamond-stitching-chisel",
       "kind": "tool",
       "name": "diamond stitching chisel",
@@ -2074,6 +2830,24 @@
       "updated": "2026-06-13",
       "hash": "sha256:ecd949e7c55a88e0417751d76b84da52eb7895738f65ee01f3c331be774eab42",
       "path": "primitives/tools/distribution-tool.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "dividers",
+      "kind": "tool",
+      "name": "dividers",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "marking",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "A two-legged measuring instrument set to a fixed span and used to step off equal distances, here to mark consistent margins across leaves before squaring them.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:826b561a42531ce020f377c9c73448da3b80759c3d9b34953cd1c8b5b145c2e2",
+      "path": "primitives/tools/dividers.json",
       "lineageState": "unasserted"
     },
     {
@@ -2168,6 +2942,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "dusting",
+      "kind": "technique",
+      "name": "dusting",
+      "domain": "bookbinding",
+      "taxonomy": "conservation-technique",
+      "tags": [
+        "bookbinding",
+        "conservation-technique",
+        "beginner"
+      ],
+      "descSnippet": "Routine removal of accumulated dust from shelved volumes as part of regular library upkeep. Each book is taken down, kept closed, inverted, and brushed off so loose particles fall clear instead of…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:7d5c1ccc3821ad1291265a1be32a43d9a3ddd62e0d2d61d02c8c0753404187f1",
+      "path": "primitives/techniques/dusting.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "edamame",
       "kind": "material",
       "name": "edamame",
@@ -2259,6 +3051,42 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "edge-colour",
+      "kind": "material",
+      "name": "edge colour",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-material",
+      "tags": [
+        "bookbinding",
+        "colour",
+        "decoration-material"
+      ],
+      "descSnippet": "A thin liquid stain or water-colour, sometimes mixed with size, applied to the trimmed edges of a book to tint them. It is laid on in successive light coats until the wanted depth of tone is reached.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:49b43c8cab97dae5db786b5f3523524e96139ff994a000f88542a05bb33d53c6",
+      "path": "primitives/materials/edge-colour.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "edge-colouring",
+      "kind": "technique",
+      "name": "edge colouring",
+      "domain": "bookbinding",
+      "taxonomy": "edge-decoration-technique",
+      "tags": [
+        "bookbinding",
+        "edge-decoration-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Tinting the trimmed edges of a book by sponging on thin coats of stain from the centre of each edge outward, then waxing and burnishing once dry. Working from the middle prevents a heavy deposit…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:7f4236143bf69825590da231422dd2e9ae27c16640d4a24e396130f8cd16cfcd",
+      "path": "primitives/techniques/edge-colouring.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "edge-creaser",
       "kind": "tool",
       "name": "edge creaser",
@@ -2313,6 +3141,42 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "edge-gilding",
+      "kind": "technique",
+      "name": "edge gilding",
+      "domain": "bookbinding",
+      "taxonomy": "edge-decoration-technique",
+      "tags": [
+        "bookbinding",
+        "edge-decoration-technique",
+        "advanced"
+      ],
+      "descSnippet": "Laying gold leaf onto the trimmed edges of a book held tight in the press. The edge is scraped smooth, optionally sized, grounded with chalk or blacklead, glaired, then covered with cut gold and left…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:988a6ab8a9f7203e04821d3d36765933b1b2c88c29a82e459f6e6de8cd32dfa5",
+      "path": "primitives/techniques/edge-gilding.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "edge-gilding-before-sewing",
+      "kind": "workflow",
+      "name": "edge gilding before sewing",
+      "domain": "bookbinding",
+      "taxonomy": "edge-decoration-technique",
+      "tags": [
+        "bookbinding",
+        "edge-decoration-technique",
+        "advanced"
+      ],
+      "descSnippet": "The full sequence for gilding the edges of a book in sheets, from trimming the leaves through scraping, grounding, glairing, laying gold, and burnishing each of the three edges.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:bcb576097d6f6bd5a1395e1e147c22a9d4216221f66aee8c622d38d2a822e519",
+      "path": "primitives/workflows/edge-gilding-before-sewing.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "edge-planer",
       "kind": "tool",
       "name": "edge planer",
@@ -2346,6 +3210,24 @@
       "updated": "2026-06-09",
       "hash": "sha256:da81dcc7f76135bf73334eba2e195441fbed05b9df990ed323583cfed795879c",
       "path": "primitives/tools/edge-slicker.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "edge-trimming-jig",
+      "kind": "tool",
+      "name": "trimming machine",
+      "domain": "bookbinding",
+      "taxonomy": "edge-equipment",
+      "tags": [
+        "bookbinding",
+        "cutting",
+        "edge-equipment"
+      ],
+      "descSnippet": "An adjustable bench fixture for cutting the projecting edges of several gathered sections to a uniform width before sewing. A guide board or straight edge is set to the desired leaf size and the…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:6823f8ac9ef2e6d7df619eb16e4ace53b49f7a9ad4879c25f032628b985a8c59",
+      "path": "primitives/tools/edge-trimming-jig.json",
       "lineageState": "unasserted"
     },
     {
@@ -2401,6 +3283,60 @@
       "updated": "2026-06-13",
       "hash": "sha256:d4a40160a416da5aa913b38b2dcd86cedb5d765b435b5c2da2c494ecc8509e28",
       "path": "primitives/tools/electric-grinder.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "embroidered-fabric",
+      "kind": "material",
+      "name": "embroidered material",
+      "domain": "bookbinding",
+      "taxonomy": "covering-material",
+      "tags": [
+        "bookbinding",
+        "fabric",
+        "covering-material"
+      ],
+      "descSnippet": "A decorated textile, often worked with raised metal stitches, applied as a book cover. Thicker velvets and woven cloths are glued down directly, while delicate fabrics are attached only at the…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:ca21e3a164daa2d98c488124834d2aa5a52b2c9a4861569faeabb045d07de54b",
+      "path": "primitives/materials/embroidered-fabric.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "embroidery-covering",
+      "kind": "technique",
+      "name": "covering with embroidery",
+      "domain": "bookbinding",
+      "taxonomy": "covering-technique",
+      "tags": [
+        "bookbinding",
+        "covering-technique",
+        "advanced"
+      ],
+      "descSnippet": "Covering a board-and-hollow-back volume in a worked textile. The fabric is glued to the spine first, then to each board in turn, with edges turned in and inside corners sewn; thin fabrics are…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:5e77b9fd3063c9faf2431d84a77075841e8b03aa3ff737e3b5b9332cb3c4bf8e",
+      "path": "primitives/techniques/embroidery-covering.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "end-paper",
+      "kind": "material",
+      "name": "end paper",
+      "domain": "bookbinding",
+      "taxonomy": "paper-material",
+      "tags": [
+        "bookbinding",
+        "paper",
+        "paper-material"
+      ],
+      "descSnippet": "Blank leaves added at the front and rear of a textblock to protect the body of the work and to anchor the boards. Treated as a structural part of the binding rather than mere flyleaves, the better…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:6eb3ee82e0a4d97ff5a8df7ac17a75f26712deb6b6aec5d3905cd0ef048f3e58",
+      "path": "primitives/materials/end-paper.json",
       "lineageState": "unasserted"
     },
     {
@@ -2602,6 +3538,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "feather-duster",
+      "kind": "tool",
+      "name": "feather duster",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "cleaning",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "A soft handheld brush of feathers used to flick dust from the exterior of a closed volume without abrading the covering. Its gentle action lifts surface grit while avoiding the friction that would…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:fd937e70aed5783972b6136ac5d7acbc2e14aa9ba3e716049a6e6a8d2682a057",
+      "path": "primitives/tools/feather-duster.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "fellow-ode-gen2",
       "kind": "tool",
       "name": "Fellow Ode Gen 2",
@@ -2733,6 +3687,60 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "fillet",
+      "kind": "tool",
+      "name": "fillet",
+      "domain": "bookbinding",
+      "taxonomy": "finishing-equipment",
+      "tags": [
+        "bookbinding",
+        "finishing",
+        "finishing-equipment"
+      ],
+      "descSnippet": "A wheel cut with one or more lines on its edge, mounted in a handle and run along the cover to impress straight lines. A notch filed in the rim lets lines meet cleanly at corners.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:7af84593c66dd62a5e837987f8c88f2407b04919e8bcce8bc97f416a6e23090a",
+      "path": "primitives/tools/fillet.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "filling-in-boards",
+      "kind": "technique",
+      "name": "filling in boards",
+      "domain": "bookbinding",
+      "taxonomy": "covering-technique",
+      "tags": [
+        "bookbinding",
+        "covering-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Levelling the inside of each board by pasting in a paper cut to match the recess left by the leather turn-ins. The piece is fitted just shy of the margins so the inner surface lies flush, and the…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:e3405889c8d87eae8c829854ec9352f6fd430d0b2a52e92010b2e744e00b2cb5",
+      "path": "primitives/techniques/filling-in-boards.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "filling-in-paper",
+      "kind": "material",
+      "name": "filling-in paper",
+      "domain": "bookbinding",
+      "taxonomy": "paper-material",
+      "tags": [
+        "bookbinding",
+        "paper",
+        "paper-material"
+      ],
+      "descSnippet": "A stiff paper cut to fill the recess left inside a board after the leather turn-ins, so the inner surface sits level. A grade as thick as the turn-in, such as engineer's cartridge, suits the purpose…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:2b43884c9c577c84920292e767599ca1facfb841cb8e2a1ab85a70e12de77098",
+      "path": "primitives/materials/filling-in-paper.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "filtered-water",
       "kind": "material",
       "name": "filtered water",
@@ -2766,6 +3774,96 @@
       "updated": "2026-06-09",
       "hash": "sha256:9c9e3b85957bd2426d9073fb0bd1c2146c14e9be2059fd49dc9aa4145356505a",
       "path": "primitives/workflows/finish-an-edge.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "finishing-press",
+      "kind": "tool",
+      "name": "finishing press",
+      "domain": "bookbinding",
+      "taxonomy": "finishing-equipment",
+      "tags": [
+        "bookbinding",
+        "finishing",
+        "finishing-equipment"
+      ],
+      "descSnippet": "An upright bench press that grips a volume by its boards and holds it steady and tilted while detailed handwork such as headbanding or tooling is carried out, leaving both hands free and the work…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:b79b15c308d4d28d578179bcadbf10ec47fbda86725e6cf32edb12467e46c18b",
+      "path": "primitives/tools/finishing-press.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "finishing-roll",
+      "kind": "tool",
+      "name": "roll",
+      "domain": "bookbinding",
+      "taxonomy": "finishing-equipment",
+      "tags": [
+        "bookbinding",
+        "finishing",
+        "finishing-equipment"
+      ],
+      "descSnippet": "A wheel engraved with a repeating pattern around its circumference, impressed onto leather by rolling it across the surface. Cockerell judges rolls a time-saver that costs the freedom of a built-up…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:5dc7f7aefd9527f7250b28e46a936eb9ad597aa32db17f3f2b4c10bd2afb308a",
+      "path": "primitives/tools/finishing-roll.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "finishing-stove",
+      "kind": "tool",
+      "name": "finishing stove",
+      "domain": "bookbinding",
+      "taxonomy": "finishing-equipment",
+      "tags": [
+        "bookbinding",
+        "finishing",
+        "finishing-equipment"
+      ],
+      "descSnippet": "A small stove on which finishing tools are kept hot and ready, so each can be taken up, cooled to working temperature, and struck in turn.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:94ffd6c73ff6b486bd30eca8bc334c48e5b8705e009d81d9f73cb6015949e5ec",
+      "path": "primitives/tools/finishing-stove.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "finishing-tool",
+      "kind": "tool",
+      "name": "finishing tool",
+      "domain": "bookbinding",
+      "taxonomy": "finishing-equipment",
+      "tags": [
+        "bookbinding",
+        "finishing",
+        "finishing-equipment"
+      ],
+      "descSnippet": "A metal stamp carrying an engraved or sunk device on its face, set in a wooden handle and heated for impressing patterns into a cover. Blind versions are cut like a seal so the recessed area prints…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:2cfefbc755210baf5f9571e7f34de1c77e7569eed27663d3a0ebb708b3c61253",
+      "path": "primitives/tools/finishing-tool.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "fitting-clasps",
+      "kind": "technique",
+      "name": "fitting clasps",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-technique",
+      "tags": [
+        "bookbinding",
+        "forwarding-technique",
+        "advanced"
+      ],
+      "descSnippet": "Anchoring a metal clasp into the covers of a book. The flattened catch is set between the layers of a double board and glued, or its turned end is passed through a wooden board and riveted on the…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:20df2ecb68d43ea5e1f321d60a0fd0c045f9ccde75c73f43e25409e01fcb6b9c",
+      "path": "primitives/techniques/fitting-clasps.json",
       "lineageState": "unasserted"
     },
     {
@@ -2824,6 +3922,42 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "flattening-hammer",
+      "kind": "tool",
+      "name": "flattening hammer",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "binding",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "A broad-faced binder's hammer used to strike sections squarely, here to drive old joints flat without cutting or bruising the paper. Its flat crushing blow contrasts with the small-faced glancing…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:076e4cb7c5afd6fd35260cb8be1280e3db83c7c896c819787adf62facfd79546",
+      "path": "primitives/tools/flattening-hammer.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "flattening-vellum",
+      "kind": "technique",
+      "name": "flattening vellum",
+      "domain": "bookbinding",
+      "taxonomy": "preparation-technique",
+      "tags": [
+        "bookbinding",
+        "preparation-technique",
+        "advanced"
+      ],
+      "descSnippet": "Restoring cockled vellum leaves to flatness by gently raising their humidity and drying them under light restraint. Leaves are interleaved with slightly damp blotting paper until soft, then pressed…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:8b05c05ff8c0ef8fb6ab5ee18892ff8886899a17d8516deadabab3743f4cb5fa",
+      "path": "primitives/techniques/flattening-vellum.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "flexible-sewing",
       "kind": "technique",
       "name": "flexible sewing",
@@ -2878,6 +4012,60 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "folder",
+      "kind": "tool",
+      "name": "folder",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "binding",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "A smooth flat hand implement, traditionally of bone, used to crease folds sharply, smooth paper, and tease sections apart without tearing the paper.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+      "path": "primitives/tools/folder.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "folding",
+      "kind": "technique",
+      "name": "folding",
+      "domain": "bookbinding",
+      "taxonomy": "preparation-technique",
+      "tags": [
+        "bookbinding",
+        "preparation-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Folding flat printed sheets into ordered sections, registering the headlines so each page falls over its neighbour and margins stay even, cutting each fold slightly past centre to avoid creasing at…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:1040f14d89032b4d66c2d2614852e5c769fb5991b9ea7495c291d299a84301ca",
+      "path": "primitives/techniques/folding.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "fore-edge-painting",
+      "kind": "technique",
+      "name": "fore-edge painting",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-technique",
+      "tags": [
+        "bookbinding",
+        "decoration-technique",
+        "advanced"
+      ],
+      "descSnippet": "Painting a hidden picture on the fore-edge of a fanned-out text block in water-colour, then gilding over it so the image appears only when the leaves are splayed. The paper must be cut very solid and…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:adf1738df1133dbc1459aff18ba1e347e7a637b93fa6c15eb5401506c209126d",
+      "path": "primitives/techniques/fore-edge-painting.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "fraction-collection",
       "kind": "technique",
       "name": "fraction collection",
@@ -2893,6 +4081,42 @@
       "updated": "2026-06-15",
       "hash": "sha256:55d4ff6f39563e8c7afc2c3811b6b127f7c467bc624615e8281872ec95496460",
       "path": "primitives/techniques/fraction-collection.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "fraying-out-slips",
+      "kind": "technique",
+      "name": "fraying out slips",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-technique",
+      "tags": [
+        "bookbinding",
+        "forwarding-technique",
+        "beginner"
+      ],
+      "descSnippet": "Trimming the cord ends that project from a sewn book to a couple of inches and teasing the strands apart into a fan of loose fibres. The spread fibres later attach smoothly to the boards. Tape and…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:ff47f015dd4abd9ce2bde238e366c0df58cbdca6aa5cc71bbda2c9018524b616",
+      "path": "primitives/techniques/fraying-out-slips.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "french-joint",
+      "kind": "technique",
+      "name": "French joint",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-technique",
+      "tags": [
+        "bookbinding",
+        "forwarding-technique",
+        "intermediate"
+      ],
+      "descSnippet": "A binding detail in which the board is set a small distance back from the spine, leaving an open groove at the hinge. The gap lets the cover flex freely and permits the use of heavier leather than a…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:155ed3053b3e6b4ea1b9ec363bebdefa47194e97162174311b5b2039358a5950",
+      "path": "primitives/techniques/french-joint.json",
       "lineageState": "unasserted"
     },
     {
@@ -3006,6 +4230,78 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "gathering",
+      "kind": "technique",
+      "name": "gathering",
+      "domain": "bookbinding",
+      "taxonomy": "preparation-technique",
+      "tags": [
+        "bookbinding",
+        "preparation-technique",
+        "beginner"
+      ],
+      "descSnippet": "Assembling a complete copy by drawing one sheet from each stack of repeated signatures in order, so the binder receives all sections of the book.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:6274d4bf780d8fd72ba138cb079a8bf6f0fc52f595ec35d1c2e225b02f3ce5fb",
+      "path": "primitives/techniques/gathering.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "gauffering",
+      "kind": "technique",
+      "name": "gauffering",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-technique",
+      "tags": [
+        "bookbinding",
+        "decoration-technique",
+        "advanced"
+      ],
+      "descSnippet": "Impressing a pattern into a gilt edge with heated finishing tools while the leaves are screwed tight in the press. A second colour of gold may be laid over the first and tooled through, leaving the…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:a4778a674b656ccea4039a1899b7306b4350feab8e44d0fe66b06a4a9d48acb2",
+      "path": "primitives/techniques/gauffering.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "gelatine-size",
+      "kind": "material",
+      "name": "gelatine size",
+      "domain": "bookbinding",
+      "taxonomy": "adhesive-material",
+      "tags": [
+        "bookbinding",
+        "size",
+        "adhesive-material"
+      ],
+      "descSnippet": "A clear sizing solution made by dissolving isinglass or good gelatine in water, used warm to re-strengthen weakened paper and to carry staining colour. Cockerell notes that quality matters: pure…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:f0be46b427eacd6bbcc5741945c5f92eafb7abbad196c8c7b60908028c55aa9a",
+      "path": "primitives/materials/gelatine-size.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "gilders-tip",
+      "kind": "tool",
+      "name": "gilder's tip",
+      "domain": "bookbinding",
+      "taxonomy": "edge-equipment",
+      "tags": [
+        "bookbinding",
+        "finishing",
+        "edge-equipment"
+      ],
+      "descSnippet": "A thin implement used to lift a cut leaf of gold from the cushion and lay it onto the edge. A flat brush of fine hair, a slightly greased paper, or a piece of fine net stretched on a small frame all…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:8efec98dd03e28bf590cd3bbe9ddbb27ee1daa3fe44a24279916777c76ca72fd",
+      "path": "primitives/tools/gilders-tip.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "gin-basket",
       "kind": "tool",
       "name": "gin basket",
@@ -3115,6 +4411,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "glaire",
+      "kind": "material",
+      "name": "glaire",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-material",
+      "tags": [
+        "bookbinding",
+        "size",
+        "decoration-material"
+      ],
+      "descSnippet": "A weak adhesive sizing made from beaten egg white thinned with water, left to settle and strained before use. Floated onto a prepared edge, it provides the tack that fixes gold leaf in place; one…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:c393e2adf085eeb87583454dd8c2ddabe97fbd35b17cac38fbb4bb96d7173bbe",
+      "path": "primitives/materials/glaire.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "glass-aging-vessel",
       "kind": "tool",
       "name": "glass aging vessel",
@@ -3133,6 +4447,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "glue",
+      "kind": "material",
+      "name": "glue",
+      "domain": "bookbinding",
+      "taxonomy": "adhesive-material",
+      "tags": [
+        "bookbinding",
+        "adhesive",
+        "adhesive-material"
+      ],
+      "descSnippet": "Hot animal glue, with hide glue rated the strongest and most economical for binding. It is broken up, soaked overnight, then gently simmered until fluid, and is best made in small batches since…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:199e25c7b9d8b7a49d1cf66e3c7477cafb10dac1c5d250c8566a942a952a0d43",
+      "path": "primitives/materials/glue.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "glue-and-stitch-a-lap-seam",
       "kind": "workflow",
       "name": "glue and stitch a lap seam",
@@ -3148,6 +4480,168 @@
       "updated": "2026-06-09",
       "hash": "sha256:78ccd0462b1021b9284e1143905ab8a01baf574257f12b11d28a88ec00908594",
       "path": "primitives/workflows/glue-and-stitch-a-lap-seam.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "glue-brush",
+      "kind": "tool",
+      "name": "glue brush",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "binding",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "A stiff round brush used to apply hot glue to a spine and work it down between the sections. Spinning it in the pot helps break up glue that has thickened so it spreads freely.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:e94fa7fa6389bd8f62975e71f95cb8354e9c2033f34d9eadde47814305b8c8b6",
+      "path": "primitives/tools/glue-brush.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "glue-pot",
+      "kind": "tool",
+      "name": "glue-pot",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "binding",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "A heated vessel in which soaked glue is simmered to a working fluid. It is scoured clean before fresh glue is added, and a stringy batch can be loosened by spinning the brush rapidly in the pot.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:637ef675f81865397e0799a5b84dc6e51148628f022d0030338e873214240cfd",
+      "path": "primitives/tools/glue-pot.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "glueing-up",
+      "kind": "technique",
+      "name": "glueing up",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-technique",
+      "tags": [
+        "bookbinding",
+        "forwarding-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Applying hot glue along the spine of a textblock held squarely in the press, working it well into every section and rubbing the back so the adhesive reaches the full length of each fold. The head…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:59b4e4a774da110e4f96d42a6bfc121378e461f0e9a5c9d2d951abde64bfa327",
+      "path": "primitives/techniques/glueing-up.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "goatskin",
+      "kind": "material",
+      "name": "goatskin",
+      "domain": "bookbinding",
+      "taxonomy": "covering-material",
+      "tags": [
+        "bookbinding",
+        "leather",
+        "covering-material"
+      ],
+      "descSnippet": "Goat hide, marketed as morocco, prized as a covering skin for fine work because of its firm grain and toughness. It appears under several regional trade names, and Cockerell singles out a West…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:062b93180181d7626bed0dd0345144a6e213dacd05613b9eda9672943aa8d9fd",
+      "path": "primitives/materials/goatskin.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "gold-cushion",
+      "kind": "tool",
+      "name": "gold cushion",
+      "domain": "bookbinding",
+      "taxonomy": "edge-equipment",
+      "tags": [
+        "bookbinding",
+        "finishing",
+        "edge-equipment"
+      ],
+      "descSnippet": "A flat padded board on which leaves of gold are laid out, breathed flat, and cut to size. It is dusted with a little powdered abrasive so the gold cuts cleanly and must stay grease-free.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:20bb081ea16bc86b1014538438b546f9226d6fd07dc055218fba0171149a7649",
+      "path": "primitives/tools/gold-cushion.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "gold-finishing",
+      "kind": "workflow",
+      "name": "gold finishing",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-technique",
+      "tags": [
+        "bookbinding",
+        "decoration-technique",
+        "advanced"
+      ],
+      "descSnippet": "The full sequence for tooling a leather cover in gold, from preparing the surface through laying the gold, striking the pattern, cleaning off, and varnishing the finished binding.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:ecea7b1a8b8c41ac7acb09809840814aba9a387fbf22634050e915dcdf35462d",
+      "path": "primitives/workflows/gold-finishing.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "gold-knife",
+      "kind": "tool",
+      "name": "gold knife",
+      "domain": "bookbinding",
+      "taxonomy": "edge-equipment",
+      "tags": [
+        "bookbinding",
+        "finishing",
+        "edge-equipment"
+      ],
+      "descSnippet": "A long straight blade used to lift, flatten, and cut leaves of gold on the cushion. It is kept free of grease, never touched on the blade by hand, and rubbed on the cushion before cutting.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:658759ce1e9bb393b73aef819e709ea49777799a8b7c8137756d7e66bdfb6a02",
+      "path": "primitives/tools/gold-knife.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "gold-leaf",
+      "kind": "material",
+      "name": "gold leaf",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-material",
+      "tags": [
+        "bookbinding",
+        "gold",
+        "decoration-material"
+      ],
+      "descSnippet": "Gold beaten into extremely thin sheets, applied to the trimmed edges of a book to give a bright protective surface. The fragile leaf is cut to width on a cushion, lifted with a tip, and laid onto an…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:5a812805e9c759f02854675aed7e19c9655a2dd623a8409af342a02e627d16af",
+      "path": "primitives/materials/gold-leaf.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "gold-tooling",
+      "kind": "technique",
+      "name": "gold tooling",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-technique",
+      "tags": [
+        "bookbinding",
+        "decoration-technique",
+        "advanced"
+      ],
+      "descSnippet": "Decorating a cover so the tool impression is left bright in gold: the leather is washed and sized, glaired, gold leaf laid on, and the heated tools struck through the gold before loose gold is…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:5d17a5de6a9bcd95ec528f0cb62eb79918df3dc1a6acfa68c5f83ebdf4c6a716",
+      "path": "primitives/techniques/gold-tooling.json",
       "lineageState": "unasserted"
     },
     {
@@ -3185,6 +4679,24 @@
       "updated": "2026-06-13",
       "hash": "sha256:a97cf118997f150b3bd927d17935263c60d11983f6e800a39836cf1ddecdedd9",
       "path": "primitives/tools/gooseneck-kettle.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "gouge",
+      "kind": "tool",
+      "name": "gouge",
+      "domain": "bookbinding",
+      "taxonomy": "finishing-equipment",
+      "tags": [
+        "bookbinding",
+        "finishing",
+        "finishing-equipment"
+      ],
+      "descSnippet": "A curved-line finishing tool made in graduated sets matching arcs of concentric circles, used to tool curved segments of a design.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:a7af2dcd470738bc5bf0dddc71c1b85ff17d57be08d9e1022f64c6451f94bcf0",
+      "path": "primitives/tools/gouge.json",
       "lineageState": "unasserted"
     },
     {
@@ -3317,6 +4829,42 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "guard",
+      "kind": "material",
+      "name": "guard",
+      "domain": "bookbinding",
+      "taxonomy": "paper-material",
+      "tags": [
+        "bookbinding",
+        "paper",
+        "paper-material"
+      ],
+      "descSnippet": "A narrow strip of paper or thin cloth pasted along the back fold to reinforce single leaves, plates, or weak two-leaf sections so they survive sewing.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:707c70bd01d1f001740926bbb3b8dbb8d532e86db2bc60839f2aceca05416aee",
+      "path": "primitives/materials/guard.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "guarding",
+      "kind": "technique",
+      "name": "guarding",
+      "domain": "bookbinding",
+      "taxonomy": "preparation-technique",
+      "tags": [
+        "bookbinding",
+        "preparation-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Reinforcing or joining leaves and plates by pasting a narrow strip along the fold. Cockerell prefers the guard inside an outer pair to catch ragged edges and outside an inner pair to ease sewing, and…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:62aaf4519ee70a19209a41e03c6e3e7f8e8caa41183ae9b8b997eae655283204",
+      "path": "primitives/techniques/guarding.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "guava",
       "kind": "material",
       "name": "guava",
@@ -3372,6 +4920,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "hand-made-paper",
+      "kind": "material",
+      "name": "hand-made paper",
+      "domain": "bookbinding",
+      "taxonomy": "paper-material",
+      "tags": [
+        "bookbinding",
+        "paper",
+        "paper-material"
+      ],
+      "descSnippet": "Sheet formed individually on a wire mould, carrying a ragged untrimmed deckle edge and usually a high rag-fibre content. Cockerell treats the hand process as a rough guarantee of fibre quality and…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:940a692ab1992a19fd9994ed80bd664f9fa27d6f5301a54671fe9f4c85bdca50",
+      "path": "primitives/materials/hand-made-paper.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "hand-press",
       "kind": "tool",
       "name": "hand press",
@@ -3387,6 +4953,24 @@
       "updated": "2026-06-09",
       "hash": "sha256:50304b90f1a5dbe6ddf5524f29a0c02091cf484916432bf365373a171f49d1f2",
       "path": "primitives/tools/hand-press.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "handle-letter",
+      "kind": "tool",
+      "name": "handle letter",
+      "domain": "bookbinding",
+      "taxonomy": "finishing-equipment",
+      "tags": [
+        "bookbinding",
+        "finishing",
+        "finishing-equipment"
+      ],
+      "descSnippet": "An individual brass letter mounted on its own wooden handle, heated and pressed by hand to impress one character at a time. Working letters singly gives the finisher freedom to arrange spacing and…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:468782b698d5dca512836eade44db7319f9c19ded0bfc8f16687e87cf6970aa5",
+      "path": "primitives/tools/handle-letter.json",
       "lineageState": "unasserted"
     },
     {
@@ -3539,6 +5123,78 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "headband",
+      "kind": "material",
+      "name": "headband",
+      "domain": "bookbinding",
+      "taxonomy": "sewing-material",
+      "tags": [
+        "bookbinding",
+        "binding",
+        "sewing-material"
+      ],
+      "descSnippet": "A small reinforcing band worked or attached at the head and tail of a textblock to take the strain of pulling a volume from a shelf. It is built up from a core of vellum, gut, or cord wrapped with…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:2a8b50e5acbcb37d5327bb73ae3fbc37a1df8b3a4ff0c74f0a21966ff05e850a",
+      "path": "primitives/materials/headband.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "headband-core",
+      "kind": "material",
+      "name": "headband core",
+      "domain": "bookbinding",
+      "taxonomy": "sewing-material",
+      "tags": [
+        "bookbinding",
+        "binding",
+        "sewing-material"
+      ],
+      "descSnippet": "The stiff inner foundation around which a worked headband is sewn. A length of vellum strip, dried gut, or glue-stiffened string supplies the body; for large volumes a thick and a thin core can be…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:d2b10f51da051f28286a78864edd4ab4d7fbf95b59ac84662096acdd557df060",
+      "path": "primitives/materials/headband-core.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "headbanding",
+      "kind": "technique",
+      "name": "headbanding",
+      "domain": "bookbinding",
+      "taxonomy": "sewing-technique",
+      "tags": [
+        "bookbinding",
+        "sewing-technique",
+        "advanced"
+      ],
+      "descSnippet": "The hand process of building a sewn headband by looping coloured silk over a vellum, gut, or string core and crossing the strands to form a beaded ridge at the head and tail of a book. The worker…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:54e248fae41073f7ffd2b90493f4fcec41e85de0fea73ec8d053c08229fdf0b3",
+      "path": "primitives/techniques/headbanding.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "headbanding-on-vellum",
+      "kind": "workflow",
+      "name": "working a headband on a vellum slip",
+      "domain": "bookbinding",
+      "taxonomy": "sewing-technique",
+      "tags": [
+        "bookbinding",
+        "sewing-technique",
+        "advanced"
+      ],
+      "descSnippet": "An ordered procedure for sewing a worked headband onto a vellum or cord core at the head of a book, from setting the boards and book in the press through forming and beading the silk, tying down at…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:d70d89ade0ff44b4e62b34417fb72099126d84f0f6da2b4dc0434115a88e4172",
+      "path": "primitives/workflows/headbanding-on-vellum.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "hillbilly-flute",
       "kind": "tool",
       "name": "Hillbilly Flute",
@@ -3558,6 +5214,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "hinging-plates",
+      "kind": "technique",
+      "name": "hinging plates",
+      "domain": "bookbinding",
+      "taxonomy": "preparation-technique",
+      "tags": [
+        "bookbinding",
+        "preparation-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Making a stiff plate openable by cutting a thin strip from its back and rejoining it with a wide cloth guard, leaving a gap that flexes as a hinge. Substituting thinner paper for the cut-off strip…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:f98eb89480dcbba48df901343987643fff708b4cb7516b9f3c8f6e301a100db6",
+      "path": "primitives/techniques/hinging-plates.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "hole-punch",
       "kind": "tool",
       "name": "hole punch",
@@ -3573,6 +5247,24 @@
       "updated": "2026-06-09",
       "hash": "sha256:7791e46fc92af1a2ec3fe7939a6f2d436e0c9f09d8a24c55e14dfe4c32bbf742",
       "path": "primitives/tools/hole-punch.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "hollow-back",
+      "kind": "technique",
+      "name": "hollow back",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-technique",
+      "tags": [
+        "bookbinding",
+        "forwarding-technique",
+        "intermediate"
+      ],
+      "descSnippet": "A spine construction where a folded paper tube is glued between the back of the sections and the covering, so the spine and the visible back move separately. It keeps a stiff cover from binding the…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:01d3e5832a6f4dd4013ee91d1460c50bf71e59d6cd213b3563e7c8665a28ae26",
+      "path": "primitives/techniques/hollow-back.json",
       "lineageState": "unasserted"
     },
     {
@@ -3797,6 +5489,78 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "inlaying",
+      "kind": "technique",
+      "name": "inlaying",
+      "domain": "bookbinding",
+      "taxonomy": "preparation-technique",
+      "tags": [
+        "bookbinding",
+        "preparation-technique",
+        "advanced"
+      ],
+      "descSnippet": "Letting a small plate or leaf into a window cut in a larger sheet so it sits within a full-size page. The opening is marked from the squared plate and cut slightly undersize so its inner edges…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:dcdc564a35fbd9196e3a3cb72f9f6624c73396e0bf98eee2275c204f76b88d66",
+      "path": "primitives/techniques/inlaying.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "inlaying-on-leather",
+      "kind": "technique",
+      "name": "inlaying on leather",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-technique",
+      "tags": [
+        "bookbinding",
+        "decoration-technique",
+        "advanced"
+      ],
+      "descSnippet": "Setting pieces of a contrasting leather, or paper, into a cover as decoration. The inlay leather is pared very thin, shapes are punched or cut out, edges pared, and the pieces pasted in and pressed,…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:947d39c82fd5d4092e7948fd1881274fc4b5aa93fcc244a93083ea4d1a0a1539",
+      "path": "primitives/techniques/inlaying-on-leather.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "insect-pest-control",
+      "kind": "technique",
+      "name": "bookworm treatment",
+      "domain": "bookbinding",
+      "taxonomy": "conservation-technique",
+      "tags": [
+        "bookbinding",
+        "conservation-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Measures for protecting shelved books from boring larvae and other vermin that feed on the glue, paste, and leather of bindings. Repellent substances are kept in the bookcase, infested volumes are…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:05269bcaf6395d68800d012bdda89691fc79076a071058345ff922f7bcb9258a",
+      "path": "primitives/techniques/insect-pest-control.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "insect-repellent",
+      "kind": "material",
+      "name": "insect repellent",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-material",
+      "tags": [
+        "bookbinding",
+        "treatment",
+        "decoration-material"
+      ],
+      "descSnippet": "Volatile or pungent substances placed in or behind a bookcase to deter and kill insects that attack bindings. Examples include camphor, naphthaline, proprietary insect powder, and linen soaked in…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:99b60a2e4dcf1b6372ecb45b05df04f74110331e5de96399df8fd188246bca7f",
+      "path": "primitives/materials/insect-repellent.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "istill-mini",
       "kind": "tool",
       "name": "iStill Mini",
@@ -3815,6 +5579,24 @@
       "path": "primitives/tools/istill-mini.json",
       "lineageState": "unasserted",
       "imageUrl": "https://istill.com/images/mini/ortho-mini-10/0001.png"
+    },
+    {
+      "slug": "japanese-vellum",
+      "kind": "material",
+      "name": "Japanese vellum",
+      "domain": "bookbinding",
+      "taxonomy": "paper-material",
+      "tags": [
+        "bookbinding",
+        "paper",
+        "paper-material"
+      ],
+      "descSnippet": "A very tough fibrous paper, despite the name, prized for its strength. The thinnest grades serve to mend the backs of split sections, reinforce weak spots in a leaf, and repair vellum-bound volumes.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:bdd64e0fa890fa5ab250fa5db3784838336a05a379ac0b01d30ef4e8b0702b9b",
+      "path": "primitives/materials/japanese-vellum.json",
+      "lineageState": "unasserted"
     },
     {
       "slug": "joseph-flach-gin-botanicals",
@@ -3981,6 +5763,42 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "knocking-down-iron",
+      "kind": "tool",
+      "name": "knocking-down iron",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "binding",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "A heavy flat iron laid against the projecting spine in the press so the opposite side can be tapped to draw the sections close and pull the slips straight.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:6439aa0b076370331e4a7148618e2891b0b4e035ccff9193a4d38c1e3837abff",
+      "path": "primitives/tools/knocking-down-iron.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "knocking-out-joints",
+      "kind": "technique",
+      "name": "knocking out joints",
+      "domain": "bookbinding",
+      "taxonomy": "preparation-technique",
+      "tags": [
+        "bookbinding",
+        "preparation-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Flattening the old folded joints out of sections of a previously backed book by hammering them squarely on a covered iron, keeping the hammer face clean and true so the paper is not cut or soiled.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:d7990fc69cdd05d720100e5001b2444bf7230265c83cd9825ebad61317810715",
+      "path": "primitives/techniques/knocking-out-joints.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "kohlrabi",
       "kind": "material",
       "name": "cavolo rapa",
@@ -4038,6 +5856,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "lacing-in",
+      "kind": "technique",
+      "name": "lacing in",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-technique",
+      "tags": [
+        "bookbinding",
+        "forwarding-technique",
+        "advanced"
+      ],
+      "descSnippet": "Attaching the boards by threading the frayed and pasted cord ends through punched holes in the board, front to back, drawing them to the right tension, cutting them flush, and hammering them flat on…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:6327f03825bd375d2ae2cd1bd07e838f3d3ca1fb431352417330c2a57eea7e2d",
+      "path": "primitives/techniques/lacing-in.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "lavender",
       "kind": "material",
       "name": "lavender",
@@ -4091,6 +5927,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "leather-dressing",
+      "kind": "material",
+      "name": "leather dressing",
+      "domain": "bookbinding",
+      "taxonomy": "covering-material",
+      "tags": [
+        "bookbinding",
+        "leather",
+        "covering-material"
+      ],
+      "descSnippet": "A soft preparation rubbed into book leather to nourish it and keep it flexible. A serviceable mixture is made by warming a quantity of oil with roughly half its weight of shredded wax until the wax…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:8dbb4e15cd80a56d5996e838ab3b979210e24e0bc3224edd6ffc9075db08e178",
+      "path": "primitives/materials/leather-dressing.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "leather-dye",
       "kind": "material",
       "name": "leather dye",
@@ -4106,6 +5960,42 @@
       "updated": "2026-06-09",
       "hash": "sha256:7570807d84db716c3d7fbb09d7e4d54d39e85209a512d7b04a69b76f6e947563",
       "path": "primitives/materials/leather-dye.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "leather-joint",
+      "kind": "material",
+      "name": "leather joint",
+      "domain": "bookbinding",
+      "taxonomy": "covering-material",
+      "tags": [
+        "bookbinding",
+        "leather",
+        "covering-material"
+      ],
+      "descSnippet": "A strip of very thin leather worked into the inner hinge to face the joint where board meets textblock. It adds little strength but gives a refined finish to the inside of the board, and must be…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:65d86011558ce47e26496489300954d2322bb92669d364bba43927be4f7c4eab",
+      "path": "primitives/materials/leather-joint.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "leather-paring-knife",
+      "kind": "tool",
+      "name": "French paring knife",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "cutting",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "A thin bladed knife with a broad flat edge, held nearly flush against a hard surface to shave leather down to the wanted thickness. It cuts by means of a fine burr raised on the underside, giving…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:12e7abb1a23eca13fd5236132fac99fd0ddcf5e351ba678c6a90659db7eec920",
+      "path": "primitives/tools/leather-paring-knife.json",
       "lineageState": "unasserted"
     },
     {
@@ -4127,6 +6017,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "leather-size",
+      "kind": "material",
+      "name": "leather size",
+      "domain": "bookbinding",
+      "taxonomy": "adhesive-material",
+      "tags": [
+        "bookbinding",
+        "size",
+        "adhesive-material"
+      ],
+      "descSnippet": "A weak gelatinous wash made by boiling down vellum cuttings or dissolving gelatine or isinglass in warm water, brushed over porous leather to seal it before tooling. Unlike the thin vellum size used…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:8fc75b59efa2bbcab0857ed539e2284bdf3f65bc07cfc389c95f029bd95b9ef5",
+      "path": "primitives/materials/leather-size.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "leather-strap-construction",
       "kind": "workflow",
       "name": "leather strap construction",
@@ -4142,6 +6050,24 @@
       "updated": "2026-06-09",
       "hash": "sha256:9ee3632eb181ef6488f644b204a2da760acfcd98c26c98838c939221f2ca1a98",
       "path": "primitives/workflows/leather-strap-construction.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "leather-work",
+      "kind": "technique",
+      "name": "leather work",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-technique",
+      "tags": [
+        "bookbinding",
+        "decoration-technique",
+        "advanced"
+      ],
+      "descSnippet": "A form of relief leather decoration extending blind tooling, in which the surface is cut to outline a pattern or the wet leather is embossed from behind. Cockerell warns that embossed work done off…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:a8278cdb451ee224a87fe64e8bac67e3db7ee78525973b70ab97a5fdb33c82ad",
+      "path": "primitives/techniques/leather-work.json",
       "lineageState": "unasserted"
     },
     {
@@ -4202,6 +6128,42 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "lettering",
+      "kind": "technique",
+      "name": "lettering",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-technique",
+      "tags": [
+        "bookbinding",
+        "decoration-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Impressing a title in gold along the spine or side of a book, using either single handle letters for freedom of arrangement or set type for regularity. Cockerell stresses that the lettering must…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:3d33a4d527b07ecf2a8905e710e81f8a2f58999b6548b214c044b04be6ee6ae7",
+      "path": "primitives/techniques/lettering.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "lettering-the-back",
+      "kind": "workflow",
+      "name": "lettering the back",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-technique",
+      "tags": [
+        "bookbinding",
+        "decoration-technique",
+        "advanced"
+      ],
+      "descSnippet": "The procedure for laying out and tooling a title on a spine for extra binding: building a folded lettering paper, centring each line, transferring guide lines to the panel, then gilding and striking…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:772a6e56ea4a624f02c07690510eddf518b878ebd5a850fb58f8148917e57a40",
+      "path": "primitives/workflows/lettering-the-back.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "lettuce",
       "kind": "material",
       "name": "lattuga",
@@ -4218,6 +6180,24 @@
       "updated": "2026-05-31",
       "hash": "sha256:01e4a467729a97cb963511e4850055f1b80d65555a8a93bcc7562cd0a72b06f6",
       "path": "primitives/materials/lettuce.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "library-binding",
+      "kind": "workflow",
+      "name": "library binding",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-technique",
+      "tags": [
+        "bookbinding",
+        "forwarding-technique",
+        "intermediate"
+      ],
+      "descSnippet": "An economical binding routine that trades some appearance for strength: sections are made sound, sewn on tapes, fitted into split boards with a French joint, and covered in thick leather with paper…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:a930e6c2d1f402cf4fcf68d49aa5defd163ab5a7a1244f26a8be7d6f0a9a0098",
+      "path": "primitives/workflows/library-binding.json",
       "lineageState": "unasserted"
     },
     {
@@ -4272,6 +6252,78 @@
       "updated": "2026-05-31",
       "hash": "sha256:f6a9c16d29d6e40f529d2eed1d4671f43572eb64a41bdf25d291cbfd6f700656",
       "path": "primitives/materials/lime.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "lining-boards",
+      "kind": "technique",
+      "name": "lining boards",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-technique",
+      "tags": [
+        "bookbinding",
+        "forwarding-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Pasting paper over a freshly cut board to seal the edges and bias the board's curve. A double thickness on the outer face deliberately warps the board to counter the later pull of the cover leather,…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:3d6762e3e1d4e882d0bb87a5657d751aefe36d58ec179a69db0d2f680544aeb5",
+      "path": "primitives/techniques/lining-boards.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "lining-paper",
+      "kind": "material",
+      "name": "lining paper",
+      "domain": "bookbinding",
+      "taxonomy": "paper-material",
+      "tags": [
+        "bookbinding",
+        "paper",
+        "paper-material"
+      ],
+      "descSnippet": "Plain paper pasted over the faces of a cut board to seal its edges and control its warp. Applied with one straight edge laid exactly to the cut edge of the board.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:12db05a22761d0cc96a7ac502a44240b86914b0fc035c50d15c0abfdc25376e3",
+      "path": "primitives/materials/lining-paper.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "lining-paper-spine",
+      "kind": "material",
+      "name": "spine lining paper",
+      "domain": "bookbinding",
+      "taxonomy": "paper-material",
+      "tags": [
+        "bookbinding",
+        "paper",
+        "paper-material"
+      ],
+      "descSnippet": "A stout reinforcing paper glued across the back of a textblock before covering to strengthen the spine. A tough brown or other heavy sheet is laid over the back and headbands; on weighty volumes…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:a89d0fafe3de37d7908b90429dce567b1b617a470c419cf60d739063c25e3c95",
+      "path": "primitives/materials/lining-paper-spine.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "lining-up",
+      "kind": "technique",
+      "name": "lining up",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-technique",
+      "tags": [
+        "bookbinding",
+        "forwarding-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Reinforcing the spine before covering by glueing a stout paper, and on heavy books a linen or thin leather strip, across the back and over the headbands. Once dry the surplus above the headband is…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:cbabfafb2e56f6c7371c762fc5977336c7593e85477375f825917c900cbd8f86",
+      "path": "primitives/techniques/lining-up.json",
       "lineageState": "unasserted"
     },
     {
@@ -4348,6 +6400,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "making-and-fitting-a-clasp",
+      "kind": "workflow",
+      "name": "making and fitting a clasp",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-technique",
+      "tags": [
+        "bookbinding",
+        "forwarding-technique",
+        "advanced"
+      ],
+      "descSnippet": "End-to-end procedure for furnishing a book with a working clasp: preparing the metal catch, anchoring it in the boards, plaiting the leather strap, and dressing the leather around the fitting so the…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:52283c130e054e33dcee0871a84945c2ff26fad6479aa96f4261284fe2bdf17e",
+      "path": "primitives/workflows/making-and-fitting-a-clasp.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "making-cuts",
       "kind": "technique",
       "name": "making cuts",
@@ -4363,6 +6433,24 @@
       "updated": "2026-06-15",
       "hash": "sha256:a95df4c7f5ae5726f68d1f7cc188a582050ba8c0992f5da7735db2d03af235ab",
       "path": "primitives/techniques/making-cuts.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "making-end-papers",
+      "kind": "workflow",
+      "name": "making end papers",
+      "domain": "bookbinding",
+      "taxonomy": "preparation-technique",
+      "tags": [
+        "bookbinding",
+        "preparation-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Building a zigzag end paper so every leaf opens to the back and the structure yields to the drag of the cover. A folded sheet is marked and pasted up, folded back over the paste-down, and a further…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:94673b3b041176a3d01f0ea8c1e9a5c1d3686d5b545f4e4c426d23cc0f1bc2d3",
+      "path": "primitives/workflows/making-end-papers.json",
       "lineageState": "unasserted"
     },
     {
@@ -4458,6 +6546,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "marbled-paper",
+      "kind": "material",
+      "name": "marbled paper",
+      "domain": "bookbinding",
+      "taxonomy": "paper-material",
+      "tags": [
+        "bookbinding",
+        "paper",
+        "paper-material"
+      ],
+      "descSnippet": "Decorative paper carrying a swirled, multi-coloured pattern, sometimes pasted up as a doubled sheet for paste-downs. Cockerell warns that the stock is usually weak and unfit for end papers unless it…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:c55a770ebc42780067a979ef66b21eabc8fae5be8b4364bd17a2ab76b6164a24",
+      "path": "primitives/materials/marbled-paper.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "marking-a-stitch-line",
       "kind": "technique",
       "name": "marking a stitch line",
@@ -4547,6 +6653,96 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "mending",
+      "kind": "technique",
+      "name": "mending",
+      "domain": "bookbinding",
+      "taxonomy": "preparation-technique",
+      "tags": [
+        "bookbinding",
+        "preparation-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Repairing torn or missing parts of a sheet by selecting paper that matches in tone, texture, and wire pattern, paring both the patch and the original edge thin, then pasting them so the joint does…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:7cf97840bae356ee4f6a1bae0cc5e65703ae96b6956d3270c79b46a1acdc5b5f",
+      "path": "primitives/techniques/mending.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "mending-paper",
+      "kind": "material",
+      "name": "mending paper",
+      "domain": "bookbinding",
+      "taxonomy": "paper-material",
+      "tags": [
+        "bookbinding",
+        "paper",
+        "paper-material"
+      ],
+      "descSnippet": "Stock kept for repairs: scraps of old paper matched to a book in tone and texture, and very thin near-transparent Japanese paper used to bridge tears across printed areas. Where no matching tone…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:53ed8c675936f6ce423d2abe781a4e318e6f31a99bd73e44cb866e41d3f2698a",
+      "path": "primitives/materials/mending-paper.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "mending-paste",
+      "kind": "material",
+      "name": "mending paste",
+      "domain": "bookbinding",
+      "taxonomy": "adhesive-material",
+      "tags": [
+        "bookbinding",
+        "adhesive",
+        "adhesive-material"
+      ],
+      "descSnippet": "A clean flour or starch paste used to join pared edges in paper and vellum repair. Cockerell insists the paste, brushes, and pasting paper all be kept perfectly clean so the joint stays invisible; it…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:6666fdc9d501e772fac19c7321844a62e62a873440e5304425b43cc1af307f87",
+      "path": "primitives/materials/mending-paste.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "mending-tooling",
+      "kind": "technique",
+      "name": "mending tooling",
+      "domain": "bookbinding",
+      "taxonomy": "conservation-technique",
+      "tags": [
+        "bookbinding",
+        "conservation-technique",
+        "advanced"
+      ],
+      "descSnippet": "Correcting flawed gold tooling: impressions that fail to take solid are reglaired and retooled, doubled or burnt marks are softened with water and picked out, and badly burnt spots may be patched…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:dc929a2db8b9f0c09368248d999510ab92ee8d0beec0bd730df0f6fe970db3a5",
+      "path": "primitives/techniques/mending-tooling.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "mending-vellum",
+      "kind": "technique",
+      "name": "mending vellum",
+      "domain": "bookbinding",
+      "taxonomy": "preparation-technique",
+      "tags": [
+        "bookbinding",
+        "preparation-technique",
+        "advanced"
+      ],
+      "descSnippet": "Patching torn vellum much like paper, but with a wider overlap and the contact faces roughened so paste will grip the smooth skin. Because paste alone cannot be trusted to hold vellum, a silk stitch…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:85bcb61696a665d0aab4368308397ba54b2ac77e42be09cdb0fc86e9dd416e64",
+      "path": "primitives/techniques/mending-vellum.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "mesh-bag",
       "kind": "tool",
       "name": "mesh bag",
@@ -4562,6 +6758,42 @@
       "updated": "2026-06-15",
       "hash": "sha256:10c7ece8d5108fd4a0c5b7f64028970cb0dac6bba28e52e98c4e4d96f2789a1e",
       "path": "primitives/tools/mesh-bag.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "metal-clasp",
+      "kind": "material",
+      "name": "clasp",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-material",
+      "tags": [
+        "bookbinding",
+        "metal",
+        "decoration-material"
+      ],
+      "descSnippet": "A metal fastening attached across the fore-edge of a volume to hold the covers closed and the leaves pressed flat. It is favoured on books whose pages will otherwise spring open, and a low-profile…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:3d5e8928bb736be91408aea2b22b821a3f3576729f8376ef7134ee31506596e2",
+      "path": "primitives/materials/metal-clasp.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "metal-furniture",
+      "kind": "material",
+      "name": "metal furniture",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-material",
+      "tags": [
+        "bookbinding",
+        "metal",
+        "decoration-material"
+      ],
+      "descSnippet": "Protective and ornamental metalwork fixed to a binding: corner pieces, raised bosses, edge shoes, centres, and full plaques. Flat smooth pieces guard shelved volumes, while raised bosses suit books…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:85d75475af652267e92eca402fd9529f23833ce3e085d0e62f19969468f49a07",
+      "path": "primitives/materials/metal-furniture.json",
       "lineageState": "unasserted"
     },
     {
@@ -4675,6 +6907,42 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "millboard",
+      "kind": "material",
+      "name": "millboard",
+      "domain": "bookbinding",
+      "taxonomy": "board-material",
+      "tags": [
+        "bookbinding",
+        "board",
+        "board-material"
+      ],
+      "descSnippet": "Dense compressed board, the better grades pressed from old rope fibre, used as the stiff cover support of a bound book. Valued for hardness and resistance to bending or cracking at the corners, with…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:6fe26284e0a5ba509fb6bc9b3eef4090b08f4f4ac4d4503fcf682d0bbabcb21d",
+      "path": "primitives/materials/millboard.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "millboard-shears",
+      "kind": "tool",
+      "name": "millboard shears",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "cutting",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "Large lever shears clamped in a press to cut board roughly to size before final trimming. The straight arm is fixed in the press so the operator's hand is not bruised against the work.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:aaf69b4a6c7a283c1fbc2de4d0d9bb5b70897d714a360060c01306d619765d5c",
+      "path": "primitives/tools/millboard-shears.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "mink-oil",
       "kind": "material",
       "name": "mink oil",
@@ -4690,6 +6958,24 @@
       "updated": "2026-06-09",
       "hash": "sha256:927126df4724fdf95719c250dea5256aff4c1a757fc4c93d81f2834db919b868",
       "path": "primitives/materials/mink-oil.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "mitring-corners",
+      "kind": "technique",
+      "name": "mitring corners",
+      "domain": "bookbinding",
+      "taxonomy": "covering-technique",
+      "tags": [
+        "bookbinding",
+        "covering-technique",
+        "advanced"
+      ],
+      "descSnippet": "Cutting and folding the leather at each board corner into a clean diagonal join with no overlap. Both thicknesses are sliced from the board corner toward the inner margin, the surplus removed while…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:e03f83084fa05883d2e13116b3b9cbfda729abd9e4cffa1ba00f59f5e5d34c3a",
+      "path": "primitives/techniques/mitring-corners.json",
       "lineageState": "unasserted"
     },
     {
@@ -4744,6 +7030,96 @@
       "updated": "2026-06-15",
       "hash": "sha256:30677c953385fc31fc1131b64895bf48ea162b63144fd24513e6c9157d949ff7",
       "path": "primitives/materials/molasses.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "mount-cutters-knife",
+      "kind": "tool",
+      "name": "mount-cutter's knife",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "cutting",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "A short rigid blade set in a handle, designed for slicing card and paper cleanly against a straight-edge. The shape lets the worker bear down on the guide while keeping a controlled, shallow cut.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:1987312410f3405c6cf62f03f73b52b3d32f2bed9e0be5e5b86c23a8071895b6",
+      "path": "primitives/tools/mount-cutters-knife.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "mounting",
+      "kind": "technique",
+      "name": "mounting",
+      "domain": "bookbinding",
+      "taxonomy": "preparation-technique",
+      "tags": [
+        "bookbinding",
+        "preparation-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Attaching loose items such as letters, prints, or drawings into a blank book. Items may be inlaid, hinged on paper guards, or pasted at the edges only; pencil work is fixed with size and torn edges…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:607632ea26fa91c30171ca006f380ec5463ff2e0f5b25b58fc7f983964866f1e",
+      "path": "primitives/techniques/mounting.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "mounting-linen",
+      "kind": "material",
+      "name": "jaconet",
+      "domain": "bookbinding",
+      "taxonomy": "covering-material",
+      "tags": [
+        "bookbinding",
+        "cloth",
+        "covering-material"
+      ],
+      "descSnippet": "A fine soft cotton or linen cloth used as a flexible backing for maps, plates, and split paper. It is pinned flat and pasted so a folded sheet gains a hinge and resists tearing.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:7143b4533a62b964918d79d9f1e90ce2e08b748b99a0934da646afcbf4576189",
+      "path": "primitives/materials/mounting-linen.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "mounting-metal-furniture",
+      "kind": "technique",
+      "name": "mounting metal furniture",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-technique",
+      "tags": [
+        "bookbinding",
+        "decoration-technique",
+        "advanced"
+      ],
+      "descSnippet": "Securing decorative and protective metalwork to a cover. Corners, shoes, and plaques are nailed to wooden boards over a leather back; Cockerell judges bindings whose metal is confined to the boards…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:dd5fdd6228793d6c000241f3c8308d8d0964bd24d102d90c5fdecf567d18a4ac",
+      "path": "primitives/techniques/mounting-metal-furniture.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "mounting-thin-paper",
+      "kind": "technique",
+      "name": "mounting very thin paper",
+      "domain": "bookbinding",
+      "taxonomy": "preparation-technique",
+      "tags": [
+        "bookbinding",
+        "preparation-technique",
+        "advanced"
+      ],
+      "descSnippet": "Fixing a fragile thin sheet to a mount by pasting it face down on glass, wiping away surplus paste, then turning the glass over so the exact position can be seen through it before pressing the sheet…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:3a91edd907a7f07fd95b8967db87a53eb9abaa85b9507a7fdd004c2b0e6b7b4f",
+      "path": "primitives/techniques/mounting-thin-paper.json",
       "lineageState": "unasserted"
     },
     {
@@ -4817,6 +7193,24 @@
       "updated": "2026-06-13",
       "hash": "sha256:4433c54d99196efe9df0643cb27eec0940a37df7c5f417fba537e1df46a38130",
       "path": "primitives/tools/niche-zero.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "nipping-press",
+      "kind": "tool",
+      "name": "nipping press",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "binding",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "A small screw press for giving comparatively light, even pressure, used to nip a book or its boards after tooling and varnishing.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:7015756c7acc4c52caa658a3a26173b7a1035bf702c243229c71af321cbaaf74",
+      "path": "primitives/tools/nipping-press.json",
       "lineageState": "unasserted"
     },
     {
@@ -4984,6 +7378,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "opening-newly-bound-books",
+      "kind": "technique",
+      "name": "opening newly bound books",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-technique",
+      "tags": [
+        "bookbinding",
+        "forwarding-technique",
+        "beginner"
+      ],
+      "descSnippet": "Easing the back of a freshly bound volume before it goes into use, so it will flex evenly rather than crack at one point. The book is opened in stages from front and back toward the centre, each…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:570bc33071c25a0ea49226c24da5e6e5e2d25758ca09068adc5ded303f455609",
+      "path": "primitives/techniques/opening-newly-bound-books.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "orange",
       "kind": "material",
       "name": "arancia",
@@ -5060,6 +7472,42 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "overcasting",
+      "kind": "technique",
+      "name": "overcasting",
+      "domain": "bookbinding",
+      "taxonomy": "sewing-technique",
+      "tags": [
+        "bookbinding",
+        "sewing-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Over-sewing the back edges of loose single leaves grouped into sections so they hold together: Cockerell notes it makes a stiff back that cannot open freely, used only as a last resort.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:5a0d7151c4bad59e53dfe6c6d923923825bee39edbf7722eb96ec7c211d5e472",
+      "path": "primitives/techniques/overcasting.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "pallet",
+      "kind": "tool",
+      "name": "pallet",
+      "domain": "bookbinding",
+      "taxonomy": "finishing-equipment",
+      "tags": [
+        "bookbinding",
+        "finishing",
+        "finishing-equipment"
+      ],
+      "descSnippet": "A short segment of a roll or fillet mounted in a handle, used mainly to run lines or small ornaments across the back of a book.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:ec935fa8c7fcd2caf9ee6e4e4dadaeb4387668cc8ffcd35d06d71bb4c6429fc4",
+      "path": "primitives/tools/pallet.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "papaya",
       "kind": "material",
       "name": "papaia",
@@ -5079,6 +7527,42 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "paper",
+      "kind": "material",
+      "name": "paper",
+      "domain": "bookbinding",
+      "taxonomy": "paper-material",
+      "tags": [
+        "bookbinding",
+        "paper",
+        "paper-material"
+      ],
+      "descSnippet": "General sheet stock formed from matted plant fibre, the primary substrate of the text block. Quality tracks the proportion and grade of fibre used, with rag content giving the most durable sheets and…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:3fe470fcea48b8cf1f54b3239b30fb8ee1cdb9c9697ed28400c7d62835b57d90",
+      "path": "primitives/materials/paper.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "paper-cleaning-agent",
+      "kind": "material",
+      "name": "paper cleaning agent",
+      "domain": "bookbinding",
+      "taxonomy": "adhesive-material",
+      "tags": [
+        "bookbinding",
+        "chemical",
+        "adhesive-material"
+      ],
+      "descSnippet": "The chemical reagents used to bleach and lift stains from old leaves, chiefly permanganate of potash and sulphurous acid in sequence, with milder options such as alum water, curd or soft soap, dilute…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:e60761c375f79f2843aa82daa8e023ff18d11e8e6260a3dec70d9246d66ce31c",
+      "path": "primitives/materials/paper-cleaning-agent.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "paper-filter",
       "kind": "material",
       "name": "paper filter",
@@ -5094,6 +7578,96 @@
       "updated": "2026-06-13",
       "hash": "sha256:5810eb7effee9ff0afd600ca611086a8563e34d7079c685b9e7cfbc6986945ad",
       "path": "primitives/materials/paper-filter.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "paraffin-wax",
+      "kind": "material",
+      "name": "paraffin wax",
+      "domain": "bookbinding",
+      "taxonomy": "covering-material",
+      "tags": [
+        "bookbinding",
+        "wax",
+        "covering-material"
+      ],
+      "descSnippet": "A solid refined wax that is shredded and melted into oil to thicken a leather dressing. On its own it would stiffen leather, but blended with oil it contributes body to a preservative that stays soft…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:3ef5a3576202ed50664a10ee54eb01bbcc211262a555029322d83589f65051ea",
+      "path": "primitives/materials/paraffin-wax.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "paring-knife",
+      "kind": "tool",
+      "name": "paring knife",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "cutting",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "A very sharp thin-bladed knife used to shave the edge of paper or a plate down to a feathered thinness. Drawing the edge along a surface raises a burr that lets the blade skim almost flat while…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:8ec445696dbad2c1e359fd23e9b8b41e85f38dd01cc02fc32b0ced9fa899e11a",
+      "path": "primitives/tools/paring-knife.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "paring-leather",
+      "kind": "technique",
+      "name": "paring leather",
+      "domain": "bookbinding",
+      "taxonomy": "covering-technique",
+      "tags": [
+        "bookbinding",
+        "covering-technique",
+        "advanced"
+      ],
+      "descSnippet": "Shaving the cut cover down to graded thickness so it bends cleanly over the boards. The skin is thinned at the joints, edges, and head-caps while left fuller over back and panels; the work must run…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:ffd7b52904345dbf50579523cc39128033aa86b739f62e175fad59095017ee5a",
+      "path": "primitives/techniques/paring-leather.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "paring-paper",
+      "kind": "technique",
+      "name": "paring paper",
+      "domain": "bookbinding",
+      "taxonomy": "preparation-technique",
+      "tags": [
+        "bookbinding",
+        "preparation-technique",
+        "advanced"
+      ],
+      "descSnippet": "Shaving the edge of paper or a plate to a feather so a join does not show as a ridge. The blade is first drawn along the work to raise a burr, then held nearly flat against a hard surface; a…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:5d99fcb8feab95b0bab54ad90d63dd83da378a093a12bc1860ffeec20fc98af1",
+      "path": "primitives/techniques/paring-paper.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "paring-stone",
+      "kind": "tool",
+      "name": "paring stone",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "binding",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "A flat, smooth, hard slab that serves as the working bed for shaving leather. Its even surface lets the blade run level so the skin is reduced uniformly, and it also takes the rubbing that keeps the…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:b7b80737647c29ee62202d2041eed0764594018f0835a4b3c1574a03eeec90f6",
+      "path": "primitives/tools/paring-stone.json",
       "lineageState": "unasserted"
     },
     {
@@ -5168,6 +7742,132 @@
       "updated": "2026-05-31",
       "hash": "sha256:d3361cbc1589cad2e36161936e3f45557bbe2afa425bc0ccd8c0426b98e72bfa",
       "path": "primitives/materials/passion-fruit.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "paste",
+      "kind": "material",
+      "name": "paste",
+      "domain": "bookbinding",
+      "taxonomy": "adhesive-material",
+      "tags": [
+        "bookbinding",
+        "adhesive",
+        "adhesive-material"
+      ],
+      "descSnippet": "A water-thinned flour adhesive used for covering and for sticking down paper and leather. A little alum extends its life and corrosive sublimate may be added in tiny proportion to deter insects. It…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+      "path": "primitives/materials/paste.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "paste-brush",
+      "kind": "tool",
+      "name": "paste brush",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "binding",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "A bench brush for applying paste, bound at the ferrule with string or zinc since copper or iron will discolour the paste.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:bf828fdfc10a1575efd228dda5344f8ab9597f837b0dc592a7600c5eab69734d",
+      "path": "primitives/tools/paste-brush.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "paste-making",
+      "kind": "workflow",
+      "name": "making paste",
+      "domain": "bookbinding",
+      "taxonomy": "preparation-technique",
+      "tags": [
+        "bookbinding",
+        "preparation-technique",
+        "beginner"
+      ],
+      "descSnippet": "Procedure for cooking a flour-and-alum paste for covering and pasting. The dry mix is wetted smooth, diluted, then heated and stirred to a thick cookable consistency that can later be let down with…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:19dcf398d00c54a07b06fc58437476229b5494a658cfe3772d52a52f2436db9c",
+      "path": "primitives/workflows/paste-making.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "paste-tub",
+      "kind": "tool",
+      "name": "paste tub",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "binding",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "A wooden trough that holds working paste at the bench. Any cross bar for wiping the brush is best swapped for a twisted cord, and the tub is cleaned of dried scraps by soaking it overnight with water.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:095acd651901e7c1bafbd16e974db6945a8e424fcf852b8c6cf043e3d8e84ec3",
+      "path": "primitives/tools/paste-tub.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "paste-water",
+      "kind": "material",
+      "name": "paste-water",
+      "domain": "bookbinding",
+      "taxonomy": "adhesive-material",
+      "tags": [
+        "bookbinding",
+        "paste",
+        "adhesive-material"
+      ],
+      "descSnippet": "Paste beaten thin with water into a milky liquid, sponged evenly over porous leather as a first wash before sizing.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:1e9a95113194b5d4acb0eaaa5fe915710fb0fa648836fcb970f4def340fdb907",
+      "path": "primitives/materials/paste-water.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "pasting-down-end-papers",
+      "kind": "technique",
+      "name": "pasting down end papers",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-technique",
+      "tags": [
+        "bookbinding",
+        "forwarding-technique",
+        "advanced"
+      ],
+      "descSnippet": "Securing the free leaf of an end-paper unit flat against the inside face of a finished cover board. The paper is trimmed to fit the space left by the leather turn-in, coated with a smooth lump-free…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:645ad2599498d3909292a28d0560ffe01c5d84bcb9429efc18020d6a8b058186",
+      "path": "primitives/techniques/pasting-down-end-papers.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "pasting-down-end-papers-procedure",
+      "kind": "workflow",
+      "name": "pasting down end papers",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-technique",
+      "tags": [
+        "bookbinding",
+        "forwarding-technique",
+        "advanced"
+      ],
+      "descSnippet": "Full procedure for fixing both end leaves onto the boards of a finished volume so the inside covers are clean, flat, and drawn slightly inward as they dry.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:0c371aaf6b2dcbf5a675deaf311c29e6dfb266694f78db8d0fffcfb3d438793e",
+      "path": "primitives/workflows/pasting-down-end-papers-procedure.json",
       "lineageState": "unasserted"
     },
     {
@@ -5283,6 +7983,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "pigskin",
+      "kind": "material",
+      "name": "pigskin",
+      "domain": "bookbinding",
+      "taxonomy": "covering-material",
+      "tags": [
+        "bookbinding",
+        "leather",
+        "covering-material"
+      ],
+      "descSnippet": "Pig hide, naturally strong and long-lasting, especially when alum dressed. Cockerell notes that undyed and white pigskin wears very well, while many dyed pigskins are spoiled by improper tanning, and…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:f553d0976291ae880d304b61a50d076a8b2c0eaae5f745fa005878f5d5fb2e7b",
+      "path": "primitives/materials/pigskin.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "pineapple",
       "kind": "material",
       "name": "ananas",
@@ -5302,6 +8020,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "plaiting-clasp-straps",
+      "kind": "technique",
+      "name": "plaiting clasp straps",
+      "domain": "bookbinding",
+      "taxonomy": "covering-technique",
+      "tags": [
+        "bookbinding",
+        "covering-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Forming the flexible strap of a clasp by threading several thin leather strips through the fitting's ring, pasting each strip's ends together, then braiding the doubled strips into a plait. The…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:19f921d1ea639a61a4c55d85a201057d8cf518e67d05f8636be7f22f4195d98e",
+      "path": "primitives/techniques/plaiting-clasp-straps.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "plated-column-still",
       "kind": "tool",
       "name": "plated column still",
@@ -5317,6 +8053,42 @@
       "updated": "2026-06-15",
       "hash": "sha256:684b5c434a18283421b18b31d25e47c64efcfeda33869012622862fe3460fa63",
       "path": "primitives/tools/plated-column-still.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "plough",
+      "kind": "tool",
+      "name": "plough",
+      "domain": "bookbinding",
+      "taxonomy": "edge-equipment",
+      "tags": [
+        "bookbinding",
+        "cutting",
+        "edge-equipment"
+      ],
+      "descSnippet": "Bench cutting tool that rides on runners along a press and carries an adjustable knife advanced by a screw. Drawn back and forth, it shaves a true square edge on boards and on the edges of a book.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:2459d3a8c9486cd498dd85f548f0321cd51d0340cb6ea761f97d312902210c41",
+      "path": "primitives/tools/plough.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "plough-knife",
+      "kind": "tool",
+      "name": "plough knife",
+      "domain": "bookbinding",
+      "taxonomy": "edge-equipment",
+      "tags": [
+        "bookbinding",
+        "cutting",
+        "edge-equipment"
+      ],
+      "descSnippet": "Replaceable blade fitted to the plough that does the actual cutting. For hard board it is ground to a less acute angle so the edge does not chip, and it is sharpened often to keep cutting effort low.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:28129169b601a3c12b861d26c81b984b25b5765209f0cde0aabd474065af99f1",
+      "path": "primitives/tools/plough-knife.json",
       "lineageState": "unasserted"
     },
     {
@@ -5354,6 +8126,42 @@
       "updated": "2026-06-13",
       "hash": "sha256:1eea9c42d7d4e008786935eb286ff3134686941acc9768adfc205eab0c4c63d6",
       "path": "primitives/techniques/plunging-and-pressing.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "polisher",
+      "kind": "tool",
+      "name": "polisher",
+      "domain": "bookbinding",
+      "taxonomy": "finishing-equipment",
+      "tags": [
+        "bookbinding",
+        "finishing",
+        "finishing-equipment"
+      ],
+      "descSnippet": "A heated burnishing iron run warm over a cover to smooth irregularities, with forms shaped for backs, inside margins, or sides. It is kept moving so the leather is not scorched and its edges are…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:c7e56058ba8fef54bc399b0458ff59678749f1142ead85d538aad47a0336e40a",
+      "path": "primitives/tools/polisher.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "polishing",
+      "kind": "technique",
+      "name": "polishing",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-technique",
+      "tags": [
+        "bookbinding",
+        "decoration-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Smoothing a leather cover by running a warm polisher over the back, sides, and inside margins to even out irregularities before and after finishing.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:7f156b360e2f6fa36585f2fe6f75ab6713de19ce08095771d3b1d7374158f11c",
+      "path": "primitives/techniques/polishing.json",
       "lineageState": "unasserted"
     },
     {
@@ -5486,6 +8294,114 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "preparing-sheets-for-binding",
+      "kind": "workflow",
+      "name": "preparing sheets for binding",
+      "domain": "bookbinding",
+      "taxonomy": "preparation-technique",
+      "tags": [
+        "bookbinding",
+        "preparation-technique",
+        "intermediate"
+      ],
+      "descSnippet": "The opening sequence of bench preparation that turns received sheets or an old volume into clean ordered sections ready to sew: gather and fold, collate, guard weak leaves and plates, and where the…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:2fcdbbdcda9775d7d9a16043df454ba087291a5cfb39586eaa46dd463506b8a2",
+      "path": "primitives/workflows/preparing-sheets-for-binding.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "preserving-old-bindings",
+      "kind": "technique",
+      "name": "preserving old bindings",
+      "domain": "bookbinding",
+      "taxonomy": "conservation-technique",
+      "tags": [
+        "bookbinding",
+        "conservation-technique",
+        "beginner"
+      ],
+      "descSnippet": "Routine maintenance dressing applied to aged leather bindings to keep the covering supple and slow deterioration. A light, non-staining, non-tacky preservative is worked sparingly into the surface…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:3ad41b1ef4c1185fe8dcf35c626f246f42be77245d4ec173e946447bc1fb199f",
+      "path": "primitives/techniques/preserving-old-bindings.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "pressing",
+      "kind": "technique",
+      "name": "pressing",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-technique",
+      "tags": [
+        "bookbinding",
+        "forwarding-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Building the laced and cleaned books into the standing press under even pressure, with tins set into the joints, to set the form of the spine and joints permanently. Hand-printed sheets and plates…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:0e871bb45654c734ce9dceecabee04538198f0e8f7257acc258caba55c8bcd51",
+      "path": "primitives/techniques/pressing.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "pressing-board",
+      "kind": "tool",
+      "name": "pressing board",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "pressing",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "A flat board, slightly larger than the volume, placed above and below a stack of sections so the press can bear evenly across them. Pairs of these boards sandwich the pile that goes into the standing…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:00d3fda3d4f816530033fdd964958b6ce3b5eca3b56db29adc6f82fa2d115d14",
+      "path": "primitives/tools/pressing-board.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "pressing-sections",
+      "kind": "technique",
+      "name": "pressing sections",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-technique",
+      "tags": [
+        "bookbinding",
+        "forwarding-technique",
+        "beginner"
+      ],
+      "descSnippet": "Stacking the gathered sections between tins and boards and leaving them under heavy pressure, often overnight, so the leaves lie flat and close and the book becomes solid. Freshly printed plates and…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:0d3dde0d32aa1b61360aef4fde244a96c1bca856b6ba14542f198cb87d067e81",
+      "path": "primitives/techniques/pressing-sections.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "pressing-tin",
+      "kind": "tool",
+      "name": "pressing tin",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "pressing",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "A smooth metal plate, usually covered with paper, interleaved between groups of sections during pressing to give a flat surface and to shield delicate plates or maps from indenting their neighbours.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:c2f779ec3d32d4e808003e73ed486b451852f08f9d1dab7085a6deb9f73de555",
+      "path": "primitives/tools/pressing-tin.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "pricking-and-awl-stitching",
       "kind": "technique",
       "name": "pricking and awl stitching",
@@ -5576,6 +8492,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "protective-shelf-case",
+      "kind": "technique",
+      "name": "protective case",
+      "domain": "bookbinding",
+      "taxonomy": "conservation-technique",
+      "tags": [
+        "bookbinding",
+        "conservation-technique",
+        "beginner"
+      ],
+      "descSnippet": "A simple shelf protector that shields a fragile or metal-fitted binding and its neighbours from abrasion. Lined millboard is placed beside the book, or a piece is bent round it and reinforced at the…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:f0f72a365bde9ccc422d22c9b633fb8b6fb5ef3cf472e8fbc7b454e998e91a7c",
+      "path": "primitives/techniques/protective-shelf-case.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "puck-screen",
       "kind": "tool",
       "name": "puck screen",
@@ -5591,6 +8525,24 @@
       "updated": "2026-06-13",
       "hash": "sha256:7cfefb608ae09348ea5731b7e0a46a2cfa829df1b0e77ec2fd19d3e05773b93b",
       "path": "primitives/tools/puck-screen.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "pulling",
+      "kind": "technique",
+      "name": "pulling to pieces",
+      "domain": "bookbinding",
+      "taxonomy": "preparation-technique",
+      "tags": [
+        "bookbinding",
+        "preparation-technique",
+        "advanced"
+      ],
+      "descSnippet": "Taking a bound volume apart into its separate sections: cutting laced slips and bands, removing the old back, softening hardened glue with paste while damp, and detaching plates by tearing or soaking…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:efd31e6c20b443c92d91dc4c6527b59bc0f46384693e029386d851c1d344eeb3",
+      "path": "primitives/techniques/pulling.json",
       "lineageState": "unasserted"
     },
     {
@@ -5725,6 +8677,42 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "re-backing",
+      "kind": "technique",
+      "name": "re-backing",
+      "domain": "bookbinding",
+      "taxonomy": "conservation-technique",
+      "tags": [
+        "bookbinding",
+        "conservation-technique",
+        "advanced"
+      ],
+      "descSnippet": "Repair of a binding whose joints have broken by fitting a fresh spine covering while keeping as much of the original as possible. The remaining old back leather is eased off and saved, the cover…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:f36c603cf89be0b8ef785bd6689bd20221d063c369ed984689bf0d0f87b3cf72",
+      "path": "primitives/techniques/re-backing.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "red-chalk",
+      "kind": "material",
+      "name": "gilder's red chalk",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-material",
+      "tags": [
+        "bookbinding",
+        "colour",
+        "decoration-material"
+      ],
+      "descSnippet": "A reddish chalk ground with water into a thick paste and brushed over an edge before gilding. It fills minor irregularities and gives a smooth even ground that helps the gold lie flat and burnish to…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:21004f66e14700e6673fd2c75007cd4150e547c8161622246af81f49555d1f77",
+      "path": "primitives/materials/red-chalk.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "redcurrant",
       "kind": "material",
       "name": "ribes rosso",
@@ -5795,6 +8783,24 @@
       "updated": "2026-06-15",
       "hash": "sha256:c2a84a599689db07770cea72dfc9f7a5e55b95bdee2eed3a1e48589db8547739",
       "path": "primitives/tools/reflux-still.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "refolding",
+      "kind": "technique",
+      "name": "refolding",
+      "domain": "bookbinding",
+      "taxonomy": "preparation-technique",
+      "tags": [
+        "bookbinding",
+        "preparation-technique",
+        "advanced"
+      ],
+      "descSnippet": "Re-adjusting carelessly folded leaves of a book to be rebound, holding each pair to the light so the print registers and squaring the heads against a square, best done before the volume has been cut.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:76695c4735dc39f14ec1f773a2b30f108b7c4f8e60e45c199aa04d2e2762fbdd",
+      "path": "primitives/techniques/refolding.json",
       "lineageState": "unasserted"
     },
     {
@@ -5997,6 +9003,42 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "rounding",
+      "kind": "technique",
+      "name": "rounding",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-technique",
+      "tags": [
+        "bookbinding",
+        "forwarding-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Tapping the glued spine with a hammer while drawing it over the edge of the press, working both sides so the back takes an even convex curve. The aim is to distribute the swelling from the sewing…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:5b9f1764fa701a7a7e14c1d352189b0d39de8b04c5500c864b0650ec826cb8cf",
+      "path": "primitives/techniques/rounding.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "rounding-and-backing",
+      "kind": "workflow",
+      "name": "rounding and backing",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-technique",
+      "tags": [
+        "bookbinding",
+        "forwarding-technique",
+        "advanced"
+      ],
+      "descSnippet": "The sequence that prepares a sewn textblock for its boards: the cord slips are frayed out, the book is glued up in the press, then the spine is rounded and backed to set its curve and joint shoulder.…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:e64d636c778da1b114762f2aba6bd3dfce4a4204dddcc7e5dd0a381472014648",
+      "path": "primitives/workflows/rounding-and-backing.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "rutabaga",
       "kind": "material",
       "name": "rutabaga",
@@ -6178,6 +9220,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "sealskin",
+      "kind": "material",
+      "name": "sealskin",
+      "domain": "bookbinding",
+      "taxonomy": "covering-material",
+      "tags": [
+        "bookbinding",
+        "leather",
+        "covering-material"
+      ],
+      "descSnippet": "Seal hide proposed as a covering material. Cockerell relays that one librarian recommended it highly but records no firsthand experience binding with it.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:64d378c93abbcc347872c9ad7edc3e77a423bd835f214a6cbe0096267bd1df21",
+      "path": "primitives/materials/sealskin.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "seam-ripper",
       "kind": "tool",
       "name": "seam ripper",
@@ -6285,6 +9345,42 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "setting-head-cap",
+      "kind": "technique",
+      "name": "setting the head-cap",
+      "domain": "bookbinding",
+      "taxonomy": "covering-technique",
+      "tags": [
+        "bookbinding",
+        "covering-technique",
+        "advanced"
+      ],
+      "descSnippet": "Shaping the small projection of leather at the head and tail of the spine into a neat cap over the headband. The leather is squeezed, pulled out a little, then tapped and rubbed into form; though it…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:4459e7925d2910c42d8894b780238ad92f2ea218f08dd49e90a294bd2b744d2b",
+      "path": "primitives/techniques/setting-head-cap.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "setting-squares",
+      "kind": "technique",
+      "name": "setting the squares",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-technique",
+      "tags": [
+        "bookbinding",
+        "forwarding-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Fixing the boards so the margin they project beyond the leaves is equal at head and tail on both covers. The book is adjusted until it stands square and upright, with a slightly deeper square…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:f38c8c9d4cec3ccf7bffe7cb6afe4f8a7b2d697a43502b2e474574ecd7ac340c",
+      "path": "primitives/techniques/setting-squares.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "sewing-cord",
       "kind": "material",
       "name": "sewing cord",
@@ -6336,6 +9432,24 @@
       "updated": "2026-06-24",
       "hash": "sha256:e269e4508c990e3a21f2514a1b7e43cef460cc55ce2dc70bb98f6350668c6712",
       "path": "primitives/tools/sewing-key.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "sewing-needle",
+      "kind": "tool",
+      "name": "needle",
+      "domain": "bookbinding",
+      "taxonomy": "sewing-equipment",
+      "tags": [
+        "bookbinding",
+        "sewing",
+        "sewing-equipment"
+      ],
+      "descSnippet": "A hand needle carrying silk or thread, used to draw the working strand through the sections and around the core when sewing a headband. A second needle set vertically can pin the core in place while…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:e943db54b8b4e3056885a6bee7784cb1a8f20f5259727b818a1b4224ebb5067a",
+      "path": "primitives/tools/sewing-needle.json",
       "lineageState": "unasserted"
     },
     {
@@ -6448,6 +9562,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "sheepskin",
+      "kind": "material",
+      "name": "sheepskin",
+      "domain": "bookbinding",
+      "taxonomy": "covering-material",
+      "tags": [
+        "bookbinding",
+        "leather",
+        "covering-material"
+      ],
+      "descSnippet": "Sheep hide, sold under names such as roan, basil, and skiver. Properly tanned it is durable though soft and woolly, but much commercial stock is poor and artificially grained to imitate costlier…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:d5baab303b2eb04af9462833940500de1a5b034350ca5c6091c7fda593e6cde6",
+      "path": "primitives/materials/sheepskin.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "shotgun-condenser",
       "kind": "tool",
       "name": "shotgun condenser",
@@ -6463,6 +9595,60 @@
       "updated": "2026-06-15",
       "hash": "sha256:74d54975003a68c60001f65633d22da0b710dda6b7a411410aa8b61575bf6cb7",
       "path": "primitives/tools/shotgun-condenser.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "silk-end",
+      "kind": "material",
+      "name": "silk end",
+      "domain": "bookbinding",
+      "taxonomy": "covering-material",
+      "tags": [
+        "bookbinding",
+        "silk",
+        "covering-material"
+      ],
+      "descSnippet": "A fine woven fabric such as silk used to face the end leaves for a luxurious finish. It is best paired with a leather joint, glued to paper rather than directly, and damped and ironed before use; its…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:6b1467879500fe8766675841cd140a0e58bdd6612238274b3274874fd6f0ffcb",
+      "path": "primitives/materials/silk-end.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "silk-ribbon",
+      "kind": "material",
+      "name": "silk ribbon",
+      "domain": "bookbinding",
+      "taxonomy": "covering-material",
+      "tags": [
+        "bookbinding",
+        "silk",
+        "covering-material"
+      ],
+      "descSnippet": "A narrow woven ribbon laced into a cover and left with long ends, providing a soft tie that holds a limp volume closed without hardware.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:44ffbf946b678f777bb8926c2aedc34461386ed4b24ead4d821994224f33818e",
+      "path": "primitives/materials/silk-ribbon.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "silver-wire",
+      "kind": "material",
+      "name": "silver wire",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-material",
+      "tags": [
+        "bookbinding",
+        "metal",
+        "decoration-material"
+      ],
+      "descSnippet": "Heavy-gauge silver drawn into wire and worked into the catch and ring of a clasp. Its flattened ends are bedded between the two leaves of a split board so the fitting anchors invisibly within the…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:612eb44af2539cc58f28ab56e2db698c2b58ee0de0b1fb04cbdc69dfc18b855f",
+      "path": "primitives/materials/silver-wire.json",
       "lineageState": "unasserted"
     },
     {
@@ -6498,6 +9684,60 @@
       "updated": "2026-06-13",
       "hash": "sha256:5a5045166647cccf486591b0573b90e9abba3c7a87e25d1f126dd8c86ddb2c05",
       "path": "primitives/tools/siphon-brewer.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "size",
+      "kind": "material",
+      "name": "vellum size",
+      "domain": "bookbinding",
+      "taxonomy": "adhesive-material",
+      "tags": [
+        "bookbinding",
+        "size",
+        "adhesive-material"
+      ],
+      "descSnippet": "A thin gelatinous size used to seal an absorbent paper edge before gilding. Washed over the surface and left to dry, it stops the later wet preparations from soaking in and lifting the leaves.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:e01379b3dc11a5dee1a4aeff3e520319a6c453ef20e6c00af6d143fa79dfc11e",
+      "path": "primitives/materials/size.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "sizing",
+      "kind": "technique",
+      "name": "sizing",
+      "domain": "bookbinding",
+      "taxonomy": "preparation-technique",
+      "tags": [
+        "bookbinding",
+        "preparation-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Restoring body and surface strength to soft or perished paper by immersing each sheet in a warm gelatine or isinglass solution, then pressing and drying the treated leaves flat. Sizing also lifts…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:3716157ad61fae1b0759ca4922aeb562e625b991ef302a25088b9d5a3123174c",
+      "path": "primitives/techniques/sizing.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "sizing-leather",
+      "kind": "technique",
+      "name": "sizing leather",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-technique",
+      "tags": [
+        "bookbinding",
+        "decoration-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Sealing porous leather such as calf or sheep before tooling by washing it with paste-water and then with size, so the glaire and gold sit cleanly on the surface.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:9ca096123041b26c6f2c6c17319facdeb080ca128217ce25eb454abf3cf18d75",
+      "path": "primitives/techniques/sizing-leather.json",
       "lineageState": "unasserted"
     },
     {
@@ -6628,6 +9868,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "soaking-off-india-proofs",
+      "kind": "technique",
+      "name": "soaking off India proofs",
+      "domain": "bookbinding",
+      "taxonomy": "preparation-technique",
+      "tags": [
+        "bookbinding",
+        "preparation-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Releasing a mounted India proof from its old backing by floating it face down in warm water over a sized support sheet until it lifts free. The freed proof is carried out on the under sheet and dried…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:bd44f28fc4def0406ca30cf316320d020025bb5ad8df6b3db4f8a1aec90e0bd3",
+      "path": "primitives/techniques/soaking-off-india-proofs.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "sodium-percarbonate",
       "kind": "material",
       "name": "sodium percarbonate",
@@ -6642,6 +9900,24 @@
       "updated": "2026-06-15",
       "hash": "sha256:3a563cecaabfe2d81a3d1da32f5141c489e406aec6766002e8daf368fef18ed8",
       "path": "primitives/materials/sodium-percarbonate.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "soft-brush",
+      "kind": "tool",
+      "name": "soft brush",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "cleaning",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "A very soft brush, such as a hog's hair brush, used to work cleaning soaps and solvents over stained areas without abrading the paper surface.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:fa42311b8586e60386d70ffc9ec9e270293c79df57ff84c2e544230b3be9d6d1",
+      "path": "primitives/tools/soft-brush.json",
       "lineageState": "unasserted"
     },
     {
@@ -6736,6 +10012,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "split-boards",
+      "kind": "technique",
+      "name": "split boards",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-technique",
+      "tags": [
+        "bookbinding",
+        "forwarding-technique",
+        "intermediate"
+      ],
+      "descSnippet": "A method of building covers by gluing two boards together over most of their area while leaving a gap along one edge. The slips and a waste leaf are inserted into this slot and pressed, giving a…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:7391611e86efd0dd7c1ca47ed75d717b608c191cc997412019749b51d1f1c7fc",
+      "path": "primitives/techniques/split-boards.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "split-ring",
       "kind": "material",
       "name": "split ring",
@@ -6751,6 +10045,60 @@
       "updated": "2026-06-09",
       "hash": "sha256:699dbd9c94826c8464363f30578fae9021bb46cca7cb14b9b8f42b1851181fed",
       "path": "primitives/materials/split-ring.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "splitting-paper",
+      "kind": "technique",
+      "name": "splitting paper",
+      "domain": "bookbinding",
+      "taxonomy": "preparation-technique",
+      "tags": [
+        "bookbinding",
+        "preparation-technique",
+        "advanced"
+      ],
+      "descSnippet": "Separating a printed sheet into two thin layers so each face can be used independently. Both sides are pasted and faced with cloth, nipped in a press to bond, dried, then peeled apart; the cloth and…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:297e25a1d7e02d65106e817ba79b11a45f7e8bec6c0b08f14386d0cbe6bed64e",
+      "path": "primitives/techniques/splitting-paper.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "sprinkling-leather",
+      "kind": "technique",
+      "name": "sprinkling leather",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-technique",
+      "tags": [
+        "bookbinding",
+        "decoration-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Flecking a leather cover with droplets of colour to break up a flat, even tone, as in sprinkled and tree calf. Cockerell finds slight unevenness of colour pleasing but strongly condemns sprinkling…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:820ed5b90eb8ee20e41b5702633f776d6e53c2711b2b924d1f78ed217449f356",
+      "path": "primitives/techniques/sprinkling-leather.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "standing-press",
+      "kind": "tool",
+      "name": "standing press",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "pressing",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "A heavy fixed press, screwed down by hand, in which piles of sections or finished books are left under sustained pressure to set them solid. The iron form is tightened with a short then a long bar;…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:ad8d3a9c1a538aa89270b270a797de51ec8d92734694fb3b42c5b4af6c2e6591",
+      "path": "primitives/tools/standing-press.json",
       "lineageState": "unasserted"
     },
     {
@@ -7026,6 +10374,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "straight-edge",
+      "kind": "tool",
+      "name": "straight-edge",
+      "domain": "bookbinding",
+      "taxonomy": "forwarding-equipment",
+      "tags": [
+        "bookbinding",
+        "cutting",
+        "forwarding-equipment"
+      ],
+      "descSnippet": "A rigid bar with a true edge laid down to guide a knife along a clean line. The worker presses hard on the guide and lightly on the blade so the cut follows it exactly.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:4d99452f5c91ece8b538549ea4ba623ee0988db4b6d9cb792426a88661cfdfb2",
+      "path": "primitives/tools/straight-edge.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "strap-cutter",
       "kind": "tool",
       "name": "strap cutter",
@@ -7060,6 +10426,24 @@
       "updated": "2026-05-31",
       "hash": "sha256:8e2f89e5d8c38b697135c6c5a200e5a212e69af54c0c7e5317fb68cb5f0ff140",
       "path": "primitives/materials/strawberry.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "strawboard",
+      "kind": "material",
+      "name": "strawboard",
+      "domain": "bookbinding",
+      "taxonomy": "board-material",
+      "tags": [
+        "bookbinding",
+        "board",
+        "board-material"
+      ],
+      "descSnippet": "An inexpensive, bulky board pressed from straw fibre, chosen where economy matters. It is often laminated with a thinner facing board to build up the layered boards used in cheaper bindings.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:084655b3dc9042b5542acf16886ebd1b41501da2ebf02875cb0cdc751249f49c",
+      "path": "primitives/materials/strawboard.json",
       "lineageState": "unasserted"
     },
     {
@@ -7299,6 +10683,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "testing-leather",
+      "kind": "technique",
+      "name": "testing leather",
+      "domain": "bookbinding",
+      "taxonomy": "conservation-technique",
+      "tags": [
+        "bookbinding",
+        "conservation-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Assessing a hide for durability before committing it to a binding. A simple manual check is to tear the skin: sound stock resists tearing and shows long silky fibres at the break, while weak stock…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:c182c06f198f73e4d51a051b03e62b197ea5ebeb8fec3e4e75f783ca5dc168b3",
+      "path": "primitives/techniques/testing-leather.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "thermometer",
       "kind": "tool",
       "name": "thermometer",
@@ -7351,6 +10753,24 @@
       "updated": "2026-06-09",
       "hash": "sha256:5510e76f0b5bb12afd47cabb3452ab82ec3e2550ce7349276d24de7951ce5a3d",
       "path": "primitives/tools/thread-zapper.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "throwing-out",
+      "kind": "technique",
+      "name": "throwing out",
+      "domain": "bookbinding",
+      "taxonomy": "preparation-technique",
+      "tags": [
+        "bookbinding",
+        "preparation-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Mounting a frequently consulted map or diagram on a wide guard, often placed at the end of the book, so it opens clear of the text and stays readable while the book is in use. Large folded sheets are…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:ed521687864119dc48199859ecf8247fe0f899067090ada3010fd313a57e752b",
+      "path": "primitives/techniques/throwing-out.json",
       "lineageState": "unasserted"
     },
     {
@@ -7410,6 +10830,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "tinted-glass",
+      "kind": "material",
+      "name": "tinted glass",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-material",
+      "tags": [
+        "bookbinding",
+        "glazing",
+        "decoration-material"
+      ],
+      "descSnippet": "Coloured window glazing used to shield shelved books from the disintegrating action of direct sunlight. Pale yellow and olive-green shades filter the most damaging rays and protect leather, whereas…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:36f1825cd133d55ac1871fd709acf30d7152e7eda9fbc0a269a3626a756bc5a2",
+      "path": "primitives/materials/tinted-glass.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "toasted-oak",
       "kind": "material",
       "name": "toasted oak",
@@ -7465,6 +10903,96 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "tooling-on-vellum",
+      "kind": "technique",
+      "name": "tooling on vellum",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-technique",
+      "tags": [
+        "bookbinding",
+        "decoration-technique",
+        "advanced"
+      ],
+      "descSnippet": "Adapting tooling for a vellum cover: the sticky surface is washed clean, the pattern blinded through paper held by a band rather than pasted down, gold laid with benzine, and cool tools used because…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:dd939e87c68511d5e9564f1fb4a659eba97e759979ef19e8f955fad01264d7bd",
+      "path": "primitives/techniques/tooling-on-vellum.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "tooth-burnisher",
+      "kind": "tool",
+      "name": "tooth burnisher",
+      "domain": "bookbinding",
+      "taxonomy": "edge-equipment",
+      "tags": [
+        "bookbinding",
+        "finishing",
+        "edge-equipment"
+      ],
+      "descSnippet": "A hand burnisher with a hard smooth working surface, drawn over a waxed coloured edge to compress and polish it to a sheen. The same family of tool serves to lay and brighten gilt or coloured book…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:2b2984c0f7b3635884a21b4fa65803e3058cbbf3f1fe523a814821a5e7bed4cb",
+      "path": "primitives/tools/tooth-burnisher.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "trimming-edges",
+      "kind": "technique",
+      "name": "trimming edges",
+      "domain": "bookbinding",
+      "taxonomy": "edge-decoration-technique",
+      "tags": [
+        "bookbinding",
+        "edge-decoration-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Cutting the leaves of the gathered sections to a chosen size while the book is still in sheets, done when the edges are to be gilt before sewing. The head is first squared against a try square, then…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:848643e9a80f48032136443c7ee545ad5dac35a59b58f3c9a1ca509e4e5f3756",
+      "path": "primitives/techniques/trimming-edges.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "trimming-plates",
+      "kind": "technique",
+      "name": "trimming plates",
+      "domain": "bookbinding",
+      "taxonomy": "preparation-technique",
+      "tags": [
+        "bookbinding",
+        "preparation-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Cutting the margins of plates with judgment so they sit square and their proportions match the printed pages they face, leaving a plate short rather than crooked.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:9df9bb5c80d86c545956b3b9a61f252ce9b65e60a94182c15359b93b6e0e7eeb",
+      "path": "primitives/techniques/trimming-plates.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "trindle",
+      "kind": "tool",
+      "name": "trindle",
+      "domain": "bookbinding",
+      "taxonomy": "edge-equipment",
+      "tags": [
+        "bookbinding",
+        "cutting",
+        "edge-equipment"
+      ],
+      "descSnippet": "A pair of small flat steel pieces slipped across the spine from inside the boards. They let the binder pull the rounded back temporarily straight so the fore-edge can be trimmed or gilt flat, then…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:e0a3a216846b4e98473accd67506d0d29bd2ec9921b1d17939cc7f0a188ec0a8",
+      "path": "primitives/tools/trindle.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "turbo-yeast",
       "kind": "material",
       "name": "turbo yeast",
@@ -7499,6 +11027,24 @@
       "updated": "2026-05-31",
       "hash": "sha256:711c7c3a2fd94dfd5f470f66cc0b953dfe992af6160bae093640c2c7507d3978",
       "path": "primitives/materials/turnip.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "tying-up",
+      "kind": "technique",
+      "name": "tying up",
+      "domain": "bookbinding",
+      "taxonomy": "covering-technique",
+      "tags": [
+        "bookbinding",
+        "covering-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Binding cord around a freshly covered book to hold the leather tight to the spine while it sets. On large work it secures the cover; the cord marks beside the bands can be rubbed out with a band…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:cb6c88ef07219c9f215ee47caa6b911127848a19089e68bf071176132f622871",
+      "path": "primitives/techniques/tying-up.json",
       "lineageState": "unasserted"
     },
     {
@@ -7574,6 +11120,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "varnish",
+      "kind": "material",
+      "name": "varnish",
+      "domain": "bookbinding",
+      "taxonomy": "decoration-material",
+      "tags": [
+        "bookbinding",
+        "varnish",
+        "decoration-material"
+      ],
+      "descSnippet": "A thin spirit varnish rubbed sparingly over polished leather as a protective finish. Cockerell warns that thick or excess varnish browns with age, dulls the gold, and makes the surface brittle at the…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:17822039e652ae9cbe61a4600287009591cfcb18cb24efc95456be643db8250c",
+      "path": "primitives/materials/varnish.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "vegetable-tanned-leather",
       "kind": "material",
       "name": "vegetable-tanned leather",
@@ -7589,6 +11153,60 @@
       "updated": "2026-06-09",
       "hash": "sha256:369b4e4a7e74e528af6f357a56879bbd917ccb58628143813c75cd455de9c7f1",
       "path": "primitives/materials/vegetable-tanned-leather.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "vellum",
+      "kind": "material",
+      "name": "vellum",
+      "domain": "bookbinding",
+      "taxonomy": "covering-material",
+      "tags": [
+        "bookbinding",
+        "vellum",
+        "covering-material"
+      ],
+      "descSnippet": "A prepared animal skin used for leaves and bindings of older books. It cockles when exposed to damp and must be dried slowly under restraint to lie flat again.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:4ab7df86b5a08ecbe4964b9ee0e65d6f589a751ce056a70394e88a0d25e1a415",
+      "path": "primitives/materials/vellum.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "vellum-covering",
+      "kind": "technique",
+      "name": "vellum binding",
+      "domain": "bookbinding",
+      "taxonomy": "covering-technique",
+      "tags": [
+        "bookbinding",
+        "covering-technique",
+        "advanced"
+      ],
+      "descSnippet": "Covering a volume in vellum, either limp and held only by laced slips or pasted over boards. The skin is marked out, cut at the corners, lined with paper to control its movement, and worked while…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:9fa4ed92b4f11e0407b7c669134c0a0c768e72d04fef18ee4d16f7b55446fae5",
+      "path": "primitives/techniques/vellum-covering.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "vellum-end",
+      "kind": "material",
+      "name": "vellum end",
+      "domain": "bookbinding",
+      "taxonomy": "covering-material",
+      "tags": [
+        "bookbinding",
+        "vellum",
+        "covering-material"
+      ],
+      "descSnippet": "Thin calf or sheep skin prepared as a writing-grade sheet, used in place of paper end leaves for a richer effect. Vellum ends must be sewn rather than trusted to paste, and they tend to curl and draw…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:b00688cd422fa30ddd66b290f2af9b0684e005f74893a3c7b18827920313e6ff",
+      "path": "primitives/materials/vellum-end.json",
       "lineageState": "unasserted"
     },
     {
@@ -7664,6 +11282,24 @@
       "updated": "2026-06-15",
       "hash": "sha256:5aa966dcaac6566a67a8b43c581874f1b4133a7190cc49c7c2c0cf147214df12",
       "path": "primitives/tools/wash-refractometer.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "washing",
+      "kind": "technique",
+      "name": "washing",
+      "domain": "bookbinding",
+      "taxonomy": "preparation-technique",
+      "tags": [
+        "bookbinding",
+        "preparation-technique",
+        "advanced"
+      ],
+      "descSnippet": "Removing stubborn stains and ink from book leaves with chemical baths, most safely a sequence of permanganate of potash followed by dilute sulphurous acid and thorough rinsing. Milder marks may yield…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:48c0edd5af601fdd348c4e97838bf30c4ce7df9a5bd09c18a07366bdec86ea42",
+      "path": "primitives/techniques/washing.json",
       "lineageState": "unasserted"
     },
     {
@@ -7774,6 +11410,24 @@
       "updated": "2026-05-31",
       "hash": "sha256:b83c806b24f1d0b7673b66b25badb80c9d9504e63a2e5b97bc9d641e7c277406",
       "path": "primitives/materials/watermelon.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "waterproof-sheet",
+      "kind": "material",
+      "name": "waterproof sheet",
+      "domain": "bookbinding",
+      "taxonomy": "covering-material",
+      "tags": [
+        "bookbinding",
+        "celluloid",
+        "covering-material"
+      ],
+      "descSnippet": "A thin impervious sheet, such as celluloid, laid between the damp cover and the leaves so moisture from pasting cannot cockle the paper while the binding sets.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:3be39f6cda75cb82e64aed961651fda8b5b8fb699a0544f0cc85d3ca735df9f8",
+      "path": "primitives/materials/waterproof-sheet.json",
       "lineageState": "unasserted"
     },
     {
@@ -7901,6 +11555,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "white-paste",
+      "kind": "material",
+      "name": "white paste",
+      "domain": "bookbinding",
+      "taxonomy": "adhesive-material",
+      "tags": [
+        "bookbinding",
+        "adhesive",
+        "adhesive-material"
+      ],
+      "descSnippet": "A pale, low-staining adhesive for mending, built mainly from cornflour, rice flour, or starch with a little wheaten flour and alum. The wheaten flour may be dropped entirely for the whitest sheets,…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:2f9100b8b8bac62c23a33cae3ebe4475527ea6e98d568bf9f451d71bd3c7f334",
+      "path": "primitives/materials/white-paste.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "whole-bean-coffee",
       "kind": "material",
       "name": "whole bean coffee",
@@ -7951,6 +11623,24 @@
       "updated": "2026-06-09",
       "hash": "sha256:86de3709771335e0fdd5b2dcb4c9cfa5734f7af296e9686ec1a7bca9a4d41b08",
       "path": "primitives/tools/wing-divider.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "wooden-board",
+      "kind": "material",
+      "name": "wooden board",
+      "domain": "bookbinding",
+      "taxonomy": "board-material",
+      "tags": [
+        "bookbinding",
+        "board",
+        "board-material"
+      ],
+      "descSnippet": "Solid timber cover board, often clasped, used chiefly for heavy volumes and books written on vellum. Its rigidity acts as a constant press that keeps moisture-sensitive leaves flat and prevents them…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:c43ccc67e2964d5460fa511e671dbfc9ea8574e8ae7370b616bb595b358c6938",
+      "path": "primitives/materials/wooden-board.json",
       "lineageState": "unasserted"
     },
     {

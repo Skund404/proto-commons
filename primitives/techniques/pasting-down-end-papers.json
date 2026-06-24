@@ -1,0 +1,89 @@
+{
+  "content_hash": "sha256:645ad2599498d3909292a28d0560ffe01c5d84bcb9429efc18020d6a8b058186",
+  "created": "2026-06-24",
+  "description": "Securing the free leaf of an end-paper unit flat against the inside face of a finished cover board. The paper is trimmed to fit the space left by the leather turn-in, coated with a smooth lump-free adhesive over protective waste sheet, then drawn onto the board and worked down so it sits exactly to the board edges and beds cleanly into the joint. Rubbing is always done through a protective sheet so the surface is not soiled or glazed.",
+  "emitter": "opg://commons-seed",
+  "id": "pasting-down-end-papers-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "pasting down end papers",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "pasting down end papers"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:826b561a42531ce020f377c9c73448da3b80759c3d9b34953cd1c8b5b145c2e2",
+        "id": "dividers-seed",
+        "path": "primitives/tools/dividers.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:ebf4f9c589d3c427d5c79ad27a176b971fce600aeae889763c6a714253ee47ae",
+        "id": "cutting-tin-seed",
+        "path": "primitives/tools/cutting-tin.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:8ec445696dbad2c1e359fd23e9b8b41e85f38dd01cc02fc32b0ced9fa899e11a",
+        "id": "paring-knife-seed",
+        "path": "primitives/tools/paring-knife.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:4d99452f5c91ece8b538549ea4ba623ee0988db4b6d9cb792426a88661cfdfb2",
+        "id": "straight-edge-seed",
+        "path": "primitives/tools/straight-edge.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+        "id": "paste-seed",
+        "path": "primitives/materials/paste.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:6eb3ee82e0a4d97ff5a8df7ac17a75f26712deb6b6aec5d3905cd0ef048f3e58",
+        "id": "end-paper-seed",
+        "path": "primitives/materials/end-paper.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "pasting-down-end-papers",
+  "tags": [
+    "bookbinding",
+    "forwarding-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

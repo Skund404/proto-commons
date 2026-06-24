@@ -1,0 +1,176 @@
+{
+  "content_hash": "sha256:f538f9d745175cfb4d0c107861b8a557c0f98316e5ea9eaea2167e6b5aaefcec",
+  "description": {
+    "en": "Chapter IX (Cutting and Attaching Boards Cleaning off Back Pressing) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+  },
+  "domain": "bookbinding",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "ia_item": "bookbindingcareo00cockrich",
+  "items": [
+    {
+      "hash": "sha256:50d459982aa5026fcb8e6765be7484b402598464322248d7d931a11461f5864b",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "board-machine"
+    },
+    {
+      "hash": "sha256:e430b13830b58db0f01b4fdf4bf7c33d5221ef7c352e1377e68d573346713f3e",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "bodkin"
+    },
+    {
+      "hash": "sha256:216cc80aeb64f2435abaff5ae80afa59a9a6f2d8242df9d39c8c81b55161ccbb",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "carpenter-square"
+    },
+    {
+      "hash": "sha256:030605e990d7d3b5aee4092632c758ee537845a298430dac2adad8084822cd1f",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "cleaning-off"
+    },
+    {
+      "hash": "sha256:4432c1b602c7f5948696e39b3782ea8b16b5f96d4d429a78a038f8f8ed784284",
+      "kind": "workflow",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "cutting-and-attaching-boards"
+    },
+    {
+      "hash": "sha256:57ae8ed29245a085678cf9fd34aba63e88760a02695782cee619b90f875c8726",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "cutting-boards"
+    },
+    {
+      "hash": "sha256:2c12025e8796a3702adbb9a1b4040fc54608e5e111fa0f37dc8996dcd2ae9bb2",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "compasses"
+    },
+    {
+      "hash": "sha256:6439aa0b076370331e4a7148618e2891b0b4e035ccff9193a4d38c1e3837abff",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "knocking-down-iron"
+    },
+    {
+      "hash": "sha256:6327f03825bd375d2ae2cd1bd07e838f3d3ca1fb431352417330c2a57eea7e2d",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "lacing-in"
+    },
+    {
+      "hash": "sha256:3d6762e3e1d4e882d0bb87a5657d751aefe36d58ec179a69db0d2f680544aeb5",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "lining-boards"
+    },
+    {
+      "hash": "sha256:12db05a22761d0cc96a7ac502a44240b86914b0fc035c50d15c0abfdc25376e3",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "lining-paper"
+    },
+    {
+      "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "lying-press"
+    },
+    {
+      "hash": "sha256:6fe26284e0a5ba509fb6bc9b3eef4090b08f4f4ac4d4503fcf682d0bbabcb21d",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "millboard"
+    },
+    {
+      "hash": "sha256:aaf69b4a6c7a283c1fbc2de4d0d9bb5b70897d714a360060c01306d619765d5c",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "millboard-shears"
+    },
+    {
+      "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "paste"
+    },
+    {
+      "hash": "sha256:2459d3a8c9486cd498dd85f548f0321cd51d0340cb6ea761f97d312902210c41",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "plough"
+    },
+    {
+      "hash": "sha256:28129169b601a3c12b861d26c81b984b25b5765209f0cde0aabd474065af99f1",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "plough-knife"
+    },
+    {
+      "hash": "sha256:0e871bb45654c734ce9dceecabee04538198f0e8f7257acc258caba55c8bcd51",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "pressing"
+    },
+    {
+      "hash": "sha256:aafe9c707dfb9be22048d560ce3e193f18a291491eb8ca690ed37e4899d7deb5",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "sewing-cord"
+    },
+    {
+      "hash": "sha256:ad8d3a9c1a538aa89270b270a797de51ec8d92734694fb3b42c5b4af6c2e6591",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "standing-press"
+    },
+    {
+      "hash": "sha256:c43ccc67e2964d5460fa511e671dbfc9ea8574e8ae7370b616bb595b358c6938",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "wooden-board"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Cockerell, Chapter IX: Cutting and Attaching Boards Cleaning off Back Pressing"
+  },
+  "record_class": "bundle",
+  "slug": "cockerell-ix",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "bookbinding",
+    "part1",
+    "chapter"
+  ]
+}

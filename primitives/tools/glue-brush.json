@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:e94fa7fa6389bd8f62975e71f95cb8354e9c2033f34d9eadde47814305b8c8b6",
+  "created": "2026-06-24",
+  "description": "A stiff round brush used to apply hot glue to a spine and work it down between the sections. Spinning it in the pot helps break up glue that has thickened so it spreads freely.",
+  "emitter": "opg://commons-seed",
+  "id": "glue-brush-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "glue brush",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "binding",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "glue brush"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-equipment"
+  },
+  "slug": "glue-brush",
+  "tags": [
+    "bookbinding",
+    "binding",
+    "forwarding-equipment"
+  ],
+  "visibility": "commons"
+}

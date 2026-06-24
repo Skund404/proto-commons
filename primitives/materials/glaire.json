@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:c393e2adf085eeb87583454dd8c2ddabe97fbd35b17cac38fbb4bb96d7173bbe",
+  "created": "2026-06-24",
+  "description": "A weak adhesive sizing made from beaten egg white thinned with water, left to settle and strained before use. Floated onto a prepared edge, it provides the tack that fixes gold leaf in place; one part egg white to four parts water is a typical proportion.",
+  "emitter": "opg://commons-seed",
+  "id": "glaire-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "glaire",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "size",
+    "names": {
+      "en": [
+        "glaire"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "decoration-material",
+    "unit": "ml"
+  },
+  "slug": "glaire",
+  "tags": [
+    "bookbinding",
+    "size",
+    "decoration-material"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,92 @@
+{
+  "content_hash": "sha256:ca9b6d24e6ee094e317c88459bc202b4524d4ce39da824ac25f177cac1eea01c",
+  "description": {
+    "en": "Chapter XVII (Pasting down End Papers Opening Books) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+  },
+  "domain": "bookbinding",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "ia_item": "bookbindingcareo00cockrich",
+  "items": [
+    {
+      "hash": "sha256:ebf4f9c589d3c427d5c79ad27a176b971fce600aeae889763c6a714253ee47ae",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "cutting-tin"
+    },
+    {
+      "hash": "sha256:826b561a42531ce020f377c9c73448da3b80759c3d9b34953cd1c8b5b145c2e2",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "dividers"
+    },
+    {
+      "hash": "sha256:6eb3ee82e0a4d97ff5a8df7ac17a75f26712deb6b6aec5d3905cd0ef048f3e58",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "end-paper"
+    },
+    {
+      "hash": "sha256:570bc33071c25a0ea49226c24da5e6e5e2d25758ca09068adc5ded303f455609",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "opening-newly-bound-books"
+    },
+    {
+      "hash": "sha256:8ec445696dbad2c1e359fd23e9b8b41e85f38dd01cc02fc32b0ced9fa899e11a",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "paring-knife"
+    },
+    {
+      "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "paste"
+    },
+    {
+      "hash": "sha256:645ad2599498d3909292a28d0560ffe01c5d84bcb9429efc18020d6a8b058186",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "pasting-down-end-papers"
+    },
+    {
+      "hash": "sha256:0c371aaf6b2dcbf5a675deaf311c29e6dfb266694f78db8d0fffcfb3d438793e",
+      "kind": "workflow",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "pasting-down-end-papers-procedure"
+    },
+    {
+      "hash": "sha256:4d99452f5c91ece8b538549ea4ba623ee0988db4b6d9cb792426a88661cfdfb2",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "straight-edge"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Cockerell, Chapter XVII: Pasting down End Papers Opening Books"
+  },
+  "record_class": "bundle",
+  "slug": "cockerell-xvii",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "bookbinding",
+    "part1",
+    "chapter"
+  ]
+}

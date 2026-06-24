@@ -1,0 +1,42 @@
+{
+  "content_hash": "sha256:ccb60343bc1a07579a24398aeae65f02a3fbe6d0e8777561b6f636dcc39a3ef2",
+  "created": "2026-06-24",
+  "description": "A strip of linen or cloth set into the inner hinge in place of leather. Because it can be thinner while still holding, it gives a stronger joint than a leather one, though with a plainer appearance.",
+  "emitter": "opg://commons-seed",
+  "id": "cloth-joint-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "cloth joint",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "cloth",
+    "names": {
+      "en": [
+        "cloth joint",
+        "cloth joints",
+        "linen joint"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "covering-material",
+    "unit": "piece"
+  },
+  "slug": "cloth-joint",
+  "tags": [
+    "bookbinding",
+    "cloth",
+    "covering-material"
+  ],
+  "visibility": "commons"
+}

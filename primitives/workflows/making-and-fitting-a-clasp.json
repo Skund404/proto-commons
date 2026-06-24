@@ -1,0 +1,95 @@
+{
+  "content_hash": "sha256:52283c130e054e33dcee0871a84945c2ff26fad6479aa96f4261284fe2bdf17e",
+  "created": "2026-06-24",
+  "description": "End-to-end procedure for furnishing a book with a working clasp: preparing the metal catch, anchoring it in the boards, plaiting the leather strap, and dressing the leather around the fitting so the closed cover holds the leaves flat.",
+  "emitter": "opg://commons-seed",
+  "id": "making-and-fitting-a-clasp-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "making and fitting a clasp",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "advanced",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "making and fitting a clasp"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "steps": [
+      {
+        "description": "Shape the metal catch and ring from heavy silver wire, flattening the ends that will be buried in the board.",
+        "position": 1
+      },
+      {
+        "description": "Anchor the catch: bed its flattened ends between the leaves of a double millboard and glue, or pass a turned end through a wooden board and rivet it on the inside.",
+        "position": 2
+      },
+      {
+        "description": "Thread several thin leather strips through the ring, paste each strip's ends, and braid the doubled strips into a plait.",
+        "position": 3
+      },
+      {
+        "description": "Lead the plait through a hole near the edge of the opposite board, set it into a cut groove and a scooped recess, and glue it down inside.",
+        "position": 4
+      },
+      {
+        "description": "When covering, pierce the leather and work it carefully around the projecting catch so the fitting seats cleanly.",
+        "position": 5
+      }
+    ],
+    "taxonomy": "forwarding-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:20df2ecb68d43ea5e1f321d60a0fd0c045f9ccde75c73f43e25409e01fcb6b9c",
+        "id": "fitting-clasps-seed",
+        "path": "primitives/techniques/fitting-clasps.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:19f921d1ea639a61a4c55d85a201057d8cf518e67d05f8636be7f22f4195d98e",
+        "id": "plaiting-clasp-straps-seed",
+        "path": "primitives/techniques/plaiting-clasp-straps.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:3d5e8928bb736be91408aea2b22b821a3f3576729f8376ef7134ee31506596e2",
+        "id": "metal-clasp-seed",
+        "path": "primitives/materials/metal-clasp.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:612eb44af2539cc58f28ab56e2db698c2b58ee0de0b1fb04cbdc69dfc18b855f",
+        "id": "silver-wire-seed",
+        "path": "primitives/materials/silver-wire.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "making-and-fitting-a-clasp",
+  "tags": [
+    "bookbinding",
+    "forwarding-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

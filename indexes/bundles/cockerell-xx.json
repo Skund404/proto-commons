@@ -1,0 +1,106 @@
+{
+  "content_hash": "sha256:aa8b2bfc40ba792ede907465cc1b7f05bdf926119eb852c5abde20fe50ea7e07",
+  "description": {
+    "en": "Chapter XX (Paper Pastes Glue) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+  },
+  "domain": "bookbinding",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "ia_item": "bookbindingcareo00cockrich",
+  "items": [
+    {
+      "hash": "sha256:c16f9df6e3d863a3685a88e708258dc52076ea2b408d17bb116cfeff7d72a680",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "art-paper"
+    },
+    {
+      "hash": "sha256:199e25c7b9d8b7a49d1cf66e3c7477cafb10dac1c5d250c8566a942a952a0d43",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "glue"
+    },
+    {
+      "hash": "sha256:637ef675f81865397e0799a5b84dc6e51148628f022d0030338e873214240cfd",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "glue-pot"
+    },
+    {
+      "hash": "sha256:940a692ab1992a19fd9994ed80bd664f9fa27d6f5301a54671fe9f4c85bdca50",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "hand-made-paper"
+    },
+    {
+      "hash": "sha256:bdd64e0fa890fa5ab250fa5db3784838336a05a379ac0b01d30ef4e8b0702b9b",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "japanese-vellum"
+    },
+    {
+      "hash": "sha256:3fe470fcea48b8cf1f54b3239b30fb8ee1cdb9c9697ed28400c7d62835b57d90",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "paper"
+    },
+    {
+      "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "paste"
+    },
+    {
+      "hash": "sha256:bf828fdfc10a1575efd228dda5344f8ab9597f837b0dc592a7600c5eab69734d",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "paste-brush"
+    },
+    {
+      "hash": "sha256:19dcf398d00c54a07b06fc58437476229b5494a658cfe3772d52a52f2436db9c",
+      "kind": "workflow",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "paste-making"
+    },
+    {
+      "hash": "sha256:095acd651901e7c1bafbd16e974db6945a8e424fcf852b8c6cf043e3d8e84ec3",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "paste-tub"
+    },
+    {
+      "hash": "sha256:2f9100b8b8bac62c23a33cae3ebe4475527ea6e98d568bf9f451d71bd3c7f334",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "white-paste"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Cockerell, Chapter XX: Paper Pastes Glue"
+  },
+  "record_class": "bundle",
+  "slug": "cockerell-xx",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "bookbinding",
+    "part1",
+    "chapter"
+  ]
+}

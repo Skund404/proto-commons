@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:36f1825cd133d55ac1871fd709acf30d7152e7eda9fbc0a269a3626a756bc5a2",
+  "created": "2026-06-24",
+  "description": "Coloured window glazing used to shield shelved books from the disintegrating action of direct sunlight. Pale yellow and olive-green shades filter the most damaging rays and protect leather, whereas blue and violet glass pass nearly as harmful a light as clear glass.",
+  "emitter": "opg://commons-seed",
+  "id": "tinted-glass-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "tinted glass",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "glazing",
+    "names": {
+      "en": [
+        "tinted glass"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "decoration-material",
+    "unit": "sheet"
+  },
+  "slug": "tinted-glass",
+  "tags": [
+    "bookbinding",
+    "glazing",
+    "decoration-material"
+  ],
+  "visibility": "commons"
+}

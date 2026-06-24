@@ -1,0 +1,57 @@
+{
+  "content_hash": "sha256:9ca096123041b26c6f2c6c17319facdeb080ca128217ce25eb454abf3cf18d75",
+  "created": "2026-06-24",
+  "description": "Sealing porous leather such as calf or sheep before tooling by washing it with paste-water and then with size, so the glaire and gold sit cleanly on the surface.",
+  "emitter": "opg://commons-seed",
+  "id": "sizing-leather-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "sizing leather",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "sizing leather"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "decoration-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:1e9a95113194b5d4acb0eaaa5fe915710fb0fa648836fcb970f4def340fdb907",
+        "id": "paste-water-seed",
+        "path": "primitives/materials/paste-water.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:8fc75b59efa2bbcab0857ed539e2284bdf3f65bc07cfc389c95f029bd95b9ef5",
+        "id": "leather-size-seed",
+        "path": "primitives/materials/leather-size.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "sizing-leather",
+  "tags": [
+    "bookbinding",
+    "decoration-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

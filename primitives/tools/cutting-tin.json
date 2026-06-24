@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:ebf4f9c589d3c427d5c79ad27a176b971fce600aeae889763c6a714253ee47ae",
+  "created": "2026-06-24",
+  "description": "A thin protective metal plate laid between leaves of a book so a sheet folded over it can be trimmed with a knife without cutting or marking the pages beneath.",
+  "emitter": "opg://commons-seed",
+  "id": "cutting-tin-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "cutting tin",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "cutting",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "cutting tin"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-equipment"
+  },
+  "slug": "cutting-tin",
+  "tags": [
+    "bookbinding",
+    "cutting",
+    "forwarding-equipment"
+  ],
+  "visibility": "commons"
+}

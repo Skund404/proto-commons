@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:3ef5a3576202ed50664a10ee54eb01bbcc211262a555029322d83589f65051ea",
+  "created": "2026-06-24",
+  "description": "A solid refined wax that is shredded and melted into oil to thicken a leather dressing. On its own it would stiffen leather, but blended with oil it contributes body to a preservative that stays soft and non-tacky.",
+  "emitter": "opg://commons-seed",
+  "id": "paraffin-wax-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "paraffin wax",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "wax",
+    "names": {
+      "en": [
+        "paraffin wax"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "covering-material",
+    "unit": "g"
+  },
+  "slug": "paraffin-wax",
+  "tags": [
+    "bookbinding",
+    "wax",
+    "covering-material"
+  ],
+  "visibility": "commons"
+}

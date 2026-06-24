@@ -1,0 +1,65 @@
+{
+  "content_hash": "sha256:7a1bf76994081427fafc8bf77f04b76f11db81d9cfa618e56b50d17b1f1b8c69",
+  "created": "2026-06-24",
+  "description": "Trimming the three edges of a book after its boards have been attached, ploughing each edge in turn while the boards are held in their bound position so the squares come out even. The head is cut first, then the tail, and the fore-edge last after its curve is straightened.",
+  "emitter": "opg://commons-seed",
+  "id": "cutting-in-boards-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "cutting in boards",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "cutting in boards"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "edge-decoration-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:2459d3a8c9486cd498dd85f548f0321cd51d0340cb6ea761f97d312902210c41",
+        "id": "plough-seed",
+        "path": "primitives/tools/plough.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:e0a3a216846b4e98473accd67506d0d29bd2ec9921b1d17939cc7f0a188ec0a8",
+        "id": "trindle-seed",
+        "path": "primitives/tools/trindle.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:e47eec32b4216cfe082eccb63500143dd5c458080ab3816a679fc504185480f5",
+        "id": "cutting-board-seed",
+        "path": "primitives/tools/cutting-board.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "cutting-in-boards",
+  "tags": [
+    "bookbinding",
+    "edge-decoration-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

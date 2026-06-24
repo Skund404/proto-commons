@@ -71,6 +71,16 @@
         "canonical": true
       }
     ],
+    "adhesive material": [
+      {
+        "ref": "categories/adhesive-material",
+        "class": "category",
+        "kind": null,
+        "name": "adhesive material",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "aeropress": [
       {
         "ref": "primitives/tools/aeropress.json",
@@ -245,6 +255,56 @@
         "canonical": true
       }
     ],
+    "arming press": [
+      {
+        "ref": "primitives/tools/arming-press.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "arming press",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "arms block": [
+      {
+        "ref": "primitives/tools/arms-block.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "arms block",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "arms blocking": [
+      {
+        "ref": "primitives/techniques/arms-blocking.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "arms blocking",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "arms-block": [
+      {
+        "ref": "primitives/tools/arms-block.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "arms-block",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "art paper": [
+      {
+        "ref": "primitives/materials/art-paper.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "art paper",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "artichoke": [
       {
         "ref": "primitives/materials/artichoke.json",
@@ -285,6 +345,16 @@
         "canonical": true
       }
     ],
+    "attaching a clasp": [
+      {
+        "ref": "primitives/techniques/fitting-clasps.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "attaching a clasp",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "aubergine": [
       {
         "ref": "primitives/materials/eggplant.json",
@@ -315,6 +385,16 @@
         "canonical": true
       }
     ],
+    "back-lining paper": [
+      {
+        "ref": "primitives/materials/lining-paper-spine.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "back-lining paper",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "backflush detergent": [
       {
         "ref": "primitives/materials/espresso-machine-cleaner.json",
@@ -335,6 +415,36 @@
         "canonical": true
       }
     ],
+    "backing": [
+      {
+        "ref": "primitives/techniques/backing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "backing",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "backing boards": [
+      {
+        "ref": "primitives/tools/backing-board.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "backing boards",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "backing hammer": [
+      {
+        "ref": "primitives/tools/backing-hammer.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "backing hammer",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "backsaw": [
       {
         "ref": "primitives/tools/tenon-saw.json",
@@ -351,6 +461,26 @@
         "class": "primitive",
         "kind": "material",
         "name": "banana",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "band nippers": [
+      {
+        "ref": "primitives/tools/band-nippers.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "band nippers",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "band stick": [
+      {
+        "ref": "primitives/tools/band-stick.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "band stick",
         "lang": "en",
         "canonical": true
       }
@@ -405,6 +535,16 @@
         "canonical": true
       }
     ],
+    "beating": [
+      {
+        "ref": "primitives/techniques/beating.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "beating",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "beeswax": [
       {
         "ref": "primitives/materials/beeswax.json",
@@ -455,6 +595,16 @@
         "canonical": false
       }
     ],
+    "benzine": [
+      {
+        "ref": "primitives/materials/benzine.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "benzine",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "berry": [
       {
         "ref": "categories/berry",
@@ -473,6 +623,26 @@
         "name": "Bialetti Moka Express",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "binder's bodkin": [
+      {
+        "ref": "primitives/tools/bodkin.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "binder's bodkin",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "binding tie": [
+      {
+        "ref": "primitives/materials/binding-tie.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "binding tie",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "black currant": [
@@ -501,6 +671,16 @@
         "class": "primitive",
         "kind": "material",
         "name": "blackcurrant",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "blacklead": [
+      {
+        "ref": "primitives/materials/blacklead.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "blacklead",
         "lang": "en",
         "canonical": true
       }
@@ -545,12 +725,62 @@
         "canonical": true
       }
     ],
+    "blind tooling": [
+      {
+        "ref": "primitives/techniques/blind-tooling.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "blind tooling",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "blind-tooled": [
+      {
+        "ref": "primitives/techniques/blind-tooling.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "blind-tooled",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "blocking press": [
+      {
+        "ref": "primitives/tools/arming-press.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "blocking press",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "bloodstone burnisher": [
+      {
+        "ref": "primitives/tools/burnisher.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "bloodstone burnisher",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "blooming": [
       {
         "ref": "primitives/techniques/blooming.json",
         "class": "primitive",
         "kind": "technique",
         "name": "blooming",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "blotting-paper": [
+      {
+        "ref": "primitives/materials/blotting-paper.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "blotting-paper",
         "lang": "en",
         "canonical": true
       }
@@ -563,6 +793,36 @@
         "name": "blueberry",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "board machine": [
+      {
+        "ref": "primitives/tools/board-machine.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "board machine",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "board material": [
+      {
+        "ref": "categories/board-material",
+        "class": "category",
+        "kind": null,
+        "name": "board material",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "bodkin": [
+      {
+        "ref": "primitives/tools/bodkin.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "bodkin",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "bodum chambord": [
@@ -593,6 +853,14 @@
         "name": "bone folder",
         "lang": "en",
         "canonical": true
+      },
+      {
+        "ref": "primitives/tools/folder.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "bone folder",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "bookbinding": [
@@ -615,6 +883,16 @@
         "canonical": true
       }
     ],
+    "bookbinding leather": [
+      {
+        "ref": "primitives/materials/cover-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "bookbinding leather",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "bookbinding material": [
       {
         "ref": "categories/bookbinding-material",
@@ -633,6 +911,26 @@
         "name": "bookbinding technique",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "bookworm treatment": [
+      {
+        "ref": "primitives/techniques/insect-pest-control.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "bookworm treatment",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "bosses": [
+      {
+        "ref": "primitives/materials/metal-furniture.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "bosses",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "botanical": [
@@ -919,7 +1217,25 @@
         "canonical": true
       }
     ],
+    "building a diaper pattern": [
+      {
+        "ref": "primitives/workflows/building-a-diaper-pattern.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "building a diaper pattern",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "burnisher": [
+      {
+        "ref": "primitives/tools/burnisher.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "burnisher",
+        "lang": "en",
+        "canonical": true
+      },
       {
         "ref": "primitives/tools/edge-slicker.json",
         "class": "primitive",
@@ -1015,6 +1331,36 @@
         "class": "primitive",
         "kind": "tool",
         "name": "cafetiere",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "calf": [
+      {
+        "ref": "primitives/materials/calf.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "calf",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "calfskin": [
+      {
+        "ref": "primitives/materials/calf.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "calfskin",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "camphor": [
+      {
+        "ref": "primitives/materials/insect-repellent.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "camphor",
         "lang": "en",
         "canonical": false
       }
@@ -1145,6 +1491,16 @@
         "canonical": true
       }
     ],
+    "cartridge paper": [
+      {
+        "ref": "primitives/materials/filling-in-paper.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "cartridge paper",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "cask": [
       {
         "ref": "categories/oak-barrel",
@@ -1163,6 +1519,16 @@
         "canonical": false
       }
     ],
+    "castor oil": [
+      {
+        "ref": "primitives/materials/castor-oil.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "castor oil",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "catch stitch": [
       {
         "ref": "primitives/techniques/kettle-stitch.json",
@@ -1171,6 +1537,16 @@
         "name": "catch stitch",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "catgut": [
+      {
+        "ref": "primitives/materials/catgut.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "catgut",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "cauliflower": [
@@ -1209,6 +1585,16 @@
         "class": "primitive",
         "kind": "material",
         "name": "celery root",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "celluloid sheet": [
+      {
+        "ref": "primitives/materials/waterproof-sheet.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "celluloid sheet",
         "lang": "en",
         "canonical": false
       }
@@ -1353,6 +1739,16 @@
         "canonical": false
       }
     ],
+    "chrome leather": [
+      {
+        "ref": "primitives/materials/chrome-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "chrome leather",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "chrome tan": [
       {
         "ref": "primitives/materials/chrome-tanned-leather.json",
@@ -1371,6 +1767,14 @@
         "name": "chrome-tanned leather",
         "lang": "en",
         "canonical": true
+      },
+      {
+        "ref": "primitives/materials/chrome-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "chrome-tanned leather",
+        "lang": "en",
+        "canonical": false
       },
       {
         "ref": "primitives/materials/chrome-tanned-leather.json",
@@ -1411,12 +1815,32 @@
         "canonical": true
       }
     ],
+    "clasp": [
+      {
+        "ref": "primitives/materials/metal-clasp.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "clasp",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "cleaning agent": [
       {
         "ref": "categories/cleaning-agent",
         "class": "category",
         "kind": null,
         "name": "cleaning agent",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "cleaning off the back": [
+      {
+        "ref": "primitives/techniques/cleaning-off.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "cleaning off the back",
         "lang": "en",
         "canonical": true
       }
@@ -1465,6 +1889,36 @@
         "class": "primitive",
         "kind": "material",
         "name": "cloth filter",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "cloth joint": [
+      {
+        "ref": "primitives/materials/cloth-joint.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "cloth joint",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "cloth joints": [
+      {
+        "ref": "primitives/materials/cloth-joint.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "cloth joints",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "cocoanut oil": [
+      {
+        "ref": "primitives/materials/cocoanut-oil.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "cocoanut oil",
         "lang": "en",
         "canonical": true
       }
@@ -1567,6 +2021,16 @@
         "canonical": true
       }
     ],
+    "collating": [
+      {
+        "ref": "primitives/techniques/collating.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "collating",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "column packing": [
       {
         "ref": "categories/column-packing",
@@ -1613,12 +2077,40 @@
         "canonical": true
       }
     ],
+    "combining tools to form patterns": [
+      {
+        "ref": "primitives/techniques/combining-tools.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "combining tools to form patterns",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "compass divider": [
       {
         "ref": "primitives/tools/wing-divider.json",
         "class": "primitive",
         "kind": "tool",
         "name": "compass divider",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "compasses": [
+      {
+        "ref": "primitives/tools/compasses.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "compasses",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/dividers.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "compasses",
         "lang": "en",
         "canonical": false
       }
@@ -1657,6 +2149,16 @@
         "class": "primitive",
         "kind": "tool",
         "name": "conical fermenter",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "conservation technique": [
+      {
+        "ref": "categories/conservation-technique",
+        "class": "category",
+        "kind": null,
+        "name": "conservation technique",
         "lang": "en",
         "canonical": true
       }
@@ -1719,6 +2221,16 @@
         "canonical": true
       }
     ],
+    "cord core": [
+      {
+        "ref": "primitives/materials/headband-core.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "cord core",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "coriander seed": [
       {
         "ref": "primitives/materials/coriander-seed.json",
@@ -1735,6 +2247,26 @@
         "class": "primitive",
         "kind": "material",
         "name": "corn",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "corner repair": [
+      {
+        "ref": "primitives/techniques/corner-repair.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "corner repair",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "corners": [
+      {
+        "ref": "primitives/materials/metal-furniture.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "corners",
         "lang": "en",
         "canonical": false
       }
@@ -1769,6 +2301,86 @@
         "canonical": false
       }
     ],
+    "cover leather": [
+      {
+        "ref": "primitives/materials/cover-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "cover leather",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "covering": [
+      {
+        "ref": "primitives/techniques/covering.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "covering",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "covering a book in leather": [
+      {
+        "ref": "primitives/workflows/covering-in-leather.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "covering a book in leather",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "covering leather": [
+      {
+        "ref": "primitives/materials/cover-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "covering leather",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "covering material": [
+      {
+        "ref": "categories/covering-material",
+        "class": "category",
+        "kind": null,
+        "name": "covering material",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "covering technique": [
+      {
+        "ref": "categories/covering-technique",
+        "class": "category",
+        "kind": null,
+        "name": "covering technique",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "covering with embroidery": [
+      {
+        "ref": "primitives/techniques/embroidery-covering.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "covering with embroidery",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "covering with vellum": [
+      {
+        "ref": "primitives/techniques/vellum-covering.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "covering with vellum",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "cranberry": [
       {
         "ref": "primitives/materials/cranberry.json",
@@ -1787,6 +2399,16 @@
         "name": "cruciferous vegetable",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "crushing the grain": [
+      {
+        "ref": "primitives/techniques/crushing-grain.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "crushing the grain",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "cucumber": [
@@ -1869,6 +2491,54 @@
         "canonical": true
       }
     ],
+    "cutting and attaching boards": [
+      {
+        "ref": "primitives/workflows/cutting-and-attaching-boards.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "cutting and attaching boards",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "cutting board": [
+      {
+        "ref": "primitives/tools/cutting-board.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "cutting board",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "cutting boards": [
+      {
+        "ref": "primitives/techniques/cutting-boards.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "cutting boards",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/cutting-board.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "cutting boards",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "cutting in boards": [
+      {
+        "ref": "primitives/techniques/cutting-in-boards.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "cutting in boards",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "cutting knife": [
       {
         "ref": "categories/cutting-knife",
@@ -1885,6 +2555,16 @@
         "class": "category",
         "kind": null,
         "name": "cutting technique",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "cutting tin": [
+      {
+        "ref": "primitives/tools/cutting-tin.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "cutting tin",
         "lang": "en",
         "canonical": true
       }
@@ -1995,6 +2675,26 @@
         "canonical": false
       }
     ],
+    "decoration material": [
+      {
+        "ref": "categories/decoration-material",
+        "class": "category",
+        "kind": null,
+        "name": "decoration material",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "decoration technique": [
+      {
+        "ref": "categories/decoration-technique",
+        "class": "category",
+        "kind": null,
+        "name": "decoration technique",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "demijohn": [
       {
         "ref": "categories/demijohn",
@@ -2059,6 +2759,26 @@
         "name": "descaling solution",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "design paper": [
+      {
+        "ref": "primitives/materials/design-paper.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "design paper",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "designing finishing tools": [
+      {
+        "ref": "primitives/techniques/designing-finishing-tools.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "designing finishing tools",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "diamond awl": [
@@ -2225,6 +2945,16 @@
         "canonical": true
       }
     ],
+    "dividers": [
+      {
+        "ref": "primitives/tools/dividers.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "dividers",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "dosing and weighing": [
       {
         "ref": "primitives/techniques/dosing-and-weighing.json",
@@ -2323,6 +3053,16 @@
         "canonical": true
       }
     ],
+    "dressing old leather": [
+      {
+        "ref": "primitives/techniques/preserving-old-bindings.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "dressing old leather",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "dripper": [
       {
         "ref": "categories/pour-over-brewer",
@@ -2349,6 +3089,26 @@
         "class": "category",
         "kind": null,
         "name": "drupe",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "dusting": [
+      {
+        "ref": "primitives/techniques/dusting.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "dusting",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "dusting books": [
+      {
+        "ref": "primitives/techniques/dusting.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "dusting books",
         "lang": "en",
         "canonical": false
       }
@@ -2411,6 +3171,26 @@
         "canonical": true
       }
     ],
+    "edge colour": [
+      {
+        "ref": "primitives/materials/edge-colour.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "edge colour",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "edge colouring": [
+      {
+        "ref": "primitives/techniques/edge-colouring.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "edge colouring",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "edge creaser": [
       {
         "ref": "primitives/tools/edge-creaser.json",
@@ -2431,12 +3211,52 @@
         "canonical": true
       }
     ],
+    "edge decoration technique": [
+      {
+        "ref": "categories/edge-decoration-technique",
+        "class": "category",
+        "kind": null,
+        "name": "edge decoration technique",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "edge dyeing": [
       {
         "ref": "primitives/techniques/edge-dyeing.json",
         "class": "primitive",
         "kind": "technique",
         "name": "edge dyeing",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "edge equipment": [
+      {
+        "ref": "categories/edge-equipment",
+        "class": "category",
+        "kind": null,
+        "name": "edge equipment",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "edge gilding": [
+      {
+        "ref": "primitives/techniques/edge-gilding.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "edge gilding",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "edge gilding before sewing": [
+      {
+        "ref": "primitives/workflows/edge-gilding-before-sewing.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "edge gilding before sewing",
         "lang": "en",
         "canonical": true
       }
@@ -2469,6 +3289,16 @@
         "name": "edge slicker",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "edge stain": [
+      {
+        "ref": "primitives/materials/edge-colour.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "edge stain",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "edge technique": [
@@ -2567,6 +3397,46 @@
         "name": "electric grinder",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "embroidered binding": [
+      {
+        "ref": "primitives/techniques/embroidery-covering.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "embroidered binding",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "embroidered material": [
+      {
+        "ref": "primitives/materials/embroidered-fabric.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "embroidered material",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "end paper": [
+      {
+        "ref": "primitives/materials/end-paper.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "end paper",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "end papers": [
+      {
+        "ref": "primitives/materials/end-paper.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "end papers",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "endive": [
@@ -2743,6 +3613,16 @@
         "canonical": true
       }
     ],
+    "feather duster": [
+      {
+        "ref": "primitives/tools/feather-duster.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "feather duster",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "fellow ode gen 2": [
       {
         "ref": "primitives/tools/fellow-ode-gen2.json",
@@ -2871,6 +3751,36 @@
         "canonical": true
       }
     ],
+    "fillet": [
+      {
+        "ref": "primitives/tools/fillet.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "fillet",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "filling in boards": [
+      {
+        "ref": "primitives/techniques/filling-in-boards.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "filling in boards",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "filling-in paper": [
+      {
+        "ref": "primitives/materials/filling-in-paper.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "filling-in paper",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "filter": [
       {
         "ref": "categories/filter",
@@ -2909,6 +3819,36 @@
         "canonical": true
       }
     ],
+    "finishing equipment": [
+      {
+        "ref": "categories/finishing-equipment",
+        "class": "category",
+        "kind": null,
+        "name": "finishing equipment",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "finishing press": [
+      {
+        "ref": "primitives/tools/finishing-press.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "finishing press",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "finishing stove": [
+      {
+        "ref": "primitives/tools/finishing-stove.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "finishing stove",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "finishing technique": [
       {
         "ref": "categories/finishing-technique",
@@ -2917,6 +3857,36 @@
         "name": "finishing technique",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "finishing tool": [
+      {
+        "ref": "primitives/tools/finishing-tool.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "finishing tool",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "fitting clasps": [
+      {
+        "ref": "primitives/techniques/fitting-clasps.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "fitting clasps",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "fixing metal on bindings": [
+      {
+        "ref": "primitives/techniques/mounting-metal-furniture.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "fixing metal on bindings",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "flair 58": [
@@ -2945,6 +3915,26 @@
         "class": "primitive",
         "kind": "tool",
         "name": "flat-bottom dripper",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "flattening hammer": [
+      {
+        "ref": "primitives/tools/flattening-hammer.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "flattening hammer",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "flattening vellum": [
+      {
+        "ref": "primitives/techniques/flattening-vellum.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "flattening vellum",
         "lang": "en",
         "canonical": true
       }
@@ -2987,12 +3977,72 @@
         "canonical": true
       }
     ],
+    "folder": [
+      {
+        "ref": "primitives/tools/folder.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "folder",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "folding": [
+      {
+        "ref": "primitives/techniques/folding.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "folding",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "fore-edge painting": [
+      {
+        "ref": "primitives/techniques/fore-edge-painting.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "fore-edge painting",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "foreshots heads hearts tails": [
       {
         "ref": "primitives/techniques/making-cuts.json",
         "class": "primitive",
         "kind": "technique",
         "name": "foreshots heads hearts tails",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "forwarding equipment": [
+      {
+        "ref": "categories/forwarding-equipment",
+        "class": "category",
+        "kind": null,
+        "name": "forwarding equipment",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "forwarding technique": [
+      {
+        "ref": "categories/forwarding-technique",
+        "class": "category",
+        "kind": null,
+        "name": "forwarding technique",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "forwarding the back": [
+      {
+        "ref": "primitives/workflows/rounding-and-backing.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "forwarding the back",
         "lang": "en",
         "canonical": false
       }
@@ -3007,6 +4057,26 @@
         "canonical": true
       }
     ],
+    "fraying out": [
+      {
+        "ref": "primitives/techniques/fraying-out-slips.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "fraying out",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "fraying out slips": [
+      {
+        "ref": "primitives/techniques/fraying-out-slips.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "fraying out slips",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "french bean": [
       {
         "ref": "primitives/materials/green-bean.json",
@@ -3015,6 +4085,36 @@
         "name": "French bean",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "french joint": [
+      {
+        "ref": "primitives/techniques/french-joint.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "French joint",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "french knife": [
+      {
+        "ref": "primitives/tools/leather-paring-knife.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "French knife",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "french paring knife": [
+      {
+        "ref": "primitives/tools/leather-paring-knife.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "French paring knife",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "french press": [
@@ -3155,6 +4255,76 @@
         "canonical": true
       }
     ],
+    "gathering": [
+      {
+        "ref": "primitives/techniques/gathering.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "gathering",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "gauffering": [
+      {
+        "ref": "primitives/techniques/gauffering.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "gauffering",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "gelatine size": [
+      {
+        "ref": "primitives/materials/gelatine-size.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "gelatine size",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "gilder's red chalk": [
+      {
+        "ref": "primitives/materials/red-chalk.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "gilder's red chalk",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "gilder's tip": [
+      {
+        "ref": "primitives/tools/gilders-tip.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "gilder's tip",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "gilding boards": [
+      {
+        "ref": "primitives/tools/cutting-board.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "gilding boards",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "gilding edges": [
+      {
+        "ref": "primitives/techniques/edge-gilding.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "gilding edges",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "gin basket": [
       {
         "ref": "categories/gin-basket",
@@ -3223,6 +4393,16 @@
         "canonical": true
       }
     ],
+    "glaire": [
+      {
+        "ref": "primitives/materials/glaire.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "glaire",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "glass aging vessel": [
       {
         "ref": "categories/glass-aging-vessel",
@@ -3261,12 +4441,52 @@
         "canonical": false
       }
     ],
+    "glue": [
+      {
+        "ref": "primitives/materials/glue.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "glue",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "glue and stitch a lap seam": [
       {
         "ref": "primitives/workflows/glue-and-stitch-a-lap-seam.json",
         "class": "primitive",
         "kind": "workflow",
         "name": "glue and stitch a lap seam",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "glue brush": [
+      {
+        "ref": "primitives/tools/glue-brush.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "glue brush",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "glue-pot": [
+      {
+        "ref": "primitives/tools/glue-pot.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "glue-pot",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "glueing up": [
+      {
+        "ref": "primitives/techniques/glueing-up.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "glueing up",
         "lang": "en",
         "canonical": true
       }
@@ -3279,6 +4499,86 @@
         "name": "gluing",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "gluing up": [
+      {
+        "ref": "primitives/techniques/glueing-up.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "gluing up",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "goatskin": [
+      {
+        "ref": "primitives/materials/goatskin.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "goatskin",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "gold": [
+      {
+        "ref": "primitives/materials/gold-leaf.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "gold",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "gold cushion": [
+      {
+        "ref": "primitives/tools/gold-cushion.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "gold cushion",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "gold finishing": [
+      {
+        "ref": "primitives/workflows/gold-finishing.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "gold finishing",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "gold knife": [
+      {
+        "ref": "primitives/tools/gold-knife.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "gold knife",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "gold leaf": [
+      {
+        "ref": "primitives/materials/gold-leaf.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "gold leaf",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "gold tooling": [
+      {
+        "ref": "primitives/techniques/gold-tooling.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "gold tooling",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "gooseberry": [
@@ -3307,6 +4607,26 @@
         "name": "gooseneck kettle",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "gouge": [
+      {
+        "ref": "primitives/tools/gouge.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "gouge",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "gouges": [
+      {
+        "ref": "primitives/tools/gouge.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "gouges",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "gourd": [
@@ -3465,6 +4785,36 @@
         "canonical": false
       }
     ],
+    "guard": [
+      {
+        "ref": "primitives/materials/guard.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "guard",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "guarding": [
+      {
+        "ref": "primitives/techniques/guarding.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "guarding",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "guarding in": [
+      {
+        "ref": "primitives/techniques/mounting.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "guarding in",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "guava": [
       {
         "ref": "primitives/materials/guava.json",
@@ -3483,6 +4833,42 @@
         "name": "gum tragacanth",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "gut": [
+      {
+        "ref": "primitives/materials/catgut.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "gut",
+        "lang": "en",
+        "canonical": false
+      },
+      {
+        "ref": "primitives/materials/headband-core.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "gut",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "hammer": [
+      {
+        "ref": "primitives/tools/backing-hammer.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "hammer",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/tools/flattening-hammer.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "hammer",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "hand grinder": [
@@ -3511,6 +4897,36 @@
         "name": "hand press",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "hand-made paper": [
+      {
+        "ref": "primitives/materials/hand-made-paper.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "hand-made paper",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "handle letter": [
+      {
+        "ref": "primitives/tools/handle-letter.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "handle letter",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "handle letters": [
+      {
+        "ref": "primitives/tools/handle-letter.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "handle letters",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "hardware": [
@@ -3611,6 +5027,36 @@
         "canonical": true
       }
     ],
+    "headband": [
+      {
+        "ref": "primitives/materials/headband.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "headband",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "headband core": [
+      {
+        "ref": "primitives/materials/headband-core.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "headband core",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "headbanding": [
+      {
+        "ref": "primitives/techniques/headbanding.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "headbanding",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "heat source": [
       {
         "ref": "categories/heat-source",
@@ -3631,6 +5077,26 @@
         "canonical": false
       }
     ],
+    "heraldic block": [
+      {
+        "ref": "primitives/tools/arms-block.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "heraldic block",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "heraldry on book covers": [
+      {
+        "ref": "primitives/techniques/arms-blocking.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "heraldry on book covers",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "hillbilly flute": [
       {
         "ref": "primitives/tools/hillbilly-flute.json",
@@ -3641,6 +5107,26 @@
         "canonical": true
       }
     ],
+    "hinging plates": [
+      {
+        "ref": "primitives/techniques/hinging-plates.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "hinging plates",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "hog's hair brush": [
+      {
+        "ref": "primitives/tools/soft-brush.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "hog's hair brush",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "hole punch": [
       {
         "ref": "primitives/tools/hole-punch.json",
@@ -3649,6 +5135,26 @@
         "name": "hole punch",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "hollow back": [
+      {
+        "ref": "primitives/techniques/hollow-back.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "hollow back",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "hollow-back": [
+      {
+        "ref": "primitives/techniques/hollow-back.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "hollow-back",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "honey": [
@@ -3845,12 +5351,100 @@
         "canonical": true
       }
     ],
+    "inlaying": [
+      {
+        "ref": "primitives/techniques/inlaying.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "inlaying",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "inlaying on leather": [
+      {
+        "ref": "primitives/techniques/inlaying-on-leather.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "inlaying on leather",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "insect pest control": [
+      {
+        "ref": "primitives/techniques/insect-pest-control.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "insect pest control",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "insect repellent": [
+      {
+        "ref": "primitives/materials/insect-repellent.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "insect repellent",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "isinglass size": [
+      {
+        "ref": "primitives/materials/gelatine-size.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "isinglass size",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "istill mini": [
       {
         "ref": "primitives/tools/istill-mini.json",
         "class": "primitive",
         "kind": "tool",
         "name": "iStill Mini",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "jaconet": [
+      {
+        "ref": "primitives/materials/mounting-linen.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "jaconet",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "japanese paper": [
+      {
+        "ref": "primitives/materials/japanese-vellum.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "Japanese paper",
+        "lang": "en",
+        "canonical": false
+      },
+      {
+        "ref": "primitives/materials/mending-paper.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "Japanese paper",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "japanese vellum": [
+      {
+        "ref": "primitives/materials/japanese-vellum.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "Japanese vellum",
         "lang": "en",
         "canonical": true
       }
@@ -3985,6 +5579,26 @@
         "canonical": true
       }
     ],
+    "knocking out joints": [
+      {
+        "ref": "primitives/techniques/knocking-out-joints.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "knocking out joints",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "knocking-down iron": [
+      {
+        "ref": "primitives/tools/knocking-down-iron.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "knocking-down iron",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "kohlrabi": [
       {
         "ref": "primitives/materials/kohlrabi.json",
@@ -4011,6 +5625,16 @@
         "class": "primitive",
         "kind": "tool",
         "name": "La Marzocco Linea Mini",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "lacing in": [
+      {
+        "ref": "primitives/techniques/lacing-in.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "lacing in",
         "lang": "en",
         "canonical": true
       }
@@ -4063,6 +5687,14 @@
         "name": "leather",
         "lang": "en",
         "canonical": true
+      },
+      {
+        "ref": "primitives/materials/cover-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "leather",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "leather balm": [
@@ -4091,6 +5723,16 @@
         "class": "primitive",
         "kind": "material",
         "name": "leather conditioner",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "leather dressing": [
+      {
+        "ref": "primitives/materials/leather-dressing.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "leather dressing",
         "lang": "en",
         "canonical": true
       }
@@ -4125,12 +5767,42 @@
         "canonical": false
       }
     ],
+    "leather joint": [
+      {
+        "ref": "primitives/materials/leather-joint.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "leather joint",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "leather joints": [
+      {
+        "ref": "primitives/materials/leather-joint.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "leather joints",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "leather mallet": [
       {
         "ref": "primitives/tools/mallet.json",
         "class": "primitive",
         "kind": "tool",
         "name": "leather mallet",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "leather preservative": [
+      {
+        "ref": "primitives/materials/leather-dressing.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "leather preservative",
         "lang": "en",
         "canonical": false
       }
@@ -4155,12 +5827,32 @@
         "canonical": false
       }
     ],
+    "leather size": [
+      {
+        "ref": "primitives/materials/leather-size.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "leather size",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "leather strap construction": [
       {
         "ref": "primitives/workflows/leather-strap-construction.json",
         "class": "primitive",
         "kind": "workflow",
         "name": "leather strap construction",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "leather work": [
+      {
+        "ref": "primitives/techniques/leather-work.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "leather work",
         "lang": "en",
         "canonical": true
       }
@@ -4245,6 +5937,36 @@
         "canonical": true
       }
     ],
+    "lettering": [
+      {
+        "ref": "primitives/techniques/lettering.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "lettering",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "lettering on the back": [
+      {
+        "ref": "primitives/techniques/lettering.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "lettering on the back",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "lettering the back": [
+      {
+        "ref": "primitives/workflows/lettering-the-back.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "lettering the back",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "lettuce": [
       {
         "ref": "primitives/materials/lettuce.json",
@@ -4283,6 +6005,16 @@
         "name": "lever snap",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "library binding": [
+      {
+        "ref": "primitives/workflows/library-binding.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "library binding",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "liebig condenser": [
@@ -4333,6 +6065,26 @@
         "canonical": true
       }
     ],
+    "linen": [
+      {
+        "ref": "primitives/materials/mounting-linen.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "linen",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "linen joint": [
+      {
+        "ref": "primitives/materials/cloth-joint.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "linen joint",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "linen thread": [
       {
         "ref": "primitives/materials/sewing-thread.json",
@@ -4343,12 +6095,52 @@
         "canonical": false
       }
     ],
+    "lining boards": [
+      {
+        "ref": "primitives/techniques/lining-boards.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "lining boards",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "lining paper": [
+      {
+        "ref": "primitives/materials/lining-paper.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "lining paper",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "lining up": [
+      {
+        "ref": "primitives/techniques/lining-up.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "lining up",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "litchi": [
       {
         "ref": "primitives/materials/lychee.json",
         "class": "primitive",
         "kind": "material",
         "name": "litchi",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "lithographic stone": [
+      {
+        "ref": "primitives/tools/paring-stone.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "lithographic stone",
         "lang": "en",
         "canonical": false
       }
@@ -4439,6 +6231,16 @@
         "canonical": false
       }
     ],
+    "making and fitting a clasp": [
+      {
+        "ref": "primitives/workflows/making-and-fitting-a-clasp.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "making and fitting a clasp",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "making cuts": [
       {
         "ref": "primitives/techniques/making-cuts.json",
@@ -4447,6 +6249,46 @@
         "name": "making cuts",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "making end papers": [
+      {
+        "ref": "primitives/workflows/making-end-papers.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "making end papers",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "making out a lettering paper": [
+      {
+        "ref": "primitives/workflows/lettering-the-back.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "making out a lettering paper",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "making paste": [
+      {
+        "ref": "primitives/workflows/paste-making.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "making paste",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "making split boards": [
+      {
+        "ref": "primitives/techniques/split-boards.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "making split boards",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "mallet": [
@@ -4533,6 +6375,16 @@
         "class": "primitive",
         "kind": "tool",
         "name": "manual lever espresso maker",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "marbled paper": [
+      {
+        "ref": "primitives/materials/marbled-paper.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "marbled paper",
         "lang": "en",
         "canonical": true
       }
@@ -4645,6 +6497,64 @@
         "canonical": true
       }
     ],
+    "mending": [
+      {
+        "ref": "primitives/techniques/mending.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "mending",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "mending paper": [
+      {
+        "ref": "primitives/materials/mending-paper.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "mending paper",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/techniques/mending.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "mending paper",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "mending paste": [
+      {
+        "ref": "primitives/materials/mending-paste.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "mending paste",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "mending tooling": [
+      {
+        "ref": "primitives/techniques/mending-tooling.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "mending tooling",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "mending vellum": [
+      {
+        "ref": "primitives/techniques/mending-vellum.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "mending vellum",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "mesh bag": [
       {
         "ref": "categories/mesh-bag",
@@ -4663,12 +6573,32 @@
         "canonical": true
       }
     ],
+    "metal clasp": [
+      {
+        "ref": "primitives/materials/metal-clasp.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "metal clasp",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "metal filter": [
       {
         "ref": "categories/metal-filter",
         "class": "category",
         "kind": null,
         "name": "metal filter",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "metal furniture": [
+      {
+        "ref": "primitives/materials/metal-furniture.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "metal furniture",
         "lang": "en",
         "canonical": true
       }
@@ -4751,12 +6681,62 @@
         "canonical": true
       }
     ],
+    "mill-board": [
+      {
+        "ref": "primitives/materials/millboard.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "mill-board",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "millboard": [
+      {
+        "ref": "primitives/materials/millboard.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "millboard",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "millboard cover": [
+      {
+        "ref": "primitives/techniques/protective-shelf-case.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "millboard cover",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "millboard shears": [
+      {
+        "ref": "primitives/tools/millboard-shears.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "millboard shears",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "mink oil": [
       {
         "ref": "primitives/materials/mink-oil.json",
         "class": "primitive",
         "kind": "material",
         "name": "mink oil",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "mitring corners": [
+      {
+        "ref": "primitives/techniques/mitring-corners.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "mitring corners",
         "lang": "en",
         "canonical": true
       }
@@ -4807,6 +6787,56 @@
         "canonical": true
       }
     ],
+    "morocco": [
+      {
+        "ref": "primitives/materials/goatskin.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "morocco",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "mount-cutter's knife": [
+      {
+        "ref": "primitives/tools/mount-cutters-knife.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "mount-cutter's knife",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "mounting": [
+      {
+        "ref": "primitives/techniques/mounting.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "mounting",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "mounting metal furniture": [
+      {
+        "ref": "primitives/techniques/mounting-metal-furniture.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "mounting metal furniture",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "mounting very thin paper": [
+      {
+        "ref": "primitives/techniques/mounting-thin-paper.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "mounting very thin paper",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "mug": [
       {
         "ref": "primitives/tools/mug.json",
@@ -4823,6 +6853,16 @@
         "class": "primitive",
         "kind": "tool",
         "name": "muslin bag",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "naphthaline": [
+      {
+        "ref": "primitives/materials/insect-repellent.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "naphthaline",
         "lang": "en",
         "canonical": false
       }
@@ -4857,6 +6897,26 @@
         "canonical": true
       }
     ],
+    "needle": [
+      {
+        "ref": "primitives/tools/sewing-needle.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "needle",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "net for gilding": [
+      {
+        "ref": "primitives/tools/gilders-tip.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "net for gilding",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "niche zero": [
       {
         "ref": "primitives/tools/niche-zero.json",
@@ -4873,6 +6933,16 @@
         "class": "category",
         "kind": null,
         "name": "nightshade",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "nipping press": [
+      {
+        "ref": "primitives/tools/nipping-press.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "nipping press",
         "lang": "en",
         "canonical": true
       }
@@ -5033,6 +7103,16 @@
         "canonical": false
       }
     ],
+    "opening newly bound books": [
+      {
+        "ref": "primitives/techniques/opening-newly-bound-books.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "opening newly bound books",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "orange": [
       {
         "ref": "primitives/materials/orange.json",
@@ -5073,6 +7153,16 @@
         "canonical": true
       }
     ],
+    "overcasting": [
+      {
+        "ref": "primitives/techniques/overcasting.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "overcasting",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "pak choi": [
       {
         "ref": "primitives/materials/bok-choy.json",
@@ -5083,12 +7173,42 @@
         "canonical": false
       }
     ],
+    "pallet": [
+      {
+        "ref": "primitives/tools/pallet.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "pallet",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "papaya": [
       {
         "ref": "primitives/materials/papaya.json",
         "class": "primitive",
         "kind": "material",
         "name": "papaya",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "paper": [
+      {
+        "ref": "primitives/materials/paper.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "paper",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "paper cleaning agent": [
+      {
+        "ref": "primitives/materials/paper-cleaning-agent.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "paper cleaning agent",
         "lang": "en",
         "canonical": true
       }
@@ -5111,6 +7231,26 @@
         "canonical": true
       }
     ],
+    "paper material": [
+      {
+        "ref": "categories/paper-material",
+        "class": "category",
+        "kind": null,
+        "name": "paper material",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "paraffin wax": [
+      {
+        "ref": "primitives/materials/paraffin-wax.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "paraffin wax",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "paring": [
       {
         "ref": "primitives/techniques/skiving.json",
@@ -5123,12 +7263,50 @@
     ],
     "paring knife": [
       {
+        "ref": "primitives/tools/paring-knife.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "paring knife",
+        "lang": "en",
+        "canonical": true
+      },
+      {
         "ref": "primitives/tools/skiving-knife.json",
         "class": "primitive",
         "kind": "tool",
         "name": "paring knife",
         "lang": "en",
         "canonical": false
+      }
+    ],
+    "paring leather": [
+      {
+        "ref": "primitives/techniques/paring-leather.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "paring leather",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "paring paper": [
+      {
+        "ref": "primitives/techniques/paring-paper.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "paring paper",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "paring stone": [
+      {
+        "ref": "primitives/tools/paring-stone.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "paring stone",
+        "lang": "en",
+        "canonical": true
       }
     ],
     "parrot": [
@@ -5175,6 +7353,72 @@
         "class": "primitive",
         "kind": "material",
         "name": "passion fruit",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "paste": [
+      {
+        "ref": "primitives/materials/mending-paste.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "paste",
+        "lang": "en",
+        "canonical": false
+      },
+      {
+        "ref": "primitives/materials/paste.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "paste",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "paste brush": [
+      {
+        "ref": "primitives/tools/paste-brush.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "paste brush",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "paste tub": [
+      {
+        "ref": "primitives/tools/paste-tub.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "paste tub",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "paste-water": [
+      {
+        "ref": "primitives/materials/paste-water.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "paste-water",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "pasting down end papers": [
+      {
+        "ref": "primitives/techniques/pasting-down-end-papers.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "pasting down end papers",
+        "lang": "en",
+        "canonical": true
+      },
+      {
+        "ref": "primitives/workflows/pasting-down-end-papers-procedure.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "pasting down end papers",
         "lang": "en",
         "canonical": true
       }
@@ -5277,6 +7521,16 @@
         "canonical": true
       }
     ],
+    "pigskin": [
+      {
+        "ref": "primitives/materials/pigskin.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "pigskin",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "pineapple": [
       {
         "ref": "primitives/materials/pineapple.json",
@@ -5293,6 +7547,26 @@
         "class": "primitive",
         "kind": "material",
         "name": "pitaya",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "plaiting clasp straps": [
+      {
+        "ref": "primitives/techniques/plaiting-clasp-straps.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "plaiting clasp straps",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "plaiting leather strips": [
+      {
+        "ref": "primitives/techniques/plaiting-clasp-straps.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "plaiting leather strips",
         "lang": "en",
         "canonical": false
       }
@@ -5317,6 +7591,26 @@
         "canonical": true
       }
     ],
+    "plough": [
+      {
+        "ref": "primitives/tools/plough.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "plough",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "plough knife": [
+      {
+        "ref": "primitives/tools/plough-knife.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "plough knife",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "plum": [
       {
         "ref": "primitives/materials/plum.json",
@@ -5333,6 +7627,26 @@
         "class": "primitive",
         "kind": "technique",
         "name": "plunging and pressing",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "polisher": [
+      {
+        "ref": "primitives/tools/polisher.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "polisher",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "polishing": [
+      {
+        "ref": "primitives/techniques/polishing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "polishing",
         "lang": "en",
         "canonical": true
       }
@@ -5455,6 +7769,36 @@
         "canonical": false
       }
     ],
+    "preparation technique": [
+      {
+        "ref": "categories/preparation-technique",
+        "class": "category",
+        "kind": null,
+        "name": "preparation technique",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "preparing sheets for binding": [
+      {
+        "ref": "primitives/workflows/preparing-sheets-for-binding.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "preparing sheets for binding",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "preserving old bindings": [
+      {
+        "ref": "primitives/techniques/preserving-old-bindings.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "preserving old bindings",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "press pot": [
       {
         "ref": "primitives/tools/french-press.json",
@@ -5471,6 +7815,64 @@
         "class": "primitive",
         "kind": "material",
         "name": "press stud",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "pressing": [
+      {
+        "ref": "primitives/techniques/pressing-sections.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "pressing",
+        "lang": "en",
+        "canonical": false
+      },
+      {
+        "ref": "primitives/techniques/pressing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "pressing",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "pressing board": [
+      {
+        "ref": "primitives/tools/pressing-board.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "pressing board",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "pressing sections": [
+      {
+        "ref": "primitives/techniques/pressing-sections.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "pressing sections",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "pressing tin": [
+      {
+        "ref": "primitives/tools/pressing-tin.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "pressing tin",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "pressing-board": [
+      {
+        "ref": "primitives/tools/pressing-board.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "pressing-board",
         "lang": "en",
         "canonical": false
       }
@@ -5589,6 +7991,16 @@
         "canonical": false
       }
     ],
+    "protective case": [
+      {
+        "ref": "primitives/techniques/protective-shelf-case.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "protective case",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "puck screen": [
       {
         "ref": "primitives/tools/puck-screen.json",
@@ -5599,12 +8011,32 @@
         "canonical": true
       }
     ],
+    "pulling": [
+      {
+        "ref": "primitives/techniques/pulling.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "pulling",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "pulling an espresso shot": [
       {
         "ref": "primitives/techniques/pulling-an-espresso-shot.json",
         "class": "primitive",
         "kind": "technique",
         "name": "pulling an espresso shot",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "pulling to pieces": [
+      {
+        "ref": "primitives/techniques/pulling.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "pulling to pieces",
         "lang": "en",
         "canonical": true
       }
@@ -5697,6 +8129,46 @@
         "name": "raspberry",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "re-backing": [
+      {
+        "ref": "primitives/techniques/re-backing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "re-backing",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "re-folding": [
+      {
+        "ref": "primitives/techniques/refolding.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "re-folding",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "re-sizing paper": [
+      {
+        "ref": "primitives/techniques/sizing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "re-sizing paper",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "red chalk": [
+      {
+        "ref": "primitives/materials/red-chalk.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "red chalk",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "red currant": [
@@ -5793,6 +8265,16 @@
         "canonical": true
       }
     ],
+    "refolding": [
+      {
+        "ref": "primitives/techniques/refolding.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "refolding",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "refractometer": [
       {
         "ref": "categories/refractometer",
@@ -5843,6 +8325,16 @@
         "class": "primitive",
         "kind": "material",
         "name": "remnant leather",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "repairing corners": [
+      {
+        "ref": "primitives/techniques/corner-repair.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "repairing corners",
         "lang": "en",
         "canonical": false
       }
@@ -5927,6 +8419,16 @@
         "canonical": false
       }
     ],
+    "roll": [
+      {
+        "ref": "primitives/tools/finishing-roll.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "roll",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "romaine": [
       {
         "ref": "primitives/materials/romaine.json",
@@ -5983,6 +8485,26 @@
         "class": "primitive",
         "kind": "tool",
         "name": "round knife",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "rounding": [
+      {
+        "ref": "primitives/techniques/rounding.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "rounding",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "rounding and backing": [
+      {
+        "ref": "primitives/workflows/rounding-and-backing.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "rounding and backing",
         "lang": "en",
         "canonical": true
       }
@@ -6145,6 +8667,16 @@
         "canonical": false
       }
     ],
+    "sealskin": [
+      {
+        "ref": "primitives/materials/sealskin.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "sealskin",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "seam ripper": [
       {
         "ref": "primitives/tools/seam-ripper.json",
@@ -6221,6 +8753,26 @@
         "class": "primitive",
         "kind": "technique",
         "name": "setting a snap",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "setting the head-cap": [
+      {
+        "ref": "primitives/techniques/setting-head-cap.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "setting the head-cap",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "setting the squares": [
+      {
+        "ref": "primitives/techniques/setting-squares.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "setting the squares",
         "lang": "en",
         "canonical": true
       }
@@ -6385,6 +8937,16 @@
         "canonical": true
       }
     ],
+    "sharp knife": [
+      {
+        "ref": "primitives/tools/paring-knife.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "sharp knife",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "sharpening stone": [
       {
         "ref": "primitives/tools/whetstone.json",
@@ -6405,6 +8967,16 @@
         "canonical": true
       }
     ],
+    "sheepskin": [
+      {
+        "ref": "primitives/materials/sheepskin.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "sheepskin",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "shotgun condenser": [
       {
         "ref": "categories/shotgun-condenser",
@@ -6419,6 +8991,56 @@
         "class": "primitive",
         "kind": "tool",
         "name": "shotgun condenser",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "silk end": [
+      {
+        "ref": "primitives/materials/silk-end.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "silk end",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "silk ends": [
+      {
+        "ref": "primitives/materials/silk-end.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "silk ends",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "silk ribbon": [
+      {
+        "ref": "primitives/materials/silk-ribbon.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "silk ribbon",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "silk tape": [
+      {
+        "ref": "primitives/materials/silk-ribbon.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "silk tape",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "silver wire": [
+      {
+        "ref": "primitives/materials/silver-wire.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "silver wire",
         "lang": "en",
         "canonical": true
       }
@@ -6459,6 +9081,62 @@
         "name": "siphon brewer",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "size": [
+      {
+        "ref": "primitives/materials/gelatine-size.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "size",
+        "lang": "en",
+        "canonical": false
+      },
+      {
+        "ref": "primitives/materials/leather-size.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "size",
+        "lang": "en",
+        "canonical": false
+      },
+      {
+        "ref": "primitives/materials/size.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "size",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "sizing": [
+      {
+        "ref": "primitives/techniques/sizing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "sizing",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "sizing leather": [
+      {
+        "ref": "primitives/techniques/sizing-leather.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "sizing leather",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "skin": [
+      {
+        "ref": "primitives/materials/cover-leather.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "skin",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "skive and fold an edge": [
@@ -6551,6 +9229,16 @@
         "canonical": false
       }
     ],
+    "soaking off india proofs": [
+      {
+        "ref": "primitives/techniques/soaking-off-india-proofs.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "soaking off India proofs",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "sock filter": [
       {
         "ref": "primitives/materials/cloth-filter.json",
@@ -6567,6 +9255,16 @@
         "class": "primitive",
         "kind": "material",
         "name": "sodium percarbonate",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "soft brush": [
+      {
+        "ref": "primitives/tools/soft-brush.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "soft brush",
         "lang": "en",
         "canonical": true
       }
@@ -6597,6 +9295,16 @@
         "class": "primitive",
         "kind": "material",
         "name": "spinach",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "spine lining paper": [
+      {
+        "ref": "primitives/materials/lining-paper-spine.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "spine lining paper",
         "lang": "en",
         "canonical": true
       }
@@ -6641,12 +9349,32 @@
         "canonical": true
       }
     ],
+    "split boards": [
+      {
+        "ref": "primitives/techniques/split-boards.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "split boards",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "split ring": [
       {
         "ref": "primitives/materials/split-ring.json",
         "class": "primitive",
         "kind": "material",
         "name": "split ring",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "splitting paper": [
+      {
+        "ref": "primitives/techniques/splitting-paper.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "splitting paper",
         "lang": "en",
         "canonical": true
       }
@@ -6661,12 +9389,42 @@
         "canonical": false
       }
     ],
+    "sprinkling leather": [
+      {
+        "ref": "primitives/techniques/sprinkling-leather.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "sprinkling leather",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "squash": [
       {
         "ref": "categories/squash",
         "class": "category",
         "kind": null,
         "name": "squash",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "stain remover": [
+      {
+        "ref": "primitives/materials/paper-cleaning-agent.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "stain remover",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "standing press": [
+      {
+        "ref": "primitives/tools/standing-press.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "standing press",
         "lang": "en",
         "canonical": true
       }
@@ -6939,6 +9697,16 @@
         "canonical": true
       }
     ],
+    "straight-edge": [
+      {
+        "ref": "primitives/tools/straight-edge.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "straight-edge",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "strap cutter": [
       {
         "ref": "primitives/tools/strap-cutter.json",
@@ -6949,12 +9717,32 @@
         "canonical": true
       }
     ],
+    "straw-board": [
+      {
+        "ref": "primitives/materials/strawboard.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "straw-board",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "strawberry": [
       {
         "ref": "primitives/materials/strawberry.json",
         "class": "primitive",
         "kind": "material",
         "name": "strawberry",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "strawboard": [
+      {
+        "ref": "primitives/materials/strawboard.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "strawboard",
         "lang": "en",
         "canonical": true
       }
@@ -7205,6 +9993,16 @@
         "canonical": true
       }
     ],
+    "testing leather": [
+      {
+        "ref": "primitives/techniques/testing-leather.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "testing leather",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "thermometer": [
       {
         "ref": "categories/thermometer",
@@ -7271,6 +10069,16 @@
         "canonical": true
       }
     ],
+    "throwing out": [
+      {
+        "ref": "primitives/techniques/throwing-out.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "throwing out",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "thumper": [
       {
         "ref": "categories/thumper",
@@ -7285,6 +10093,16 @@
         "class": "primitive",
         "kind": "tool",
         "name": "thumper",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "tie": [
+      {
+        "ref": "primitives/materials/binding-tie.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "tie",
         "lang": "en",
         "canonical": true
       }
@@ -7329,6 +10147,26 @@
         "canonical": false
       }
     ],
+    "tin": [
+      {
+        "ref": "primitives/tools/pressing-tin.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "tin",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "tinted glass": [
+      {
+        "ref": "primitives/materials/tinted-glass.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "tinted glass",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "toasted oak": [
       {
         "ref": "primitives/materials/toasted-oak.json",
@@ -7369,12 +10207,102 @@
         "canonical": true
       }
     ],
+    "tooling on vellum": [
+      {
+        "ref": "primitives/techniques/tooling-on-vellum.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "tooling on vellum",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "tooth burnisher": [
+      {
+        "ref": "primitives/tools/tooth-burnisher.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "tooth burnisher",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "trigger snap": [
       {
         "ref": "primitives/materials/snap-hook.json",
         "class": "primitive",
         "kind": "material",
         "name": "trigger snap",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "trimming before sewing": [
+      {
+        "ref": "primitives/techniques/trimming-edges.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "trimming before sewing",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "trimming edges": [
+      {
+        "ref": "primitives/techniques/trimming-edges.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "trimming edges",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "trimming jig": [
+      {
+        "ref": "primitives/tools/edge-trimming-jig.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "trimming jig",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "trimming machine": [
+      {
+        "ref": "primitives/tools/edge-trimming-jig.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "trimming machine",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "trimming plates": [
+      {
+        "ref": "primitives/techniques/trimming-plates.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "trimming plates",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "trindle": [
+      {
+        "ref": "primitives/tools/trindle.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "trindle",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "trindles": [
+      {
+        "ref": "primitives/tools/trindle.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "trindles",
         "lang": "en",
         "canonical": false
       }
@@ -7425,6 +10353,36 @@
         "name": "turnip",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "tying up": [
+      {
+        "ref": "primitives/techniques/tying-up.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "tying up",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "type": [
+      {
+        "ref": "primitives/tools/binders-type.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "type",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "type-holder": [
+      {
+        "ref": "primitives/tools/binders-type.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "type-holder",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "unbleached paper filter": [
@@ -7513,6 +10471,16 @@
         "canonical": true
       }
     ],
+    "varnish": [
+      {
+        "ref": "primitives/materials/varnish.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "varnish",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "veg-tan": [
       {
         "ref": "categories/vegetable-tanned-leather",
@@ -7569,6 +10537,56 @@
         "canonical": true
       }
     ],
+    "vellum": [
+      {
+        "ref": "primitives/materials/vellum.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "vellum",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "vellum binding": [
+      {
+        "ref": "primitives/techniques/vellum-covering.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "vellum binding",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "vellum end": [
+      {
+        "ref": "primitives/materials/vellum-end.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "vellum end",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "vellum ends": [
+      {
+        "ref": "primitives/materials/vellum-end.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "vellum ends",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "vellum size": [
+      {
+        "ref": "primitives/materials/size.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "vellum size",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "vellum slip": [
       {
         "ref": "primitives/materials/vellum-slip.json",
@@ -7607,6 +10625,26 @@
         "name": "VST LAB Coffee III",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "washing": [
+      {
+        "ref": "primitives/techniques/washing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "washing",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "washing paper": [
+      {
+        "ref": "primitives/techniques/washing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "washing paper",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "water": [
@@ -7695,6 +10733,16 @@
         "class": "primitive",
         "kind": "material",
         "name": "watermelon",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "waterproof sheet": [
+      {
+        "ref": "primitives/materials/waterproof-sheet.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "waterproof sheet",
         "lang": "en",
         "canonical": true
       }
@@ -7789,6 +10837,24 @@
         "canonical": true
       }
     ],
+    "white paste": [
+      {
+        "ref": "primitives/materials/paste.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "white paste",
+        "lang": "en",
+        "canonical": false
+      },
+      {
+        "ref": "primitives/materials/white-paste.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "white paste",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "white sugar": [
       {
         "ref": "primitives/materials/cane-sugar.json",
@@ -7855,6 +10921,36 @@
         "canonical": true
       }
     ],
+    "wooden board": [
+      {
+        "ref": "primitives/materials/wooden-board.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "wooden board",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "working a headband": [
+      {
+        "ref": "primitives/techniques/headbanding.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "working a headband",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "working a headband on a vellum slip": [
+      {
+        "ref": "primitives/workflows/headbanding-on-vellum.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "working a headband on a vellum slip",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "worm coil": [
       {
         "ref": "categories/worm-condenser",
@@ -7889,6 +10985,16 @@
         "name": "worm condenser",
         "lang": "en",
         "canonical": true
+      }
+    ],
+    "woven material": [
+      {
+        "ref": "primitives/materials/embroidered-fabric.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "woven material",
+        "lang": "en",
+        "canonical": false
       }
     ],
     "yeast": [

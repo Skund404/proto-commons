@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:e0a3a216846b4e98473accd67506d0d29bd2ec9921b1d17939cc7f0a188ec0a8",
+  "created": "2026-06-24",
+  "description": "A pair of small flat steel pieces slipped across the spine from inside the boards. They let the binder pull the rounded back temporarily straight so the fore-edge can be trimmed or gilt flat, then are withdrawn before the leaves are lowered into the press.",
+  "emitter": "opg://commons-seed",
+  "id": "trindle-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "trindle",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "cutting",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "trindle",
+        "trindles"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "edge-equipment"
+  },
+  "slug": "trindle",
+  "tags": [
+    "bookbinding",
+    "cutting",
+    "edge-equipment"
+  ],
+  "visibility": "commons"
+}

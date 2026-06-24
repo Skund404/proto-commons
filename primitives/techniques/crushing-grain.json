@@ -1,0 +1,49 @@
+{
+  "content_hash": "sha256:60b86070d17ec3b0072cc743488ae754ae16e130471882f14ab47f8f8b8bd127",
+  "created": "2026-06-24",
+  "description": "Flattening the raised grain of leathers such as morocco or seal by damping a board and pressing it against a plate in the standing press, done when a cover is to carry much finishing.",
+  "emitter": "opg://commons-seed",
+  "id": "crushing-grain-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "crushing the grain",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "crushing the grain"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "decoration-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+        "id": "lying-press-seed",
+        "path": "primitives/tools/lying-press.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "crushing-grain",
+  "tags": [
+    "bookbinding",
+    "decoration-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:6b1467879500fe8766675841cd140a0e58bdd6612238274b3274874fd6f0ffcb",
+  "created": "2026-06-24",
+  "description": "A fine woven fabric such as silk used to face the end leaves for a luxurious finish. It is best paired with a leather joint, glued to paper rather than directly, and damped and ironed before use; its edges fray readily, so they are often turned in over a paper pad.",
+  "emitter": "opg://commons-seed",
+  "id": "silk-end-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "silk end",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "silk",
+    "names": {
+      "en": [
+        "silk end",
+        "silk ends"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "covering-material",
+    "unit": "piece"
+  },
+  "slug": "silk-end",
+  "tags": [
+    "bookbinding",
+    "silk",
+    "covering-material"
+  ],
+  "visibility": "commons"
+}

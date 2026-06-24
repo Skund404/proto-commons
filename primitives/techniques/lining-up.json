@@ -1,0 +1,49 @@
+{
+  "content_hash": "sha256:cbabfafb2e56f6c7371c762fc5977336c7593e85477375f825917c900cbd8f86",
+  "created": "2026-06-24",
+  "description": "Reinforcing the spine before covering by glueing a stout paper, and on heavy books a linen or thin leather strip, across the back and over the headbands. Once dry the surplus above the headband is trimmed and the back rubbed smooth to clear any ridge.",
+  "emitter": "opg://commons-seed",
+  "id": "lining-up-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "lining up",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "lining up"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:a89d0fafe3de37d7908b90429dce567b1b617a470c419cf60d739063c25e3c95",
+        "id": "lining-paper-spine-seed",
+        "path": "primitives/materials/lining-paper-spine.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "lining-up",
+  "tags": [
+    "bookbinding",
+    "forwarding-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

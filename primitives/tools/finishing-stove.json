@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:94ffd6c73ff6b486bd30eca8bc334c48e5b8705e009d81d9f73cb6015949e5ec",
+  "created": "2026-06-24",
+  "description": "A small stove on which finishing tools are kept hot and ready, so each can be taken up, cooled to working temperature, and struck in turn.",
+  "emitter": "opg://commons-seed",
+  "id": "finishing-stove-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "finishing stove",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "finishing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "finishing stove"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "finishing-equipment"
+  },
+  "slug": "finishing-stove",
+  "tags": [
+    "bookbinding",
+    "finishing",
+    "finishing-equipment"
+  ],
+  "visibility": "commons"
+}

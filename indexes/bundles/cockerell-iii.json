@@ -1,0 +1,162 @@
+{
+  "content_hash": "sha256:b14f48cbe71eff605e08984e1c02c712fe4adf528c7c50247e0a95750c23c88e",
+  "description": {
+    "en": "Chapter III (Guarding Throwing Out Paring Paper Soaking off India Proofs Mounting very Thin Paper Splitting Paper Inlaying Flattening Vellum) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+  },
+  "domain": "bookbinding",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "ia_item": "bookbindingcareo00cockrich",
+  "items": [
+    {
+      "hash": "sha256:1f9edeb2da3af3ba10236514c0cbf4d331945ef467545fde65996f8ec262d490",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "blotting-paper"
+    },
+    {
+      "hash": "sha256:826b561a42531ce020f377c9c73448da3b80759c3d9b34953cd1c8b5b145c2e2",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "dividers"
+    },
+    {
+      "hash": "sha256:8b05c05ff8c0ef8fb6ab5ee18892ff8886899a17d8516deadabab3743f4cb5fa",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "flattening-vellum"
+    },
+    {
+      "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "folder"
+    },
+    {
+      "hash": "sha256:707c70bd01d1f001740926bbb3b8dbb8d532e86db2bc60839f2aceca05416aee",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "guard"
+    },
+    {
+      "hash": "sha256:62aaf4519ee70a19209a41e03c6e3e7f8e8caa41183ae9b8b997eae655283204",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "guarding"
+    },
+    {
+      "hash": "sha256:f98eb89480dcbba48df901343987643fff708b4cb7516b9f3c8f6e301a100db6",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "hinging-plates"
+    },
+    {
+      "hash": "sha256:dcdc564a35fbd9196e3a3cb72f9f6624c73396e0bf98eee2275c204f76b88d66",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "inlaying"
+    },
+    {
+      "hash": "sha256:1987312410f3405c6cf62f03f73b52b3d32f2bed9e0be5e5b86c23a8071895b6",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "mount-cutters-knife"
+    },
+    {
+      "hash": "sha256:7143b4533a62b964918d79d9f1e90ce2e08b748b99a0934da646afcbf4576189",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "mounting-linen"
+    },
+    {
+      "hash": "sha256:3a91edd907a7f07fd95b8967db87a53eb9abaa85b9507a7fdd004c2b0e6b7b4f",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "mounting-thin-paper"
+    },
+    {
+      "hash": "sha256:8ec445696dbad2c1e359fd23e9b8b41e85f38dd01cc02fc32b0ced9fa899e11a",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "paring-knife"
+    },
+    {
+      "hash": "sha256:5d99fcb8feab95b0bab54ad90d63dd83da378a093a12bc1860ffeec20fc98af1",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "paring-paper"
+    },
+    {
+      "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "paste"
+    },
+    {
+      "hash": "sha256:bd44f28fc4def0406ca30cf316320d020025bb5ad8df6b3db4f8a1aec90e0bd3",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "soaking-off-india-proofs"
+    },
+    {
+      "hash": "sha256:297e25a1d7e02d65106e817ba79b11a45f7e8bec6c0b08f14386d0cbe6bed64e",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "splitting-paper"
+    },
+    {
+      "hash": "sha256:4d99452f5c91ece8b538549ea4ba623ee0988db4b6d9cb792426a88661cfdfb2",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "straight-edge"
+    },
+    {
+      "hash": "sha256:ed521687864119dc48199859ecf8247fe0f899067090ada3010fd313a57e752b",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "throwing-out"
+    },
+    {
+      "hash": "sha256:4ab7df86b5a08ecbe4964b9ee0e65d6f589a751ce056a70394e88a0d25e1a415",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "vellum"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Cockerell, Chapter III: Guarding Throwing Out Paring Paper Soaking off India Proofs Mounting very Thin Paper Splitting Paper Inlaying Flattening Vellum"
+  },
+  "record_class": "bundle",
+  "slug": "cockerell-iii",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "bookbinding",
+    "part1",
+    "chapter"
+  ]
+}

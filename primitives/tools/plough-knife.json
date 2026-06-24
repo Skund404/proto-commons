@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:28129169b601a3c12b861d26c81b984b25b5765209f0cde0aabd474065af99f1",
+  "created": "2026-06-24",
+  "description": "Replaceable blade fitted to the plough that does the actual cutting. For hard board it is ground to a less acute angle so the edge does not chip, and it is sharpened often to keep cutting effort low.",
+  "emitter": "opg://commons-seed",
+  "id": "plough-knife-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "plough knife",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "cutting",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "plough knife"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "edge-equipment"
+  },
+  "slug": "plough-knife",
+  "tags": [
+    "bookbinding",
+    "cutting",
+    "edge-equipment"
+  ],
+  "visibility": "commons"
+}

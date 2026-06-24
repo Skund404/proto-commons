@@ -1,0 +1,65 @@
+{
+  "content_hash": "sha256:85bcb61696a665d0aab4368308397ba54b2ac77e42be09cdb0fc86e9dd416e64",
+  "created": "2026-06-24",
+  "description": "Patching torn vellum much like paper, but with a wider overlap and the contact faces roughened so paste will grip the smooth skin. Because paste alone cannot be trusted to hold vellum, a silk stitch is set at each end of a patch, and a clean cut is closed with a lacing stitch of fine silk.",
+  "emitter": "opg://commons-seed",
+  "id": "mending-vellum-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "mending vellum",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "mending vellum"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "preparation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:8ec445696dbad2c1e359fd23e9b8b41e85f38dd01cc02fc32b0ced9fa899e11a",
+        "id": "paring-knife-seed",
+        "path": "primitives/tools/paring-knife.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:6666fdc9d501e772fac19c7321844a62e62a873440e5304425b43cc1af307f87",
+        "id": "mending-paste-seed",
+        "path": "primitives/materials/mending-paste.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:a71739bd0febd360366456075a991ea7bcc8d7d74ad5bd9ba38441e296d29edc",
+        "id": "sewing-silk-seed",
+        "path": "primitives/materials/sewing-silk.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "mending-vellum",
+  "tags": [
+    "bookbinding",
+    "preparation-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

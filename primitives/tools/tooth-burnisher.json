@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:2b2984c0f7b3635884a21b4fa65803e3058cbbf3f1fe523a814821a5e7bed4cb",
+  "created": "2026-06-24",
+  "description": "A hand burnisher with a hard smooth working surface, drawn over a waxed coloured edge to compress and polish it to a sheen. The same family of tool serves to lay and brighten gilt or coloured book edges.",
+  "emitter": "opg://commons-seed",
+  "id": "tooth-burnisher-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "tooth burnisher",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "finishing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "tooth burnisher"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "edge-equipment"
+  },
+  "slug": "tooth-burnisher",
+  "tags": [
+    "bookbinding",
+    "finishing",
+    "edge-equipment"
+  ],
+  "visibility": "commons"
+}

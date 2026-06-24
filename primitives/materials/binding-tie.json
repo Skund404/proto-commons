@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:99146d9b89a0efa2791df846256e122205766af5ec4afa69a938bdc3f40d3df8",
+  "created": "2026-06-24",
+  "description": "A short ribbon of silk or thin leather laced into both boards and knotted to keep a volume shut. Cockerell notes that such ties are awkward when the book is open and are seldom bothered with in practice, so they are of limited use.",
+  "emitter": "opg://commons-seed",
+  "id": "binding-tie-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "tie",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "textile",
+    "names": {
+      "en": [
+        "tie",
+        "binding tie"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "covering-material",
+    "unit": "piece"
+  },
+  "slug": "binding-tie",
+  "tags": [
+    "bookbinding",
+    "textile",
+    "covering-material"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,74 @@
+{
+  "content_hash": "sha256:7cf97840bae356ee4f6a1bae0cc5e65703ae96b6956d3270c79b46a1acdc5b5f",
+  "created": "2026-06-24",
+  "description": "Repairing torn or missing parts of a sheet by selecting paper that matches in tone, texture, and wire pattern, paring both the patch and the original edge thin, then pasting them so the joint does not exceed the leaf thickness. Tears across print can be bridged with strips of thin near-transparent Japanese paper, and damaged section backs guarded along their length. Cockerell advises placing new mending paper on the back of the sheet and keeping every tool and the paste perfectly clean.",
+  "emitter": "opg://commons-seed",
+  "id": "mending-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "mending",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "mending",
+        "mending paper"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "preparation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+        "id": "folder-seed",
+        "path": "primitives/tools/folder.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:8ec445696dbad2c1e359fd23e9b8b41e85f38dd01cc02fc32b0ced9fa899e11a",
+        "id": "paring-knife-seed",
+        "path": "primitives/tools/paring-knife.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:53ed8c675936f6ce423d2abe781a4e318e6f31a99bd73e44cb866e41d3f2698a",
+        "id": "mending-paper-seed",
+        "path": "primitives/materials/mending-paper.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:6666fdc9d501e772fac19c7321844a62e62a873440e5304425b43cc1af307f87",
+        "id": "mending-paste-seed",
+        "path": "primitives/materials/mending-paste.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "mending",
+  "tags": [
+    "bookbinding",
+    "preparation-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:a89d0fafe3de37d7908b90429dce567b1b617a470c419cf60d739063c25e3c95",
+  "created": "2026-06-24",
+  "description": "A stout reinforcing paper glued across the back of a textblock before covering to strengthen the spine. A tough brown or other heavy sheet is laid over the back and headbands; on weighty volumes linen or thin leather is used in its place. This is a structural spine reinforcement, not the general text-leaf stock.",
+  "emitter": "opg://commons-seed",
+  "id": "lining-paper-spine-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "spine lining paper",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "paper",
+    "names": {
+      "en": [
+        "spine lining paper",
+        "back-lining paper"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "paper-material",
+    "unit": "sheet"
+  },
+  "slug": "lining-paper-spine",
+  "tags": [
+    "bookbinding",
+    "paper",
+    "paper-material"
+  ],
+  "visibility": "commons"
+}

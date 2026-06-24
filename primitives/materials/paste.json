@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+  "created": "2026-06-24",
+  "description": "A water-thinned flour adhesive used for covering and for sticking down paper and leather. A little alum extends its life and corrosive sublimate may be added in tiny proportion to deter insects. It is mixed thin like cream for paper and thicker for leather, and must never be used once it has soured.",
+  "emitter": "opg://commons-seed",
+  "id": "paste-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "paste",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "adhesive",
+    "names": {
+      "en": [
+        "paste",
+        "white paste"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "adhesive-material",
+    "unit": "ml"
+  },
+  "slug": "paste",
+  "tags": [
+    "bookbinding",
+    "adhesive",
+    "adhesive-material"
+  ],
+  "visibility": "commons"
+}

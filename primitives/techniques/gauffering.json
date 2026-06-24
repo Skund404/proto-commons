@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:a4778a674b656ccea4039a1899b7306b4350feab8e44d0fe66b06a4a9d48acb2",
+  "created": "2026-06-24",
+  "description": "Impressing a pattern into a gilt edge with heated finishing tools while the leaves are screwed tight in the press. A second colour of gold may be laid over the first and tooled through, leaving the design standing in the new gold.",
+  "emitter": "opg://commons-seed",
+  "id": "gauffering-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "gauffering",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "gauffering"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "decoration-technique"
+  },
+  "relationships": [],
+  "slug": "gauffering",
+  "tags": [
+    "bookbinding",
+    "decoration-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "covering-material",
+  "names": {
+    "en": [
+      "covering material"
+    ]
+  },
+  "specializes": "bookbinding-material"
+}

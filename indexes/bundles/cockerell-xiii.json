@@ -1,0 +1,148 @@
+{
+  "content_hash": "sha256:139429298475ab0bd9a365e2083ff9af34b44921f83430b0a7fee5b89d301124",
+  "description": {
+    "en": "Chapter XIII (Library Binding Binding very Thin Books Scrap Books Binding in Vellum Books covered with Embroidery) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+  },
+  "domain": "bookbinding",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "ia_item": "bookbindingcareo00cockrich",
+  "items": [
+    {
+      "hash": "sha256:a63937971f0877e868db57814f3c01c4e98cb046c23c3297ecbc800451b08f61",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "backing"
+    },
+    {
+      "hash": "sha256:ca21e3a164daa2d98c488124834d2aa5a52b2c9a4861569faeabb045d07de54b",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "embroidered-fabric"
+    },
+    {
+      "hash": "sha256:5e77b9fd3063c9faf2431d84a77075841e8b03aa3ff737e3b5b9332cb3c4bf8e",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "embroidery-covering"
+    },
+    {
+      "hash": "sha256:155ed3053b3e6b4ea1b9ec363bebdefa47194e97162174311b5b2039358a5950",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "french-joint"
+    },
+    {
+      "hash": "sha256:01d3e5832a6f4dd4013ee91d1460c50bf71e59d6cd213b3563e7c8665a28ae26",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "hollow-back"
+    },
+    {
+      "hash": "sha256:a930e6c2d1f402cf4fcf68d49aa5defd163ab5a7a1244f26a8be7d6f0a9a0098",
+      "kind": "workflow",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "library-binding"
+    },
+    {
+      "hash": "sha256:6fe26284e0a5ba509fb6bc9b3eef4090b08f4f4ac4d4503fcf682d0bbabcb21d",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "millboard"
+    },
+    {
+      "hash": "sha256:607632ea26fa91c30171ca006f380ec5463ff2e0f5b25b58fc7f983964866f1e",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "mounting"
+    },
+    {
+      "hash": "sha256:5b9f1764fa701a7a7e14c1d352189b0d39de8b04c5500c864b0650ec826cb8cf",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "rounding"
+    },
+    {
+      "hash": "sha256:b49cf71def4d7d1e2d4186d9ad900ff945205519446fc719d4fa2a975661f6d9",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "sewing-on-tapes"
+    },
+    {
+      "hash": "sha256:f3087f5b59b28fe0df0091f6afea0a9cf543c1987c7f424aeeab91df65881224",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "sewing-on-vellum-slips"
+    },
+    {
+      "hash": "sha256:44ffbf946b678f777bb8926c2aedc34461386ed4b24ead4d821994224f33818e",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "silk-ribbon"
+    },
+    {
+      "hash": "sha256:7391611e86efd0dd7c1ca47ed75d717b608c191cc997412019749b51d1f1c7fc",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "split-boards"
+    },
+    {
+      "hash": "sha256:084655b3dc9042b5542acf16886ebd1b41501da2ebf02875cb0cdc751249f49c",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "strawboard"
+    },
+    {
+      "hash": "sha256:4ab7df86b5a08ecbe4964b9ee0e65d6f589a751ce056a70394e88a0d25e1a415",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "vellum"
+    },
+    {
+      "hash": "sha256:9fa4ed92b4f11e0407b7c669134c0a0c768e72d04fef18ee4d16f7b55446fae5",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "vellum-covering"
+    },
+    {
+      "hash": "sha256:086ef048d15920f3a491a642f3c56212378fd6af6e209d4f20678fd01f13adbe",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "sewing-tape"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Cockerell, Chapter XIII: Library Binding Binding very Thin Books Scrap Books Binding in Vellum Books covered with Embroidery"
+  },
+  "record_class": "bundle",
+  "slug": "cockerell-xiii",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "bookbinding",
+    "part1",
+    "chapter"
+  ]
+}

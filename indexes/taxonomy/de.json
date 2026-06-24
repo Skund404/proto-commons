@@ -140,6 +140,333 @@
           "related": [],
           "children": [
             {
+              "id": "edge-equipment",
+              "name": "edge equipment",
+              "parent": "bookbinding-equipment",
+              "members": [
+                {
+                  "ref": "primitives/tools/burnisher.json",
+                  "slug": "burnisher",
+                  "kind": "tool",
+                  "name": "burnisher"
+                },
+                {
+                  "ref": "primitives/tools/cutting-board.json",
+                  "slug": "cutting-board",
+                  "kind": "tool",
+                  "name": "cutting board"
+                },
+                {
+                  "ref": "primitives/tools/edge-trimming-jig.json",
+                  "slug": "edge-trimming-jig",
+                  "kind": "tool",
+                  "name": "trimming machine"
+                },
+                {
+                  "ref": "primitives/tools/gilders-tip.json",
+                  "slug": "gilders-tip",
+                  "kind": "tool",
+                  "name": "gilder's tip"
+                },
+                {
+                  "ref": "primitives/tools/gold-cushion.json",
+                  "slug": "gold-cushion",
+                  "kind": "tool",
+                  "name": "gold cushion"
+                },
+                {
+                  "ref": "primitives/tools/gold-knife.json",
+                  "slug": "gold-knife",
+                  "kind": "tool",
+                  "name": "gold knife"
+                },
+                {
+                  "ref": "primitives/tools/plough.json",
+                  "slug": "plough",
+                  "kind": "tool",
+                  "name": "plough"
+                },
+                {
+                  "ref": "primitives/tools/plough-knife.json",
+                  "slug": "plough-knife",
+                  "kind": "tool",
+                  "name": "plough knife"
+                },
+                {
+                  "ref": "primitives/tools/tooth-burnisher.json",
+                  "slug": "tooth-burnisher",
+                  "kind": "tool",
+                  "name": "tooth burnisher"
+                },
+                {
+                  "ref": "primitives/tools/trindle.json",
+                  "slug": "trindle",
+                  "kind": "tool",
+                  "name": "trindle"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
+              "id": "finishing-equipment",
+              "name": "finishing equipment",
+              "parent": "bookbinding-equipment",
+              "members": [
+                {
+                  "ref": "primitives/tools/arming-press.json",
+                  "slug": "arming-press",
+                  "kind": "tool",
+                  "name": "arming press"
+                },
+                {
+                  "ref": "primitives/tools/arms-block.json",
+                  "slug": "arms-block",
+                  "kind": "tool",
+                  "name": "arms block"
+                },
+                {
+                  "ref": "primitives/tools/binders-type.json",
+                  "slug": "binders-type",
+                  "kind": "tool",
+                  "name": "type"
+                },
+                {
+                  "ref": "primitives/tools/fillet.json",
+                  "slug": "fillet",
+                  "kind": "tool",
+                  "name": "fillet"
+                },
+                {
+                  "ref": "primitives/tools/finishing-press.json",
+                  "slug": "finishing-press",
+                  "kind": "tool",
+                  "name": "finishing press"
+                },
+                {
+                  "ref": "primitives/tools/finishing-roll.json",
+                  "slug": "finishing-roll",
+                  "kind": "tool",
+                  "name": "roll"
+                },
+                {
+                  "ref": "primitives/tools/finishing-stove.json",
+                  "slug": "finishing-stove",
+                  "kind": "tool",
+                  "name": "finishing stove"
+                },
+                {
+                  "ref": "primitives/tools/finishing-tool.json",
+                  "slug": "finishing-tool",
+                  "kind": "tool",
+                  "name": "finishing tool"
+                },
+                {
+                  "ref": "primitives/tools/gouge.json",
+                  "slug": "gouge",
+                  "kind": "tool",
+                  "name": "gouge"
+                },
+                {
+                  "ref": "primitives/tools/handle-letter.json",
+                  "slug": "handle-letter",
+                  "kind": "tool",
+                  "name": "handle letter"
+                },
+                {
+                  "ref": "primitives/tools/pallet.json",
+                  "slug": "pallet",
+                  "kind": "tool",
+                  "name": "pallet"
+                },
+                {
+                  "ref": "primitives/tools/polisher.json",
+                  "slug": "polisher",
+                  "kind": "tool",
+                  "name": "polisher"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
+              "id": "forwarding-equipment",
+              "name": "forwarding equipment",
+              "parent": "bookbinding-equipment",
+              "members": [
+                {
+                  "ref": "primitives/tools/backing-board.json",
+                  "slug": "backing-board",
+                  "kind": "tool",
+                  "name": "backing boards"
+                },
+                {
+                  "ref": "primitives/tools/backing-hammer.json",
+                  "slug": "backing-hammer",
+                  "kind": "tool",
+                  "name": "hammer"
+                },
+                {
+                  "ref": "primitives/tools/band-nippers.json",
+                  "slug": "band-nippers",
+                  "kind": "tool",
+                  "name": "band nippers"
+                },
+                {
+                  "ref": "primitives/tools/band-stick.json",
+                  "slug": "band-stick",
+                  "kind": "tool",
+                  "name": "band stick"
+                },
+                {
+                  "ref": "primitives/tools/board-machine.json",
+                  "slug": "board-machine",
+                  "kind": "tool",
+                  "name": "board machine"
+                },
+                {
+                  "ref": "primitives/tools/bodkin.json",
+                  "slug": "bodkin",
+                  "kind": "tool",
+                  "name": "binder's bodkin"
+                },
+                {
+                  "ref": "primitives/tools/compasses.json",
+                  "slug": "compasses",
+                  "kind": "tool",
+                  "name": "compasses"
+                },
+                {
+                  "ref": "primitives/tools/cutting-tin.json",
+                  "slug": "cutting-tin",
+                  "kind": "tool",
+                  "name": "cutting tin"
+                },
+                {
+                  "ref": "primitives/tools/dividers.json",
+                  "slug": "dividers",
+                  "kind": "tool",
+                  "name": "dividers"
+                },
+                {
+                  "ref": "primitives/tools/feather-duster.json",
+                  "slug": "feather-duster",
+                  "kind": "tool",
+                  "name": "feather duster"
+                },
+                {
+                  "ref": "primitives/tools/flattening-hammer.json",
+                  "slug": "flattening-hammer",
+                  "kind": "tool",
+                  "name": "flattening hammer"
+                },
+                {
+                  "ref": "primitives/tools/folder.json",
+                  "slug": "folder",
+                  "kind": "tool",
+                  "name": "folder"
+                },
+                {
+                  "ref": "primitives/tools/glue-brush.json",
+                  "slug": "glue-brush",
+                  "kind": "tool",
+                  "name": "glue brush"
+                },
+                {
+                  "ref": "primitives/tools/glue-pot.json",
+                  "slug": "glue-pot",
+                  "kind": "tool",
+                  "name": "glue-pot"
+                },
+                {
+                  "ref": "primitives/tools/knocking-down-iron.json",
+                  "slug": "knocking-down-iron",
+                  "kind": "tool",
+                  "name": "knocking-down iron"
+                },
+                {
+                  "ref": "primitives/tools/leather-paring-knife.json",
+                  "slug": "leather-paring-knife",
+                  "kind": "tool",
+                  "name": "French paring knife"
+                },
+                {
+                  "ref": "primitives/tools/millboard-shears.json",
+                  "slug": "millboard-shears",
+                  "kind": "tool",
+                  "name": "millboard shears"
+                },
+                {
+                  "ref": "primitives/tools/mount-cutters-knife.json",
+                  "slug": "mount-cutters-knife",
+                  "kind": "tool",
+                  "name": "mount-cutter's knife"
+                },
+                {
+                  "ref": "primitives/tools/nipping-press.json",
+                  "slug": "nipping-press",
+                  "kind": "tool",
+                  "name": "nipping press"
+                },
+                {
+                  "ref": "primitives/tools/paring-knife.json",
+                  "slug": "paring-knife",
+                  "kind": "tool",
+                  "name": "paring knife"
+                },
+                {
+                  "ref": "primitives/tools/paring-stone.json",
+                  "slug": "paring-stone",
+                  "kind": "tool",
+                  "name": "paring stone"
+                },
+                {
+                  "ref": "primitives/tools/paste-brush.json",
+                  "slug": "paste-brush",
+                  "kind": "tool",
+                  "name": "paste brush"
+                },
+                {
+                  "ref": "primitives/tools/paste-tub.json",
+                  "slug": "paste-tub",
+                  "kind": "tool",
+                  "name": "paste tub"
+                },
+                {
+                  "ref": "primitives/tools/pressing-board.json",
+                  "slug": "pressing-board",
+                  "kind": "tool",
+                  "name": "pressing board"
+                },
+                {
+                  "ref": "primitives/tools/pressing-tin.json",
+                  "slug": "pressing-tin",
+                  "kind": "tool",
+                  "name": "pressing tin"
+                },
+                {
+                  "ref": "primitives/tools/soft-brush.json",
+                  "slug": "soft-brush",
+                  "kind": "tool",
+                  "name": "soft brush"
+                },
+                {
+                  "ref": "primitives/tools/standing-press.json",
+                  "slug": "standing-press",
+                  "kind": "tool",
+                  "name": "standing press"
+                },
+                {
+                  "ref": "primitives/tools/straight-edge.json",
+                  "slug": "straight-edge",
+                  "kind": "tool",
+                  "name": "straight-edge"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
               "id": "sewing-equipment",
               "name": "sewing equipment",
               "parent": "bookbinding-equipment",
@@ -155,6 +482,12 @@
                   "slug": "sewing-key",
                   "kind": "tool",
                   "name": "sewing key"
+                },
+                {
+                  "ref": "primitives/tools/sewing-needle.json",
+                  "slug": "sewing-needle",
+                  "kind": "tool",
+                  "name": "needle"
                 }
               ],
               "related": [],
@@ -170,10 +503,421 @@
           "related": [],
           "children": [
             {
+              "id": "adhesive-material",
+              "name": "adhesive material",
+              "parent": "bookbinding-material",
+              "members": [
+                {
+                  "ref": "primitives/materials/gelatine-size.json",
+                  "slug": "gelatine-size",
+                  "kind": "material",
+                  "name": "gelatine size"
+                },
+                {
+                  "ref": "primitives/materials/glue.json",
+                  "slug": "glue",
+                  "kind": "material",
+                  "name": "glue"
+                },
+                {
+                  "ref": "primitives/materials/leather-size.json",
+                  "slug": "leather-size",
+                  "kind": "material",
+                  "name": "leather size"
+                },
+                {
+                  "ref": "primitives/materials/mending-paste.json",
+                  "slug": "mending-paste",
+                  "kind": "material",
+                  "name": "mending paste"
+                },
+                {
+                  "ref": "primitives/materials/paper-cleaning-agent.json",
+                  "slug": "paper-cleaning-agent",
+                  "kind": "material",
+                  "name": "paper cleaning agent"
+                },
+                {
+                  "ref": "primitives/materials/paste.json",
+                  "slug": "paste",
+                  "kind": "material",
+                  "name": "paste"
+                },
+                {
+                  "ref": "primitives/materials/paste-water.json",
+                  "slug": "paste-water",
+                  "kind": "material",
+                  "name": "paste-water"
+                },
+                {
+                  "ref": "primitives/materials/size.json",
+                  "slug": "size",
+                  "kind": "material",
+                  "name": "vellum size"
+                },
+                {
+                  "ref": "primitives/materials/white-paste.json",
+                  "slug": "white-paste",
+                  "kind": "material",
+                  "name": "white paste"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
+              "id": "board-material",
+              "name": "board material",
+              "parent": "bookbinding-material",
+              "members": [
+                {
+                  "ref": "primitives/materials/millboard.json",
+                  "slug": "millboard",
+                  "kind": "material",
+                  "name": "millboard"
+                },
+                {
+                  "ref": "primitives/materials/strawboard.json",
+                  "slug": "strawboard",
+                  "kind": "material",
+                  "name": "strawboard"
+                },
+                {
+                  "ref": "primitives/materials/wooden-board.json",
+                  "slug": "wooden-board",
+                  "kind": "material",
+                  "name": "wooden board"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
+              "id": "covering-material",
+              "name": "covering material",
+              "parent": "bookbinding-material",
+              "members": [
+                {
+                  "ref": "primitives/materials/binding-tie.json",
+                  "slug": "binding-tie",
+                  "kind": "material",
+                  "name": "tie"
+                },
+                {
+                  "ref": "primitives/materials/calf.json",
+                  "slug": "calf",
+                  "kind": "material",
+                  "name": "calf"
+                },
+                {
+                  "ref": "primitives/materials/castor-oil.json",
+                  "slug": "castor-oil",
+                  "kind": "material",
+                  "name": "castor oil"
+                },
+                {
+                  "ref": "primitives/materials/chrome-leather.json",
+                  "slug": "chrome-leather",
+                  "kind": "material",
+                  "name": "chrome leather"
+                },
+                {
+                  "ref": "primitives/materials/cloth-joint.json",
+                  "slug": "cloth-joint",
+                  "kind": "material",
+                  "name": "cloth joint"
+                },
+                {
+                  "ref": "primitives/materials/cover-leather.json",
+                  "slug": "cover-leather",
+                  "kind": "material",
+                  "name": "cover leather"
+                },
+                {
+                  "ref": "primitives/materials/embroidered-fabric.json",
+                  "slug": "embroidered-fabric",
+                  "kind": "material",
+                  "name": "embroidered material"
+                },
+                {
+                  "ref": "primitives/materials/goatskin.json",
+                  "slug": "goatskin",
+                  "kind": "material",
+                  "name": "goatskin"
+                },
+                {
+                  "ref": "primitives/materials/leather-dressing.json",
+                  "slug": "leather-dressing",
+                  "kind": "material",
+                  "name": "leather dressing"
+                },
+                {
+                  "ref": "primitives/materials/leather-joint.json",
+                  "slug": "leather-joint",
+                  "kind": "material",
+                  "name": "leather joint"
+                },
+                {
+                  "ref": "primitives/materials/mounting-linen.json",
+                  "slug": "mounting-linen",
+                  "kind": "material",
+                  "name": "jaconet"
+                },
+                {
+                  "ref": "primitives/materials/paraffin-wax.json",
+                  "slug": "paraffin-wax",
+                  "kind": "material",
+                  "name": "paraffin wax"
+                },
+                {
+                  "ref": "primitives/materials/pigskin.json",
+                  "slug": "pigskin",
+                  "kind": "material",
+                  "name": "pigskin"
+                },
+                {
+                  "ref": "primitives/materials/sealskin.json",
+                  "slug": "sealskin",
+                  "kind": "material",
+                  "name": "sealskin"
+                },
+                {
+                  "ref": "primitives/materials/sheepskin.json",
+                  "slug": "sheepskin",
+                  "kind": "material",
+                  "name": "sheepskin"
+                },
+                {
+                  "ref": "primitives/materials/silk-end.json",
+                  "slug": "silk-end",
+                  "kind": "material",
+                  "name": "silk end"
+                },
+                {
+                  "ref": "primitives/materials/silk-ribbon.json",
+                  "slug": "silk-ribbon",
+                  "kind": "material",
+                  "name": "silk ribbon"
+                },
+                {
+                  "ref": "primitives/materials/vellum.json",
+                  "slug": "vellum",
+                  "kind": "material",
+                  "name": "vellum"
+                },
+                {
+                  "ref": "primitives/materials/vellum-end.json",
+                  "slug": "vellum-end",
+                  "kind": "material",
+                  "name": "vellum end"
+                },
+                {
+                  "ref": "primitives/materials/waterproof-sheet.json",
+                  "slug": "waterproof-sheet",
+                  "kind": "material",
+                  "name": "waterproof sheet"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
+              "id": "decoration-material",
+              "name": "decoration material",
+              "parent": "bookbinding-material",
+              "members": [
+                {
+                  "ref": "primitives/materials/benzine.json",
+                  "slug": "benzine",
+                  "kind": "material",
+                  "name": "benzine"
+                },
+                {
+                  "ref": "primitives/materials/blacklead.json",
+                  "slug": "blacklead",
+                  "kind": "material",
+                  "name": "blacklead"
+                },
+                {
+                  "ref": "primitives/materials/cocoanut-oil.json",
+                  "slug": "cocoanut-oil",
+                  "kind": "material",
+                  "name": "cocoanut oil"
+                },
+                {
+                  "ref": "primitives/materials/edge-colour.json",
+                  "slug": "edge-colour",
+                  "kind": "material",
+                  "name": "edge colour"
+                },
+                {
+                  "ref": "primitives/materials/glaire.json",
+                  "slug": "glaire",
+                  "kind": "material",
+                  "name": "glaire"
+                },
+                {
+                  "ref": "primitives/materials/gold-leaf.json",
+                  "slug": "gold-leaf",
+                  "kind": "material",
+                  "name": "gold leaf"
+                },
+                {
+                  "ref": "primitives/materials/insect-repellent.json",
+                  "slug": "insect-repellent",
+                  "kind": "material",
+                  "name": "insect repellent"
+                },
+                {
+                  "ref": "primitives/materials/metal-clasp.json",
+                  "slug": "metal-clasp",
+                  "kind": "material",
+                  "name": "clasp"
+                },
+                {
+                  "ref": "primitives/materials/metal-furniture.json",
+                  "slug": "metal-furniture",
+                  "kind": "material",
+                  "name": "metal furniture"
+                },
+                {
+                  "ref": "primitives/materials/red-chalk.json",
+                  "slug": "red-chalk",
+                  "kind": "material",
+                  "name": "gilder's red chalk"
+                },
+                {
+                  "ref": "primitives/materials/silver-wire.json",
+                  "slug": "silver-wire",
+                  "kind": "material",
+                  "name": "silver wire"
+                },
+                {
+                  "ref": "primitives/materials/tinted-glass.json",
+                  "slug": "tinted-glass",
+                  "kind": "material",
+                  "name": "tinted glass"
+                },
+                {
+                  "ref": "primitives/materials/varnish.json",
+                  "slug": "varnish",
+                  "kind": "material",
+                  "name": "varnish"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
+              "id": "paper-material",
+              "name": "paper material",
+              "parent": "bookbinding-material",
+              "members": [
+                {
+                  "ref": "primitives/materials/art-paper.json",
+                  "slug": "art-paper",
+                  "kind": "material",
+                  "name": "art paper"
+                },
+                {
+                  "ref": "primitives/materials/blotting-paper.json",
+                  "slug": "blotting-paper",
+                  "kind": "material",
+                  "name": "blotting-paper"
+                },
+                {
+                  "ref": "primitives/materials/design-paper.json",
+                  "slug": "design-paper",
+                  "kind": "material",
+                  "name": "design paper"
+                },
+                {
+                  "ref": "primitives/materials/end-paper.json",
+                  "slug": "end-paper",
+                  "kind": "material",
+                  "name": "end paper"
+                },
+                {
+                  "ref": "primitives/materials/filling-in-paper.json",
+                  "slug": "filling-in-paper",
+                  "kind": "material",
+                  "name": "filling-in paper"
+                },
+                {
+                  "ref": "primitives/materials/guard.json",
+                  "slug": "guard",
+                  "kind": "material",
+                  "name": "guard"
+                },
+                {
+                  "ref": "primitives/materials/hand-made-paper.json",
+                  "slug": "hand-made-paper",
+                  "kind": "material",
+                  "name": "hand-made paper"
+                },
+                {
+                  "ref": "primitives/materials/japanese-vellum.json",
+                  "slug": "japanese-vellum",
+                  "kind": "material",
+                  "name": "Japanese vellum"
+                },
+                {
+                  "ref": "primitives/materials/lining-paper.json",
+                  "slug": "lining-paper",
+                  "kind": "material",
+                  "name": "lining paper"
+                },
+                {
+                  "ref": "primitives/materials/lining-paper-spine.json",
+                  "slug": "lining-paper-spine",
+                  "kind": "material",
+                  "name": "spine lining paper"
+                },
+                {
+                  "ref": "primitives/materials/marbled-paper.json",
+                  "slug": "marbled-paper",
+                  "kind": "material",
+                  "name": "marbled paper"
+                },
+                {
+                  "ref": "primitives/materials/mending-paper.json",
+                  "slug": "mending-paper",
+                  "kind": "material",
+                  "name": "mending paper"
+                },
+                {
+                  "ref": "primitives/materials/paper.json",
+                  "slug": "paper",
+                  "kind": "material",
+                  "name": "paper"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
               "id": "sewing-material",
               "name": "sewing material",
               "parent": "bookbinding-material",
               "members": [
+                {
+                  "ref": "primitives/materials/catgut.json",
+                  "slug": "catgut",
+                  "kind": "material",
+                  "name": "catgut"
+                },
+                {
+                  "ref": "primitives/materials/headband.json",
+                  "slug": "headband",
+                  "kind": "material",
+                  "name": "headband"
+                },
+                {
+                  "ref": "primitives/materials/headband-core.json",
+                  "slug": "headband-core",
+                  "kind": "material",
+                  "name": "headband core"
+                },
                 {
                   "ref": "primitives/materials/sewing-cord.json",
                   "slug": "sewing-cord",
@@ -218,6 +962,600 @@
           "related": [],
           "children": [
             {
+              "id": "conservation-technique",
+              "name": "conservation technique",
+              "parent": "bookbinding-technique",
+              "members": [
+                {
+                  "ref": "primitives/techniques/corner-repair.json",
+                  "slug": "corner-repair",
+                  "kind": "technique",
+                  "name": "corner repair"
+                },
+                {
+                  "ref": "primitives/techniques/dusting.json",
+                  "slug": "dusting",
+                  "kind": "technique",
+                  "name": "dusting"
+                },
+                {
+                  "ref": "primitives/techniques/insect-pest-control.json",
+                  "slug": "insect-pest-control",
+                  "kind": "technique",
+                  "name": "bookworm treatment"
+                },
+                {
+                  "ref": "primitives/techniques/mending-tooling.json",
+                  "slug": "mending-tooling",
+                  "kind": "technique",
+                  "name": "mending tooling"
+                },
+                {
+                  "ref": "primitives/techniques/preserving-old-bindings.json",
+                  "slug": "preserving-old-bindings",
+                  "kind": "technique",
+                  "name": "preserving old bindings"
+                },
+                {
+                  "ref": "primitives/techniques/protective-shelf-case.json",
+                  "slug": "protective-shelf-case",
+                  "kind": "technique",
+                  "name": "protective case"
+                },
+                {
+                  "ref": "primitives/techniques/re-backing.json",
+                  "slug": "re-backing",
+                  "kind": "technique",
+                  "name": "re-backing"
+                },
+                {
+                  "ref": "primitives/techniques/testing-leather.json",
+                  "slug": "testing-leather",
+                  "kind": "technique",
+                  "name": "testing leather"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
+              "id": "covering-technique",
+              "name": "covering technique",
+              "parent": "bookbinding-technique",
+              "members": [
+                {
+                  "ref": "primitives/techniques/covering.json",
+                  "slug": "covering",
+                  "kind": "technique",
+                  "name": "covering"
+                },
+                {
+                  "ref": "primitives/workflows/covering-in-leather.json",
+                  "slug": "covering-in-leather",
+                  "kind": "workflow",
+                  "name": "covering a book in leather"
+                },
+                {
+                  "ref": "primitives/techniques/embroidery-covering.json",
+                  "slug": "embroidery-covering",
+                  "kind": "technique",
+                  "name": "covering with embroidery"
+                },
+                {
+                  "ref": "primitives/techniques/filling-in-boards.json",
+                  "slug": "filling-in-boards",
+                  "kind": "technique",
+                  "name": "filling in boards"
+                },
+                {
+                  "ref": "primitives/techniques/mitring-corners.json",
+                  "slug": "mitring-corners",
+                  "kind": "technique",
+                  "name": "mitring corners"
+                },
+                {
+                  "ref": "primitives/techniques/paring-leather.json",
+                  "slug": "paring-leather",
+                  "kind": "technique",
+                  "name": "paring leather"
+                },
+                {
+                  "ref": "primitives/techniques/plaiting-clasp-straps.json",
+                  "slug": "plaiting-clasp-straps",
+                  "kind": "technique",
+                  "name": "plaiting clasp straps"
+                },
+                {
+                  "ref": "primitives/techniques/setting-head-cap.json",
+                  "slug": "setting-head-cap",
+                  "kind": "technique",
+                  "name": "setting the head-cap"
+                },
+                {
+                  "ref": "primitives/techniques/tying-up.json",
+                  "slug": "tying-up",
+                  "kind": "technique",
+                  "name": "tying up"
+                },
+                {
+                  "ref": "primitives/techniques/vellum-covering.json",
+                  "slug": "vellum-covering",
+                  "kind": "technique",
+                  "name": "vellum binding"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
+              "id": "decoration-technique",
+              "name": "decoration technique",
+              "parent": "bookbinding-technique",
+              "members": [
+                {
+                  "ref": "primitives/techniques/arms-blocking.json",
+                  "slug": "arms-blocking",
+                  "kind": "technique",
+                  "name": "arms blocking"
+                },
+                {
+                  "ref": "primitives/techniques/blind-tooling.json",
+                  "slug": "blind-tooling",
+                  "kind": "technique",
+                  "name": "blind tooling"
+                },
+                {
+                  "ref": "primitives/workflows/building-a-diaper-pattern.json",
+                  "slug": "building-a-diaper-pattern",
+                  "kind": "workflow",
+                  "name": "building a diaper pattern"
+                },
+                {
+                  "ref": "primitives/techniques/combining-tools.json",
+                  "slug": "combining-tools",
+                  "kind": "technique",
+                  "name": "combining tools to form patterns"
+                },
+                {
+                  "ref": "primitives/techniques/crushing-grain.json",
+                  "slug": "crushing-grain",
+                  "kind": "technique",
+                  "name": "crushing the grain"
+                },
+                {
+                  "ref": "primitives/techniques/designing-finishing-tools.json",
+                  "slug": "designing-finishing-tools",
+                  "kind": "technique",
+                  "name": "designing finishing tools"
+                },
+                {
+                  "ref": "primitives/techniques/fore-edge-painting.json",
+                  "slug": "fore-edge-painting",
+                  "kind": "technique",
+                  "name": "fore-edge painting"
+                },
+                {
+                  "ref": "primitives/techniques/gauffering.json",
+                  "slug": "gauffering",
+                  "kind": "technique",
+                  "name": "gauffering"
+                },
+                {
+                  "ref": "primitives/workflows/gold-finishing.json",
+                  "slug": "gold-finishing",
+                  "kind": "workflow",
+                  "name": "gold finishing"
+                },
+                {
+                  "ref": "primitives/techniques/gold-tooling.json",
+                  "slug": "gold-tooling",
+                  "kind": "technique",
+                  "name": "gold tooling"
+                },
+                {
+                  "ref": "primitives/techniques/inlaying-on-leather.json",
+                  "slug": "inlaying-on-leather",
+                  "kind": "technique",
+                  "name": "inlaying on leather"
+                },
+                {
+                  "ref": "primitives/techniques/leather-work.json",
+                  "slug": "leather-work",
+                  "kind": "technique",
+                  "name": "leather work"
+                },
+                {
+                  "ref": "primitives/techniques/lettering.json",
+                  "slug": "lettering",
+                  "kind": "technique",
+                  "name": "lettering"
+                },
+                {
+                  "ref": "primitives/workflows/lettering-the-back.json",
+                  "slug": "lettering-the-back",
+                  "kind": "workflow",
+                  "name": "lettering the back"
+                },
+                {
+                  "ref": "primitives/techniques/mounting-metal-furniture.json",
+                  "slug": "mounting-metal-furniture",
+                  "kind": "technique",
+                  "name": "mounting metal furniture"
+                },
+                {
+                  "ref": "primitives/techniques/polishing.json",
+                  "slug": "polishing",
+                  "kind": "technique",
+                  "name": "polishing"
+                },
+                {
+                  "ref": "primitives/techniques/sizing-leather.json",
+                  "slug": "sizing-leather",
+                  "kind": "technique",
+                  "name": "sizing leather"
+                },
+                {
+                  "ref": "primitives/techniques/sprinkling-leather.json",
+                  "slug": "sprinkling-leather",
+                  "kind": "technique",
+                  "name": "sprinkling leather"
+                },
+                {
+                  "ref": "primitives/techniques/tooling-on-vellum.json",
+                  "slug": "tooling-on-vellum",
+                  "kind": "technique",
+                  "name": "tooling on vellum"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
+              "id": "edge-decoration-technique",
+              "name": "edge decoration technique",
+              "parent": "bookbinding-technique",
+              "members": [
+                {
+                  "ref": "primitives/techniques/cutting-in-boards.json",
+                  "slug": "cutting-in-boards",
+                  "kind": "technique",
+                  "name": "cutting in boards"
+                },
+                {
+                  "ref": "primitives/techniques/edge-colouring.json",
+                  "slug": "edge-colouring",
+                  "kind": "technique",
+                  "name": "edge colouring"
+                },
+                {
+                  "ref": "primitives/techniques/edge-gilding.json",
+                  "slug": "edge-gilding",
+                  "kind": "technique",
+                  "name": "edge gilding"
+                },
+                {
+                  "ref": "primitives/workflows/edge-gilding-before-sewing.json",
+                  "slug": "edge-gilding-before-sewing",
+                  "kind": "workflow",
+                  "name": "edge gilding before sewing"
+                },
+                {
+                  "ref": "primitives/techniques/trimming-edges.json",
+                  "slug": "trimming-edges",
+                  "kind": "technique",
+                  "name": "trimming edges"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
+              "id": "forwarding-technique",
+              "name": "forwarding technique",
+              "parent": "bookbinding-technique",
+              "members": [
+                {
+                  "ref": "primitives/techniques/backing.json",
+                  "slug": "backing",
+                  "kind": "technique",
+                  "name": "backing"
+                },
+                {
+                  "ref": "primitives/techniques/beating.json",
+                  "slug": "beating",
+                  "kind": "technique",
+                  "name": "beating"
+                },
+                {
+                  "ref": "primitives/techniques/cleaning-off.json",
+                  "slug": "cleaning-off",
+                  "kind": "technique",
+                  "name": "cleaning off the back"
+                },
+                {
+                  "ref": "primitives/workflows/cutting-and-attaching-boards.json",
+                  "slug": "cutting-and-attaching-boards",
+                  "kind": "workflow",
+                  "name": "cutting and attaching boards"
+                },
+                {
+                  "ref": "primitives/techniques/cutting-boards.json",
+                  "slug": "cutting-boards",
+                  "kind": "technique",
+                  "name": "cutting boards"
+                },
+                {
+                  "ref": "primitives/techniques/fitting-clasps.json",
+                  "slug": "fitting-clasps",
+                  "kind": "technique",
+                  "name": "fitting clasps"
+                },
+                {
+                  "ref": "primitives/techniques/fraying-out-slips.json",
+                  "slug": "fraying-out-slips",
+                  "kind": "technique",
+                  "name": "fraying out slips"
+                },
+                {
+                  "ref": "primitives/techniques/french-joint.json",
+                  "slug": "french-joint",
+                  "kind": "technique",
+                  "name": "French joint"
+                },
+                {
+                  "ref": "primitives/techniques/glueing-up.json",
+                  "slug": "glueing-up",
+                  "kind": "technique",
+                  "name": "glueing up"
+                },
+                {
+                  "ref": "primitives/techniques/hollow-back.json",
+                  "slug": "hollow-back",
+                  "kind": "technique",
+                  "name": "hollow back"
+                },
+                {
+                  "ref": "primitives/techniques/lacing-in.json",
+                  "slug": "lacing-in",
+                  "kind": "technique",
+                  "name": "lacing in"
+                },
+                {
+                  "ref": "primitives/workflows/library-binding.json",
+                  "slug": "library-binding",
+                  "kind": "workflow",
+                  "name": "library binding"
+                },
+                {
+                  "ref": "primitives/techniques/lining-boards.json",
+                  "slug": "lining-boards",
+                  "kind": "technique",
+                  "name": "lining boards"
+                },
+                {
+                  "ref": "primitives/techniques/lining-up.json",
+                  "slug": "lining-up",
+                  "kind": "technique",
+                  "name": "lining up"
+                },
+                {
+                  "ref": "primitives/workflows/making-and-fitting-a-clasp.json",
+                  "slug": "making-and-fitting-a-clasp",
+                  "kind": "workflow",
+                  "name": "making and fitting a clasp"
+                },
+                {
+                  "ref": "primitives/techniques/opening-newly-bound-books.json",
+                  "slug": "opening-newly-bound-books",
+                  "kind": "technique",
+                  "name": "opening newly bound books"
+                },
+                {
+                  "ref": "primitives/techniques/pasting-down-end-papers.json",
+                  "slug": "pasting-down-end-papers",
+                  "kind": "technique",
+                  "name": "pasting down end papers"
+                },
+                {
+                  "ref": "primitives/workflows/pasting-down-end-papers-procedure.json",
+                  "slug": "pasting-down-end-papers-procedure",
+                  "kind": "workflow",
+                  "name": "pasting down end papers"
+                },
+                {
+                  "ref": "primitives/techniques/pressing.json",
+                  "slug": "pressing",
+                  "kind": "technique",
+                  "name": "pressing"
+                },
+                {
+                  "ref": "primitives/techniques/pressing-sections.json",
+                  "slug": "pressing-sections",
+                  "kind": "technique",
+                  "name": "pressing sections"
+                },
+                {
+                  "ref": "primitives/techniques/rounding.json",
+                  "slug": "rounding",
+                  "kind": "technique",
+                  "name": "rounding"
+                },
+                {
+                  "ref": "primitives/workflows/rounding-and-backing.json",
+                  "slug": "rounding-and-backing",
+                  "kind": "workflow",
+                  "name": "rounding and backing"
+                },
+                {
+                  "ref": "primitives/techniques/setting-squares.json",
+                  "slug": "setting-squares",
+                  "kind": "technique",
+                  "name": "setting the squares"
+                },
+                {
+                  "ref": "primitives/techniques/split-boards.json",
+                  "slug": "split-boards",
+                  "kind": "technique",
+                  "name": "split boards"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
+              "id": "preparation-technique",
+              "name": "preparation technique",
+              "parent": "bookbinding-technique",
+              "members": [
+                {
+                  "ref": "primitives/techniques/collating.json",
+                  "slug": "collating",
+                  "kind": "technique",
+                  "name": "collating"
+                },
+                {
+                  "ref": "primitives/techniques/flattening-vellum.json",
+                  "slug": "flattening-vellum",
+                  "kind": "technique",
+                  "name": "flattening vellum"
+                },
+                {
+                  "ref": "primitives/techniques/folding.json",
+                  "slug": "folding",
+                  "kind": "technique",
+                  "name": "folding"
+                },
+                {
+                  "ref": "primitives/techniques/gathering.json",
+                  "slug": "gathering",
+                  "kind": "technique",
+                  "name": "gathering"
+                },
+                {
+                  "ref": "primitives/techniques/guarding.json",
+                  "slug": "guarding",
+                  "kind": "technique",
+                  "name": "guarding"
+                },
+                {
+                  "ref": "primitives/techniques/hinging-plates.json",
+                  "slug": "hinging-plates",
+                  "kind": "technique",
+                  "name": "hinging plates"
+                },
+                {
+                  "ref": "primitives/techniques/inlaying.json",
+                  "slug": "inlaying",
+                  "kind": "technique",
+                  "name": "inlaying"
+                },
+                {
+                  "ref": "primitives/techniques/knocking-out-joints.json",
+                  "slug": "knocking-out-joints",
+                  "kind": "technique",
+                  "name": "knocking out joints"
+                },
+                {
+                  "ref": "primitives/workflows/making-end-papers.json",
+                  "slug": "making-end-papers",
+                  "kind": "workflow",
+                  "name": "making end papers"
+                },
+                {
+                  "ref": "primitives/techniques/mending.json",
+                  "slug": "mending",
+                  "kind": "technique",
+                  "name": "mending"
+                },
+                {
+                  "ref": "primitives/techniques/mending-vellum.json",
+                  "slug": "mending-vellum",
+                  "kind": "technique",
+                  "name": "mending vellum"
+                },
+                {
+                  "ref": "primitives/techniques/mounting.json",
+                  "slug": "mounting",
+                  "kind": "technique",
+                  "name": "mounting"
+                },
+                {
+                  "ref": "primitives/techniques/mounting-thin-paper.json",
+                  "slug": "mounting-thin-paper",
+                  "kind": "technique",
+                  "name": "mounting very thin paper"
+                },
+                {
+                  "ref": "primitives/techniques/paring-paper.json",
+                  "slug": "paring-paper",
+                  "kind": "technique",
+                  "name": "paring paper"
+                },
+                {
+                  "ref": "primitives/workflows/paste-making.json",
+                  "slug": "paste-making",
+                  "kind": "workflow",
+                  "name": "making paste"
+                },
+                {
+                  "ref": "primitives/workflows/preparing-sheets-for-binding.json",
+                  "slug": "preparing-sheets-for-binding",
+                  "kind": "workflow",
+                  "name": "preparing sheets for binding"
+                },
+                {
+                  "ref": "primitives/techniques/pulling.json",
+                  "slug": "pulling",
+                  "kind": "technique",
+                  "name": "pulling to pieces"
+                },
+                {
+                  "ref": "primitives/techniques/refolding.json",
+                  "slug": "refolding",
+                  "kind": "technique",
+                  "name": "refolding"
+                },
+                {
+                  "ref": "primitives/techniques/sizing.json",
+                  "slug": "sizing",
+                  "kind": "technique",
+                  "name": "sizing"
+                },
+                {
+                  "ref": "primitives/techniques/soaking-off-india-proofs.json",
+                  "slug": "soaking-off-india-proofs",
+                  "kind": "technique",
+                  "name": "soaking off India proofs"
+                },
+                {
+                  "ref": "primitives/techniques/splitting-paper.json",
+                  "slug": "splitting-paper",
+                  "kind": "technique",
+                  "name": "splitting paper"
+                },
+                {
+                  "ref": "primitives/techniques/throwing-out.json",
+                  "slug": "throwing-out",
+                  "kind": "technique",
+                  "name": "throwing out"
+                },
+                {
+                  "ref": "primitives/techniques/trimming-plates.json",
+                  "slug": "trimming-plates",
+                  "kind": "technique",
+                  "name": "trimming plates"
+                },
+                {
+                  "ref": "primitives/techniques/washing.json",
+                  "slug": "washing",
+                  "kind": "technique",
+                  "name": "washing"
+                }
+              ],
+              "related": [],
+              "children": []
+            },
+            {
               "id": "sewing-technique",
               "name": "sewing technique",
               "parent": "bookbinding-technique",
@@ -235,6 +1573,18 @@
                   "name": "flexible sewing on cords"
                 },
                 {
+                  "ref": "primitives/techniques/headbanding.json",
+                  "slug": "headbanding",
+                  "kind": "technique",
+                  "name": "headbanding"
+                },
+                {
+                  "ref": "primitives/workflows/headbanding-on-vellum.json",
+                  "slug": "headbanding-on-vellum",
+                  "kind": "workflow",
+                  "name": "working a headband on a vellum slip"
+                },
+                {
                   "ref": "primitives/techniques/kettle-stitch.json",
                   "slug": "kettle-stitch",
                   "kind": "technique",
@@ -245,6 +1595,12 @@
                   "slug": "marking-up",
                   "kind": "technique",
                   "name": "marking up"
+                },
+                {
+                  "ref": "primitives/techniques/overcasting.json",
+                  "slug": "overcasting",
+                  "kind": "technique",
+                  "name": "overcasting"
                 },
                 {
                   "ref": "primitives/techniques/sawing-in.json",

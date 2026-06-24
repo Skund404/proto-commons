@@ -1,0 +1,65 @@
+{
+  "content_hash": "sha256:d7990fc69cdd05d720100e5001b2444bf7230265c83cd9825ebad61317810715",
+  "created": "2026-06-24",
+  "description": "Flattening the old folded joints out of sections of a previously backed book by hammering them squarely on a covered iron, keeping the hammer face clean and true so the paper is not cut or soiled.",
+  "emitter": "opg://commons-seed",
+  "id": "knocking-out-joints-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "knocking out joints",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "knocking out joints"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "preparation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:076e4cb7c5afd6fd35260cb8be1280e3db83c7c896c819787adf62facfd79546",
+        "id": "flattening-hammer-seed",
+        "path": "primitives/tools/flattening-hammer.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:6439aa0b076370331e4a7148618e2891b0b4e035ccff9193a4d38c1e3837abff",
+        "id": "knocking-down-iron-seed",
+        "path": "primitives/tools/knocking-down-iron.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+        "id": "lying-press-seed",
+        "path": "primitives/tools/lying-press.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "knocking-out-joints",
+  "tags": [
+    "bookbinding",
+    "preparation-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,49 @@
+{
+  "content_hash": "sha256:947d39c82fd5d4092e7948fd1881274fc4b5aa93fcc244a93083ea4d1a0a1539",
+  "created": "2026-06-24",
+  "description": "Setting pieces of a contrasting leather, or paper, into a cover as decoration. The inlay leather is pared very thin, shapes are punched or cut out, edges pared, and the pieces pasted in and pressed, with tooling often worked over them.",
+  "emitter": "opg://commons-seed",
+  "id": "inlaying-on-leather-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "inlaying on leather",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "inlaying on leather"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "decoration-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:5a812805e9c759f02854675aed7e19c9655a2dd623a8409af342a02e627d16af",
+        "id": "gold-leaf-seed",
+        "path": "primitives/materials/gold-leaf.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "inlaying-on-leather",
+  "tags": [
+    "bookbinding",
+    "decoration-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

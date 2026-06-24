@@ -1,0 +1,66 @@
+{
+  "content_hash": "sha256:33859e88d2137599aa3c66be8fa79651a78376f70478893116e2a5de17cabab1",
+  "created": "2026-06-24",
+  "description": "Impressing a pattern into a cover with heated tools alone, leaving no gold so the design reads as a recessed mark in the leather.",
+  "emitter": "opg://commons-seed",
+  "id": "blind-tooling-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "blind tooling",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "blind tooling",
+        "blind-tooled"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "decoration-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:2cfefbc755210baf5f9571e7f34de1c77e7569eed27663d3a0ebb708b3c61253",
+        "id": "finishing-tool-seed",
+        "path": "primitives/tools/finishing-tool.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:7af84593c66dd62a5e837987f8c88f2407b04919e8bcce8bc97f416a6e23090a",
+        "id": "fillet-seed",
+        "path": "primitives/tools/fillet.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:a7af2dcd470738bc5bf0dddc71c1b85ff17d57be08d9e1022f64c6451f94bcf0",
+        "id": "gouge-seed",
+        "path": "primitives/tools/gouge.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "blind-tooling",
+  "tags": [
+    "bookbinding",
+    "decoration-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

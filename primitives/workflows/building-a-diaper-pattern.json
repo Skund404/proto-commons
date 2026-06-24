@@ -1,0 +1,95 @@
+{
+  "content_hash": "sha256:e073fb6e79534b344d1d6c18a9a5cc9c8524f1c78246a6b23cb10f480a9e41d0",
+  "created": "2026-06-24",
+  "description": "Laying out and filling an all-over repeating ground pattern on paper before tooling. Construction lines are folded and marked into the paper to divide it into equal cells, then a few tools are impressed at fixed crossing points so the same simple motif repeats predictably over the whole surface.",
+  "emitter": "opg://commons-seed",
+  "id": "building-a-diaper-pattern-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "building a diaper pattern",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "intermediate",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "building a diaper pattern"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "steps": [
+      {
+        "description": "Cut a piece of thin paper to the size of the board and pencil a margin line a short distance inside the edge all round.",
+        "position": 1
+      },
+      {
+        "description": "Find the centre construction lines by folding the paper side to side and head to tail, then crease the remaining division lines with the point of a folder.",
+        "position": 2
+      },
+      {
+        "description": "Join the crossing points and re-cross as needed until the cells are reduced to the desired size, keeping every space the same shape.",
+        "position": 3
+      },
+      {
+        "description": "Impress a flower tool at the chosen line crossings, reheating it in candle smoke between a few impressions.",
+        "position": 4
+      },
+      {
+        "description": "Add a short straight-line stalk below each flower and place a leaf to each side to complete the repeating unit.",
+        "position": 5
+      }
+    ],
+    "taxonomy": "decoration-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:4446cc722e29488d36da94cbab0bd5c6c0e1e2570cdd829a557548c34eb464ce",
+        "id": "combining-tools-seed",
+        "path": "primitives/techniques/combining-tools.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+        "id": "folder-seed",
+        "path": "primitives/tools/folder.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:a7af2dcd470738bc5bf0dddc71c1b85ff17d57be08d9e1022f64c6451f94bcf0",
+        "id": "gouge-seed",
+        "path": "primitives/tools/gouge.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:0bf99959a8b0add521455ee4b738c2ab5057d86fec267cc1c65eb1b1fd1678ad",
+        "id": "design-paper-seed",
+        "path": "primitives/materials/design-paper.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "building-a-diaper-pattern",
+  "tags": [
+    "bookbinding",
+    "decoration-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

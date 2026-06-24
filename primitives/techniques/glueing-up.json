@@ -1,0 +1,66 @@
+{
+  "content_hash": "sha256:59b4e4a774da110e4f96d42a6bfc121378e461f0e9a5c9d2d951abde64bfa327",
+  "created": "2026-06-24",
+  "description": "Applying hot glue along the spine of a textblock held squarely in the press, working it well into every section and rubbing the back so the adhesive reaches the full length of each fold. The head must be knocked square before glueing so it cannot be corrected later.",
+  "emitter": "opg://commons-seed",
+  "id": "glueing-up-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "glueing up",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "glueing up",
+        "gluing up"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:e94fa7fa6389bd8f62975e71f95cb8354e9c2033f34d9eadde47814305b8c8b6",
+        "id": "glue-brush-seed",
+        "path": "primitives/tools/glue-brush.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+        "id": "lying-press-seed",
+        "path": "primitives/tools/lying-press.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:199e25c7b9d8b7a49d1cf66e3c7477cafb10dac1c5d250c8566a942a952a0d43",
+        "id": "glue-seed",
+        "path": "primitives/materials/glue.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "glueing-up",
+  "tags": [
+    "bookbinding",
+    "forwarding-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

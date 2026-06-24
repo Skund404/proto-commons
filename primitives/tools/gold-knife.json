@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:658759ce1e9bb393b73aef819e709ea49777799a8b7c8137756d7e66bdfb6a02",
+  "created": "2026-06-24",
+  "description": "A long straight blade used to lift, flatten, and cut leaves of gold on the cushion. It is kept free of grease, never touched on the blade by hand, and rubbed on the cushion before cutting.",
+  "emitter": "opg://commons-seed",
+  "id": "gold-knife-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "gold knife",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "finishing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "gold knife"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "edge-equipment"
+  },
+  "slug": "gold-knife",
+  "tags": [
+    "bookbinding",
+    "finishing",
+    "edge-equipment"
+  ],
+  "visibility": "commons"
+}

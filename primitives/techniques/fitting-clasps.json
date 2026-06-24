@@ -1,0 +1,58 @@
+{
+  "content_hash": "sha256:20df2ecb68d43ea5e1f321d60a0fd0c045f9ccde75c73f43e25409e01fcb6b9c",
+  "created": "2026-06-24",
+  "description": "Anchoring a metal clasp into the covers of a book. The flattened catch is set between the layers of a double board and glued, or its turned end is passed through a wooden board and riveted on the inside; during covering the leather is pierced and worked snugly around the projecting catch.",
+  "emitter": "opg://commons-seed",
+  "id": "fitting-clasps-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "fitting clasps",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "fitting clasps",
+        "attaching a clasp"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:3d5e8928bb736be91408aea2b22b821a3f3576729f8376ef7134ee31506596e2",
+        "id": "metal-clasp-seed",
+        "path": "primitives/materials/metal-clasp.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:612eb44af2539cc58f28ab56e2db698c2b58ee0de0b1fb04cbdc69dfc18b855f",
+        "id": "silver-wire-seed",
+        "path": "primitives/materials/silver-wire.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "fitting-clasps",
+  "tags": [
+    "bookbinding",
+    "forwarding-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

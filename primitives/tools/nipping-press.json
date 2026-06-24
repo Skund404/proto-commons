@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:7015756c7acc4c52caa658a3a26173b7a1035bf702c243229c71af321cbaaf74",
+  "created": "2026-06-24",
+  "description": "A small screw press for giving comparatively light, even pressure, used to nip a book or its boards after tooling and varnishing.",
+  "emitter": "opg://commons-seed",
+  "id": "nipping-press-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "nipping press",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "binding",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "nipping press"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-equipment"
+  },
+  "slug": "nipping-press",
+  "tags": [
+    "bookbinding",
+    "binding",
+    "forwarding-equipment"
+  ],
+  "visibility": "commons"
+}

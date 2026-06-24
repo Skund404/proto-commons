@@ -1,0 +1,66 @@
+{
+  "content_hash": "sha256:3ad41b1ef4c1185fe8dcf35c626f246f42be77245d4ec173e946447bc1fb199f",
+  "created": "2026-06-24",
+  "description": "Routine maintenance dressing applied to aged leather bindings to keep the covering supple and slow deterioration. A light, non-staining, non-tacky preservative is worked sparingly into the surface with a soft cloth, concentrating on the spine and hinge areas where flexing is greatest. Cockerell argues that frequent handling and a thin oily film prolong leather life far better than hard coatings, which crack at the joint.",
+  "emitter": "opg://commons-seed",
+  "id": "preserving-old-bindings-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "preserving old bindings",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "preserving old bindings",
+        "dressing old leather"
+      ]
+    },
+    "skillLevel": "beginner",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "conservation-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:8dbb4e15cd80a56d5996e838ab3b979210e24e0bc3224edd6ffc9075db08e178",
+        "id": "leather-dressing-seed",
+        "path": "primitives/materials/leather-dressing.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:3ef5a3576202ed50664a10ee54eb01bbcc211262a555029322d83589f65051ea",
+        "id": "paraffin-wax-seed",
+        "path": "primitives/materials/paraffin-wax.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:4581267e8235e2345b70f081beeb9967bbfe42101c743d3f927aa08025af5f36",
+        "id": "castor-oil-seed",
+        "path": "primitives/materials/castor-oil.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "preserving-old-bindings",
+  "tags": [
+    "bookbinding",
+    "conservation-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

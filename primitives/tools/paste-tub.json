@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:095acd651901e7c1bafbd16e974db6945a8e424fcf852b8c6cf043e3d8e84ec3",
+  "created": "2026-06-24",
+  "description": "A wooden trough that holds working paste at the bench. Any cross bar for wiping the brush is best swapped for a twisted cord, and the tub is cleaned of dried scraps by soaking it overnight with water.",
+  "emitter": "opg://commons-seed",
+  "id": "paste-tub-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "paste tub",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "binding",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "paste tub"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-equipment"
+  },
+  "slug": "paste-tub",
+  "tags": [
+    "bookbinding",
+    "binding",
+    "forwarding-equipment"
+  ],
+  "visibility": "commons"
+}

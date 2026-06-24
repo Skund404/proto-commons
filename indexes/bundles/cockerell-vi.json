@@ -1,0 +1,141 @@
+{
+  "content_hash": "sha256:5a62fbccc918332aa5c6cb510f3e8ce9d90da1bdcf4154859a17fc6b1968e479",
+  "description": {
+    "en": "Chapter VI (Trimming Edges before Sewing Edge Gilding) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+  },
+  "domain": "bookbinding",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "ia_item": "bookbindingcareo00cockrich",
+  "items": [
+    {
+      "hash": "sha256:da26fc3621d63113ba1767e74ba25cd0dc2332456812e95ba14f80d9f751e92d",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "beeswax"
+    },
+    {
+      "hash": "sha256:0dfa915652a0d8a1d2d8073b3314a53460bf702ed6362ef271d92127c0662daa",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "blacklead"
+    },
+    {
+      "hash": "sha256:88fae84e1d579e22086a15aaf4333c304c41ab1384fb49a2686f68a6540abe67",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "burnisher"
+    },
+    {
+      "hash": "sha256:216cc80aeb64f2435abaff5ae80afa59a9a6f2d8242df9d39c8c81b55161ccbb",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "carpenter-square"
+    },
+    {
+      "hash": "sha256:988a6ab8a9f7203e04821d3d36765933b1b2c88c29a82e459f6e6de8cd32dfa5",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "edge-gilding"
+    },
+    {
+      "hash": "sha256:bcb576097d6f6bd5a1395e1e147c22a9d4216221f66aee8c622d38d2a822e519",
+      "kind": "workflow",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "edge-gilding-before-sewing"
+    },
+    {
+      "hash": "sha256:6823f8ac9ef2e6d7df619eb16e4ace53b49f7a9ad4879c25f032628b985a8c59",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "edge-trimming-jig"
+    },
+    {
+      "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "folder"
+    },
+    {
+      "hash": "sha256:8efec98dd03e28bf590cd3bbe9ddbb27ee1daa3fe44a24279916777c76ca72fd",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "gilders-tip"
+    },
+    {
+      "hash": "sha256:e47eec32b4216cfe082eccb63500143dd5c458080ab3816a679fc504185480f5",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "cutting-board"
+    },
+    {
+      "hash": "sha256:c393e2adf085eeb87583454dd8c2ddabe97fbd35b17cac38fbb4bb96d7173bbe",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "glaire"
+    },
+    {
+      "hash": "sha256:5a812805e9c759f02854675aed7e19c9655a2dd623a8409af342a02e627d16af",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "gold-leaf"
+    },
+    {
+      "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "lying-press"
+    },
+    {
+      "hash": "sha256:21004f66e14700e6673fd2c75007cd4150e547c8161622246af81f49555d1f77",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "red-chalk"
+    },
+    {
+      "hash": "sha256:e01379b3dc11a5dee1a4aeff3e520319a6c453ef20e6c00af6d143fa79dfc11e",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "size"
+    },
+    {
+      "hash": "sha256:848643e9a80f48032136443c7ee545ad5dac35a59b58f3c9a1ca509e4e5f3756",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "trimming-edges"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Cockerell, Chapter VI: Trimming Edges before Sewing Edge Gilding"
+  },
+  "record_class": "bundle",
+  "slug": "cockerell-vi",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "bookbinding",
+    "part1",
+    "chapter"
+  ]
+}

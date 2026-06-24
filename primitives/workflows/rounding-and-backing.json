@@ -1,0 +1,164 @@
+{
+  "content_hash": "sha256:e64d636c778da1b114762f2aba6bd3dfce4a4204dddcc7e5dd0a381472014648",
+  "created": "2026-06-24",
+  "description": "The sequence that prepares a sewn textblock for its boards: the cord slips are frayed out, the book is glued up in the press, then the spine is rounded and backed to set its curve and joint shoulder. Rounding and backing are done after the glue stops being tacky but before it sets hard.",
+  "emitter": "opg://commons-seed",
+  "id": "rounding-and-backing-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "rounding and backing",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "advanced",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "rounding and backing",
+        "forwarding the back"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "steps": [
+      {
+        "description": "Inspect the sewn book to confirm every sheet and plate is caught by the thread and the end-paper sewing lies even.",
+        "position": 1
+      },
+      {
+        "description": "Cut the cord ends to about two inches each side and fray the strands out into loose fibres; cut tape or vellum bands to the same length.",
+        "position": 2
+      },
+      {
+        "description": "Protect the slips with waste board, knock the book square at back and head, and screw it into the lying press with the spine projecting.",
+        "position": 3
+      },
+      {
+        "description": "If the back is too swollen, pull the slips tight or use a knocking-down iron and hammer to close the sections, then straighten the slips.",
+        "position": 4
+      },
+      {
+        "description": "Apply hot, thin glue and work it between every section with the brush, rubbing the back so it penetrates the full length of each fold.",
+        "position": 5
+      },
+      {
+        "description": "Once the glue is no longer tacky, draw the spine over the press edge and tap it round on both sides to an even convex curve.",
+        "position": 6
+      },
+      {
+        "description": "Clamp the rounded book between backing boards set below the spine edge and screw the press up very tight, checking the curve is even.",
+        "position": 7
+      },
+      {
+        "description": "Fan the section folds outward from the centre with glancing riveting blows to form the joint groove on both sides.",
+        "position": 8
+      }
+    ],
+    "taxonomy": "forwarding-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:ff47f015dd4abd9ce2bde238e366c0df58cbdca6aa5cc71bbda2c9018524b616",
+        "id": "fraying-out-slips-seed",
+        "path": "primitives/techniques/fraying-out-slips.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:59b4e4a774da110e4f96d42a6bfc121378e461f0e9a5c9d2d951abde64bfa327",
+        "id": "glueing-up-seed",
+        "path": "primitives/techniques/glueing-up.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:5b9f1764fa701a7a7e14c1d352189b0d39de8b04c5500c864b0650ec826cb8cf",
+        "id": "rounding-seed",
+        "path": "primitives/techniques/rounding.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:a63937971f0877e868db57814f3c01c4e98cb046c23c3297ecbc800451b08f61",
+        "id": "backing-seed",
+        "path": "primitives/techniques/backing.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:e430b13830b58db0f01b4fdf4bf7c33d5221ef7c352e1377e68d573346713f3e",
+        "id": "bodkin-seed",
+        "path": "primitives/tools/bodkin.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:e94fa7fa6389bd8f62975e71f95cb8354e9c2033f34d9eadde47814305b8c8b6",
+        "id": "glue-brush-seed",
+        "path": "primitives/tools/glue-brush.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:125070e4b693c17755074ea281c6ed1ee6bb9664cd648f4659e5d47bda5e011d",
+        "id": "backing-hammer-seed",
+        "path": "primitives/tools/backing-hammer.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:985d8a3ccaf2601c63189300e6af33b56a1def39a9f1ce8b97a855640c10d2b4",
+        "id": "backing-board-seed",
+        "path": "primitives/tools/backing-board.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:6439aa0b076370331e4a7148618e2891b0b4e035ccff9193a4d38c1e3837abff",
+        "id": "knocking-down-iron-seed",
+        "path": "primitives/tools/knocking-down-iron.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+        "id": "lying-press-seed",
+        "path": "primitives/tools/lying-press.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:199e25c7b9d8b7a49d1cf66e3c7477cafb10dac1c5d250c8566a942a952a0d43",
+        "id": "glue-seed",
+        "path": "primitives/materials/glue.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "rounding-and-backing",
+  "tags": [
+    "bookbinding",
+    "forwarding-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

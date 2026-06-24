@@ -1,0 +1,98 @@
+{
+  "content_hash": "sha256:988a6ab8a9f7203e04821d3d36765933b1b2c88c29a82e459f6e6de8cd32dfa5",
+  "created": "2026-06-24",
+  "description": "Laying gold leaf onto the trimmed edges of a book held tight in the press. The edge is scraped smooth, optionally sized, grounded with chalk or blacklead, glaired, then covered with cut gold and left to dry before being waxed and burnished to a bright finish, fore-edge first and head and tail after.",
+  "emitter": "opg://commons-seed",
+  "id": "edge-gilding-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "edge gilding",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "edge gilding",
+        "gilding edges"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "edge-decoration-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+        "id": "lying-press-seed",
+        "path": "primitives/tools/lying-press.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:e47eec32b4216cfe082eccb63500143dd5c458080ab3816a679fc504185480f5",
+        "id": "cutting-board-seed",
+        "path": "primitives/tools/cutting-board.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:8efec98dd03e28bf590cd3bbe9ddbb27ee1daa3fe44a24279916777c76ca72fd",
+        "id": "gilders-tip-seed",
+        "path": "primitives/tools/gilders-tip.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:88fae84e1d579e22086a15aaf4333c304c41ab1384fb49a2686f68a6540abe67",
+        "id": "burnisher-seed",
+        "path": "primitives/tools/burnisher.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:5a812805e9c759f02854675aed7e19c9655a2dd623a8409af342a02e627d16af",
+        "id": "gold-leaf-seed",
+        "path": "primitives/materials/gold-leaf.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:c393e2adf085eeb87583454dd8c2ddabe97fbd35b17cac38fbb4bb96d7173bbe",
+        "id": "glaire-seed",
+        "path": "primitives/materials/glaire.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:21004f66e14700e6673fd2c75007cd4150e547c8161622246af81f49555d1f77",
+        "id": "red-chalk-seed",
+        "path": "primitives/materials/red-chalk.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "edge-gilding",
+  "tags": [
+    "bookbinding",
+    "edge-decoration-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

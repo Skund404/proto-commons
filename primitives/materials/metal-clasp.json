@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:3d5e8928bb736be91408aea2b22b821a3f3576729f8376ef7134ee31506596e2",
+  "created": "2026-06-24",
+  "description": "A metal fastening attached across the fore-edge of a volume to hold the covers closed and the leaves pressed flat. It is favoured on books whose pages will otherwise spring open, and a low-profile pattern is chosen so nothing protrudes to scuff a neighbouring spine on the shelf.",
+  "emitter": "opg://commons-seed",
+  "id": "metal-clasp-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "clasp",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "metal",
+    "names": {
+      "en": [
+        "clasp",
+        "metal clasp"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "decoration-material",
+    "unit": "piece"
+  },
+  "slug": "metal-clasp",
+  "tags": [
+    "bookbinding",
+    "metal",
+    "decoration-material"
+  ],
+  "visibility": "commons"
+}

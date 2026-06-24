@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:6823f8ac9ef2e6d7df619eb16e4ace53b49f7a9ad4879c25f032628b985a8c59",
+  "created": "2026-06-24",
+  "description": "An adjustable bench fixture for cutting the projecting edges of several gathered sections to a uniform width before sewing. A guide board or straight edge is set to the desired leaf size and the surplus paper is sliced away against it, with a backing board protecting the bed from the blade.",
+  "emitter": "opg://commons-seed",
+  "id": "edge-trimming-jig-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "trimming machine",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "cutting",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "trimming machine",
+        "trimming jig"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "edge-equipment"
+  },
+  "slug": "edge-trimming-jig",
+  "tags": [
+    "bookbinding",
+    "cutting",
+    "edge-equipment"
+  ],
+  "visibility": "commons"
+}

@@ -1,0 +1,191 @@
+{
+  "content_hash": "sha256:ecea7b1a8b8c41ac7acb09809840814aba9a387fbf22634050e915dcdf35462d",
+  "created": "2026-06-24",
+  "description": "The full sequence for tooling a leather cover in gold, from preparing the surface through laying the gold, striking the pattern, cleaning off, and varnishing the finished binding.",
+  "emitter": "opg://commons-seed",
+  "id": "gold-finishing-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "gold finishing",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "advanced",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "gold finishing"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "steps": [
+      {
+        "description": "Polish the back warm and crush the grain of the leather if much finishing is planned.",
+        "position": 1
+      },
+      {
+        "description": "Decide the lettering and decoration and prepare paper patterns for an elaborate design.",
+        "position": 2
+      },
+      {
+        "description": "Hold the book in the finishing press, fix the paper pattern across the back or on the sides, and blind in the design with cooled tools.",
+        "position": 3
+      },
+      {
+        "description": "Wash the cover clean, then wash porous leather with paste-water and size.",
+        "position": 4
+      },
+      {
+        "description": "Paint the tool impressions with glaire, giving heavy or porous work a second coat.",
+        "position": 5
+      },
+      {
+        "description": "Grease the cover lightly, pick up cut gold leaf on a cotton-wool pad, and lay it over the prepared impressions.",
+        "position": 6
+      },
+      {
+        "description": "Work the pattern through the gold with hot tools, judging the heat by trial for the leather in hand.",
+        "position": 7
+      },
+      {
+        "description": "Rub off loose gold, inspect for imperfect impressions, and reglaire and retool any that failed.",
+        "position": 8
+      },
+      {
+        "description": "Wash the cover with benzine, polish and varnish the margins and sides, and press the boards to finish.",
+        "position": 9
+      }
+    ],
+    "taxonomy": "decoration-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:7f156b360e2f6fa36585f2fe6f75ab6713de19ce08095771d3b1d7374158f11c",
+        "id": "polishing-seed",
+        "path": "primitives/techniques/polishing.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:60b86070d17ec3b0072cc743488ae754ae16e130471882f14ab47f8f8b8bd127",
+        "id": "crushing-grain-seed",
+        "path": "primitives/techniques/crushing-grain.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:33859e88d2137599aa3c66be8fa79651a78376f70478893116e2a5de17cabab1",
+        "id": "blind-tooling-seed",
+        "path": "primitives/techniques/blind-tooling.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:9ca096123041b26c6f2c6c17319facdeb080ca128217ce25eb454abf3cf18d75",
+        "id": "sizing-leather-seed",
+        "path": "primitives/techniques/sizing-leather.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:5d17a5de6a9bcd95ec528f0cb62eb79918df3dc1a6acfa68c5f83ebdf4c6a716",
+        "id": "gold-tooling-seed",
+        "path": "primitives/techniques/gold-tooling.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:dc929a2db8b9f0c09368248d999510ab92ee8d0beec0bd730df0f6fe970db3a5",
+        "id": "mending-tooling-seed",
+        "path": "primitives/techniques/mending-tooling.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:2cfefbc755210baf5f9571e7f34de1c77e7569eed27663d3a0ebb708b3c61253",
+        "id": "finishing-tool-seed",
+        "path": "primitives/tools/finishing-tool.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:b79b15c308d4d28d578179bcadbf10ec47fbda86725e6cf32edb12467e46c18b",
+        "id": "finishing-press-seed",
+        "path": "primitives/tools/finishing-press.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:94ffd6c73ff6b486bd30eca8bc334c48e5b8705e009d81d9f73cb6015949e5ec",
+        "id": "finishing-stove-seed",
+        "path": "primitives/tools/finishing-stove.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:658759ce1e9bb393b73aef819e709ea49777799a8b7c8137756d7e66bdfb6a02",
+        "id": "gold-knife-seed",
+        "path": "primitives/tools/gold-knife.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:20bb081ea16bc86b1014538438b546f9226d6fd07dc055218fba0171149a7649",
+        "id": "gold-cushion-seed",
+        "path": "primitives/tools/gold-cushion.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:5a812805e9c759f02854675aed7e19c9655a2dd623a8409af342a02e627d16af",
+        "id": "gold-leaf-seed",
+        "path": "primitives/materials/gold-leaf.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:c393e2adf085eeb87583454dd8c2ddabe97fbd35b17cac38fbb4bb96d7173bbe",
+        "id": "glaire-seed",
+        "path": "primitives/materials/glaire.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:17822039e652ae9cbe61a4600287009591cfcb18cb24efc95456be643db8250c",
+        "id": "varnish-seed",
+        "path": "primitives/materials/varnish.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "gold-finishing",
+  "tags": [
+    "bookbinding",
+    "decoration-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

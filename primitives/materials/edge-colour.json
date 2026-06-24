@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:49b43c8cab97dae5db786b5f3523524e96139ff994a000f88542a05bb33d53c6",
+  "created": "2026-06-24",
+  "description": "A thin liquid stain or water-colour, sometimes mixed with size, applied to the trimmed edges of a book to tint them. It is laid on in successive light coats until the wanted depth of tone is reached.",
+  "emitter": "opg://commons-seed",
+  "id": "edge-colour-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "edge colour",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "colour",
+    "names": {
+      "en": [
+        "edge colour",
+        "edge stain"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "decoration-material",
+    "unit": "ml"
+  },
+  "slug": "edge-colour",
+  "tags": [
+    "bookbinding",
+    "colour",
+    "decoration-material"
+  ],
+  "visibility": "commons"
+}

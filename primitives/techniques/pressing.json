@@ -1,0 +1,49 @@
+{
+  "content_hash": "sha256:0e871bb45654c734ce9dceecabee04538198f0e8f7257acc258caba55c8bcd51",
+  "created": "2026-06-24",
+  "description": "Building the laced and cleaned books into the standing press under even pressure, with tins set into the joints, to set the form of the spine and joints permanently. Hand-printed sheets and plates are protected with tissues or tins, and the books are left under pressure overnight.",
+  "emitter": "opg://commons-seed",
+  "id": "pressing-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "pressing",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "pressing"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:ad8d3a9c1a538aa89270b270a797de51ec8d92734694fb3b42c5b4af6c2e6591",
+        "id": "standing-press-seed",
+        "path": "primitives/tools/standing-press.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "pressing",
+  "tags": [
+    "bookbinding",
+    "forwarding-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

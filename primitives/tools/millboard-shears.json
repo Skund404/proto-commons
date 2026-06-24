@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:aaf69b4a6c7a283c1fbc2de4d0d9bb5b70897d714a360060c01306d619765d5c",
+  "created": "2026-06-24",
+  "description": "Large lever shears clamped in a press to cut board roughly to size before final trimming. The straight arm is fixed in the press so the operator's hand is not bruised against the work.",
+  "emitter": "opg://commons-seed",
+  "id": "millboard-shears-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "millboard shears",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "cutting",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "millboard shears"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "forwarding-equipment"
+  },
+  "slug": "millboard-shears",
+  "tags": [
+    "bookbinding",
+    "cutting",
+    "forwarding-equipment"
+  ],
+  "visibility": "commons"
+}

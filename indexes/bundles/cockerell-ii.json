@@ -1,0 +1,169 @@
+{
+  "content_hash": "sha256:6e9175e06191b42e139c0405478815e5fa08fba789394853b701c3486e06440c",
+  "description": {
+    "en": "Chapter II (Entering Books in Sheets Folding Collating Pulling to Pieces Refolding Knocking out Joints) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+  },
+  "domain": "bookbinding",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "ia_item": "bookbindingcareo00cockrich",
+  "items": [
+    {
+      "hash": "sha256:c16f9df6e3d863a3685a88e708258dc52076ea2b408d17bb116cfeff7d72a680",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "art-paper"
+    },
+    {
+      "hash": "sha256:076e4cb7c5afd6fd35260cb8be1280e3db83c7c896c819787adf62facfd79546",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "flattening-hammer"
+    },
+    {
+      "hash": "sha256:216cc80aeb64f2435abaff5ae80afa59a9a6f2d8242df9d39c8c81b55161ccbb",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "carpenter-square"
+    },
+    {
+      "hash": "sha256:1b86ae1c4117c444bb1d767dceefc2cfaf7e7191021488c323657306f19c5e64",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "collating"
+    },
+    {
+      "hash": "sha256:826b561a42531ce020f377c9c73448da3b80759c3d9b34953cd1c8b5b145c2e2",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "dividers"
+    },
+    {
+      "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "folder"
+    },
+    {
+      "hash": "sha256:1040f14d89032b4d66c2d2614852e5c769fb5991b9ea7495c291d299a84301ca",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "folding"
+    },
+    {
+      "hash": "sha256:6274d4bf780d8fd72ba138cb079a8bf6f0fc52f595ec35d1c2e225b02f3ce5fb",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "gathering"
+    },
+    {
+      "hash": "sha256:707c70bd01d1f001740926bbb3b8dbb8d532e86db2bc60839f2aceca05416aee",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "guard"
+    },
+    {
+      "hash": "sha256:62aaf4519ee70a19209a41e03c6e3e7f8e8caa41183ae9b8b997eae655283204",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "guarding"
+    },
+    {
+      "hash": "sha256:6439aa0b076370331e4a7148618e2891b0b4e035ccff9193a4d38c1e3837abff",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "knocking-down-iron"
+    },
+    {
+      "hash": "sha256:d7990fc69cdd05d720100e5001b2444bf7230265c83cd9825ebad61317810715",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "knocking-out-joints"
+    },
+    {
+      "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "lying-press"
+    },
+    {
+      "hash": "sha256:7cf97840bae356ee4f6a1bae0cc5e65703ae96b6956d3270c79b46a1acdc5b5f",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "mending"
+    },
+    {
+      "hash": "sha256:5a0d7151c4bad59e53dfe6c6d923923825bee39edbf7722eb96ec7c211d5e472",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "overcasting"
+    },
+    {
+      "hash": "sha256:1faebfebbda6c043c060e31f5198f70d2788420ee3a929e05917e41b1689b22b",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "paste"
+    },
+    {
+      "hash": "sha256:2fcdbbdcda9775d7d9a16043df454ba087291a5cfb39586eaa46dd463506b8a2",
+      "kind": "workflow",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "preparing-sheets-for-binding"
+    },
+    {
+      "hash": "sha256:efd31e6c20b443c92d91dc4c6527b59bc0f46384693e029386d851c1d344eeb3",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "pulling"
+    },
+    {
+      "hash": "sha256:76695c4735dc39f14ec1f773a2b30f108b7c4f8e60e45c199aa04d2e2762fbdd",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "refolding"
+    },
+    {
+      "hash": "sha256:9df9bb5c80d86c545956b3b9a61f252ce9b65e60a94182c15359b93b6e0e7eeb",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "trimming-plates"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Cockerell, Chapter II: Entering Books in Sheets Folding Collating Pulling to Pieces Refolding Knocking out Joints"
+  },
+  "record_class": "bundle",
+  "slug": "cockerell-ii",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "bookbinding",
+    "part1",
+    "chapter"
+  ]
+}

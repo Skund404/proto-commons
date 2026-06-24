@@ -1,0 +1,225 @@
+{
+  "content_hash": "sha256:3d912c2bbdbb30bef5c55d657c4e5225bfe43a8c00ea755ce6dfbca63e7c0d06",
+  "description": {
+    "en": "Chapter XIV (Decoration Tools Finishing Tooling on Vellum Inlaying on Leather) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+  },
+  "domain": "bookbinding",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "ia_item": "bookbindingcareo00cockrich",
+  "items": [
+    {
+      "hash": "sha256:2ad6fc3cefcd5dbf27544a4824575bca3d24460f850a3c27c2809dfbebba40cc",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "benzine"
+    },
+    {
+      "hash": "sha256:33859e88d2137599aa3c66be8fa79651a78376f70478893116e2a5de17cabab1",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "blind-tooling"
+    },
+    {
+      "hash": "sha256:8702c903d5dd194d066c639f4e64fd3ad16efc490925e8de77aa0ba3fa852d32",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "cocoanut-oil"
+    },
+    {
+      "hash": "sha256:60b86070d17ec3b0072cc743488ae754ae16e130471882f14ab47f8f8b8bd127",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "crushing-grain"
+    },
+    {
+      "hash": "sha256:7af84593c66dd62a5e837987f8c88f2407b04919e8bcce8bc97f416a6e23090a",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "fillet"
+    },
+    {
+      "hash": "sha256:b79b15c308d4d28d578179bcadbf10ec47fbda86725e6cf32edb12467e46c18b",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "finishing-press"
+    },
+    {
+      "hash": "sha256:5dc7f7aefd9527f7250b28e46a936eb9ad597aa32db17f3f2b4c10bd2afb308a",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "finishing-roll"
+    },
+    {
+      "hash": "sha256:94ffd6c73ff6b486bd30eca8bc334c48e5b8705e009d81d9f73cb6015949e5ec",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "finishing-stove"
+    },
+    {
+      "hash": "sha256:2cfefbc755210baf5f9571e7f34de1c77e7569eed27663d3a0ebb708b3c61253",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "finishing-tool"
+    },
+    {
+      "hash": "sha256:c393e2adf085eeb87583454dd8c2ddabe97fbd35b17cac38fbb4bb96d7173bbe",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "glaire"
+    },
+    {
+      "hash": "sha256:20bb081ea16bc86b1014538438b546f9226d6fd07dc055218fba0171149a7649",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "gold-cushion"
+    },
+    {
+      "hash": "sha256:ecea7b1a8b8c41ac7acb09809840814aba9a387fbf22634050e915dcdf35462d",
+      "kind": "workflow",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "gold-finishing"
+    },
+    {
+      "hash": "sha256:658759ce1e9bb393b73aef819e709ea49777799a8b7c8137756d7e66bdfb6a02",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "gold-knife"
+    },
+    {
+      "hash": "sha256:5a812805e9c759f02854675aed7e19c9655a2dd623a8409af342a02e627d16af",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "gold-leaf"
+    },
+    {
+      "hash": "sha256:5d17a5de6a9bcd95ec528f0cb62eb79918df3dc1a6acfa68c5f83ebdf4c6a716",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "gold-tooling"
+    },
+    {
+      "hash": "sha256:a7af2dcd470738bc5bf0dddc71c1b85ff17d57be08d9e1022f64c6451f94bcf0",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "gouge"
+    },
+    {
+      "hash": "sha256:947d39c82fd5d4092e7948fd1881274fc4b5aa93fcc244a93083ea4d1a0a1539",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "inlaying-on-leather"
+    },
+    {
+      "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "lying-press"
+    },
+    {
+      "hash": "sha256:dc929a2db8b9f0c09368248d999510ab92ee8d0beec0bd730df0f6fe970db3a5",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "mending-tooling"
+    },
+    {
+      "hash": "sha256:7015756c7acc4c52caa658a3a26173b7a1035bf702c243229c71af321cbaaf74",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "nipping-press"
+    },
+    {
+      "hash": "sha256:ec935fa8c7fcd2caf9ee6e4e4dadaeb4387668cc8ffcd35d06d71bb4c6429fc4",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "pallet"
+    },
+    {
+      "hash": "sha256:1e9a95113194b5d4acb0eaaa5fe915710fb0fa648836fcb970f4def340fdb907",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "paste-water"
+    },
+    {
+      "hash": "sha256:c7e56058ba8fef54bc399b0458ff59678749f1142ead85d538aad47a0336e40a",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "polisher"
+    },
+    {
+      "hash": "sha256:7f156b360e2f6fa36585f2fe6f75ab6713de19ce08095771d3b1d7374158f11c",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "polishing"
+    },
+    {
+      "hash": "sha256:8fc75b59efa2bbcab0857ed539e2284bdf3f65bc07cfc389c95f029bd95b9ef5",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "leather-size"
+    },
+    {
+      "hash": "sha256:9ca096123041b26c6f2c6c17319facdeb080ca128217ce25eb454abf3cf18d75",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "sizing-leather"
+    },
+    {
+      "hash": "sha256:dd939e87c68511d5e9564f1fb4a659eba97e759979ef19e8f955fad01264d7bd",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "tooling-on-vellum"
+    },
+    {
+      "hash": "sha256:17822039e652ae9cbe61a4600287009591cfcb18cb24efc95456be643db8250c",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "varnish"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Cockerell, Chapter XIV: Decoration Tools Finishing Tooling on Vellum Inlaying on Leather"
+  },
+  "record_class": "bundle",
+  "slug": "cockerell-xiv",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "bookbinding",
+    "part1",
+    "chapter"
+  ]
+}

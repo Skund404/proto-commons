@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:acd5daa7195c5a80f775bf55f5fb1c5c988b3caedbcf48cbd64cfc5500e0f9fa",
+  "created": "2026-06-24",
+  "description": "An engraved metal plate cut with a coat of arms or device, struck under heat and pressure to stamp the whole image at once. Because the gold lies in a single plane it reads as a flat solid figure rather than the catch-light texture of hand tooling.",
+  "emitter": "opg://commons-seed",
+  "id": "arms-block-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "arms block",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "finishing",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "arms block",
+        "arms-block",
+        "heraldic block"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "finishing-equipment"
+  },
+  "slug": "arms-block",
+  "tags": [
+    "bookbinding",
+    "finishing",
+    "finishing-equipment"
+  ],
+  "visibility": "commons"
+}
