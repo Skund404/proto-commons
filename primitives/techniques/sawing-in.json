@@ -1,0 +1,49 @@
+{
+  "content_hash": "sha256:cc86fd1876367b7f41ecfe5c5254cf1c0ebbd88f890ca16151821e3ed415bf44",
+  "created": "2026-06-24",
+  "description": "Cutting shallow saw kerfs across the back of the text block so the supports can be sunk flush; a quicker method that Cockerell records as weakening the binding compared with sewing on raised supports.",
+  "emitter": "opg://commons-seed",
+  "id": "sawing-in-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "sawing in",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "sawing in"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "sewing-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:e7c8e3da678116470e8c112fd6c4b558ef002570dd166cf4de6b683a5d9b1de5",
+        "id": "tenon-saw-seed",
+        "path": "primitives/tools/tenon-saw.json"
+      },
+      "type": "uses_tool"
+    }
+  ],
+  "slug": "sawing-in",
+  "tags": [
+    "bookbinding",
+    "sewing-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

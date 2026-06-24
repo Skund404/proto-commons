@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:e7c8e3da678116470e8c112fd6c4b558ef002570dd166cf4de6b683a5d9b1de5",
+  "created": "2026-06-24",
+  "description": "A fine-toothed backsaw used to cut shallow kerfs across the back of a text block so recessed supports can be sunk into it; a quicker method that Cockerell records as weakening the binding.",
+  "emitter": "opg://commons-seed",
+  "id": "tenon-saw-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "tenon saw",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "cutting",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "tenon saw",
+        "backsaw"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "bookbinding-equipment"
+  },
+  "slug": "tenon-saw",
+  "tags": [
+    "bookbinding",
+    "cutting",
+    "bookbinding-equipment"
+  ],
+  "visibility": "commons"
+}

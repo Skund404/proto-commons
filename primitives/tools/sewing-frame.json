@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:44c7be85d184d49ac6992abe02316295137b5c406896c1172863d1439af636d2",
+  "created": "2026-06-24",
+  "description": "An upright wooden appliance with two posts and an adjustable crossbar that holds the sewing supports (cords or tapes) taut and vertical while the sections of a book are sewn to them by hand.",
+  "emitter": "opg://commons-seed",
+  "id": "sewing-frame-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "sewing frame",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "binding",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "sewing frame",
+        "sewing press"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "sewing-equipment"
+  },
+  "slug": "sewing-frame",
+  "tags": [
+    "bookbinding",
+    "binding",
+    "sewing-equipment"
+  ],
+  "visibility": "commons"
+}

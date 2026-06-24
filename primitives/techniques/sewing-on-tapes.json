@@ -1,0 +1,65 @@
+{
+  "content_hash": "sha256:b49cf71def4d7d1e2d4186d9ad900ff945205519446fc719d4fa2a975661f6d9",
+  "created": "2026-06-24",
+  "description": "A variant of book sewing in which the sections are sewn onto flat woven tapes rather than round cords, giving a flatter back for hollow or cased work.",
+  "emitter": "opg://commons-seed",
+  "id": "sewing-on-tapes-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "sewing on tapes",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "sewing on tapes"
+      ]
+    },
+    "skillLevel": "advanced",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "sewing-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:44c7be85d184d49ac6992abe02316295137b5c406896c1172863d1439af636d2",
+        "id": "sewing-frame-seed",
+        "path": "primitives/tools/sewing-frame.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:086ef048d15920f3a491a642f3c56212378fd6af6e209d4f20678fd01f13adbe",
+        "id": "sewing-tape-seed",
+        "path": "primitives/materials/sewing-tape.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:0543ec9d6123a507a92228bd462a3c6bf7a6f0e048ea5196b3dbdf9a179a7310",
+        "id": "sewing-thread-seed",
+        "path": "primitives/materials/sewing-thread.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "sewing-on-tapes",
+  "tags": [
+    "bookbinding",
+    "sewing-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

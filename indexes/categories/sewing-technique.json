@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "sewing-technique",
+  "names": {
+    "en": [
+      "sewing technique"
+    ]
+  },
+  "specializes": "bookbinding-technique"
+}

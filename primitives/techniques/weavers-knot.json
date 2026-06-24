@@ -1,0 +1,49 @@
+{
+  "content_hash": "sha256:02abc50926bc93d31e3a5e370314ea2f3af2d814167f97e1bb4868460d4f7b33",
+  "created": "2026-06-24",
+  "description": "A compact, secure knot used to join a new length of sewing thread to the old without slipping, so a sewing run continues without a weak point.",
+  "emitter": "opg://commons-seed",
+  "id": "weavers-knot-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "weaver's knot",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "weaver's knot"
+      ]
+    },
+    "skillLevel": "beginner",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "sewing-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:0543ec9d6123a507a92228bd462a3c6bf7a6f0e048ea5196b3dbdf9a179a7310",
+        "id": "sewing-thread-seed",
+        "path": "primitives/materials/sewing-thread.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "weavers-knot",
+  "tags": [
+    "bookbinding",
+    "sewing-technique",
+    "beginner"
+  ],
+  "visibility": "commons"
+}

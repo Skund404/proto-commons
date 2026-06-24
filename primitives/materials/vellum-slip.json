@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:56012a11d38931f732ac11eaf97ae553275feba5f862f33ef4fbd0a8897a72ae",
+  "created": "2026-06-24",
+  "description": "A narrow strip of vellum used as a flexible sewing support, valued for strength in fine binding, where the slips are afterwards laced into the boards.",
+  "emitter": "opg://commons-seed",
+  "id": "vellum-slip-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "vellum slip",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "vellum",
+    "names": {
+      "en": [
+        "vellum slip"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "sewing-material",
+    "unit": "piece"
+  },
+  "slug": "vellum-slip",
+  "tags": [
+    "bookbinding",
+    "vellum",
+    "sewing-material"
+  ],
+  "visibility": "commons"
+}

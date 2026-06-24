@@ -1,0 +1,155 @@
+{
+  "content_hash": "sha256:07ef4e5d7456b315178b9c0737599d44079f316ec326d896c8f0ba8f08eb6bba",
+  "description": {
+    "en": "Chapter VII (Making up; Sewing; Materials for Sewing) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+  },
+  "domain": "bookbinding",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "ia_item": "bookbindingcareo00cockrich",
+  "items": [
+    {
+      "hash": "sha256:44c7be85d184d49ac6992abe02316295137b5c406896c1172863d1439af636d2",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "sewing-frame"
+    },
+    {
+      "hash": "sha256:e269e4508c990e3a21f2514a1b7e43cef460cc55ce2dc70bb98f6350668c6712",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "sewing-key"
+    },
+    {
+      "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "lying-press"
+    },
+    {
+      "hash": "sha256:216cc80aeb64f2435abaff5ae80afa59a9a6f2d8242df9d39c8c81b55161ccbb",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "carpenter-square"
+    },
+    {
+      "hash": "sha256:e7c8e3da678116470e8c112fd6c4b558ef002570dd166cf4de6b683a5d9b1de5",
+      "kind": "tool",
+      "record_class": "primitive",
+      "role": "recommended",
+      "slug": "tenon-saw"
+    },
+    {
+      "hash": "sha256:aafe9c707dfb9be22048d560ce3e193f18a291491eb8ca690ed37e4899d7deb5",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "sewing-cord"
+    },
+    {
+      "hash": "sha256:0543ec9d6123a507a92228bd462a3c6bf7a6f0e048ea5196b3dbdf9a179a7310",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "sewing-thread"
+    },
+    {
+      "hash": "sha256:a71739bd0febd360366456075a991ea7bcc8d7d74ad5bd9ba38441e296d29edc",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "sewing-silk"
+    },
+    {
+      "hash": "sha256:086ef048d15920f3a491a642f3c56212378fd6af6e209d4f20678fd01f13adbe",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "sewing-tape"
+    },
+    {
+      "hash": "sha256:56012a11d38931f732ac11eaf97ae553275feba5f862f33ef4fbd0a8897a72ae",
+      "kind": "material",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "vellum-slip"
+    },
+    {
+      "hash": "sha256:a36c4ff96c026e8babf45c22e4ac5cd0f497404e381f929ae02ac8dbf284bea9",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "marking-up"
+    },
+    {
+      "hash": "sha256:0bb35e9f7db0e56a5eae243ffd60aca1059d890ebe56a60389845ed28e4e3814",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "flexible-sewing"
+    },
+    {
+      "hash": "sha256:b49cf71def4d7d1e2d4186d9ad900ff945205519446fc719d4fa2a975661f6d9",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "sewing-on-tapes"
+    },
+    {
+      "hash": "sha256:f3087f5b59b28fe0df0091f6afea0a9cf543c1987c7f424aeeab91df65881224",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "sewing-on-vellum-slips"
+    },
+    {
+      "hash": "sha256:07bbd4bd2424b7215fda4afe1c0f6fc4309e75f032adf4791b67bb25c431280f",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "kettle-stitch"
+    },
+    {
+      "hash": "sha256:02abc50926bc93d31e3a5e370314ea2f3af2d814167f97e1bb4868460d4f7b33",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "weavers-knot"
+    },
+    {
+      "hash": "sha256:cc86fd1876367b7f41ecfe5c5254cf1c0ebbd88f890ca16151821e3ed415bf44",
+      "kind": "technique",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "sawing-in"
+    },
+    {
+      "hash": "sha256:ba80ea3524e0ae720196e2ad9fd8b902965d5200a9ddb0e8f410f465a68d86a1",
+      "kind": "workflow",
+      "record_class": "primitive",
+      "role": "required",
+      "slug": "flexible-sewing-on-cords"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Cockerell, Chapter VII: Sewing"
+  },
+  "record_class": "bundle",
+  "slug": "cockerell-vii-sewing",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "bookbinding",
+    "sewing",
+    "chapter"
+  ]
+}

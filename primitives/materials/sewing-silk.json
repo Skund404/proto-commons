@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:a71739bd0febd360366456075a991ea7bcc8d7d74ad5bd9ba38441e296d29edc",
+  "created": "2026-06-24",
+  "description": "A fine silk thread used for sewing thin or delicate books, where a linen thread would add too much swelling at the back.",
+  "emitter": "opg://commons-seed",
+  "id": "sewing-silk-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "sewing silk",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "thread",
+    "names": {
+      "en": [
+        "sewing silk"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "sewing-material",
+    "unit": "m"
+  },
+  "slug": "sewing-silk",
+  "tags": [
+    "bookbinding",
+    "thread",
+    "sewing-material"
+  ],
+  "visibility": "commons"
+}

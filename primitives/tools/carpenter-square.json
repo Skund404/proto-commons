@@ -1,0 +1,40 @@
+{
+  "content_hash": "sha256:216cc80aeb64f2435abaff5ae80afa59a9a6f2d8242df9d39c8c81b55161ccbb",
+  "created": "2026-06-24",
+  "description": "A right-angle guide used to draw the band and head and tail lines square across the back of the gathered sections before sewing.",
+  "emitter": "opg://commons-seed",
+  "id": "carpenter-square-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "carpenter's square",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "marking",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "carpenter's square",
+        "try square"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "bookbinding-equipment"
+  },
+  "slug": "carpenter-square",
+  "tags": [
+    "bookbinding",
+    "marking",
+    "bookbinding-equipment"
+  ],
+  "visibility": "commons"
+}

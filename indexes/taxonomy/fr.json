@@ -106,6 +106,178 @@
         }
       ]
     },
+    "category/bookbinding": {
+      "id": "bookbinding",
+      "name": "bookbinding",
+      "parent": null,
+      "members": [],
+      "related": [],
+      "children": [
+        {
+          "id": "bookbinding-equipment",
+          "name": "bookbinding equipment",
+          "parent": "bookbinding",
+          "members": [
+            {
+              "ref": "primitives/tools/carpenter-square.json",
+              "slug": "carpenter-square",
+              "kind": "tool",
+              "name": "carpenter's square"
+            },
+            {
+              "ref": "primitives/tools/lying-press.json",
+              "slug": "lying-press",
+              "kind": "tool",
+              "name": "lying press"
+            },
+            {
+              "ref": "primitives/tools/tenon-saw.json",
+              "slug": "tenon-saw",
+              "kind": "tool",
+              "name": "tenon saw"
+            }
+          ],
+          "related": [],
+          "children": [
+            {
+              "id": "sewing-equipment",
+              "name": "sewing equipment",
+              "parent": "bookbinding-equipment",
+              "members": [
+                {
+                  "ref": "primitives/tools/sewing-frame.json",
+                  "slug": "sewing-frame",
+                  "kind": "tool",
+                  "name": "sewing frame"
+                },
+                {
+                  "ref": "primitives/tools/sewing-key.json",
+                  "slug": "sewing-key",
+                  "kind": "tool",
+                  "name": "sewing key"
+                }
+              ],
+              "related": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "bookbinding-material",
+          "name": "bookbinding material",
+          "parent": "bookbinding",
+          "members": [],
+          "related": [],
+          "children": [
+            {
+              "id": "sewing-material",
+              "name": "sewing material",
+              "parent": "bookbinding-material",
+              "members": [
+                {
+                  "ref": "primitives/materials/sewing-cord.json",
+                  "slug": "sewing-cord",
+                  "kind": "material",
+                  "name": "sewing cord"
+                },
+                {
+                  "ref": "primitives/materials/sewing-silk.json",
+                  "slug": "sewing-silk",
+                  "kind": "material",
+                  "name": "sewing silk"
+                },
+                {
+                  "ref": "primitives/materials/sewing-tape.json",
+                  "slug": "sewing-tape",
+                  "kind": "material",
+                  "name": "sewing tape"
+                },
+                {
+                  "ref": "primitives/materials/sewing-thread.json",
+                  "slug": "sewing-thread",
+                  "kind": "material",
+                  "name": "sewing thread"
+                },
+                {
+                  "ref": "primitives/materials/vellum-slip.json",
+                  "slug": "vellum-slip",
+                  "kind": "material",
+                  "name": "vellum slip"
+                }
+              ],
+              "related": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "bookbinding-technique",
+          "name": "bookbinding technique",
+          "parent": "bookbinding",
+          "members": [],
+          "related": [],
+          "children": [
+            {
+              "id": "sewing-technique",
+              "name": "sewing technique",
+              "parent": "bookbinding-technique",
+              "members": [
+                {
+                  "ref": "primitives/techniques/flexible-sewing.json",
+                  "slug": "flexible-sewing",
+                  "kind": "technique",
+                  "name": "flexible sewing"
+                },
+                {
+                  "ref": "primitives/workflows/flexible-sewing-on-cords.json",
+                  "slug": "flexible-sewing-on-cords",
+                  "kind": "workflow",
+                  "name": "flexible sewing on cords"
+                },
+                {
+                  "ref": "primitives/techniques/kettle-stitch.json",
+                  "slug": "kettle-stitch",
+                  "kind": "technique",
+                  "name": "kettle stitch"
+                },
+                {
+                  "ref": "primitives/techniques/marking-up.json",
+                  "slug": "marking-up",
+                  "kind": "technique",
+                  "name": "marking up"
+                },
+                {
+                  "ref": "primitives/techniques/sawing-in.json",
+                  "slug": "sawing-in",
+                  "kind": "technique",
+                  "name": "sawing in"
+                },
+                {
+                  "ref": "primitives/techniques/sewing-on-tapes.json",
+                  "slug": "sewing-on-tapes",
+                  "kind": "technique",
+                  "name": "sewing on tapes"
+                },
+                {
+                  "ref": "primitives/techniques/sewing-on-vellum-slips.json",
+                  "slug": "sewing-on-vellum-slips",
+                  "kind": "technique",
+                  "name": "sewing on vellum slips"
+                },
+                {
+                  "ref": "primitives/techniques/weavers-knot.json",
+                  "slug": "weavers-knot",
+                  "kind": "technique",
+                  "name": "weaver's knot"
+                }
+              ],
+              "related": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
     "category/botanical": {
       "id": "botanical",
       "name": "botanical",

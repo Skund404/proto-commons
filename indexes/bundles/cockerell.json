@@ -1,0 +1,41 @@
+{
+  "book": {
+    "author": "Douglas Cockerell",
+    "metafile": {
+      "hash": "sha256:dd2d80ef1035195d82619d548ce835bd34b736f7378ff960a8f0fc5f046fa9ab",
+      "path": "books/cockerell/metafile.json"
+    }
+  },
+  "content_hash": "sha256:d6cb25e7db790495389e74407eb74b80fff932c976b0cf408748b29850b24c66",
+  "description": {
+    "en": "Douglas Cockerell, Bookbinding and the Care of Books (1901). Public domain. First shipped chapter: VII (Sewing)."
+  },
+  "domain": "bookbinding",
+  "emitter": "opg://commons-seed",
+  "format_version": "1.0",
+  "items": [
+    {
+      "hash": "sha256:07ef4e5d7456b315178b9c0737599d44079f316ec326d896c8f0ba8f08eb6bba",
+      "record_class": "bundle",
+      "role": "required",
+      "slug": "cockerell-vii-sewing"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "name": {
+    "en": "Bookbinding, and the Care of Books"
+  },
+  "profile": "book",
+  "record_class": "bundle",
+  "slug": "cockerell",
+  "state": "open",
+  "successors": [],
+  "tags": [
+    "bookbinding",
+    "book"
+  ]
+}

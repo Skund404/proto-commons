@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "bookbinding-equipment",
+  "names": {
+    "en": [
+      "bookbinding equipment"
+    ]
+  },
+  "specializes": "bookbinding"
+}

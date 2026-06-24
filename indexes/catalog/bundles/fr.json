@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 54,
+  "count": 56,
   "bundles": [
     {
       "slug": "aeropress-kit",
@@ -102,6 +102,35 @@
       },
       "updated": null,
       "hash": "sha256:bb8655ba9310312839e951b32a88b70423b393cb5c111f22fc9cc8bb69862d35"
+    },
+    {
+      "slug": "cockerell-vii-sewing",
+      "name": "Cockerell, Chapter VII: Sewing",
+      "descSnippet": "Chapter VII (Making up; Sewing; Materials for Sewing) of Douglas Cockerell, Bookbinding and the Care of Books (1901).",
+      "domain": "bookbinding",
+      "taxonomy": null,
+      "itemCount": 18,
+      "state": "open",
+      "roles": {
+        "required": 13,
+        "recommended": 5
+      },
+      "updated": null,
+      "hash": "sha256:07ef4e5d7456b315178b9c0737599d44079f316ec326d896c8f0ba8f08eb6bba"
+    },
+    {
+      "slug": "cockerell",
+      "name": "Bookbinding, and the Care of Books",
+      "descSnippet": "Douglas Cockerell, Bookbinding and the Care of Books (1901). Public domain. First shipped chapter: VII (Sewing).",
+      "domain": "bookbinding",
+      "taxonomy": null,
+      "itemCount": 1,
+      "state": "open",
+      "roles": {
+        "required": 1
+      },
+      "updated": null,
+      "hash": "sha256:d6cb25e7db790495389e74407eb74b80fff932c976b0cf408748b29850b24c66"
     },
     {
       "slug": "coffee-starter",

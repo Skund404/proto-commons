@@ -1,0 +1,347 @@
+{
+  "anchors": [
+    {
+      "anchor": "vii",
+      "passages": [
+        {
+          "match": [
+            "marking up",
+            "Marking up"
+          ],
+          "primitive": {
+            "hash": "sha256:a36c4ff96c026e8babf45c22e4ac5cd0f497404e381f929ae02ac8dbf284bea9",
+            "kind": "technique",
+            "path": "primitives/techniques/marking-up.json",
+            "slug": "marking-up"
+          },
+          "render": {
+            "en": "marking up"
+          }
+        },
+        {
+          "match": [
+            "carpenter's square",
+            "carpenter square"
+          ],
+          "primitive": {
+            "hash": "sha256:216cc80aeb64f2435abaff5ae80afa59a9a6f2d8242df9d39c8c81b55161ccbb",
+            "kind": "tool",
+            "path": "primitives/tools/carpenter-square.json",
+            "slug": "carpenter-square"
+          },
+          "render": {
+            "en": "carpenter's square"
+          }
+        },
+        {
+          "match": [
+            "lying press"
+          ],
+          "primitive": {
+            "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+            "kind": "tool",
+            "path": "primitives/tools/lying-press.json",
+            "slug": "lying-press"
+          },
+          "render": {
+            "en": "lying press"
+          }
+        },
+        {
+          "match": [
+            "sawn in",
+            "sawing in",
+            "saw in"
+          ],
+          "primitive": {
+            "hash": "sha256:cc86fd1876367b7f41ecfe5c5254cf1c0ebbd88f890ca16151821e3ed415bf44",
+            "kind": "technique",
+            "path": "primitives/techniques/sawing-in.json",
+            "slug": "sawing-in"
+          },
+          "render": {
+            "en": "sawing in"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "vii-sewing",
+      "passages": [
+        {
+          "match": [
+            "sewing"
+          ],
+          "primitive": {
+            "hash": "sha256:0bb35e9f7db0e56a5eae243ffd60aca1059d890ebe56a60389845ed28e4e3814",
+            "kind": "technique",
+            "path": "primitives/techniques/flexible-sewing.json",
+            "slug": "flexible-sewing"
+          },
+          "render": {
+            "en": "flexible sewing"
+          }
+        },
+        {
+          "match": [
+            "sewing-frame",
+            "sewing frame",
+            "sewing-press",
+            "sewing press"
+          ],
+          "primitive": {
+            "hash": "sha256:44c7be85d184d49ac6992abe02316295137b5c406896c1172863d1439af636d2",
+            "kind": "tool",
+            "path": "primitives/tools/sewing-frame.json",
+            "slug": "sewing-frame"
+          },
+          "render": {
+            "en": "sewing frame"
+          }
+        },
+        {
+          "match": [
+            "keys",
+            "key"
+          ],
+          "primitive": {
+            "hash": "sha256:e269e4508c990e3a21f2514a1b7e43cef460cc55ce2dc70bb98f6350668c6712",
+            "kind": "tool",
+            "path": "primitives/tools/sewing-key.json",
+            "slug": "sewing-key"
+          },
+          "render": {
+            "en": "sewing key"
+          }
+        },
+        {
+          "match": [
+            "lay cords",
+            "cords",
+            "cord"
+          ],
+          "primitive": {
+            "hash": "sha256:aafe9c707dfb9be22048d560ce3e193f18a291491eb8ca690ed37e4899d7deb5",
+            "kind": "material",
+            "path": "primitives/materials/sewing-cord.json",
+            "slug": "sewing-cord"
+          },
+          "render": {
+            "en": "sewing cord"
+          }
+        },
+        {
+          "match": [
+            "kettle stitch",
+            "catch stitch",
+            "kettle"
+          ],
+          "primitive": {
+            "hash": "sha256:07bbd4bd2424b7215fda4afe1c0f6fc4309e75f032adf4791b67bb25c431280f",
+            "kind": "technique",
+            "path": "primitives/techniques/kettle-stitch.json",
+            "slug": "kettle-stitch"
+          },
+          "render": {
+            "en": "kettle stitch"
+          }
+        },
+        {
+          "match": [
+            "weaver's knot",
+            "weavers knot"
+          ],
+          "primitive": {
+            "hash": "sha256:02abc50926bc93d31e3a5e370314ea2f3af2d814167f97e1bb4868460d4f7b33",
+            "kind": "technique",
+            "path": "primitives/techniques/weavers-knot.json",
+            "slug": "weavers-knot"
+          },
+          "render": {
+            "en": "weaver's knot"
+          }
+        }
+      ]
+    },
+    {
+      "anchor": "vii-materials",
+      "passages": [
+        {
+          "match": [
+            "thread"
+          ],
+          "primitive": {
+            "hash": "sha256:0543ec9d6123a507a92228bd462a3c6bf7a6f0e048ea5196b3dbdf9a179a7310",
+            "kind": "material",
+            "path": "primitives/materials/sewing-thread.json",
+            "slug": "sewing-thread"
+          },
+          "render": {
+            "en": "sewing thread"
+          }
+        },
+        {
+          "match": [
+            "silk"
+          ],
+          "primitive": {
+            "hash": "sha256:a71739bd0febd360366456075a991ea7bcc8d7d74ad5bd9ba38441e296d29edc",
+            "kind": "material",
+            "path": "primitives/materials/sewing-silk.json",
+            "slug": "sewing-silk"
+          },
+          "render": {
+            "en": "sewing silk"
+          }
+        },
+        {
+          "match": [
+            "tapes",
+            "tape"
+          ],
+          "primitive": {
+            "hash": "sha256:086ef048d15920f3a491a642f3c56212378fd6af6e209d4f20678fd01f13adbe",
+            "kind": "material",
+            "path": "primitives/materials/sewing-tape.json",
+            "slug": "sewing-tape"
+          },
+          "render": {
+            "en": "sewing tape"
+          }
+        },
+        {
+          "match": [
+            "vellum"
+          ],
+          "primitive": {
+            "hash": "sha256:56012a11d38931f732ac11eaf97ae553275feba5f862f33ef4fbd0a8897a72ae",
+            "kind": "material",
+            "path": "primitives/materials/vellum-slip.json",
+            "slug": "vellum-slip"
+          },
+          "render": {
+            "en": "vellum slip"
+          }
+        },
+        {
+          "match": [
+            "sewing on tapes",
+            "on tapes"
+          ],
+          "primitive": {
+            "hash": "sha256:b49cf71def4d7d1e2d4186d9ad900ff945205519446fc719d4fa2a975661f6d9",
+            "kind": "technique",
+            "path": "primitives/techniques/sewing-on-tapes.json",
+            "slug": "sewing-on-tapes"
+          },
+          "render": {
+            "en": "sewing on tapes"
+          }
+        },
+        {
+          "match": [
+            "sewing on vellum slips",
+            "vellum slips"
+          ],
+          "primitive": {
+            "hash": "sha256:f3087f5b59b28fe0df0091f6afea0a9cf543c1987c7f424aeeab91df65881224",
+            "kind": "technique",
+            "path": "primitives/techniques/sewing-on-vellum-slips.json",
+            "slug": "sewing-on-vellum-slips"
+          },
+          "render": {
+            "en": "sewing on vellum slips"
+          }
+        }
+      ]
+    }
+  ],
+  "backlinks": {
+    "material/sewing-cord": [
+      "vii-sewing"
+    ],
+    "material/sewing-silk": [
+      "vii-materials"
+    ],
+    "material/sewing-tape": [
+      "vii-materials"
+    ],
+    "material/sewing-thread": [
+      "vii-materials"
+    ],
+    "material/vellum-slip": [
+      "vii-materials"
+    ],
+    "technique/flexible-sewing": [
+      "vii-sewing"
+    ],
+    "technique/kettle-stitch": [
+      "vii-sewing"
+    ],
+    "technique/marking-up": [
+      "vii"
+    ],
+    "technique/sawing-in": [
+      "vii"
+    ],
+    "technique/sewing-on-tapes": [
+      "vii-materials"
+    ],
+    "technique/sewing-on-vellum-slips": [
+      "vii-materials"
+    ],
+    "technique/weavers-knot": [
+      "vii-sewing"
+    ],
+    "tool/carpenter-square": [
+      "vii"
+    ],
+    "tool/lying-press": [
+      "vii"
+    ],
+    "tool/sewing-frame": [
+      "vii-sewing"
+    ],
+    "tool/sewing-key": [
+      "vii-sewing"
+    ]
+  },
+  "book": "cockerell",
+  "canonical_lang": "en",
+  "edition": "D. Appleton & Co., New York, 1901",
+  "format_version": "1.0",
+  "ia_item": "bookbindingcareo00cockrich",
+  "languages": [
+    "en"
+  ],
+  "sections": [
+    {
+      "anchor": "vii",
+      "heading": "VII. Marking up",
+      "ia_leaf": 104,
+      "ia_leaf_end": 105,
+      "printed_page": 98
+    },
+    {
+      "anchor": "vii-sewing",
+      "heading": "Sewing",
+      "ia_leaf": 106,
+      "ia_leaf_end": 116,
+      "printed_page": 100
+    },
+    {
+      "anchor": "vii-materials",
+      "heading": "Materials for Sewing",
+      "ia_leaf": 117,
+      "ia_leaf_end": 119,
+      "printed_page": 111
+    }
+  ],
+  "source_ref": [
+    {
+      "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+      "url": "https://archive.org/details/bookbindingcareo00cockrich"
+    }
+  ],
+  "version_pin": "book-cockerell"
+}

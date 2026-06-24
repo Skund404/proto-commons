@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:e269e4508c990e3a21f2514a1b7e43cef460cc55ce2dc70bb98f6350668c6712",
+  "created": "2026-06-24",
+  "description": "A small slotted device that grips a sewing cord from beneath the bed of the sewing frame and anchors it under tension, so each support stays vertical and evenly strained during sewing.",
+  "emitter": "opg://commons-seed",
+  "id": "sewing-key-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "sewing key",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "binding",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "sewing key"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "sewing-equipment"
+  },
+  "slug": "sewing-key",
+  "tags": [
+    "bookbinding",
+    "binding",
+    "sewing-equipment"
+  ],
+  "visibility": "commons"
+}

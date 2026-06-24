@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:aafe9c707dfb9be22048d560ce3e193f18a291491eb8ca690ed37e4899d7deb5",
+  "created": "2026-06-24",
+  "description": "An unbleached hemp or linen cord used as the raised support a book is sewn onto; the projecting ends are afterwards laced into the boards, giving a strong, flexible joint.",
+  "emitter": "opg://commons-seed",
+  "id": "sewing-cord-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "sewing cord",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "cord",
+    "names": {
+      "en": [
+        "sewing cord",
+        "hemp cord"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "sewing-material",
+    "unit": "m"
+  },
+  "slug": "sewing-cord",
+  "tags": [
+    "bookbinding",
+    "cord",
+    "sewing-material"
+  ],
+  "visibility": "commons"
+}

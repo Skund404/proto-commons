@@ -335,6 +335,16 @@
         "canonical": true
       }
     ],
+    "backsaw": [
+      {
+        "ref": "primitives/tools/tenon-saw.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "backsaw",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "banana": [
       {
         "ref": "primitives/materials/banana.json",
@@ -581,6 +591,46 @@
         "class": "primitive",
         "kind": "tool",
         "name": "bone folder",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "bookbinding": [
+      {
+        "ref": "categories/bookbinding",
+        "class": "category",
+        "kind": null,
+        "name": "bookbinding",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "bookbinding equipment": [
+      {
+        "ref": "categories/bookbinding-equipment",
+        "class": "category",
+        "kind": null,
+        "name": "bookbinding equipment",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "bookbinding material": [
+      {
+        "ref": "categories/bookbinding-material",
+        "class": "category",
+        "kind": null,
+        "name": "bookbinding material",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "bookbinding technique": [
+      {
+        "ref": "categories/bookbinding-technique",
+        "class": "category",
+        "kind": null,
+        "name": "bookbinding technique",
         "lang": "en",
         "canonical": true
       }
@@ -1057,6 +1107,16 @@
         "canonical": true
       }
     ],
+    "carpenter's square": [
+      {
+        "ref": "primitives/tools/carpenter-square.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "carpenter's square",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "carrot": [
       {
         "ref": "primitives/materials/carrot.json",
@@ -1099,6 +1159,16 @@
         "class": "primitive",
         "kind": "tool",
         "name": "cask",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "catch stitch": [
+      {
+        "ref": "primitives/techniques/kettle-stitch.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "catch stitch",
         "lang": "en",
         "canonical": false
       }
@@ -2879,6 +2949,26 @@
         "canonical": true
       }
     ],
+    "flexible sewing": [
+      {
+        "ref": "primitives/techniques/flexible-sewing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "flexible sewing",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "flexible sewing on cords": [
+      {
+        "ref": "primitives/workflows/flexible-sewing-on-cords.json",
+        "class": "primitive",
+        "kind": "workflow",
+        "name": "flexible sewing on cords",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "florentine flask": [
       {
         "ref": "categories/florentine-flask",
@@ -3531,6 +3621,16 @@
         "canonical": true
       }
     ],
+    "hemp cord": [
+      {
+        "ref": "primitives/materials/sewing-cord.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "hemp cord",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "hillbilly flute": [
       {
         "ref": "primitives/tools/hillbilly-flute.json",
@@ -3811,6 +3911,16 @@
         "class": "category",
         "kind": null,
         "name": "kettle",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "kettle stitch": [
+      {
+        "ref": "primitives/techniques/kettle-stitch.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "kettle stitch",
         "lang": "en",
         "canonical": true
       }
@@ -4223,6 +4333,16 @@
         "canonical": true
       }
     ],
+    "linen thread": [
+      {
+        "ref": "primitives/materials/sewing-thread.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "linen thread",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "litchi": [
       {
         "ref": "primitives/materials/lychee.json",
@@ -4249,6 +4369,16 @@
         "class": "primitive",
         "kind": "material",
         "name": "lychee",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "lying press": [
+      {
+        "ref": "primitives/tools/lying-press.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "lying press",
         "lang": "en",
         "canonical": true
       }
@@ -4423,6 +4553,16 @@
         "class": "category",
         "kind": null,
         "name": "marking tool",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "marking up": [
+      {
+        "ref": "primitives/techniques/marking-up.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "marking up",
         "lang": "en",
         "canonical": true
       }
@@ -5937,6 +6077,16 @@
         "canonical": true
       }
     ],
+    "sawing in": [
+      {
+        "ref": "primitives/techniques/sawing-in.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "sawing in",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "scale": [
       {
         "ref": "categories/scale",
@@ -6081,6 +6231,136 @@
         "class": "category",
         "kind": null,
         "name": "setting tool",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "sewing cord": [
+      {
+        "ref": "primitives/materials/sewing-cord.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "sewing cord",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "sewing equipment": [
+      {
+        "ref": "categories/sewing-equipment",
+        "class": "category",
+        "kind": null,
+        "name": "sewing equipment",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "sewing frame": [
+      {
+        "ref": "primitives/tools/sewing-frame.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "sewing frame",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "sewing key": [
+      {
+        "ref": "primitives/tools/sewing-key.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "sewing key",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "sewing material": [
+      {
+        "ref": "categories/sewing-material",
+        "class": "category",
+        "kind": null,
+        "name": "sewing material",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "sewing on raised cords": [
+      {
+        "ref": "primitives/techniques/flexible-sewing.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "sewing on raised cords",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "sewing on tapes": [
+      {
+        "ref": "primitives/techniques/sewing-on-tapes.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "sewing on tapes",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "sewing on vellum slips": [
+      {
+        "ref": "primitives/techniques/sewing-on-vellum-slips.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "sewing on vellum slips",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "sewing press": [
+      {
+        "ref": "primitives/tools/sewing-frame.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "sewing press",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
+    "sewing silk": [
+      {
+        "ref": "primitives/materials/sewing-silk.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "sewing silk",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "sewing tape": [
+      {
+        "ref": "primitives/materials/sewing-tape.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "sewing tape",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "sewing technique": [
+      {
+        "ref": "categories/sewing-technique",
+        "class": "category",
+        "kind": null,
+        "name": "sewing technique",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "sewing thread": [
+      {
+        "ref": "primitives/materials/sewing-thread.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "sewing thread",
         "lang": "en",
         "canonical": true
       }
@@ -6915,6 +7195,16 @@
         "canonical": false
       }
     ],
+    "tenon saw": [
+      {
+        "ref": "primitives/tools/tenon-saw.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "tenon saw",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "thermometer": [
       {
         "ref": "categories/thermometer",
@@ -7099,6 +7389,16 @@
         "canonical": true
       }
     ],
+    "try square": [
+      {
+        "ref": "primitives/tools/carpenter-square.json",
+        "class": "primitive",
+        "kind": "tool",
+        "name": "try square",
+        "lang": "en",
+        "canonical": false
+      }
+    ],
     "turbo yeast": [
       {
         "ref": "categories/turbo-yeast",
@@ -7269,6 +7569,16 @@
         "canonical": true
       }
     ],
+    "vellum slip": [
+      {
+        "ref": "primitives/materials/vellum-slip.json",
+        "class": "primitive",
+        "kind": "material",
+        "name": "vellum slip",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
     "vengeance stills copper proofing parrot": [
       {
         "ref": "primitives/tools/vengeance-copper-parrot.json",
@@ -7425,6 +7735,16 @@
         "class": "primitive",
         "kind": "tool",
         "name": "WDT tool",
+        "lang": "en",
+        "canonical": true
+      }
+    ],
+    "weaver's knot": [
+      {
+        "ref": "primitives/techniques/weavers-knot.json",
+        "class": "primitive",
+        "kind": "technique",
+        "name": "weaver's knot",
         "lang": "en",
         "canonical": true
       }

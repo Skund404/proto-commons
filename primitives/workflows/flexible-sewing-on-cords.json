@@ -1,0 +1,119 @@
+{
+  "content_hash": "sha256:ba80ea3524e0ae720196e2ad9fd8b902965d5200a9ddb0e8f410f465a68d86a1",
+  "created": "2026-06-24",
+  "description": "The full hand-sewing sequence for a book bound on raised cords: mark up the back, set the cords up on the sewing frame with keys, collate the sections, sew each section around the cords, and lock the head and tail with the kettle stitch.",
+  "emitter": "opg://commons-seed",
+  "id": "flexible-sewing-on-cords-seed",
+  "kind": "workflow",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "flexible sewing on cords",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "difficulty": "advanced",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "flexible sewing on cords"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "steps": [
+      {
+        "description": "Mark up the back of the gathered sections for the band and kettle-stitch positions.",
+        "position": 1
+      },
+      {
+        "description": "Set the cords up on the sewing frame and tension them from below with the keys.",
+        "position": 2
+      },
+      {
+        "description": "Collate the sections and plates and check the order before sewing.",
+        "position": 3
+      },
+      {
+        "description": "Sew each section in turn, passing the thread around every cord.",
+        "position": 4
+      },
+      {
+        "description": "Lock the head and tail of each section with the kettle stitch.",
+        "position": 5
+      }
+    ],
+    "taxonomy": "sewing-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:a36c4ff96c026e8babf45c22e4ac5cd0f497404e381f929ae02ac8dbf284bea9",
+        "id": "marking-up-seed",
+        "path": "primitives/techniques/marking-up.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:0bb35e9f7db0e56a5eae243ffd60aca1059d890ebe56a60389845ed28e4e3814",
+        "id": "flexible-sewing-seed",
+        "path": "primitives/techniques/flexible-sewing.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:07bbd4bd2424b7215fda4afe1c0f6fc4309e75f032adf4791b67bb25c431280f",
+        "id": "kettle-stitch-seed",
+        "path": "primitives/techniques/kettle-stitch.json"
+      },
+      "type": "applies_technique"
+    },
+    {
+      "target": {
+        "hash": "sha256:44c7be85d184d49ac6992abe02316295137b5c406896c1172863d1439af636d2",
+        "id": "sewing-frame-seed",
+        "path": "primitives/tools/sewing-frame.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:e269e4508c990e3a21f2514a1b7e43cef460cc55ce2dc70bb98f6350668c6712",
+        "id": "sewing-key-seed",
+        "path": "primitives/tools/sewing-key.json"
+      },
+      "type": "uses_tool"
+    },
+    {
+      "target": {
+        "hash": "sha256:aafe9c707dfb9be22048d560ce3e193f18a291491eb8ca690ed37e4899d7deb5",
+        "id": "sewing-cord-seed",
+        "path": "primitives/materials/sewing-cord.json"
+      },
+      "type": "uses_material"
+    },
+    {
+      "target": {
+        "hash": "sha256:0543ec9d6123a507a92228bd462a3c6bf7a6f0e048ea5196b3dbdf9a179a7310",
+        "id": "sewing-thread-seed",
+        "path": "primitives/materials/sewing-thread.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "flexible-sewing-on-cords",
+  "tags": [
+    "bookbinding",
+    "sewing-technique",
+    "advanced"
+  ],
+  "visibility": "commons"
+}

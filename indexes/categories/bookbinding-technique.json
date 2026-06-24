@@ -1,0 +1,10 @@
+{
+  "format_version": "1.0",
+  "id": "bookbinding-technique",
+  "names": {
+    "en": [
+      "bookbinding technique"
+    ]
+  },
+  "specializes": "bookbinding"
+}

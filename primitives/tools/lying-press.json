@@ -1,0 +1,39 @@
+{
+  "content_hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+  "created": "2026-06-24",
+  "description": "A large screw-operated press that holds a book firmly between its cheeks for edge work and for marking up the back; here it steadies the book square while the band positions are laid out.",
+  "emitter": "opg://commons-seed",
+  "id": "lying-press-seed",
+  "kind": "tool",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "lying press",
+  "opgl_version": "0.6",
+  "persistent": true,
+  "properties": {
+    "category": "binding",
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "lying press"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "bookbinding-equipment"
+  },
+  "slug": "lying-press",
+  "tags": [
+    "bookbinding",
+    "binding",
+    "bookbinding-equipment"
+  ],
+  "visibility": "commons"
+}

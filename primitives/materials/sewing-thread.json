@@ -1,0 +1,41 @@
+{
+  "content_hash": "sha256:0543ec9d6123a507a92228bd462a3c6bf7a6f0e048ea5196b3dbdf9a179a7310",
+  "created": "2026-06-24",
+  "description": "An unbleached linen thread used to sew the sections of a book together and to the supports; its weight is chosen to suit the paper so the swelling at the back stays even.",
+  "emitter": "opg://commons-seed",
+  "id": "sewing-thread-seed",
+  "kind": "material",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "sewing thread",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "materialType": "thread",
+    "names": {
+      "en": [
+        "sewing thread",
+        "linen thread"
+      ]
+    },
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "sewing-material",
+    "unit": "m"
+  },
+  "slug": "sewing-thread",
+  "tags": [
+    "bookbinding",
+    "thread",
+    "sewing-material"
+  ],
+  "visibility": "commons"
+}

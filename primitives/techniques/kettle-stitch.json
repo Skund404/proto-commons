@@ -1,0 +1,50 @@
+{
+  "content_hash": "sha256:07bbd4bd2424b7215fda4afe1c0f6fc4309e75f032adf4791b67bb25c431280f",
+  "created": "2026-06-24",
+  "description": "The locking stitch worked at the head and tail of each section, where there is no support, catching the thread under the stitch of the section below to tie the sections together.",
+  "emitter": "opg://commons-seed",
+  "id": "kettle-stitch-seed",
+  "kind": "technique",
+  "lineage": {
+    "outcome": "unknown",
+    "provenance_state": "unasserted"
+  },
+  "modified": "2026-06-24",
+  "name": "kettle stitch",
+  "opgl_version": "0.6",
+  "persistent": false,
+  "properties": {
+    "license": "CC-BY-4.0",
+    "names": {
+      "en": [
+        "kettle stitch",
+        "catch stitch"
+      ]
+    },
+    "skillLevel": "intermediate",
+    "source_ref": [
+      {
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "url": "https://archive.org/details/bookbindingcareo00cockrich"
+      }
+    ],
+    "taxonomy": "sewing-technique"
+  },
+  "relationships": [
+    {
+      "target": {
+        "hash": "sha256:0543ec9d6123a507a92228bd462a3c6bf7a6f0e048ea5196b3dbdf9a179a7310",
+        "id": "sewing-thread-seed",
+        "path": "primitives/materials/sewing-thread.json"
+      },
+      "type": "uses_material"
+    }
+  ],
+  "slug": "kettle-stitch",
+  "tags": [
+    "bookbinding",
+    "sewing-technique",
+    "intermediate"
+  ],
+  "visibility": "commons"
+}

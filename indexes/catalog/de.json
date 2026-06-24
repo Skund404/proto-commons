@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-06-15T00:00:00Z",
-  "count": 422,
+  "generated_at": "2026-06-24T00:00:00Z",
+  "count": 440,
   "shards": null,
   "records": [
     {
@@ -1094,6 +1094,24 @@
       "updated": "2026-06-09",
       "hash": "sha256:c1294bd7113123d4d69167a7bb1092324a29ba86fcc578eada7660e8024543b8",
       "path": "primitives/projects/card-holder.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "carpenter-square",
+      "kind": "tool",
+      "name": "carpenter's square",
+      "domain": "bookbinding",
+      "taxonomy": "bookbinding-equipment",
+      "tags": [
+        "bookbinding",
+        "marking",
+        "bookbinding-equipment"
+      ],
+      "descSnippet": "A right-angle guide used to draw the band and head and tail lines square across the back of the gathered sections before sewing.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:216cc80aeb64f2435abaff5ae80afa59a9a6f2d8242df9d39c8c81b55161ccbb",
+      "path": "primitives/tools/carpenter-square.json",
       "lineageState": "unasserted"
     },
     {
@@ -2806,6 +2824,42 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "flexible-sewing",
+      "kind": "technique",
+      "name": "flexible sewing",
+      "domain": "bookbinding",
+      "taxonomy": "sewing-technique",
+      "tags": [
+        "bookbinding",
+        "sewing-technique",
+        "advanced"
+      ],
+      "descSnippet": "Sewing the sections of a book onto raised supports so the thread passes around each cord; this produces a flexible back that opens well and supports that can be laced into the boards.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:0bb35e9f7db0e56a5eae243ffd60aca1059d890ebe56a60389845ed28e4e3814",
+      "path": "primitives/techniques/flexible-sewing.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "flexible-sewing-on-cords",
+      "kind": "workflow",
+      "name": "flexible sewing on cords",
+      "domain": "bookbinding",
+      "taxonomy": "sewing-technique",
+      "tags": [
+        "bookbinding",
+        "sewing-technique",
+        "advanced"
+      ],
+      "descSnippet": "The full hand-sewing sequence for a book bound on raised cords: mark up the back, set the cords up on the sewing frame with keys, collate the sections, sew each section around the cords, and lock the…",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:ba80ea3524e0ae720196e2ad9fd8b902965d5200a9ddb0e8f410f465a68d86a1",
+      "path": "primitives/workflows/flexible-sewing-on-cords.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "florentine-flask",
       "kind": "tool",
       "name": "Florentine flask",
@@ -3854,6 +3908,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "kettle-stitch",
+      "kind": "technique",
+      "name": "kettle stitch",
+      "domain": "bookbinding",
+      "taxonomy": "sewing-technique",
+      "tags": [
+        "bookbinding",
+        "sewing-technique",
+        "intermediate"
+      ],
+      "descSnippet": "The locking stitch worked at the head and tail of each section, where there is no support, catching the thread under the stitch of the section below to tie the sections together.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:07bbd4bd2424b7215fda4afe1c0f6fc4309e75f032adf4791b67bb25c431280f",
+      "path": "primitives/techniques/kettle-stitch.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "key-fob",
       "kind": "project",
       "name": "key fob",
@@ -4222,6 +4294,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "lying-press",
+      "kind": "tool",
+      "name": "lying press",
+      "domain": "bookbinding",
+      "taxonomy": "bookbinding-equipment",
+      "tags": [
+        "bookbinding",
+        "binding",
+        "bookbinding-equipment"
+      ],
+      "descSnippet": "A large screw-operated press that holds a book firmly between its cheeks for edge work and for marking up the back; here it steadies the book square while the band positions are laid out.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:d8073f60d090c053f5f8340fd89e822ac3b5e886da7db9da87f52e1574accb2e",
+      "path": "primitives/tools/lying-press.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "lyne-arm",
       "kind": "tool",
       "name": "lyne arm",
@@ -4383,6 +4473,24 @@
       "updated": "2026-06-09",
       "hash": "sha256:91e6e83370c5c491c66c2b588ee4cbafd2e8d489c34fab400bfe75e5a146542b",
       "path": "primitives/techniques/marking-a-stitch-line.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "marking-up",
+      "kind": "technique",
+      "name": "marking up",
+      "domain": "bookbinding",
+      "taxonomy": "sewing-technique",
+      "tags": [
+        "bookbinding",
+        "sewing-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Laying out the positions of the sewing supports and of the head and tail (kettle) stitches across the back of the gathered sections, so the bands fall square and evenly spaced when the book is sewn.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:a36c4ff96c026e8babf45c22e4ac5cd0f497404e381f929ae02ac8dbf284bea9",
+      "path": "primitives/techniques/marking-up.json",
       "lineageState": "unasserted"
     },
     {
@@ -5998,6 +6106,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "sawing-in",
+      "kind": "technique",
+      "name": "sawing in",
+      "domain": "bookbinding",
+      "taxonomy": "sewing-technique",
+      "tags": [
+        "bookbinding",
+        "sewing-technique",
+        "intermediate"
+      ],
+      "descSnippet": "Cutting shallow saw kerfs across the back of the text block so the supports can be sunk flush; a quicker method that Cockerell records as weakening the binding compared with sewing on raised supports.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:cc86fd1876367b7f41ecfe5c5254cf1c0ebbd88f890ca16151821e3ed415bf44",
+      "path": "primitives/techniques/sawing-in.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "scallion",
       "kind": "material",
       "name": "Frühlingszwiebel",
@@ -6156,6 +6282,150 @@
       "updated": "2026-06-09",
       "hash": "sha256:030dfb36e9e9e48ca30b6970cff2eb7e9a1e3c6db36727454e478199040c362b",
       "path": "primitives/techniques/setting-a-snap.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "sewing-cord",
+      "kind": "material",
+      "name": "sewing cord",
+      "domain": "bookbinding",
+      "taxonomy": "sewing-material",
+      "tags": [
+        "bookbinding",
+        "cord",
+        "sewing-material"
+      ],
+      "descSnippet": "An unbleached hemp or linen cord used as the raised support a book is sewn onto; the projecting ends are afterwards laced into the boards, giving a strong, flexible joint.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:aafe9c707dfb9be22048d560ce3e193f18a291491eb8ca690ed37e4899d7deb5",
+      "path": "primitives/materials/sewing-cord.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "sewing-frame",
+      "kind": "tool",
+      "name": "sewing frame",
+      "domain": "bookbinding",
+      "taxonomy": "sewing-equipment",
+      "tags": [
+        "bookbinding",
+        "binding",
+        "sewing-equipment"
+      ],
+      "descSnippet": "An upright wooden appliance with two posts and an adjustable crossbar that holds the sewing supports (cords or tapes) taut and vertical while the sections of a book are sewn to them by hand.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:44c7be85d184d49ac6992abe02316295137b5c406896c1172863d1439af636d2",
+      "path": "primitives/tools/sewing-frame.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "sewing-key",
+      "kind": "tool",
+      "name": "sewing key",
+      "domain": "bookbinding",
+      "taxonomy": "sewing-equipment",
+      "tags": [
+        "bookbinding",
+        "binding",
+        "sewing-equipment"
+      ],
+      "descSnippet": "A small slotted device that grips a sewing cord from beneath the bed of the sewing frame and anchors it under tension, so each support stays vertical and evenly strained during sewing.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:e269e4508c990e3a21f2514a1b7e43cef460cc55ce2dc70bb98f6350668c6712",
+      "path": "primitives/tools/sewing-key.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "sewing-on-tapes",
+      "kind": "technique",
+      "name": "sewing on tapes",
+      "domain": "bookbinding",
+      "taxonomy": "sewing-technique",
+      "tags": [
+        "bookbinding",
+        "sewing-technique",
+        "advanced"
+      ],
+      "descSnippet": "A variant of book sewing in which the sections are sewn onto flat woven tapes rather than round cords, giving a flatter back for hollow or cased work.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:b49cf71def4d7d1e2d4186d9ad900ff945205519446fc719d4fa2a975661f6d9",
+      "path": "primitives/techniques/sewing-on-tapes.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "sewing-on-vellum-slips",
+      "kind": "technique",
+      "name": "sewing on vellum slips",
+      "domain": "bookbinding",
+      "taxonomy": "sewing-technique",
+      "tags": [
+        "bookbinding",
+        "sewing-technique",
+        "advanced"
+      ],
+      "descSnippet": "Sewing the sections onto narrow vellum slips used as supports, a strong method favoured in fine binding, where the slips are afterwards laced into the boards.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:f3087f5b59b28fe0df0091f6afea0a9cf543c1987c7f424aeeab91df65881224",
+      "path": "primitives/techniques/sewing-on-vellum-slips.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "sewing-silk",
+      "kind": "material",
+      "name": "sewing silk",
+      "domain": "bookbinding",
+      "taxonomy": "sewing-material",
+      "tags": [
+        "bookbinding",
+        "thread",
+        "sewing-material"
+      ],
+      "descSnippet": "A fine silk thread used for sewing thin or delicate books, where a linen thread would add too much swelling at the back.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:a71739bd0febd360366456075a991ea7bcc8d7d74ad5bd9ba38441e296d29edc",
+      "path": "primitives/materials/sewing-silk.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "sewing-tape",
+      "kind": "material",
+      "name": "sewing tape",
+      "domain": "bookbinding",
+      "taxonomy": "sewing-material",
+      "tags": [
+        "bookbinding",
+        "tape",
+        "sewing-material"
+      ],
+      "descSnippet": "A woven linen tape used as a flat sewing support in place of round cords, giving a flatter back suited to hollow-backed and cased work.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:086ef048d15920f3a491a642f3c56212378fd6af6e209d4f20678fd01f13adbe",
+      "path": "primitives/materials/sewing-tape.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "sewing-thread",
+      "kind": "material",
+      "name": "sewing thread",
+      "domain": "bookbinding",
+      "taxonomy": "sewing-material",
+      "tags": [
+        "bookbinding",
+        "thread",
+        "sewing-material"
+      ],
+      "descSnippet": "An unbleached linen thread used to sew the sections of a book together and to the supports; its weight is chosen to suit the paper so the swelling at the back stays even.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:0543ec9d6123a507a92228bd462a3c6bf7a6f0e048ea5196b3dbdf9a179a7310",
+      "path": "primitives/materials/sewing-thread.json",
       "lineageState": "unasserted"
     },
     {
@@ -7011,6 +7281,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "tenon-saw",
+      "kind": "tool",
+      "name": "tenon saw",
+      "domain": "bookbinding",
+      "taxonomy": "bookbinding-equipment",
+      "tags": [
+        "bookbinding",
+        "cutting",
+        "bookbinding-equipment"
+      ],
+      "descSnippet": "A fine-toothed backsaw used to cut shallow kerfs across the back of a text block so recessed supports can be sunk into it; a quicker method that Cockerell records as weakening the binding.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:e7c8e3da678116470e8c112fd6c4b558ef002570dd166cf4de6b683a5d9b1de5",
+      "path": "primitives/tools/tenon-saw.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "thermometer",
       "kind": "tool",
       "name": "thermometer",
@@ -7304,6 +7592,24 @@
       "lineageState": "unasserted"
     },
     {
+      "slug": "vellum-slip",
+      "kind": "material",
+      "name": "vellum slip",
+      "domain": "bookbinding",
+      "taxonomy": "sewing-material",
+      "tags": [
+        "bookbinding",
+        "vellum",
+        "sewing-material"
+      ],
+      "descSnippet": "A narrow strip of vellum used as a flexible sewing support, valued for strength in fine binding, where the slips are afterwards laced into the boards.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:56012a11d38931f732ac11eaf97ae553275feba5f862f33ef4fbd0a8897a72ae",
+      "path": "primitives/materials/vellum-slip.json",
+      "lineageState": "unasserted"
+    },
+    {
       "slug": "vengeance-copper-parrot",
       "kind": "tool",
       "name": "Vengeance Stills Copper Proofing Parrot",
@@ -7520,6 +7826,24 @@
       "updated": "2026-06-13",
       "hash": "sha256:01aff37708c9efa6bd990650407a25379bf60f260e13c5b07f6970214bad2631",
       "path": "primitives/tools/wdt-tool.json",
+      "lineageState": "unasserted"
+    },
+    {
+      "slug": "weavers-knot",
+      "kind": "technique",
+      "name": "weaver's knot",
+      "domain": "bookbinding",
+      "taxonomy": "sewing-technique",
+      "tags": [
+        "bookbinding",
+        "sewing-technique",
+        "beginner"
+      ],
+      "descSnippet": "A compact, secure knot used to join a new length of sewing thread to the old without slipping, so a sewing run continues without a weak point.",
+      "forks": 0,
+      "updated": "2026-06-24",
+      "hash": "sha256:02abc50926bc93d31e3a5e370314ea2f3af2d814167f97e1bb4868460d4f7b33",
+      "path": "primitives/techniques/weavers-knot.json",
       "lineageState": "unasserted"
     },
     {
