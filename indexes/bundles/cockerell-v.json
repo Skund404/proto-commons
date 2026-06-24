@@ -1,7 +1,7 @@
 {
-  "content_hash": "sha256:524722a419c418a30585223ff86a191399cce9fd32584dcda0a5b13f2368b26c",
+  "content_hash": "sha256:69496d6f76d5f2c33804dd5e463397931a349458560f073429e9d5ed08ddd5ce",
   "description": {
-    "en": "Chapter V (End Papers Leather Joints Pressing) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+    "en": "Chapter V (End Papers Leather Joints Pressing) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901)."
   },
   "domain": "bookbinding",
   "emitter": "opg://commons-seed",
@@ -9,84 +9,84 @@
   "ia_item": "bookbindingcareo00cockrich",
   "items": [
     {
-      "hash": "sha256:a1742e5949bbf5b4f37a8e3436002b6844bb1f544283a1744258d0895f3f2169",
+      "hash": "sha256:8009708bef8fa27b8f4198b208b1b5696d7af9c0f484a25bb4a3afa369e54338",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "beating"
     },
     {
-      "hash": "sha256:cf09ee5d49371e8a89755e4244c36234b7a3e97b7599571cb9d8ddc313d6f31f",
+      "hash": "sha256:a64a97139b7bfa2ede385762c33ce63b48d065666b917882ec370d9135156202",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "cloth-joint"
     },
     {
-      "hash": "sha256:bbb75482e59a4ac5a3d28cdf10b8225104abaac5f5cfd7155b60d4615dd82072",
+      "hash": "sha256:3433ee709c5977b574c0a7e882b2a96d32158c6cd8c052902b3dadd730c963e2",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "end-paper"
     },
     {
-      "hash": "sha256:949d5d421b10810df341b3bf11dcffdf785a84326dfd5f3c9d9801b040fe253b",
+      "hash": "sha256:c6ce2bcfa90aba979fbd19e0cf2ec70e7d7e875f73b5bb1cf698964bb7aac0d2",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "leather-joint"
     },
     {
-      "hash": "sha256:22efdee89cf1a0d04bdfc1a17cdb85e96a5995a9ed91683fdc53188d3eeb4b74",
+      "hash": "sha256:ded92d0434ba0e2ebe13cda2851be5e0c25d57270245f6d884ab8e22c111be28",
       "kind": "workflow",
       "record_class": "primitive",
       "role": "required",
       "slug": "making-end-papers"
     },
     {
-      "hash": "sha256:83866b4a1ebcb6e6052956fc472c9b6ff76b7e64d05f1ed74ab18614ac16a322",
+      "hash": "sha256:dca30f1b0005778dea29fe4d1c739a440f983fd8a2123a31b6cb78e1c322ad7a",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "marbled-paper"
     },
     {
-      "hash": "sha256:5b4a3d280e7a45e146146f35bda7f0eabdf48d44f44328198afa8c53a3b332fb",
+      "hash": "sha256:ecfa4f567851e68ab13b3b8dfd825fae74b850b37a97fdd806a46989523bc490",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "pressing-board"
     },
     {
-      "hash": "sha256:ee8c9bf178bedcf0389e32add53ede72a4c0a173696362a3e764cb40e09db18e",
+      "hash": "sha256:30ca2519865e1b20d4eb7a40c13116761c024c5555a49eb5d5a24614ec8cc09d",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "pressing-sections"
     },
     {
-      "hash": "sha256:3e4e140dc350534173d245c23226a9d53f4da5f3cb2018482799628fad3658ca",
+      "hash": "sha256:a6e7e9d113e0f7ab02f3a30786dba6f0aa5606c301187109feb5f2bbd5257df7",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "pressing-tin"
     },
     {
-      "hash": "sha256:a76f9de2e8aea7a13c396a1b8a20f16b31d31bea075b7e78c56e16dd80f0e61f",
+      "hash": "sha256:dee528192f9facf5d2c0406512ac47e4a4491e58c2e0dbb9f4404757419fec65",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "silk-end"
     },
     {
-      "hash": "sha256:fb79d317912094389bb68b6f124d9f55d2ceac5a423b776a116c2541def14b1b",
+      "hash": "sha256:885160cd49358612bb2b7245b23d63ac337e7cb87e71d69897111a52ddaac799",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "standing-press"
     },
     {
-      "hash": "sha256:a6f1f66055cf79ec37094b57e140dcf94b46c8677f7b75431c83c7cf39928392",
+      "hash": "sha256:8b3a294cae8f84bd7741342196d13ea699edae5df7ba03efc4ae34d9b0cbb66a",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",

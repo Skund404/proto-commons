@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:22efdee89cf1a0d04bdfc1a17cdb85e96a5995a9ed91683fdc53188d3eeb4b74",
+  "content_hash": "sha256:ded92d0434ba0e2ebe13cda2851be5e0c25d57270245f6d884ab8e22c111be28",
   "created": "2026-06-24",
   "description": "Building a zigzag end paper so every leaf opens to the back and the structure yields to the drag of the cover. A folded sheet is marked and pasted up, folded back over the paste-down, and a further sheet inserted through which the sewing passes; a leather or cloth joint can be worked in at the same stage.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter V, p.82. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter V, p.82. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/82"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

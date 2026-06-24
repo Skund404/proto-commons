@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:32952b4f59196e238b8eee080fa7cd2667e6f9220709d165f13d2fa7837e8f32",
+  "content_hash": "sha256:8892c78edef8c50422d06d381631ca35521bffde61ed873890e7d4291e6bc2a3",
   "created": "2026-06-24",
   "description": "A very tough fibrous paper, despite the name, prized for its strength. The thinnest grades serve to mend the backs of split sections, reinforce weak spots in a leaf, and repair vellum-bound volumes.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XX, p.280. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XX, p.280. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/280"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

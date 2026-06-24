@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:9987181279814ae4126d40f90fafd4eaed64c4eebbd06d8e51e0d126ee7dad2f",
+  "content_hash": "sha256:32ca6df6c768b847088f4dea39a9f14f743611bc9974e3f25f5ad9d8b640c803",
   "created": "2026-06-24",
   "description": "Sewing the sections onto narrow vellum slips used as supports, a strong method favoured in fine binding, where the slips are afterwards laced into the boards.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "advanced",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VII, p.98. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter VII, p.98. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/98"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

@@ -1,7 +1,7 @@
 {
-  "content_hash": "sha256:c0c6698a5e355186c9e695825543f6e6077cd70f453fbd0e90329e0a9019bf54",
+  "content_hash": "sha256:b3a834353edd2e2d00ebf4bb311be8f86e89111626c6c968b9fdf053a4c1a7e5",
   "description": {
-    "en": "Chapter XI (Headbanding) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+    "en": "Chapter XI (Headbanding) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901)."
   },
   "domain": "bookbinding",
   "emitter": "opg://commons-seed",
@@ -9,63 +9,63 @@
   "ia_item": "bookbindingcareo00cockrich",
   "items": [
     {
-      "hash": "sha256:7b66949435f48b7d0e16994d06ff3a832e06c61509e2cd593b86a944a231dba3",
+      "hash": "sha256:23fd3b6c98585f576dac75cce0836a2855aaa81dc5a0d712adba2e5ae68f6699",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "finishing-press"
     },
     {
-      "hash": "sha256:eec6094af1ea9c569ff0611b3b6e182a90217d07012ddb3000102d075508eaec",
+      "hash": "sha256:351c32e424afbd0a0ab114d4c64a5068904338ab2fa02dc1fe8d968bade40fb6",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "headband"
     },
     {
-      "hash": "sha256:235f08dd75a11168f4f63fcd7ae30f1fbf61278c5260bef684a111a1196c357b",
+      "hash": "sha256:b23557934a9ee5ce59a88a404babf057c6b3b10f6c10e5f1d9d01cca617388bc",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "headband-core"
     },
     {
-      "hash": "sha256:feb6f7104c9e53355cdcb88f725d04ffeacd58def74014216dd3f1379023a28b",
+      "hash": "sha256:8ea11e15b708e5025f6ed68b0d1b775ceb88d054c686dc0ff73e8f3aeac0c2dd",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "headbanding"
     },
     {
-      "hash": "sha256:e0e5527ddefa4f2720822a0d6a08020207bdfc21b24ea4a49ecb30499cb34c32",
+      "hash": "sha256:7eca12b7d303bc4143b69f49e37f7627ebd4b9b829dc815acf848170c942a63a",
       "kind": "workflow",
       "record_class": "primitive",
       "role": "required",
       "slug": "headbanding-on-vellum"
     },
     {
-      "hash": "sha256:84476c7826fcc9867c87acafc42f21056746e9d00a73ba9b5364850fb2811490",
+      "hash": "sha256:f0fb4cc5a6e17463fd81ffa8ce688aabef6c7dd84fcad50e840992c261afcf5c",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "kettle-stitch"
     },
     {
-      "hash": "sha256:9194d7f0b9d60e5fea96485e92d3e304eb6410bf8644ace2def6972d4cb1c22c",
+      "hash": "sha256:61d0f0539719d84c2a6ad48ca47a8ee5d39c9c3aca44987c132abba54c2bebd8",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "sewing-needle"
     },
     {
-      "hash": "sha256:1322471942c4e195b65e575da3e3df0c845966dca3faa9c58152ec1e3f003ebb",
+      "hash": "sha256:653d6d4776b2fc930f264b786749fd1a83f67c7da59ff9d5c3948f38850e0eab",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "sewing-silk"
     },
     {
-      "hash": "sha256:ba4bb2bc88b07debf53a4ecfe55dcd27465888968cc4f343b3a55d82fc28bcba",
+      "hash": "sha256:deee88b0c18713f3245ec0b116d13aa2f01d84095dc9dd456db1a03fca895179",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",

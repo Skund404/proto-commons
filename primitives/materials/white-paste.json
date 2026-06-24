@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:bcd391ae31f9d3c2cf2f637f991f6bafd1010e6f1eba226633d2d7789b500d56",
+  "content_hash": "sha256:d49ebaafe0ed4fd73e995b9c1d5f64b1b87ac0d01201200a90ebe1f06bb19990",
   "created": "2026-06-24",
   "description": "A pale, low-staining adhesive for mending, built mainly from cornflour, rice flour, or starch with a little wheaten flour and alum. The wheaten flour may be dropped entirely for the whitest sheets, since ordinary paste leaves unsightly marks on repairs.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XX, p.280. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XX, p.280. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/280"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

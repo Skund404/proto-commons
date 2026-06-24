@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:17372de98614378d2a975e168a005dcfc2bdf19fad8aa7492a09e6598f6bdbfd",
+  "content_hash": "sha256:01b78f8e0ab3b728edb99abbb20de30a3c53c7c32d21a9d06b07fbc394614dd5",
   "created": "2026-06-24",
   "description": "A thin gelatinous size used to seal an absorbent paper edge before gilding. Washed over the surface and left to dry, it stops the later wet preparations from soaking in and lifting the leaves.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VI, p.93. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter VI, p.93. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/93"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

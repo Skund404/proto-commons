@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:c8b0c83bcef96e6edc4f7f4e87aec07bde00579586782b081b382ff3664955a3",
+  "content_hash": "sha256:12929adea4c4bfe991a16561f75ba21a667c1e12563a830debb686f156891bcd",
   "created": "2026-06-24",
   "description": "Binding cord around a freshly covered book to hold the leather tight to the spine while it sets. On large work it secures the cover; the cord marks beside the bands can be rubbed out with a band stick if untied after a short time.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XII, p.152. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XII, p.152. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/152"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

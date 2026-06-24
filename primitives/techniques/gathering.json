@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:c220510a88bace8cb8965ece8de0c1f823c84b14d9f35e020da1c2f8d00017ec",
+  "content_hash": "sha256:c25c263e29dbe63285aaa87bb5686f360bd3290dc352697ef248d11d237e4c6d",
   "created": "2026-06-24",
   "description": "Assembling a complete copy by drawing one sheet from each stack of repeated signatures in order, so the binder receives all sections of the book.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "beginner",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter II, p.34. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter II, p.34. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/34"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:115686bbfb840afd2534614286ef129a3b3143fe55fd1fe21b1ee49b3db4f022",
+  "content_hash": "sha256:bb6602380d10d5d5a66f94d6673e13890e783eaffcb49b2dbe5549fb06d38f67",
   "created": "2026-06-24",
   "description": "A spine construction where a folded paper tube is glued between the back of the sections and the covering, so the spine and the visible back move separately. It keeps a stiff cover from binding the volume shut.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIII, p.184. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIII, p.184. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/184"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

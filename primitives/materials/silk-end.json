@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:a76f9de2e8aea7a13c396a1b8a20f16b31d31bea075b7e78c56e16dd80f0e61f",
+  "content_hash": "sha256:dee528192f9facf5d2c0406512ac47e4a4491e58c2e0dbb9f4404757419fec65",
   "created": "2026-06-24",
   "description": "A fine woven fabric such as silk used to face the end leaves for a luxurious finish. It is best paired with a leather joint, glued to paper rather than directly, and damped and ironed before use; its edges fray readily, so they are often turned in over a paper pad.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter V, p.85. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter V, p.85. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/85"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

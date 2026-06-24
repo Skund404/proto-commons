@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f69dc1ad7b6302eb510d0cb4a384e44ce26d82d576ececed78196060b6db7b87",
+  "content_hash": "sha256:729c531085bfd70fa82a90f07cb9089e887fec7e3deb5b5dc8309f9c218aa429",
   "created": "2026-06-24",
   "description": "Securing decorative and protective metalwork to a cover. Corners, shoes, and plaques are nailed to wooden boards over a leather back; Cockerell judges bindings whose metal is confined to the boards as the most successful, and prefers metal settings shown openly rather than jewels hidden beneath the leather.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     "skillLevel": "advanced",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XVIII, p.259. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XVIII, p.259. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/259"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

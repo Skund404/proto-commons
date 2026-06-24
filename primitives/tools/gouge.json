@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:b2852d1a959b72187a3bc02a397dc135f907cb8e303b1aecac582b9427543aa0",
+  "content_hash": "sha256:b23671053aae12d684268b9f350b93819f8732f9ca84c7784aae745d4d8e9e52",
   "created": "2026-06-24",
   "description": "A curved-line finishing tool made in graduated sets matching arcs of concentric circles, used to tool curved segments of a design.",
   "emitter": "opg://commons-seed",
@@ -32,11 +32,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIV, p.189. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIV, p.189. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/189"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

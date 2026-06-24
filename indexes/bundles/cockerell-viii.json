@@ -1,7 +1,7 @@
 {
-  "content_hash": "sha256:44302f0b304afa72fa8a7809db5453acac68c6cb048fcc1e5769012c8729af71",
+  "content_hash": "sha256:548d9c3cadf49029f06220f5cd6cc1dc852959519b86c420c2afc47bb862ad94",
   "description": {
-    "en": "Chapter VIII (Fraying out Slips Glueing up Rounding and Backing) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+    "en": "Chapter VIII (Fraying out Slips Glueing up Rounding and Backing) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901)."
   },
   "domain": "bookbinding",
   "emitter": "opg://commons-seed",
@@ -9,91 +9,91 @@
   "ia_item": "bookbindingcareo00cockrich",
   "items": [
     {
-      "hash": "sha256:47425d0adfbb563c523ae1969875c4b2bafb9da783dbb0d1932c1d89676d3c5a",
+      "hash": "sha256:50908c18a51ce511e8d82adc23d1f0f4c54f14ce5e45f2c6202db616d40333c8",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "backing"
     },
     {
-      "hash": "sha256:b79303d9e7b48c95cf8ea6fd8ec8e8efe6164d9b4fe9f249372dc237c655d3a4",
+      "hash": "sha256:8e016bebada8e40ad455ad9d9a67db51991c15bfd6a920d6b3aba14763917197",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "backing-board"
     },
     {
-      "hash": "sha256:c364d17bd6c8133d0d90be55fa3517e2cc10f0604b192fdb324f15e83452493b",
+      "hash": "sha256:4739756f528ea94b3e5fa662f99009bcdffabec10500491f8abd1396c495051c",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "backing-hammer"
     },
     {
-      "hash": "sha256:4271729faa4e5186a580534ff02e67d63e1dcd18d020713f903e7157b7acb4e6",
+      "hash": "sha256:d40783ce3dea242d4248469de701caad3beacb8ad196195b85f7d24f9c5f3ec4",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "bodkin"
     },
     {
-      "hash": "sha256:d8a7f1bedab366516d99608a1cee7f776830cae2b2eada9b86798ed31e935363",
+      "hash": "sha256:5fdb4796c22c55164c835304060b0b5b7a8df185b40d40f87b55965117cb6680",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "fraying-out-slips"
     },
     {
-      "hash": "sha256:eb4e812a04868b78d075edc419754c1e36367d3890906b26ab8eef6a70fd2e7e",
+      "hash": "sha256:41a54c348c10eeeea7b65cd84d6cd9cddc3a5a57ddc9e526bf48f7306ce7577c",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "glue"
     },
     {
-      "hash": "sha256:eebc8e75e23ab79aada100c21f30c02faba26a5f0c3cdc1caba5543ab502ed7f",
+      "hash": "sha256:a600e82e3aa0d2c63b7b524ef9c8f111d02b2d0585299327f8c038bc220de758",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "glue-brush"
     },
     {
-      "hash": "sha256:f9083cc815c98f5f1e0017ab6d0028b767a1a2dee9a17f3b6e84760e4f8d4314",
+      "hash": "sha256:a3c187d63b9df77dd9321ab0f667e3718c678084fa789fa138041d738c507908",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "glueing-up"
     },
     {
-      "hash": "sha256:5b7ca01676ef9a543c872c31d8b468a5f65e051e65304068ed32ed5c79262680",
+      "hash": "sha256:77b85bacc9929f92ab4f2e37b9f4db0c283de867747ac1a5c90d7383d0d9ddb8",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "knocking-down-iron"
     },
     {
-      "hash": "sha256:263b5f6fa642e9f45f328e7ec38b8e4e668afbf812e36517e43c03dd7df42884",
+      "hash": "sha256:53cffcff14eeb178ca45356ebfdb40eb61a5543fe1ae6dcda47b16fbcc651e4c",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "lying-press"
     },
     {
-      "hash": "sha256:cad1246e737a83e0b8d0f1a2ed013506ca3e98723dcb9d7043910ef9959a984d",
+      "hash": "sha256:fe31764dc5edff8acf4197da2f06857977a1ab35356dcceba6774eb134bd3679",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "rounding"
     },
     {
-      "hash": "sha256:3711396b0b17c88bf760ab40da4922f2ed7b9f9ae62434f1d3c807b8bdf43760",
+      "hash": "sha256:a4498fa1046f0597bde7dbf0a5af7950bd9c5a1b4803b0626c0b9db36854ff30",
       "kind": "workflow",
       "record_class": "primitive",
       "role": "required",
       "slug": "rounding-and-backing"
     },
     {
-      "hash": "sha256:3879ab32c1c44a9613e6d6264a94f85d0f8871a01663f4df0e25476ba34b9b23",
+      "hash": "sha256:bd72d8c922b0ff20236747a2f012e838413984cbce33a8f04d29af30edb0db8a",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",

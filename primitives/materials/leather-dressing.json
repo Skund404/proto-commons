@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:849318c322edab8f2ed909e32bd76430f9d0675e44dc03b00cce5f1ab2bf1836",
+  "content_hash": "sha256:321922da79d383a608769ba8c02d4dbc541bdf78cd373c9e12cd291565f225f9",
   "created": "2026-06-24",
   "description": "A soft preparation rubbed into book leather to nourish it and keep it flexible. A serviceable mixture is made by warming a quantity of oil with roughly half its weight of shredded wax until the wax melts. It must not stain, evaporate quickly, harden, or stay sticky; Cockerell prefers a wax-in-oil dressing over plain petroleum jelly, which evaporates slowly.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XXII, p.303. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XXII, p.303. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/303"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

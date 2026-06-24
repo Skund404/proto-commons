@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:263b5f6fa642e9f45f328e7ec38b8e4e668afbf812e36517e43c03dd7df42884",
+  "content_hash": "sha256:53cffcff14eeb178ca45356ebfdb40eb61a5543fe1ae6dcda47b16fbcc651e4c",
   "created": "2026-06-24",
   "description": "A large screw-operated press that holds a book firmly between its cheeks for edge work and for marking up the back; here it steadies the book square while the band positions are laid out.",
   "emitter": "opg://commons-seed",
@@ -31,11 +31,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VII, p.98. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter VII, p.98. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/98"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

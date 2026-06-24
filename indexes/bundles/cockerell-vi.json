@@ -1,7 +1,7 @@
 {
-  "content_hash": "sha256:e11440bc7260299e4a1945668ed7dde4b055e06673abf360d67521c92fcef49b",
+  "content_hash": "sha256:52933c3d816418f369f89ed4bc643122dd0530387a76bc841016dcb9e0cbb819",
   "description": {
-    "en": "Chapter VI (Trimming Edges before Sewing Edge Gilding) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+    "en": "Chapter VI (Trimming Edges before Sewing Edge Gilding) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901)."
   },
   "domain": "bookbinding",
   "emitter": "opg://commons-seed",
@@ -16,105 +16,105 @@
       "slug": "beeswax"
     },
     {
-      "hash": "sha256:35aaa200583a831c3c4655f201c9ffc8a4a364596f67939e25304643b827efc0",
+      "hash": "sha256:672fec3bb8e16955b19eb86a7147dae464fa366a246682ff3df020cf4a29c45f",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "blacklead"
     },
     {
-      "hash": "sha256:bc7c79d0657604aef708861a24b7d236333f92c8928c3b7d7757b2316aa6539c",
+      "hash": "sha256:1434f3cd04269759478655149844746e45b75d3c1e1d50af62b77730b4946179",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "burnisher"
     },
     {
-      "hash": "sha256:6d471a304a00c1ac8b574b5b6919bc2f156dd0753893e0ae2713ec49cefd1907",
+      "hash": "sha256:6ff295d3aebfd0078ff596a1f0dea6fafd8b2b7d1240f59552df7fbd5ac90efa",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "carpenter-square"
     },
     {
-      "hash": "sha256:7a15a751cac44d838340e51a36bfb2818f3dde932fc1c31014ada8a898f7bd7e",
+      "hash": "sha256:8fe9a8cdbf0ee8a688a56f39f77727a2cba91c74c92f5b750816f31b93ed11b3",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "edge-gilding"
     },
     {
-      "hash": "sha256:353526e6d5028d61022ae5a85b9fb7c43b70b2c3eaae35bb5d7288e4e330e375",
+      "hash": "sha256:4bf182308dc9ce2656bfc2b97d9525a9625d18f473439f0eee151a1521fdf62a",
       "kind": "workflow",
       "record_class": "primitive",
       "role": "required",
       "slug": "edge-gilding-before-sewing"
     },
     {
-      "hash": "sha256:ba14e6211e88cb4a00a6effe7edf36d49e1a84419a58f14d9425bbbeab1d53c9",
+      "hash": "sha256:0dc55da231add8f8a8ea3eee5a9f2eff088557b95f91fe31d5a1b8c996fdc79e",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "edge-trimming-jig"
     },
     {
-      "hash": "sha256:3d43c3f081a63ec671c64dbe63996b080596efb6776576e05b7b93d01ac7de65",
+      "hash": "sha256:22338de32fe0e93210663441b9ec7157b08d6a8bb8820c67b93f8149b2a3812b",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "folder"
     },
     {
-      "hash": "sha256:28ecef61ddb3ec23b07caac615fdb5169d81b87207ffffa07f8c14b3bf9cf804",
+      "hash": "sha256:71b66c89cd52e15825c1280a076b560ffb9f06d6f7f43f79cae95b5e02487fde",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "gilders-tip"
     },
     {
-      "hash": "sha256:4bcb84887fa165810fc175395068d88968818c607693e61c251c900e8e50b2dd",
+      "hash": "sha256:3e02f898e95ee2d3c1b7283adfd1f13f69805f70640e1785483bc23b4db45041",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "cutting-board"
     },
     {
-      "hash": "sha256:c8021a6d5872a2ffb390ca697f0e830dec06163a264ca47e7fbcfa0995b6a50a",
+      "hash": "sha256:5cb9a53d125c95f16b52639484213b2dfafbe271aa396d5ef1f42e071e4aee52",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "glaire"
     },
     {
-      "hash": "sha256:e87e517f0e58ca1cee9993413c69b8614b54e54ae2bdb3d2e87cc1075a9704f7",
+      "hash": "sha256:50c2cf3aaca7c05c82e1b735646c0eda58900fba5f9cc3bfb0b0e916daa77092",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "gold-leaf"
     },
     {
-      "hash": "sha256:263b5f6fa642e9f45f328e7ec38b8e4e668afbf812e36517e43c03dd7df42884",
+      "hash": "sha256:53cffcff14eeb178ca45356ebfdb40eb61a5543fe1ae6dcda47b16fbcc651e4c",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "lying-press"
     },
     {
-      "hash": "sha256:2665d237120d51b6c2fa7c1d09b116aa170c5fb6369851ee4c7f0c202b38e2a2",
+      "hash": "sha256:84e88b0c1e9a31a9e6c1dd782d92ae943cb17446e6f1eff7bc9a136e5cd9f250",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "red-chalk"
     },
     {
-      "hash": "sha256:17372de98614378d2a975e168a005dcfc2bdf19fad8aa7492a09e6598f6bdbfd",
+      "hash": "sha256:01b78f8e0ab3b728edb99abbb20de30a3c53c7c32d21a9d06b07fbc394614dd5",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "size"
     },
     {
-      "hash": "sha256:6bea556f05382486e403d6e77a9293b1419112ea2255b6ccea0612c528bc10b8",
+      "hash": "sha256:e7ab14f9d3b263b39ebc836607bfb4107a8c566e5894ae37e617ea8300d3ea6f",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",

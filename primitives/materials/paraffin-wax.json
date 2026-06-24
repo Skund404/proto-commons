@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:704f7793693fb6ba1438de94dcc9f77bcd71e0303df87dade2da49bcd6b70619",
+  "content_hash": "sha256:9ba3aa721a6ec8ce433576b9ee6fa87e01e34f5e39eb343341531f7c169f410d",
   "created": "2026-06-24",
   "description": "A solid refined wax that is shredded and melted into oil to thicken a leather dressing. On its own it would stiffen leather, but blended with oil it contributes body to a preservative that stays soft and non-tacky.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XXII, p.302. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XXII, p.302. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/302"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

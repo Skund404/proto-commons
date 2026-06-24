@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:ae852aac66105dd385a77a2005e983b70130d517e4a548d3666847f38857af68",
+  "content_hash": "sha256:3a8f25c37d32ff32bdf994374a611282b9f581456de9190f800d3dd3d10d0d9a",
   "created": "2026-06-24",
   "description": "The full hand-sewing sequence for a book bound on raised cords: mark up the back, set the cords up on the sewing frame with keys, collate the sections, sew each section around the cords, and lock the head and tail with the kettle stitch.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VII, p.98. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter VII, p.98. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/98"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

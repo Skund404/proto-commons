@@ -106,7 +106,7 @@
     {
       "slug": "cockerell-i",
       "name": "Cockerell, Chapter I: Introduction",
-      "descSnippet": "Chapter I (Introduction) of Douglas Cockerell, Bookbinding and the Care of Books (1901).",
+      "descSnippet": "Chapter I (Introduction) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901).",
       "domain": "bookbinding",
       "taxonomy": null,
       "itemCount": 4,
@@ -115,12 +115,12 @@
         "required": 4
       },
       "updated": null,
-      "hash": "sha256:bd2781a524d47e20c673de5c2fdf10ffa73af72ea5262f11b77b4d00c94bbd02"
+      "hash": "sha256:a233e325f37413ad9094b4647761c5a69b9dd2cce27cd721e1edaf53a4b3a6cd"
     },
     {
       "slug": "cockerell-ii",
       "name": "Cockerell, Chapter II: Entering Books in Sheets Folding Collating Pulling to Pieces Refolding Knocking out Joints",
-      "descSnippet": "Chapter II (Entering Books in Sheets Folding Collating Pulling to Pieces Refolding Knocking out Joints) of Douglas Cockerell, Bookbinding and the Care of Books (1901).",
+      "descSnippet": "Chapter II (Entering Books in Sheets Folding Collating Pulling to Pieces Refolding Knocking out Joints) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901).",
       "domain": "bookbinding",
       "taxonomy": null,
       "itemCount": 20,
@@ -130,7 +130,7 @@
         "recommended": 6
       },
       "updated": null,
-      "hash": "sha256:656e78de04e4d5a15192802885900f3e7fdab6b1ce54e7a996699822e2b71216"
+      "hash": "sha256:32df61e5c69a544b54d3f84e917be775b36a864401ea15a03809f4ecc55c15e7"
     },
     {
       "slug": "cockerell-iii",
@@ -145,12 +145,12 @@
         "recommended": 5
       },
       "updated": null,
-      "hash": "sha256:083391743c0fa45eaff1e04519c90d20a5cd6228de9b548050e4c13e745e1afc"
+      "hash": "sha256:87bb6acdf0622b002cd6410a09a6f17bfdd0e9f2a77611dc4dc9f9fae5a6e036"
     },
     {
       "slug": "cockerell-iv",
       "name": "Cockerell, Chapter IV: Sizing Washing Mending",
-      "descSnippet": "Chapter IV (Sizing Washing Mending) of Douglas Cockerell, Bookbinding and the Care of Books (1901).",
+      "descSnippet": "Chapter IV (Sizing Washing Mending) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901).",
       "domain": "bookbinding",
       "taxonomy": null,
       "itemCount": 13,
@@ -160,12 +160,12 @@
         "recommended": 4
       },
       "updated": null,
-      "hash": "sha256:f011e11ffacd6f4ca17bdee64d8c3fc8b226e88cf0e36fb2bb18ecd3244a4f60"
+      "hash": "sha256:b91ba708bb9fbf21626666c35b8bff9b79f730d3f55759988b87eb71e96f69ee"
     },
     {
       "slug": "cockerell-ix",
       "name": "Cockerell, Chapter IX: Cutting and Attaching Boards Cleaning off Back Pressing",
-      "descSnippet": "Chapter IX (Cutting and Attaching Boards Cleaning off Back Pressing) of Douglas Cockerell, Bookbinding and the Care of Books (1901).",
+      "descSnippet": "Chapter IX (Cutting and Attaching Boards Cleaning off Back Pressing) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901).",
       "domain": "bookbinding",
       "taxonomy": null,
       "itemCount": 21,
@@ -175,12 +175,12 @@
         "recommended": 10
       },
       "updated": null,
-      "hash": "sha256:f44a12db8753a92342689d98a38053a3377da1857269cac28fd4b8d02b0ea1ff"
+      "hash": "sha256:22c11053327d013a2bf06a0ff8be68d3a5171e2edb70d144d5644b23df20d976"
     },
     {
       "slug": "cockerell-v",
       "name": "Cockerell, Chapter V: End Papers Leather Joints Pressing",
-      "descSnippet": "Chapter V (End Papers Leather Joints Pressing) of Douglas Cockerell, Bookbinding and the Care of Books (1901).",
+      "descSnippet": "Chapter V (End Papers Leather Joints Pressing) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901).",
       "domain": "bookbinding",
       "taxonomy": null,
       "itemCount": 12,
@@ -190,12 +190,12 @@
         "recommended": 3
       },
       "updated": null,
-      "hash": "sha256:524722a419c418a30585223ff86a191399cce9fd32584dcda0a5b13f2368b26c"
+      "hash": "sha256:69496d6f76d5f2c33804dd5e463397931a349458560f073429e9d5ed08ddd5ce"
     },
     {
       "slug": "cockerell-vi",
       "name": "Cockerell, Chapter VI: Trimming Edges before Sewing Edge Gilding",
-      "descSnippet": "Chapter VI (Trimming Edges before Sewing Edge Gilding) of Douglas Cockerell, Bookbinding and the Care of Books (1901).",
+      "descSnippet": "Chapter VI (Trimming Edges before Sewing Edge Gilding) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901).",
       "domain": "bookbinding",
       "taxonomy": null,
       "itemCount": 16,
@@ -205,12 +205,12 @@
         "recommended": 7
       },
       "updated": null,
-      "hash": "sha256:e11440bc7260299e4a1945668ed7dde4b055e06673abf360d67521c92fcef49b"
+      "hash": "sha256:52933c3d816418f369f89ed4bc643122dd0530387a76bc841016dcb9e0cbb819"
     },
     {
       "slug": "cockerell-vii-sewing",
       "name": "Cockerell, Chapter VII: Sewing",
-      "descSnippet": "Chapter VII (Making up; Sewing; Materials for Sewing) of Douglas Cockerell, Bookbinding and the Care of Books (1901).",
+      "descSnippet": "Chapter VII (Making up; Sewing; Materials for Sewing) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901).",
       "domain": "bookbinding",
       "taxonomy": null,
       "itemCount": 18,
@@ -220,12 +220,12 @@
         "recommended": 5
       },
       "updated": null,
-      "hash": "sha256:155356e933627aea4b64acc3f02b26204cb15f24e09a66b7c0b97807e571e88c"
+      "hash": "sha256:eb4c1d3dc17ac70bea6ed6588e2dca30ebdf8966c1ccdc382e2c86d3814aa664"
     },
     {
       "slug": "cockerell-viii",
       "name": "Cockerell, Chapter VIII: Fraying out Slips Glueing up Rounding and Backing",
-      "descSnippet": "Chapter VIII (Fraying out Slips Glueing up Rounding and Backing) of Douglas Cockerell, Bookbinding and the Care of Books (1901).",
+      "descSnippet": "Chapter VIII (Fraying out Slips Glueing up Rounding and Backing) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901).",
       "domain": "bookbinding",
       "taxonomy": null,
       "itemCount": 13,
@@ -235,12 +235,12 @@
         "recommended": 6
       },
       "updated": null,
-      "hash": "sha256:44302f0b304afa72fa8a7809db5453acac68c6cb048fcc1e5769012c8729af71"
+      "hash": "sha256:548d9c3cadf49029f06220f5cd6cc1dc852959519b86c420c2afc47bb862ad94"
     },
     {
       "slug": "cockerell-x",
       "name": "Cockerell, Chapter X: Cutting in Boards Gilding and Colouring Edges",
-      "descSnippet": "Chapter X (Cutting in Boards Gilding and Colouring Edges) of Douglas Cockerell, Bookbinding and the Care of Books (1901).",
+      "descSnippet": "Chapter X (Cutting in Boards Gilding and Colouring Edges) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901).",
       "domain": "bookbinding",
       "taxonomy": null,
       "itemCount": 11,
@@ -250,12 +250,12 @@
         "recommended": 4
       },
       "updated": null,
-      "hash": "sha256:946bf42e9fa5257dfa1ab195b6c4981f402156b92a3b78ad98b9f9251f191424"
+      "hash": "sha256:ce6fb4a04488d5373c09dab8ebfa932c8fe9aa52dd614d0e596a1d4c8fa7602c"
     },
     {
       "slug": "cockerell-xi",
       "name": "Cockerell, Chapter XI: Headbanding",
-      "descSnippet": "Chapter XI (Headbanding) of Douglas Cockerell, Bookbinding and the Care of Books (1901).",
+      "descSnippet": "Chapter XI (Headbanding) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901).",
       "domain": "bookbinding",
       "taxonomy": null,
       "itemCount": 9,
@@ -265,12 +265,12 @@
         "recommended": 2
       },
       "updated": null,
-      "hash": "sha256:c0c6698a5e355186c9e695825543f6e6077cd70f453fbd0e90329e0a9019bf54"
+      "hash": "sha256:b3a834353edd2e2d00ebf4bb311be8f86e89111626c6c968b9fdf053a4c1a7e5"
     },
     {
       "slug": "cockerell-xii",
       "name": "Cockerell, Chapter XII: Preparing for Covering Paring Leather Cov ering Mitring Coiners Filling in Boards",
-      "descSnippet": "Chapter XII (Preparing for Covering Paring Leather Cov ering Mitring Coiners Filling in Boards) of Douglas Cockerell, Bookbinding and the Care of Books (1901).",
+      "descSnippet": "Chapter XII (Preparing for Covering Paring Leather Cov ering Mitring Coiners Filling in Boards) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901).",
       "domain": "bookbinding",
       "taxonomy": null,
       "itemCount": 20,
@@ -280,12 +280,12 @@
         "recommended": 6
       },
       "updated": null,
-      "hash": "sha256:69c89b774b0e7445a36466d05f45a43f641e75fb817941f4a12d8838a967debf"
+      "hash": "sha256:dd127f754b66223f12f0004dfd4fd50549adcd4ea77911c0349993c23128b6d6"
     },
     {
       "slug": "cockerell-xiii",
       "name": "Cockerell, Chapter XIII: Library Binding Binding very Thin Books Scrap Books Binding in Vellum Books covered with Embroidery",
-      "descSnippet": "Chapter XIII (Library Binding Binding very Thin Books Scrap Books Binding in Vellum Books covered with Embroidery) of Douglas Cockerell, Bookbinding and the Care of Books (1901).",
+      "descSnippet": "Chapter XIII (Library Binding Binding very Thin Books Scrap Books Binding in Vellum Books covered with Embroidery) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901).",
       "domain": "bookbinding",
       "taxonomy": null,
       "itemCount": 17,
@@ -294,12 +294,12 @@
         "required": 17
       },
       "updated": null,
-      "hash": "sha256:5798804da357f7013aae40dc21af55715fd0adce0cdbb21c08c7211f1bfed08a"
+      "hash": "sha256:f231a49f778a4a077444711d6b0c103d9688923f4bc9ad47e2915d3766d1019c"
     },
     {
       "slug": "cockerell-xiv",
       "name": "Cockerell, Chapter XIV: Decoration Tools Finishing Tooling on Vellum Inlaying on Leather",
-      "descSnippet": "Chapter XIV (Decoration Tools Finishing Tooling on Vellum Inlaying on Leather) of Douglas Cockerell, Bookbinding and the Care of Books (1901).",
+      "descSnippet": "Chapter XIV (Decoration Tools Finishing Tooling on Vellum Inlaying on Leather) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901).",
       "domain": "bookbinding",
       "taxonomy": null,
       "itemCount": 28,
@@ -309,12 +309,12 @@
         "recommended": 12
       },
       "updated": null,
-      "hash": "sha256:b007ec9136f200f4c4e441a4c75fb4c8ba158e4580feef76ea22090aeca9d397"
+      "hash": "sha256:4bda6ed71f845243c6cb8a455fad128c139b60908ca883d45a244c905afcee6d"
     },
     {
       "slug": "cockerell-xix",
       "name": "Cockerell, Chapter XIX: Leather",
-      "descSnippet": "Chapter XIX (Leather) of Douglas Cockerell, Bookbinding and the Care of Books (1901).",
+      "descSnippet": "Chapter XIX (Leather) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901).",
       "domain": "bookbinding",
       "taxonomy": null,
       "itemCount": 9,
@@ -323,12 +323,12 @@
         "required": 9
       },
       "updated": null,
-      "hash": "sha256:0ae28a13a8aebbb3647ab37576688b65074cd3478cdd9fef2fa46aeec8a3636a"
+      "hash": "sha256:5df685ff37b0a24e3e019486d9f3a360edc7d6b7cb11f37d5d8546511226d39f"
     },
     {
       "slug": "cockerell-xv",
       "name": "Cockerell, Chapter XV: Lettering Blind Tooling Heraldic Ornament",
-      "descSnippet": "Chapter XV (Lettering Blind Tooling Heraldic Ornament) of Douglas Cockerell, Bookbinding and the Care of Books (1901).",
+      "descSnippet": "Chapter XV (Lettering Blind Tooling Heraldic Ornament) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901).",
       "domain": "bookbinding",
       "taxonomy": null,
       "itemCount": 14,
@@ -338,12 +338,12 @@
         "recommended": 7
       },
       "updated": null,
-      "hash": "sha256:33c28930654ccc1b4da92a8632bfa5cfd5bc2eba7491dd3c5dd9117fc5b92aa7"
+      "hash": "sha256:97014127fb1e66571b9ecdbfccea433eee1d20c0dacf75238d319c10fae34f23"
     },
     {
       "slug": "cockerell-xvi",
       "name": "Cockerell, Chapter XVI: Designing for Gold Tooled Decoration",
-      "descSnippet": "Chapter XVI (Designing for Gold Tooled Decoration) of Douglas Cockerell, Bookbinding and the Care of Books (1901).",
+      "descSnippet": "Chapter XVI (Designing for Gold Tooled Decoration) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901).",
       "domain": "bookbinding",
       "taxonomy": null,
       "itemCount": 7,
@@ -353,12 +353,12 @@
         "recommended": 3
       },
       "updated": null,
-      "hash": "sha256:f556d84bc72e6120511fc9d19e12568a6603ed9ef4569e3eabb54ca54c9bf5ef"
+      "hash": "sha256:3b0c0acb713713654320903730a04ce63e325d67876508159d0a554649b2c56c"
     },
     {
       "slug": "cockerell-xvii",
       "name": "Cockerell, Chapter XVII: Pasting down End Papers Opening Books",
-      "descSnippet": "Chapter XVII (Pasting down End Papers Opening Books) of Douglas Cockerell, Bookbinding and the Care of Books (1901).",
+      "descSnippet": "Chapter XVII (Pasting down End Papers Opening Books) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901).",
       "domain": "bookbinding",
       "taxonomy": null,
       "itemCount": 9,
@@ -368,12 +368,12 @@
         "recommended": 4
       },
       "updated": null,
-      "hash": "sha256:d1509b0943e5f42463ec940664f2d8a11ec211630e6c576f046e0f75cf117adc"
+      "hash": "sha256:7000cb0ac0f424261449c8c888007d5c8a5bc806599891109aeb7a28308234a4"
     },
     {
       "slug": "cockerell-xviii",
       "name": "Cockerell, Chapter XVIII: Clasps and Ties Metal on Bindings",
-      "descSnippet": "Chapter XVIII (Clasps and Ties Metal on Bindings) of Douglas Cockerell, Bookbinding and the Care of Books (1901).",
+      "descSnippet": "Chapter XVIII (Clasps and Ties Metal on Bindings) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901).",
       "domain": "bookbinding",
       "taxonomy": null,
       "itemCount": 9,
@@ -382,12 +382,12 @@
         "required": 9
       },
       "updated": null,
-      "hash": "sha256:fd1a80d719510f099c270784bfadb49e2bc3f3e48bb5ee186d7c1906222e35dc"
+      "hash": "sha256:2c4963147250d462b4a0c49139b931de0b9a007c621f49e4e49337908a080fee"
     },
     {
       "slug": "cockerell-xx",
       "name": "Cockerell, Chapter XX: Paper Pastes Glue",
-      "descSnippet": "Chapter XX (Paper Pastes Glue) of Douglas Cockerell, Bookbinding and the Care of Books (1901).",
+      "descSnippet": "Chapter XX (Paper Pastes Glue) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901).",
       "domain": "bookbinding",
       "taxonomy": null,
       "itemCount": 11,
@@ -397,12 +397,12 @@
         "recommended": 3
       },
       "updated": null,
-      "hash": "sha256:a3e0a3084bc0a91bc0f878d1cfe6d7e32bb3f553d9c85afda71b932754da163d"
+      "hash": "sha256:078e75565c275188a8415e0293bd72df892bb02ff23768e092db3ac2cdfe0ea6"
     },
     {
       "slug": "cockerell-xxi",
       "name": "Cockerell, Chapter XXI: Injurious Influences to which Books are Subjected",
-      "descSnippet": "Chapter XXI (Injurious Influences to which Books are Subjected) of Douglas Cockerell, Bookbinding and the Care of Books (1901).",
+      "descSnippet": "Chapter XXI (Injurious Influences to which Books are Subjected) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901).",
       "domain": "bookbinding",
       "taxonomy": null,
       "itemCount": 5,
@@ -412,12 +412,12 @@
         "recommended": 1
       },
       "updated": null,
-      "hash": "sha256:78fa28882b4e08d7a03ef27f6e975f57ba921cfbaa46e723f2a7fccc6413d56b"
+      "hash": "sha256:d17ea823d2f36587a73643d2af87cfa411763a52fffbb4facc65337b744cc713"
     },
     {
       "slug": "cockerell-xxii",
       "name": "Cockerell, Chapter XXII: To Preserve Old Bindings Re backing",
-      "descSnippet": "Chapter XXII (To Preserve Old Bindings Re backing) of Douglas Cockerell, Bookbinding and the Care of Books (1901).",
+      "descSnippet": "Chapter XXII (To Preserve Old Bindings Re backing) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901).",
       "domain": "bookbinding",
       "taxonomy": null,
       "itemCount": 14,
@@ -427,12 +427,12 @@
         "recommended": 2
       },
       "updated": null,
-      "hash": "sha256:7b131109dbe87bb9de1fe4e16e104610b17c770f30f680f794795912922b5bfd"
+      "hash": "sha256:1ffa021400c5d3d43149714bdb2b0b900309cc05bddab6925b7a4c712eb53667"
     },
     {
       "slug": "cockerell",
       "name": "Bookbinding, and the Care of Books",
-      "descSnippet": "Douglas Cockerell, Bookbinding and the Care of Books (1901). Public domain. Full book, all chapters.",
+      "descSnippet": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901). Public domain. Full book, all chapters.",
       "domain": "bookbinding",
       "taxonomy": null,
       "itemCount": 22,
@@ -441,7 +441,7 @@
         "required": 22
       },
       "updated": null,
-      "hash": "sha256:6edc8dfddf98a2606a2a53c8b2b14328ee9cd3b6ec5a3274c041258faf60f1a4"
+      "hash": "sha256:00fc09f28601be926c6df1cb58a3e757a727efb61f674fdcca63c9bc4fb80527"
     },
     {
       "slug": "coffee-starter",

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:97d33e7005aa50fe769c2f2f324601f35a2e5204dcf9554491123b15adc136e9",
+  "content_hash": "sha256:82bd95967a65ddf31381640d97da495986cd610436ac6aca44968c5522bb7751",
   "created": "2026-06-24",
   "description": "The opening sequence of bench preparation that turns received sheets or an old volume into clean ordered sections ready to sew: gather and fold, collate, guard weak leaves and plates, and where the book is being rebound, pull it to pieces, refold, and knock out old joints.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter II, p.33. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter II, p.33. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/33"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

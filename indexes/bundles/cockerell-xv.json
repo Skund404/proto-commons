@@ -1,7 +1,7 @@
 {
-  "content_hash": "sha256:33c28930654ccc1b4da92a8632bfa5cfd5bc2eba7491dd3c5dd9117fc5b92aa7",
+  "content_hash": "sha256:97014127fb1e66571b9ecdbfccea433eee1d20c0dacf75238d319c10fae34f23",
   "description": {
-    "en": "Chapter XV (Lettering Blind Tooling Heraldic Ornament) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+    "en": "Chapter XV (Lettering Blind Tooling Heraldic Ornament) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901)."
   },
   "domain": "bookbinding",
   "emitter": "opg://commons-seed",
@@ -9,98 +9,98 @@
   "ia_item": "bookbindingcareo00cockrich",
   "items": [
     {
-      "hash": "sha256:015e48aef73b758a072af75cdfefa1a3d0a26a4bbf7fcb59dc15ee1168e9e944",
+      "hash": "sha256:4e016d9df55d080b6a5f928b04f85153e78bd30949863cfa716d3ab3626fdeda",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "arming-press"
     },
     {
-      "hash": "sha256:56f15cd45f2f5d5ff8faeb0e0a87f55e59b9aff5256b58727c0e00c4630e670c",
+      "hash": "sha256:da3a039612d48012d0fe7f5281445de553977bbc753178b4ea34a58d56aaf9a5",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "arms-block"
     },
     {
-      "hash": "sha256:8c2557b149a1eda930ba18c32df2a85b8469b2ceb8e1bfd78ae08d232ddf1a4d",
+      "hash": "sha256:005f7542bf9f538afb4da5645e954ba8bd651683867c3d49f997d35d62ab402b",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "arms-blocking"
     },
     {
-      "hash": "sha256:fea35f77b0aac143d41545f0cb376f3f9effa1842bcf2c8b7f95eb7e0b4a5bbb",
+      "hash": "sha256:24e52d8ef22ad9c559ada5fb30e53ca27501a99e38121116ef935375addb2d27",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "binders-type"
     },
     {
-      "hash": "sha256:24074392b207eb6f3a3880f96a948652c35ff23ceed1b3a73aa5165b05725b1c",
+      "hash": "sha256:a70264f8d161e0a404c38ade97f76353d04ae019eb59ab44dd9d592f5b204c52",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "blind-tooling"
     },
     {
-      "hash": "sha256:ec3a6c0b8a9a75e19ff39606f9fd5d7c7b9bfc82043d6062907c6cec97f3bc9a",
+      "hash": "sha256:576c67cb56a01020757cf2b892c662bdd61747d8dd50d6ac2ba470a510a43ea9",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "dividers"
     },
     {
-      "hash": "sha256:7e1c8f7023525f3b7379faa5593cb3bbb473c1d58efbfbd9f3cc56e53354cf6b",
+      "hash": "sha256:2b8f985485449427fd86aba03958844ba4c73a75e41a0cad7465c888f195dd9a",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "fillet"
     },
     {
-      "hash": "sha256:c8021a6d5872a2ffb390ca697f0e830dec06163a264ca47e7fbcfa0995b6a50a",
+      "hash": "sha256:5cb9a53d125c95f16b52639484213b2dfafbe271aa396d5ef1f42e071e4aee52",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "glaire"
     },
     {
-      "hash": "sha256:e87e517f0e58ca1cee9993413c69b8614b54e54ae2bdb3d2e87cc1075a9704f7",
+      "hash": "sha256:50c2cf3aaca7c05c82e1b735646c0eda58900fba5f9cc3bfb0b0e916daa77092",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "gold-leaf"
     },
     {
-      "hash": "sha256:b2852d1a959b72187a3bc02a397dc135f907cb8e303b1aecac582b9427543aa0",
+      "hash": "sha256:b23671053aae12d684268b9f350b93819f8732f9ca84c7784aae745d4d8e9e52",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "gouge"
     },
     {
-      "hash": "sha256:db36f6e6011fd979fe5bac90585ad3e786e17d5c7975c314c8d4f534a5af3f9b",
+      "hash": "sha256:ea8a361887dd5dc3f1598a973e9322cc9f08b6526df657f58b882353d3304777",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "handle-letter"
     },
     {
-      "hash": "sha256:da095429a34797d9fd2a0eb1efad6871780ae34f8361ed341c52356b2701cb20",
+      "hash": "sha256:7c2ac8260d0cf4ebf4f252ce74a626710a325a8f2d39cc1209213cfd2023cffd",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "leather-work"
     },
     {
-      "hash": "sha256:27c13db14b3873e776f37de95afb0fd18c8daeaffff8a3dffb7614bdc8fcac5d",
+      "hash": "sha256:e6ee5cc593e80b0943950a90bc4bc5e00b847627bee8d52baef1ab843c72fcf2",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "lettering"
     },
     {
-      "hash": "sha256:f75f297435ee724c9ab32bad80382f96848a6b28e8c977e346077d54a4ae3c60",
+      "hash": "sha256:db03e54f073a86f1d8c0d87cdfb21e00d2a2ed2f40357c971e76dc0fdf20f679",
       "kind": "workflow",
       "record_class": "primitive",
       "role": "required",

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:e01ccdfb91b91f689f3b0036f942d8cd747c249f68e5960df2bc4b192f69dec8",
+  "content_hash": "sha256:dd343b8ae8bcef7e148d5ec921db2d87ae90cc04e70b677f563dc651448e9000",
   "created": "2026-06-24",
   "description": "Trimming the three edges of a book after its boards have been attached, ploughing each edge in turn while the boards are held in their bound position so the squares come out even. The head is cut first, then the tail, and the fore-edge last after its curve is straightened.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "advanced",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter X, p.139. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter X, p.139. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/139"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

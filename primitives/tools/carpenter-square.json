@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:6d471a304a00c1ac8b574b5b6919bc2f156dd0753893e0ae2713ec49cefd1907",
+  "content_hash": "sha256:6ff295d3aebfd0078ff596a1f0dea6fafd8b2b7d1240f59552df7fbd5ac90efa",
   "created": "2026-06-24",
   "description": "A right-angle guide used to draw the band and head and tail lines square across the back of the gathered sections before sewing.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VII, p.98. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter VII, p.98. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/98"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

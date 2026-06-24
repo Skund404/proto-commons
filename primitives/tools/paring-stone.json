@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:381f0e75873e221adf580e76b831ce44edae4fc5feccdcfcc978c103911e7dd2",
+  "content_hash": "sha256:c225193fbbfac6fb15c6ef49c568504c6b99e2cb6ef361ee2a77d1977fc0d627",
   "created": "2026-06-24",
   "description": "A flat, smooth, hard slab that serves as the working bed for shaving leather. Its even surface lets the blade run level so the skin is reduced uniformly, and it also takes the rubbing that keeps the knife sharp.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XII, p.158. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XII, p.158. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/158"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

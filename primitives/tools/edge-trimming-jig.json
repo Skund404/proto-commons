@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:ba14e6211e88cb4a00a6effe7edf36d49e1a84419a58f14d9425bbbeab1d53c9",
+  "content_hash": "sha256:0dc55da231add8f8a8ea3eee5a9f2eff088557b95f91fe31d5a1b8c996fdc79e",
   "created": "2026-06-24",
   "description": "An adjustable bench fixture for cutting the projecting edges of several gathered sections to a uniform width before sewing. A guide board or straight edge is set to the desired leaf size and the surplus paper is sliced away against it, with a backing board protecting the bed from the blade.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VI, p.93. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter VI, p.93. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/93"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:83866b4a1ebcb6e6052956fc472c9b6ff76b7e64d05f1ed74ab18614ac16a322",
+  "content_hash": "sha256:dca30f1b0005778dea29fe4d1c739a440f983fd8a2123a31b6cb78e1c322ad7a",
   "created": "2026-06-24",
   "description": "Decorative paper carrying a swirled, multi-coloured pattern, sometimes pasted up as a doubled sheet for paste-downs. Cockerell warns that the stock is usually weak and unfit for end papers unless it is genuinely tough and durable.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter V, p.83. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter V, p.83. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/83"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:b38a14638b890ec82464d427f885b403b6c74083f00b50124398f20deea74122",
+  "content_hash": "sha256:06dd8eb25217f2316195eb32d7299bffecbea2ae17314afc8beca6ab771e885b",
   "created": "2026-06-24",
   "description": "A rigid bar with a true edge laid down to guide a knife along a clean line. The worker presses hard on the guide and lightly on the blade so the cut follows it exactly.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter III, p.54. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter III, p.54. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/54"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:3711396b0b17c88bf760ab40da4922f2ed7b9f9ae62434f1d3c807b8bdf43760",
+  "content_hash": "sha256:a4498fa1046f0597bde7dbf0a5af7950bd9c5a1b4803b0626c0b9db36854ff30",
   "created": "2026-06-24",
   "description": "The sequence that prepares a sewn textblock for its boards: the cord slips are frayed out, the book is glued up in the press, then the spine is rounded and backed to set its curve and joint shoulder. Rounding and backing are done after the glue stops being tacky but before it sets hard.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VIII, p.119. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter VIII, p.119. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/119"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:019e98b7b2e6cfab07f96c2ca4bec86c45913886694dd8aea684485b22466055",
+  "content_hash": "sha256:dc695a09b79abdc3f8632d353ae80f618227a9821f9c6b8a4e7530ef5c4bf82f",
   "created": "2026-06-24",
   "description": "Letting a small plate or leaf into a window cut in a larger sheet so it sits within a full-size page. The opening is marked from the squared plate and cut slightly undersize so its inner edges overlap; the overlap and the plate are pared and pasted so the join stays no thicker than the surrounding frame.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "advanced",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter III, p.53. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter III, p.53. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/53"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

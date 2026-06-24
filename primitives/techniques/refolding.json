@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:6f60c07bd095d404fe746bc71df32dff76fc0e40754c4aaf92494b51b1fe99ec",
+  "content_hash": "sha256:65213b55b9303508c8678cebfd0eaf53af8db784345c55aa52c8a28ae8cac593",
   "created": "2026-06-24",
   "description": "Re-adjusting carelessly folded leaves of a book to be rebound, holding each pair to the light so the print registers and squaring the heads against a square, best done before the volume has been cut.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     "skillLevel": "advanced",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter II, p.33. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter II, p.33. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/33"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

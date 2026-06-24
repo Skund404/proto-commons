@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:37d913467d492f7a46de560d2f04d7da85f0e2c8ba48a2caaa86a6ea414fe05d",
+  "content_hash": "sha256:88bec6842e8a3abe71c504a3cd60aadbb51b9ff14b1222290101f662cdf04399",
   "created": "2026-06-24",
   "description": "A bench brush for applying paste, bound at the ferrule with string or zinc since copper or iron will discolour the paste.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XX, p.288. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XX, p.288. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/288"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

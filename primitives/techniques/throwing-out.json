@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:281157c77ff9d0bfa29b38b1e33077f6c559ba89b3bbfaf10365b8059a194c74",
+  "content_hash": "sha256:63914b42b13519e90490038eb6372af8b773f9b4f924946e2aef222dd920fa92",
   "created": "2026-06-24",
   "description": "Mounting a frequently consulted map or diagram on a wide guard, often placed at the end of the book, so it opens clear of the text and stays readable while the book is in use. Large folded sheets are backed with cloth and matched by guards in the spine so the volume still shuts.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter III, p.53. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter III, p.53. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/53"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

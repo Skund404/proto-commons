@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:9a3b335366c5c1b25d275785d14ef6fee07e3ee6c979ac3cef182ec7a5830687",
+  "content_hash": "sha256:bba1bb13f44b6e6b1e2a00841445c0182623c01556160588f1ad804e9bf59134",
   "created": "2026-06-24",
   "description": "Bench cutting tool that rides on runners along a press and carries an adjustable knife advanced by a screw. Drawn back and forth, it shaves a true square edge on boards and on the edges of a book.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter IX, p.127. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter IX, p.127. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/127"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:7ee125fc533e35c45119f7b0a59d496e3559342e1195101e06bf0bf108919b18",
+  "content_hash": "sha256:187d8a5356e53ff296d8adc32aeaeb56b8d040b7a6cce0b29f3c9853362a5fa9",
   "created": "2026-06-24",
   "description": "A strong cord of twisted animal gut used for a minimal bead-and-loop fastening: a bead is threaded on, the doubled ends are laced into one board, and a matching loop laced into the other catches over the projecting bead.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XVIII, p.261. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XVIII, p.261. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/261"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

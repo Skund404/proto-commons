@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:e0e5527ddefa4f2720822a0d6a08020207bdfc21b24ea4a49ecb30499cb34c32",
+  "content_hash": "sha256:7eca12b7d303bc4143b69f49e37f7627ebd4b9b829dc815acf848170c942a63a",
   "created": "2026-06-24",
   "description": "An ordered procedure for sewing a worked headband onto a vellum or cord core at the head of a book, from setting the boards and book in the press through forming and beading the silk, tying down at intervals, and finishing off the ends.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XI, p.147. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XI, p.147. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/147"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

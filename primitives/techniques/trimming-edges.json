@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:6bea556f05382486e403d6e77a9293b1419112ea2255b6ccea0612c528bc10b8",
+  "content_hash": "sha256:e7ab14f9d3b263b39ebc836607bfb4107a8c566e5894ae37e617ea8300d3ea6f",
   "created": "2026-06-24",
   "description": "Cutting the leaves of the gathered sections to a chosen size while the book is still in sheets, done when the edges are to be gilt before sewing. The head is first squared against a try square, then the projecting fore and tail edges are pared to a guide board, with judgment used to leave the smaller pages as proof of an uncut book.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VI, p.92. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter VI, p.92. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/92"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

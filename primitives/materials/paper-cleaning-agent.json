@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:d68c1a81e47676d48774541ebafb734a69d5445bd8d4651b1450913c91385a02",
+  "content_hash": "sha256:c9abe4829d107b1f1acb7314273c05008ef76b4cb6fd7da9fbb0723c269fe2dc",
   "created": "2026-06-24",
   "description": "The chemical reagents used to bleach and lift stains from old leaves, chiefly permanganate of potash and sulphurous acid in sequence, with milder options such as alum water, curd or soft soap, dilute hydrochloric acid, ether for grease, and various tinting agents for matching washed sheets to the rest of a book.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter IV, p.71. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter IV, p.71. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/71"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

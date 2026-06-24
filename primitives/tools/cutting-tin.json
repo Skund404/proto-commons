@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:420e03b2e000f8234509acce37ea4b80204d82e1321ce889be29c51068a84f43",
+  "content_hash": "sha256:9e556d2f2a81b9c2920e02d7cb635c8a37ae4f49686849d3a0ab132bd31714cc",
   "created": "2026-06-24",
   "description": "A thin protective metal plate laid between leaves of a book so a sheet folded over it can be trimmed with a knife without cutting or marking the pages beneath.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XVII, p.254. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XVII, p.254. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/254"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

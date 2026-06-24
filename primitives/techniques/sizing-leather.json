@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:4e91553222c0dc0a62550c6a541d01b8bde31fca433ac6a1801fabbee7570c2a",
+  "content_hash": "sha256:cb8b703c9c8a29333c6b0e7ecd6c089dd2460c2885bbc843d42d2e9d4d3c1eab",
   "created": "2026-06-24",
   "description": "Sealing porous leather such as calf or sheep before tooling by washing it with paste-water and then with size, so the glaire and gold sit cleanly on the surface.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIV, p.197. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIV, p.197. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/197"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

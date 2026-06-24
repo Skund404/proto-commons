@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:9f36d9a426d7e12746f41b6e9fb732e3c26930499286039d231dea8f2395876c",
+  "content_hash": "sha256:ee83f5dfaad6ed90c98b2ff20e9aca92accc31a2e12a1236b459402b8ff10dae",
   "created": "2026-06-24",
   "description": "Pig hide, naturally strong and long-lasting, especially when alum dressed. Cockerell notes that undyed and white pigskin wears very well, while many dyed pigskins are spoiled by improper tanning, and that its hardness can limit it on flexible work.",
   "emitter": "opg://commons-seed",
@@ -31,11 +31,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIX, p.263. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIX, p.263. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/263"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

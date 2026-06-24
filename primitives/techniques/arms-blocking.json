@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:8c2557b149a1eda930ba18c32df2a85b8469b2ceb8e1bfd78ae08d232ddf1a4d",
+  "content_hash": "sha256:005f7542bf9f538afb4da5645e954ba8bd651683867c3d49f997d35d62ab402b",
   "created": "2026-06-24",
   "description": "Stamping an owner's coat of arms onto a cover using an engraved metal block impressed under heat in a press. The heraldry is rendered simply in solid gold, set toward the upper centre of the side, and brought up with a single wash of glaire under one firm, brief stroke.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     "skillLevel": "advanced",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XV, p.227. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XV, p.227. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/227"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

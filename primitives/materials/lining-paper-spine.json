@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:4a5581ecdb71161ae6e731013ea53e27acff595f7754da74e3374b24ac209c2d",
+  "content_hash": "sha256:78ca22d680bba4ad2090ac7183a79bc009ed69f2cd12d4cb933f6497539ac573",
   "created": "2026-06-24",
   "description": "A stout reinforcing paper glued across the back of a textblock before covering to strengthen the spine. A tough brown or other heavy sheet is laid over the back and headbands; on weighty volumes linen or thin leather is used in its place. This is a structural spine reinforcement, not the general text-leaf stock.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XII, p.152. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XII, p.152. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/152"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

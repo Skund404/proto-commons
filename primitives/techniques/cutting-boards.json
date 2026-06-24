@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:37e2205235eae2d013dc6a0e3b71fbf70a25314243e3eac1fda1e9386116fe12",
+  "content_hash": "sha256:68c645cebfab7cdb8ab3f2b0510bea1e038a2f5c6e4bb110c7db7bf46bd7bad7",
   "created": "2026-06-24",
   "description": "Trimming cover boards to a clean square shape: rough-cutting to size, then finishing each edge true in the plough, smoothing the burr with a folder, and marking the remaining edges square with the aid of a try square and compasses.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter IX, p.124. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter IX, p.124. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/124"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

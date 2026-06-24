@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:29d970d4e73b67dfc5fb0a1363bf93e116862f31edebbb4ce5a3551c97cba9b7",
+  "content_hash": "sha256:cac15dd6c0105a92f328921924153c08180d8d888f77175f85785390888ab5a8",
   "created": "2026-06-24",
   "description": "Repairing torn or missing parts of a sheet by selecting paper that matches in tone, texture, and wire pattern, paring both the patch and the original edge thin, then pasting them so the joint does not exceed the leaf thickness. Tears across print can be bridged with strips of thin near-transparent Japanese paper, and damaged section backs guarded along their length. Cockerell advises placing new mending paper on the back of the sheet and keeping every tool and the paste perfectly clean.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter IV, p.67. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter IV, p.67. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/67"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

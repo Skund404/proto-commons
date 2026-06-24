@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:d326b9289a0c2b3d18a105609bd8b5e066e6ffb77a15f53c45c381acda5676fe",
+  "content_hash": "sha256:bb6f20483c0eb9edc0b3b172d17cf807c1a2114a361930ea4d592fbafee52726",
   "created": "2026-06-24",
   "description": "Paste beaten thin with water into a milky liquid, sponged evenly over porous leather as a first wash before sizing.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIV, p.197. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIV, p.197. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/197"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

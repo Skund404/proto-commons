@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:b79303d9e7b48c95cf8ea6fd8ec8e8efe6164d9b4fe9f249372dc237c655d3a4",
+  "content_hash": "sha256:8e016bebada8e40ad455ad9d9a67db51991c15bfd6a920d6b3aba14763917197",
   "created": "2026-06-24",
   "description": "Paired wedge-edged boards clamped against each side of a textblock in the press during backing. Their bevelled edges sit a short way below the spine so the projecting sections can be hammered over them to form the shoulder.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VIII, p.114. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter VIII, p.114. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/114"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

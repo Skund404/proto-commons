@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f8ca632a7dd2d37f86e6d4d26d21598749ecb6e9dca7a974bc95f2482caa6d9c",
+  "content_hash": "sha256:6d04e769c27356a22960a8306592db8319e5b9992a48b2c3583615c166e1424a",
   "created": "2026-06-24",
   "description": "Building the laced and cleaned books into the standing press under even pressure, with tins set into the joints, to set the form of the spine and joints permanently. Hand-printed sheets and plates are protected with tissues or tins, and the books are left under pressure overnight.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter IX, p.124. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter IX, p.124. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/124"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

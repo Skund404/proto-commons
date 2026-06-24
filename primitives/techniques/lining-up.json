@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:754d55b6c21d9799dd81089f04253e66ce5e0897ae13a57d86354c97922b997c",
+  "content_hash": "sha256:a7ef66666af9ff13fe5869a1cf479beffcd767428bd43bfafe66dedb370ac546",
   "created": "2026-06-24",
   "description": "Reinforcing the spine before covering by glueing a stout paper, and on heavy books a linen or thin leather strip, across the back and over the headbands. Once dry the surplus above the headband is trimmed and the back rubbed smooth to clear any ridge.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XII, p.152. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XII, p.152. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/152"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

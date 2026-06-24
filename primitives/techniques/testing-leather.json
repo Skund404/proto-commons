@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:4bcaf87aa18ca0680b1f54cbe15b5ccf1b85f583b81ef073c183965552a717a6",
+  "content_hash": "sha256:7b26eb5de5d6c0cefba0015b257dd3057f0c5c38ed0d550f682606f7c2190162",
   "created": "2026-06-24",
   "description": "Assessing a hide for durability before committing it to a binding. A simple manual check is to tear the skin: sound stock resists tearing and shows long silky fibres at the break, while weak stock parts easily and shows short curled fibres. Cockerell stresses that this mechanical check is only a first filter, since the strongest hide is not always the one that best resists light, heat, and gas fumes, and that reliable judgement of lasting power needs chemical analysis.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIX, p.263. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIX, p.263. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/263"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

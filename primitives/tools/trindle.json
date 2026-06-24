@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:37bc5211770fddbae94e59adec7ccd5893f54af60d2e47c7aba9b60d82534aa3",
+  "content_hash": "sha256:e9a3b15e418e948ac2630a2e462dd86d21366fd97f404a07fda59929db95a2fc",
   "created": "2026-06-24",
   "description": "A pair of small flat steel pieces slipped across the spine from inside the boards. They let the binder pull the rounded back temporarily straight so the fore-edge can be trimmed or gilt flat, then are withdrawn before the leaves are lowered into the press.",
   "emitter": "opg://commons-seed",
@@ -32,11 +32,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter X, p.142. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter X, p.142. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/142"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

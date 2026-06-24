@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:8a1b3bcab847ee96a25d1f6ef2f69009b5a96f07441b454242f8324cc3a4b56c",
+  "content_hash": "sha256:e1e156c1e3c712629e598da9d3fc417a148d74ba5c5b92c632c103c5aa70631d",
   "created": "2026-06-24",
   "description": "Flattening the raised grain of leathers such as morocco or seal by damping a board and pressing it against a plate in the standing press, done when a cover is to carry much finishing.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIV, p.192. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIV, p.192. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/192"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

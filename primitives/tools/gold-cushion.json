@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:cde579ca094b0110c8fe20d05b7b4280aa9965005af8f47065cdf3441238713c",
+  "content_hash": "sha256:1090edc23cfb5b7418d5c24396d6ef7f49c8d13d526636fd2f4bafe8e72eb2b3",
   "created": "2026-06-24",
   "description": "A flat padded board on which leaves of gold are laid out, breathed flat, and cut to size. It is dusted with a little powdered abrasive so the gold cuts cleanly and must stay grease-free.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIV, p.199. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIV, p.199. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/199"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:9382561ba3144fea075785897b12a3b048ef677119da6713f773201e0e69130f",
+  "content_hash": "sha256:8bebdc144332bd1abae864344e8b8a8a1feee393cbdeb290ada6aade3b27ad73",
   "created": "2026-06-24",
   "description": "Sewing the sections of a book onto raised supports so the thread passes around each cord; this produces a flexible back that opens well and supports that can be laced into the boards.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     "skillLevel": "advanced",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VII, p.98. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter VII, p.98. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/98"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f79c7511ed75e91e20338d7d2b5404e4c96d53b4d0f57e781d0b23b96c5a48f9",
+  "content_hash": "sha256:8b9cabb151e5bc6a175eb95ef2be3a51f729f3f97755ba08d820d71bcd96a00c",
   "created": "2026-06-24",
   "description": "Decorating a cover so the tool impression is left bright in gold: the leather is washed and sized, glaired, gold leaf laid on, and the heated tools struck through the gold before loose gold is cleaned off.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "advanced",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIV, p.188. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIV, p.188. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/188"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

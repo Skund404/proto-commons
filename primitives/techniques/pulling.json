@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:04ddf81542580b2efa36b96d45900344c40d204a3eb5b6ba5903cf4645f871b1",
+  "content_hash": "sha256:bdf2f159f066472dce09aebf19c46363a0d6787480a9bd5f5b18225f347663cf",
   "created": "2026-06-24",
   "description": "Taking a bound volume apart into its separate sections: cutting laced slips and bands, removing the old back, softening hardened glue with paste while damp, and detaching plates by tearing or soaking so the leaves can be rebound.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     "skillLevel": "advanced",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter II, p.33. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter II, p.33. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/33"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

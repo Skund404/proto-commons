@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:db36f6e6011fd979fe5bac90585ad3e786e17d5c7975c314c8d4f534a5af3f9b",
+  "content_hash": "sha256:ea8a361887dd5dc3f1598a973e9322cc9f08b6526df657f58b882353d3304777",
   "created": "2026-06-24",
   "description": "An individual brass letter mounted on its own wooden handle, heated and pressed by hand to impress one character at a time. Working letters singly gives the finisher freedom to arrange spacing and line breaks, at the cost of speed.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XV, p.215. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XV, p.215. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/215"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

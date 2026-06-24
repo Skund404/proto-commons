@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:27c13db14b3873e776f37de95afb0fd18c8daeaffff8a3dffb7614bdc8fcac5d",
+  "content_hash": "sha256:e6ee5cc593e80b0943950a90bc4bc5e00b847627bee8d52baef1ab843c72fcf2",
   "created": "2026-06-24",
   "description": "Impressing a title in gold along the spine or side of a book, using either single handle letters for freedom of arrangement or set type for regularity. Cockerell stresses that the lettering must remain clearly legible and should comfortably fill its panel.",
   "emitter": "opg://commons-seed",
@@ -32,11 +32,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XV, p.215. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XV, p.215. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/215"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

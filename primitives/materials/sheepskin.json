@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:7ae916e88f34b2c78c5f56a534d0a54f78e0196329515a2775e6e8b493a39c36",
+  "content_hash": "sha256:9e873b49f060cd5e1b19e9c7f665baa3eb9bbaf816d4299e83bf4cbb47fe440d",
   "created": "2026-06-24",
   "description": "Sheep hide, sold under names such as roan, basil, and skiver. Properly tanned it is durable though soft and woolly, but much commercial stock is poor and artificially grained to imitate costlier skins, a practice Cockerell warns against.",
   "emitter": "opg://commons-seed",
@@ -31,11 +31,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIX, p.263. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIX, p.263. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/263"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

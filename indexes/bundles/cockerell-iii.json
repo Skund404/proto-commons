@@ -1,7 +1,7 @@
 {
-  "content_hash": "sha256:083391743c0fa45eaff1e04519c90d20a5cd6228de9b548050e4c13e745e1afc",
+  "content_hash": "sha256:87bb6acdf0622b002cd6410a09a6f17bfdd0e9f2a77611dc4dc9f9fae5a6e036",
   "description": {
-    "en": "Chapter III (Guarding Throwing Out Paring Paper Soaking off India Proofs Mounting very Thin Paper Splitting Paper Inlaying Flattening Vellum) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+    "en": "Chapter III (Guarding Throwing Out Paring Paper Soaking off India Proofs Mounting very Thin Paper Splitting Paper Inlaying Flattening Vellum) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901)."
   },
   "domain": "bookbinding",
   "emitter": "opg://commons-seed",
@@ -9,133 +9,133 @@
   "ia_item": "bookbindingcareo00cockrich",
   "items": [
     {
-      "hash": "sha256:7debc2f674e0d19a3bd58ccbfa9c1a9b7e961fd84bd258e2af47574726caa006",
+      "hash": "sha256:8d8d088b6de455ccd2a456c37eac588f9ac4efbf64a6a167522bfba07e9f76c9",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "blotting-paper"
     },
     {
-      "hash": "sha256:ec3a6c0b8a9a75e19ff39606f9fd5d7c7b9bfc82043d6062907c6cec97f3bc9a",
+      "hash": "sha256:576c67cb56a01020757cf2b892c662bdd61747d8dd50d6ac2ba470a510a43ea9",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "dividers"
     },
     {
-      "hash": "sha256:dcf94fa3bce44dc4f620243c6855d1b95588f5049e9169b9d3f4c72fa8e5897f",
+      "hash": "sha256:b8507b3a9e34fcc020e46c02dc0c597bd8a2ac4ee71db6bc541114653bddf975",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "flattening-vellum"
     },
     {
-      "hash": "sha256:3d43c3f081a63ec671c64dbe63996b080596efb6776576e05b7b93d01ac7de65",
+      "hash": "sha256:22338de32fe0e93210663441b9ec7157b08d6a8bb8820c67b93f8149b2a3812b",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "folder"
     },
     {
-      "hash": "sha256:177575e6215355137512e359e131b2ca8f1a5b3b629ee233884f40694041f16f",
+      "hash": "sha256:f27290b645883ffd6df911992aaf4784ceff6db96c2c3a1dfbf8b668d3f7920a",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "guard"
     },
     {
-      "hash": "sha256:a5db01ff7650fcb743a23aad8593724d08cf9c82b846ff0a8c804bb67ea445b7",
+      "hash": "sha256:871f7b8e11d020586c4533e92300ff52eb462bc2d39fc9c92ca194a72110b286",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "guarding"
     },
     {
-      "hash": "sha256:6e7e05f49b6450135004c1c046db757852662f33ea4555c2e16e62da1ce74d2e",
+      "hash": "sha256:b9707a39e0573a0c864e60ca3c2d571015cb2ca8961f3def56c985f758eaffa1",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "hinging-plates"
     },
     {
-      "hash": "sha256:019e98b7b2e6cfab07f96c2ca4bec86c45913886694dd8aea684485b22466055",
+      "hash": "sha256:dc695a09b79abdc3f8632d353ae80f618227a9821f9c6b8a4e7530ef5c4bf82f",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "inlaying"
     },
     {
-      "hash": "sha256:30e293352a05a6270dc945e05b548c2af3799375bd32f6176ba14ec9fb2a87d5",
+      "hash": "sha256:3043a44c83d8eb4973d5450170c42abbf30ad10c2f43d5826e2f50f27ead5e7f",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "mount-cutters-knife"
     },
     {
-      "hash": "sha256:fba50254c29300fdf7d0fb669025089aef3e6fa2578c3b6902e9484858525a3a",
+      "hash": "sha256:2a19fc520c11c90cbe6eebbea381a647382f20054cce0e2a0055407e68e966f1",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "mounting-linen"
     },
     {
-      "hash": "sha256:59204838e9bfcaf50701c994bdafc3511f159ebc1268b6dd9bdccf598003a525",
+      "hash": "sha256:6a10ea9c732c4b9cccf46822008ea0a65878446dbbd8da6d2d05e1c100993e43",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "mounting-thin-paper"
     },
     {
-      "hash": "sha256:bcf1d16a7a5b7d52150976efa58473a1837614f5c603498dde79903aeae5e4ce",
+      "hash": "sha256:5a2851f2bb520e10df937051b98dbbff273fb461b7d5f602a17cddc1329c2f15",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "paring-knife"
     },
     {
-      "hash": "sha256:84f23815907fe58ea6e51e4979009923314d1fe98fcc7e82566a0035ee318eab",
+      "hash": "sha256:b22a87abbbd5756540362346ac00c0bc9d368c46680b27cde18c2784a0e81b6f",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "paring-paper"
     },
     {
-      "hash": "sha256:3aa5fe58004f1bcc81f08154128863a3a38d720d332461f11771cc103f7cbcd8",
+      "hash": "sha256:18f0349efa7e4ec5ab301e00f00bc342bac94301196f182fd43336a82a1e89f6",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "paste"
     },
     {
-      "hash": "sha256:31e39dea7c6de1aa64227165677633e9a861e1a38903b78a3039c4a37581379b",
+      "hash": "sha256:3b439d36f7260b79bf0d75a6d83a1e42b1bf1b0d9074d195d4829a24e102b16b",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "soaking-off-india-proofs"
     },
     {
-      "hash": "sha256:058dbd64b2f4fd3bad810ddb5510065dc87f665072db8b06432c8d8cebfadce5",
+      "hash": "sha256:e8cad789f8c96d618b21db84051dc754fea7090e5911185bef5c766102e91c8c",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "splitting-paper"
     },
     {
-      "hash": "sha256:b38a14638b890ec82464d427f885b403b6c74083f00b50124398f20deea74122",
+      "hash": "sha256:06dd8eb25217f2316195eb32d7299bffecbea2ae17314afc8beca6ab771e885b",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "straight-edge"
     },
     {
-      "hash": "sha256:281157c77ff9d0bfa29b38b1e33077f6c559ba89b3bbfaf10365b8059a194c74",
+      "hash": "sha256:63914b42b13519e90490038eb6372af8b773f9b4f924946e2aef222dd920fa92",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "throwing-out"
     },
     {
-      "hash": "sha256:7f94a9d58003fe9bbecbc778f16e315193320da90b6232563400dd2ee3ec30af",
+      "hash": "sha256:1b1539c86d6b97f9822cf80505b55ed6a10b0cbdedc9e63fa971e214fb465df0",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",

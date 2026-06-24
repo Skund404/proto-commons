@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f5e3b6f99f949db69e56e6d00d6ebf6ad973636d24ede20136c254dfe1079b5b",
+  "content_hash": "sha256:68df8902335c0c2947e188cb9729429a679503a81af3c9f501d3d9393f0cf4ad",
   "created": "2026-06-24",
   "description": "A metal fastening attached across the fore-edge of a volume to hold the covers closed and the leaves pressed flat. It is favoured on books whose pages will otherwise spring open, and a low-profile pattern is chosen so nothing protrudes to scuff a neighbouring spine on the shelf.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XVIII, p.259. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XVIII, p.259. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/259"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

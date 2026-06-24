@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:54bb8509792e31ce5151a955cecce182312a77b1b27755aefe55279118766e80",
+  "content_hash": "sha256:10b1f4240a05f88d9097cc8ea78693c204ca50a830cf0094da1514a21e659fe5",
   "created": "2026-06-24",
   "description": "An inexpensive, bulky board pressed from straw fibre, chosen where economy matters. It is often laminated with a thinner facing board to build up the layered boards used in cheaper bindings.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIII, p.175. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIII, p.175. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/175"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:2536dd1c72f1721b1196c8448848475f53acdb59fc7411661bca5164500354e5",
+  "content_hash": "sha256:d88005d9f1ac90b2c46d319bc407f6bc1effabc7d0302eeb887e8a1aa7864ae5",
   "created": "2026-06-24",
   "description": "Goat hide, marketed as morocco, prized as a covering skin for fine work because of its firm grain and toughness. It appears under several regional trade names, and Cockerell singles out a West African goatskin as the most durable he had used while noting it often arrives flawed and unevenly prepared.",
   "emitter": "opg://commons-seed",
@@ -32,11 +32,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIX, p.263. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIX, p.263. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/263"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

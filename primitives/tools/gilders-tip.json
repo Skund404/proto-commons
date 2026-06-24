@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:28ecef61ddb3ec23b07caac615fdb5169d81b87207ffffa07f8c14b3bf9cf804",
+  "content_hash": "sha256:71b66c89cd52e15825c1280a076b560ffb9f06d6f7f43f79cae95b5e02487fde",
   "created": "2026-06-24",
   "description": "A thin implement used to lift a cut leaf of gold from the cushion and lay it onto the edge. A flat brush of fine hair, a slightly greased paper, or a piece of fine net stretched on a small frame all serve: the leaf clings lightly and is released over the work with a breath.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VI, p.92. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter VI, p.92. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/92"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:decce54b37f8aca645c6ab94fc1e43f123b01d5c83654ef7c56d646445259072",
+  "content_hash": "sha256:e5bae1efbf5ee2c6eed9aa6aedfc6d36ef467c82f61253a2b6c38d161a69ba68",
   "created": "2026-06-24",
   "description": "Correcting flawed gold tooling: impressions that fail to take solid are reglaired and retooled, doubled or burnt marks are softened with water and picked out, and badly burnt spots may be patched with new leather before working again.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "advanced",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIV, p.205. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIV, p.205. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/205"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

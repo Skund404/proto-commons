@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:6fd27d1a413ab5cc12c65c1438b05671e957ef721d1c70beb258c470329de948",
+  "content_hash": "sha256:8f8ab92baf937dabc4b36e2b1e305d8810075c4f30c1ba0b7009498053c922f0",
   "created": "2026-06-24",
   "description": "A wheel engraved with a repeating pattern around its circumference, impressed onto leather by rolling it across the surface. Cockerell judges rolls a time-saver that costs the freedom of a built-up design and warns against their modern overuse.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIV, p.190. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIV, p.190. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/190"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

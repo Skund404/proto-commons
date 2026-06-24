@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:ff4e5855d6908cd1ea1f1f61dbcf28852cefc139770409048e3636ba741b11f8",
+  "content_hash": "sha256:aa5bb1ba0f9cb067467f0340c4d5097e1c756bbdf19bc3270f12f9781ad1e32b",
   "created": "2026-06-24",
   "description": "A thin bladed knife with a broad flat edge, held nearly flush against a hard surface to shave leather down to the wanted thickness. It cuts by means of a fine burr raised on the underside, giving close control over how much skin is removed. Cockerell names the French paring knife as a distinct binder's tool for leather, indexed separately from the general sharp knife used to pare paper.",
   "emitter": "opg://commons-seed",
@@ -32,11 +32,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XII, p.152. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XII, p.152. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/152"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

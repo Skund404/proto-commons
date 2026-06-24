@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:ed1c98d8d5fa34dbd6a8a1a1bc94888e77b2eaae924dab23f9705fd617178ef2",
+  "content_hash": "sha256:580ef00438155d715da6bb8bfacec0f2155d85c6c75f5b30ada38feba44479bd",
   "created": "2026-06-24",
   "description": "A thin liquid stain or water-colour, sometimes mixed with size, applied to the trimmed edges of a book to tint them. It is laid on in successive light coats until the wanted depth of tone is reached.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter X, p.139. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter X, p.139. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/139"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

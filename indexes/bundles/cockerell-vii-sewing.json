@@ -1,7 +1,7 @@
 {
-  "content_hash": "sha256:155356e933627aea4b64acc3f02b26204cb15f24e09a66b7c0b97807e571e88c",
+  "content_hash": "sha256:eb4c1d3dc17ac70bea6ed6588e2dca30ebdf8966c1ccdc382e2c86d3814aa664",
   "description": {
-    "en": "Chapter VII (Making up; Sewing; Materials for Sewing) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+    "en": "Chapter VII (Making up; Sewing; Materials for Sewing) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901)."
   },
   "domain": "bookbinding",
   "emitter": "opg://commons-seed",
@@ -9,126 +9,126 @@
   "ia_item": "bookbindingcareo00cockrich",
   "items": [
     {
-      "hash": "sha256:cf004bc19648c2a57b9e967952c253e4b786f5d6c78ce987bcc4ae95bfb111ab",
+      "hash": "sha256:6ed74d8b57ebdc42887848ffb81e2ddc007bb50d9c6f9b7dce89b8b09c1fc001",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "sewing-frame"
     },
     {
-      "hash": "sha256:0d5179e48f84d0f01be7f7c7196ce43683730f041cddfcb127cb176cd80970db",
+      "hash": "sha256:48505cacce18154848690857b206f16e19bf1f6c076ccd31a74d5c6f1a1f06fb",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "sewing-key"
     },
     {
-      "hash": "sha256:263b5f6fa642e9f45f328e7ec38b8e4e668afbf812e36517e43c03dd7df42884",
+      "hash": "sha256:53cffcff14eeb178ca45356ebfdb40eb61a5543fe1ae6dcda47b16fbcc651e4c",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "lying-press"
     },
     {
-      "hash": "sha256:6d471a304a00c1ac8b574b5b6919bc2f156dd0753893e0ae2713ec49cefd1907",
+      "hash": "sha256:6ff295d3aebfd0078ff596a1f0dea6fafd8b2b7d1240f59552df7fbd5ac90efa",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "carpenter-square"
     },
     {
-      "hash": "sha256:17c7adea82f38de047973a036be7f24741f87928693a7e166e6c5a3ca71df25c",
+      "hash": "sha256:3883cbf63f3ea7816b7ea780c9a55ed8ae4ab6a69f5b81a53f833a67f3bb9d6e",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "tenon-saw"
     },
     {
-      "hash": "sha256:3879ab32c1c44a9613e6d6264a94f85d0f8871a01663f4df0e25476ba34b9b23",
+      "hash": "sha256:bd72d8c922b0ff20236747a2f012e838413984cbce33a8f04d29af30edb0db8a",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "sewing-cord"
     },
     {
-      "hash": "sha256:000e3bc1dc951bef885574ad76fed386b5363aeada26bb193ce99866a95b98cd",
+      "hash": "sha256:bcaacc0f5a6144fbbdec598b36d36c8e7812bc10950f9f3bd223e9c827a83bba",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "sewing-thread"
     },
     {
-      "hash": "sha256:1322471942c4e195b65e575da3e3df0c845966dca3faa9c58152ec1e3f003ebb",
+      "hash": "sha256:653d6d4776b2fc930f264b786749fd1a83f67c7da59ff9d5c3948f38850e0eab",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "sewing-silk"
     },
     {
-      "hash": "sha256:0d068a5405b9af42967e7bdbabe66dbff2313e7de9d6ec5561284d45d687ee29",
+      "hash": "sha256:f6e81cd0f3800960cff679f32be9b086aa3c71e9eb754f7c8e6d83b486691994",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "sewing-tape"
     },
     {
-      "hash": "sha256:ba4bb2bc88b07debf53a4ecfe55dcd27465888968cc4f343b3a55d82fc28bcba",
+      "hash": "sha256:deee88b0c18713f3245ec0b116d13aa2f01d84095dc9dd456db1a03fca895179",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "vellum-slip"
     },
     {
-      "hash": "sha256:eb88dddcdd0d49a7d32fa2ef5b8b8f19b89278520d99a8a5b21279f27dd23f02",
+      "hash": "sha256:72ea60a6bda0d38d701a7a4347b990acee972850e63f6e4a3c301b89d5b83293",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "marking-up"
     },
     {
-      "hash": "sha256:9382561ba3144fea075785897b12a3b048ef677119da6713f773201e0e69130f",
+      "hash": "sha256:8bebdc144332bd1abae864344e8b8a8a1feee393cbdeb290ada6aade3b27ad73",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "flexible-sewing"
     },
     {
-      "hash": "sha256:9f49c85341ed2058e6758a022f5cffff4ff718a3a80967493e203ef1e724498b",
+      "hash": "sha256:15102566e3ca10abb4a6e562dc26657ac13bd8e765c2f4eab2150c2c0cfecfa3",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "sewing-on-tapes"
     },
     {
-      "hash": "sha256:9987181279814ae4126d40f90fafd4eaed64c4eebbd06d8e51e0d126ee7dad2f",
+      "hash": "sha256:32ca6df6c768b847088f4dea39a9f14f743611bc9974e3f25f5ad9d8b640c803",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "sewing-on-vellum-slips"
     },
     {
-      "hash": "sha256:84476c7826fcc9867c87acafc42f21056746e9d00a73ba9b5364850fb2811490",
+      "hash": "sha256:f0fb4cc5a6e17463fd81ffa8ce688aabef6c7dd84fcad50e840992c261afcf5c",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "kettle-stitch"
     },
     {
-      "hash": "sha256:34891c52b81b93d0b5118f2118ae5d256220ddc1c437f8263ef950782b070bb1",
+      "hash": "sha256:3fb89cd82548235892069ba13ddcbbda5e3ba56470adf6a0d0b9c5b030c3fe9f",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "weavers-knot"
     },
     {
-      "hash": "sha256:843d39613a8ee560b616890c6586061a176ab4076b67d016e21af8ca34ebc7a5",
+      "hash": "sha256:55191522816d4864a7c2859dc04074af63184cdc31968b8380548f8c5ef07bf8",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "sawing-in"
     },
     {
-      "hash": "sha256:ae852aac66105dd385a77a2005e983b70130d517e4a548d3666847f38857af68",
+      "hash": "sha256:3a8f25c37d32ff32bdf994374a611282b9f581456de9190f800d3dd3d10d0d9a",
       "kind": "workflow",
       "record_class": "primitive",
       "role": "required",

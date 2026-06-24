@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:843d39613a8ee560b616890c6586061a176ab4076b67d016e21af8ca34ebc7a5",
+  "content_hash": "sha256:55191522816d4864a7c2859dc04074af63184cdc31968b8380548f8c5ef07bf8",
   "created": "2026-06-24",
   "description": "Cutting shallow saw kerfs across the back of the text block so the supports can be sunk flush; a quicker method that Cockerell records as weakening the binding compared with sewing on raised supports.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VII, p.98. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter VII, p.98. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/98"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

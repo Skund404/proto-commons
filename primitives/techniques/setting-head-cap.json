@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:902813bd9a9550065d62da2d3c939a22f5a6e6ff8623d4744ea7482e9dded876",
+  "content_hash": "sha256:09fbd589b59314bd24aeb6a6472113caee34d00071091c22df5886b54fc7eff2",
   "created": "2026-06-24",
   "description": "Shaping the small projection of leather at the head and tail of the spine into a neat cap over the headband. The leather is squeezed, pulled out a little, then tapped and rubbed into form; though it carries no structural load it is one of the marks of fine forwarding.",
   "emitter": "opg://commons-seed",
@@ -31,11 +31,11 @@
     "skillLevel": "advanced",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XII, p.153. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XII, p.153. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/153"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

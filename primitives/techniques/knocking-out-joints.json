@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:a530b0b93792b4f41c5770e3e9ce5c69cf332197f3e37f97bf981f9a77e590bc",
+  "content_hash": "sha256:0b3ffeb39ffd2632e84c7d7aaeaf0b93f12157e7c96eb8c43a5816650811d14a",
   "created": "2026-06-24",
   "description": "Flattening the old folded joints out of sections of a previously backed book by hammering them squarely on a covered iron, keeping the hammer face clean and true so the paper is not cut or soiled.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter II, p.33. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter II, p.33. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/33"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

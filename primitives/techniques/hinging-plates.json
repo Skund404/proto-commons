@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:6e7e05f49b6450135004c1c046db757852662f33ea4555c2e16e62da1ce74d2e",
+  "content_hash": "sha256:b9707a39e0573a0c864e60ca3c2d571015cb2ca8961f3def56c985f758eaffa1",
   "created": "2026-06-24",
   "description": "Making a stiff plate openable by cutting a thin strip from its back and rejoining it with a wide cloth guard, leaving a gap that flexes as a hinge. Substituting thinner paper for the cut-off strip reduces the swelling it would otherwise add.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter III, p.57. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter III, p.57. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/57"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

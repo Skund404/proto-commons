@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:3fbc8515894e47db8bb5c02ac4b669b4ffd88599a22396b46eeb2e17dc3b22d3",
+  "content_hash": "sha256:adb2d16fbd97792cba794ab1f110fda9597b69599d88b4c8c9bb079a856313f3",
   "created": "2026-06-24",
   "description": "A weak gelatinous wash made by boiling down vellum cuttings or dissolving gelatine or isinglass in warm water, brushed over porous leather to seal it before tooling. Unlike the thin vellum size used to seal a paper edge before gilding, this is a leather-finishing wash applied to the cover.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIV, p.191. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIV, p.191. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/191"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

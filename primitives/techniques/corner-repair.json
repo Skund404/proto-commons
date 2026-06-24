@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:6b0c63221feba1367af192d3617361ab88640426ee0e6a595070bfeababf98e7",
+  "content_hash": "sha256:63b359bcf3d39698d35134ada6594dd1e1e7d637e8a4f7223b0e5b4369cb7c03",
   "created": "2026-06-24",
   "description": "Mending a worn or frayed board corner on an existing binding. The damaged corner is glued and tapped firm and square with a hammer, allowed to dry hard, and then a small slip of matching new leather is worked in under the lifted old covering before the corner is re-covered. The aim is a sound corner that disappears into the original surface.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XXII, p.302. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XXII, p.302. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/302"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

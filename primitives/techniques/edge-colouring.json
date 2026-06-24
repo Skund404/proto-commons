@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:35bedee546f667ccd5d716ca27158ba8ba5e79e23c4e107d282dee1037c32e01",
+  "content_hash": "sha256:523e671238a6709491b1fc2dabd3dc5df841497735683d347364489414878d76",
   "created": "2026-06-24",
   "description": "Tinting the trimmed edges of a book by sponging on thin coats of stain from the centre of each edge outward, then waxing and burnishing once dry. Working from the middle prevents a heavy deposit gathering at the corners.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter X, p.139. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter X, p.139. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/139"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

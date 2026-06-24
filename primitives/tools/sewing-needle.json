@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:9194d7f0b9d60e5fea96485e92d3e304eb6410bf8644ace2def6972d4cb1c22c",
+  "content_hash": "sha256:61d0f0539719d84c2a6ad48ca47a8ee5d39c9c3aca44987c132abba54c2bebd8",
   "created": "2026-06-24",
   "description": "A hand needle carrying silk or thread, used to draw the working strand through the sections and around the core when sewing a headband. A second needle set vertically can pin the core in place while the first stitches are formed.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XI, p.148. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XI, p.148. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/148"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

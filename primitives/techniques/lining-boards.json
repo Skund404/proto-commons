@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:1da5c8f7a9c3471c215e54f93900f58287c0f7f2bfe6b3c719b6c6943997498e",
+  "content_hash": "sha256:9a9fd2617a1dcfad4cab6c44f8b5524c583ab4b6e089e957c5412d827f2b2497",
   "created": "2026-06-24",
   "description": "Pasting paper over a freshly cut board to seal the edges and bias the board's curve. A double thickness on the outer face deliberately warps the board to counter the later pull of the cover leather, and the boards are nipped in the press so the lining adheres flat.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter IX, p.129. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter IX, p.129. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/129"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

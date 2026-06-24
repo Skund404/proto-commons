@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:0b3289ca11aa6e624ecb71db87c4e6ec2eeb80f8001d29c4a2da444a8c623fcc",
+  "content_hash": "sha256:58966af58f60eb4e1b5eff151ee40d632ca3ee54f75dc49fc9925c8dc899ac16",
   "created": "2026-06-24",
   "description": "Cutting and folding the leather at each board corner into a clean diagonal join with no overlap. Both thicknesses are sliced from the board corner toward the inner margin, the surplus removed while damp, and any stubborn bulk pared against the thumb before tucking the turn-ins together.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "advanced",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XII, p.152. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XII, p.152. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/152"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

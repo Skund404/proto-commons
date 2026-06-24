@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:5b4a3d280e7a45e146146f35bda7f0eabdf48d44f44328198afa8c53a3b332fb",
+  "content_hash": "sha256:ecfa4f567851e68ab13b3b8dfd825fae74b850b37a97fdd806a46989523bc490",
   "created": "2026-06-24",
   "description": "A flat board, slightly larger than the volume, placed above and below a stack of sections so the press can bear evenly across them. Pairs of these boards sandwich the pile that goes into the standing press.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter V, p.80. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter V, p.80. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/80"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

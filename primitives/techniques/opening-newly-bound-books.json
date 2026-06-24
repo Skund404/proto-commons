@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:baac42ad30b9f3621f8864c111b8b9900346b19ba02567c45017d584c257a337",
+  "content_hash": "sha256:2efa5eebab062cf99bd4f8adb2865a3f279e91a0dae8104251946f3fb2fdd7a9",
   "created": "2026-06-24",
   "description": "Easing the back of a freshly bound volume before it goes into use, so it will flex evenly rather than crack at one point. The book is opened in stages from front and back toward the centre, each opening pressed gently by hand; for valuable work every leaf is turned and bedded one at a time, working outward from the middle. Cockerell argues that omitting this leaves the first careless reader to break the back at the centre.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "beginner",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XVII, p.254. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XVII, p.254. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/254"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

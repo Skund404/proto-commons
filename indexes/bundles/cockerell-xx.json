@@ -1,7 +1,7 @@
 {
-  "content_hash": "sha256:a3e0a3084bc0a91bc0f878d1cfe6d7e32bb3f553d9c85afda71b932754da163d",
+  "content_hash": "sha256:078e75565c275188a8415e0293bd72df892bb02ff23768e092db3ac2cdfe0ea6",
   "description": {
-    "en": "Chapter XX (Paper Pastes Glue) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+    "en": "Chapter XX (Paper Pastes Glue) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901)."
   },
   "domain": "bookbinding",
   "emitter": "opg://commons-seed",
@@ -9,77 +9,77 @@
   "ia_item": "bookbindingcareo00cockrich",
   "items": [
     {
-      "hash": "sha256:c0408a8c70af2f410378014c28464a04db6e9da126f9955f93a471cf3b830903",
+      "hash": "sha256:fa8818ca62c0a3df86ab3cf8d1e44ace0969c273f2ee2d487579ae91c467af18",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "art-paper"
     },
     {
-      "hash": "sha256:eb4e812a04868b78d075edc419754c1e36367d3890906b26ab8eef6a70fd2e7e",
+      "hash": "sha256:41a54c348c10eeeea7b65cd84d6cd9cddc3a5a57ddc9e526bf48f7306ce7577c",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "glue"
     },
     {
-      "hash": "sha256:2f9d2eab565aa0ba733ec8c2fdef143c09bd97d06aa1ba071b0fa2b0e81f85d3",
+      "hash": "sha256:4c4a0fa44dcc62728529e3f1f90c8694cb5f210fe17f4c9f172b2faa8aa9353c",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "glue-pot"
     },
     {
-      "hash": "sha256:8d16efffd9916cfa940934bc8f6140fdd32e5b0d5c4b2aa70a84e47a535f76c2",
+      "hash": "sha256:4ebf13b990b627fdd0299973b90f981f665d51c19e0288c030d7b7dd1e6256e3",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "hand-made-paper"
     },
     {
-      "hash": "sha256:32952b4f59196e238b8eee080fa7cd2667e6f9220709d165f13d2fa7837e8f32",
+      "hash": "sha256:8892c78edef8c50422d06d381631ca35521bffde61ed873890e7d4291e6bc2a3",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "japanese-vellum"
     },
     {
-      "hash": "sha256:6ecfdfb0273c4c0557e2c507d8293dbc4a024ba503998673182c01a306a42394",
+      "hash": "sha256:e913caab041f290a0db70f5695d4c7e412f145039bfd283ea31e97676b363542",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "paper"
     },
     {
-      "hash": "sha256:3aa5fe58004f1bcc81f08154128863a3a38d720d332461f11771cc103f7cbcd8",
+      "hash": "sha256:18f0349efa7e4ec5ab301e00f00bc342bac94301196f182fd43336a82a1e89f6",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "paste"
     },
     {
-      "hash": "sha256:37d913467d492f7a46de560d2f04d7da85f0e2c8ba48a2caaa86a6ea414fe05d",
+      "hash": "sha256:88bec6842e8a3abe71c504a3cd60aadbb51b9ff14b1222290101f662cdf04399",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "paste-brush"
     },
     {
-      "hash": "sha256:6ea8f993f361e615c1bd6f839b6f3ae8e0531dae586d313ad62e22808b84676a",
+      "hash": "sha256:527496a967bc3c9f344d109afb29a9f303ab8a24fc500f9ddd1e61fadea6d64b",
       "kind": "workflow",
       "record_class": "primitive",
       "role": "required",
       "slug": "paste-making"
     },
     {
-      "hash": "sha256:efcd8400e8dfea6a70612f1ebba5419c4afaf6d7fc2e08ad0c7e611780066c66",
+      "hash": "sha256:a373f69065b76b9f7f629df1282d9f92eb2d08c841988c4a6df84c8255b6998a",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "paste-tub"
     },
     {
-      "hash": "sha256:bcd391ae31f9d3c2cf2f637f991f6bafd1010e6f1eba226633d2d7789b500d56",
+      "hash": "sha256:d49ebaafe0ed4fd73e995b9c1d5f64b1b87ac0d01201200a90ebe1f06bb19990",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",

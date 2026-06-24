@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:0989a7fcb9a65dd9cabf343d82cddf93ab2931867b990b7d5b63b9a91091f014",
+  "content_hash": "sha256:ea2fc28fee42f2cdf176e9f687db11f99bb7a1cc69040d56d26191bc5007b0ab",
   "created": "2026-06-24",
   "description": "Flat jawed pincers used to pinch the raised bands sharp and crisp through the cover. When pressing damp leather they are best nickel plated so the metal does not mark or stain the skin.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XII, p.161. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XII, p.161. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/161"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

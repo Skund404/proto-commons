@@ -1,7 +1,7 @@
 {
-  "content_hash": "sha256:d1509b0943e5f42463ec940664f2d8a11ec211630e6c576f046e0f75cf117adc",
+  "content_hash": "sha256:7000cb0ac0f424261449c8c888007d5c8a5bc806599891109aeb7a28308234a4",
   "description": {
-    "en": "Chapter XVII (Pasting down End Papers Opening Books) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+    "en": "Chapter XVII (Pasting down End Papers Opening Books) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901)."
   },
   "domain": "bookbinding",
   "emitter": "opg://commons-seed",
@@ -9,63 +9,63 @@
   "ia_item": "bookbindingcareo00cockrich",
   "items": [
     {
-      "hash": "sha256:420e03b2e000f8234509acce37ea4b80204d82e1321ce889be29c51068a84f43",
+      "hash": "sha256:9e556d2f2a81b9c2920e02d7cb635c8a37ae4f49686849d3a0ab132bd31714cc",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "cutting-tin"
     },
     {
-      "hash": "sha256:ec3a6c0b8a9a75e19ff39606f9fd5d7c7b9bfc82043d6062907c6cec97f3bc9a",
+      "hash": "sha256:576c67cb56a01020757cf2b892c662bdd61747d8dd50d6ac2ba470a510a43ea9",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "dividers"
     },
     {
-      "hash": "sha256:bbb75482e59a4ac5a3d28cdf10b8225104abaac5f5cfd7155b60d4615dd82072",
+      "hash": "sha256:3433ee709c5977b574c0a7e882b2a96d32158c6cd8c052902b3dadd730c963e2",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "end-paper"
     },
     {
-      "hash": "sha256:baac42ad30b9f3621f8864c111b8b9900346b19ba02567c45017d584c257a337",
+      "hash": "sha256:2efa5eebab062cf99bd4f8adb2865a3f279e91a0dae8104251946f3fb2fdd7a9",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "opening-newly-bound-books"
     },
     {
-      "hash": "sha256:bcf1d16a7a5b7d52150976efa58473a1837614f5c603498dde79903aeae5e4ce",
+      "hash": "sha256:5a2851f2bb520e10df937051b98dbbff273fb461b7d5f602a17cddc1329c2f15",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "paring-knife"
     },
     {
-      "hash": "sha256:3aa5fe58004f1bcc81f08154128863a3a38d720d332461f11771cc103f7cbcd8",
+      "hash": "sha256:18f0349efa7e4ec5ab301e00f00bc342bac94301196f182fd43336a82a1e89f6",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "paste"
     },
     {
-      "hash": "sha256:961b4eb65cdcc6b65b19615b265910bc8c2ee12961b7bb99af278c31c374e680",
+      "hash": "sha256:1b2334f632e9f827e8524a09820e13fab6a57a65fc550314632ed95de8effb3b",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "pasting-down-end-papers"
     },
     {
-      "hash": "sha256:f77ffe51332d6d9545ecf710b36f2483efc17829987b45289919a9870bf87fca",
+      "hash": "sha256:dc479dfebfbbf2cacc95eafa71b663a43a2c2a3f6b695ecde19aadb0baac8020",
       "kind": "workflow",
       "record_class": "primitive",
       "role": "required",
       "slug": "pasting-down-end-papers-procedure"
     },
     {
-      "hash": "sha256:b38a14638b890ec82464d427f885b403b6c74083f00b50124398f20deea74122",
+      "hash": "sha256:06dd8eb25217f2316195eb32d7299bffecbea2ae17314afc8beca6ab771e885b",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f4bfa75438f8e9ff09c330ff02b2044a713f4026b24e32b83c670425e7562985",
+  "content_hash": "sha256:01d6f9f8ff6ecf513aff9308ef92b99c37874a4b112755b39132b91187b30497",
   "created": "2026-06-24",
   "description": "Large lever shears clamped in a press to cut board roughly to size before final trimming. The straight arm is fixed in the press so the operator's hand is not bruised against the work.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter IX, p.126. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter IX, p.126. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/126"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

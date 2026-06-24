@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:efcd8400e8dfea6a70612f1ebba5419c4afaf6d7fc2e08ad0c7e611780066c66",
+  "content_hash": "sha256:a373f69065b76b9f7f629df1282d9f92eb2d08c841988c4a6df84c8255b6998a",
   "created": "2026-06-24",
   "description": "A wooden trough that holds working paste at the bench. Any cross bar for wiping the brush is best swapped for a twisted cord, and the tub is cleaned of dried scraps by soaking it overnight with water.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XX, p.280. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XX, p.280. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/280"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

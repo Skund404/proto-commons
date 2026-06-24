@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f75f297435ee724c9ab32bad80382f96848a6b28e8c977e346077d54a4ae3c60",
+  "content_hash": "sha256:db03e54f073a86f1d8c0d87cdfb21e00d2a2ed2f40357c971e76dc0fdf20f679",
   "created": "2026-06-24",
   "description": "The procedure for laying out and tooling a title on a spine for extra binding: building a folded lettering paper, centring each line, transferring guide lines to the panel, then gilding and striking the letters outward from the centre.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XV, p.215. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XV, p.215. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/215"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

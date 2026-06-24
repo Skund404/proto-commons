@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f9083cc815c98f5f1e0017ab6d0028b767a1a2dee9a17f3b6e84760e4f8d4314",
+  "content_hash": "sha256:a3c187d63b9df77dd9321ab0f667e3718c678084fa789fa138041d738c507908",
   "created": "2026-06-24",
   "description": "Applying hot glue along the spine of a textblock held squarely in the press, working it well into every section and rubbing the back so the adhesive reaches the full length of each fold. The head must be knocked square before glueing so it cannot be corrected later.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VIII, p.116. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter VIII, p.116. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/116"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

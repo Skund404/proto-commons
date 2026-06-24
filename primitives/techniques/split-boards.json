@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:32f77d40838d299de26dd7584ab57d1bfa8d06a43d1e533327c07e0ac97e06e9",
+  "content_hash": "sha256:ae183e46a64e944c594590598c8fafe1e90104ea7df6e811ec9da4d0a8c59910",
   "created": "2026-06-24",
   "description": "A method of building covers by gluing two boards together over most of their area while leaving a gap along one edge. The slips and a waste leaf are inserted into this slot and pressed, giving a strong concealed attachment.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIII, p.173. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIII, p.173. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/173"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

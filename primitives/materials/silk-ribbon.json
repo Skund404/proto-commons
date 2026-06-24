@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f06184f4baef41c929970a946c9c288b63cdfa8710fafaac92439fd85f80fa96",
+  "content_hash": "sha256:14553aa69c3cd3fdf66e25aef45634cd557d911ea202a80303e9938c791f7b29",
   "created": "2026-06-24",
   "description": "A narrow woven ribbon laced into a cover and left with long ends, providing a soft tie that holds a limp volume closed without hardware.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIII, p.173. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIII, p.173. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/173"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

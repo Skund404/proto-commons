@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:cad1246e737a83e0b8d0f1a2ed013506ca3e98723dcb9d7043910ef9959a984d",
+  "content_hash": "sha256:fe31764dc5edff8acf4197da2f06857977a1ab35356dcceba6774eb134bd3679",
   "created": "2026-06-24",
   "description": "Tapping the glued spine with a hammer while drawing it over the edge of the press, working both sides so the back takes an even convex curve. The aim is to distribute the swelling from the sewing thread into a permanent rounded form, judged to the needs of the particular book.",
   "emitter": "opg://commons-seed",
@@ -31,11 +31,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VIII, p.114. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter VIII, p.114. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/114"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

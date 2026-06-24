@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:04cb84f04b6c660f6bb17783c3a9e8695b0e5b5126a2777146959369fb7addc1",
+  "content_hash": "sha256:dc459715422e58d78e611a3903b51f7612b9e05d8a4e81dd3ee49334f36a2062",
   "created": "2026-06-24",
   "description": "Covering a volume in vellum, either limp and held only by laced slips or pasted over boards. The skin is marked out, cut at the corners, lined with paper to control its movement, and worked while damp before the corners are mitred.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     "skillLevel": "advanced",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIII, p.173. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIII, p.173. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/173"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

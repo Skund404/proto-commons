@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:000e3bc1dc951bef885574ad76fed386b5363aeada26bb193ce99866a95b98cd",
+  "content_hash": "sha256:bcaacc0f5a6144fbbdec598b36d36c8e7812bc10950f9f3bd223e9c827a83bba",
   "created": "2026-06-24",
   "description": "An unbleached linen thread used to sew the sections of a book together and to the supports; its weight is chosen to suit the paper so the swelling at the back stays even.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VII, p.98. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter VII, p.98. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/98"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

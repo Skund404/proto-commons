@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:3879ab32c1c44a9613e6d6264a94f85d0f8871a01663f4df0e25476ba34b9b23",
+  "content_hash": "sha256:bd72d8c922b0ff20236747a2f012e838413984cbce33a8f04d29af30edb0db8a",
   "created": "2026-06-24",
   "description": "An unbleached hemp or linen cord used as the raised support a book is sewn onto; the projecting ends are afterwards laced into the boards, giving a strong, flexible joint.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VII, p.98. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter VII, p.98. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/98"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

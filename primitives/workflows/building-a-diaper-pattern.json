@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:547096ca778f6861bc4e31344d78d7cadc9d4ac2ab0928269c9146ab9a9b1c4b",
+  "content_hash": "sha256:57063c6b8ef306ec374c6df6a5f77a4287fcdf409468eb8f0c8168ac9f535d35",
   "created": "2026-06-24",
   "description": "Laying out and filling an all-over repeating ground pattern on paper before tooling. Construction lines are folded and marked into the paper to divide it into equal cells, then a few tools are impressed at fixed crossing points so the same simple motif repeats predictably over the whole surface.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XVI, p.235. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XVI, p.235. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/235"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

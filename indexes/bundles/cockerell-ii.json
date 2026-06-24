@@ -1,7 +1,7 @@
 {
-  "content_hash": "sha256:656e78de04e4d5a15192802885900f3e7fdab6b1ce54e7a996699822e2b71216",
+  "content_hash": "sha256:32df61e5c69a544b54d3f84e917be775b36a864401ea15a03809f4ecc55c15e7",
   "description": {
-    "en": "Chapter II (Entering Books in Sheets Folding Collating Pulling to Pieces Refolding Knocking out Joints) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+    "en": "Chapter II (Entering Books in Sheets Folding Collating Pulling to Pieces Refolding Knocking out Joints) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901)."
   },
   "domain": "bookbinding",
   "emitter": "opg://commons-seed",
@@ -9,140 +9,140 @@
   "ia_item": "bookbindingcareo00cockrich",
   "items": [
     {
-      "hash": "sha256:c0408a8c70af2f410378014c28464a04db6e9da126f9955f93a471cf3b830903",
+      "hash": "sha256:fa8818ca62c0a3df86ab3cf8d1e44ace0969c273f2ee2d487579ae91c467af18",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "art-paper"
     },
     {
-      "hash": "sha256:de7fcf6c930e0b9461df4a341c91d28e1d5c16502ce220b0d0f591a2dc055150",
+      "hash": "sha256:9288529008ad35e321981fba6f6bf1f52ff103f964add9f4dde8033c1f8ad178",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "flattening-hammer"
     },
     {
-      "hash": "sha256:6d471a304a00c1ac8b574b5b6919bc2f156dd0753893e0ae2713ec49cefd1907",
+      "hash": "sha256:6ff295d3aebfd0078ff596a1f0dea6fafd8b2b7d1240f59552df7fbd5ac90efa",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "carpenter-square"
     },
     {
-      "hash": "sha256:83a28c623638e15768bfed6c4bcb893833df31aeb69f05c04805e6a128e7fc34",
+      "hash": "sha256:8d9d67af1c9cae2ba4c33a1336a810a7a25a66250e95a23b72bde10b6f3b434e",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "collating"
     },
     {
-      "hash": "sha256:ec3a6c0b8a9a75e19ff39606f9fd5d7c7b9bfc82043d6062907c6cec97f3bc9a",
+      "hash": "sha256:576c67cb56a01020757cf2b892c662bdd61747d8dd50d6ac2ba470a510a43ea9",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "dividers"
     },
     {
-      "hash": "sha256:3d43c3f081a63ec671c64dbe63996b080596efb6776576e05b7b93d01ac7de65",
+      "hash": "sha256:22338de32fe0e93210663441b9ec7157b08d6a8bb8820c67b93f8149b2a3812b",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "folder"
     },
     {
-      "hash": "sha256:75662d8451e5e568acf16a8c7efd67efc0f165cef64feb44b836c7616b5f8ef1",
+      "hash": "sha256:177a5ff34ce053cca2b7af66919ef546cc3b2a7db0554f114bccc295d38fc366",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "folding"
     },
     {
-      "hash": "sha256:c220510a88bace8cb8965ece8de0c1f823c84b14d9f35e020da1c2f8d00017ec",
+      "hash": "sha256:c25c263e29dbe63285aaa87bb5686f360bd3290dc352697ef248d11d237e4c6d",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "gathering"
     },
     {
-      "hash": "sha256:177575e6215355137512e359e131b2ca8f1a5b3b629ee233884f40694041f16f",
+      "hash": "sha256:f27290b645883ffd6df911992aaf4784ceff6db96c2c3a1dfbf8b668d3f7920a",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "guard"
     },
     {
-      "hash": "sha256:a5db01ff7650fcb743a23aad8593724d08cf9c82b846ff0a8c804bb67ea445b7",
+      "hash": "sha256:871f7b8e11d020586c4533e92300ff52eb462bc2d39fc9c92ca194a72110b286",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "guarding"
     },
     {
-      "hash": "sha256:5b7ca01676ef9a543c872c31d8b468a5f65e051e65304068ed32ed5c79262680",
+      "hash": "sha256:77b85bacc9929f92ab4f2e37b9f4db0c283de867747ac1a5c90d7383d0d9ddb8",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "knocking-down-iron"
     },
     {
-      "hash": "sha256:a530b0b93792b4f41c5770e3e9ce5c69cf332197f3e37f97bf981f9a77e590bc",
+      "hash": "sha256:0b3ffeb39ffd2632e84c7d7aaeaf0b93f12157e7c96eb8c43a5816650811d14a",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "knocking-out-joints"
     },
     {
-      "hash": "sha256:263b5f6fa642e9f45f328e7ec38b8e4e668afbf812e36517e43c03dd7df42884",
+      "hash": "sha256:53cffcff14eeb178ca45356ebfdb40eb61a5543fe1ae6dcda47b16fbcc651e4c",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "lying-press"
     },
     {
-      "hash": "sha256:29d970d4e73b67dfc5fb0a1363bf93e116862f31edebbb4ce5a3551c97cba9b7",
+      "hash": "sha256:cac15dd6c0105a92f328921924153c08180d8d888f77175f85785390888ab5a8",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "mending"
     },
     {
-      "hash": "sha256:9adb8e6a300cd115f6de6eedefe4d458f1a3416d558a582f2470191433c17712",
+      "hash": "sha256:0885360ca7b24c31f17adba010e73603a30352edb0006f8f357a2e95b2600ed6",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "overcasting"
     },
     {
-      "hash": "sha256:3aa5fe58004f1bcc81f08154128863a3a38d720d332461f11771cc103f7cbcd8",
+      "hash": "sha256:18f0349efa7e4ec5ab301e00f00bc342bac94301196f182fd43336a82a1e89f6",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "paste"
     },
     {
-      "hash": "sha256:97d33e7005aa50fe769c2f2f324601f35a2e5204dcf9554491123b15adc136e9",
+      "hash": "sha256:82bd95967a65ddf31381640d97da495986cd610436ac6aca44968c5522bb7751",
       "kind": "workflow",
       "record_class": "primitive",
       "role": "required",
       "slug": "preparing-sheets-for-binding"
     },
     {
-      "hash": "sha256:04ddf81542580b2efa36b96d45900344c40d204a3eb5b6ba5903cf4645f871b1",
+      "hash": "sha256:bdf2f159f066472dce09aebf19c46363a0d6787480a9bd5f5b18225f347663cf",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "pulling"
     },
     {
-      "hash": "sha256:6f60c07bd095d404fe746bc71df32dff76fc0e40754c4aaf92494b51b1fe99ec",
+      "hash": "sha256:65213b55b9303508c8678cebfd0eaf53af8db784345c55aa52c8a28ae8cac593",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "refolding"
     },
     {
-      "hash": "sha256:5ebc87fcb8d9ce66114591682177cd5c658fad629aee4a5a64a745684a93bec0",
+      "hash": "sha256:3f2bf35f5c2f0dcf7ff597f74ab97d051473cb09d0cf6170bb14b4f0882e4c1b",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",

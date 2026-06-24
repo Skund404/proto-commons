@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:349119aa07c0da621430b37c03e8dfc899a53c06d98ca370b8df74ce755b14b0",
+  "content_hash": "sha256:7401cb8c1650032a14698dc48bec7f4ac886862c2f65b0b0b5f221e4a37172c9",
   "created": "2026-06-24",
   "description": "Hide tanned with chromium salts rather than vegetable agents. It is mechanically very strong and tolerant of heat but stays stiff and does not soften when wet, which makes it harder to pare and work. Cockerell reports trying chrome-tanned calf with some success while declining to recommend it broadly without more testing.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIX, p.276. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIX, p.276. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/276"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

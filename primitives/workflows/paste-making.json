@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:6ea8f993f361e615c1bd6f839b6f3ae8e0531dae586d313ad62e22808b84676a",
+  "content_hash": "sha256:527496a967bc3c9f344d109afb29a9f303ab8a24fc500f9ddd1e61fadea6d64b",
   "created": "2026-06-24",
   "description": "Procedure for cooking a flour-and-alum paste for covering and pasting. The dry mix is wetted smooth, diluted, then heated and stirred to a thick cookable consistency that can later be let down with warm water.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XX, p.280. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XX, p.280. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/280"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

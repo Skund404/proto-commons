@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:058dbd64b2f4fd3bad810ddb5510065dc87f665072db8b06432c8d8cebfadce5",
+  "content_hash": "sha256:e8cad789f8c96d618b21db84051dc754fea7090e5911185bef5c766102e91c8c",
   "created": "2026-06-24",
   "description": "Separating a printed sheet into two thin layers so each face can be used independently. Both sides are pasted and faced with cloth, nipped in a press to bond, dried, then peeled apart; the cloth and its attached layer are soaked off in warm water.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "advanced",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter III, p.53. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter III, p.53. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/53"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:55e2435aeeeb0a05c59add329b9399fc459e3688375e5aa4432ceeb124d990d0",
+  "content_hash": "sha256:301ca21eb830f35c3c15d517e770195340458d9af718bea9928a5d7bae1d8f90",
   "created": "2026-06-24",
   "description": "Seal hide proposed as a covering material. Cockerell relays that one librarian recommended it highly but records no firsthand experience binding with it.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIX, p.277. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIX, p.277. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/277"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

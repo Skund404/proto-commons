@@ -1,7 +1,7 @@
 {
-  "content_hash": "sha256:78fa28882b4e08d7a03ef27f6e975f57ba921cfbaa46e723f2a7fccc6413d56b",
+  "content_hash": "sha256:d17ea823d2f36587a73643d2af87cfa411763a52fffbb4facc65337b744cc713",
   "description": {
-    "en": "Chapter XXI (Injurious Influences to which Books are Subjected) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+    "en": "Chapter XXI (Injurious Influences to which Books are Subjected) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901)."
   },
   "domain": "bookbinding",
   "emitter": "opg://commons-seed",
@@ -9,35 +9,35 @@
   "ia_item": "bookbindingcareo00cockrich",
   "items": [
     {
-      "hash": "sha256:a4797afc89d9634dbb3f0df0777ec608be99fb9084bd8ddf72317bd9616e25a1",
+      "hash": "sha256:c3b0aab5af62f840ebb7325dc3ad1829b6bf8790c3a5b3447adbeda698ed1290",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "dusting"
     },
     {
-      "hash": "sha256:0843bfebfb0c2da5d1c3d64f0f13a042835331161e8ada85bc3c9cd7ae924eb9",
+      "hash": "sha256:506893e0eb16b864dec8f026bc406d091a823adb4e07e240b61d05510386ac4e",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "feather-duster"
     },
     {
-      "hash": "sha256:85da299747c4cda7ca2981efd41aed1e1362a600c5ca9337324c69db0f26dbcd",
+      "hash": "sha256:35f0ae4d65ed7aa409394a74dbcbc3812225aaeb2c4a4754def512ef72de2bbf",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "insect-pest-control"
     },
     {
-      "hash": "sha256:9bcfba3ad61859bad2fa73c44195cc23e825ecc0ada792d1f8fc67775d859eb5",
+      "hash": "sha256:f5d9200fe672c0f35be8c20c60a3bb45bbba93b3319260af880413d0d89d2ab3",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "insect-repellent"
     },
     {
-      "hash": "sha256:7a24e8636f8c11bd791ede1af3c1e2a8f214ad4123b7653daa51068881d8514c",
+      "hash": "sha256:6527c2e48aed0ac34bfd728b618058e27e518684ce3365dcbf8b697b1787eb0e",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",

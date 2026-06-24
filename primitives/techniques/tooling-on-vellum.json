@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:9944641edc7606c795fb3dd568f1227d5dcd0ac02a618a38b8badd7472ef3dce",
+  "content_hash": "sha256:3f3e9bef6ce64164e1c0f7a5e27f0d0422889b5f9bef78f6a2caf46b27918d53",
   "created": "2026-06-24",
   "description": "Adapting tooling for a vellum cover: the sticky surface is washed clean, the pattern blinded through paper held by a band rather than pasted down, gold laid with benzine, and cool tools used because vellum scorches readily. Vellum is left unpolished and unvarnished.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "advanced",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIV, p.188. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIV, p.188. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/188"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

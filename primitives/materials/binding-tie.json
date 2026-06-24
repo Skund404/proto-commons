@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:e52a733b0150291f26ddbb83623e37273467fd7f7820d93e890fec634bea5469",
+  "content_hash": "sha256:e008cbab50eb175fd529a4f241f7c27a452e9c5a491efa6d5f74af473434823d",
   "created": "2026-06-24",
   "description": "A short ribbon of silk or thin leather laced into both boards and knotted to keep a volume shut. Cockerell notes that such ties are awkward when the book is open and are seldom bothered with in practice, so they are of limited use.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XVIII, p.259. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XVIII, p.259. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/259"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

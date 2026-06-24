@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:7b66949435f48b7d0e16994d06ff3a832e06c61509e2cd593b86a944a231dba3",
+  "content_hash": "sha256:23fd3b6c98585f576dac75cce0836a2855aaa81dc5a0d712adba2e5ae68f6699",
   "created": "2026-06-24",
   "description": "An upright bench press that grips a volume by its boards and holds it steady and tilted while detailed handwork such as headbanding or tooling is carried out, leaving both hands free and the work well presented to the light.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XI, p.147. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XI, p.147. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/147"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

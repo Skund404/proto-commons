@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:02d41405a1a3813fc3ca181670a8e2f98e1aa610ef3fb588390286eb6e8de208",
+  "content_hash": "sha256:f118e013632aeab7ec72da75314958333aac2157a74e836cd2051994bab12f11",
   "created": "2026-06-24",
   "description": "Smoothing a leather cover by running a warm polisher over the back, sides, and inside margins to even out irregularities before and after finishing.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIV, p.191. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIV, p.191. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/191"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

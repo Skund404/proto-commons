@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:839c027b6a6326794df60042b407d9e790ea8a2929e04f41a2a6cba48618c122",
+  "content_hash": "sha256:d31e0f7c1c3eb3b94de6a25aff8e24bd9777c865547c15224997a01fd06ab128",
   "created": "2026-06-24",
   "description": "Stock kept for repairs: scraps of old paper matched to a book in tone and texture, and very thin near-transparent Japanese paper used to bridge tears across printed areas. Where no matching tone exists, similar paper is stained to suit.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter IV, p.67. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter IV, p.67. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/67"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

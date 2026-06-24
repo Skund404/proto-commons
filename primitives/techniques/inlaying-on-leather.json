@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:e61217a4fe5e310e14756d1c657b95c81e7578c9c26d28387c0921936d7d75c0",
+  "content_hash": "sha256:ebe4d4f4bc351f9e43f09812f29317779b48b672bb0e31f14de9e024c9728c77",
   "created": "2026-06-24",
   "description": "Setting pieces of a contrasting leather, or paper, into a cover as decoration. The inlay leather is pared very thin, shapes are punched or cut out, edges pared, and the pieces pasted in and pressed, with tooling often worked over them.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "advanced",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIV, p.188. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIV, p.188. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/188"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:7debc2f674e0d19a3bd58ccbfa9c1a9b7e961fd84bd258e2af47574726caa006",
+  "content_hash": "sha256:8d8d088b6de455ccd2a456c37eac588f9ac4efbf64a6a167522bfba07e9f76c9",
   "created": "2026-06-24",
   "description": "Soft absorbent paper used to interleave damp work, draw off moisture, and protect a surface while rubbing down. It is changed repeatedly as drying progresses.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter III, p.55. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter III, p.55. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/55"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

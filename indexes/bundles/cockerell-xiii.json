@@ -1,7 +1,7 @@
 {
-  "content_hash": "sha256:5798804da357f7013aae40dc21af55715fd0adce0cdbb21c08c7211f1bfed08a",
+  "content_hash": "sha256:f231a49f778a4a077444711d6b0c103d9688923f4bc9ad47e2915d3766d1019c",
   "description": {
-    "en": "Chapter XIII (Library Binding Binding very Thin Books Scrap Books Binding in Vellum Books covered with Embroidery) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+    "en": "Chapter XIII (Library Binding Binding very Thin Books Scrap Books Binding in Vellum Books covered with Embroidery) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901)."
   },
   "domain": "bookbinding",
   "emitter": "opg://commons-seed",
@@ -9,119 +9,119 @@
   "ia_item": "bookbindingcareo00cockrich",
   "items": [
     {
-      "hash": "sha256:47425d0adfbb563c523ae1969875c4b2bafb9da783dbb0d1932c1d89676d3c5a",
+      "hash": "sha256:50908c18a51ce511e8d82adc23d1f0f4c54f14ce5e45f2c6202db616d40333c8",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "backing"
     },
     {
-      "hash": "sha256:1058a7ac74cc88c947270d3cf65e65dcd70962c28e6ce4f380869115d3d47386",
+      "hash": "sha256:0a7d2ebc47d91afd6330e19c1ebdcb7fdda5b0d681c53341ffb8605ed71f97bf",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "embroidered-fabric"
     },
     {
-      "hash": "sha256:781ccd995163a50df90e432d4ae367a8d072097133aae7d2e462fc11b3f030a6",
+      "hash": "sha256:35f745e43880d3069e07797759021f4f4b7cfd9b06fa944405183e65f8c9b5e9",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "embroidery-covering"
     },
     {
-      "hash": "sha256:eb50814668de68d7792a85097cf3a0ba69c4adc7a1752e4b21935f97457cd4d1",
+      "hash": "sha256:a693bbd30a5b6726d1844a8e2376e7525fcb60469c63ae1e56c97f15722df9b7",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "french-joint"
     },
     {
-      "hash": "sha256:115686bbfb840afd2534614286ef129a3b3143fe55fd1fe21b1ee49b3db4f022",
+      "hash": "sha256:bb6602380d10d5d5a66f94d6673e13890e783eaffcb49b2dbe5549fb06d38f67",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "hollow-back"
     },
     {
-      "hash": "sha256:e5abfc615d53c56348aad33811ce06beadf738dac14f789559356359b7a1e6bd",
+      "hash": "sha256:f86b03fdd18af33a9ef7648ebef9eb2f7d1f0c65db57062932f7de925809d8e8",
       "kind": "workflow",
       "record_class": "primitive",
       "role": "required",
       "slug": "library-binding"
     },
     {
-      "hash": "sha256:3f4a8036d4684d96ec4b2f0e4f3a69029a7d7437725ab229f832cfd47aafa785",
+      "hash": "sha256:9991d1f84d6d0a433758778fe6a20b2c6b4914661be2b4b6b931149e48af1c42",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "millboard"
     },
     {
-      "hash": "sha256:82ba78d37ebc24da489ef2fc0cb053d076a30b8ff66abb6debf8d15dfdc59dda",
+      "hash": "sha256:ce4ea97e8ff9d6a205c1b78a963e7ecfb0523338fbdc3fc53c1b37403a14eba4",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "mounting"
     },
     {
-      "hash": "sha256:cad1246e737a83e0b8d0f1a2ed013506ca3e98723dcb9d7043910ef9959a984d",
+      "hash": "sha256:fe31764dc5edff8acf4197da2f06857977a1ab35356dcceba6774eb134bd3679",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "rounding"
     },
     {
-      "hash": "sha256:9f49c85341ed2058e6758a022f5cffff4ff718a3a80967493e203ef1e724498b",
+      "hash": "sha256:15102566e3ca10abb4a6e562dc26657ac13bd8e765c2f4eab2150c2c0cfecfa3",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "sewing-on-tapes"
     },
     {
-      "hash": "sha256:9987181279814ae4126d40f90fafd4eaed64c4eebbd06d8e51e0d126ee7dad2f",
+      "hash": "sha256:32ca6df6c768b847088f4dea39a9f14f743611bc9974e3f25f5ad9d8b640c803",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "sewing-on-vellum-slips"
     },
     {
-      "hash": "sha256:f06184f4baef41c929970a946c9c288b63cdfa8710fafaac92439fd85f80fa96",
+      "hash": "sha256:14553aa69c3cd3fdf66e25aef45634cd557d911ea202a80303e9938c791f7b29",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "silk-ribbon"
     },
     {
-      "hash": "sha256:32f77d40838d299de26dd7584ab57d1bfa8d06a43d1e533327c07e0ac97e06e9",
+      "hash": "sha256:ae183e46a64e944c594590598c8fafe1e90104ea7df6e811ec9da4d0a8c59910",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "split-boards"
     },
     {
-      "hash": "sha256:54bb8509792e31ce5151a955cecce182312a77b1b27755aefe55279118766e80",
+      "hash": "sha256:10b1f4240a05f88d9097cc8ea78693c204ca50a830cf0094da1514a21e659fe5",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "strawboard"
     },
     {
-      "hash": "sha256:7f94a9d58003fe9bbecbc778f16e315193320da90b6232563400dd2ee3ec30af",
+      "hash": "sha256:1b1539c86d6b97f9822cf80505b55ed6a10b0cbdedc9e63fa971e214fb465df0",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "vellum"
     },
     {
-      "hash": "sha256:04cb84f04b6c660f6bb17783c3a9e8695b0e5b5126a2777146959369fb7addc1",
+      "hash": "sha256:dc459715422e58d78e611a3903b51f7612b9e05d8a4e81dd3ee49334f36a2062",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "vellum-covering"
     },
     {
-      "hash": "sha256:0d068a5405b9af42967e7bdbabe66dbff2313e7de9d6ec5561284d45d687ee29",
+      "hash": "sha256:f6e81cd0f3800960cff679f32be9b086aa3c71e9eb754f7c8e6d83b486691994",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",

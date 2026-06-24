@@ -11,7 +11,7 @@
             "the \"hollow\""
           ],
           "primitive": {
-            "hash": "sha256:115686bbfb840afd2534614286ef129a3b3143fe55fd1fe21b1ee49b3db4f022",
+            "hash": "sha256:bb6602380d10d5d5a66f94d6673e13890e783eaffcb49b2dbe5549fb06d38f67",
             "kind": "technique",
             "path": "primitives/techniques/hollow-back.json",
             "slug": "hollow-back"
@@ -27,7 +27,7 @@
             "sunk in saw cuts"
           ],
           "primitive": {
-            "hash": "sha256:843d39613a8ee560b616890c6586061a176ab4076b67d016e21af8ca34ebc7a5",
+            "hash": "sha256:55191522816d4864a7c2859dc04074af63184cdc31968b8380548f8c5ef07bf8",
             "kind": "technique",
             "path": "primitives/techniques/sawing-in.json",
             "slug": "sawing-in"
@@ -42,7 +42,7 @@
             "sewing on tapes"
           ],
           "primitive": {
-            "hash": "sha256:9f49c85341ed2058e6758a022f5cffff4ff718a3a80967493e203ef1e724498b",
+            "hash": "sha256:15102566e3ca10abb4a6e562dc26657ac13bd8e765c2f4eab2150c2c0cfecfa3",
             "kind": "technique",
             "path": "primitives/techniques/sewing-on-tapes.json",
             "slug": "sewing-on-tapes"
@@ -62,7 +62,7 @@
             "gathering"
           ],
           "primitive": {
-            "hash": "sha256:c220510a88bace8cb8965ece8de0c1f823c84b14d9f35e020da1c2f8d00017ec",
+            "hash": "sha256:c25c263e29dbe63285aaa87bb5686f360bd3290dc352697ef248d11d237e4c6d",
             "kind": "technique",
             "path": "primitives/techniques/gathering.json",
             "slug": "gathering"
@@ -77,7 +77,7 @@
             "plate papers"
           ],
           "primitive": {
-            "hash": "sha256:c0408a8c70af2f410378014c28464a04db6e9da126f9955f93a471cf3b830903",
+            "hash": "sha256:fa8818ca62c0a3df86ab3cf8d1e44ace0969c273f2ee2d487579ae91c467af18",
             "kind": "material",
             "path": "primitives/materials/art-paper.json",
             "slug": "art-paper"
@@ -98,7 +98,7 @@
             "fold up the sheets"
           ],
           "primitive": {
-            "hash": "sha256:75662d8451e5e568acf16a8c7efd67efc0f165cef64feb44b836c7616b5f8ef1",
+            "hash": "sha256:177a5ff34ce053cca2b7af66919ef546cc3b2a7db0554f114bccc295d38fc366",
             "kind": "technique",
             "path": "primitives/techniques/folding.json",
             "slug": "folding"
@@ -112,7 +112,7 @@
             "folder"
           ],
           "primitive": {
-            "hash": "sha256:3d43c3f081a63ec671c64dbe63996b080596efb6776576e05b7b93d01ac7de65",
+            "hash": "sha256:22338de32fe0e93210663441b9ec7157b08d6a8bb8820c67b93f8149b2a3812b",
             "kind": "tool",
             "path": "primitives/tools/folder.json",
             "slug": "folder"
@@ -127,7 +127,7 @@
             "guard"
           ],
           "primitive": {
-            "hash": "sha256:a5db01ff7650fcb743a23aad8593724d08cf9c82b846ff0a8c804bb67ea445b7",
+            "hash": "sha256:871f7b8e11d020586c4533e92300ff52eb462bc2d39fc9c92ca194a72110b286",
             "kind": "technique",
             "path": "primitives/techniques/guarding.json",
             "slug": "guarding"
@@ -142,7 +142,7 @@
             "guards"
           ],
           "primitive": {
-            "hash": "sha256:177575e6215355137512e359e131b2ca8f1a5b3b629ee233884f40694041f16f",
+            "hash": "sha256:f27290b645883ffd6df911992aaf4784ceff6db96c2c3a1dfbf8b668d3f7920a",
             "kind": "material",
             "path": "primitives/materials/guard.json",
             "slug": "guard"
@@ -157,7 +157,7 @@
             "trimmed"
           ],
           "primitive": {
-            "hash": "sha256:5ebc87fcb8d9ce66114591682177cd5c658fad629aee4a5a64a745684a93bec0",
+            "hash": "sha256:3f2bf35f5c2f0dcf7ff597f74ab97d051473cb09d0cf6170bb14b4f0882e4c1b",
             "kind": "technique",
             "path": "primitives/techniques/trimming-plates.json",
             "slug": "trimming-plates"
@@ -179,7 +179,7 @@
             "paged through in pencil"
           ],
           "primitive": {
-            "hash": "sha256:83a28c623638e15768bfed6c4bcb893833df31aeb69f05c04805e6a128e7fc34",
+            "hash": "sha256:8d9d67af1c9cae2ba4c33a1336a810a7a25a66250e95a23b72bde10b6f3b434e",
             "kind": "technique",
             "path": "primitives/techniques/collating.json",
             "slug": "collating"
@@ -200,7 +200,7 @@
             "taken to pieces"
           ],
           "primitive": {
-            "hash": "sha256:04ddf81542580b2efa36b96d45900344c40d204a3eb5b6ba5903cf4645f871b1",
+            "hash": "sha256:bdf2f159f066472dce09aebf19c46363a0d6787480a9bd5f5b18225f347663cf",
             "kind": "technique",
             "path": "primitives/techniques/pulling.json",
             "slug": "pulling"
@@ -215,7 +215,7 @@
             "mended"
           ],
           "primitive": {
-            "hash": "sha256:29d970d4e73b67dfc5fb0a1363bf93e116862f31edebbb4ce5a3551c97cba9b7",
+            "hash": "sha256:cac15dd6c0105a92f328921924153c08180d8d888f77175f85785390888ab5a8",
             "kind": "technique",
             "path": "primitives/techniques/mending.json",
             "slug": "mending"
@@ -230,7 +230,7 @@
             "overcasting"
           ],
           "primitive": {
-            "hash": "sha256:9adb8e6a300cd115f6de6eedefe4d458f1a3416d558a582f2470191433c17712",
+            "hash": "sha256:0885360ca7b24c31f17adba010e73603a30352edb0006f8f357a2e95b2600ed6",
             "kind": "technique",
             "path": "primitives/techniques/overcasting.json",
             "slug": "overcasting"
@@ -244,7 +244,7 @@
             "Art Paper"
           ],
           "primitive": {
-            "hash": "sha256:c0408a8c70af2f410378014c28464a04db6e9da126f9955f93a471cf3b830903",
+            "hash": "sha256:fa8818ca62c0a3df86ab3cf8d1e44ace0969c273f2ee2d487579ae91c467af18",
             "kind": "material",
             "path": "primitives/materials/art-paper.json",
             "slug": "art-paper"
@@ -259,7 +259,7 @@
             "fine folder"
           ],
           "primitive": {
-            "hash": "sha256:3d43c3f081a63ec671c64dbe63996b080596efb6776576e05b7b93d01ac7de65",
+            "hash": "sha256:22338de32fe0e93210663441b9ec7157b08d6a8bb8820c67b93f8149b2a3812b",
             "kind": "tool",
             "path": "primitives/tools/folder.json",
             "slug": "folder"
@@ -280,7 +280,7 @@
             "re-adjustment"
           ],
           "primitive": {
-            "hash": "sha256:6f60c07bd095d404fe746bc71df32dff76fc0e40754c4aaf92494b51b1fe99ec",
+            "hash": "sha256:65213b55b9303508c8678cebfd0eaf53af8db784345c55aa52c8a28ae8cac593",
             "kind": "technique",
             "path": "primitives/techniques/refolding.json",
             "slug": "refolding"
@@ -295,7 +295,7 @@
             "pair of dividers"
           ],
           "primitive": {
-            "hash": "sha256:ec3a6c0b8a9a75e19ff39606f9fd5d7c7b9bfc82043d6062907c6cec97f3bc9a",
+            "hash": "sha256:576c67cb56a01020757cf2b892c662bdd61747d8dd50d6ac2ba470a510a43ea9",
             "kind": "tool",
             "path": "primitives/tools/dividers.json",
             "slug": "dividers"
@@ -309,7 +309,7 @@
             "carpenter's square"
           ],
           "primitive": {
-            "hash": "sha256:6d471a304a00c1ac8b574b5b6919bc2f156dd0753893e0ae2713ec49cefd1907",
+            "hash": "sha256:6ff295d3aebfd0078ff596a1f0dea6fafd8b2b7d1240f59552df7fbd5ac90efa",
             "kind": "tool",
             "path": "primitives/tools/carpenter-square.json",
             "slug": "carpenter-square"
@@ -329,7 +329,7 @@
             "old joints"
           ],
           "primitive": {
-            "hash": "sha256:a530b0b93792b4f41c5770e3e9ce5c69cf332197f3e37f97bf981f9a77e590bc",
+            "hash": "sha256:0b3ffeb39ffd2632e84c7d7aaeaf0b93f12157e7c96eb8c43a5816650811d14a",
             "kind": "technique",
             "path": "primitives/techniques/knocking-out-joints.json",
             "slug": "knocking-out-joints"
@@ -344,7 +344,7 @@
             "hammer face"
           ],
           "primitive": {
-            "hash": "sha256:de7fcf6c930e0b9461df4a341c91d28e1d5c16502ce220b0d0f591a2dc055150",
+            "hash": "sha256:9288529008ad35e321981fba6f6bf1f52ff103f964add9f4dde8033c1f8ad178",
             "kind": "tool",
             "path": "primitives/tools/flattening-hammer.json",
             "slug": "flattening-hammer"
@@ -358,7 +358,7 @@
             "knocking-down iron"
           ],
           "primitive": {
-            "hash": "sha256:5b7ca01676ef9a543c872c31d8b468a5f65e051e65304068ed32ed5c79262680",
+            "hash": "sha256:77b85bacc9929f92ab4f2e37b9f4db0c283de867747ac1a5c90d7383d0d9ddb8",
             "kind": "tool",
             "path": "primitives/tools/knocking-down-iron.json",
             "slug": "knocking-down-iron"
@@ -372,7 +372,7 @@
             "lying press"
           ],
           "primitive": {
-            "hash": "sha256:263b5f6fa642e9f45f328e7ec38b8e4e668afbf812e36517e43c03dd7df42884",
+            "hash": "sha256:53cffcff14eeb178ca45356ebfdb40eb61a5543fe1ae6dcda47b16fbcc651e4c",
             "kind": "tool",
             "path": "primitives/tools/lying-press.json",
             "slug": "lying-press"
@@ -394,7 +394,7 @@
             "guarding plates"
           ],
           "primitive": {
-            "hash": "sha256:a5db01ff7650fcb743a23aad8593724d08cf9c82b846ff0a8c804bb67ea445b7",
+            "hash": "sha256:871f7b8e11d020586c4533e92300ff52eb462bc2d39fc9c92ca194a72110b286",
             "kind": "technique",
             "path": "primitives/techniques/guarding.json",
             "slug": "guarding"
@@ -409,7 +409,7 @@
             "hinging"
           ],
           "primitive": {
-            "hash": "sha256:6e7e05f49b6450135004c1c046db757852662f33ea4555c2e16e62da1ce74d2e",
+            "hash": "sha256:b9707a39e0573a0c864e60ca3c2d571015cb2ca8961f3def56c985f758eaffa1",
             "kind": "technique",
             "path": "primitives/techniques/hinging-plates.json",
             "slug": "hinging-plates"
@@ -424,7 +424,7 @@
             "guards"
           ],
           "primitive": {
-            "hash": "sha256:177575e6215355137512e359e131b2ca8f1a5b3b629ee233884f40694041f16f",
+            "hash": "sha256:f27290b645883ffd6df911992aaf4784ceff6db96c2c3a1dfbf8b668d3f7920a",
             "kind": "material",
             "path": "primitives/materials/guard.json",
             "slug": "guard"
@@ -439,7 +439,7 @@
             "jaconet"
           ],
           "primitive": {
-            "hash": "sha256:fba50254c29300fdf7d0fb669025089aef3e6fa2578c3b6902e9484858525a3a",
+            "hash": "sha256:2a19fc520c11c90cbe6eebbea381a647382f20054cce0e2a0055407e68e966f1",
             "kind": "material",
             "path": "primitives/materials/mounting-linen.json",
             "slug": "mounting-linen"
@@ -454,7 +454,7 @@
             "white paste"
           ],
           "primitive": {
-            "hash": "sha256:3aa5fe58004f1bcc81f08154128863a3a38d720d332461f11771cc103f7cbcd8",
+            "hash": "sha256:18f0349efa7e4ec5ab301e00f00bc342bac94301196f182fd43336a82a1e89f6",
             "kind": "material",
             "path": "primitives/materials/paste.json",
             "slug": "paste"
@@ -468,7 +468,7 @@
             "blotting-paper"
           ],
           "primitive": {
-            "hash": "sha256:7debc2f674e0d19a3bd58ccbfa9c1a9b7e961fd84bd258e2af47574726caa006",
+            "hash": "sha256:8d8d088b6de455ccd2a456c37eac588f9ac4efbf64a6a167522bfba07e9f76c9",
             "kind": "material",
             "path": "primitives/materials/blotting-paper.json",
             "slug": "blotting-paper"
@@ -482,7 +482,7 @@
             "mount cutter's knife"
           ],
           "primitive": {
-            "hash": "sha256:30e293352a05a6270dc945e05b548c2af3799375bd32f6176ba14ec9fb2a87d5",
+            "hash": "sha256:3043a44c83d8eb4973d5450170c42abbf30ad10c2f43d5826e2f50f27ead5e7f",
             "kind": "tool",
             "path": "primitives/tools/mount-cutters-knife.json",
             "slug": "mount-cutters-knife"
@@ -496,7 +496,7 @@
             "dividers"
           ],
           "primitive": {
-            "hash": "sha256:ec3a6c0b8a9a75e19ff39606f9fd5d7c7b9bfc82043d6062907c6cec97f3bc9a",
+            "hash": "sha256:576c67cb56a01020757cf2b892c662bdd61747d8dd50d6ac2ba470a510a43ea9",
             "kind": "tool",
             "path": "primitives/tools/dividers.json",
             "slug": "dividers"
@@ -510,7 +510,7 @@
             "straight-edge"
           ],
           "primitive": {
-            "hash": "sha256:b38a14638b890ec82464d427f885b403b6c74083f00b50124398f20deea74122",
+            "hash": "sha256:06dd8eb25217f2316195eb32d7299bffecbea2ae17314afc8beca6ab771e885b",
             "kind": "tool",
             "path": "primitives/tools/straight-edge.json",
             "slug": "straight-edge"
@@ -530,7 +530,7 @@
             "throwing out"
           ],
           "primitive": {
-            "hash": "sha256:281157c77ff9d0bfa29b38b1e33077f6c559ba89b3bbfaf10365b8059a194c74",
+            "hash": "sha256:63914b42b13519e90490038eb6372af8b773f9b4f924946e2aef222dd920fa92",
             "kind": "technique",
             "path": "primitives/techniques/throwing-out.json",
             "slug": "throwing-out"
@@ -545,7 +545,7 @@
             "jaconet"
           ],
           "primitive": {
-            "hash": "sha256:fba50254c29300fdf7d0fb669025089aef3e6fa2578c3b6902e9484858525a3a",
+            "hash": "sha256:2a19fc520c11c90cbe6eebbea381a647382f20054cce0e2a0055407e68e966f1",
             "kind": "material",
             "path": "primitives/materials/mounting-linen.json",
             "slug": "mounting-linen"
@@ -560,7 +560,7 @@
             "guards"
           ],
           "primitive": {
-            "hash": "sha256:177575e6215355137512e359e131b2ca8f1a5b3b629ee233884f40694041f16f",
+            "hash": "sha256:f27290b645883ffd6df911992aaf4784ceff6db96c2c3a1dfbf8b668d3f7920a",
             "kind": "material",
             "path": "primitives/materials/guard.json",
             "slug": "guard"
@@ -580,7 +580,7 @@
             "pared"
           ],
           "primitive": {
-            "hash": "sha256:84f23815907fe58ea6e51e4979009923314d1fe98fcc7e82566a0035ee318eab",
+            "hash": "sha256:b22a87abbbd5756540362346ac00c0bc9d368c46680b27cde18c2784a0e81b6f",
             "kind": "technique",
             "path": "primitives/techniques/paring-paper.json",
             "slug": "paring-paper"
@@ -595,7 +595,7 @@
             "knife"
           ],
           "primitive": {
-            "hash": "sha256:bcf1d16a7a5b7d52150976efa58473a1837614f5c603498dde79903aeae5e4ce",
+            "hash": "sha256:5a2851f2bb520e10df937051b98dbbff273fb461b7d5f602a17cddc1329c2f15",
             "kind": "tool",
             "path": "primitives/tools/paring-knife.json",
             "slug": "paring-knife"
@@ -615,7 +615,7 @@
             "India proof"
           ],
           "primitive": {
-            "hash": "sha256:31e39dea7c6de1aa64227165677633e9a861e1a38903b78a3039c4a37581379b",
+            "hash": "sha256:3b439d36f7260b79bf0d75a6d83a1e42b1bf1b0d9074d195d4829a24e102b16b",
             "kind": "technique",
             "path": "primitives/techniques/soaking-off-india-proofs.json",
             "slug": "soaking-off-india-proofs"
@@ -630,7 +630,7 @@
             "thin paper"
           ],
           "primitive": {
-            "hash": "sha256:59204838e9bfcaf50701c994bdafc3511f159ebc1268b6dd9bdccf598003a525",
+            "hash": "sha256:6a10ea9c732c4b9cccf46822008ea0a65878446dbbd8da6d2d05e1c100993e43",
             "kind": "technique",
             "path": "primitives/techniques/mounting-thin-paper.json",
             "slug": "mounting-thin-paper"
@@ -645,7 +645,7 @@
             "thin, white paste"
           ],
           "primitive": {
-            "hash": "sha256:3aa5fe58004f1bcc81f08154128863a3a38d720d332461f11771cc103f7cbcd8",
+            "hash": "sha256:18f0349efa7e4ec5ab301e00f00bc342bac94301196f182fd43336a82a1e89f6",
             "kind": "material",
             "path": "primitives/materials/paste.json",
             "slug": "paste"
@@ -659,7 +659,7 @@
             "blotting-paper"
           ],
           "primitive": {
-            "hash": "sha256:7debc2f674e0d19a3bd58ccbfa9c1a9b7e961fd84bd258e2af47574726caa006",
+            "hash": "sha256:8d8d088b6de455ccd2a456c37eac588f9ac4efbf64a6a167522bfba07e9f76c9",
             "kind": "material",
             "path": "primitives/materials/blotting-paper.json",
             "slug": "blotting-paper"
@@ -679,7 +679,7 @@
             "splitting"
           ],
           "primitive": {
-            "hash": "sha256:058dbd64b2f4fd3bad810ddb5510065dc87f665072db8b06432c8d8cebfadce5",
+            "hash": "sha256:e8cad789f8c96d618b21db84051dc754fea7090e5911185bef5c766102e91c8c",
             "kind": "technique",
             "path": "primitives/techniques/splitting-paper.json",
             "slug": "splitting-paper"
@@ -694,7 +694,7 @@
             "linen"
           ],
           "primitive": {
-            "hash": "sha256:fba50254c29300fdf7d0fb669025089aef3e6fa2578c3b6902e9484858525a3a",
+            "hash": "sha256:2a19fc520c11c90cbe6eebbea381a647382f20054cce0e2a0055407e68e966f1",
             "kind": "material",
             "path": "primitives/materials/mounting-linen.json",
             "slug": "mounting-linen"
@@ -708,7 +708,7 @@
             "paste"
           ],
           "primitive": {
-            "hash": "sha256:3aa5fe58004f1bcc81f08154128863a3a38d720d332461f11771cc103f7cbcd8",
+            "hash": "sha256:18f0349efa7e4ec5ab301e00f00bc342bac94301196f182fd43336a82a1e89f6",
             "kind": "material",
             "path": "primitives/materials/paste.json",
             "slug": "paste"
@@ -729,7 +729,7 @@
             "inlaying"
           ],
           "primitive": {
-            "hash": "sha256:019e98b7b2e6cfab07f96c2ca4bec86c45913886694dd8aea684485b22466055",
+            "hash": "sha256:dc695a09b79abdc3f8632d353ae80f618227a9821f9c6b8a4e7530ef5c4bf82f",
             "kind": "technique",
             "path": "primitives/techniques/inlaying.json",
             "slug": "inlaying"
@@ -743,7 +743,7 @@
             "folder"
           ],
           "primitive": {
-            "hash": "sha256:3d43c3f081a63ec671c64dbe63996b080596efb6776576e05b7b93d01ac7de65",
+            "hash": "sha256:22338de32fe0e93210663441b9ec7157b08d6a8bb8820c67b93f8149b2a3812b",
             "kind": "tool",
             "path": "primitives/tools/folder.json",
             "slug": "folder"
@@ -757,7 +757,7 @@
             "knife"
           ],
           "primitive": {
-            "hash": "sha256:bcf1d16a7a5b7d52150976efa58473a1837614f5c603498dde79903aeae5e4ce",
+            "hash": "sha256:5a2851f2bb520e10df937051b98dbbff273fb461b7d5f602a17cddc1329c2f15",
             "kind": "tool",
             "path": "primitives/tools/paring-knife.json",
             "slug": "paring-knife"
@@ -771,7 +771,7 @@
             "pasted"
           ],
           "primitive": {
-            "hash": "sha256:3aa5fe58004f1bcc81f08154128863a3a38d720d332461f11771cc103f7cbcd8",
+            "hash": "sha256:18f0349efa7e4ec5ab301e00f00bc342bac94301196f182fd43336a82a1e89f6",
             "kind": "material",
             "path": "primitives/materials/paste.json",
             "slug": "paste"
@@ -792,7 +792,7 @@
             "flattening"
           ],
           "primitive": {
-            "hash": "sha256:dcf94fa3bce44dc4f620243c6855d1b95588f5049e9169b9d3f4c72fa8e5897f",
+            "hash": "sha256:b8507b3a9e34fcc020e46c02dc0c597bd8a2ac4ee71db6bc541114653bddf975",
             "kind": "technique",
             "path": "primitives/techniques/flattening-vellum.json",
             "slug": "flattening-vellum"
@@ -806,7 +806,7 @@
             "vellum"
           ],
           "primitive": {
-            "hash": "sha256:7f94a9d58003fe9bbecbc778f16e315193320da90b6232563400dd2ee3ec30af",
+            "hash": "sha256:1b1539c86d6b97f9822cf80505b55ed6a10b0cbdedc9e63fa971e214fb465df0",
             "kind": "material",
             "path": "primitives/materials/vellum.json",
             "slug": "vellum"
@@ -820,7 +820,7 @@
             "blotting-paper"
           ],
           "primitive": {
-            "hash": "sha256:7debc2f674e0d19a3bd58ccbfa9c1a9b7e961fd84bd258e2af47574726caa006",
+            "hash": "sha256:8d8d088b6de455ccd2a456c37eac588f9ac4efbf64a6a167522bfba07e9f76c9",
             "kind": "material",
             "path": "primitives/materials/blotting-paper.json",
             "slug": "blotting-paper"
@@ -842,7 +842,7 @@
             "sized"
           ],
           "primitive": {
-            "hash": "sha256:1cd42d00325d3a1be6e74235179955e8e6141ef0df392922ac1755956b6ed5a7",
+            "hash": "sha256:06c9b31b4321a76212ae6a551fdac758db3b7ff2d7b84a0c027b3c5c9cca78dc",
             "kind": "technique",
             "path": "primitives/techniques/sizing.json",
             "slug": "sizing"
@@ -858,7 +858,7 @@
             "size"
           ],
           "primitive": {
-            "hash": "sha256:cbacb88ece1bc626763ca351311777b87be0f68340f1e28c06bd37029cad9e3f",
+            "hash": "sha256:19479a87ae5fa67a6ae01506ad70c5d7c6ef71fad14d87c82d208f1df83a2ed5",
             "kind": "material",
             "path": "primitives/materials/gelatine-size.json",
             "slug": "gelatine-size"
@@ -872,7 +872,7 @@
             "lying press"
           ],
           "primitive": {
-            "hash": "sha256:263b5f6fa642e9f45f328e7ec38b8e4e668afbf812e36517e43c03dd7df42884",
+            "hash": "sha256:53cffcff14eeb178ca45356ebfdb40eb61a5543fe1ae6dcda47b16fbcc651e4c",
             "kind": "tool",
             "path": "primitives/tools/lying-press.json",
             "slug": "lying-press"
@@ -893,7 +893,7 @@
             "washed"
           ],
           "primitive": {
-            "hash": "sha256:f5c3e2e94c81f12bf46053109881ae7a10f5c7a6d9c2a116e0ad4ad4d93c1e90",
+            "hash": "sha256:6c2a52091b6c5b3003f3581ce6d137dd74f9f8047a257ea7f70da9c73235db89",
             "kind": "technique",
             "path": "primitives/techniques/washing.json",
             "slug": "washing"
@@ -910,7 +910,7 @@
             "ether"
           ],
           "primitive": {
-            "hash": "sha256:d68c1a81e47676d48774541ebafb734a69d5445bd8d4651b1450913c91385a02",
+            "hash": "sha256:c9abe4829d107b1f1acb7314273c05008ef76b4cb6fd7da9fbb0723c269fe2dc",
             "kind": "material",
             "path": "primitives/materials/paper-cleaning-agent.json",
             "slug": "paper-cleaning-agent"
@@ -925,7 +925,7 @@
             "hog's hair brush"
           ],
           "primitive": {
-            "hash": "sha256:988954d339a32694f68c2e75ed24e84a9444aab5bdd3bf121cb8b69ca7454963",
+            "hash": "sha256:a6ab5590262ade36be56944c2be82474728ebfdc1a9bba08241b6d7f02b832c5",
             "kind": "tool",
             "path": "primitives/tools/soft-brush.json",
             "slug": "soft-brush"
@@ -946,7 +946,7 @@
             "mended"
           ],
           "primitive": {
-            "hash": "sha256:29d970d4e73b67dfc5fb0a1363bf93e116862f31edebbb4ce5a3551c97cba9b7",
+            "hash": "sha256:cac15dd6c0105a92f328921924153c08180d8d888f77175f85785390888ab5a8",
             "kind": "technique",
             "path": "primitives/techniques/mending.json",
             "slug": "mending"
@@ -961,7 +961,7 @@
             "vellum patch"
           ],
           "primitive": {
-            "hash": "sha256:f4b7b52319ae019936453be4fca2753ce07995e1b496f715a7a6473d94d6f19c",
+            "hash": "sha256:7491629757c28ad703d8de913e6ee92e3a5bde36f9ec452f3145af49f2cf0d9f",
             "kind": "technique",
             "path": "primitives/techniques/mending-vellum.json",
             "slug": "mending-vellum"
@@ -977,7 +977,7 @@
             "pared paper"
           ],
           "primitive": {
-            "hash": "sha256:839c027b6a6326794df60042b407d9e790ea8a2929e04f41a2a6cba48618c122",
+            "hash": "sha256:d31e0f7c1c3eb3b94de6a25aff8e24bd9777c865547c15224997a01fd06ab128",
             "kind": "material",
             "path": "primitives/materials/mending-paper.json",
             "slug": "mending-paper"
@@ -992,7 +992,7 @@
             "white paste"
           ],
           "primitive": {
-            "hash": "sha256:2c533886eacde270012fbef397ee55a5950ece002a08c935dbfdcf30b9e04a56",
+            "hash": "sha256:2f7e326080182844864273ab84a5a3646f6bdf03d0864c16f87f41dc49d559f1",
             "kind": "material",
             "path": "primitives/materials/mending-paste.json",
             "slug": "mending-paste"
@@ -1006,7 +1006,7 @@
             "folder"
           ],
           "primitive": {
-            "hash": "sha256:3d43c3f081a63ec671c64dbe63996b080596efb6776576e05b7b93d01ac7de65",
+            "hash": "sha256:22338de32fe0e93210663441b9ec7157b08d6a8bb8820c67b93f8149b2a3812b",
             "kind": "tool",
             "path": "primitives/tools/folder.json",
             "slug": "folder"
@@ -1022,7 +1022,7 @@
             "pare"
           ],
           "primitive": {
-            "hash": "sha256:bcf1d16a7a5b7d52150976efa58473a1837614f5c603498dde79903aeae5e4ce",
+            "hash": "sha256:5a2851f2bb520e10df937051b98dbbff273fb461b7d5f602a17cddc1329c2f15",
             "kind": "tool",
             "path": "primitives/tools/paring-knife.json",
             "slug": "paring-knife"
@@ -1037,7 +1037,7 @@
             "fine silk"
           ],
           "primitive": {
-            "hash": "sha256:1322471942c4e195b65e575da3e3df0c845966dca3faa9c58152ec1e3f003ebb",
+            "hash": "sha256:653d6d4776b2fc930f264b786749fd1a83f67c7da59ff9d5c3948f38850e0eab",
             "kind": "material",
             "path": "primitives/materials/sewing-silk.json",
             "slug": "sewing-silk"
@@ -1058,7 +1058,7 @@
             "paste-down paper"
           ],
           "primitive": {
-            "hash": "sha256:bbb75482e59a4ac5a3d28cdf10b8225104abaac5f5cfd7155b60d4615dd82072",
+            "hash": "sha256:3433ee709c5977b574c0a7e882b2a96d32158c6cd8c052902b3dadd730c963e2",
             "kind": "material",
             "path": "primitives/materials/end-paper.json",
             "slug": "end-paper"
@@ -1073,7 +1073,7 @@
             "zigzag"
           ],
           "primitive": {
-            "hash": "sha256:22efdee89cf1a0d04bdfc1a17cdb85e96a5995a9ed91683fdc53188d3eeb4b74",
+            "hash": "sha256:ded92d0434ba0e2ebe13cda2851be5e0c25d57270245f6d884ab8e22c111be28",
             "kind": "workflow",
             "path": "primitives/workflows/making-end-papers.json",
             "slug": "making-end-papers"
@@ -1088,7 +1088,7 @@
             "marble paper"
           ],
           "primitive": {
-            "hash": "sha256:83866b4a1ebcb6e6052956fc472c9b6ff76b7e64d05f1ed74ab18614ac16a322",
+            "hash": "sha256:dca30f1b0005778dea29fe4d1c739a440f983fd8a2123a31b6cb78e1c322ad7a",
             "kind": "material",
             "path": "primitives/materials/marbled-paper.json",
             "slug": "marbled-paper"
@@ -1103,7 +1103,7 @@
             "thin vellum"
           ],
           "primitive": {
-            "hash": "sha256:a6f1f66055cf79ec37094b57e140dcf94b46c8677f7b75431c83c7cf39928392",
+            "hash": "sha256:8b3a294cae8f84bd7741342196d13ea699edae5df7ba03efc4ae34d9b0cbb66a",
             "kind": "material",
             "path": "primitives/materials/vellum-end.json",
             "slug": "vellum-end"
@@ -1118,7 +1118,7 @@
             "silk"
           ],
           "primitive": {
-            "hash": "sha256:a76f9de2e8aea7a13c396a1b8a20f16b31d31bea075b7e78c56e16dd80f0e61f",
+            "hash": "sha256:dee528192f9facf5d2c0406512ac47e4a4491e58c2e0dbb9f4404757419fec65",
             "kind": "material",
             "path": "primitives/materials/silk-end.json",
             "slug": "silk-end"
@@ -1138,7 +1138,7 @@
             "leather joints"
           ],
           "primitive": {
-            "hash": "sha256:949d5d421b10810df341b3bf11dcffdf785a84326dfd5f3c9d9801b040fe253b",
+            "hash": "sha256:c6ce2bcfa90aba979fbd19e0cf2ec70e7d7e875f73b5bb1cf698964bb7aac0d2",
             "kind": "material",
             "path": "primitives/materials/leather-joint.json",
             "slug": "leather-joint"
@@ -1154,7 +1154,7 @@
             "cloth"
           ],
           "primitive": {
-            "hash": "sha256:cf09ee5d49371e8a89755e4244c36234b7a3e97b7599571cb9d8ddc313d6f31f",
+            "hash": "sha256:a64a97139b7bfa2ede385762c33ce63b48d065666b917882ec370d9135156202",
             "kind": "material",
             "path": "primitives/materials/cloth-joint.json",
             "slug": "cloth-joint"
@@ -1174,7 +1174,7 @@
             "pressed"
           ],
           "primitive": {
-            "hash": "sha256:ee8c9bf178bedcf0389e32add53ede72a4c0a173696362a3e764cb40e09db18e",
+            "hash": "sha256:30ca2519865e1b20d4eb7a40c13116761c024c5555a49eb5d5a24614ec8cc09d",
             "kind": "technique",
             "path": "primitives/techniques/pressing-sections.json",
             "slug": "pressing-sections"
@@ -1189,7 +1189,7 @@
             "French standing-press"
           ],
           "primitive": {
-            "hash": "sha256:fb79d317912094389bb68b6f124d9f55d2ceac5a423b776a116c2541def14b1b",
+            "hash": "sha256:885160cd49358612bb2b7245b23d63ac337e7cb87e71d69897111a52ddaac799",
             "kind": "tool",
             "path": "primitives/tools/standing-press.json",
             "slug": "standing-press"
@@ -1203,7 +1203,7 @@
             "pressing-board"
           ],
           "primitive": {
-            "hash": "sha256:5b4a3d280e7a45e146146f35bda7f0eabdf48d44f44328198afa8c53a3b332fb",
+            "hash": "sha256:ecfa4f567851e68ab13b3b8dfd825fae74b850b37a97fdd806a46989523bc490",
             "kind": "tool",
             "path": "primitives/tools/pressing-board.json",
             "slug": "pressing-board"
@@ -1218,7 +1218,7 @@
             "tins"
           ],
           "primitive": {
-            "hash": "sha256:3e4e140dc350534173d245c23226a9d53f4da5f3cb2018482799628fad3658ca",
+            "hash": "sha256:a6e7e9d113e0f7ab02f3a30786dba6f0aa5606c301187109feb5f2bbd5257df7",
             "kind": "tool",
             "path": "primitives/tools/pressing-tin.json",
             "slug": "pressing-tin"
@@ -1233,7 +1233,7 @@
             "stone"
           ],
           "primitive": {
-            "hash": "sha256:a1742e5949bbf5b4f37a8e3436002b6844bb1f544283a1744258d0895f3f2169",
+            "hash": "sha256:8009708bef8fa27b8f4198b208b1b5696d7af9c0f484a25bb4a3afa369e54338",
             "kind": "technique",
             "path": "primitives/techniques/beating.json",
             "slug": "beating"
@@ -1255,7 +1255,7 @@
             "cut square at the head"
           ],
           "primitive": {
-            "hash": "sha256:6bea556f05382486e403d6e77a9293b1419112ea2255b6ccea0612c528bc10b8",
+            "hash": "sha256:e7ab14f9d3b263b39ebc836607bfb4107a8c566e5894ae37e617ea8300d3ea6f",
             "kind": "technique",
             "path": "primitives/techniques/trimming-edges.json",
             "slug": "trimming-edges"
@@ -1271,7 +1271,7 @@
             "slides"
           ],
           "primitive": {
-            "hash": "sha256:ba14e6211e88cb4a00a6effe7edf36d49e1a84419a58f14d9425bbbeab1d53c9",
+            "hash": "sha256:0dc55da231add8f8a8ea3eee5a9f2eff088557b95f91fe31d5a1b8c996fdc79e",
             "kind": "tool",
             "path": "primitives/tools/edge-trimming-jig.json",
             "slug": "edge-trimming-jig"
@@ -1285,7 +1285,7 @@
             "carpenter's square"
           ],
           "primitive": {
-            "hash": "sha256:6d471a304a00c1ac8b574b5b6919bc2f156dd0753893e0ae2713ec49cefd1907",
+            "hash": "sha256:6ff295d3aebfd0078ff596a1f0dea6fafd8b2b7d1240f59552df7fbd5ac90efa",
             "kind": "tool",
             "path": "primitives/tools/carpenter-square.json",
             "slug": "carpenter-square"
@@ -1299,7 +1299,7 @@
             "folder"
           ],
           "primitive": {
-            "hash": "sha256:3d43c3f081a63ec671c64dbe63996b080596efb6776576e05b7b93d01ac7de65",
+            "hash": "sha256:22338de32fe0e93210663441b9ec7157b08d6a8bb8820c67b93f8149b2a3812b",
             "kind": "tool",
             "path": "primitives/tools/folder.json",
             "slug": "folder"
@@ -1319,7 +1319,7 @@
             "gild the edges"
           ],
           "primitive": {
-            "hash": "sha256:353526e6d5028d61022ae5a85b9fb7c43b70b2c3eaae35bb5d7288e4e330e375",
+            "hash": "sha256:4bf182308dc9ce2656bfc2b97d9525a9625d18f473439f0eee151a1521fdf62a",
             "kind": "workflow",
             "path": "primitives/workflows/edge-gilding-before-sewing.json",
             "slug": "edge-gilding-before-sewing"
@@ -1335,7 +1335,7 @@
             "gilt"
           ],
           "primitive": {
-            "hash": "sha256:7a15a751cac44d838340e51a36bfb2818f3dde932fc1c31014ada8a898f7bd7e",
+            "hash": "sha256:8fe9a8cdbf0ee8a688a56f39f77727a2cba91c74c92f5b750816f31b93ed11b3",
             "kind": "technique",
             "path": "primitives/techniques/edge-gilding.json",
             "slug": "edge-gilding"
@@ -1349,7 +1349,7 @@
             "lying press"
           ],
           "primitive": {
-            "hash": "sha256:263b5f6fa642e9f45f328e7ec38b8e4e668afbf812e36517e43c03dd7df42884",
+            "hash": "sha256:53cffcff14eeb178ca45356ebfdb40eb61a5543fe1ae6dcda47b16fbcc651e4c",
             "kind": "tool",
             "path": "primitives/tools/lying-press.json",
             "slug": "lying-press"
@@ -1363,7 +1363,7 @@
             "gilding boards"
           ],
           "primitive": {
-            "hash": "sha256:4bcb84887fa165810fc175395068d88968818c607693e61c251c900e8e50b2dd",
+            "hash": "sha256:3e02f898e95ee2d3c1b7283adfd1f13f69805f70640e1785483bc23b4db45041",
             "kind": "tool",
             "path": "primitives/tools/cutting-board.json",
             "slug": "cutting-board"
@@ -1379,7 +1379,7 @@
             "greased paper"
           ],
           "primitive": {
-            "hash": "sha256:28ecef61ddb3ec23b07caac615fdb5169d81b87207ffffa07f8c14b3bf9cf804",
+            "hash": "sha256:71b66c89cd52e15825c1280a076b560ffb9f06d6f7f43f79cae95b5e02487fde",
             "kind": "tool",
             "path": "primitives/tools/gilders-tip.json",
             "slug": "gilders-tip"
@@ -1395,7 +1395,7 @@
             "bloodstone"
           ],
           "primitive": {
-            "hash": "sha256:bc7c79d0657604aef708861a24b7d236333f92c8928c3b7d7757b2316aa6539c",
+            "hash": "sha256:1434f3cd04269759478655149844746e45b75d3c1e1d50af62b77730b4946179",
             "kind": "tool",
             "path": "primitives/tools/burnisher.json",
             "slug": "burnisher"
@@ -1410,7 +1410,7 @@
             "gold"
           ],
           "primitive": {
-            "hash": "sha256:e87e517f0e58ca1cee9993413c69b8614b54e54ae2bdb3d2e87cc1075a9704f7",
+            "hash": "sha256:50c2cf3aaca7c05c82e1b735646c0eda58900fba5f9cc3bfb0b0e916daa77092",
             "kind": "material",
             "path": "primitives/materials/gold-leaf.json",
             "slug": "gold-leaf"
@@ -1425,7 +1425,7 @@
             "white of egg"
           ],
           "primitive": {
-            "hash": "sha256:c8021a6d5872a2ffb390ca697f0e830dec06163a264ca47e7fbcfa0995b6a50a",
+            "hash": "sha256:5cb9a53d125c95f16b52639484213b2dfafbe271aa396d5ef1f42e071e4aee52",
             "kind": "material",
             "path": "primitives/materials/glaire.json",
             "slug": "glaire"
@@ -1440,7 +1440,7 @@
             "red chalk"
           ],
           "primitive": {
-            "hash": "sha256:2665d237120d51b6c2fa7c1d09b116aa170c5fb6369851ee4c7f0c202b38e2a2",
+            "hash": "sha256:84e88b0c1e9a31a9e6c1dd782d92ae943cb17446e6f1eff7bc9a136e5cd9f250",
             "kind": "material",
             "path": "primitives/materials/red-chalk.json",
             "slug": "red-chalk"
@@ -1454,7 +1454,7 @@
             "blacklead"
           ],
           "primitive": {
-            "hash": "sha256:35aaa200583a831c3c4655f201c9ffc8a4a364596f67939e25304643b827efc0",
+            "hash": "sha256:672fec3bb8e16955b19eb86a7147dae464fa366a246682ff3df020cf4a29c45f",
             "kind": "material",
             "path": "primitives/materials/blacklead.json",
             "slug": "blacklead"
@@ -1468,7 +1468,7 @@
             "vellum size"
           ],
           "primitive": {
-            "hash": "sha256:17372de98614378d2a975e168a005dcfc2bdf19fad8aa7492a09e6598f6bdbfd",
+            "hash": "sha256:01b78f8e0ab3b728edb99abbb20de30a3c53c7c32d21a9d06b07fbc394614dd5",
             "kind": "material",
             "path": "primitives/materials/size.json",
             "slug": "size"
@@ -1503,7 +1503,7 @@
             "Marking up"
           ],
           "primitive": {
-            "hash": "sha256:eb88dddcdd0d49a7d32fa2ef5b8b8f19b89278520d99a8a5b21279f27dd23f02",
+            "hash": "sha256:72ea60a6bda0d38d701a7a4347b990acee972850e63f6e4a3c301b89d5b83293",
             "kind": "technique",
             "path": "primitives/techniques/marking-up.json",
             "slug": "marking-up"
@@ -1518,7 +1518,7 @@
             "carpenter square"
           ],
           "primitive": {
-            "hash": "sha256:6d471a304a00c1ac8b574b5b6919bc2f156dd0753893e0ae2713ec49cefd1907",
+            "hash": "sha256:6ff295d3aebfd0078ff596a1f0dea6fafd8b2b7d1240f59552df7fbd5ac90efa",
             "kind": "tool",
             "path": "primitives/tools/carpenter-square.json",
             "slug": "carpenter-square"
@@ -1532,7 +1532,7 @@
             "lying press"
           ],
           "primitive": {
-            "hash": "sha256:263b5f6fa642e9f45f328e7ec38b8e4e668afbf812e36517e43c03dd7df42884",
+            "hash": "sha256:53cffcff14eeb178ca45356ebfdb40eb61a5543fe1ae6dcda47b16fbcc651e4c",
             "kind": "tool",
             "path": "primitives/tools/lying-press.json",
             "slug": "lying-press"
@@ -1548,7 +1548,7 @@
             "saw in"
           ],
           "primitive": {
-            "hash": "sha256:843d39613a8ee560b616890c6586061a176ab4076b67d016e21af8ca34ebc7a5",
+            "hash": "sha256:55191522816d4864a7c2859dc04074af63184cdc31968b8380548f8c5ef07bf8",
             "kind": "technique",
             "path": "primitives/techniques/sawing-in.json",
             "slug": "sawing-in"
@@ -1567,7 +1567,7 @@
             "sewing"
           ],
           "primitive": {
-            "hash": "sha256:9382561ba3144fea075785897b12a3b048ef677119da6713f773201e0e69130f",
+            "hash": "sha256:8bebdc144332bd1abae864344e8b8a8a1feee393cbdeb290ada6aade3b27ad73",
             "kind": "technique",
             "path": "primitives/techniques/flexible-sewing.json",
             "slug": "flexible-sewing"
@@ -1584,7 +1584,7 @@
             "sewing press"
           ],
           "primitive": {
-            "hash": "sha256:cf004bc19648c2a57b9e967952c253e4b786f5d6c78ce987bcc4ae95bfb111ab",
+            "hash": "sha256:6ed74d8b57ebdc42887848ffb81e2ddc007bb50d9c6f9b7dce89b8b09c1fc001",
             "kind": "tool",
             "path": "primitives/tools/sewing-frame.json",
             "slug": "sewing-frame"
@@ -1599,7 +1599,7 @@
             "key"
           ],
           "primitive": {
-            "hash": "sha256:0d5179e48f84d0f01be7f7c7196ce43683730f041cddfcb127cb176cd80970db",
+            "hash": "sha256:48505cacce18154848690857b206f16e19bf1f6c076ccd31a74d5c6f1a1f06fb",
             "kind": "tool",
             "path": "primitives/tools/sewing-key.json",
             "slug": "sewing-key"
@@ -1615,7 +1615,7 @@
             "cord"
           ],
           "primitive": {
-            "hash": "sha256:3879ab32c1c44a9613e6d6264a94f85d0f8871a01663f4df0e25476ba34b9b23",
+            "hash": "sha256:bd72d8c922b0ff20236747a2f012e838413984cbce33a8f04d29af30edb0db8a",
             "kind": "material",
             "path": "primitives/materials/sewing-cord.json",
             "slug": "sewing-cord"
@@ -1631,7 +1631,7 @@
             "kettle"
           ],
           "primitive": {
-            "hash": "sha256:84476c7826fcc9867c87acafc42f21056746e9d00a73ba9b5364850fb2811490",
+            "hash": "sha256:f0fb4cc5a6e17463fd81ffa8ce688aabef6c7dd84fcad50e840992c261afcf5c",
             "kind": "technique",
             "path": "primitives/techniques/kettle-stitch.json",
             "slug": "kettle-stitch"
@@ -1646,7 +1646,7 @@
             "weavers knot"
           ],
           "primitive": {
-            "hash": "sha256:34891c52b81b93d0b5118f2118ae5d256220ddc1c437f8263ef950782b070bb1",
+            "hash": "sha256:3fb89cd82548235892069ba13ddcbbda5e3ba56470adf6a0d0b9c5b030c3fe9f",
             "kind": "technique",
             "path": "primitives/techniques/weavers-knot.json",
             "slug": "weavers-knot"
@@ -1665,7 +1665,7 @@
             "thread"
           ],
           "primitive": {
-            "hash": "sha256:000e3bc1dc951bef885574ad76fed386b5363aeada26bb193ce99866a95b98cd",
+            "hash": "sha256:bcaacc0f5a6144fbbdec598b36d36c8e7812bc10950f9f3bd223e9c827a83bba",
             "kind": "material",
             "path": "primitives/materials/sewing-thread.json",
             "slug": "sewing-thread"
@@ -1679,7 +1679,7 @@
             "silk"
           ],
           "primitive": {
-            "hash": "sha256:1322471942c4e195b65e575da3e3df0c845966dca3faa9c58152ec1e3f003ebb",
+            "hash": "sha256:653d6d4776b2fc930f264b786749fd1a83f67c7da59ff9d5c3948f38850e0eab",
             "kind": "material",
             "path": "primitives/materials/sewing-silk.json",
             "slug": "sewing-silk"
@@ -1694,7 +1694,7 @@
             "tape"
           ],
           "primitive": {
-            "hash": "sha256:0d068a5405b9af42967e7bdbabe66dbff2313e7de9d6ec5561284d45d687ee29",
+            "hash": "sha256:f6e81cd0f3800960cff679f32be9b086aa3c71e9eb754f7c8e6d83b486691994",
             "kind": "material",
             "path": "primitives/materials/sewing-tape.json",
             "slug": "sewing-tape"
@@ -1708,7 +1708,7 @@
             "vellum"
           ],
           "primitive": {
-            "hash": "sha256:ba4bb2bc88b07debf53a4ecfe55dcd27465888968cc4f343b3a55d82fc28bcba",
+            "hash": "sha256:deee88b0c18713f3245ec0b116d13aa2f01d84095dc9dd456db1a03fca895179",
             "kind": "material",
             "path": "primitives/materials/vellum-slip.json",
             "slug": "vellum-slip"
@@ -1723,7 +1723,7 @@
             "on tapes"
           ],
           "primitive": {
-            "hash": "sha256:9f49c85341ed2058e6758a022f5cffff4ff718a3a80967493e203ef1e724498b",
+            "hash": "sha256:15102566e3ca10abb4a6e562dc26657ac13bd8e765c2f4eab2150c2c0cfecfa3",
             "kind": "technique",
             "path": "primitives/techniques/sewing-on-tapes.json",
             "slug": "sewing-on-tapes"
@@ -1738,7 +1738,7 @@
             "vellum slips"
           ],
           "primitive": {
-            "hash": "sha256:9987181279814ae4126d40f90fafd4eaed64c4eebbd06d8e51e0d126ee7dad2f",
+            "hash": "sha256:32ca6df6c768b847088f4dea39a9f14f743611bc9974e3f25f5ad9d8b640c803",
             "kind": "technique",
             "path": "primitives/techniques/sewing-on-vellum-slips.json",
             "slug": "sewing-on-vellum-slips"
@@ -1759,7 +1759,7 @@
             "fraying out slips"
           ],
           "primitive": {
-            "hash": "sha256:d8a7f1bedab366516d99608a1cee7f776830cae2b2eada9b86798ed31e935363",
+            "hash": "sha256:5fdb4796c22c55164c835304060b0b5b7a8df185b40d40f87b55965117cb6680",
             "kind": "technique",
             "path": "primitives/techniques/fraying-out-slips.json",
             "slug": "fraying-out-slips"
@@ -1774,7 +1774,7 @@
             "glued"
           ],
           "primitive": {
-            "hash": "sha256:f9083cc815c98f5f1e0017ab6d0028b767a1a2dee9a17f3b6e84760e4f8d4314",
+            "hash": "sha256:a3c187d63b9df77dd9321ab0f667e3718c678084fa789fa138041d738c507908",
             "kind": "technique",
             "path": "primitives/techniques/glueing-up.json",
             "slug": "glueing-up"
@@ -1789,7 +1789,7 @@
             "binder's bodkin"
           ],
           "primitive": {
-            "hash": "sha256:4271729faa4e5186a580534ff02e67d63e1dcd18d020713f903e7157b7acb4e6",
+            "hash": "sha256:d40783ce3dea242d4248469de701caad3beacb8ad196195b85f7d24f9c5f3ec4",
             "kind": "tool",
             "path": "primitives/tools/bodkin.json",
             "slug": "bodkin"
@@ -1805,7 +1805,7 @@
             "brush"
           ],
           "primitive": {
-            "hash": "sha256:eebc8e75e23ab79aada100c21f30c02faba26a5f0c3cdc1caba5543ab502ed7f",
+            "hash": "sha256:a600e82e3aa0d2c63b7b524ef9c8f111d02b2d0585299327f8c038bc220de758",
             "kind": "tool",
             "path": "primitives/tools/glue-brush.json",
             "slug": "glue-brush"
@@ -1819,7 +1819,7 @@
             "knocking-down iron"
           ],
           "primitive": {
-            "hash": "sha256:5b7ca01676ef9a543c872c31d8b468a5f65e051e65304068ed32ed5c79262680",
+            "hash": "sha256:77b85bacc9929f92ab4f2e37b9f4db0c283de867747ac1a5c90d7383d0d9ddb8",
             "kind": "tool",
             "path": "primitives/tools/knocking-down-iron.json",
             "slug": "knocking-down-iron"
@@ -1834,7 +1834,7 @@
             "the press"
           ],
           "primitive": {
-            "hash": "sha256:263b5f6fa642e9f45f328e7ec38b8e4e668afbf812e36517e43c03dd7df42884",
+            "hash": "sha256:53cffcff14eeb178ca45356ebfdb40eb61a5543fe1ae6dcda47b16fbcc651e4c",
             "kind": "tool",
             "path": "primitives/tools/lying-press.json",
             "slug": "lying-press"
@@ -1849,7 +1849,7 @@
             "hot glue"
           ],
           "primitive": {
-            "hash": "sha256:eb4e812a04868b78d075edc419754c1e36367d3890906b26ab8eef6a70fd2e7e",
+            "hash": "sha256:41a54c348c10eeeea7b65cd84d6cd9cddc3a5a57ddc9e526bf48f7306ce7577c",
             "kind": "material",
             "path": "primitives/materials/glue.json",
             "slug": "glue"
@@ -1865,7 +1865,7 @@
             "the cords"
           ],
           "primitive": {
-            "hash": "sha256:3879ab32c1c44a9613e6d6264a94f85d0f8871a01663f4df0e25476ba34b9b23",
+            "hash": "sha256:bd72d8c922b0ff20236747a2f012e838413984cbce33a8f04d29af30edb0db8a",
             "kind": "material",
             "path": "primitives/materials/sewing-cord.json",
             "slug": "sewing-cord"
@@ -1884,7 +1884,7 @@
             "rounding and backing"
           ],
           "primitive": {
-            "hash": "sha256:3711396b0b17c88bf760ab40da4922f2ed7b9f9ae62434f1d3c807b8bdf43760",
+            "hash": "sha256:a4498fa1046f0597bde7dbf0a5af7950bd9c5a1b4803b0626c0b9db36854ff30",
             "kind": "workflow",
             "path": "primitives/workflows/rounding-and-backing.json",
             "slug": "rounding-and-backing"
@@ -1900,7 +1900,7 @@
             "convex"
           ],
           "primitive": {
-            "hash": "sha256:cad1246e737a83e0b8d0f1a2ed013506ca3e98723dcb9d7043910ef9959a984d",
+            "hash": "sha256:fe31764dc5edff8acf4197da2f06857977a1ab35356dcceba6774eb134bd3679",
             "kind": "technique",
             "path": "primitives/techniques/rounding.json",
             "slug": "rounding"
@@ -1916,7 +1916,7 @@
             "groove"
           ],
           "primitive": {
-            "hash": "sha256:47425d0adfbb563c523ae1969875c4b2bafb9da783dbb0d1932c1d89676d3c5a",
+            "hash": "sha256:50908c18a51ce511e8d82adc23d1f0f4c54f14ce5e45f2c6202db616d40333c8",
             "kind": "technique",
             "path": "primitives/techniques/backing.json",
             "slug": "backing"
@@ -1931,7 +1931,7 @@
             "hammer"
           ],
           "primitive": {
-            "hash": "sha256:c364d17bd6c8133d0d90be55fa3517e2cc10f0604b192fdb324f15e83452493b",
+            "hash": "sha256:4739756f528ea94b3e5fa662f99009bcdffabec10500491f8abd1396c495051c",
             "kind": "tool",
             "path": "primitives/tools/backing-hammer.json",
             "slug": "backing-hammer"
@@ -1946,7 +1946,7 @@
             "backing board"
           ],
           "primitive": {
-            "hash": "sha256:b79303d9e7b48c95cf8ea6fd8ec8e8efe6164d9b4fe9f249372dc237c655d3a4",
+            "hash": "sha256:8e016bebada8e40ad455ad9d9a67db51991c15bfd6a920d6b3aba14763917197",
             "kind": "tool",
             "path": "primitives/tools/backing-board.json",
             "slug": "backing-board"
@@ -1961,7 +1961,7 @@
             "the press"
           ],
           "primitive": {
-            "hash": "sha256:263b5f6fa642e9f45f328e7ec38b8e4e668afbf812e36517e43c03dd7df42884",
+            "hash": "sha256:53cffcff14eeb178ca45356ebfdb40eb61a5543fe1ae6dcda47b16fbcc651e4c",
             "kind": "tool",
             "path": "primitives/tools/lying-press.json",
             "slug": "lying-press"
@@ -1984,7 +1984,7 @@
             "made board"
           ],
           "primitive": {
-            "hash": "sha256:3f4a8036d4684d96ec4b2f0e4f3a69029a7d7437725ab229f832cfd47aafa785",
+            "hash": "sha256:9991d1f84d6d0a433758778fe6a20b2c6b4914661be2b4b6b931149e48af1c42",
             "kind": "material",
             "path": "primitives/materials/millboard.json",
             "slug": "millboard"
@@ -1999,7 +1999,7 @@
             "wooden board"
           ],
           "primitive": {
-            "hash": "sha256:3b6711dab63602217a586a324cbc0c595591aeff342de373127238b549f267a6",
+            "hash": "sha256:cabe95ebe3122fb322c98ef5e33705974ff71be44a7ea5776e81dec79c5191dc",
             "kind": "material",
             "path": "primitives/materials/wooden-board.json",
             "slug": "wooden-board"
@@ -2014,7 +2014,7 @@
             "shears"
           ],
           "primitive": {
-            "hash": "sha256:f4bfa75438f8e9ff09c330ff02b2044a713f4026b24e32b83c670425e7562985",
+            "hash": "sha256:01d6f9f8ff6ecf513aff9308ef92b99c37874a4b112755b39132b91187b30497",
             "kind": "tool",
             "path": "primitives/tools/millboard-shears.json",
             "slug": "millboard-shears"
@@ -2029,7 +2029,7 @@
             "millboard machine"
           ],
           "primitive": {
-            "hash": "sha256:b8516684ccd55ec996f8a23e7206820339e7b1953249053efbd53d71fb50d60f",
+            "hash": "sha256:fd01bf0efd2e889f527e6b08f41fde6fca3caa57219399e1ccf127d9c5994a58",
             "kind": "tool",
             "path": "primitives/tools/board-machine.json",
             "slug": "board-machine"
@@ -2043,7 +2043,7 @@
             "plough"
           ],
           "primitive": {
-            "hash": "sha256:9a3b335366c5c1b25d275785d14ef6fee07e3ee6c979ac3cef182ec7a5830687",
+            "hash": "sha256:bba1bb13f44b6e6b1e2a00841445c0182623c01556160588f1ad804e9bf59134",
             "kind": "tool",
             "path": "primitives/tools/plough.json",
             "slug": "plough"
@@ -2058,7 +2058,7 @@
             "plough  knife"
           ],
           "primitive": {
-            "hash": "sha256:4e18d4362e4df876c9c13ae9e8cae7dd069f82552f351134568677b968c4c86f",
+            "hash": "sha256:7c0126eee38ef42343c3f7c9399b7c71301190891f0ee4a85d293f6326e0dba8",
             "kind": "tool",
             "path": "primitives/tools/plough-knife.json",
             "slug": "plough-knife"
@@ -2075,7 +2075,7 @@
             "press"
           ],
           "primitive": {
-            "hash": "sha256:263b5f6fa642e9f45f328e7ec38b8e4e668afbf812e36517e43c03dd7df42884",
+            "hash": "sha256:53cffcff14eeb178ca45356ebfdb40eb61a5543fe1ae6dcda47b16fbcc651e4c",
             "kind": "tool",
             "path": "primitives/tools/lying-press.json",
             "slug": "lying-press"
@@ -2089,7 +2089,7 @@
             "carpenter's square"
           ],
           "primitive": {
-            "hash": "sha256:6d471a304a00c1ac8b574b5b6919bc2f156dd0753893e0ae2713ec49cefd1907",
+            "hash": "sha256:6ff295d3aebfd0078ff596a1f0dea6fafd8b2b7d1240f59552df7fbd5ac90efa",
             "kind": "tool",
             "path": "primitives/tools/carpenter-square.json",
             "slug": "carpenter-square"
@@ -2104,7 +2104,7 @@
             "pair of compasses"
           ],
           "primitive": {
-            "hash": "sha256:8c99b3af8c4448f68611c42888b8f69189e5f687318e52c28d3815395c4509b2",
+            "hash": "sha256:8aeca05fe2f8e50146c7d555057cb733a9db4a1b9a52c8e06d39d1238e9dab0a",
             "kind": "tool",
             "path": "primitives/tools/compasses.json",
             "slug": "compasses"
@@ -2119,7 +2119,7 @@
             "bodkin"
           ],
           "primitive": {
-            "hash": "sha256:4271729faa4e5186a580534ff02e67d63e1dcd18d020713f903e7157b7acb4e6",
+            "hash": "sha256:d40783ce3dea242d4248469de701caad3beacb8ad196195b85f7d24f9c5f3ec4",
             "kind": "tool",
             "path": "primitives/tools/bodkin.json",
             "slug": "bodkin"
@@ -2134,7 +2134,7 @@
             "knocking  down  iron"
           ],
           "primitive": {
-            "hash": "sha256:5b7ca01676ef9a543c872c31d8b468a5f65e051e65304068ed32ed5c79262680",
+            "hash": "sha256:77b85bacc9929f92ab4f2e37b9f4db0c283de867747ac1a5c90d7383d0d9ddb8",
             "kind": "tool",
             "path": "primitives/tools/knocking-down-iron.json",
             "slug": "knocking-down-iron"
@@ -2150,7 +2150,7 @@
             "cut straight with the plough"
           ],
           "primitive": {
-            "hash": "sha256:37e2205235eae2d013dc6a0e3b71fbf70a25314243e3eac1fda1e9386116fe12",
+            "hash": "sha256:68c645cebfab7cdb8ab3f2b0510bea1e038a2f5c6e4bb110c7db7bf46bd7bad7",
             "kind": "technique",
             "path": "primitives/techniques/cutting-boards.json",
             "slug": "cutting-boards"
@@ -2167,7 +2167,7 @@
             "double paper"
           ],
           "primitive": {
-            "hash": "sha256:1da5c8f7a9c3471c215e54f93900f58287c0f7f2bfe6b3c719b6c6943997498e",
+            "hash": "sha256:9a9fd2617a1dcfad4cab6c44f8b5524c583ab4b6e089e957c5412d827f2b2497",
             "kind": "technique",
             "path": "primitives/techniques/lining-boards.json",
             "slug": "lining-boards"
@@ -2183,7 +2183,7 @@
             "laced-in slips"
           ],
           "primitive": {
-            "hash": "sha256:9e8cbb4b7f598620ac48edc4469199d2d7df0a69b63da0e57b06746d1946d8ca",
+            "hash": "sha256:3eb3e742a157e3b467bbaf304578ac4efda9ada119eeff29de62c42ebaaae60a",
             "kind": "technique",
             "path": "primitives/techniques/lacing-in.json",
             "slug": "lacing-in"
@@ -2199,7 +2199,7 @@
             "double paper"
           ],
           "primitive": {
-            "hash": "sha256:24967ef396c3a40bfed520ef2fbf72b5fd5339e535e520c4a8a99de24c6f0b2d",
+            "hash": "sha256:9f3c80344b0edec8d911ad8d995be400e8e851e25f01e9ccabb37ddd257c74ed",
             "kind": "material",
             "path": "primitives/materials/lining-paper.json",
             "slug": "lining-paper"
@@ -2214,7 +2214,7 @@
             "pasted"
           ],
           "primitive": {
-            "hash": "sha256:3aa5fe58004f1bcc81f08154128863a3a38d720d332461f11771cc103f7cbcd8",
+            "hash": "sha256:18f0349efa7e4ec5ab301e00f00bc342bac94301196f182fd43336a82a1e89f6",
             "kind": "material",
             "path": "primitives/materials/paste.json",
             "slug": "paste"
@@ -2231,7 +2231,7 @@
             "silky fibres"
           ],
           "primitive": {
-            "hash": "sha256:3879ab32c1c44a9613e6d6264a94f85d0f8871a01663f4df0e25476ba34b9b23",
+            "hash": "sha256:bd72d8c922b0ff20236747a2f012e838413984cbce33a8f04d29af30edb0db8a",
             "kind": "material",
             "path": "primitives/materials/sewing-cord.json",
             "slug": "sewing-cord"
@@ -2246,7 +2246,7 @@
             "attaching boards"
           ],
           "primitive": {
-            "hash": "sha256:3bfc378abe5dce12f9bd7aec61d48f81787ca3f166818f0e7b1cb46577b0d4f1",
+            "hash": "sha256:d7f795b23d7a799bcb981eadf134fc4632ac359ba788523eb1f869c141625a83",
             "kind": "workflow",
             "path": "primitives/workflows/cutting-and-attaching-boards.json",
             "slug": "cutting-and-attaching-boards"
@@ -2267,7 +2267,7 @@
             "scraped off"
           ],
           "primitive": {
-            "hash": "sha256:f19e1b57ec4c1ba0cfcdda876c3df64d505f96e42cfba4944bb4a2787bea6275",
+            "hash": "sha256:cc5f57246d286c981117e65530edf89d4f016345e7e5dde4deb469bef36f17c6",
             "kind": "technique",
             "path": "primitives/techniques/cleaning-off.json",
             "slug": "cleaning-off"
@@ -2284,7 +2284,7 @@
             "nipped in the press"
           ],
           "primitive": {
-            "hash": "sha256:f8ca632a7dd2d37f86e6d4d26d21598749ecb6e9dca7a974bc95f2482caa6d9c",
+            "hash": "sha256:6d04e769c27356a22960a8306592db8319e5b9992a48b2c3583615c166e1424a",
             "kind": "technique",
             "path": "primitives/techniques/pressing.json",
             "slug": "pressing"
@@ -2299,7 +2299,7 @@
             "standing  press"
           ],
           "primitive": {
-            "hash": "sha256:fb79d317912094389bb68b6f124d9f55d2ceac5a423b776a116c2541def14b1b",
+            "hash": "sha256:885160cd49358612bb2b7245b23d63ac337e7cb87e71d69897111a52ddaac799",
             "kind": "tool",
             "path": "primitives/tools/standing-press.json",
             "slug": "standing-press"
@@ -2314,7 +2314,7 @@
             "lying  press"
           ],
           "primitive": {
-            "hash": "sha256:263b5f6fa642e9f45f328e7ec38b8e4e668afbf812e36517e43c03dd7df42884",
+            "hash": "sha256:53cffcff14eeb178ca45356ebfdb40eb61a5543fe1ae6dcda47b16fbcc651e4c",
             "kind": "tool",
             "path": "primitives/tools/lying-press.json",
             "slug": "lying-press"
@@ -2330,7 +2330,7 @@
             "covered with paste"
           ],
           "primitive": {
-            "hash": "sha256:3aa5fe58004f1bcc81f08154128863a3a38d720d332461f11771cc103f7cbcd8",
+            "hash": "sha256:18f0349efa7e4ec5ab301e00f00bc342bac94301196f182fd43336a82a1e89f6",
             "kind": "material",
             "path": "primitives/materials/paste.json",
             "slug": "paste"
@@ -2351,7 +2351,7 @@
             "cutting the fore-edge"
           ],
           "primitive": {
-            "hash": "sha256:e01ccdfb91b91f689f3b0036f942d8cd747c249f68e5960df2bc4b192f69dec8",
+            "hash": "sha256:dd343b8ae8bcef7e148d5ec921db2d87ae90cc04e70b677f563dc651448e9000",
             "kind": "technique",
             "path": "primitives/techniques/cutting-in-boards.json",
             "slug": "cutting-in-boards"
@@ -2366,7 +2366,7 @@
             "trindle"
           ],
           "primitive": {
-            "hash": "sha256:37bc5211770fddbae94e59adec7ccd5893f54af60d2e47c7aba9b60d82534aa3",
+            "hash": "sha256:e9a3b15e418e948ac2630a2e462dd86d21366fd97f404a07fda59929db95a2fc",
             "kind": "tool",
             "path": "primitives/tools/trindle.json",
             "slug": "trindle"
@@ -2381,7 +2381,7 @@
             "cutting board"
           ],
           "primitive": {
-            "hash": "sha256:4bcb84887fa165810fc175395068d88968818c607693e61c251c900e8e50b2dd",
+            "hash": "sha256:3e02f898e95ee2d3c1b7283adfd1f13f69805f70640e1785483bc23b4db45041",
             "kind": "tool",
             "path": "primitives/tools/cutting-board.json",
             "slug": "cutting-board"
@@ -2397,7 +2397,7 @@
             "plough up"
           ],
           "primitive": {
-            "hash": "sha256:9a3b335366c5c1b25d275785d14ef6fee07e3ee6c979ac3cef182ec7a5830687",
+            "hash": "sha256:bba1bb13f44b6e6b1e2a00841445c0182623c01556160588f1ad804e9bf59134",
             "kind": "tool",
             "path": "primitives/tools/plough.json",
             "slug": "plough"
@@ -2418,7 +2418,7 @@
             "gild the edges"
           ],
           "primitive": {
-            "hash": "sha256:7a15a751cac44d838340e51a36bfb2818f3dde932fc1c31014ada8a898f7bd7e",
+            "hash": "sha256:8fe9a8cdbf0ee8a688a56f39f77727a2cba91c74c92f5b750816f31b93ed11b3",
             "kind": "technique",
             "path": "primitives/techniques/edge-gilding.json",
             "slug": "edge-gilding"
@@ -2434,7 +2434,7 @@
             "coloured"
           ],
           "primitive": {
-            "hash": "sha256:35bedee546f667ccd5d716ca27158ba8ba5e79e23c4e107d282dee1037c32e01",
+            "hash": "sha256:523e671238a6709491b1fc2dabd3dc5df841497735683d347364489414878d76",
             "kind": "technique",
             "path": "primitives/techniques/edge-colouring.json",
             "slug": "edge-colouring"
@@ -2449,7 +2449,7 @@
             "gauffered"
           ],
           "primitive": {
-            "hash": "sha256:fbab65e57e7720ac4e9f0a21c951f72102246f8c47ffac176f3ef2a4eb9ac9b4",
+            "hash": "sha256:1cbd7765a33fcc40ba1bdbd81021d4085490d666809d0d49646ccc8bb4e27f29",
             "kind": "technique",
             "path": "primitives/techniques/gauffering.json",
             "slug": "gauffering"
@@ -2464,7 +2464,7 @@
             "painting on the fore-edge"
           ],
           "primitive": {
-            "hash": "sha256:cf35b316ad0b5a5a196dd15d4c70e2909214ec7fa7f975b182dd130a5222b44a",
+            "hash": "sha256:c342e61357f1146776cf5b2b2fc0df1acc0dad36e63708f2d4e88096dea958b9",
             "kind": "technique",
             "path": "primitives/techniques/fore-edge-painting.json",
             "slug": "fore-edge-painting"
@@ -2480,7 +2480,7 @@
             "water-colours"
           ],
           "primitive": {
-            "hash": "sha256:ed1c98d8d5fa34dbd6a8a1a1bc94888e77b2eaae924dab23f9705fd617178ef2",
+            "hash": "sha256:580ef00438155d715da6bb8bfacec0f2155d85c6c75f5b30ada38feba44479bd",
             "kind": "material",
             "path": "primitives/materials/edge-colour.json",
             "slug": "edge-colour"
@@ -2509,7 +2509,7 @@
             "burnisher"
           ],
           "primitive": {
-            "hash": "sha256:7c5daea2b4674a5977b8c418a45c980dec687a744d2b17b5c852f9ae6bc1e307",
+            "hash": "sha256:0a8bf7d1dfad53ae6023bb70ca8efcfd435b5e577514525c16a10b45d08e2144",
             "kind": "tool",
             "path": "primitives/tools/tooth-burnisher.json",
             "slug": "tooth-burnisher"
@@ -2523,7 +2523,7 @@
             "trindles"
           ],
           "primitive": {
-            "hash": "sha256:37bc5211770fddbae94e59adec7ccd5893f54af60d2e47c7aba9b60d82534aa3",
+            "hash": "sha256:e9a3b15e418e948ac2630a2e462dd86d21366fd97f404a07fda59929db95a2fc",
             "kind": "tool",
             "path": "primitives/tools/trindle.json",
             "slug": "trindle"
@@ -2544,7 +2544,7 @@
             "head-band"
           ],
           "primitive": {
-            "hash": "sha256:eec6094af1ea9c569ff0611b3b6e182a90217d07012ddb3000102d075508eaec",
+            "hash": "sha256:351c32e424afbd0a0ab114d4c64a5068904338ab2fa02dc1fe8d968bade40fb6",
             "kind": "material",
             "path": "primitives/materials/headband.json",
             "slug": "headband"
@@ -2561,7 +2561,7 @@
             "vellum or string"
           ],
           "primitive": {
-            "hash": "sha256:235f08dd75a11168f4f63fcd7ae30f1fbf61278c5260bef684a111a1196c357b",
+            "hash": "sha256:b23557934a9ee5ce59a88a404babf057c6b3b10f6c10e5f1d9d01cca617388bc",
             "kind": "material",
             "path": "primitives/materials/headband-core.json",
             "slug": "headband-core"
@@ -2576,7 +2576,7 @@
             "vellum"
           ],
           "primitive": {
-            "hash": "sha256:ba4bb2bc88b07debf53a4ecfe55dcd27465888968cc4f343b3a55d82fc28bcba",
+            "hash": "sha256:deee88b0c18713f3245ec0b116d13aa2f01d84095dc9dd456db1a03fca895179",
             "kind": "material",
             "path": "primitives/materials/vellum-slip.json",
             "slug": "vellum-slip"
@@ -2590,7 +2590,7 @@
             "silk"
           ],
           "primitive": {
-            "hash": "sha256:1322471942c4e195b65e575da3e3df0c845966dca3faa9c58152ec1e3f003ebb",
+            "hash": "sha256:653d6d4776b2fc930f264b786749fd1a83f67c7da59ff9d5c3948f38850e0eab",
             "kind": "material",
             "path": "primitives/materials/sewing-silk.json",
             "slug": "sewing-silk"
@@ -2604,7 +2604,7 @@
             "finishing press"
           ],
           "primitive": {
-            "hash": "sha256:7b66949435f48b7d0e16994d06ff3a832e06c61509e2cd593b86a944a231dba3",
+            "hash": "sha256:23fd3b6c98585f576dac75cce0836a2855aaa81dc5a0d712adba2e5ae68f6699",
             "kind": "tool",
             "path": "primitives/tools/finishing-press.json",
             "slug": "finishing-press"
@@ -2618,7 +2618,7 @@
             "needle"
           ],
           "primitive": {
-            "hash": "sha256:9194d7f0b9d60e5fea96485e92d3e304eb6410bf8644ace2def6972d4cb1c22c",
+            "hash": "sha256:61d0f0539719d84c2a6ad48ca47a8ee5d39c9c3aca44987c132abba54c2bebd8",
             "kind": "tool",
             "path": "primitives/tools/sewing-needle.json",
             "slug": "sewing-needle"
@@ -2636,7 +2636,7 @@
             "figure of eight stitch"
           ],
           "primitive": {
-            "hash": "sha256:feb6f7104c9e53355cdcb88f725d04ffeacd58def74014216dd3f1379023a28b",
+            "hash": "sha256:8ea11e15b708e5025f6ed68b0d1b775ceb88d054c686dc0ff73e8f3aeac0c2dd",
             "kind": "technique",
             "path": "primitives/techniques/headbanding.json",
             "slug": "headbanding"
@@ -2650,7 +2650,7 @@
             "kettle stitch"
           ],
           "primitive": {
-            "hash": "sha256:84476c7826fcc9867c87acafc42f21056746e9d00a73ba9b5364850fb2811490",
+            "hash": "sha256:f0fb4cc5a6e17463fd81ffa8ce688aabef6c7dd84fcad50e840992c261afcf5c",
             "kind": "technique",
             "path": "primitives/techniques/kettle-stitch.json",
             "slug": "kettle-stitch"
@@ -2664,7 +2664,7 @@
             "worked headband"
           ],
           "primitive": {
-            "hash": "sha256:e0e5527ddefa4f2720822a0d6a08020207bdfc21b24ea4a49ecb30499cb34c32",
+            "hash": "sha256:7eca12b7d303bc4143b69f49e37f7627ebd4b9b829dc815acf848170c942a63a",
             "kind": "workflow",
             "path": "primitives/workflows/headbanding-on-vellum.json",
             "slug": "headbanding-on-vellum"
@@ -2685,7 +2685,7 @@
             "lining up of the back"
           ],
           "primitive": {
-            "hash": "sha256:754d55b6c21d9799dd81089f04253e66ce5e0897ae13a57d86354c97922b997c",
+            "hash": "sha256:a7ef66666af9ff13fe5869a1cf479beffcd767428bd43bfafe66dedb370ac546",
             "kind": "technique",
             "path": "primitives/techniques/lining-up.json",
             "slug": "lining-up"
@@ -2701,7 +2701,7 @@
             "the squares"
           ],
           "primitive": {
-            "hash": "sha256:4806d1eab666c6a533018d0f5d61e92f5294f2ce93ec366b8797a4b9f6246f32",
+            "hash": "sha256:23e28fcab4fbb6401cb24dea85e309308723cc7adee738666c11742d8b200791",
             "kind": "technique",
             "path": "primitives/techniques/setting-squares.json",
             "slug": "setting-squares"
@@ -2715,7 +2715,7 @@
             "press"
           ],
           "primitive": {
-            "hash": "sha256:263b5f6fa642e9f45f328e7ec38b8e4e668afbf812e36517e43c03dd7df42884",
+            "hash": "sha256:53cffcff14eeb178ca45356ebfdb40eb61a5543fe1ae6dcda47b16fbcc651e4c",
             "kind": "tool",
             "path": "primitives/tools/lying-press.json",
             "slug": "lying-press"
@@ -2736,7 +2736,7 @@
             "pare"
           ],
           "primitive": {
-            "hash": "sha256:7fc4f92e138d6053a80a3f3203e43ca4baaf19aaaeb96768b46645f0ccbc4064",
+            "hash": "sha256:658b9328bb8d1c3d313a0d6f6cc1c5c1a9d278006e168eef218ec0085a10c566",
             "kind": "technique",
             "path": "primitives/techniques/paring-leather.json",
             "slug": "paring-leather"
@@ -2752,7 +2752,7 @@
             "leather"
           ],
           "primitive": {
-            "hash": "sha256:a869a358b94b8bb1ecaf98af248aa7ecaac1859d4ee6900dcd30102ba8a31bba",
+            "hash": "sha256:d27630df761373964d10de5021ba8e5fa75ac4900fb7a1d0600bcb3cc9400f88",
             "kind": "material",
             "path": "primitives/materials/cover-leather.json",
             "slug": "cover-leather"
@@ -2768,7 +2768,7 @@
             "knife"
           ],
           "primitive": {
-            "hash": "sha256:ff4e5855d6908cd1ea1f1f61dbcf28852cefc139770409048e3636ba741b11f8",
+            "hash": "sha256:aa5bb1ba0f9cb067467f0340c4d5097e1c756bbdf19bc3270f12f9781ad1e32b",
             "kind": "tool",
             "path": "primitives/tools/leather-paring-knife.json",
             "slug": "leather-paring-knife"
@@ -2783,7 +2783,7 @@
             "stone"
           ],
           "primitive": {
-            "hash": "sha256:381f0e75873e221adf580e76b831ce44edae4fc5feccdcfcc978c103911e7dd2",
+            "hash": "sha256:c225193fbbfac6fb15c6ef49c568504c6b99e2cb6ef361ee2a77d1977fc0d627",
             "kind": "tool",
             "path": "primitives/tools/paring-stone.json",
             "slug": "paring-stone"
@@ -2798,7 +2798,7 @@
             "leather joint"
           ],
           "primitive": {
-            "hash": "sha256:949d5d421b10810df341b3bf11dcffdf785a84326dfd5f3c9d9801b040fe253b",
+            "hash": "sha256:c6ce2bcfa90aba979fbd19e0cf2ec70e7d7e875f73b5bb1cf698964bb7aac0d2",
             "kind": "material",
             "path": "primitives/materials/leather-joint.json",
             "slug": "leather-joint"
@@ -2818,7 +2818,7 @@
             "covered"
           ],
           "primitive": {
-            "hash": "sha256:67823cf59715591854ccf36dee32bbfc885952c72bca84dc31aeec4d219bb6a9",
+            "hash": "sha256:737884c8100e39105e68ecc207a7bbf7db634f7fcfe2295f0805bb8802538abe",
             "kind": "technique",
             "path": "primitives/techniques/covering.json",
             "slug": "covering"
@@ -2832,7 +2832,7 @@
             "folder"
           ],
           "primitive": {
-            "hash": "sha256:3d43c3f081a63ec671c64dbe63996b080596efb6776576e05b7b93d01ac7de65",
+            "hash": "sha256:22338de32fe0e93210663441b9ec7157b08d6a8bb8820c67b93f8149b2a3812b",
             "kind": "tool",
             "path": "primitives/tools/folder.json",
             "slug": "folder"
@@ -2847,7 +2847,7 @@
             "nickeled band nippers"
           ],
           "primitive": {
-            "hash": "sha256:0989a7fcb9a65dd9cabf343d82cddf93ab2931867b990b7d5b63b9a91091f014",
+            "hash": "sha256:ea2fc28fee42f2cdf176e9f687db11f99bb7a1cc69040d56d26191bc5007b0ab",
             "kind": "tool",
             "path": "primitives/tools/band-nippers.json",
             "slug": "band-nippers"
@@ -2861,7 +2861,7 @@
             "band stick"
           ],
           "primitive": {
-            "hash": "sha256:f405275a25fdda933df2c8b3bf4eb509873b6780c36d5d9883c949a0530fe008",
+            "hash": "sha256:8755e4a23c1187e4d8cc4bde0352d1b6c1abdcee605d105963c84c2dec45baff",
             "kind": "tool",
             "path": "primitives/tools/band-stick.json",
             "slug": "band-stick"
@@ -2876,7 +2876,7 @@
             "cover"
           ],
           "primitive": {
-            "hash": "sha256:a869a358b94b8bb1ecaf98af248aa7ecaac1859d4ee6900dcd30102ba8a31bba",
+            "hash": "sha256:d27630df761373964d10de5021ba8e5fa75ac4900fb7a1d0600bcb3cc9400f88",
             "kind": "material",
             "path": "primitives/materials/cover-leather.json",
             "slug": "cover-leather"
@@ -2891,7 +2891,7 @@
             "celluloid"
           ],
           "primitive": {
-            "hash": "sha256:bbba81be580c617344bcd659e7b4c532ac62eefaf968aa81817d9918308f1ee2",
+            "hash": "sha256:5e2729de789e68c46188fd5fe34d237cd590ea68c0941d9c6f1672c8d2aa0422",
             "kind": "material",
             "path": "primitives/materials/waterproof-sheet.json",
             "slug": "waterproof-sheet"
@@ -2906,7 +2906,7 @@
             "head-caps"
           ],
           "primitive": {
-            "hash": "sha256:902813bd9a9550065d62da2d3c939a22f5a6e6ff8623d4744ea7482e9dded876",
+            "hash": "sha256:09fbd589b59314bd24aeb6a6472113caee34d00071091c22df5886b54fc7eff2",
             "kind": "technique",
             "path": "primitives/techniques/setting-head-cap.json",
             "slug": "setting-head-cap"
@@ -2922,7 +2922,7 @@
             "tying up cords"
           ],
           "primitive": {
-            "hash": "sha256:c8b0c83bcef96e6edc4f7f4e87aec07bde00579586782b081b382ff3664955a3",
+            "hash": "sha256:12929adea4c4bfe991a16561f75ba21a667c1e12563a830debb686f156891bcd",
             "kind": "technique",
             "path": "primitives/techniques/tying-up.json",
             "slug": "tying-up"
@@ -2943,7 +2943,7 @@
             "mitred"
           ],
           "primitive": {
-            "hash": "sha256:0b3289ca11aa6e624ecb71db87c4e6ec2eeb80f8001d29c4a2da444a8c623fcc",
+            "hash": "sha256:58966af58f60eb4e1b5eff151ee40d632ca3ee54f75dc49fc9925c8dc899ac16",
             "kind": "technique",
             "path": "primitives/techniques/mitring-corners.json",
             "slug": "mitring-corners"
@@ -2959,7 +2959,7 @@
             "filling-in"
           ],
           "primitive": {
-            "hash": "sha256:f19aaf9e2cc0483166b330b82abff505a570e2dc10c8c8dec4e8cff6773a56d1",
+            "hash": "sha256:d3215a14b91e87ccf8163df049292c668e99eccb5fb868ef728abf40324ccd03",
             "kind": "technique",
             "path": "primitives/techniques/filling-in-boards.json",
             "slug": "filling-in-boards"
@@ -2974,7 +2974,7 @@
             "cartridge paper"
           ],
           "primitive": {
-            "hash": "sha256:8e98e9cd3e49797fa8fc3b98d39d0c7c1dde7b5ad453b890bce2356cad60f324",
+            "hash": "sha256:0fdc0c7ed9f1f8b25f0a314da71f902950a56b39eab256db4c611d0f93a9de4d",
             "kind": "material",
             "path": "primitives/materials/filling-in-paper.json",
             "slug": "filling-in-paper"
@@ -2989,7 +2989,7 @@
             "leather joints"
           ],
           "primitive": {
-            "hash": "sha256:949d5d421b10810df341b3bf11dcffdf785a84326dfd5f3c9d9801b040fe253b",
+            "hash": "sha256:c6ce2bcfa90aba979fbd19e0cf2ec70e7d7e875f73b5bb1cf698964bb7aac0d2",
             "kind": "material",
             "path": "primitives/materials/leather-joint.json",
             "slug": "leather-joint"
@@ -3009,7 +3009,7 @@
             "library bindings"
           ],
           "primitive": {
-            "hash": "sha256:e5abfc615d53c56348aad33811ce06beadf738dac14f789559356359b7a1e6bd",
+            "hash": "sha256:f86b03fdd18af33a9ef7648ebef9eb2f7d1f0c65db57062932f7de925809d8e8",
             "kind": "workflow",
             "path": "primitives/workflows/library-binding.json",
             "slug": "library-binding"
@@ -3024,7 +3024,7 @@
             "sewn on to the same tapes"
           ],
           "primitive": {
-            "hash": "sha256:9f49c85341ed2058e6758a022f5cffff4ff718a3a80967493e203ef1e724498b",
+            "hash": "sha256:15102566e3ca10abb4a6e562dc26657ac13bd8e765c2f4eab2150c2c0cfecfa3",
             "kind": "technique",
             "path": "primitives/techniques/sewing-on-tapes.json",
             "slug": "sewing-on-tapes"
@@ -3040,7 +3040,7 @@
             "made board"
           ],
           "primitive": {
-            "hash": "sha256:32f77d40838d299de26dd7584ab57d1bfa8d06a43d1e533327c07e0ac97e06e9",
+            "hash": "sha256:ae183e46a64e944c594590598c8fafe1e90104ea7df6e811ec9da4d0a8c59910",
             "kind": "technique",
             "path": "primitives/techniques/split-boards.json",
             "slug": "split-boards"
@@ -3054,7 +3054,7 @@
             "French joint"
           ],
           "primitive": {
-            "hash": "sha256:eb50814668de68d7792a85097cf3a0ba69c4adc7a1752e4b21935f97457cd4d1",
+            "hash": "sha256:a693bbd30a5b6726d1844a8e2376e7525fcb60469c63ae1e56c97f15722df9b7",
             "kind": "technique",
             "path": "primitives/techniques/french-joint.json",
             "slug": "french-joint"
@@ -3069,7 +3069,7 @@
             "strawboard"
           ],
           "primitive": {
-            "hash": "sha256:54bb8509792e31ce5151a955cecce182312a77b1b27755aefe55279118766e80",
+            "hash": "sha256:10b1f4240a05f88d9097cc8ea78693c204ca50a830cf0094da1514a21e659fe5",
             "kind": "material",
             "path": "primitives/materials/strawboard.json",
             "slug": "strawboard"
@@ -3084,7 +3084,7 @@
             "millboard"
           ],
           "primitive": {
-            "hash": "sha256:3f4a8036d4684d96ec4b2f0e4f3a69029a7d7437725ab229f832cfd47aafa785",
+            "hash": "sha256:9991d1f84d6d0a433758778fe6a20b2c6b4914661be2b4b6b931149e48af1c42",
             "kind": "material",
             "path": "primitives/materials/millboard.json",
             "slug": "millboard"
@@ -3103,7 +3103,7 @@
             "split board"
           ],
           "primitive": {
-            "hash": "sha256:32f77d40838d299de26dd7584ab57d1bfa8d06a43d1e533327c07e0ac97e06e9",
+            "hash": "sha256:ae183e46a64e944c594590598c8fafe1e90104ea7df6e811ec9da4d0a8c59910",
             "kind": "technique",
             "path": "primitives/techniques/split-boards.json",
             "slug": "split-boards"
@@ -3125,7 +3125,7 @@
             "guard"
           ],
           "primitive": {
-            "hash": "sha256:82ba78d37ebc24da489ef2fc0cb053d076a30b8ff66abb6debf8d15dfdc59dda",
+            "hash": "sha256:ce4ea97e8ff9d6a205c1b78a963e7ecfb0523338fbdc3fc53c1b37403a14eba4",
             "kind": "technique",
             "path": "primitives/techniques/mounting.json",
             "slug": "mounting"
@@ -3146,7 +3146,7 @@
             "limp vellum binding"
           ],
           "primitive": {
-            "hash": "sha256:04cb84f04b6c660f6bb17783c3a9e8695b0e5b5126a2777146959369fb7addc1",
+            "hash": "sha256:dc459715422e58d78e611a3903b51f7612b9e05d8a4e81dd3ee49334f36a2062",
             "kind": "technique",
             "path": "primitives/techniques/vellum-covering.json",
             "slug": "vellum-covering"
@@ -3162,7 +3162,7 @@
             "thin vellum"
           ],
           "primitive": {
-            "hash": "sha256:7f94a9d58003fe9bbecbc778f16e315193320da90b6232563400dd2ee3ec30af",
+            "hash": "sha256:1b1539c86d6b97f9822cf80505b55ed6a10b0cbdedc9e63fa971e214fb465df0",
             "kind": "material",
             "path": "primitives/materials/vellum.json",
             "slug": "vellum"
@@ -3176,7 +3176,7 @@
             "hollow back"
           ],
           "primitive": {
-            "hash": "sha256:115686bbfb840afd2534614286ef129a3b3143fe55fd1fe21b1ee49b3db4f022",
+            "hash": "sha256:bb6602380d10d5d5a66f94d6673e13890e783eaffcb49b2dbe5549fb06d38f67",
             "kind": "technique",
             "path": "primitives/techniques/hollow-back.json",
             "slug": "hollow-back"
@@ -3190,7 +3190,7 @@
             "strips of vellum"
           ],
           "primitive": {
-            "hash": "sha256:9987181279814ae4126d40f90fafd4eaed64c4eebbd06d8e51e0d126ee7dad2f",
+            "hash": "sha256:32ca6df6c768b847088f4dea39a9f14f743611bc9974e3f25f5ad9d8b640c803",
             "kind": "technique",
             "path": "primitives/techniques/sewing-on-vellum-slips.json",
             "slug": "sewing-on-vellum-slips"
@@ -3205,7 +3205,7 @@
             "silk tape"
           ],
           "primitive": {
-            "hash": "sha256:f06184f4baef41c929970a946c9c288b63cdfa8710fafaac92439fd85f80fa96",
+            "hash": "sha256:14553aa69c3cd3fdf66e25aef45634cd557d911ea202a80303e9938c791f7b29",
             "kind": "material",
             "path": "primitives/materials/silk-ribbon.json",
             "slug": "silk-ribbon"
@@ -3226,7 +3226,7 @@
             "embroidery"
           ],
           "primitive": {
-            "hash": "sha256:781ccd995163a50df90e432d4ae367a8d072097133aae7d2e462fc11b3f030a6",
+            "hash": "sha256:35f745e43880d3069e07797759021f4f4b7cfd9b06fa944405183e65f8c9b5e9",
             "kind": "technique",
             "path": "primitives/techniques/embroidery-covering.json",
             "slug": "embroidery-covering"
@@ -3242,7 +3242,7 @@
             "velvet"
           ],
           "primitive": {
-            "hash": "sha256:1058a7ac74cc88c947270d3cf65e65dcd70962c28e6ce4f380869115d3d47386",
+            "hash": "sha256:0a7d2ebc47d91afd6330e19c1ebdcb7fdda5b0d681c53341ffb8605ed71f97bf",
             "kind": "material",
             "path": "primitives/materials/embroidered-fabric.json",
             "slug": "embroidered-fabric"
@@ -3256,7 +3256,7 @@
             "hollow back"
           ],
           "primitive": {
-            "hash": "sha256:115686bbfb840afd2534614286ef129a3b3143fe55fd1fe21b1ee49b3db4f022",
+            "hash": "sha256:bb6602380d10d5d5a66f94d6673e13890e783eaffcb49b2dbe5549fb06d38f67",
             "kind": "technique",
             "path": "primitives/techniques/hollow-back.json",
             "slug": "hollow-back"
@@ -3279,7 +3279,7 @@
             "gold tools"
           ],
           "primitive": {
-            "hash": "sha256:e0b876d8e3cc6abde3ac3fd24d733e2dc8fe61fb03674e91f778dfce41c212f6",
+            "hash": "sha256:3bff5799411f0ada5a78623ebe54424d50a9c64f7c7e89c53c860a97be7f3c8f",
             "kind": "tool",
             "path": "primitives/tools/finishing-tool.json",
             "slug": "finishing-tool"
@@ -3294,7 +3294,7 @@
             "die-sunk"
           ],
           "primitive": {
-            "hash": "sha256:24074392b207eb6f3a3880f96a948652c35ff23ceed1b3a73aa5165b05725b1c",
+            "hash": "sha256:a70264f8d161e0a404c38ade97f76353d04ae019eb59ab44dd9d592f5b204c52",
             "kind": "technique",
             "path": "primitives/techniques/blind-tooling.json",
             "slug": "blind-tooling"
@@ -3308,7 +3308,7 @@
             "gold tooling"
           ],
           "primitive": {
-            "hash": "sha256:f79c7511ed75e91e20338d7d2b5404e4c96d53b4d0f57e781d0b23b96c5a48f9",
+            "hash": "sha256:8b9cabb151e5bc6a175eb95ef2be3a51f729f3f97755ba08d820d71bcd96a00c",
             "kind": "technique",
             "path": "primitives/techniques/gold-tooling.json",
             "slug": "gold-tooling"
@@ -3322,7 +3322,7 @@
             "gouges"
           ],
           "primitive": {
-            "hash": "sha256:b2852d1a959b72187a3bc02a397dc135f907cb8e303b1aecac582b9427543aa0",
+            "hash": "sha256:b23671053aae12d684268b9f350b93819f8732f9ca84c7784aae745d4d8e9e52",
             "kind": "tool",
             "path": "primitives/tools/gouge.json",
             "slug": "gouge"
@@ -3337,7 +3337,7 @@
             "pallets"
           ],
           "primitive": {
-            "hash": "sha256:d448b9b127b2a394d12f3627f498590f418433435d445643b9d5f06490fc1166",
+            "hash": "sha256:7e5238791987ffa7416fde86de5c386edb33bc1775ad461bf0a7807fe4b15091",
             "kind": "tool",
             "path": "primitives/tools/pallet.json",
             "slug": "pallet"
@@ -3352,7 +3352,7 @@
             "fillets"
           ],
           "primitive": {
-            "hash": "sha256:7e1c8f7023525f3b7379faa5593cb3bbb473c1d58efbfbd9f3cc56e53354cf6b",
+            "hash": "sha256:2b8f985485449427fd86aba03958844ba4c73a75e41a0cad7465c888f195dd9a",
             "kind": "tool",
             "path": "primitives/tools/fillet.json",
             "slug": "fillet"
@@ -3368,7 +3368,7 @@
             "wheeling"
           ],
           "primitive": {
-            "hash": "sha256:6fd27d1a413ab5cc12c65c1438b05671e957ef721d1c70beb258c470329de948",
+            "hash": "sha256:8f8ab92baf937dabc4b36e2b1e305d8810075c4f30c1ba0b7009498053c922f0",
             "kind": "tool",
             "path": "primitives/tools/finishing-roll.json",
             "slug": "finishing-roll"
@@ -3388,7 +3388,7 @@
             "polishing"
           ],
           "primitive": {
-            "hash": "sha256:02d41405a1a3813fc3ca181670a8e2f98e1aa610ef3fb588390286eb6e8de208",
+            "hash": "sha256:f118e013632aeab7ec72da75314958333aac2157a74e836cd2051994bab12f11",
             "kind": "technique",
             "path": "primitives/techniques/polishing.json",
             "slug": "polishing"
@@ -3403,7 +3403,7 @@
             "polishers"
           ],
           "primitive": {
-            "hash": "sha256:d0646f977d5949317357268758ccb41fb0b9182b4db6330e3cdd09e503be3a00",
+            "hash": "sha256:7b41dfe5814ecebeca5b520ec40e79382f956b327f626a0aeca6bb7687fac261",
             "kind": "tool",
             "path": "primitives/tools/polisher.json",
             "slug": "polisher"
@@ -3418,7 +3418,7 @@
             "crushing the grain"
           ],
           "primitive": {
-            "hash": "sha256:8a1b3bcab847ee96a25d1f6ef2f69009b5a96f07441b454242f8324cc3a4b56c",
+            "hash": "sha256:e1e156c1e3c712629e598da9d3fc417a148d74ba5c5b92c632c103c5aa70631d",
             "kind": "technique",
             "path": "primitives/techniques/crushing-grain.json",
             "slug": "crushing-grain"
@@ -3433,7 +3433,7 @@
             "press"
           ],
           "primitive": {
-            "hash": "sha256:263b5f6fa642e9f45f328e7ec38b8e4e668afbf812e36517e43c03dd7df42884",
+            "hash": "sha256:53cffcff14eeb178ca45356ebfdb40eb61a5543fe1ae6dcda47b16fbcc651e4c",
             "kind": "tool",
             "path": "primitives/tools/lying-press.json",
             "slug": "lying-press"
@@ -3447,7 +3447,7 @@
             "finishing press"
           ],
           "primitive": {
-            "hash": "sha256:7b66949435f48b7d0e16994d06ff3a832e06c61509e2cd593b86a944a231dba3",
+            "hash": "sha256:23fd3b6c98585f576dac75cce0836a2855aaa81dc5a0d712adba2e5ae68f6699",
             "kind": "tool",
             "path": "primitives/tools/finishing-press.json",
             "slug": "finishing-press"
@@ -3461,7 +3461,7 @@
             "stove"
           ],
           "primitive": {
-            "hash": "sha256:3d3cf5062df8d3a5d8e5408649eccff8d93ef939721445b8f18e0fe9d2eb3274",
+            "hash": "sha256:ec54b9e505bc2ecb0f0b07be4b0203d7af207ff7395c5a03a4457da4cc62ae6d",
             "kind": "tool",
             "path": "primitives/tools/finishing-stove.json",
             "slug": "finishing-stove"
@@ -3476,7 +3476,7 @@
             "paste-water"
           ],
           "primitive": {
-            "hash": "sha256:4e91553222c0dc0a62550c6a541d01b8bde31fca433ac6a1801fabbee7570c2a",
+            "hash": "sha256:cb8b703c9c8a29333c6b0e7ecd6c089dd2460c2885bbc843d42d2e9d4d3c1eab",
             "kind": "technique",
             "path": "primitives/techniques/sizing-leather.json",
             "slug": "sizing-leather"
@@ -3490,7 +3490,7 @@
             "paste-water"
           ],
           "primitive": {
-            "hash": "sha256:d326b9289a0c2b3d18a105609bd8b5e066e6ffb77a15f53c45c381acda5676fe",
+            "hash": "sha256:bb6f20483c0eb9edc0b3b172d17cf807c1a2114a361930ea4d592fbafee52726",
             "kind": "material",
             "path": "primitives/materials/paste-water.json",
             "slug": "paste-water"
@@ -3505,7 +3505,7 @@
             "vellum size"
           ],
           "primitive": {
-            "hash": "sha256:3fbc8515894e47db8bb5c02ac4b669b4ffd88599a22396b46eeb2e17dc3b22d3",
+            "hash": "sha256:adb2d16fbd97792cba794ab1f110fda9597b69599d88b4c8c9bb079a856313f3",
             "kind": "material",
             "path": "primitives/materials/leather-size.json",
             "slug": "leather-size"
@@ -3520,7 +3520,7 @@
             "glairing in"
           ],
           "primitive": {
-            "hash": "sha256:c8021a6d5872a2ffb390ca697f0e830dec06163a264ca47e7fbcfa0995b6a50a",
+            "hash": "sha256:5cb9a53d125c95f16b52639484213b2dfafbe271aa396d5ef1f42e071e4aee52",
             "kind": "material",
             "path": "primitives/materials/glaire.json",
             "slug": "glaire"
@@ -3536,7 +3536,7 @@
             "book of gold"
           ],
           "primitive": {
-            "hash": "sha256:e87e517f0e58ca1cee9993413c69b8614b54e54ae2bdb3d2e87cc1075a9704f7",
+            "hash": "sha256:50c2cf3aaca7c05c82e1b735646c0eda58900fba5f9cc3bfb0b0e916daa77092",
             "kind": "material",
             "path": "primitives/materials/gold-leaf.json",
             "slug": "gold-leaf"
@@ -3551,7 +3551,7 @@
             "gold cushion"
           ],
           "primitive": {
-            "hash": "sha256:cde579ca094b0110c8fe20d05b7b4280aa9965005af8f47065cdf3441238713c",
+            "hash": "sha256:1090edc23cfb5b7418d5c24396d6ef7f49c8d13d526636fd2f4bafe8e72eb2b3",
             "kind": "tool",
             "path": "primitives/tools/gold-cushion.json",
             "slug": "gold-cushion"
@@ -3566,7 +3566,7 @@
             "knife"
           ],
           "primitive": {
-            "hash": "sha256:90a1a2f0cffbee65910f1135a5315a6700d95ca92e5ec66c5be922d0758e528b",
+            "hash": "sha256:2a3e073de910c185427c4b0844fddfe4e24be69bcda0dfb73f2f1e9477228e6b",
             "kind": "tool",
             "path": "primitives/tools/gold-knife.json",
             "slug": "gold-knife"
@@ -3580,7 +3580,7 @@
             "cocoanut oil"
           ],
           "primitive": {
-            "hash": "sha256:c00a565e88602a18ff9811da97165151b712969d9bb56e1d9965e16275dc9a1c",
+            "hash": "sha256:5de86173624b9b8be19b71a522f9fd11610e07831a03bb34250203b19b3617de",
             "kind": "material",
             "path": "primitives/materials/cocoanut-oil.json",
             "slug": "cocoanut-oil"
@@ -3595,7 +3595,7 @@
             "worked through the gold"
           ],
           "primitive": {
-            "hash": "sha256:f79c7511ed75e91e20338d7d2b5404e4c96d53b4d0f57e781d0b23b96c5a48f9",
+            "hash": "sha256:8b9cabb151e5bc6a175eb95ef2be3a51f729f3f97755ba08d820d71bcd96a00c",
             "kind": "technique",
             "path": "primitives/techniques/gold-tooling.json",
             "slug": "gold-tooling"
@@ -3612,7 +3612,7 @@
             "doubled"
           ],
           "primitive": {
-            "hash": "sha256:decce54b37f8aca645c6ab94fc1e43f123b01d5c83654ef7c56d646445259072",
+            "hash": "sha256:e5bae1efbf5ee2c6eed9aa6aedfc6d36ef467c82f61253a2b6c38d161a69ba68",
             "kind": "technique",
             "path": "primitives/techniques/mending-tooling.json",
             "slug": "mending-tooling"
@@ -3626,7 +3626,7 @@
             "benzine"
           ],
           "primitive": {
-            "hash": "sha256:0f8317292bf43497999164ba7e704132215234296cd47e06c44a66e03e63efd0",
+            "hash": "sha256:7577129be3b22aaeffd80b82b1156103924827efccc05d1e9b0d138e8c996cf2",
             "kind": "material",
             "path": "primitives/materials/benzine.json",
             "slug": "benzine"
@@ -3641,7 +3641,7 @@
             "varnished"
           ],
           "primitive": {
-            "hash": "sha256:0312a0498f9f660260deb324ec1530a89c22b8fea07fde02b616c9eb1ffec100",
+            "hash": "sha256:5100d35e7b38c14f2a4891fb5c60cee8ce273d3e364a40e10b3b8e4c4650eed4",
             "kind": "material",
             "path": "primitives/materials/varnish.json",
             "slug": "varnish"
@@ -3655,7 +3655,7 @@
             "nipping-press"
           ],
           "primitive": {
-            "hash": "sha256:d18ef1f72bd46a81da609037de7055f71fd84c1678304aae634edff8f385302a",
+            "hash": "sha256:f50aba1106f3c39bf03a05bdaa7c8c28ec791dd5a1a35c5645e8f4ab213b7af5",
             "kind": "tool",
             "path": "primitives/tools/nipping-press.json",
             "slug": "nipping-press"
@@ -3669,7 +3669,7 @@
             "finishing"
           ],
           "primitive": {
-            "hash": "sha256:23b9e7caa5e1e0d7bfed69a516681dcd8eb2236862b513c30bcbc35e3c9ece36",
+            "hash": "sha256:85495e3ea40d5901d698042e8b3d8cbf5f8fdce33e5b1d7810259b5da2bf48e3",
             "kind": "workflow",
             "path": "primitives/workflows/gold-finishing.json",
             "slug": "gold-finishing"
@@ -3689,7 +3689,7 @@
             "covering vellum"
           ],
           "primitive": {
-            "hash": "sha256:9944641edc7606c795fb3dd568f1227d5dcd0ac02a618a38b8badd7472ef3dce",
+            "hash": "sha256:3f3e9bef6ce64164e1c0f7a5e27f0d0422889b5f9bef78f6a2caf46b27918d53",
             "kind": "technique",
             "path": "primitives/techniques/tooling-on-vellum.json",
             "slug": "tooling-on-vellum"
@@ -3711,7 +3711,7 @@
             "inlaid"
           ],
           "primitive": {
-            "hash": "sha256:e61217a4fe5e310e14756d1c657b95c81e7578c9c26d28387c0921936d7d75c0",
+            "hash": "sha256:ebe4d4f4bc351f9e43f09812f29317779b48b672bb0e31f14de9e024c9728c77",
             "kind": "technique",
             "path": "primitives/techniques/inlaying-on-leather.json",
             "slug": "inlaying-on-leather"
@@ -3732,7 +3732,7 @@
             "lettering on the back"
           ],
           "primitive": {
-            "hash": "sha256:27c13db14b3873e776f37de95afb0fd18c8daeaffff8a3dffb7614bdc8fcac5d",
+            "hash": "sha256:e6ee5cc593e80b0943950a90bc4bc5e00b847627bee8d52baef1ab843c72fcf2",
             "kind": "technique",
             "path": "primitives/techniques/lettering.json",
             "slug": "lettering"
@@ -3747,7 +3747,7 @@
             "separate letters"
           ],
           "primitive": {
-            "hash": "sha256:db36f6e6011fd979fe5bac90585ad3e786e17d5c7975c314c8d4f534a5af3f9b",
+            "hash": "sha256:ea8a361887dd5dc3f1598a973e9322cc9f08b6526df657f58b882353d3304777",
             "kind": "tool",
             "path": "primitives/tools/handle-letter.json",
             "slug": "handle-letter"
@@ -3762,7 +3762,7 @@
             "type-holder"
           ],
           "primitive": {
-            "hash": "sha256:fea35f77b0aac143d41545f0cb376f3f9effa1842bcf2c8b7f95eb7e0b4a5bbb",
+            "hash": "sha256:24e52d8ef22ad9c559ada5fb30e53ca27501a99e38121116ef935375addb2d27",
             "kind": "tool",
             "path": "primitives/tools/binders-type.json",
             "slug": "binders-type"
@@ -3776,7 +3776,7 @@
             "dividers"
           ],
           "primitive": {
-            "hash": "sha256:ec3a6c0b8a9a75e19ff39606f9fd5d7c7b9bfc82043d6062907c6cec97f3bc9a",
+            "hash": "sha256:576c67cb56a01020757cf2b892c662bdd61747d8dd50d6ac2ba470a510a43ea9",
             "kind": "tool",
             "path": "primitives/tools/dividers.json",
             "slug": "dividers"
@@ -3790,7 +3790,7 @@
             "gold"
           ],
           "primitive": {
-            "hash": "sha256:e87e517f0e58ca1cee9993413c69b8614b54e54ae2bdb3d2e87cc1075a9704f7",
+            "hash": "sha256:50c2cf3aaca7c05c82e1b735646c0eda58900fba5f9cc3bfb0b0e916daa77092",
             "kind": "material",
             "path": "primitives/materials/gold-leaf.json",
             "slug": "gold-leaf"
@@ -3804,7 +3804,7 @@
             "glaired in"
           ],
           "primitive": {
-            "hash": "sha256:c8021a6d5872a2ffb390ca697f0e830dec06163a264ca47e7fbcfa0995b6a50a",
+            "hash": "sha256:5cb9a53d125c95f16b52639484213b2dfafbe271aa396d5ef1f42e071e4aee52",
             "kind": "material",
             "path": "primitives/materials/glaire.json",
             "slug": "glaire"
@@ -3819,7 +3819,7 @@
             "lettering paper"
           ],
           "primitive": {
-            "hash": "sha256:f75f297435ee724c9ab32bad80382f96848a6b28e8c977e346077d54a4ae3c60",
+            "hash": "sha256:db03e54f073a86f1d8c0d87cdfb21e00d2a2ed2f40357c971e76dc0fdf20f679",
             "kind": "workflow",
             "path": "primitives/workflows/lettering-the-back.json",
             "slug": "lettering-the-back"
@@ -3840,7 +3840,7 @@
             "blind-tool work"
           ],
           "primitive": {
-            "hash": "sha256:24074392b207eb6f3a3880f96a948652c35ff23ceed1b3a73aa5165b05725b1c",
+            "hash": "sha256:a70264f8d161e0a404c38ade97f76353d04ae019eb59ab44dd9d592f5b204c52",
             "kind": "technique",
             "path": "primitives/techniques/blind-tooling.json",
             "slug": "blind-tooling"
@@ -3855,7 +3855,7 @@
             "leather-work"
           ],
           "primitive": {
-            "hash": "sha256:da095429a34797d9fd2a0eb1efad6871780ae34f8361ed341c52356b2701cb20",
+            "hash": "sha256:7c2ac8260d0cf4ebf4f252ce74a626710a325a8f2d39cc1209213cfd2023cffd",
             "kind": "technique",
             "path": "primitives/techniques/leather-work.json",
             "slug": "leather-work"
@@ -3870,7 +3870,7 @@
             "gouges"
           ],
           "primitive": {
-            "hash": "sha256:b2852d1a959b72187a3bc02a397dc135f907cb8e303b1aecac582b9427543aa0",
+            "hash": "sha256:b23671053aae12d684268b9f350b93819f8732f9ca84c7784aae745d4d8e9e52",
             "kind": "tool",
             "path": "primitives/tools/gouge.json",
             "slug": "gouge"
@@ -3885,7 +3885,7 @@
             "small fillet"
           ],
           "primitive": {
-            "hash": "sha256:7e1c8f7023525f3b7379faa5593cb3bbb473c1d58efbfbd9f3cc56e53354cf6b",
+            "hash": "sha256:2b8f985485449427fd86aba03958844ba4c73a75e41a0cad7465c888f195dd9a",
             "kind": "tool",
             "path": "primitives/tools/fillet.json",
             "slug": "fillet"
@@ -3906,7 +3906,7 @@
             "armorial bearings"
           ],
           "primitive": {
-            "hash": "sha256:8c2557b149a1eda930ba18c32df2a85b8469b2ceb8e1bfd78ae08d232ddf1a4d",
+            "hash": "sha256:005f7542bf9f538afb4da5645e954ba8bd651683867c3d49f997d35d62ab402b",
             "kind": "technique",
             "path": "primitives/techniques/arms-blocking.json",
             "slug": "arms-blocking"
@@ -3922,7 +3922,7 @@
             "blocked design"
           ],
           "primitive": {
-            "hash": "sha256:56f15cd45f2f5d5ff8faeb0e0a87f55e59b9aff5256b58727c0e00c4630e670c",
+            "hash": "sha256:da3a039612d48012d0fe7f5281445de553977bbc753178b4ea34a58d56aaf9a5",
             "kind": "tool",
             "path": "primitives/tools/arms-block.json",
             "slug": "arms-block"
@@ -3938,7 +3938,7 @@
             "heating-box"
           ],
           "primitive": {
-            "hash": "sha256:015e48aef73b758a072af75cdfefa1a3d0a26a4bbf7fcb59dc15ee1168e9e944",
+            "hash": "sha256:4e016d9df55d080b6a5f928b04f85153e78bd30949863cfa716d3ab3626fdeda",
             "kind": "tool",
             "path": "primitives/tools/arming-press.json",
             "slug": "arming-press"
@@ -3952,7 +3952,7 @@
             "gold"
           ],
           "primitive": {
-            "hash": "sha256:e87e517f0e58ca1cee9993413c69b8614b54e54ae2bdb3d2e87cc1075a9704f7",
+            "hash": "sha256:50c2cf3aaca7c05c82e1b735646c0eda58900fba5f9cc3bfb0b0e916daa77092",
             "kind": "material",
             "path": "primitives/materials/gold-leaf.json",
             "slug": "gold-leaf"
@@ -3966,7 +3966,7 @@
             "coat of glaire"
           ],
           "primitive": {
-            "hash": "sha256:c8021a6d5872a2ffb390ca697f0e830dec06163a264ca47e7fbcfa0995b6a50a",
+            "hash": "sha256:5cb9a53d125c95f16b52639484213b2dfafbe271aa396d5ef1f42e071e4aee52",
             "kind": "material",
             "path": "primitives/materials/glaire.json",
             "slug": "glaire"
@@ -3987,7 +3987,7 @@
             "tool-cutter"
           ],
           "primitive": {
-            "hash": "sha256:d0456cdc4d984795b40c1df9b8fdf0d477197597daca7d798b965b50ad04b6cd",
+            "hash": "sha256:a66cc57f78cb6c4b6373c6bb6b573a59ab884a9936f7c0e052f3ab8e91938e94",
             "kind": "technique",
             "path": "primitives/techniques/designing-finishing-tools.json",
             "slug": "designing-finishing-tools"
@@ -4002,7 +4002,7 @@
             "gouge"
           ],
           "primitive": {
-            "hash": "sha256:b2852d1a959b72187a3bc02a397dc135f907cb8e303b1aecac582b9427543aa0",
+            "hash": "sha256:b23671053aae12d684268b9f350b93819f8732f9ca84c7784aae745d4d8e9e52",
             "kind": "tool",
             "path": "primitives/tools/gouge.json",
             "slug": "gouge"
@@ -4017,7 +4017,7 @@
             "fillet"
           ],
           "primitive": {
-            "hash": "sha256:7e1c8f7023525f3b7379faa5593cb3bbb473c1d58efbfbd9f3cc56e53354cf6b",
+            "hash": "sha256:2b8f985485449427fd86aba03958844ba4c73a75e41a0cad7465c888f195dd9a",
             "kind": "tool",
             "path": "primitives/tools/fillet.json",
             "slug": "fillet"
@@ -4032,7 +4032,7 @@
             "white paper"
           ],
           "primitive": {
-            "hash": "sha256:a8ec3b12cf862f9bf3867407b96d57c1011549092fc6390397431c7885598c0d",
+            "hash": "sha256:25501b56ef7e048ddc6c1e2eda1fe9eaeda91a87e65b442ab5e0cbb409e69e92",
             "kind": "material",
             "path": "primitives/materials/design-paper.json",
             "slug": "design-paper"
@@ -4055,7 +4055,7 @@
             "centre"
           ],
           "primitive": {
-            "hash": "sha256:8456c8f6a9388e981f25e8f637ea0e1865ce573a90e26ec849b695d821c4a505",
+            "hash": "sha256:49c33da219d0fcb12c077610ad66fbf00b3e5deb60ae189e9ef16ac17a8030ef",
             "kind": "technique",
             "path": "primitives/techniques/combining-tools.json",
             "slug": "combining-tools"
@@ -4071,7 +4071,7 @@
             "all-over pattern"
           ],
           "primitive": {
-            "hash": "sha256:547096ca778f6861bc4e31344d78d7cadc9d4ac2ab0928269c9146ab9a9b1c4b",
+            "hash": "sha256:57063c6b8ef306ec374c6df6a5f77a4287fcdf409468eb8f0c8168ac9f535d35",
             "kind": "workflow",
             "path": "primitives/workflows/building-a-diaper-pattern.json",
             "slug": "building-a-diaper-pattern"
@@ -4086,7 +4086,7 @@
             "folder"
           ],
           "primitive": {
-            "hash": "sha256:3d43c3f081a63ec671c64dbe63996b080596efb6776576e05b7b93d01ac7de65",
+            "hash": "sha256:22338de32fe0e93210663441b9ec7157b08d6a8bb8820c67b93f8149b2a3812b",
             "kind": "tool",
             "path": "primitives/tools/folder.json",
             "slug": "folder"
@@ -4101,7 +4101,7 @@
             "gouge"
           ],
           "primitive": {
-            "hash": "sha256:b2852d1a959b72187a3bc02a397dc135f907cb8e303b1aecac582b9427543aa0",
+            "hash": "sha256:b23671053aae12d684268b9f350b93819f8732f9ca84c7784aae745d4d8e9e52",
             "kind": "tool",
             "path": "primitives/tools/gouge.json",
             "slug": "gouge"
@@ -4116,7 +4116,7 @@
             "fillet"
           ],
           "primitive": {
-            "hash": "sha256:7e1c8f7023525f3b7379faa5593cb3bbb473c1d58efbfbd9f3cc56e53354cf6b",
+            "hash": "sha256:2b8f985485449427fd86aba03958844ba4c73a75e41a0cad7465c888f195dd9a",
             "kind": "tool",
             "path": "primitives/tools/fillet.json",
             "slug": "fillet"
@@ -4131,7 +4131,7 @@
             "paper to the size of the board"
           ],
           "primitive": {
-            "hash": "sha256:a8ec3b12cf862f9bf3867407b96d57c1011549092fc6390397431c7885598c0d",
+            "hash": "sha256:25501b56ef7e048ddc6c1e2eda1fe9eaeda91a87e65b442ab5e0cbb409e69e92",
             "kind": "material",
             "path": "primitives/materials/design-paper.json",
             "slug": "design-paper"
@@ -4151,7 +4151,7 @@
             "grow up from panel to panel"
           ],
           "primitive": {
-            "hash": "sha256:8456c8f6a9388e981f25e8f637ea0e1865ce573a90e26ec849b695d821c4a505",
+            "hash": "sha256:49c33da219d0fcb12c077610ad66fbf00b3e5deb60ae189e9ef16ac17a8030ef",
             "kind": "technique",
             "path": "primitives/techniques/combining-tools.json",
             "slug": "combining-tools"
@@ -4171,7 +4171,7 @@
             "tooled"
           ],
           "primitive": {
-            "hash": "sha256:8456c8f6a9388e981f25e8f637ea0e1865ce573a90e26ec849b695d821c4a505",
+            "hash": "sha256:49c33da219d0fcb12c077610ad66fbf00b3e5deb60ae189e9ef16ac17a8030ef",
             "kind": "technique",
             "path": "primitives/techniques/combining-tools.json",
             "slug": "combining-tools"
@@ -4193,7 +4193,7 @@
             "pasted down"
           ],
           "primitive": {
-            "hash": "sha256:961b4eb65cdcc6b65b19615b265910bc8c2ee12961b7bb99af278c31c374e680",
+            "hash": "sha256:1b2334f632e9f827e8524a09820e13fab6a57a65fc550314632ed95de8effb3b",
             "kind": "technique",
             "path": "primitives/techniques/pasting-down-end-papers.json",
             "slug": "pasting-down-end-papers"
@@ -4207,7 +4207,7 @@
             "pasting down end papers"
           ],
           "primitive": {
-            "hash": "sha256:f77ffe51332d6d9545ecf710b36f2483efc17829987b45289919a9870bf87fca",
+            "hash": "sha256:dc479dfebfbbf2cacc95eafa71b663a43a2c2a3f6b695ecde19aadb0baac8020",
             "kind": "workflow",
             "path": "primitives/workflows/pasting-down-end-papers-procedure.json",
             "slug": "pasting-down-end-papers-procedure"
@@ -4222,7 +4222,7 @@
             "divider points"
           ],
           "primitive": {
-            "hash": "sha256:ec3a6c0b8a9a75e19ff39606f9fd5d7c7b9bfc82043d6062907c6cec97f3bc9a",
+            "hash": "sha256:576c67cb56a01020757cf2b892c662bdd61747d8dd50d6ac2ba470a510a43ea9",
             "kind": "tool",
             "path": "primitives/tools/dividers.json",
             "slug": "dividers"
@@ -4236,7 +4236,7 @@
             "cutting tin"
           ],
           "primitive": {
-            "hash": "sha256:420e03b2e000f8234509acce37ea4b80204d82e1321ce889be29c51068a84f43",
+            "hash": "sha256:9e556d2f2a81b9c2920e02d7cb635c8a37ae4f49686849d3a0ab132bd31714cc",
             "kind": "tool",
             "path": "primitives/tools/cutting-tin.json",
             "slug": "cutting-tin"
@@ -4250,7 +4250,7 @@
             "straight-edge"
           ],
           "primitive": {
-            "hash": "sha256:b38a14638b890ec82464d427f885b403b6c74083f00b50124398f20deea74122",
+            "hash": "sha256:06dd8eb25217f2316195eb32d7299bffecbea2ae17314afc8beca6ab771e885b",
             "kind": "tool",
             "path": "primitives/tools/straight-edge.json",
             "slug": "straight-edge"
@@ -4265,7 +4265,7 @@
             "thin paste"
           ],
           "primitive": {
-            "hash": "sha256:3aa5fe58004f1bcc81f08154128863a3a38d720d332461f11771cc103f7cbcd8",
+            "hash": "sha256:18f0349efa7e4ec5ab301e00f00bc342bac94301196f182fd43336a82a1e89f6",
             "kind": "material",
             "path": "primitives/materials/paste.json",
             "slug": "paste"
@@ -4286,7 +4286,7 @@
             "broken back"
           ],
           "primitive": {
-            "hash": "sha256:baac42ad30b9f3621f8864c111b8b9900346b19ba02567c45017d584c257a337",
+            "hash": "sha256:2efa5eebab062cf99bd4f8adb2865a3f279e91a0dae8104251946f3fb2fdd7a9",
             "kind": "technique",
             "path": "primitives/techniques/opening-newly-bound-books.json",
             "slug": "opening-newly-bound-books"
@@ -4307,7 +4307,7 @@
             "simple clasp"
           ],
           "primitive": {
-            "hash": "sha256:f5e3b6f99f949db69e56e6d00d6ebf6ad973636d24ede20136c254dfe1079b5b",
+            "hash": "sha256:68df8902335c0c2947e188cb9729429a679503a81af3c9f501d3d9393f0cf4ad",
             "kind": "material",
             "path": "primitives/materials/metal-clasp.json",
             "slug": "metal-clasp"
@@ -4323,7 +4323,7 @@
             "silk or leather ties"
           ],
           "primitive": {
-            "hash": "sha256:e52a733b0150291f26ddbb83623e37273467fd7f7820d93e890fec634bea5469",
+            "hash": "sha256:e008cbab50eb175fd529a4f241f7c27a452e9c5a491efa6d5f74af473434823d",
             "kind": "material",
             "path": "primitives/materials/binding-tie.json",
             "slug": "binding-tie"
@@ -4339,7 +4339,7 @@
             "silver catch"
           ],
           "primitive": {
-            "hash": "sha256:8b475a9e870960588f6d172660a0163b8ee1d310e9b3005c75662186ab9b351e",
+            "hash": "sha256:44c5ee44dc859e65a8213235c61fa34e935e01091fea580ffeeaf5ba590e89d2",
             "kind": "material",
             "path": "primitives/materials/silver-wire.json",
             "slug": "silver-wire"
@@ -4355,7 +4355,7 @@
             "piece of catgut"
           ],
           "primitive": {
-            "hash": "sha256:7ee125fc533e35c45119f7b0a59d496e3559342e1195101e06bf0bf108919b18",
+            "hash": "sha256:187d8a5356e53ff296d8adc32aeaeb56b8d040b7a6cce0b29f3c9853362a5fa9",
             "kind": "material",
             "path": "primitives/materials/catgut.json",
             "slug": "catgut"
@@ -4371,7 +4371,7 @@
             "worked round the catch"
           ],
           "primitive": {
-            "hash": "sha256:28f12c114d571026ecabaf6b25ddb3b82e4cd63727cd0fb0a2f58e10e4742af2",
+            "hash": "sha256:f5d9aec5e133ec433bf96b9b52223406343fc11a823e9935408f09b6b017ec8a",
             "kind": "technique",
             "path": "primitives/techniques/fitting-clasps.json",
             "slug": "fitting-clasps"
@@ -4387,7 +4387,7 @@
             "strips of thin leather"
           ],
           "primitive": {
-            "hash": "sha256:ae765324166a1b09ce2def71f9b5b30fdba213d948a249cd345ebdce020f78bf",
+            "hash": "sha256:a0c9d62413c61acabbf2a63d1c466b13f8a8babbd5b4d46390f37b61e728adac",
             "kind": "technique",
             "path": "primitives/techniques/plaiting-clasp-straps.json",
             "slug": "plaiting-clasp-straps"
@@ -4402,7 +4402,7 @@
             "make the plait"
           ],
           "primitive": {
-            "hash": "sha256:cafd782b3c6e9ac0cb39e592e93c3303bd1b16ce9e560354089a2755a2057bdd",
+            "hash": "sha256:43c7340bf98a43c93361dc881cbda719b4722c462fe59b71c7f8f823ceb67040",
             "kind": "workflow",
             "path": "primitives/workflows/making-and-fitting-a-clasp.json",
             "slug": "making-and-fitting-a-clasp"
@@ -4424,7 +4424,7 @@
             "plaques of metal"
           ],
           "primitive": {
-            "hash": "sha256:c83963cf0b7d338317500586d7e6658d6e88330968ea72f6503663c603b50252",
+            "hash": "sha256:1616481478189337495cb6f4c40b84167eae8fbf85fe201a976cd0c57a2883d2",
             "kind": "material",
             "path": "primitives/materials/metal-furniture.json",
             "slug": "metal-furniture"
@@ -4440,7 +4440,7 @@
             "embossed or chased"
           ],
           "primitive": {
-            "hash": "sha256:f69dc1ad7b6302eb510d0cb4a384e44ce26d82d576ececed78196060b6db7b87",
+            "hash": "sha256:729c531085bfd70fa82a90f07cb9089e887fec7e3deb5b5dc8309f9c218aa429",
             "kind": "technique",
             "path": "primitives/techniques/mounting-metal-furniture.json",
             "slug": "mounting-metal-furniture"
@@ -4460,7 +4460,7 @@
             "bookbinding leather"
           ],
           "primitive": {
-            "hash": "sha256:a869a358b94b8bb1ecaf98af248aa7ecaac1859d4ee6900dcd30102ba8a31bba",
+            "hash": "sha256:d27630df761373964d10de5021ba8e5fa75ac4900fb7a1d0600bcb3cc9400f88",
             "kind": "material",
             "path": "primitives/materials/cover-leather.json",
             "slug": "cover-leather"
@@ -4480,7 +4480,7 @@
             "binding leather"
           ],
           "primitive": {
-            "hash": "sha256:a869a358b94b8bb1ecaf98af248aa7ecaac1859d4ee6900dcd30102ba8a31bba",
+            "hash": "sha256:d27630df761373964d10de5021ba8e5fa75ac4900fb7a1d0600bcb3cc9400f88",
             "kind": "material",
             "path": "primitives/materials/cover-leather.json",
             "slug": "cover-leather"
@@ -4496,7 +4496,7 @@
             "Russia leather"
           ],
           "primitive": {
-            "hash": "sha256:18dacb8bd359eaae23e06cf58997d997628cc09cf712d91b821a15c840dc9472",
+            "hash": "sha256:9d295620b568902de44b5aa58a13aaa513ad81bd8c38aee7948c69ceff59e434",
             "kind": "material",
             "path": "primitives/materials/calf.json",
             "slug": "calf"
@@ -4511,7 +4511,7 @@
             "red morocco"
           ],
           "primitive": {
-            "hash": "sha256:2536dd1c72f1721b1196c8448848475f53acdb59fc7411661bca5164500354e5",
+            "hash": "sha256:d88005d9f1ac90b2c46d319bc407f6bc1effabc7d0302eeb887e8a1aa7864ae5",
             "kind": "material",
             "path": "primitives/materials/goatskin.json",
             "slug": "goatskin"
@@ -4526,7 +4526,7 @@
             "sheepskin bindings"
           ],
           "primitive": {
-            "hash": "sha256:7ae916e88f34b2c78c5f56a534d0a54f78e0196329515a2775e6e8b493a39c36",
+            "hash": "sha256:9e873b49f060cd5e1b19e9c7f665baa3eb9bbaf816d4299e83bf4cbb47fe440d",
             "kind": "material",
             "path": "primitives/materials/sheepskin.json",
             "slug": "sheepskin"
@@ -4541,7 +4541,7 @@
             "white pigskin"
           ],
           "primitive": {
-            "hash": "sha256:9f36d9a426d7e12746f41b6e9fb732e3c26930499286039d231dea8f2395876c",
+            "hash": "sha256:ee83f5dfaad6ed90c98b2ff20e9aca92accc31a2e12a1236b459402b8ff10dae",
             "kind": "material",
             "path": "primitives/materials/pigskin.json",
             "slug": "pigskin"
@@ -4562,7 +4562,7 @@
             "test any leather"
           ],
           "primitive": {
-            "hash": "sha256:4bcaf87aa18ca0680b1f54cbe15b5ccf1b85f583b81ef073c183965552a717a6",
+            "hash": "sha256:7b26eb5de5d6c0cefba0015b257dd3057f0c5c38ed0d550f682606f7c2190162",
             "kind": "technique",
             "path": "primitives/techniques/testing-leather.json",
             "slug": "testing-leather"
@@ -4576,7 +4576,7 @@
             "bookbinding leather"
           ],
           "primitive": {
-            "hash": "sha256:a869a358b94b8bb1ecaf98af248aa7ecaac1859d4ee6900dcd30102ba8a31bba",
+            "hash": "sha256:d27630df761373964d10de5021ba8e5fa75ac4900fb7a1d0600bcb3cc9400f88",
             "kind": "material",
             "path": "primitives/materials/cover-leather.json",
             "slug": "cover-leather"
@@ -4599,7 +4599,7 @@
             "Levant morocco"
           ],
           "primitive": {
-            "hash": "sha256:2536dd1c72f1721b1196c8448848475f53acdb59fc7411661bca5164500354e5",
+            "hash": "sha256:d88005d9f1ac90b2c46d319bc407f6bc1effabc7d0302eeb887e8a1aa7864ae5",
             "kind": "material",
             "path": "primitives/materials/goatskin.json",
             "slug": "goatskin"
@@ -4614,7 +4614,7 @@
             "russia"
           ],
           "primitive": {
-            "hash": "sha256:18dacb8bd359eaae23e06cf58997d997628cc09cf712d91b821a15c840dc9472",
+            "hash": "sha256:9d295620b568902de44b5aa58a13aaa513ad81bd8c38aee7948c69ceff59e434",
             "kind": "material",
             "path": "primitives/materials/calf.json",
             "slug": "calf"
@@ -4631,7 +4631,7 @@
             "skiver"
           ],
           "primitive": {
-            "hash": "sha256:7ae916e88f34b2c78c5f56a534d0a54f78e0196329515a2775e6e8b493a39c36",
+            "hash": "sha256:9e873b49f060cd5e1b19e9c7f665baa3eb9bbaf816d4299e83bf4cbb47fe440d",
             "kind": "material",
             "path": "primitives/materials/sheepskin.json",
             "slug": "sheepskin"
@@ -4645,7 +4645,7 @@
             "Pigskin"
           ],
           "primitive": {
-            "hash": "sha256:9f36d9a426d7e12746f41b6e9fb732e3c26930499286039d231dea8f2395876c",
+            "hash": "sha256:ee83f5dfaad6ed90c98b2ff20e9aca92accc31a2e12a1236b459402b8ff10dae",
             "kind": "material",
             "path": "primitives/materials/pigskin.json",
             "slug": "pigskin"
@@ -4660,7 +4660,7 @@
             "seal"
           ],
           "primitive": {
-            "hash": "sha256:55e2435aeeeb0a05c59add329b9399fc459e3688375e5aa4432ceeb124d990d0",
+            "hash": "sha256:301ca21eb830f35c3c15d517e770195340458d9af718bea9928a5d7bae1d8f90",
             "kind": "material",
             "path": "primitives/materials/sealskin.json",
             "slug": "sealskin"
@@ -4675,7 +4675,7 @@
             "Chrome leather"
           ],
           "primitive": {
-            "hash": "sha256:349119aa07c0da621430b37c03e8dfc899a53c06d98ca370b8df74ce755b14b0",
+            "hash": "sha256:7401cb8c1650032a14698dc48bec7f4ac886862c2f65b0b0b5f221e4a37172c9",
             "kind": "material",
             "path": "primitives/materials/chrome-leather.json",
             "slug": "chrome-leather"
@@ -4692,7 +4692,7 @@
             "marbling"
           ],
           "primitive": {
-            "hash": "sha256:2cefa579d74cecb974f20c765ff5e5ad233ac22550f9c65ef42e678f372c07ee",
+            "hash": "sha256:a02f894e0c751ce4a58879fe2f9f302a24c9c68899660bf04ee2d75912be5943",
             "kind": "technique",
             "path": "primitives/techniques/sprinkling-leather.json",
             "slug": "sprinkling-leather"
@@ -4714,7 +4714,7 @@
             "machine-made paper"
           ],
           "primitive": {
-            "hash": "sha256:6ecfdfb0273c4c0557e2c507d8293dbc4a024ba503998673182c01a306a42394",
+            "hash": "sha256:e913caab041f290a0db70f5695d4c7e412f145039bfd283ea31e97676b363542",
             "kind": "material",
             "path": "primitives/materials/paper.json",
             "slug": "paper"
@@ -4729,7 +4729,7 @@
             "deckle"
           ],
           "primitive": {
-            "hash": "sha256:8d16efffd9916cfa940934bc8f6140fdd32e5b0d5c4b2aa70a84e47a535f76c2",
+            "hash": "sha256:4ebf13b990b627fdd0299973b90f981f665d51c19e0288c030d7b7dd1e6256e3",
             "kind": "material",
             "path": "primitives/materials/hand-made-paper.json",
             "slug": "hand-made-paper"
@@ -4744,7 +4744,7 @@
             "Japanese paper"
           ],
           "primitive": {
-            "hash": "sha256:32952b4f59196e238b8eee080fa7cd2667e6f9220709d165f13d2fa7837e8f32",
+            "hash": "sha256:8892c78edef8c50422d06d381631ca35521bffde61ed873890e7d4291e6bc2a3",
             "kind": "material",
             "path": "primitives/materials/japanese-vellum.json",
             "slug": "japanese-vellum"
@@ -4759,7 +4759,7 @@
             "half-toned"
           ],
           "primitive": {
-            "hash": "sha256:c0408a8c70af2f410378014c28464a04db6e9da126f9955f93a471cf3b830903",
+            "hash": "sha256:fa8818ca62c0a3df86ab3cf8d1e44ace0969c273f2ee2d487579ae91c467af18",
             "kind": "material",
             "path": "primitives/materials/art-paper.json",
             "slug": "art-paper"
@@ -4779,7 +4779,7 @@
             "pastes"
           ],
           "primitive": {
-            "hash": "sha256:3aa5fe58004f1bcc81f08154128863a3a38d720d332461f11771cc103f7cbcd8",
+            "hash": "sha256:18f0349efa7e4ec5ab301e00f00bc342bac94301196f182fd43336a82a1e89f6",
             "kind": "material",
             "path": "primitives/materials/paste.json",
             "slug": "paste"
@@ -4794,7 +4794,7 @@
             "paste for mending"
           ],
           "primitive": {
-            "hash": "sha256:bcd391ae31f9d3c2cf2f637f991f6bafd1010e6f1eba226633d2d7789b500d56",
+            "hash": "sha256:d49ebaafe0ed4fd73e995b9c1d5f64b1b87ac0d01201200a90ebe1f06bb19990",
             "kind": "material",
             "path": "primitives/materials/white-paste.json",
             "slug": "white-paste"
@@ -4809,7 +4809,7 @@
             "paste for covering"
           ],
           "primitive": {
-            "hash": "sha256:6ea8f993f361e615c1bd6f839b6f3ae8e0531dae586d313ad62e22808b84676a",
+            "hash": "sha256:527496a967bc3c9f344d109afb29a9f303ab8a24fc500f9ddd1e61fadea6d64b",
             "kind": "workflow",
             "path": "primitives/workflows/paste-making.json",
             "slug": "paste-making"
@@ -4823,7 +4823,7 @@
             "paste tub"
           ],
           "primitive": {
-            "hash": "sha256:efcd8400e8dfea6a70612f1ebba5419c4afaf6d7fc2e08ad0c7e611780066c66",
+            "hash": "sha256:a373f69065b76b9f7f629df1282d9f92eb2d08c841988c4a6df84c8255b6998a",
             "kind": "tool",
             "path": "primitives/tools/paste-tub.json",
             "slug": "paste-tub"
@@ -4838,7 +4838,7 @@
             "paste brush"
           ],
           "primitive": {
-            "hash": "sha256:37d913467d492f7a46de560d2f04d7da85f0e2c8ba48a2caaa86a6ea414fe05d",
+            "hash": "sha256:88bec6842e8a3abe71c504a3cd60aadbb51b9ff14b1222290101f662cdf04399",
             "kind": "tool",
             "path": "primitives/tools/paste-brush.json",
             "slug": "paste-brush"
@@ -4858,7 +4858,7 @@
             "hide glue"
           ],
           "primitive": {
-            "hash": "sha256:eb4e812a04868b78d075edc419754c1e36367d3890906b26ab8eef6a70fd2e7e",
+            "hash": "sha256:41a54c348c10eeeea7b65cd84d6cd9cddc3a5a57ddc9e526bf48f7306ce7577c",
             "kind": "material",
             "path": "primitives/materials/glue.json",
             "slug": "glue"
@@ -4872,7 +4872,7 @@
             "glue-pot"
           ],
           "primitive": {
-            "hash": "sha256:2f9d2eab565aa0ba733ec8c2fdef143c09bd97d06aa1ba071b0fa2b0e81f85d3",
+            "hash": "sha256:4c4a0fa44dcc62728529e3f1f90c8694cb5f210fe17f4c9f172b2faa8aa9353c",
             "kind": "tool",
             "path": "primitives/tools/glue-pot.json",
             "slug": "glue-pot"
@@ -4892,7 +4892,7 @@
             "yellow or olive-green glass"
           ],
           "primitive": {
-            "hash": "sha256:7a24e8636f8c11bd791ede1af3c1e2a8f214ad4123b7653daa51068881d8514c",
+            "hash": "sha256:6527c2e48aed0ac34bfd728b618058e27e518684ce3365dcbf8b697b1787eb0e",
             "kind": "material",
             "path": "primitives/materials/tinted-glass.json",
             "slug": "tinted-glass"
@@ -4908,7 +4908,7 @@
             "feather duster"
           ],
           "primitive": {
-            "hash": "sha256:a4797afc89d9634dbb3f0df0777ec608be99fb9084bd8ddf72317bd9616e25a1",
+            "hash": "sha256:c3b0aab5af62f840ebb7325dc3ad1829b6bf8790c3a5b3447adbeda698ed1290",
             "kind": "technique",
             "path": "primitives/techniques/dusting.json",
             "slug": "dusting"
@@ -4922,7 +4922,7 @@
             "feather duster"
           ],
           "primitive": {
-            "hash": "sha256:0843bfebfb0c2da5d1c3d64f0f13a042835331161e8ada85bc3c9cd7ae924eb9",
+            "hash": "sha256:506893e0eb16b864dec8f026bc406d091a823adb4e07e240b61d05510386ac4e",
             "kind": "tool",
             "path": "primitives/tools/feather-duster.json",
             "slug": "feather-duster"
@@ -4943,7 +4943,7 @@
             "worms"
           ],
           "primitive": {
-            "hash": "sha256:85da299747c4cda7ca2981efd41aed1e1362a600c5ca9337324c69db0f26dbcd",
+            "hash": "sha256:35f0ae4d65ed7aa409394a74dbcbc3812225aaeb2c4a4754def512ef72de2bbf",
             "kind": "technique",
             "path": "primitives/techniques/insect-pest-control.json",
             "slug": "insect-pest-control"
@@ -4959,7 +4959,7 @@
             "Insect Powder"
           ],
           "primitive": {
-            "hash": "sha256:9bcfba3ad61859bad2fa73c44195cc23e825ecc0ada792d1f8fc67775d859eb5",
+            "hash": "sha256:f5d9200fe672c0f35be8c20c60a3bb45bbba93b3319260af880413d0d89d2ab3",
             "kind": "material",
             "path": "primitives/materials/insect-repellent.json",
             "slug": "insect-repellent"
@@ -4985,7 +4985,7 @@
             "dressing"
           ],
           "primitive": {
-            "hash": "sha256:57e3d332deacaac8da4ff269256f6d65d6cbc7e575acc522f784b312e3eb10ab",
+            "hash": "sha256:b14214fdf54517911c7e8082eac9818d0b8cbe740bec4f783f01065cfeb99e43",
             "kind": "technique",
             "path": "primitives/techniques/preserving-old-bindings.json",
             "slug": "preserving-old-bindings"
@@ -5001,7 +5001,7 @@
             "solution of paraffin wax in castor oil"
           ],
           "primitive": {
-            "hash": "sha256:849318c322edab8f2ed909e32bd76430f9d0675e44dc03b00cce5f1ab2bf1836",
+            "hash": "sha256:321922da79d383a608769ba8c02d4dbc541bdf78cd373c9e12cd291565f225f9",
             "kind": "material",
             "path": "primitives/materials/leather-dressing.json",
             "slug": "leather-dressing"
@@ -5016,7 +5016,7 @@
             "wax"
           ],
           "primitive": {
-            "hash": "sha256:704f7793693fb6ba1438de94dcc9f77bcd71e0303df87dade2da49bcd6b70619",
+            "hash": "sha256:9ba3aa721a6ec8ce433576b9ee6fa87e01e34f5e39eb343341531f7c169f410d",
             "kind": "material",
             "path": "primitives/materials/paraffin-wax.json",
             "slug": "paraffin-wax"
@@ -5030,7 +5030,7 @@
             "castor oil"
           ],
           "primitive": {
-            "hash": "sha256:70c68d5c0f112f11e677be92ec6952589834b28f8492f45cbc97ae7f466dc774",
+            "hash": "sha256:54b52f519218a08d9247f49ed1c639afd31a7f8a5a959785a6a37087a6f2f5dd",
             "kind": "material",
             "path": "primitives/materials/castor-oil.json",
             "slug": "castor-oil"
@@ -5046,7 +5046,7 @@
             "cover made of a piece of millboard"
           ],
           "primitive": {
-            "hash": "sha256:a46c620bd70815b3dbd14596af9af5a7bb87a47faa0770873b9e00486fb9cc5b",
+            "hash": "sha256:7053b1b258789fb012dc0199341616557161bb7ffa0d459a752bcd8457821037",
             "kind": "technique",
             "path": "primitives/techniques/protective-shelf-case.json",
             "slug": "protective-shelf-case"
@@ -5061,7 +5061,7 @@
             "mill-board"
           ],
           "primitive": {
-            "hash": "sha256:3f4a8036d4684d96ec4b2f0e4f3a69029a7d7437725ab229f832cfd47aafa785",
+            "hash": "sha256:9991d1f84d6d0a433758778fe6a20b2c6b4914661be2b4b6b931149e48af1c42",
             "kind": "material",
             "path": "primitives/materials/millboard.json",
             "slug": "millboard"
@@ -5081,7 +5081,7 @@
             "re-backed"
           ],
           "primitive": {
-            "hash": "sha256:37dabc617dbdad53af7cf4162bf7e22d63cd5f82f74083b88c27bc064c74b8b3",
+            "hash": "sha256:157adfccbebe18229f1cc943fc083ba00e1b4d68b3ec6e7bb9a142c7a523f9e5",
             "kind": "technique",
             "path": "primitives/techniques/re-backing.json",
             "slug": "re-backing"
@@ -5096,7 +5096,7 @@
             "corner covered"
           ],
           "primitive": {
-            "hash": "sha256:6b0c63221feba1367af192d3617361ab88640426ee0e6a595070bfeababf98e7",
+            "hash": "sha256:63b359bcf3d39698d35134ada6594dd1e1e7d637e8a4f7223b0e5b4369cb7c03",
             "kind": "technique",
             "path": "primitives/techniques/corner-repair.json",
             "slug": "corner-repair"
@@ -5112,7 +5112,7 @@
             "new of the same colour"
           ],
           "primitive": {
-            "hash": "sha256:a869a358b94b8bb1ecaf98af248aa7ecaac1859d4ee6900dcd30102ba8a31bba",
+            "hash": "sha256:d27630df761373964d10de5021ba8e5fa75ac4900fb7a1d0600bcb3cc9400f88",
             "kind": "material",
             "path": "primitives/materials/cover-leather.json",
             "slug": "cover-leather"
@@ -5126,7 +5126,7 @@
             "pasted"
           ],
           "primitive": {
-            "hash": "sha256:3aa5fe58004f1bcc81f08154128863a3a38d720d332461f11771cc103f7cbcd8",
+            "hash": "sha256:18f0349efa7e4ec5ab301e00f00bc342bac94301196f182fd43336a82a1e89f6",
             "kind": "material",
             "path": "primitives/materials/paste.json",
             "slug": "paste"
@@ -5141,7 +5141,7 @@
             "tape"
           ],
           "primitive": {
-            "hash": "sha256:0d068a5405b9af42967e7bdbabe66dbff2313e7de9d6ec5561284d45d687ee29",
+            "hash": "sha256:f6e81cd0f3800960cff679f32be9b086aa3c71e9eb754f7c8e6d83b486691994",
             "kind": "material",
             "path": "primitives/materials/sewing-tape.json",
             "slug": "sewing-tape"
@@ -5156,7 +5156,7 @@
             "folder"
           ],
           "primitive": {
-            "hash": "sha256:3d43c3f081a63ec671c64dbe63996b080596efb6776576e05b7b93d01ac7de65",
+            "hash": "sha256:22338de32fe0e93210663441b9ec7157b08d6a8bb8820c67b93f8149b2a3812b",
             "kind": "tool",
             "path": "primitives/tools/folder.json",
             "slug": "folder"
@@ -5171,7 +5171,7 @@
             "tapped with a hammer"
           ],
           "primitive": {
-            "hash": "sha256:c364d17bd6c8133d0d90be55fa3517e2cc10f0604b192fdb324f15e83452493b",
+            "hash": "sha256:4739756f528ea94b3e5fa662f99009bcdffabec10500491f8abd1396c495051c",
             "kind": "tool",
             "path": "primitives/tools/backing-hammer.json",
             "slug": "backing-hammer"
@@ -5944,7 +5944,7 @@
   },
   "book": "cockerell",
   "canonical_lang": "en",
-  "edition": "D. Appleton & Co., New York, 1901",
+  "edition": "D. Appleton & Co., New York, 1902 (first published 1901)",
   "format_version": "1.0",
   "ia_item": "bookbindingcareo00cockrich",
   "languages": [
@@ -6507,7 +6507,7 @@
   ],
   "source_ref": [
     {
-      "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+      "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
       "url": "https://archive.org/details/bookbindingcareo00cockrich"
     }
   ],

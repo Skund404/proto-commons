@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:24074392b207eb6f3a3880f96a948652c35ff23ceed1b3a73aa5165b05725b1c",
+  "content_hash": "sha256:a70264f8d161e0a404c38ade97f76353d04ae019eb59ab44dd9d592f5b204c52",
   "created": "2026-06-24",
   "description": "Impressing a pattern into a cover with heated tools alone, leaving no gold so the design reads as a recessed mark in the leather.",
   "emitter": "opg://commons-seed",
@@ -32,11 +32,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIV, p.188. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIV, p.188. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/188"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:bbba81be580c617344bcd659e7b4c532ac62eefaf968aa81817d9918308f1ee2",
+  "content_hash": "sha256:5e2729de789e68c46188fd5fe34d237cd590ea68c0941d9c6f1672c8d2aa0422",
   "created": "2026-06-24",
   "description": "A thin impervious sheet, such as celluloid, laid between the damp cover and the leaves so moisture from pasting cannot cockle the paper while the binding sets.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XII, p.162. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XII, p.162. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/162"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

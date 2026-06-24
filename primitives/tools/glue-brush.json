@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:eebc8e75e23ab79aada100c21f30c02faba26a5f0c3cdc1caba5543ab502ed7f",
+  "content_hash": "sha256:a600e82e3aa0d2c63b7b524ef9c8f111d02b2d0585299327f8c038bc220de758",
   "created": "2026-06-24",
   "description": "A stiff round brush used to apply hot glue to a spine and work it down between the sections. Spinning it in the pot helps break up glue that has thickened so it spreads freely.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VIII, p.117. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter VIII, p.117. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/117"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

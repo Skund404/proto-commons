@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:90a1a2f0cffbee65910f1135a5315a6700d95ca92e5ec66c5be922d0758e528b",
+  "content_hash": "sha256:2a3e073de910c185427c4b0844fddfe4e24be69bcda0dfb73f2f1e9477228e6b",
   "created": "2026-06-24",
   "description": "A long straight blade used to lift, flatten, and cut leaves of gold on the cushion. It is kept free of grease, never touched on the blade by hand, and rubbed on the cushion before cutting.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIV, p.199. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIV, p.199. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/199"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

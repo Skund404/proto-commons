@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:28f12c114d571026ecabaf6b25ddb3b82e4cd63727cd0fb0a2f58e10e4742af2",
+  "content_hash": "sha256:f5d9aec5e133ec433bf96b9b52223406343fc11a823e9935408f09b6b017ec8a",
   "created": "2026-06-24",
   "description": "Anchoring a metal clasp into the covers of a book. The flattened catch is set between the layers of a double board and glued, or its turned end is passed through a wooden board and riveted on the inside; during covering the leather is pierced and worked snugly around the projecting catch.",
   "emitter": "opg://commons-seed",
@@ -32,11 +32,11 @@
     "skillLevel": "advanced",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XVIII, p.260. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XVIII, p.260. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/260"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

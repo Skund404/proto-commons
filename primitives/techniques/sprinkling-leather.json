@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:2cefa579d74cecb974f20c765ff5e5ad233ac22550f9c65ef42e678f372c07ee",
+  "content_hash": "sha256:a02f894e0c751ce4a58879fe2f9f302a24c9c68899660bf04ee2d75912be5943",
   "created": "2026-06-24",
   "description": "Flecking a leather cover with droplets of colour to break up a flat, even tone, as in sprinkled and tree calf. Cockerell finds slight unevenness of colour pleasing but strongly condemns sprinkling with ferrous sulphate, which destroys the tan and frees acid, and suggests safer aniline colours instead.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIX, p.280. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIX, p.280. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/280"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

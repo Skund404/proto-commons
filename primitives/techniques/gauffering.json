@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:fbab65e57e7720ac4e9f0a21c951f72102246f8c47ffac176f3ef2a4eb9ac9b4",
+  "content_hash": "sha256:1cbd7765a33fcc40ba1bdbd81021d4085490d666809d0d49646ccc8bb4e27f29",
   "created": "2026-06-24",
   "description": "Impressing a pattern into a gilt edge with heated finishing tools while the leaves are screwed tight in the press. A second colour of gold may be laid over the first and tooled through, leaving the design standing in the new gold.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "advanced",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter X, p.139. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter X, p.139. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/139"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

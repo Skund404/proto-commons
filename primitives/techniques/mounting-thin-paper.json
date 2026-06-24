@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:59204838e9bfcaf50701c994bdafc3511f159ebc1268b6dd9bdccf598003a525",
+  "content_hash": "sha256:6a10ea9c732c4b9cccf46822008ea0a65878446dbbd8da6d2d05e1c100993e43",
   "created": "2026-06-24",
   "description": "Fixing a fragile thin sheet to a mount by pasting it face down on glass, wiping away surplus paste, then turning the glass over so the exact position can be seen through it before pressing the sheet down. Working through glass keeps the delicate paper from cockling or tearing.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "advanced",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter III, p.53. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter III, p.53. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/53"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

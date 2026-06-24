@@ -1,7 +1,7 @@
 {
-  "content_hash": "sha256:69c89b774b0e7445a36466d05f45a43f641e75fb817941f4a12d8838a967debf",
+  "content_hash": "sha256:dd127f754b66223f12f0004dfd4fd50549adcd4ea77911c0349993c23128b6d6",
   "description": {
-    "en": "Chapter XII (Preparing for Covering Paring Leather Cov ering Mitring Coiners Filling in Boards) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+    "en": "Chapter XII (Preparing for Covering Paring Leather Cov ering Mitring Coiners Filling in Boards) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901)."
   },
   "domain": "bookbinding",
   "emitter": "opg://commons-seed",
@@ -9,140 +9,140 @@
   "ia_item": "bookbindingcareo00cockrich",
   "items": [
     {
-      "hash": "sha256:0989a7fcb9a65dd9cabf343d82cddf93ab2931867b990b7d5b63b9a91091f014",
+      "hash": "sha256:ea2fc28fee42f2cdf176e9f687db11f99bb7a1cc69040d56d26191bc5007b0ab",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "band-nippers"
     },
     {
-      "hash": "sha256:f405275a25fdda933df2c8b3bf4eb509873b6780c36d5d9883c949a0530fe008",
+      "hash": "sha256:8755e4a23c1187e4d8cc4bde0352d1b6c1abdcee605d105963c84c2dec45baff",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "band-stick"
     },
     {
-      "hash": "sha256:a869a358b94b8bb1ecaf98af248aa7ecaac1859d4ee6900dcd30102ba8a31bba",
+      "hash": "sha256:d27630df761373964d10de5021ba8e5fa75ac4900fb7a1d0600bcb3cc9400f88",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "cover-leather"
     },
     {
-      "hash": "sha256:67823cf59715591854ccf36dee32bbfc885952c72bca84dc31aeec4d219bb6a9",
+      "hash": "sha256:737884c8100e39105e68ecc207a7bbf7db634f7fcfe2295f0805bb8802538abe",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "covering"
     },
     {
-      "hash": "sha256:edbd32ffdc8ee327f380b42d4848e31ec3f92708227360eb74eb50ba2a3cd469",
+      "hash": "sha256:b1e05ed6c9045b00ddd81519542c6fa60b586b0e505726a3c14c75d3e19fbe99",
       "kind": "workflow",
       "record_class": "primitive",
       "role": "required",
       "slug": "covering-in-leather"
     },
     {
-      "hash": "sha256:f19aaf9e2cc0483166b330b82abff505a570e2dc10c8c8dec4e8cff6773a56d1",
+      "hash": "sha256:d3215a14b91e87ccf8163df049292c668e99eccb5fb868ef728abf40324ccd03",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "filling-in-boards"
     },
     {
-      "hash": "sha256:8e98e9cd3e49797fa8fc3b98d39d0c7c1dde7b5ad453b890bce2356cad60f324",
+      "hash": "sha256:0fdc0c7ed9f1f8b25f0a314da71f902950a56b39eab256db4c611d0f93a9de4d",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "filling-in-paper"
     },
     {
-      "hash": "sha256:3d43c3f081a63ec671c64dbe63996b080596efb6776576e05b7b93d01ac7de65",
+      "hash": "sha256:22338de32fe0e93210663441b9ec7157b08d6a8bb8820c67b93f8149b2a3812b",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "folder"
     },
     {
-      "hash": "sha256:949d5d421b10810df341b3bf11dcffdf785a84326dfd5f3c9d9801b040fe253b",
+      "hash": "sha256:c6ce2bcfa90aba979fbd19e0cf2ec70e7d7e875f73b5bb1cf698964bb7aac0d2",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "leather-joint"
     },
     {
-      "hash": "sha256:754d55b6c21d9799dd81089f04253e66ce5e0897ae13a57d86354c97922b997c",
+      "hash": "sha256:a7ef66666af9ff13fe5869a1cf479beffcd767428bd43bfafe66dedb370ac546",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "lining-up"
     },
     {
-      "hash": "sha256:263b5f6fa642e9f45f328e7ec38b8e4e668afbf812e36517e43c03dd7df42884",
+      "hash": "sha256:53cffcff14eeb178ca45356ebfdb40eb61a5543fe1ae6dcda47b16fbcc651e4c",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "lying-press"
     },
     {
-      "hash": "sha256:0b3289ca11aa6e624ecb71db87c4e6ec2eeb80f8001d29c4a2da444a8c623fcc",
+      "hash": "sha256:58966af58f60eb4e1b5eff151ee40d632ca3ee54f75dc49fc9925c8dc899ac16",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "mitring-corners"
     },
     {
-      "hash": "sha256:4a5581ecdb71161ae6e731013ea53e27acff595f7754da74e3374b24ac209c2d",
+      "hash": "sha256:78ca22d680bba4ad2090ac7183a79bc009ed69f2cd12d4cb933f6497539ac573",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "lining-paper-spine"
     },
     {
-      "hash": "sha256:ff4e5855d6908cd1ea1f1f61dbcf28852cefc139770409048e3636ba741b11f8",
+      "hash": "sha256:aa5bb1ba0f9cb067467f0340c4d5097e1c756bbdf19bc3270f12f9781ad1e32b",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "leather-paring-knife"
     },
     {
-      "hash": "sha256:7fc4f92e138d6053a80a3f3203e43ca4baaf19aaaeb96768b46645f0ccbc4064",
+      "hash": "sha256:658b9328bb8d1c3d313a0d6f6cc1c5c1a9d278006e168eef218ec0085a10c566",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "paring-leather"
     },
     {
-      "hash": "sha256:381f0e75873e221adf580e76b831ce44edae4fc5feccdcfcc978c103911e7dd2",
+      "hash": "sha256:c225193fbbfac6fb15c6ef49c568504c6b99e2cb6ef361ee2a77d1977fc0d627",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "paring-stone"
     },
     {
-      "hash": "sha256:902813bd9a9550065d62da2d3c939a22f5a6e6ff8623d4744ea7482e9dded876",
+      "hash": "sha256:09fbd589b59314bd24aeb6a6472113caee34d00071091c22df5886b54fc7eff2",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "setting-head-cap"
     },
     {
-      "hash": "sha256:4806d1eab666c6a533018d0f5d61e92f5294f2ce93ec366b8797a4b9f6246f32",
+      "hash": "sha256:23e28fcab4fbb6401cb24dea85e309308723cc7adee738666c11742d8b200791",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "setting-squares"
     },
     {
-      "hash": "sha256:c8b0c83bcef96e6edc4f7f4e87aec07bde00579586782b081b382ff3664955a3",
+      "hash": "sha256:12929adea4c4bfe991a16561f75ba21a667c1e12563a830debb686f156891bcd",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "tying-up"
     },
     {
-      "hash": "sha256:bbba81be580c617344bcd659e7b4c532ac62eefaf968aa81817d9918308f1ee2",
+      "hash": "sha256:5e2729de789e68c46188fd5fe34d237cd590ea68c0941d9c6f1672c8d2aa0422",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",

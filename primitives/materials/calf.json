@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:18dacb8bd359eaae23e06cf58997d997628cc09cf712d91b821a15c840dc9472",
+  "content_hash": "sha256:9d295620b568902de44b5aa58a13aaa513ad81bd8c38aee7948c69ceff59e434",
   "created": "2026-06-24",
   "description": "Smooth-grained hide of a young cow, traditionally common for covering. Cockerell records that modern vegetable-tanned calf had grown unreliable, often pared too thin and prone to becoming hard and brittle, and he advised against its use until tanning practice improved.",
   "emitter": "opg://commons-seed",
@@ -32,11 +32,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIX, p.263. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIX, p.263. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/263"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

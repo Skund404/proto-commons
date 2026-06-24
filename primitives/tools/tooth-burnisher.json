@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:7c5daea2b4674a5977b8c418a45c980dec687a744d2b17b5c852f9ae6bc1e307",
+  "content_hash": "sha256:0a8bf7d1dfad53ae6023bb70ca8efcfd435b5e577514525c16a10b45d08e2144",
   "created": "2026-06-24",
   "description": "A hand burnisher with a hard smooth working surface, drawn over a waxed coloured edge to compress and polish it to a sheen. The same family of tool serves to lay and brighten gilt or coloured book edges.",
   "emitter": "opg://commons-seed",
@@ -31,11 +31,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter X, p.146. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter X, p.146. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/146"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

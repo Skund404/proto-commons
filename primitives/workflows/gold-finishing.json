@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:23b9e7caa5e1e0d7bfed69a516681dcd8eb2236862b513c30bcbc35e3c9ece36",
+  "content_hash": "sha256:85495e3ea40d5901d698042e8b3d8cbf5f8fdce33e5b1d7810259b5da2bf48e3",
   "created": "2026-06-24",
   "description": "The full sequence for tooling a leather cover in gold, from preparing the surface through laying the gold, striking the pattern, cleaning off, and varnishing the finished binding.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIV, p.188. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIV, p.188. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/188"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

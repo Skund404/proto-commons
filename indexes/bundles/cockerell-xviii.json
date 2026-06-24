@@ -1,7 +1,7 @@
 {
-  "content_hash": "sha256:fd1a80d719510f099c270784bfadb49e2bc3f3e48bb5ee186d7c1906222e35dc",
+  "content_hash": "sha256:2c4963147250d462b4a0c49139b931de0b9a007c621f49e4e49337908a080fee",
   "description": {
-    "en": "Chapter XVIII (Clasps and Ties Metal on Bindings) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+    "en": "Chapter XVIII (Clasps and Ties Metal on Bindings) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901)."
   },
   "domain": "bookbinding",
   "emitter": "opg://commons-seed",
@@ -9,63 +9,63 @@
   "ia_item": "bookbindingcareo00cockrich",
   "items": [
     {
-      "hash": "sha256:e52a733b0150291f26ddbb83623e37273467fd7f7820d93e890fec634bea5469",
+      "hash": "sha256:e008cbab50eb175fd529a4f241f7c27a452e9c5a491efa6d5f74af473434823d",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "binding-tie"
     },
     {
-      "hash": "sha256:7ee125fc533e35c45119f7b0a59d496e3559342e1195101e06bf0bf108919b18",
+      "hash": "sha256:187d8a5356e53ff296d8adc32aeaeb56b8d040b7a6cce0b29f3c9853362a5fa9",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "catgut"
     },
     {
-      "hash": "sha256:28f12c114d571026ecabaf6b25ddb3b82e4cd63727cd0fb0a2f58e10e4742af2",
+      "hash": "sha256:f5d9aec5e133ec433bf96b9b52223406343fc11a823e9935408f09b6b017ec8a",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "fitting-clasps"
     },
     {
-      "hash": "sha256:cafd782b3c6e9ac0cb39e592e93c3303bd1b16ce9e560354089a2755a2057bdd",
+      "hash": "sha256:43c7340bf98a43c93361dc881cbda719b4722c462fe59b71c7f8f823ceb67040",
       "kind": "workflow",
       "record_class": "primitive",
       "role": "required",
       "slug": "making-and-fitting-a-clasp"
     },
     {
-      "hash": "sha256:f5e3b6f99f949db69e56e6d00d6ebf6ad973636d24ede20136c254dfe1079b5b",
+      "hash": "sha256:68df8902335c0c2947e188cb9729429a679503a81af3c9f501d3d9393f0cf4ad",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "metal-clasp"
     },
     {
-      "hash": "sha256:c83963cf0b7d338317500586d7e6658d6e88330968ea72f6503663c603b50252",
+      "hash": "sha256:1616481478189337495cb6f4c40b84167eae8fbf85fe201a976cd0c57a2883d2",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "metal-furniture"
     },
     {
-      "hash": "sha256:f69dc1ad7b6302eb510d0cb4a384e44ce26d82d576ececed78196060b6db7b87",
+      "hash": "sha256:729c531085bfd70fa82a90f07cb9089e887fec7e3deb5b5dc8309f9c218aa429",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "mounting-metal-furniture"
     },
     {
-      "hash": "sha256:ae765324166a1b09ce2def71f9b5b30fdba213d948a249cd345ebdce020f78bf",
+      "hash": "sha256:a0c9d62413c61acabbf2a63d1c466b13f8a8babbd5b4d46390f37b61e728adac",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "plaiting-clasp-straps"
     },
     {
-      "hash": "sha256:8b475a9e870960588f6d172660a0163b8ee1d310e9b3005c75662186ab9b351e",
+      "hash": "sha256:44c5ee44dc859e65a8213235c61fa34e935e01091fea580ffeeaf5ba590e89d2",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:a1742e5949bbf5b4f37a8e3436002b6844bb1f544283a1744258d0895f3f2169",
+  "content_hash": "sha256:8009708bef8fa27b8f4198b208b1b5696d7af9c0f484a25bb4a3afa369e54338",
   "created": "2026-06-24",
   "description": "An older method of consolidating a textblock by striking the gathered sections on a stone with a heavy hammer to make the leaves lie closely together. Cockerell records this as a custom now superseded by rolling and pressing.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter V, p.80. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter V, p.80. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/80"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

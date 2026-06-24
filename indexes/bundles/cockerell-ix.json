@@ -1,7 +1,7 @@
 {
-  "content_hash": "sha256:f44a12db8753a92342689d98a38053a3377da1857269cac28fd4b8d02b0ea1ff",
+  "content_hash": "sha256:22c11053327d013a2bf06a0ff8be68d3a5171e2edb70d144d5644b23df20d976",
   "description": {
-    "en": "Chapter IX (Cutting and Attaching Boards Cleaning off Back Pressing) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
+    "en": "Chapter IX (Cutting and Attaching Boards Cleaning off Back Pressing) of Douglas Cockerell, Bookbinding and the Care of Books (1902; first published 1901)."
   },
   "domain": "bookbinding",
   "emitter": "opg://commons-seed",
@@ -9,147 +9,147 @@
   "ia_item": "bookbindingcareo00cockrich",
   "items": [
     {
-      "hash": "sha256:b8516684ccd55ec996f8a23e7206820339e7b1953249053efbd53d71fb50d60f",
+      "hash": "sha256:fd01bf0efd2e889f527e6b08f41fde6fca3caa57219399e1ccf127d9c5994a58",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "board-machine"
     },
     {
-      "hash": "sha256:4271729faa4e5186a580534ff02e67d63e1dcd18d020713f903e7157b7acb4e6",
+      "hash": "sha256:d40783ce3dea242d4248469de701caad3beacb8ad196195b85f7d24f9c5f3ec4",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "bodkin"
     },
     {
-      "hash": "sha256:6d471a304a00c1ac8b574b5b6919bc2f156dd0753893e0ae2713ec49cefd1907",
+      "hash": "sha256:6ff295d3aebfd0078ff596a1f0dea6fafd8b2b7d1240f59552df7fbd5ac90efa",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "carpenter-square"
     },
     {
-      "hash": "sha256:f19e1b57ec4c1ba0cfcdda876c3df64d505f96e42cfba4944bb4a2787bea6275",
+      "hash": "sha256:cc5f57246d286c981117e65530edf89d4f016345e7e5dde4deb469bef36f17c6",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "cleaning-off"
     },
     {
-      "hash": "sha256:3bfc378abe5dce12f9bd7aec61d48f81787ca3f166818f0e7b1cb46577b0d4f1",
+      "hash": "sha256:d7f795b23d7a799bcb981eadf134fc4632ac359ba788523eb1f869c141625a83",
       "kind": "workflow",
       "record_class": "primitive",
       "role": "required",
       "slug": "cutting-and-attaching-boards"
     },
     {
-      "hash": "sha256:37e2205235eae2d013dc6a0e3b71fbf70a25314243e3eac1fda1e9386116fe12",
+      "hash": "sha256:68c645cebfab7cdb8ab3f2b0510bea1e038a2f5c6e4bb110c7db7bf46bd7bad7",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "cutting-boards"
     },
     {
-      "hash": "sha256:8c99b3af8c4448f68611c42888b8f69189e5f687318e52c28d3815395c4509b2",
+      "hash": "sha256:8aeca05fe2f8e50146c7d555057cb733a9db4a1b9a52c8e06d39d1238e9dab0a",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "compasses"
     },
     {
-      "hash": "sha256:5b7ca01676ef9a543c872c31d8b468a5f65e051e65304068ed32ed5c79262680",
+      "hash": "sha256:77b85bacc9929f92ab4f2e37b9f4db0c283de867747ac1a5c90d7383d0d9ddb8",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "knocking-down-iron"
     },
     {
-      "hash": "sha256:9e8cbb4b7f598620ac48edc4469199d2d7df0a69b63da0e57b06746d1946d8ca",
+      "hash": "sha256:3eb3e742a157e3b467bbaf304578ac4efda9ada119eeff29de62c42ebaaae60a",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "lacing-in"
     },
     {
-      "hash": "sha256:1da5c8f7a9c3471c215e54f93900f58287c0f7f2bfe6b3c719b6c6943997498e",
+      "hash": "sha256:9a9fd2617a1dcfad4cab6c44f8b5524c583ab4b6e089e957c5412d827f2b2497",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "lining-boards"
     },
     {
-      "hash": "sha256:24967ef396c3a40bfed520ef2fbf72b5fd5339e535e520c4a8a99de24c6f0b2d",
+      "hash": "sha256:9f3c80344b0edec8d911ad8d995be400e8e851e25f01e9ccabb37ddd257c74ed",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "lining-paper"
     },
     {
-      "hash": "sha256:263b5f6fa642e9f45f328e7ec38b8e4e668afbf812e36517e43c03dd7df42884",
+      "hash": "sha256:53cffcff14eeb178ca45356ebfdb40eb61a5543fe1ae6dcda47b16fbcc651e4c",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "lying-press"
     },
     {
-      "hash": "sha256:3f4a8036d4684d96ec4b2f0e4f3a69029a7d7437725ab229f832cfd47aafa785",
+      "hash": "sha256:9991d1f84d6d0a433758778fe6a20b2c6b4914661be2b4b6b931149e48af1c42",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "millboard"
     },
     {
-      "hash": "sha256:f4bfa75438f8e9ff09c330ff02b2044a713f4026b24e32b83c670425e7562985",
+      "hash": "sha256:01d6f9f8ff6ecf513aff9308ef92b99c37874a4b112755b39132b91187b30497",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "millboard-shears"
     },
     {
-      "hash": "sha256:3aa5fe58004f1bcc81f08154128863a3a38d720d332461f11771cc103f7cbcd8",
+      "hash": "sha256:18f0349efa7e4ec5ab301e00f00bc342bac94301196f182fd43336a82a1e89f6",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "paste"
     },
     {
-      "hash": "sha256:9a3b335366c5c1b25d275785d14ef6fee07e3ee6c979ac3cef182ec7a5830687",
+      "hash": "sha256:bba1bb13f44b6e6b1e2a00841445c0182623c01556160588f1ad804e9bf59134",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "plough"
     },
     {
-      "hash": "sha256:4e18d4362e4df876c9c13ae9e8cae7dd069f82552f351134568677b968c4c86f",
+      "hash": "sha256:7c0126eee38ef42343c3f7c9399b7c71301190891f0ee4a85d293f6326e0dba8",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "plough-knife"
     },
     {
-      "hash": "sha256:f8ca632a7dd2d37f86e6d4d26d21598749ecb6e9dca7a974bc95f2482caa6d9c",
+      "hash": "sha256:6d04e769c27356a22960a8306592db8319e5b9992a48b2c3583615c166e1424a",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
       "slug": "pressing"
     },
     {
-      "hash": "sha256:3879ab32c1c44a9613e6d6264a94f85d0f8871a01663f4df0e25476ba34b9b23",
+      "hash": "sha256:bd72d8c922b0ff20236747a2f012e838413984cbce33a8f04d29af30edb0db8a",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",
       "slug": "sewing-cord"
     },
     {
-      "hash": "sha256:fb79d317912094389bb68b6f124d9f55d2ceac5a423b776a116c2541def14b1b",
+      "hash": "sha256:885160cd49358612bb2b7245b23d63ac337e7cb87e71d69897111a52ddaac799",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "standing-press"
     },
     {
-      "hash": "sha256:3b6711dab63602217a586a324cbc0c595591aeff342de373127238b549f267a6",
+      "hash": "sha256:cabe95ebe3122fb322c98ef5e33705974ff71be44a7ea5776e81dec79c5191dc",
       "kind": "material",
       "record_class": "primitive",
       "role": "required",

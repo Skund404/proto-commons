@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:ba4bb2bc88b07debf53a4ecfe55dcd27465888968cc4f343b3a55d82fc28bcba",
+  "content_hash": "sha256:deee88b0c18713f3245ec0b116d13aa2f01d84095dc9dd456db1a03fca895179",
   "created": "2026-06-24",
   "description": "A narrow strip of vellum used as a flexible sewing support, valued for strength in fine binding, where the slips are afterwards laced into the boards.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VII, p.98. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter VII, p.98. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/98"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

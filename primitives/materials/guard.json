@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:177575e6215355137512e359e131b2ca8f1a5b3b629ee233884f40694041f16f",
+  "content_hash": "sha256:f27290b645883ffd6df911992aaf4784ceff6db96c2c3a1dfbf8b668d3f7920a",
   "created": "2026-06-24",
   "description": "A narrow strip of paper or thin cloth pasted along the back fold to reinforce single leaves, plates, or weak two-leaf sections so they survive sewing.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter II, p.41. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter II, p.41. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/41"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

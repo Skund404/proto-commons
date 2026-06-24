@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:17c7adea82f38de047973a036be7f24741f87928693a7e166e6c5a3ca71df25c",
+  "content_hash": "sha256:3883cbf63f3ea7816b7ea780c9a55ed8ae4ab6a69f5b81a53f833a67f3bb9d6e",
   "created": "2026-06-24",
   "description": "A fine-toothed backsaw used to cut shallow kerfs across the back of a text block so recessed supports can be sunk into it; a quicker method that Cockerell records as weakening the binding.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter VII, p.98. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter VII, p.98. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/98"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

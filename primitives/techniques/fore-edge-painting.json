@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:cf35b316ad0b5a5a196dd15d4c70e2909214ec7fa7f975b182dd130a5222b44a",
+  "content_hash": "sha256:c342e61357f1146776cf5b2b2fc0df1acc0dad36e63708f2d4e88096dea958b9",
   "created": "2026-06-24",
   "description": "Painting a hidden picture on the fore-edge of a fanned-out text block in water-colour, then gilding over it so the image appears only when the leaves are splayed. The paper must be cut very solid and sized if absorbent, and kept free of grease so the gold adheres.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "advanced",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter X, p.141. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter X, p.141. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/141"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

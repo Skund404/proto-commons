@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:83a28c623638e15768bfed6c4bcb893833df31aeb69f05c04805e6a128e7fc34",
+  "content_hash": "sha256:8d9d67af1c9cae2ba4c33a1336a810a7a25a66250e95a23b72bde10b6f3b434e",
   "created": "2026-06-24",
   "description": "Checking that every leaf and plate is present and in correct order by fanning the pages and reading the pagination and signatures, pencilling page numbers into unpaged copies before they are taken apart.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "intermediate",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter II, p.33. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter II, p.33. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/33"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

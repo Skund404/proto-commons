@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f77ffe51332d6d9545ecf710b36f2483efc17829987b45289919a9870bf87fca",
+  "content_hash": "sha256:dc479dfebfbbf2cacc95eafa71b663a43a2c2a3f6b695ecde19aadb0baac8020",
   "created": "2026-06-24",
   "description": "Full procedure for fixing both end leaves onto the boards of a finished volume so the inside covers are clean, flat, and drawn slightly inward as they dry.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XVII, p.254. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XVII, p.254. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/254"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f405275a25fdda933df2c8b3bf4eb509873b6780c36d5d9883c949a0530fe008",
+  "content_hash": "sha256:8755e4a23c1187e4d8cc4bde0352d1b6c1abdcee605d105963c84c2dec45baff",
   "created": "2026-06-24",
   "description": "A strip of smooth hardwood, often boxwood, drawn along the cover between the bands to press the leather down firmly in the panels and to rub out cord marks left by tying up.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XII, p.152. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XII, p.152. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/152"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

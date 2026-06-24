@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f4b7b52319ae019936453be4fca2753ce07995e1b496f715a7a6473d94d6f19c",
+  "content_hash": "sha256:7491629757c28ad703d8de913e6ee92e3a5bde36f9ec452f3145af49f2cf0d9f",
   "created": "2026-06-24",
   "description": "Patching torn vellum much like paper, but with a wider overlap and the contact faces roughened so paste will grip the smooth skin. Because paste alone cannot be trusted to hold vellum, a silk stitch is set at each end of a patch, and a clean cut is closed with a lacing stitch of fine silk.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     "skillLevel": "advanced",
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter IV, p.67. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter IV, p.67. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/67"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

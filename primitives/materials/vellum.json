@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:7f94a9d58003fe9bbecbc778f16e315193320da90b6232563400dd2ee3ec30af",
+  "content_hash": "sha256:1b1539c86d6b97f9822cf80505b55ed6a10b0cbdedc9e63fa971e214fb465df0",
   "created": "2026-06-24",
   "description": "A prepared animal skin used for leaves and bindings of older books. It cockles when exposed to damp and must be dried slowly under restraint to lie flat again.",
   "emitter": "opg://commons-seed",
@@ -23,11 +23,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter III, p.53. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter III, p.53. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/53"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],

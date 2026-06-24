@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:1058a7ac74cc88c947270d3cf65e65dcd70962c28e6ce4f380869115d3d47386",
+  "content_hash": "sha256:0a7d2ebc47d91afd6330e19c1ebdcb7fdda5b0d681c53341ffb8605ed71f97bf",
   "created": "2026-06-24",
   "description": "A decorated textile, often worked with raised metal stitches, applied as a book cover. Thicker velvets and woven cloths are glued down directly, while delicate fabrics are attached only at the turn-ins to keep adhesive from showing through.",
   "emitter": "opg://commons-seed",
@@ -24,11 +24,11 @@
     },
     "source_ref": [
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1901), Chapter XIII, p.173. Internet Archive.",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (1902), Chapter XIII, p.173. Internet Archive.",
         "url": "https://archive.org/details/bookbindingcareo00cockrich/page/173"
       },
       {
-        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, 1901), Internet Archive",
+        "label": "Douglas Cockerell, Bookbinding and the Care of Books (D. Appleton, New York, 1902; first published 1901), Internet Archive",
         "url": "https://archive.org/details/bookbindingcareo00cockrich"
       }
     ],
