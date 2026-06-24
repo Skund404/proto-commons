@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:c7e56058ba8fef54bc399b0458ff59678749f1142ead85d538aad47a0336e40a",
+  "content_hash": "sha256:73d205dbea8517e63fc7315eeb2b9c2546c855d9baff3f1cc11b44ee9f727c61",
   "created": "2026-06-24",
   "description": "A heated burnishing iron run warm over a cover to smooth irregularities, with forms shaped for backs, inside margins, or sides. It is kept moving so the leather is not scorched and its edges are filed smooth before use.",
   "emitter": "opg://commons-seed",
@@ -15,7 +15,15 @@
   "persistent": true,
   "properties": {
     "category": "finishing",
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$198/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$198/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "polisher-fig82"
+      }
+    ],
     "names": {
       "en": [
         "polisher"

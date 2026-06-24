@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:33859e88d2137599aa3c66be8fa79651a78376f70478893116e2a5de17cabab1",
+  "content_hash": "sha256:e33b31ad97b20f8972a6f0de1fad8e00f2e5388cdf3f07ea451f321adac3159e",
   "created": "2026-06-24",
   "description": "Impressing a pattern into a cover with heated tools alone, leaving no gold so the design reads as a recessed mark in the leather.",
   "emitter": "opg://commons-seed",
@@ -14,7 +14,15 @@
   "opgl_version": "0.6",
   "persistent": false,
   "properties": {
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$228/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$228/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "blind-tooling-fig96"
+      }
+    ],
     "names": {
       "en": [
         "blind tooling",

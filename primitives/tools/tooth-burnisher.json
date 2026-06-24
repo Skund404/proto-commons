@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:2b2984c0f7b3635884a21b4fa65803e3058cbbf3f1fe523a814821a5e7bed4cb",
+  "content_hash": "sha256:e3e904a3deaf2e708d32c1ec9ad7c07d0e44a91ca466fca35ca00ef83cec76bb",
   "created": "2026-06-24",
   "description": "A hand burnisher with a hard smooth working surface, drawn over a waxed coloured edge to compress and polish it to a sheen. The same family of tool serves to lay and brighten gilt or coloured book edges.",
   "emitter": "opg://commons-seed",
@@ -15,7 +15,15 @@
   "persistent": true,
   "properties": {
     "category": "finishing",
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$152/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$152/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "tooth-burnisher-fig57"
+      }
+    ],
     "names": {
       "en": [
         "tooth burnisher"

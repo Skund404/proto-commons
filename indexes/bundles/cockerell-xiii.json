@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:a9990721664ed268375a80d80a03edd5cfc3b2a085d182610bb5015d10df4f76",
+  "content_hash": "sha256:663765c93319a99430e0b41e06284b9a407da0df355dbb7b09f3a6f63750dc93",
   "description": {
     "en": "Chapter XIII (Library Binding Binding very Thin Books Scrap Books Binding in Vellum Books covered with Embroidery) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
   },
@@ -30,7 +30,7 @@
       "slug": "embroidery-covering"
     },
     {
-      "hash": "sha256:155ed3053b3e6b4ea1b9ec363bebdefa47194e97162174311b5b2039358a5950",
+      "hash": "sha256:1901efa1eb6005a9eb915b6af2a14015a1dc442cd75e5b011dc2ac7491dc20ba",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",

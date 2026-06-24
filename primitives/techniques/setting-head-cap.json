@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:4459e7925d2910c42d8894b780238ad92f2ea218f08dd49e90a294bd2b744d2b",
+  "content_hash": "sha256:1c5d207d52c075fce7f614ad866c69aac3078bbf3023563a35758868bbd3c328",
   "created": "2026-06-24",
   "description": "Shaping the small projection of leather at the head and tail of the spine into a neat cap over the headband. The leather is squeezed, pulled out a little, then tapped and rubbed into form; though it carries no structural load it is one of the marks of fine forwarding.",
   "emitter": "opg://commons-seed",
@@ -14,7 +14,15 @@
   "opgl_version": "0.6",
   "persistent": false,
   "properties": {
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$172/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$172/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "setting-head-cap-fig67"
+      }
+    ],
     "names": {
       "en": [
         "setting the head-cap"

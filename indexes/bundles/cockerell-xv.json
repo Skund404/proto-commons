@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:3d6c5b33a1dbd8f6f36745beda81c157d3926efed203e49be994e066f9d7eb17",
+  "content_hash": "sha256:46ff43d55f219aa9130e1760dce66126ff333e365b9375cb325d7ee85ebe44ae",
   "description": {
     "en": "Chapter XV (Lettering Blind Tooling Heraldic Ornament) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
   },
@@ -37,7 +37,7 @@
       "slug": "binders-type"
     },
     {
-      "hash": "sha256:33859e88d2137599aa3c66be8fa79651a78376f70478893116e2a5de17cabab1",
+      "hash": "sha256:e33b31ad97b20f8972a6f0de1fad8e00f2e5388cdf3f07ea451f321adac3159e",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
@@ -51,7 +51,7 @@
       "slug": "dividers"
     },
     {
-      "hash": "sha256:7af84593c66dd62a5e837987f8c88f2407b04919e8bcce8bc97f416a6e23090a",
+      "hash": "sha256:c2f44d1fb5e1566dfb7d04fde804a94926c02a4090d1cdfaf9275f4b28088c15",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
@@ -93,7 +93,7 @@
       "slug": "leather-work"
     },
     {
-      "hash": "sha256:3d33a4d527b07ecf2a8905e710e81f8a2f58999b6548b214c044b04be6ee6ae7",
+      "hash": "sha256:2b3cdc102fe07ec2a560dd39fdf08f0356ecbbd80129df2fcb208190cf3cc2df",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",

@@ -112,7 +112,7 @@
             "folder"
           ],
           "primitive": {
-            "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+            "hash": "sha256:7d85142fecd86c3ddd0ac8f39de29d1d3525e58458c6c1205be4b4cc0716ec08",
             "kind": "tool",
             "path": "primitives/tools/folder.json",
             "slug": "folder"
@@ -259,7 +259,7 @@
             "fine folder"
           ],
           "primitive": {
-            "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+            "hash": "sha256:7d85142fecd86c3ddd0ac8f39de29d1d3525e58458c6c1205be4b4cc0716ec08",
             "kind": "tool",
             "path": "primitives/tools/folder.json",
             "slug": "folder"
@@ -743,7 +743,7 @@
             "folder"
           ],
           "primitive": {
-            "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+            "hash": "sha256:7d85142fecd86c3ddd0ac8f39de29d1d3525e58458c6c1205be4b4cc0716ec08",
             "kind": "tool",
             "path": "primitives/tools/folder.json",
             "slug": "folder"
@@ -1006,7 +1006,7 @@
             "folder"
           ],
           "primitive": {
-            "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+            "hash": "sha256:7d85142fecd86c3ddd0ac8f39de29d1d3525e58458c6c1205be4b4cc0716ec08",
             "kind": "tool",
             "path": "primitives/tools/folder.json",
             "slug": "folder"
@@ -1189,7 +1189,7 @@
             "French standing-press"
           ],
           "primitive": {
-            "hash": "sha256:ad8d3a9c1a538aa89270b270a797de51ec8d92734694fb3b42c5b4af6c2e6591",
+            "hash": "sha256:ae47da940085fc119bc1458f887f323b8dbcb82b6db94ece9fa062801af5572e",
             "kind": "tool",
             "path": "primitives/tools/standing-press.json",
             "slug": "standing-press"
@@ -1299,7 +1299,7 @@
             "folder"
           ],
           "primitive": {
-            "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+            "hash": "sha256:7d85142fecd86c3ddd0ac8f39de29d1d3525e58458c6c1205be4b4cc0716ec08",
             "kind": "tool",
             "path": "primitives/tools/folder.json",
             "slug": "folder"
@@ -2183,7 +2183,7 @@
             "laced-in slips"
           ],
           "primitive": {
-            "hash": "sha256:6327f03825bd375d2ae2cd1bd07e838f3d3ca1fb431352417330c2a57eea7e2d",
+            "hash": "sha256:2551682b5a5770d83356d9a93679a682f1d49ffa90257f925cdeaf23f669e185",
             "kind": "technique",
             "path": "primitives/techniques/lacing-in.json",
             "slug": "lacing-in"
@@ -2299,7 +2299,7 @@
             "standing  press"
           ],
           "primitive": {
-            "hash": "sha256:ad8d3a9c1a538aa89270b270a797de51ec8d92734694fb3b42c5b4af6c2e6591",
+            "hash": "sha256:ae47da940085fc119bc1458f887f323b8dbcb82b6db94ece9fa062801af5572e",
             "kind": "tool",
             "path": "primitives/tools/standing-press.json",
             "slug": "standing-press"
@@ -2366,7 +2366,7 @@
             "trindle"
           ],
           "primitive": {
-            "hash": "sha256:e0a3a216846b4e98473accd67506d0d29bd2ec9921b1d17939cc7f0a188ec0a8",
+            "hash": "sha256:ab4aea4ab27e94d2c753a38328749a6a33384f7ea9e828094bb971337ef5483f",
             "kind": "tool",
             "path": "primitives/tools/trindle.json",
             "slug": "trindle"
@@ -2509,7 +2509,7 @@
             "burnisher"
           ],
           "primitive": {
-            "hash": "sha256:2b2984c0f7b3635884a21b4fa65803e3058cbbf3f1fe523a814821a5e7bed4cb",
+            "hash": "sha256:e3e904a3deaf2e708d32c1ec9ad7c07d0e44a91ca466fca35ca00ef83cec76bb",
             "kind": "tool",
             "path": "primitives/tools/tooth-burnisher.json",
             "slug": "tooth-burnisher"
@@ -2523,7 +2523,7 @@
             "trindles"
           ],
           "primitive": {
-            "hash": "sha256:e0a3a216846b4e98473accd67506d0d29bd2ec9921b1d17939cc7f0a188ec0a8",
+            "hash": "sha256:ab4aea4ab27e94d2c753a38328749a6a33384f7ea9e828094bb971337ef5483f",
             "kind": "tool",
             "path": "primitives/tools/trindle.json",
             "slug": "trindle"
@@ -2768,7 +2768,7 @@
             "knife"
           ],
           "primitive": {
-            "hash": "sha256:12e7abb1a23eca13fd5236132fac99fd0ddcf5e351ba678c6a90659db7eec920",
+            "hash": "sha256:b467ce991aaf0e5a1d8fd1b84e113df76359671155ca82dca5bdf5a73fc26a9c",
             "kind": "tool",
             "path": "primitives/tools/leather-paring-knife.json",
             "slug": "leather-paring-knife"
@@ -2832,7 +2832,7 @@
             "folder"
           ],
           "primitive": {
-            "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+            "hash": "sha256:7d85142fecd86c3ddd0ac8f39de29d1d3525e58458c6c1205be4b4cc0716ec08",
             "kind": "tool",
             "path": "primitives/tools/folder.json",
             "slug": "folder"
@@ -2906,7 +2906,7 @@
             "head-caps"
           ],
           "primitive": {
-            "hash": "sha256:4459e7925d2910c42d8894b780238ad92f2ea218f08dd49e90a294bd2b744d2b",
+            "hash": "sha256:1c5d207d52c075fce7f614ad866c69aac3078bbf3023563a35758868bbd3c328",
             "kind": "technique",
             "path": "primitives/techniques/setting-head-cap.json",
             "slug": "setting-head-cap"
@@ -3054,7 +3054,7 @@
             "French joint"
           ],
           "primitive": {
-            "hash": "sha256:155ed3053b3e6b4ea1b9ec363bebdefa47194e97162174311b5b2039358a5950",
+            "hash": "sha256:1901efa1eb6005a9eb915b6af2a14015a1dc442cd75e5b011dc2ac7491dc20ba",
             "kind": "technique",
             "path": "primitives/techniques/french-joint.json",
             "slug": "french-joint"
@@ -3294,7 +3294,7 @@
             "die-sunk"
           ],
           "primitive": {
-            "hash": "sha256:33859e88d2137599aa3c66be8fa79651a78376f70478893116e2a5de17cabab1",
+            "hash": "sha256:e33b31ad97b20f8972a6f0de1fad8e00f2e5388cdf3f07ea451f321adac3159e",
             "kind": "technique",
             "path": "primitives/techniques/blind-tooling.json",
             "slug": "blind-tooling"
@@ -3352,7 +3352,7 @@
             "fillets"
           ],
           "primitive": {
-            "hash": "sha256:7af84593c66dd62a5e837987f8c88f2407b04919e8bcce8bc97f416a6e23090a",
+            "hash": "sha256:c2f44d1fb5e1566dfb7d04fde804a94926c02a4090d1cdfaf9275f4b28088c15",
             "kind": "tool",
             "path": "primitives/tools/fillet.json",
             "slug": "fillet"
@@ -3403,7 +3403,7 @@
             "polishers"
           ],
           "primitive": {
-            "hash": "sha256:c7e56058ba8fef54bc399b0458ff59678749f1142ead85d538aad47a0336e40a",
+            "hash": "sha256:73d205dbea8517e63fc7315eeb2b9c2546c855d9baff3f1cc11b44ee9f727c61",
             "kind": "tool",
             "path": "primitives/tools/polisher.json",
             "slug": "polisher"
@@ -3732,7 +3732,7 @@
             "lettering on the back"
           ],
           "primitive": {
-            "hash": "sha256:3d33a4d527b07ecf2a8905e710e81f8a2f58999b6548b214c044b04be6ee6ae7",
+            "hash": "sha256:2b3cdc102fe07ec2a560dd39fdf08f0356ecbbd80129df2fcb208190cf3cc2df",
             "kind": "technique",
             "path": "primitives/techniques/lettering.json",
             "slug": "lettering"
@@ -3840,7 +3840,7 @@
             "blind-tool work"
           ],
           "primitive": {
-            "hash": "sha256:33859e88d2137599aa3c66be8fa79651a78376f70478893116e2a5de17cabab1",
+            "hash": "sha256:e33b31ad97b20f8972a6f0de1fad8e00f2e5388cdf3f07ea451f321adac3159e",
             "kind": "technique",
             "path": "primitives/techniques/blind-tooling.json",
             "slug": "blind-tooling"
@@ -3885,7 +3885,7 @@
             "small fillet"
           ],
           "primitive": {
-            "hash": "sha256:7af84593c66dd62a5e837987f8c88f2407b04919e8bcce8bc97f416a6e23090a",
+            "hash": "sha256:c2f44d1fb5e1566dfb7d04fde804a94926c02a4090d1cdfaf9275f4b28088c15",
             "kind": "tool",
             "path": "primitives/tools/fillet.json",
             "slug": "fillet"
@@ -4017,7 +4017,7 @@
             "fillet"
           ],
           "primitive": {
-            "hash": "sha256:7af84593c66dd62a5e837987f8c88f2407b04919e8bcce8bc97f416a6e23090a",
+            "hash": "sha256:c2f44d1fb5e1566dfb7d04fde804a94926c02a4090d1cdfaf9275f4b28088c15",
             "kind": "tool",
             "path": "primitives/tools/fillet.json",
             "slug": "fillet"
@@ -4086,7 +4086,7 @@
             "folder"
           ],
           "primitive": {
-            "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+            "hash": "sha256:7d85142fecd86c3ddd0ac8f39de29d1d3525e58458c6c1205be4b4cc0716ec08",
             "kind": "tool",
             "path": "primitives/tools/folder.json",
             "slug": "folder"
@@ -4116,7 +4116,7 @@
             "fillet"
           ],
           "primitive": {
-            "hash": "sha256:7af84593c66dd62a5e837987f8c88f2407b04919e8bcce8bc97f416a6e23090a",
+            "hash": "sha256:c2f44d1fb5e1566dfb7d04fde804a94926c02a4090d1cdfaf9275f4b28088c15",
             "kind": "tool",
             "path": "primitives/tools/fillet.json",
             "slug": "fillet"
@@ -5156,7 +5156,7 @@
             "folder"
           ],
           "primitive": {
-            "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+            "hash": "sha256:7d85142fecd86c3ddd0ac8f39de29d1d3525e58458c6c1205be4b4cc0716ec08",
             "kind": "tool",
             "path": "primitives/tools/folder.json",
             "slug": "folder"

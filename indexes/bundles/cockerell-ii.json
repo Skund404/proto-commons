@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:f7b4e4309bc5d5fffc5764392f231e5ce673bab2af97e1444f3ea57104fd54e4",
+  "content_hash": "sha256:8d45cd1326c6f35699e2db234dfad41b38dd13843e0dcc31b21301dfd21b13a3",
   "description": {
     "en": "Chapter II (Entering Books in Sheets Folding Collating Pulling to Pieces Refolding Knocking out Joints) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
   },
@@ -44,7 +44,7 @@
       "slug": "dividers"
     },
     {
-      "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+      "hash": "sha256:7d85142fecd86c3ddd0ac8f39de29d1d3525e58458c6c1205be4b4cc0716ec08",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",

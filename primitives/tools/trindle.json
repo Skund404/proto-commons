@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:e0a3a216846b4e98473accd67506d0d29bd2ec9921b1d17939cc7f0a188ec0a8",
+  "content_hash": "sha256:ab4aea4ab27e94d2c753a38328749a6a33384f7ea9e828094bb971337ef5483f",
   "created": "2026-06-24",
   "description": "A pair of small flat steel pieces slipped across the spine from inside the boards. They let the binder pull the rounded back temporarily straight so the fore-edge can be trimmed or gilt flat, then are withdrawn before the leaves are lowered into the press.",
   "emitter": "opg://commons-seed",
@@ -15,7 +15,15 @@
   "persistent": true,
   "properties": {
     "category": "cutting",
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$148/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$148/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "trindle-fig55"
+      }
+    ],
     "names": {
       "en": [
         "trindle",

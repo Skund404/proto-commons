@@ -130,7 +130,7 @@
         "recommended": 6
       },
       "updated": null,
-      "hash": "sha256:f7b4e4309bc5d5fffc5764392f231e5ce673bab2af97e1444f3ea57104fd54e4"
+      "hash": "sha256:8d45cd1326c6f35699e2db234dfad41b38dd13843e0dcc31b21301dfd21b13a3"
     },
     {
       "slug": "cockerell-iii",
@@ -145,7 +145,7 @@
         "recommended": 5
       },
       "updated": null,
-      "hash": "sha256:b14f48cbe71eff605e08984e1c02c712fe4adf528c7c50247e0a95750c23c88e"
+      "hash": "sha256:6c22338182c36abbf5161665a69b03a17402cf8156f14507866d094bd95ed159"
     },
     {
       "slug": "cockerell-iv",
@@ -160,7 +160,7 @@
         "recommended": 4
       },
       "updated": null,
-      "hash": "sha256:54befefe426f1fe0bb82add7a84cdfd0b6006db74d90229af66bca2a8549ee2c"
+      "hash": "sha256:cb9688390a646aa1667ac89d0ebc2fd4bec667aba1b8f47cac936648dd9201f0"
     },
     {
       "slug": "cockerell-ix",
@@ -175,7 +175,7 @@
         "recommended": 10
       },
       "updated": null,
-      "hash": "sha256:03215e09d78515bea0ccda5d838676dd65cf0e906f24310ef1cb6f6cb2b8239f"
+      "hash": "sha256:c557488391249417ad72de42d9fc59665b52718e546788a2e1a9c2e6594e8bd0"
     },
     {
       "slug": "cockerell-v",
@@ -190,7 +190,7 @@
         "recommended": 3
       },
       "updated": null,
-      "hash": "sha256:24ec4e36d8288d3290b1211572cb8e97d63ae367988fd40882c84f61a78942bd"
+      "hash": "sha256:5741446f140e58140430883693ecee8e91268c602b22c16d74c8aea9a1686487"
     },
     {
       "slug": "cockerell-vi",
@@ -205,7 +205,7 @@
         "recommended": 7
       },
       "updated": null,
-      "hash": "sha256:a0620d1518f85362e5f4ce371903c5e794ebcce9b2059a34b29f704eaab3f93e"
+      "hash": "sha256:f4a763f79c7a1fa4d4c2c89a3d411aa26e7048f7a5d925b3d94bae4eea410f32"
     },
     {
       "slug": "cockerell-vii-sewing",
@@ -250,7 +250,7 @@
         "recommended": 4
       },
       "updated": null,
-      "hash": "sha256:93ffb209056ec38ec6609e4b77281033538f9a990c11ba32efc0d40b0e22b685"
+      "hash": "sha256:b6f3db642945f62f90c4490783c3bf102b7f528a1a8497e0eaa38d996292b26b"
     },
     {
       "slug": "cockerell-xi",
@@ -280,7 +280,7 @@
         "recommended": 6
       },
       "updated": null,
-      "hash": "sha256:bd8e8af121f16efbd5e4626ec6a6a0bf9f53980fe8442355ce85ac855b7abcdd"
+      "hash": "sha256:9cfddd15e0fa8637c17f4b6ece7bb0629f3827a910860923f60ec9deeb1dd59b"
     },
     {
       "slug": "cockerell-xiii",
@@ -294,7 +294,7 @@
         "required": 17
       },
       "updated": null,
-      "hash": "sha256:a9990721664ed268375a80d80a03edd5cfc3b2a085d182610bb5015d10df4f76"
+      "hash": "sha256:663765c93319a99430e0b41e06284b9a407da0df355dbb7b09f3a6f63750dc93"
     },
     {
       "slug": "cockerell-xiv",
@@ -309,7 +309,7 @@
         "recommended": 12
       },
       "updated": null,
-      "hash": "sha256:22daed0faef810dc8394dfe7515085ba43472d84e0925db318222ca2de431672"
+      "hash": "sha256:936c3e9ea0ae3d1889c7933b1fdb9f2d85b70f67d9e6e7c1898c689d51b1dba7"
     },
     {
       "slug": "cockerell-xix",
@@ -338,7 +338,7 @@
         "recommended": 7
       },
       "updated": null,
-      "hash": "sha256:3d6c5b33a1dbd8f6f36745beda81c157d3926efed203e49be994e066f9d7eb17"
+      "hash": "sha256:46ff43d55f219aa9130e1760dce66126ff333e365b9375cb325d7ee85ebe44ae"
     },
     {
       "slug": "cockerell-xvi",
@@ -353,7 +353,7 @@
         "recommended": 3
       },
       "updated": null,
-      "hash": "sha256:a7c49b925b45b65dba242bf7435858a5cf079cf8ee6dd01f95a62e8ddc35af37"
+      "hash": "sha256:586fd3a298496310ef6262b70393da55b7248943b8628f3a0723e63f5ed57693"
     },
     {
       "slug": "cockerell-xvii",
@@ -427,7 +427,7 @@
         "recommended": 2
       },
       "updated": null,
-      "hash": "sha256:fb40ebc796a8f944a07c432394649cefbee66eb33969b5e62ac768c852117f80"
+      "hash": "sha256:62fabd2c9954c5a555d2318fb4bca4fda0243ac7645329ad7f076acff5664372"
     },
     {
       "slug": "cockerell",
@@ -441,7 +441,7 @@
         "required": 22
       },
       "updated": null,
-      "hash": "sha256:86453ffebc0c0e69721038adf9a196c7f97187e18491da1b1a5e5d50b57a4bd4"
+      "hash": "sha256:c5dd6f11ce4e5c18e9e263d1c5534bdf0121836588ade6c89fd4f5ae00bc43fb"
     },
     {
       "slug": "coffee-starter",

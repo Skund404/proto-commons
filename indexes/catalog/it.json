@@ -848,7 +848,7 @@
       "descSnippet": "Impressing a pattern into a cover with heated tools alone, leaving no gold so the design reads as a recessed mark in the leather.",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:33859e88d2137599aa3c66be8fa79651a78376f70478893116e2a5de17cabab1",
+      "hash": "sha256:e33b31ad97b20f8972a6f0de1fad8e00f2e5388cdf3f07ea451f321adac3159e",
       "path": "primitives/techniques/blind-tooling.json",
       "lineageState": "unasserted"
     },
@@ -3700,7 +3700,7 @@
       "descSnippet": "A wheel cut with one or more lines on its edge, mounted in a handle and run along the cover to impress straight lines. A notch filed in the rim lets lines meet cleanly at corners.",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:7af84593c66dd62a5e837987f8c88f2407b04919e8bcce8bc97f416a6e23090a",
+      "hash": "sha256:c2f44d1fb5e1566dfb7d04fde804a94926c02a4090d1cdfaf9275f4b28088c15",
       "path": "primitives/tools/fillet.json",
       "lineageState": "unasserted"
     },
@@ -4025,7 +4025,7 @@
       "descSnippet": "A smooth flat hand implement, traditionally of bone, used to crease folds sharply, smooth paper, and tease sections apart without tearing the paper.",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+      "hash": "sha256:7d85142fecd86c3ddd0ac8f39de29d1d3525e58458c6c1205be4b4cc0716ec08",
       "path": "primitives/tools/folder.json",
       "lineageState": "unasserted"
     },
@@ -4115,7 +4115,7 @@
       "descSnippet": "A binding detail in which the board is set a small distance back from the spine, leaving an open groove at the hinge. The gap lets the cover flex freely and permits the use of heavier leather than a…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:155ed3053b3e6b4ea1b9ec363bebdefa47194e97162174311b5b2039358a5950",
+      "hash": "sha256:1901efa1eb6005a9eb915b6af2a14015a1dc442cd75e5b011dc2ac7491dc20ba",
       "path": "primitives/techniques/french-joint.json",
       "lineageState": "unasserted"
     },
@@ -5869,7 +5869,7 @@
       "descSnippet": "Attaching the boards by threading the frayed and pasted cord ends through punched holes in the board, front to back, drawing them to the right tension, cutting them flush, and hammering them flat on…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:6327f03825bd375d2ae2cd1bd07e838f3d3ca1fb431352417330c2a57eea7e2d",
+      "hash": "sha256:2551682b5a5770d83356d9a93679a682f1d49ffa90257f925cdeaf23f669e185",
       "path": "primitives/techniques/lacing-in.json",
       "lineageState": "unasserted"
     },
@@ -5994,7 +5994,7 @@
       "descSnippet": "A thin bladed knife with a broad flat edge, held nearly flush against a hard surface to shave leather down to the wanted thickness. It cuts by means of a fine burr raised on the underside, giving…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:12e7abb1a23eca13fd5236132fac99fd0ddcf5e351ba678c6a90659db7eec920",
+      "hash": "sha256:b467ce991aaf0e5a1d8fd1b84e113df76359671155ca82dca5bdf5a73fc26a9c",
       "path": "primitives/tools/leather-paring-knife.json",
       "lineageState": "unasserted"
     },
@@ -6141,7 +6141,7 @@
       "descSnippet": "Impressing a title in gold along the spine or side of a book, using either single handle letters for freedom of arrangement or set type for regularity. Cockerell stresses that the lettering must…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:3d33a4d527b07ecf2a8905e710e81f8a2f58999b6548b214c044b04be6ee6ae7",
+      "hash": "sha256:2b3cdc102fe07ec2a560dd39fdf08f0356ecbbd80129df2fcb208190cf3cc2df",
       "path": "primitives/techniques/lettering.json",
       "lineageState": "unasserted"
     },
@@ -8142,7 +8142,7 @@
       "descSnippet": "A heated burnishing iron run warm over a cover to smooth irregularities, with forms shaped for backs, inside margins, or sides. It is kept moving so the leather is not scorched and its edges are…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:c7e56058ba8fef54bc399b0458ff59678749f1142ead85d538aad47a0336e40a",
+      "hash": "sha256:73d205dbea8517e63fc7315eeb2b9c2546c855d9baff3f1cc11b44ee9f727c61",
       "path": "primitives/tools/polisher.json",
       "lineageState": "unasserted"
     },
@@ -9358,7 +9358,7 @@
       "descSnippet": "Shaping the small projection of leather at the head and tail of the spine into a neat cap over the headband. The leather is squeezed, pulled out a little, then tapped and rubbed into form; though it…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:4459e7925d2910c42d8894b780238ad92f2ea218f08dd49e90a294bd2b744d2b",
+      "hash": "sha256:1c5d207d52c075fce7f614ad866c69aac3078bbf3023563a35758868bbd3c328",
       "path": "primitives/techniques/setting-head-cap.json",
       "lineageState": "unasserted"
     },
@@ -10097,7 +10097,7 @@
       "descSnippet": "A heavy fixed press, screwed down by hand, in which piles of sections or finished books are left under sustained pressure to set them solid. The iron form is tightened with a short then a long bar;…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:ad8d3a9c1a538aa89270b270a797de51ec8d92734694fb3b42c5b4af6c2e6591",
+      "hash": "sha256:ae47da940085fc119bc1458f887f323b8dbcb82b6db94ece9fa062801af5572e",
       "path": "primitives/tools/standing-press.json",
       "lineageState": "unasserted"
     },
@@ -10934,7 +10934,7 @@
       "descSnippet": "A hand burnisher with a hard smooth working surface, drawn over a waxed coloured edge to compress and polish it to a sheen. The same family of tool serves to lay and brighten gilt or coloured book…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:2b2984c0f7b3635884a21b4fa65803e3058cbbf3f1fe523a814821a5e7bed4cb",
+      "hash": "sha256:e3e904a3deaf2e708d32c1ec9ad7c07d0e44a91ca466fca35ca00ef83cec76bb",
       "path": "primitives/tools/tooth-burnisher.json",
       "lineageState": "unasserted"
     },
@@ -10988,7 +10988,7 @@
       "descSnippet": "A pair of small flat steel pieces slipped across the spine from inside the boards. They let the binder pull the rounded back temporarily straight so the fore-edge can be trimmed or gilt flat, then…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:e0a3a216846b4e98473accd67506d0d29bd2ec9921b1d17939cc7f0a188ec0a8",
+      "hash": "sha256:ab4aea4ab27e94d2c753a38328749a6a33384f7ea9e828094bb971337ef5483f",
       "path": "primitives/tools/trindle.json",
       "lineageState": "unasserted"
     },

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:93ffb209056ec38ec6609e4b77281033538f9a990c11ba32efc0d40b0e22b685",
+  "content_hash": "sha256:b6f3db642945f62f90c4490783c3bf102b7f528a1a8497e0eaa38d996292b26b",
   "description": {
     "en": "Chapter X (Cutting in Boards Gilding and Colouring Edges) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
   },
@@ -72,14 +72,14 @@
       "slug": "plough"
     },
     {
-      "hash": "sha256:2b2984c0f7b3635884a21b4fa65803e3058cbbf3f1fe523a814821a5e7bed4cb",
+      "hash": "sha256:e3e904a3deaf2e708d32c1ec9ad7c07d0e44a91ca466fca35ca00ef83cec76bb",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "tooth-burnisher"
     },
     {
-      "hash": "sha256:e0a3a216846b4e98473accd67506d0d29bd2ec9921b1d17939cc7f0a188ec0a8",
+      "hash": "sha256:ab4aea4ab27e94d2c753a38328749a6a33384f7ea9e828094bb971337ef5483f",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",

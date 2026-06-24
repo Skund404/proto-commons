@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:22daed0faef810dc8394dfe7515085ba43472d84e0925db318222ca2de431672",
+  "content_hash": "sha256:936c3e9ea0ae3d1889c7933b1fdb9f2d85b70f67d9e6e7c1898c689d51b1dba7",
   "description": {
     "en": "Chapter XIV (Decoration Tools Finishing Tooling on Vellum Inlaying on Leather) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
   },
@@ -16,7 +16,7 @@
       "slug": "benzine"
     },
     {
-      "hash": "sha256:33859e88d2137599aa3c66be8fa79651a78376f70478893116e2a5de17cabab1",
+      "hash": "sha256:e33b31ad97b20f8972a6f0de1fad8e00f2e5388cdf3f07ea451f321adac3159e",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",
@@ -37,7 +37,7 @@
       "slug": "crushing-grain"
     },
     {
-      "hash": "sha256:7af84593c66dd62a5e837987f8c88f2407b04919e8bcce8bc97f416a6e23090a",
+      "hash": "sha256:c2f44d1fb5e1566dfb7d04fde804a94926c02a4090d1cdfaf9275f4b28088c15",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
@@ -163,7 +163,7 @@
       "slug": "paste-water"
     },
     {
-      "hash": "sha256:c7e56058ba8fef54bc399b0458ff59678749f1142ead85d538aad47a0336e40a",
+      "hash": "sha256:73d205dbea8517e63fc7315eeb2b9c2546c855d9baff3f1cc11b44ee9f727c61",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",

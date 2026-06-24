@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:3d33a4d527b07ecf2a8905e710e81f8a2f58999b6548b214c044b04be6ee6ae7",
+  "content_hash": "sha256:2b3cdc102fe07ec2a560dd39fdf08f0356ecbbd80129df2fcb208190cf3cc2df",
   "created": "2026-06-24",
   "description": "Impressing a title in gold along the spine or side of a book, using either single handle letters for freedom of arrangement or set type for regularity. Cockerell stresses that the lettering must remain clearly legible and should comfortably fill its panel.",
   "emitter": "opg://commons-seed",
@@ -14,7 +14,15 @@
   "opgl_version": "0.6",
   "persistent": false,
   "properties": {
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$222/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$222/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "lettering-fig90"
+      }
+    ],
     "names": {
       "en": [
         "lettering",

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:bd8e8af121f16efbd5e4626ec6a6a0bf9f53980fe8442355ce85ac855b7abcdd",
+  "content_hash": "sha256:9cfddd15e0fa8637c17f4b6ece7bb0629f3827a910860923f60ec9deeb1dd59b",
   "description": {
     "en": "Chapter XII (Preparing for Covering Paring Leather Cov ering Mitring Coiners Filling in Boards) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
   },
@@ -58,7 +58,7 @@
       "slug": "filling-in-paper"
     },
     {
-      "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+      "hash": "sha256:7d85142fecd86c3ddd0ac8f39de29d1d3525e58458c6c1205be4b4cc0716ec08",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
@@ -100,7 +100,7 @@
       "slug": "lining-paper-spine"
     },
     {
-      "hash": "sha256:12e7abb1a23eca13fd5236132fac99fd0ddcf5e351ba678c6a90659db7eec920",
+      "hash": "sha256:b467ce991aaf0e5a1d8fd1b84e113df76359671155ca82dca5bdf5a73fc26a9c",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
@@ -121,7 +121,7 @@
       "slug": "paring-stone"
     },
     {
-      "hash": "sha256:4459e7925d2910c42d8894b780238ad92f2ea218f08dd49e90a294bd2b744d2b",
+      "hash": "sha256:1c5d207d52c075fce7f614ad866c69aac3078bbf3023563a35758868bbd3c328",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",

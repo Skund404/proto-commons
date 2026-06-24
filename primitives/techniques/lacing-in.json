@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:6327f03825bd375d2ae2cd1bd07e838f3d3ca1fb431352417330c2a57eea7e2d",
+  "content_hash": "sha256:2551682b5a5770d83356d9a93679a682f1d49ffa90257f925cdeaf23f669e185",
   "created": "2026-06-24",
   "description": "Attaching the boards by threading the frayed and pasted cord ends through punched holes in the board, front to back, drawing them to the right tension, cutting them flush, and hammering them flat on a knocking-down iron so they rivet into the board.",
   "emitter": "opg://commons-seed",
@@ -14,7 +14,15 @@
   "opgl_version": "0.6",
   "persistent": false,
   "properties": {
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$138/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$138/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "lacing-in-fig49"
+      }
+    ],
     "names": {
       "en": [
         "lacing in"

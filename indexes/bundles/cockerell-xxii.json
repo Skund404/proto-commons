@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:fb40ebc796a8f944a07c432394649cefbee66eb33969b5e62ac768c852117f80",
+  "content_hash": "sha256:62fabd2c9954c5a555d2318fb4bca4fda0243ac7645329ad7f076acff5664372",
   "description": {
     "en": "Chapter XXII (To Preserve Old Bindings Re backing) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
   },
@@ -37,7 +37,7 @@
       "slug": "cover-leather"
     },
     {
-      "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+      "hash": "sha256:7d85142fecd86c3ddd0ac8f39de29d1d3525e58458c6c1205be4b4cc0716ec08",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",

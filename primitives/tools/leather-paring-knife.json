@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:12e7abb1a23eca13fd5236132fac99fd0ddcf5e351ba678c6a90659db7eec920",
+  "content_hash": "sha256:b467ce991aaf0e5a1d8fd1b84e113df76359671155ca82dca5bdf5a73fc26a9c",
   "created": "2026-06-24",
   "description": "A thin bladed knife with a broad flat edge, held nearly flush against a hard surface to shave leather down to the wanted thickness. It cuts by means of a fine burr raised on the underside, giving close control over how much skin is removed. Cockerell names the French paring knife as a distinct binder's tool for leather, indexed separately from the general sharp knife used to pare paper.",
   "emitter": "opg://commons-seed",
@@ -15,7 +15,15 @@
   "persistent": true,
   "properties": {
     "category": "cutting",
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$164/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$164/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "leather-paring-knife-fig60"
+      }
+    ],
     "names": {
       "en": [
         "French paring knife",

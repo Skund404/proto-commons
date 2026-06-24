@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:a7c49b925b45b65dba242bf7435858a5cf079cf8ee6dd01f95a62e8ddc35af37",
+  "content_hash": "sha256:586fd3a298496310ef6262b70393da55b7248943b8628f3a0723e63f5ed57693",
   "description": {
     "en": "Chapter XVI (Designing for Gold Tooled Decoration) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
   },
@@ -37,14 +37,14 @@
       "slug": "designing-finishing-tools"
     },
     {
-      "hash": "sha256:7af84593c66dd62a5e837987f8c88f2407b04919e8bcce8bc97f416a6e23090a",
+      "hash": "sha256:c2f44d1fb5e1566dfb7d04fde804a94926c02a4090d1cdfaf9275f4b28088c15",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
       "slug": "fillet"
     },
     {
-      "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+      "hash": "sha256:7d85142fecd86c3ddd0ac8f39de29d1d3525e58458c6c1205be4b4cc0716ec08",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:7af84593c66dd62a5e837987f8c88f2407b04919e8bcce8bc97f416a6e23090a",
+  "content_hash": "sha256:c2f44d1fb5e1566dfb7d04fde804a94926c02a4090d1cdfaf9275f4b28088c15",
   "created": "2026-06-24",
   "description": "A wheel cut with one or more lines on its edge, mounted in a handle and run along the cover to impress straight lines. A notch filed in the rim lets lines meet cleanly at corners.",
   "emitter": "opg://commons-seed",
@@ -15,7 +15,15 @@
   "persistent": true,
   "properties": {
     "category": "finishing",
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$212/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$212/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "fillet-fig88"
+      }
+    ],
     "names": {
       "en": [
         "fillet"

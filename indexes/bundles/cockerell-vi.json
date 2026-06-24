@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:a0620d1518f85362e5f4ce371903c5e794ebcce9b2059a34b29f704eaab3f93e",
+  "content_hash": "sha256:f4a763f79c7a1fa4d4c2c89a3d411aa26e7048f7a5d925b3d94bae4eea410f32",
   "description": {
     "en": "Chapter VI (Trimming Edges before Sewing Edge Gilding) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
   },
@@ -58,7 +58,7 @@
       "slug": "edge-trimming-jig"
     },
     {
-      "hash": "sha256:ff7e3e5e12a638c7eb04b8124026ded3e9748f88e1b237175c4abfbc619906e9",
+      "hash": "sha256:7d85142fecd86c3ddd0ac8f39de29d1d3525e58458c6c1205be4b4cc0716ec08",
       "kind": "tool",
       "record_class": "primitive",
       "role": "recommended",
