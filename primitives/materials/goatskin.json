@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:35036e3d027790b22188e463363de1d30f5b4eaab3f8556380fe91e50ebca8f9",
+  "content_hash": "sha256:2536dd1c72f1721b1196c8448848475f53acdb59fc7411661bca5164500354e5",
   "created": "2026-06-24",
   "description": "Goat hide, marketed as morocco, prized as a covering skin for fine work because of its firm grain and toughness. It appears under several regional trade names, and Cockerell singles out a West African goatskin as the most durable he had used while noting it often arrives flawed and unevenly prepared.",
   "emitter": "opg://commons-seed",
@@ -14,8 +14,16 @@
   "opgl_version": "0.6",
   "persistent": false,
   "properties": {
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$333/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
     "materialType": "leather",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$333/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "goatskin-plate4"
+      }
+    ],
     "names": {
       "en": [
         "goatskin",

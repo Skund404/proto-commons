@@ -2,11 +2,11 @@
   "book": {
     "author": "Douglas Cockerell",
     "metafile": {
-      "hash": "sha256:33863e7745cb87c6c034ceaccfb372f7fe0d78f03595825120716d886decf9f7",
+      "hash": "sha256:d33b3779ef79990008c22f7ba778e5b73c9f13426aa12caefc7b56cd09d01424",
       "path": "books/cockerell/metafile.json"
     }
   },
-  "content_hash": "sha256:f7c5ed0c22bff722cdab2d0b524a55aca9056628a9d530c6560a656dbeb31d4d",
+  "content_hash": "sha256:6edc8dfddf98a2606a2a53c8b2b14328ee9cd3b6ec5a3274c041258faf60f1a4",
   "description": {
     "en": "Douglas Cockerell, Bookbinding and the Care of Books (1901). Public domain. Full book, all chapters."
   },
@@ -117,13 +117,13 @@
       "slug": "cockerell-xvii"
     },
     {
-      "hash": "sha256:51851f2e1e46471175795070cfd9c4c42db04c0c8499fc58c660e4d2d2e51256",
+      "hash": "sha256:fd1a80d719510f099c270784bfadb49e2bc3f3e48bb5ee186d7c1906222e35dc",
       "record_class": "bundle",
       "role": "required",
       "slug": "cockerell-xviii"
     },
     {
-      "hash": "sha256:8c27cde3557b0f4f67a433ad56bddb7650e36d189175dea718202e8aa65dd1c1",
+      "hash": "sha256:0ae28a13a8aebbb3647ab37576688b65074cd3478cdd9fef2fa46aeec8a3636a",
       "record_class": "bundle",
       "role": "required",
       "slug": "cockerell-xix"

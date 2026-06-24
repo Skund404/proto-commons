@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:51851f2e1e46471175795070cfd9c4c42db04c0c8499fc58c660e4d2d2e51256",
+  "content_hash": "sha256:fd1a80d719510f099c270784bfadb49e2bc3f3e48bb5ee186d7c1906222e35dc",
   "description": {
     "en": "Chapter XVIII (Clasps and Ties Metal on Bindings) of Douglas Cockerell, Bookbinding and the Care of Books (1901)."
   },
@@ -23,7 +23,7 @@
       "slug": "catgut"
     },
     {
-      "hash": "sha256:098ad735cc7180423d88ba11e3b4a211d1f2fb3cef5d11945478738fd604186d",
+      "hash": "sha256:28f12c114d571026ecabaf6b25ddb3b82e4cd63727cd0fb0a2f58e10e4742af2",
       "kind": "technique",
       "record_class": "primitive",
       "role": "required",

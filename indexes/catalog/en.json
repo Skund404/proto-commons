@@ -1379,7 +1379,7 @@
       "descSnippet": "Smooth-grained hide of a young cow, traditionally common for covering. Cockerell records that modern vegetable-tanned calf had grown unreliable, often pared too thin and prone to becoming hard and…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:95e90e982cb41e2b33f2034556604a4e8c5611dab1be73cec9c47f7510362a5b",
+      "hash": "sha256:18dacb8bd359eaae23e06cf58997d997628cc09cf712d91b821a15c840dc9472",
       "path": "primitives/materials/calf.json",
       "lineageState": "unasserted"
     },
@@ -3862,7 +3862,7 @@
       "descSnippet": "Anchoring a metal clasp into the covers of a book. The flattened catch is set between the layers of a double board and glued, or its turned end is passed through a wooden board and riveted on the…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:098ad735cc7180423d88ba11e3b4a211d1f2fb3cef5d11945478738fd604186d",
+      "hash": "sha256:28f12c114d571026ecabaf6b25ddb3b82e4cd63727cd0fb0a2f58e10e4742af2",
       "path": "primitives/techniques/fitting-clasps.json",
       "lineageState": "unasserted"
     },
@@ -4550,7 +4550,7 @@
       "descSnippet": "Goat hide, marketed as morocco, prized as a covering skin for fine work because of its firm grain and toughness. It appears under several regional trade names, and Cockerell singles out a West…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:35036e3d027790b22188e463363de1d30f5b4eaab3f8556380fe91e50ebca8f9",
+      "hash": "sha256:2536dd1c72f1721b1196c8448848475f53acdb59fc7411661bca5164500354e5",
       "path": "primitives/materials/goatskin.json",
       "lineageState": "unasserted"
     },
@@ -7996,7 +7996,7 @@
       "descSnippet": "Pig hide, naturally strong and long-lasting, especially when alum dressed. Cockerell notes that undyed and white pigskin wears very well, while many dyed pigskins are spoiled by improper tanning, and…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:93fb21b40a943f5ba53a489c34f13c028c3e332633a0047cc661ee8ee21ca872",
+      "hash": "sha256:9f36d9a426d7e12746f41b6e9fb732e3c26930499286039d231dea8f2395876c",
       "path": "primitives/materials/pigskin.json",
       "lineageState": "unasserted"
     },
@@ -9575,7 +9575,7 @@
       "descSnippet": "Sheep hide, sold under names such as roan, basil, and skiver. Properly tanned it is durable though soft and woolly, but much commercial stock is poor and artificially grained to imitate costlier…",
       "forks": 0,
       "updated": "2026-06-24",
-      "hash": "sha256:2f46fc3fec5a2b5596035678b5dda871322bfa9ad7eeb15d5bc62408884633a4",
+      "hash": "sha256:7ae916e88f34b2c78c5f56a534d0a54f78e0196329515a2775e6e8b493a39c36",
       "path": "primitives/materials/sheepskin.json",
       "lineageState": "unasserted"
     },

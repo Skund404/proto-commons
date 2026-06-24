@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:95e90e982cb41e2b33f2034556604a4e8c5611dab1be73cec9c47f7510362a5b",
+  "content_hash": "sha256:18dacb8bd359eaae23e06cf58997d997628cc09cf712d91b821a15c840dc9472",
   "created": "2026-06-24",
   "description": "Smooth-grained hide of a young cow, traditionally common for covering. Cockerell records that modern vegetable-tanned calf had grown unreliable, often pared too thin and prone to becoming hard and brittle, and he advised against its use until tanning practice improved.",
   "emitter": "opg://commons-seed",
@@ -14,8 +14,16 @@
   "opgl_version": "0.6",
   "persistent": false,
   "properties": {
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$329/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
     "materialType": "leather",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$329/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "calf-plate2"
+      }
+    ],
     "names": {
       "en": [
         "calf",

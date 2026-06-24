@@ -4371,7 +4371,7 @@
             "worked round the catch"
           ],
           "primitive": {
-            "hash": "sha256:098ad735cc7180423d88ba11e3b4a211d1f2fb3cef5d11945478738fd604186d",
+            "hash": "sha256:28f12c114d571026ecabaf6b25ddb3b82e4cd63727cd0fb0a2f58e10e4742af2",
             "kind": "technique",
             "path": "primitives/techniques/fitting-clasps.json",
             "slug": "fitting-clasps"
@@ -4496,7 +4496,7 @@
             "Russia leather"
           ],
           "primitive": {
-            "hash": "sha256:95e90e982cb41e2b33f2034556604a4e8c5611dab1be73cec9c47f7510362a5b",
+            "hash": "sha256:18dacb8bd359eaae23e06cf58997d997628cc09cf712d91b821a15c840dc9472",
             "kind": "material",
             "path": "primitives/materials/calf.json",
             "slug": "calf"
@@ -4511,7 +4511,7 @@
             "red morocco"
           ],
           "primitive": {
-            "hash": "sha256:35036e3d027790b22188e463363de1d30f5b4eaab3f8556380fe91e50ebca8f9",
+            "hash": "sha256:2536dd1c72f1721b1196c8448848475f53acdb59fc7411661bca5164500354e5",
             "kind": "material",
             "path": "primitives/materials/goatskin.json",
             "slug": "goatskin"
@@ -4526,7 +4526,7 @@
             "sheepskin bindings"
           ],
           "primitive": {
-            "hash": "sha256:2f46fc3fec5a2b5596035678b5dda871322bfa9ad7eeb15d5bc62408884633a4",
+            "hash": "sha256:7ae916e88f34b2c78c5f56a534d0a54f78e0196329515a2775e6e8b493a39c36",
             "kind": "material",
             "path": "primitives/materials/sheepskin.json",
             "slug": "sheepskin"
@@ -4541,7 +4541,7 @@
             "white pigskin"
           ],
           "primitive": {
-            "hash": "sha256:93fb21b40a943f5ba53a489c34f13c028c3e332633a0047cc661ee8ee21ca872",
+            "hash": "sha256:9f36d9a426d7e12746f41b6e9fb732e3c26930499286039d231dea8f2395876c",
             "kind": "material",
             "path": "primitives/materials/pigskin.json",
             "slug": "pigskin"
@@ -4599,7 +4599,7 @@
             "Levant morocco"
           ],
           "primitive": {
-            "hash": "sha256:35036e3d027790b22188e463363de1d30f5b4eaab3f8556380fe91e50ebca8f9",
+            "hash": "sha256:2536dd1c72f1721b1196c8448848475f53acdb59fc7411661bca5164500354e5",
             "kind": "material",
             "path": "primitives/materials/goatskin.json",
             "slug": "goatskin"
@@ -4614,7 +4614,7 @@
             "russia"
           ],
           "primitive": {
-            "hash": "sha256:95e90e982cb41e2b33f2034556604a4e8c5611dab1be73cec9c47f7510362a5b",
+            "hash": "sha256:18dacb8bd359eaae23e06cf58997d997628cc09cf712d91b821a15c840dc9472",
             "kind": "material",
             "path": "primitives/materials/calf.json",
             "slug": "calf"
@@ -4631,7 +4631,7 @@
             "skiver"
           ],
           "primitive": {
-            "hash": "sha256:2f46fc3fec5a2b5596035678b5dda871322bfa9ad7eeb15d5bc62408884633a4",
+            "hash": "sha256:7ae916e88f34b2c78c5f56a534d0a54f78e0196329515a2775e6e8b493a39c36",
             "kind": "material",
             "path": "primitives/materials/sheepskin.json",
             "slug": "sheepskin"
@@ -4645,7 +4645,7 @@
             "Pigskin"
           ],
           "primitive": {
-            "hash": "sha256:93fb21b40a943f5ba53a489c34f13c028c3e332633a0047cc661ee8ee21ca872",
+            "hash": "sha256:9f36d9a426d7e12746f41b6e9fb732e3c26930499286039d231dea8f2395876c",
             "kind": "material",
             "path": "primitives/materials/pigskin.json",
             "slug": "pigskin"

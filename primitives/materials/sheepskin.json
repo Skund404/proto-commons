@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:2f46fc3fec5a2b5596035678b5dda871322bfa9ad7eeb15d5bc62408884633a4",
+  "content_hash": "sha256:7ae916e88f34b2c78c5f56a534d0a54f78e0196329515a2775e6e8b493a39c36",
   "created": "2026-06-24",
   "description": "Sheep hide, sold under names such as roan, basil, and skiver. Properly tanned it is durable though soft and woolly, but much commercial stock is poor and artificially grained to imitate costlier skins, a practice Cockerell warns against.",
   "emitter": "opg://commons-seed",
@@ -14,8 +14,16 @@
   "opgl_version": "0.6",
   "persistent": false,
   "properties": {
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$331/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
     "materialType": "leather",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$331/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "sheepskin-plate3"
+      }
+    ],
     "names": {
       "en": [
         "sheepskin"

@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:93fb21b40a943f5ba53a489c34f13c028c3e332633a0047cc661ee8ee21ca872",
+  "content_hash": "sha256:9f36d9a426d7e12746f41b6e9fb732e3c26930499286039d231dea8f2395876c",
   "created": "2026-06-24",
   "description": "Pig hide, naturally strong and long-lasting, especially when alum dressed. Cockerell notes that undyed and white pigskin wears very well, while many dyed pigskins are spoiled by improper tanning, and that its hardness can limit it on flexible work.",
   "emitter": "opg://commons-seed",
@@ -14,8 +14,16 @@
   "opgl_version": "0.6",
   "persistent": false,
   "properties": {
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$327/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
     "materialType": "leather",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$327/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "pigskin-plate1"
+      }
+    ],
     "names": {
       "en": [
         "pigskin"

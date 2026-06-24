@@ -1,5 +1,5 @@
 {
-  "content_hash": "sha256:098ad735cc7180423d88ba11e3b4a211d1f2fb3cef5d11945478738fd604186d",
+  "content_hash": "sha256:28f12c114d571026ecabaf6b25ddb3b82e4cd63727cd0fb0a2f58e10e4742af2",
   "created": "2026-06-24",
   "description": "Anchoring a metal clasp into the covers of a book. The flattened catch is set between the layers of a double board and glued, or its turned end is passed through a wooden board and riveted on the inside; during covering the leather is pierced and worked snugly around the projecting catch.",
   "emitter": "opg://commons-seed",
@@ -14,7 +14,15 @@
   "opgl_version": "0.6",
   "persistent": false,
   "properties": {
+    "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$10/full/full/0/default.jpg",
     "license": "CC-BY-4.0",
+    "mediaItems": [
+      {
+        "imageUrl": "https://iiif.archive.org/iiif/bookbindingcareo00cockrich$10/full/full/0/default.jpg",
+        "isThumbnail": true,
+        "slug": "fitting-clasps-frontispiece"
+      }
+    ],
     "names": {
       "en": [
         "fitting clasps",
